@@ -1,0 +1,93 @@
+project:
+  name: "Julie O'Donnell Series"
+  repository: "dustinober1/Julie-O-Donnell-Series"
+  default_branch: "main"
+  status: "initial reverse-engineered scaffold"
+  source_basis:
+    - "Recovered ChatGPT project context about Julie O'Donnell"
+    - "Current conversation notes"
+    - "Gemini share link provided but not machine-readable in this environment"
+  last_scaffold_update: "2026-07-08"
+
+series:
+  working_title: "Julie O'Donnell Series"
+  genre_lane:
+    primary: "contemporary intelligence thriller"
+    secondary:
+      - "military techno-thriller"
+      - "political thriller"
+      - "AI governance / algorithmic escalation thriller"
+  reader_promise: >-
+    A grounded, high-stakes thriller about a damaged but highly competent former Army intelligence officer who sees the flaw inside automated national-security systems before anyone in power is willing to admit it.
+  commercial_comps_to_research:
+    - "Jack Ryan / geopolitical escalation structure"
+    - "Jason Bourne / damaged competent outsider energy"
+    - "Homeland / intelligence pressure and institutional distrust"
+    - "near-future AI thriller / algorithmic warfare angle"
+  tone:
+    - "grounded"
+    - "tense"
+    - "morally pressured"
+    - "procedural but readable"
+    - "not cyberpunk"
+    - "not cartoonishly anti-technology"
+
+protagonist:
+  name: "Julie O'Donnell"
+  public_role: "former U.S. Army Captain"
+  prior_role: "Army intelligence officer"
+  present_home_base: "Culpeper, Virginia"
+  defining_wound: >-
+    Six years earlier, at a forward operating base near the Pakistan border, Julie detected that an AI-enabled SIGINT/targeting confidence pattern was too perfect and likely engineered. Command pressure overrode her warning, trapping her inside a corrupted system failure that ended her Army career.
+  current_mask: >-
+    She lives on a farmhouse property, handles fence work and horses, and tries to stay away from government systems.
+  core_strengths:
+    - "pattern recognition"
+    - "signals-intelligence skepticism"
+    - "moral courage under command pressure"
+    - "operational literacy"
+    - "ability to see how people hide inside systems"
+  core_flaws:
+    - "institutional distrust"
+    - "trauma from being right too late"
+    - "tendency to isolate"
+    - "anger when bureaucrats protect systems over people"
+
+book_001:
+  working_title: "Untitled Julie O'Donnell Book 1"
+  status: "relaunch planning"
+  opening_anchor: "Prologue: Six Years Ago — Forward Operating Base near the Pakistan border"
+  present_day_problem: >-
+    Julie is pulled back toward a new Argus/Apex Defense system failure when an enterprise warning platform may wrongly classify a Pakistan-linked incident as state-sponsored, risking escalation toward India.
+  current_draft_assumption: >-
+    Use the prologue as the moral wound and Book 1 present-day crisis as the proof that the same family of institutional failure has scaled up.
+  must_preserve:
+    - "Julie is competent, not merely traumatized."
+    - "The AI system is dangerous because incentives, data, contractors, and command culture interact badly."
+    - "The threat must have human accountability, not magic AI villainy."
+    - "Julie should be pressured back in, not casually volunteer."
+    - "The opening must establish both personal damage and geopolitical stakes quickly."
+
+technology_canon:
+  contractor: "Apex Defense"
+  system_family: "ARGUS / Argus"
+  prologue_variant: "Argus Beta"
+  present_enterprise_variant: "ARGUS-ENT-4.6"
+  possible_module_or_nickname: "RoboWarning"
+  naming_rule: >-
+    Treat ARGUS as the platform family, Argus Beta as the older field-grade/FOB variant, ARGUS-ENT-4.6 as the present enterprise system, and RoboWarning as either a nickname or warning-classification module until a later canon pass decides otherwise.
+
+canon_status:
+  locked: []
+  provisional:
+    - "Culpeper farmhouse/horse/fence-work life"
+    - "FOB near Pakistan border prologue"
+    - "Argus/Apex system family"
+    - "present-day Pakistan/India escalation risk"
+    - "Julie access reduced to supervised sandbox when pulled back in"
+  unresolved:
+    - "Book 1 final title"
+    - "full supporting cast"
+    - "final antagonist identity and motive"
+    - "agency chain: DoD / intelligence community / contractor / political office"
+    - "whether Vance is an agency, contractor, or political figure"
