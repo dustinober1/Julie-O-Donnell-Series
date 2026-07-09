@@ -114,12 +114,12 @@ The hearing should be adversarial, revealing, and emotionally damaging. It shoul
 
 ## Provisional chapter-count target
 
-For a commercial thriller, use a fast structure:
+For a full commercial thriller, use a substantial but fast-moving structure:
 
-- **Target chapters:** 40–55
-- **Average chapter length:** 1,800–2,700 words
-- **Total target length:** 85,000–100,000 words
-- **Scene style:** short, pressure-driven, with chapter-end propulsion
+- **Target chapters:** 45–60
+- **Average chapter length:** 2,200–3,000 words, with shorter high-pressure chapters as needed
+- **Total target length:** 100,000–125,000 words
+- **Scene style:** short-to-medium, pressure-driven, with chapter-end propulsion
 
 ## Immediate next craft task
 
