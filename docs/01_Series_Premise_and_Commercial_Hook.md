@@ -18,15 +18,18 @@ She was right enough to become dangerous and isolated enough to be disposable.
 
 Six years later, Julie is living in Culpeper, Virginia, repairing fences, working around horses, and trying to stay away from the machinery that broke her. But the Argus/Apex system family has not gone away. It has scaled up. It now sits inside enterprise warning, attribution, and escalation workflows where a false classification can move from dashboard to policy to kinetic response before anyone owns the decision.
 
-When a present-day crisis threatens to classify a Pakistan-linked incident as state-sponsored and point blame toward India, Julie is pulled back in under controlled access. She is given a sandbox, not trust. The same habits that got her pushed out may be the only thing standing between a corrupted confidence score and a regional war.
+ARGUS has also become more than software. It is a defense contract, a budget line, a committee talking point, and a donor ecosystem. The same company selling the program has money moving through campaign donations, political action committees, consulting relationships, and post-government career promises that reach into the Senate and congressional offices responsible for questioning it. By the time Julie is pulled back toward the system, admitting that ARGUS can be manipulated would not just embarrass a contractor. It would threaten appropriations, careers, hearings, and politicians who have sold the software as proof that America can automate certainty.
+
+When a present-day crisis threatens to classify a Pakistan-linked incident as state-sponsored and point blame toward India, an old colleague who still wants to believe Julie helps pull her back in under controlled access. She is given a sandbox, not trust. The same habits that got her pushed out may be the only thing standing between a corrupted confidence score and a regional war—but every question she asks now threatens contracts, campaigns, and powerful people who need the machine to be right.
 
 ## Commercial hook
 
-The marketable hook is the collision of three reader anxieties:
+The marketable hook is the collision of four reader anxieties:
 
 1. **AI certainty:** systems that sound authoritative while hiding bad data and human incentives.
 2. **Geopolitical escalation:** a misclassification that can move governments toward war.
 3. **Institutional betrayal:** the expert who was punished for being right is needed again, but still not trusted.
+4. **Political capture:** defense software protected by donations, committees, procurement politics, and officials who cannot afford for the system to be exposed as vulnerable.
 
 ## Reader-facing promise
 
