@@ -56,6 +56,9 @@ protagonist:
 book_001:
   working_title: "Untitled Julie O'Donnell Book 1"
   status: "relaunch planning"
+  target_word_count: "100,000-125,000 words"
+  target_chapter_count: "45-60 chapters"
+  target_average_chapter_length: "2,200-3,000 words, with shorter high-pressure chapters as needed"
   opening_anchor: "Prologue: Six Years Ago — Forward Operating Base near the Pakistan border"
   present_day_problem: >-
     Julie is pulled back toward a new Argus/Apex Defense system failure when an enterprise warning platform may wrongly classify a Pakistan-linked incident as state-sponsored, risking escalation toward India.
