@@ -96,6 +96,67 @@ Possible present-day failure modes:
 4. **Evidence laundering:** human actors feed the system selected data so the model produces a politically useful conclusion.
 5. **Audit obstruction:** contradictory evidence exists but is outside Julie's supervised sandbox.
 
+## Current Book 1 mechanism
+
+Book 1's present-day mechanism is provisional but usable for drafting. It should be treated as the active working model unless a later canon pass deliberately changes it.
+
+### Present-day incident
+
+The present crisis begins with an attack on a joint logistics convoy near the Line of Control. The attack is real, but the attribution path is contaminated. ARGUS-ENT-4.6 / RoboWarning begins classifying the event as Pakistan-linked state sponsorship with implications for Indian escalation.
+
+### Continuity premium
+
+Continuity premium is an internal scoring behavior or scoring label that rewards signals that continue an expected pattern. In story terms, it lets ARGUS treat a source trail that looks consistent as more trustworthy, even when the consistency itself may be engineered.
+
+Continuity premium is dangerous because:
+
+- it can reward neatness rather than suspicion;
+- it can make repeated contaminated signals look like strengthening evidence;
+- it may be a renamed or inherited version of an Argus Beta-era failure mode that should have been disabled after the FOB incident.
+
+### Vendor-enriched provenance
+
+A third-party vendor or data broker can enrich raw or semi-raw intelligence with source-provenance labels, regional context, routing metadata, or confidence-supporting attributes before ARGUS-ENT-4.6 presents the material to government users.
+
+This creates risk because analysts may see the result as multi-source validation when the apparent corroboration depends on one enriched provenance package.
+
+### Normalization hiding self-corroboration
+
+ARGUS-ENT-4.6 normalizes vendor-enriched data before the government-facing view. Normalization makes feeds comparable and readable, but in Book 1 it also hides whether two apparently independent signals share the same enriched provenance source.
+
+The key vulnerability: ARGUS-ENT-4.6 may be unable, under specific enrichment-loop conditions, to distinguish independent corroboration from vendor-enriched self-corroboration after normalization.
+
+### Whitelisted integration endpoint
+
+Calder's vendor package enters through a whitelisted Apex integration endpoint. This is not omnipotent hacking. The endpoint is an approved channel or exception that allows properly formatted provenance data into the trusted workflow.
+
+The dramatic value is accountability: someone approved the exception, and the approval can be traced through institutional process rather than explained as magic intrusion.
+
+### Vendor relay and log purge
+
+The contaminated packets move through a live vendor relay. A purge schedule threatens to erase logs after seeded confirmations, making preservation authority a race against both technical cleanup and political delay.
+
+The purge should be used for pressure, not techno-mystery. The important facts are:
+
+- seeded confirmations arrive through the relay;
+- confidence jumps correlate with relay activity;
+- purge timing suggests deliberate cleanup;
+- preserving logs requires human authorization and Apex cooperation.
+
+### Confidence collapse
+
+In the final-act proof sequence, isolating the vendor relay and contaminated enriched packets causes the ARGUS/RoboWarning state-sponsorship confidence to fall below action threshold. The system does not confess or fail theatrically. It becomes uncertain again once self-corroborating evidence is removed.
+
+The independent truth remains more complicated: the convoy attack is real, but ARGUS has not proven the state-directed attribution path officials were preparing to act on.
+
+### Reader-legible explanation
+
+Use this simple explanation when drafting:
+
+> ARGUS is not finding a second source. It is finding the first source wearing a second label.
+
+Do not over-explain the mechanics. The story pressure comes from who trusted the output, who stripped caveats, who approved the endpoint, and who benefits from acting before the uncertainty is visible.
+
 ## Human antagonist options
 
 ### Exploiter

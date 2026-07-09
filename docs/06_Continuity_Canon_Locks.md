@@ -46,6 +46,25 @@ If prose contradicts canon docs, flag the contradiction before editing.
 - Julie is not fully trusted when she is brought back in.
 - Her access may be restricted to a supervised sandbox.
 
+### Book 1 structural locks
+
+- Act I includes a classified oversight/hearing sequence that reframes Julie's Argus Beta warning as officer hesitation rather than ARGUS failure.
+- Mara Keene is the old colleague/access controller who wants to believe Julie and brings her back under supervised conditions.
+- Book 1 uses an attack on a joint logistics convoy near the Line of Control as the provisional present-day incident.
+- Chapter 49 mirrors Chapter 1 by forcing a corrected second record: the original hearing record is amended with Julie's timestamp warning and the suppressed Argus Beta technical note.
+- The antagonist path is human exploitation of trusted data/provenance channels, not sentient AI.
+- Reed Calder has an old Argus Beta field-trial connection and a present-day data-broker role that links the prologue failure class to the ARGUS-ENT-4.6 crisis.
+- Hargrove returns in Act III as a complicated witness who can connect prologue command pressure to Calder's old field-trial orbit.
+
+### Book 1 mechanism locks
+
+- Continuity premium is the working label for a scoring behavior that rewards signals continuing an expected pattern.
+- Vendor-enriched provenance is the contaminated pathway that makes one source look like multiple corroborating sources.
+- ARGUS-ENT-4.6 normalization can hide vendor-enriched self-corroboration from the government-facing view.
+- Calder's package enters through a whitelisted integration endpoint rather than omnipotent hacking.
+- Vendor relay logs and purge timing become part of the final proof chain.
+- Isolating contaminated packets causes the state-sponsorship confidence to collapse below action threshold while preserving the fact that the original convoy attack was real.
+
 ### System naming
 
 - Apex Defense is the contractor name currently in use.
@@ -79,6 +98,8 @@ Julie should demonstrate competence through:
 ## Villain / antagonist locks
 
 Until changed, do not make the AI itself the mastermind. Use human antagonists, institutional incentives, political pressure, and contractor self-protection.
+
+For Book 1, the primary human exploiter is Reed Calder. The containment/political pressure path runs through Vance and the institutions protecting ARGUS credibility. Apex pressure is represented through Dr. Selene Cho and the larger contractor self-protection system; Cho should remain conflicted rather than a mustache-twirling villain.
 
 A strong antagonist may:
 
@@ -116,13 +137,29 @@ Before any chapter draft is accepted, check:
 These are usable for planning but should be confirmed or replaced with recovered source material:
 
 - Vance's exact role.
-- The lead analyst's name and future use.
-- Whether Hargrove appears beyond the prologue.
+- Vance's exact government title.
+- Mara Keene's exact agency placement and prior relationship details with Julie.
+- Evan Rusk's exact prologue title and how visibly he appears in the prologue draft.
+- Dr. Selene Cho's exact Apex title.
+- Reed Calder's exact old contractor/field-trial title.
 - Exact present-day agency chain.
 - Exact Book 1 title.
-- Exact inciting incident.
-- Exact antagonist identity.
 - Whether RoboWarning is a module, nickname, or program wrapper.
+
+## Outline-introduced element classifications
+
+These elements are promoted from outline-only planning into provisional but usable Book 1 canon:
+
+- Mara Keene: provisional old colleague and access controller.
+- Evan Rusk: provisional former lead analyst/internal skeptic.
+- Vance: provisional political containment figure; exact title unresolved.
+- Dr. Selene Cho: provisional Apex Defense executive/technical face.
+- Reed Calder: provisional primary human exploiter/data broker with old Argus Beta field-trial connection.
+- Hargrove's Act III witness role: provisional but structurally locked for Book 1.
+- Continuity premium: provisional working term for the inherited scoring behavior.
+- Vendor-enriched self-corroboration: provisional core technical mechanism.
+- Reed Calder's old Argus Beta field-trial connection: provisional but structurally necessary for the current outline.
+- Chapter 49 corrected second record: structural lock mirroring the Act I hearing wound.
 
 ## Change-control rule
 

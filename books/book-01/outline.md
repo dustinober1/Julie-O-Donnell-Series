@@ -2,7 +2,7 @@
 
 ## Status
 
-Expanded commercial thriller outline for drafting preparation. This outline preserves existing canon and introduces provisional plot mechanics, supporting roles, and chapter turns for Book 1. Names and titles introduced here are planning handles until promoted into canon through the control docs.
+Expanded commercial thriller outline for drafting preparation. This outline preserves existing canon and uses provisional but control-doc-integrated plot mechanics, supporting roles, and chapter turns for Book 1. Names and exact titles remain provisional unless locked in `PROJECT_STATE.yaml` or `docs/06_Continuity_Canon_Locks.md`.
 
 ## Working title
 
@@ -16,7 +16,8 @@ Julie O'Donnell, a former Army intelligence captain ruined after warning that an
 
 - Target length: 100,000-125,000 words.
 - Target chapters: Prologue plus 50 numbered chapters.
-- Average chapter length: 2,000-2,700 words, with shorter high-pressure chapters in Act IV.
+- Average chapter length: 2,000-2,400 words, with the prologue at 1,800-2,300 words and shorter high-pressure chapters in Act IV.
+- Drafting budget: keep most chapters under 2,500 words; only Chapters 1, 23, 37, 46, and 49 should be allowed to run longer if the scene earns it.
 - Primary POV: Julie O'Donnell.
 - Cutaway POVs: contractor/government/political/antagonist only when they increase pressure or dramatic irony.
 - Provisional present-day incident: an attack on a joint logistics convoy near the Line of Control produces ambiguous signals that ARGUS-ENT-4.6 / RoboWarning classifies as Pakistan-linked state sponsorship with Indian escalation implications.
@@ -736,7 +737,17 @@ Julie O'Donnell, a former Army intelligence captain ruined after warning that an
 ## Drafting Notes
 
 - Do not draft from this outline without first creating chapter-specific blueprints.
-- Treat supporting names and titles as provisional planning choices until promoted into `PROJECT_STATE.yaml` and `docs/06_Continuity_Canon_Locks.md`.
+- Treat supporting names and exact titles as provisional unless locked in `PROJECT_STATE.yaml` or `docs/06_Continuity_Canon_Locks.md`; current role functions are integrated in the control docs.
 - Keep Julie active: every Julie POV chapter should include a specific observation, choice, or pressure move.
 - Keep the system grounded: no sentient AI, no omnipotent hacking, no one-click proof.
 - Preserve the emotional mirror: Chapter 1 creates the official lie; Chapter 49 forces a second record.
+
+## Readiness Audit Notes
+
+- No canon conflicts found against the current control docs after integration.
+- Pacing risk: Chapters 22-23 could become static technical explanation if drafted as a motel-room lecture. Blueprint them with active stakes, interruptions, and a concrete choice by Julie.
+- Pacing risk: Chapters 37-40 carry several proof-sequence beats in close succession. Blueprint each with a distinct pressure turn: personal confrontation, live test, policy resistance, Apex admission.
+- Motivation risk: Calder's motive must stay practical and incentive-based. Do not make him ideological or omniscient; foreground contract value, client pressure, and deniability.
+- Political-capture risk: Vance chapters must show appropriations, oversight optics, donor/contractor pressure, and career protection through action, not speeches.
+- Emotional-continuity risk: Chapter 49 should correct the record without fully healing Julie. The win should feel partial, costly, and destabilizing.
+- Thin-chapter watchlist: Chapter 24, Chapter 26, Chapter 42, and Chapter 48 are cutaway chapters that must deliver dramatic irony or pressure. If a blueprint cannot give each a concrete turn, combine or compress during drafting.
