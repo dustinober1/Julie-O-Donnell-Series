@@ -8,7 +8,7 @@ A grounded intelligence / military techno-thriller series about a former Army in
 
 ## One-sentence premise
 
-Former Army Captain Julie O'Donnell once warned command that an AI-enabled targeting system was swallowing engineered data; six years later, the same kind of automated certainty is embedded deeper in national security, and Julie is the one person no one wants to believe until the system starts steering the world toward war.
+Former Army Captain Julie O'Donnell once warned command that an AI-enabled targeting system was swallowing engineered data; six years later, an old colleague who wants to believe her pulls her toward a national-security system built on the same automated certainty—one that may now be steering the world toward war.
 
 ## Expanded premise
 
