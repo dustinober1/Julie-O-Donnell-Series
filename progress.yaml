@@ -1,6 +1,6 @@
 project: "Julie O'Donnell Series"
 last_updated: "2026-07-08"
-current_phase: "OpenCode workflow and series-bible scaffold"
+current_phase: "OpenCode workflow and series-bible scaffold complete / review pending"
 production_hold: true
 
 repository:
@@ -8,30 +8,41 @@ repository:
   default_branch: "main"
   write_scope_confirmed: true
 
+scaffold_status:
+  opencode_skills: "created"
+  opencode_commands: "created"
+  series_bible: "created"
+  references: "created"
+  templates: "created"
+  book_001_scaffold: "created"
+  future_book_placeholders: "created for books 2-4"
+  production_controls: "created / hold active"
+  marketing_scaffold: "created"
+  archive_folders: "created"
+
 active_priorities:
-  - "Build Julie-specific OpenCode skills"
-  - "Build Julie-specific slash commands"
-  - "Build durable series-bible files"
-  - "Build templates and references"
-  - "Build per-book scaffolds"
-  - "Do not start new manuscript production until scaffold is complete and reviewed"
+  - "Review Julie-specific OpenCode skills"
+  - "Review Julie-specific slash commands"
+  - "Confirm series-bible canon"
+  - "Resolve Book 1 open decisions before drafting"
+  - "Do not start new manuscript production until scaffold is reviewed"
 
 book_status:
   book_001:
     title: "Untitled Julie O'Donnell Book 1"
-    status: "outline expanded / awaiting chapter blueprinting"
+    status: "outline expanded / scaffolded / awaiting prologue context and blueprint"
     production_allowed: false
   book_002:
     title: "TBD"
-    status: "series placeholder"
+    status: "series placeholder scaffolded"
     production_allowed: false
   book_003:
     title: "TBD"
-    status: "series placeholder"
+    status: "series placeholder scaffolded"
     production_allowed: false
   book_004:
     title: "TBD"
-    status: "series placeholder"
+    status: "series placeholder scaffolded"
     production_allowed: false
 
 quality_gates:
@@ -42,4 +53,4 @@ quality_gates:
   publication_pass_required_before_export: true
   canon_update_requires_explicit_command: true
 
-next_recommended_action: "Review .opencode/skills and .opencode/commands once scaffold is complete."
+next_recommended_action: "Review .opencode/skills and .opencode/commands, then run /julie-series-status."
