@@ -1,0 +1,45 @@
+project: "Julie O'Donnell Series"
+last_updated: "2026-07-08"
+current_phase: "OpenCode workflow and series-bible scaffold"
+production_hold: true
+
+repository:
+  verified_full_name: "dustinober1/Julie-O-Donnell-Series"
+  default_branch: "main"
+  write_scope_confirmed: true
+
+active_priorities:
+  - "Build Julie-specific OpenCode skills"
+  - "Build Julie-specific slash commands"
+  - "Build durable series-bible files"
+  - "Build templates and references"
+  - "Build per-book scaffolds"
+  - "Do not start new manuscript production until scaffold is complete and reviewed"
+
+book_status:
+  book_001:
+    title: "Untitled Julie O'Donnell Book 1"
+    status: "outline expanded / awaiting chapter blueprinting"
+    production_allowed: false
+  book_002:
+    title: "TBD"
+    status: "series placeholder"
+    production_allowed: false
+  book_003:
+    title: "TBD"
+    status: "series placeholder"
+    production_allowed: false
+  book_004:
+    title: "TBD"
+    status: "series placeholder"
+    production_allowed: false
+
+quality_gates:
+  repo_verify_required: true
+  canon_check_required: true
+  ai_plausibility_check_required: true
+  continuity_pass_required: true
+  publication_pass_required_before_export: true
+  canon_update_requires_explicit_command: true
+
+next_recommended_action: "Review .opencode/skills and .opencode/commands once scaffold is complete."
