@@ -24,14 +24,9 @@ The present-day enterprise version. This is the scaled-up system or deployment t
 
 ### RoboWarning
 
-Provisional term. Treat as one of the following until finalized:
+For Book 1, **RoboWarning** is the warning-classification module inside ARGUS-ENT-4.6. It is the part of the system that converts ambiguous intelligence into confidence-weighted warning language, state-sponsorship classification, response-window pressure, and senior-leader briefing language.
 
-- a warning-classification module inside ARGUS-ENT-4.6;
-- an internal nickname used by operators;
-- a program wrapper used by government stakeholders;
-- a public/political shorthand.
-
-Do not use all four meanings at once. Choose one in a later canon pass.
+Use RoboWarning consistently as a module, not as a separate company, standalone AI, public nickname, or unrelated program.
 
 ### Apex Defense
 
@@ -98,7 +93,7 @@ Possible present-day failure modes:
 
 ## Current Book 1 mechanism
 
-Book 1's present-day mechanism is provisional but usable for drafting. It should be treated as the active working model unless a later canon pass deliberately changes it.
+Book 1's present-day mechanism is the active working model for drafting unless a later canon pass deliberately changes it.
 
 ### Present-day incident
 
