@@ -2,11 +2,12 @@ project:
   name: "Julie O'Donnell Series"
   repository: "dustinober1/Julie-O-Donnell-Series"
   default_branch: "main"
-  status: "initial reverse-engineered scaffold"
+  status: "Book 1 outline expanded / ready for chapter blueprinting"
   source_basis:
     - "Recovered ChatGPT project context about Julie O'Donnell"
     - "Current conversation notes"
     - "Gemini share link provided but not machine-readable in this environment"
+    - "Expanded Book 1 outline pushed to GitHub and reviewed"
   last_scaffold_update: "2026-07-08"
 
 series:
@@ -38,7 +39,7 @@ protagonist:
   prior_role: "Army intelligence officer"
   present_home_base: "Culpeper, Virginia"
   defining_wound: >-
-    Six years earlier, at a forward operating base near the Pakistan border, Julie detected that an AI-enabled SIGINT/targeting confidence pattern was too perfect and likely engineered. Command pressure overrode her warning, trapping her inside a corrupted system failure that ended her Army career.
+    Six years earlier, at a forward operating base near the Pakistan border, Julie detected that an AI-enabled SIGINT/targeting confidence pattern was too perfect and likely engineered. Command pressure overrode her warning, trapping her inside a corrupted system failure that ended her Army career. The later oversight/hearing process reframed her warning as officer hesitation rather than program vulnerability.
   current_mask: >-
     She lives on a farmhouse property, handles fence work and horses, and tries to stay away from government systems.
   core_strengths:
@@ -55,15 +56,37 @@ protagonist:
 
 book_001:
   working_title: "Untitled Julie O'Donnell Book 1"
-  status: "relaunch planning"
+  status: "outline expanded / ready for Prologue and Chapter 1 blueprints"
   target_word_count: "100,000-125,000 words"
-  target_chapter_count: "45-60 chapters"
-  target_average_chapter_length: "2,200-3,000 words, with shorter high-pressure chapters as needed"
+  target_chapter_count: "Prologue plus 50 numbered chapters"
+  target_average_chapter_length: "Most chapters 2,100-2,400 words; tentpole chapters may run 2,700-3,000 words"
   opening_anchor: "Prologue: Six Years Ago — Forward Operating Base near the Pakistan border"
+  present_day_incident: >-
+    A real attack on a joint logistics convoy near the Line of Control creates an ambiguous regional crisis. ARGUS-ENT-4.6 / RoboWarning begins classifying the event as Pakistan-linked state sponsorship with implications for Indian escalation.
   present_day_problem: >-
-    Julie is pulled back toward a new Argus/Apex Defense system failure when an enterprise warning platform may wrongly classify a Pakistan-linked incident as state-sponsored, risking escalation toward India.
+    Julie is pulled back toward a new Argus/Apex Defense system failure when an enterprise warning platform may wrongly classify the convoy attack as state-sponsored, risking escalation toward India.
   current_draft_assumption: >-
-    Use the prologue as the moral wound and Book 1 present-day crisis as the proof that the same family of institutional failure has scaled up.
+    Use the prologue as the moral wound, the Act I hearing as the official-cover-story wound, and the Book 1 present-day crisis as proof that the same family of institutional failure has scaled up.
+  key_roles:
+    mara_keene: "Old colleague and current government access controller who wants to believe Julie but initially keeps her contained."
+    evan_rusk: "Former prologue-era lead analyst/internal skeptic who connects the old Argus Beta failure to the present mechanism."
+    vance: "Political containment figure tied to oversight optics, appropriations pressure, and ARGUS reputation management; exact title unresolved."
+    dr_selene_cho: "Apex Defense executive/technical face who defends ARGUS while privately recognizing the vulnerability may be real."
+    reed_calder: "Primary human exploiter/data broker with an old Argus Beta field-trial connection and a present-day vendor-provenance role."
+    hargrove: "Prologue command-pressure figure who returns in Act III as a complicated witness."
+  structural_locks:
+    - "Prologue shows Julie identifying engineered neatness in Argus Beta under command pressure."
+    - "Act I hearing reframes Julie's warning as officer hesitation rather than ARGUS failure."
+    - "Mara Keene is the old colleague who pulls Julie back in under supervised conditions."
+    - "Chapter 49 mirrors Chapter 1 by forcing a corrected second record."
+    - "The immediate crisis is resolved by restoring uncertainty and pausing action, not by proving the world is safe."
+  core_mechanism:
+    - "continuity premium"
+    - "vendor-enriched provenance"
+    - "normalization hiding self-corroboration"
+    - "whitelisted integration endpoint"
+    - "vendor relay/log purge"
+    - "confidence collapse after contaminated packets are isolated"
   must_preserve:
     - "Julie is competent, not merely traumatized."
     - "The AI system is dangerous because incentives, data, contractors, and command culture interact badly."
@@ -76,21 +99,29 @@ technology_canon:
   system_family: "ARGUS / Argus"
   prologue_variant: "Argus Beta"
   present_enterprise_variant: "ARGUS-ENT-4.6"
-  possible_module_or_nickname: "RoboWarning"
+  warning_module: "RoboWarning"
   naming_rule: >-
-    Treat ARGUS as the platform family, Argus Beta as the older field-grade/FOB variant, ARGUS-ENT-4.6 as the present enterprise system, and RoboWarning as either a nickname or warning-classification module until a later canon pass decides otherwise.
+    Treat ARGUS as the platform family, Argus Beta as the older field-grade/FOB variant, ARGUS-ENT-4.6 as the present enterprise system, and RoboWarning as the warning-classification module inside ARGUS-ENT-4.6 for Book 1.
 
 canon_status:
-  locked: []
+  locked:
+    - "Julie O'Donnell is the protagonist and former U.S. Army Captain / Army intelligence officer."
+    - "The prologue occurs six years earlier at a FOB near the Pakistan border and involves Argus Beta."
+    - "Julie identified an engineered SIGINT/timestamp pattern under command pressure."
+    - "Act I includes a hearing/oversight sequence that reframes Julie's warning as officer hesitation."
+    - "ARGUS is not sentient; Book 1's antagonist path is human exploitation of trusted data/provenance channels."
   provisional:
     - "Culpeper farmhouse/horse/fence-work life"
-    - "FOB near Pakistan border prologue"
-    - "Argus/Apex system family"
-    - "present-day Pakistan/India escalation risk"
+    - "Apex Defense / ARGUS system family"
+    - "Present-day Line of Control convoy attack and Pakistan/India escalation risk"
     - "Julie access reduced to supervised sandbox when pulled back in"
+    - "Mara Keene, Evan Rusk, Vance, Dr. Selene Cho, Reed Calder, and Hargrove's Act III witness role"
+    - "Continuity premium and vendor-enriched self-corroboration as Book 1's technical mechanism"
   unresolved:
     - "Book 1 final title"
-    - "full supporting cast"
-    - "final antagonist identity and motive"
-    - "agency chain: DoD / intelligence community / contractor / political office"
-    - "whether Vance is an agency, contractor, or political figure"
+    - "Vance's exact government title"
+    - "Mara Keene's exact agency placement and prior relationship details with Julie"
+    - "Evan Rusk's exact prologue title"
+    - "Dr. Selene Cho's exact Apex title"
+    - "Reed Calder's exact old contractor/field-trial title"
+    - "Exact present-day agency chain"
