@@ -14,8 +14,9 @@ Julie O'Donnell, a former Army intelligence captain ruined after warning that an
 
 ## Target structure
 
-- Target length: 85,000–100,000 words.
-- Target chapters: 40–55.
+- Target length: 100,000–125,000 words.
+- Target chapters: 45–60.
+- Average chapter length: 2,200–3,000 words, with shorter high-pressure chapters as needed.
 - Primary POV: Julie O'Donnell.
 - Cutaway POVs: contractor/government/political/antagonist only when they increase pressure or dramatic irony.
 
