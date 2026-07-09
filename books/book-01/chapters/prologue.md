@@ -52,7 +52,7 @@ Thirty seconds offset. Two-minute spacing. Different streams behaving as if one 
 
 Julie checked the display refresh cache. No artifact. She checked whether Argus had batched the events before rendering them. It had not. She pulled the same streams from the previous four hours. Nothing else moved this way. Earlier traffic came in broken and crowded, late by odd amounts. Men with radios did not coordinate with server clocks. Cell towers did not politely corroborate acoustic pickups on schedule.
 
-"Pull source lineage on events seven through twelve," Julie said.
+"Pull source lineage on those six events," Julie said.
 
 The lieutenant turned. "Lineage?"
 
