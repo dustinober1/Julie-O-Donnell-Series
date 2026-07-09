@@ -154,10 +154,12 @@ A chapter is not ready if:
 
 ## Recommended chapter lengths
 
-- Prologue: 1,500–2,500 words.
-- Early chapters: 2,000–3,000 words.
-- Mid-book pressure chapters: 1,800–2,800 words.
-- Final-act chapters: 1,500–2,500 words with faster cuts.
+Book 1 targets **100,000–125,000 words** across **Prologue plus 50 numbered chapters**. Keep most chapters lean enough that the manuscript does not drift beyond the upper target.
+
+- Prologue: 1,800–2,500 words.
+- Standard chapters: 2,100–2,400 words.
+- Tentpole chapters: 2,700–3,000 words only when the chapter carries major structural weight, such as the prologue fallout, live contradiction, confidence collapse, or corrected-record hearing.
+- Final-act pressure chapters: 1,800–2,300 words unless a major proof/hearing sequence requires more space.
 
 ## Recommended POV strategy
 
