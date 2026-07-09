@@ -4,10 +4,11 @@
 
 | Chapter | Context | Blueprint | Draft | Revision | Continuity | AI-Tell Sweep | Canon Update | Status |
 |---|---|---|---|---|---|---|---|---|
-| Prologue | Not started | Placeholder | Placeholder | Not started | Not started | Not started | Not started | On hold |
-| 1 | Not started | Placeholder | Placeholder | Not started | Not started | Not started | Not started | On hold |
-| 2 | Not started | Placeholder | Placeholder | Not started | Not started | Not started | Not started | On hold |
-| 3 | Not started | Placeholder | Placeholder | Not started | Not started | Not started | Not started | On hold |
+| Prologue | Complete | Complete | Complete | Complete | Complete | Complete | Complete | Complete through canon update |
+| 1 | Complete | Complete | Complete | Not started | Not started | Not started | Not started | First draft complete; revision pending |
+| 2 | Not started | Placeholder | Placeholder | Not started | Not started | Not started | Not started | Not started |
+| 3 | Not started | Placeholder | Placeholder | Not started | Not started | Not started | Not started | Not started |
+| 4–50 | Not started | Not started | Not started | Not started | Not started | Not started | Not started | Not started |
 
 ## Rule
 
