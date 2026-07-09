@@ -30,7 +30,7 @@ Actionable, the interface said beneath the score.
 
 Someone two stations over exhaled like a man receiving good news.
 
-"Finally," he said.
+"Jesus. Finally," he said.
 
 Julie kept her eyes on the timestamps. "Don't say finally at an eighty-seven."
 
@@ -60,7 +60,7 @@ The lieutenant turned. "Lineage?"
 
 He looked at her screen, then at the clock above the map board. Two other people had already looked at that clock in the last minute. That was how pressure moved through a room before it became an order.
 
-"Captain, the package is already holding."
+"Captain, the package is already fucking holding."
 
 "The package can keep holding for a raw pull."
 
@@ -108,11 +108,11 @@ The lieutenant stared at the timestamps. For one second she saw him see it. The 
 
 "Corrected. The pattern survives correction."
 
-Another rotor thump rolled over the tent, heavy enough to shake dust from the light frame. Someone cursed at a jammed printer. The map officers stopped speaking and looked toward Julie's station.
+Another rotor thump rolled over the tent, heavy enough to shake dust from the light frame. Someone hissed, "Piece of shit," at a jammed printer. The map officers stopped speaking and looked toward Julie's station.
 
 Hargrove entered without raising his voice. He never needed to. Rooms made space for him before he asked.
 
-"Captain O'Donnell," he said. "Tell me why my target-validation score is green while my analyst is asking for a raw pull."
+"What the fuck is the holdup, O'Donnell?" he said. "My target-validation score is green and my analyst is asking for a raw pull."
 
 Julie stood because he outranked her and because sitting would make this look smaller than it was. "Because the green is the problem."
 
@@ -142,7 +142,7 @@ Julie looked at the lieutenant. He looked back once, then away.
 
 "Eight minutes for the first pull if access holds," she said. "Longer if support has to release the raw view."
 
-Someone at the map table muttered, "We don't have longer."
+Someone at the map table muttered, "We don't have that fucking long."
 
 Hargrove did not turn toward the voice. He kept Julie pinned with his attention. "Can you prove hostile manipulation before the window closes?"
 
@@ -168,7 +168,7 @@ His mouth tightened. "Careful."
 
 Julie heard the warning and stepped over it.
 
-"Sir, this is engineered. Maybe replayed metadata. Maybe curated pattern-of-life. I don't know which yet. But separate streams don't line up this cleanly under field conditions unless something upstream is making them line up. Argus is not finding more truth. It's getting more confident because the feed looks like the kind of truth it trusts."
+"Sir, this is fucking engineered. Maybe replayed metadata. Maybe curated pattern-of-life. I don't know which yet. But separate streams don't line up this cleanly under field conditions unless something upstream is making them line up. Argus is not finding more truth. It's getting more confident because the feed looks like the kind of truth it trusts."
 
 The lieutenant's fingers hovered over his keyboard. The raw pull window was open. He had not hit enter.
 
