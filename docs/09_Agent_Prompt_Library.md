@@ -56,11 +56,12 @@ First verify repo scope. Then read all control docs listed in README.md.
 
 Task:
 
-Expand books/book-01/outline.md into a complete commercial thriller outline of 40–55 chapters.
+Expand books/book-01/outline.md into a complete commercial thriller outline of 45–60 chapters targeting 100,000–125,000 words.
 
 Requirements:
 
 - Preserve the prologue: six years ago, FOB near Pakistan border, Julie as Captain, Argus Beta, engineered SIGINT/timestamp pattern, Hargrove command pressure.
+- Preserve the Act I hearing/cover-story wound: officials, oversight figures, and contractor-aligned voices attempt to reframe the disaster as Julie's officer hesitation instead of ARGUS failure.
 - Preserve present-day Julie in Culpeper, Virginia with farmhouse/horse/fence-work life.
 - Build the present-day crisis around ARGUS-ENT-4.6 / Apex Defense / RoboWarning and a potential Pakistan/India escalation risk.
 - Keep Julie competent, guarded, and active.
