@@ -18,6 +18,8 @@ The prologue material is strong because it immediately establishes:
 - Julie's warning that the data pattern is engineered;
 - the moral wound that can power the series.
 
+The Act I aftermath should also show how the institution survived the failure: through hearings, after-action framing, and political blame transfer that recast Julie's warning as officer hesitation rather than evidence of program vulnerability.
+
 ## Preserved opening anchor
 
 **Prologue setting:** Six years ago — Forward Operating Base near the Pakistan border.
@@ -41,18 +43,21 @@ Book 1 should be built as a return-of-the-wound thriller:
 ## Book 1 must deliver
 
 1. **A gripping prologue:** the FOB incident should be vivid, morally pressured, and clear enough that readers understand why Julie's life broke.
-2. **A grounded present-day life:** Culpeper, Virginia; farmhouse; fence work; horses; controlled avoidance of systems.
-3. **A credible summons:** Julie should not casually return. Someone or something must make her uniquely necessary.
-4. **A scaled-up threat:** the present system must threaten regional or global consequences, not just repeat the prologue.
-5. **Institutional containment:** Julie is needed but not trusted; her access is restricted, supervised, sandboxed, or politically managed.
-6. **Human accountability:** the system must not be a magic villain. Bad incentives, bad data, contractor pressure, political timelines, command fear, and career self-protection must interact.
-7. **A final proof sequence:** Julie must force a human decision point where no one can hide behind the model.
+2. **A hearing/cover-story wound:** the aftermath should show Senate, congressional, or intelligence oversight pressure rewriting the failure as officer hesitation rather than a program flaw.
+3. **A grounded present-day life:** Culpeper, Virginia; farmhouse; fence work; horses; controlled avoidance of systems.
+4. **A credible summons:** Julie should not casually return. Someone or something must make her uniquely necessary.
+5. **A scaled-up threat:** the present system must threaten regional or global consequences, not just repeat the prologue.
+6. **Institutional containment:** Julie is needed but not trusted; her access is restricted, supervised, sandboxed, or politically managed.
+7. **Human accountability:** the system must not be a magic villain. Bad incentives, bad data, contractor pressure, political timelines, command fear, and career self-protection must interact.
+8. **A final proof sequence:** Julie must force a human decision point where no one can hide behind the model.
 
 ## Likely Book 1 plot spine
 
 ### Act I — The woman they did not believe
 
 - Prologue shows Julie challenging Argus Beta in a live military situation.
+- The immediate aftermath moves into an intelligence, Senate, or congressional hearing where officials and contractor-aligned voices attempt to reframe the disaster as Julie's hesitation instead of ARGUS failure.
+- The public or classified record is shaped around a safer story: the program performed, command was decisive, and the human officer introduced doubt at the wrong moment.
 - Present Julie is off-grid-adjacent but not helpless: Culpeper property, horses, fence work, routines.
 - A new incident emerges involving ARGUS-ENT-4.6 / RoboWarning.
 - Someone from the old network or a new oversight channel recognizes the pattern resembles Julie's buried warning.
@@ -102,6 +107,10 @@ Use technical language sparingly and dramatically. Every technical point must cr
 ### Risk 5 — Losing the emotional throughline
 
 The book is about escalation and systems, but the reader bonds through Julie's wound: being right, being ignored, and being forced to decide whether to risk that again.
+
+### Risk 6 — Letting the hearing stall the thriller
+
+The hearing should be adversarial, revealing, and emotionally damaging. It should not become a static transcript. Its purpose is to show the cover story being created: the program worked, the officer hesitated, and the people who funded or protected ARGUS have a version they can sell.
 
 ## Provisional chapter-count target
 
