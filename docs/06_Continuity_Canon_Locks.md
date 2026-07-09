@@ -71,7 +71,7 @@ If prose contradicts canon docs, flag the contradiction before editing.
 - ARGUS / Argus is the system family.
 - Argus Beta is the prologue-era system.
 - ARGUS-ENT-4.6 is the present enterprise system.
-- RoboWarning is provisional and must be clarified later.
+- RoboWarning is the warning-classification module inside ARGUS-ENT-4.6 for Book 1.
 
 ## Thematic locks
 
@@ -144,7 +144,6 @@ These are usable for planning but should be confirmed or replaced with recovered
 - Reed Calder's exact old contractor/field-trial title.
 - Exact present-day agency chain.
 - Exact Book 1 title.
-- Whether RoboWarning is a module, nickname, or program wrapper.
 
 ## Outline-introduced element classifications
 
