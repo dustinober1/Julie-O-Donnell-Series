@@ -6,12 +6,14 @@
 - Chapter revised in place: `books/book-01/chapters/prologue.md`.
 - Blueprint preserved: `books/book-01/chapter-blueprints/prologue.md`.
 - Date: 2026-07-08.
+- Follow-up dialogue authenticity pass: targeted military/ops-room vulgarity added after review.
 
 ## Major Improvements
 
 - Tightened opening paragraphs to reach the anomaly faster while preserving FOB pressure, fatigue, dust, monitor glow, and rotor/package tension.
 - Sharpened Julie's competence by making her checks cleaner and more sequential: display cache, batching, prior-stream comparison, collection lag, source independence.
 - Improved dialogue pressure between Julie, the lieutenant, and Hargrove with shorter lines and clearer power dynamics.
+- Added restrained vulgarity to Hargrove, the pressured lieutenant/background operators, and one Julie escalation line to reduce over-clean dialogue while preserving Julie's controlled competence.
 - Reduced repeated explanatory phrasing around the theme so the official-record wound lands through action and institutional language.
 - Strengthened the ending hook by preserving the handwritten timestamp image and the final official log reduction.
 
@@ -19,6 +21,7 @@
 
 - Cut minor redundancy in sensory setup and repeated explanation of room pressure.
 - Cut/softened potentially over-specific support-path language from the first draft.
+- Added a targeted dialogue-authenticity pass with a small number of military/ops-room profanity beats.
 - Added no major plot events.
 - Added no new named characters.
 - Preserved the same operational package, timestamp anomaly, confidence escalation, override, and record-reframing beats.
@@ -37,6 +40,7 @@
 - Low risk: Hargrove remains a command-pressure figure without assigning a rank/title in the prose.
 - Low risk: the unnamed lieutenant remains generic, so Evan Rusk's unresolved prologue-era role is not locked.
 - Low risk: the phrase "support has to release the raw view" implies access friction without establishing contractor mechanics.
+- Low risk: added vulgarity changes tone/authenticity only and does not create new canon.
 - No major new plot added.
 
 ## Next Recommended Command
