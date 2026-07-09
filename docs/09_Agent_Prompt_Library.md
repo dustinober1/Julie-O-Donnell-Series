@@ -95,7 +95,7 @@ Verify repo scope and read the control docs listed in README.md.
 
 Task:
 
-Create a detailed blueprint for Book 1 Chapter [NUMBER], working title "[TITLE]", using books/book-01/chapter-blueprint-template.md.
+Create a detailed blueprint for Book 1 Chapter [Prologue], working title "[TITLE]", using books/book-01/chapter-blueprint-template.md.
 
 Use the current Book 1 outline and preserve all canon.
 
