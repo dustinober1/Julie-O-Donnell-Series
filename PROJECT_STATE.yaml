@@ -2,7 +2,7 @@ project:
   name: "Julie O'Donnell Series"
   repository: "dustinober1/Julie-O-Donnell-Series"
   default_branch: "main"
-  status: "Book 1 outline expanded / ready for chapter blueprinting"
+  status: "Book 1 outline expanded / OpenCode production-system scaffold in progress"
   source_basis:
     - "Recovered ChatGPT project context about Julie O'Donnell"
     - "Current conversation notes"
@@ -102,6 +102,19 @@ technology_canon:
   warning_module: "RoboWarning"
   naming_rule: >-
     Treat ARGUS as the platform family, Argus Beta as the older field-grade/FOB variant, ARGUS-ENT-4.6 as the present enterprise system, and RoboWarning as the warning-classification module inside ARGUS-ENT-4.6 for Book 1.
+
+opencode_system:
+  status: "scaffold active"
+  canonical_skill_path: ".opencode/skills/julie-series-canon.md"
+  command_path: ".opencode/commands/"
+  canon_update_rule: "Chapter commands may discover canon. Only canon-maintenance commands may promote canon."
+  production_hold: true
+  first_pass_priority:
+    - "Build all requested skills and commands"
+    - "Build series-bible files"
+    - "Build references and templates"
+    - "Build per-book scaffolds"
+    - "Leave manuscript production on hold until the production system is complete"
 
 canon_status:
   locked:
