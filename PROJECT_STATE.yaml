@@ -15,7 +15,7 @@ active_book:
     act_i: "complete"
     act_ii: "complete"
     act_iii: "not drafted"
-  approximate_manuscript_words: 67800
+  approximate_manuscript_words: 67951
   endpoint_time:
     eastern: "approximately 07:18 EDT"
     india: "approximately 16:48 IST"
@@ -26,8 +26,8 @@ active_book:
 
 source_of_truth:
   - rank: 1
-    path: "books/book-01/manuscript/SOURCE.md"
-    role: "Reference to the accepted external manuscript; controlling canon"
+    path: "books/book-01/manuscript/"
+    role: "Controlling accepted manuscript in GitHub Markdown"
   - rank: 2
     path: "books/book-01/control/"
     role: "Canon and production controls through Chapter 12"
@@ -46,9 +46,15 @@ critical_blockers:
     description: "The dominant Chapter 13 objective and abort condition have not been selected."
 
 production_rules:
+  - "The GitHub Markdown manuscript is the sole controlling manuscript."
   - "Accepted manuscript prose outranks all summaries and plans."
   - "Do not silently repair the Chapter 5-6 contradiction."
   - "Do not identify the physical custodian of SSO-NS-004 without new accepted evidence."
   - "Plans for unwritten chapters remain non-canon until dramatized and accepted."
 
-next_recommended_action: "Resolve the Chapter 5-6 continuity break, then lock the Chapter 13 mission and draft Act III from the accepted Chapter 12 endpoint."
+migration:
+  source: "Former project Google Doc"
+  completed: "2026-07-11"
+  active_external_manuscript: false
+
+next_recommended_action: "Review and integrate or reject the proposed Chapter 5-6 continuity repair, then lock the Chapter 13 mission and draft Act III from the accepted Chapter 12 endpoint."
