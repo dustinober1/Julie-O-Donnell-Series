@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - ".github/workflows/book1-manuscript-migration.yml"
+      - ".migration-trigger"
 
 permissions:
   contents: write
@@ -128,8 +129,8 @@ jobs:
           print('Validated Prologue and Chapters 1-12.')
           PY
 
-      - name: Remove one-time migration workflow
-        run: rm .github/workflows/book1-manuscript-migration.yml
+      - name: Remove one-time migration files
+        run: rm .github/workflows/book1-manuscript-migration.yml .migration-trigger
 
       - name: Commit migrated manuscript
         shell: bash
