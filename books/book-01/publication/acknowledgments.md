@@ -1,3 +1,0 @@
-# Acknowledgments
-
-[Placeholder for acknowledgments.]
