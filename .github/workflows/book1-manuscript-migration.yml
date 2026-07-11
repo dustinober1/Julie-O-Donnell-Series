@@ -1,0 +1,79 @@
+name: Complete Book 1 manuscript migration
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".migration/book1/**"
+      - ".github/workflows/book1-manuscript-migration.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Detect migration bundle
+        id: detect
+        shell: bash
+        run: |
+          if compgen -G '.migration/book1/part-*' > /dev/null; then
+            echo 'found=true' >> "$GITHUB_OUTPUT"
+          else
+            echo 'found=false' >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Reassemble and extract manuscript
+        if: steps.detect.outputs.found == 'true'
+        shell: bash
+        run: |
+          cat $(find .migration/book1 -maxdepth 1 -type f -name 'part-*' | sort) > /tmp/book1.b64
+          base64 --decode /tmp/book1.b64 > /tmp/book1.tar.bz2
+          mkdir -p books/book-01/manuscript
+          tar -xjf /tmp/book1.tar.bz2 -C books/book-01/manuscript
+
+      - name: Validate migrated manuscript
+        if: steps.detect.outputs.found == 'true'
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          root = Path('books/book-01/manuscript')
+          prologue = root / 'prologue.md'
+          chapters = sorted((root / 'chapters').glob('chapter-*.md'))
+          assert prologue.exists(), 'Missing prologue.md'
+          assert len(chapters) == 12, f'Expected 12 chapters, found {len(chapters)}'
+          assert prologue.read_text(encoding='utf-8').startswith('# Prologue - Six Years Ago')
+          for index, path in enumerate(chapters, start=1):
+              expected = f'# Chapter {index} - '
+              assert path.read_text(encoding='utf-8').startswith(expected), f'Bad heading in {path}'
+          assert (root / 'README.md').exists()
+          assert (root / 'SOURCE.md').exists()
+          assert (root / 'STATUS.md').exists()
+          print('Validated Prologue and Chapters 1-12.')
+          PY
+
+      - name: Remove temporary bundle
+        if: steps.detect.outputs.found == 'true'
+        shell: bash
+        run: |
+          rm -rf .migration/book1
+          rmdir .migration 2>/dev/null || true
+
+      - name: Commit migrated manuscript
+        if: steps.detect.outputs.found == 'true'
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git diff --cached --check
+          git commit -m 'Migrate accepted Book 1 manuscript into GitHub'
+          git push origin HEAD:main

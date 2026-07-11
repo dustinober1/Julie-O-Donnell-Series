@@ -1,9 +1,12 @@
 # Manuscript Source and Authority
 
-The accepted Book 1 manuscript through Chapter 12 remains in the project-source Google Doc and is not duplicated in this documentation repository.
+The controlling Book 1 manuscript is stored in this repository as Markdown:
 
-External archival source:
+- `prologue.md`
+- `chapters/chapter-01.md` through `chapters/chapter-12.md`
 
-- Google Doc: https://docs.google.com/document/d/15HOO8NRBsT1IjkvHycznWzAu0rCz16mvGR41SeQ6uyU
+These files are the highest authority for accepted prose, events, character behavior, chronology, injuries, evidence, technology, geography, and narrative voice.
 
-The accepted prose controls over summaries, outlines, trackers, and plans. If the external accepted manuscript and these repository documents ever differ, correct the repository to match the accepted manuscript rather than silently treating the documentation as newer canon.
+The manuscript was migrated from the former project Google Doc on July 11, 2026. That document was used only as the migration input. It is no longer an active source of truth and must not override the GitHub manuscript.
+
+If the manuscript conflicts with a summary, tracker, outline, repair proposal, or control document, correct the subordinate documentation to match the manuscript unless a later approved manuscript commit explicitly changes the prose.
