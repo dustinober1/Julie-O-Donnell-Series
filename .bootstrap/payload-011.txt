@@ -1,0 +1,372 @@
+ess deliberately reintroduced.
+
+### Manuscript revision needed
+
+No.
+
+### Severity
+
+**Minor documentation issue.**
+
+---
+
+## Discrepancy 8 — Older Act II review overstates the WSS-4 proof
+
+### Conflict
+
+The older Act II review says the transmission confirms:
+
+- Tariq’s team has crossed the first line.
+- K-17 is the physical target.
+- A second manipulation will cover the assault.
+- Sterling expects to exploit the incident.
+- Apex will receive expanded authority.
+
+The accepted WSS-4 scene proves only:
+
+- Security Line One passed.
+- Relay access not confirmed.
+- Phase B on hold.
+- Tariq field authority accepted.
+- Sterling-office signer authenticated.
+- Hartwell and second-window fields exist.
+- Message blocks remain encrypted.
+
+### Recommended controlling version
+
+Accepted Chapter 12’s narrower proof.
+
+### Manuscript revision needed
+
+No. Update or archive the older review.
+
+### Severity
+
+**Major documentation conflict.**
+
+---
+
+## Discrepancy 9 — Older review states Sterling carries the signer
+
+### Conflict
+
+The review says Sterling carries the hardware certificate. Accepted Chapter 12 explicitly maintains that an aide, counsel, intermediary, or other authorized person could possess it.
+
+### Recommended controlling version
+
+Physical custodian unknown.
+
+### Manuscript revision needed
+
+No.
+
+### Severity
+
+**Major documentation conflict.**
+
+---
+
+## Discrepancy 10 — Older review requires stealing or cloning the signer certificate
+
+### Conflict
+
+The review defines the Northbridge objective as stealing or cloning the certificate. Accepted Chapters 11–12 instead capture the full live chain and hardware signature while leaving the physical signer outside their possession.
+
+### Recommended controlling version
+
+Accepted module-capture mechanics. Hartwell concerns physical verification, not retroactive need to clone the certificate.
+
+### Manuscript revision needed
+
+No.
+
+### Severity
+
+**No repair needed.** Superseded plan.
+
+---
+
+## Discrepancy 11 — Older review gives Marcus the interior Northbridge role
+
+### Conflict
+
+The older review divides the infiltration among all three. Accepted Chapter 11 deliberately leaves Marcus with PCF-27 and the primary evidence because of his injuries.
+
+### Recommended controlling version
+
+Accepted Chapters 11–12.
+
+### Manuscript revision needed
+
+No.
+
+### Severity
+
+**No repair needed.**
+
+---
+
+## Discrepancy 12 — Older review treats the K-17 team’s old position as current
+
+### Conflict
+
+The review says less than an hour remains before Tariq reaches K-17. Accepted Chapter 10 explicitly states the last sensor position is old, and Chapter 12 states access remains unconfirmed.
+
+### Recommended controlling version
+
+Current position unknown; access not confirmed at 07:08.
+
+### Manuscript revision needed
+
+No.
+
+### Severity
+
+**Major documentation conflict.**
+
+---
+
+## Discrepancy 13 — Vance identifier terminology
+
+### Conflict
+
+Some older material uses `APX-DIR-0019-VANCE`, implying a direct personalized signer. Accepted prose uses APX-DIR-0019 and later resolves the registered custodian through the full certificate chain.
+
+### Recommended controlling version
+
+Use APX-DIR-0019. State Vance’s registered authority separately.
+
+### Manuscript revision needed
+
+No, unless the obsolete term appears in manuscript outside the accepted DOCX.
+
+### Severity
+
+**Minor.**
+
+---
+
+## Discrepancy 14 — Older note claims core damage
+
+### Conflict
+
+Some planning language implies the production core was damaged. Accepted manuscript shows a limited overload test, small smoke source, suppression discharge, and fire egress, but no confirmed core destruction.
+
+### Recommended controlling version
+
+Core condition after escape unknown; no catastrophic damage established.
+
+### Manuscript revision needed
+
+No.
+
+### Severity
+
+**Moderate documentation issue.**
+
+---
+
+## Discrepancy 15 — Fleet-transponder mechanics
+
+### Conflict
+
+Older plans proposed cloned, swapped, or contaminated transponders. Accepted manuscript has Elias physically disconnect the existing PCF-27 fleet module and preserve it as evidence.
+
+### Recommended controlling version
+
+Disconnected original module; no clone or swap.
+
+### Manuscript revision needed
+
+No.
+
+### Severity
+
+**No repair needed.**
+
+---
+
+## Discrepancy 16 — Status notes incorrectly reported no unresolved timeline conflict
+
+### Conflict
+
+A production note treated the older 16:30 schedule as superseded but the accepted manuscript still contains it in Chapters 1–5. A Google Doc status file also recognized that the versions could not coexist without a larger revision.
+
+### Recommended controlling version
+
+This pack’s critical-discrepancy treatment.
+
+### Manuscript revision needed
+
+Yes, as described in Discrepancies 1–2.
+
+### Severity
+
+**Major documentation issue supporting a Critical manuscript repair.**
+
+---
+
+## Discrepancy 17 — Hargrove’s planned Act III witness role
+
+### Conflict
+
+Older repository canon files treat Hargrove’s Act III return as structurally locked. The accepted manuscript and current Act II endpoint do not yet establish it, and no approved full Act III outline was found.
+
+### Recommended controlling version
+
+Hargrove is a possible planned witness, not confirmed future canon.
+
+### Manuscript revision needed
+
+No.
+
+### Severity
+
+**Moderate planning issue.**
+
+---
+
+@@END
+@@FILE 58 3250
+books/book-01/control/20-control-pack-maintenance-rules.md# 20. CONTROL-PACK MAINTENANCE RULES
+
+1. Update this control pack after every accepted chapter.
+
+2. Record only accepted manuscript facts as confirmed canon.
+
+3. Keep unwritten chapter material labeled as planned, proposed, or unresolved.
+
+4. Update the master timeline immediately whenever a chapter uses an exact timestamp.
+
+5. Record both EDT and IST when events materially affect the cross-border crisis.
+
+6. Never hide a timestamp conflict by changing one table entry. Add it to the discrepancy report until the manuscript itself is repaired.
+
+7. Update Julie, Marcus, and Elias’s injuries after every:
+   - Fall.
+   - Fight.
+   - Vehicle movement.
+   - Treatment.
+   - Rest period.
+   - Worsening symptom.
+
+8. Do not record recovery without elapsed time and treatment.
+
+9. Update every evidence custody transfer with:
+   - Time.
+   - Location.
+   - Transferor.
+   - Recipient.
+   - Seal condition.
+   - Reason.
+   - Any witness.
+
+10. Keep the case, board, recovery cartridge, Partition A, Partition B, WSS local audit, Chen records, and Sharma records as separate evidence objects.
+
+11. Update the knowledge matrix whenever:
+   - A character witnesses a screen.
+   - A record is read aloud.
+   - A message is decrypted.
+   - Evidence reaches a new authority.
+   - The public narrative changes.
+   - A private antagonist scene reveals knowledge.
+
+12. Update both “what it proves” and “what it does not prove” whenever evidence is expanded.
+
+13. Never promote certificate registration into physical human identity without separate evidence.
+
+14. Move resolved threads into a payoff record rather than deleting them.
+
+15. Preserve older control-pack versions.
+
+16. Use semantic versioning:
+   - Minor accepted chapter update: v1.1, v1.2, and so on.
+   - Major act transition or repaired timeline: v2.0.
+   - Final continuity pass: designated final-control version.
+
+17. Run a discrepancy check before every new act.
+
+18. Run a custody and evidence-limits check before every chapter involving investigation, arrest, testimony, publication, or decryption.
+
+19. Run a full continuity audit before final revision.
+
+20. Update the repository or project bibles only after they have been reconciled to the accepted manuscript. The existing repository files remain a superseded pre-draft scaffold rather than controlling canon.
+
+21. Do not remove the Chapter 5–6 discrepancy from this report until the accepted manuscript itself contains a causal, geographic, and chronological bridge.
+
+22. Before Chapter 13 is accepted, update:
+   - Exact endpoint time.
+   - Hartwell window state.
+   - Signer custodian knowledge.
+   - K-17 access state.
+   - Phase B state.
+   - Masking-window state.
+   - Every injury.
+   - Every evidence object’s custody.
+   - Chen and Mercer’s institutional positions.
+   - Public narrative changes.
+
+23. Before the final Book 1 revision, audit:
+   - All exact times.
+   - All EDT/IST conversions.
+   - All chapter titles.
+   - All vehicle transitions.
+   - All security bypasses.
+   - All certificate claims.
+   - All evidence seals and transfers.
+   - All character-specific knowledge.
+   - The prologue-to-present operational connection.
+   - The ultimate correction—or noncorrection—of the official record.
+
+@@END
+@@FILE 31 1747
+books/book-01/control/README.md# Canon Control Pack v1.0
+
+Split by section for review and version control. The accepted manuscript always outranks the control pack.
+
+- [Overview](00-overview.md)
+- [1. DOCUMENT PURPOSE AND USE](01-document-purpose-and-use.md)
+- [2. CURRENT PROJECT STATE](02-current-project-state.md)
+- [3. STORY PREMISE AND BOOK-LEVEL DRAMATIC ENGINE](03-story-premise-and-book-level-dramatic-engine.md)
+- [4. SOURCE-OF-TRUTH CANON LOCKS](04-source-of-truth-canon-locks.md)
+- [5. MASTER TIMELINE](05-master-timeline.md)
+- [6. CHARACTER STATE LEDGER](06-character-state-ledger.md)
+- [7. RELATIONSHIP AND TRUST MATRIX](07-relationship-and-trust-matrix.md)
+- [8. EVIDENCE AND CHAIN-OF-CUSTODY LEDGER](08-evidence-and-chain-of-custody-ledger.md)
+- [9. KNOWLEDGE AND INFORMATION CONTROL MATRIX](09-knowledge-and-information-control-matrix.md)
+- [10. TECHNOLOGY AND SYSTEM RULES](10-technology-and-system-rules.md)
+- [11. ORGANIZATIONS, AUTHORITIES, AND INSTITUTIONAL CONTROL](11-organizations-authorities-and-institutional-control.md)
+- [12. LOCATION AND SECURITY ARCHITECTURE](12-location-and-security-architecture.md)
+- [13. ANTAGONIST OBJECTIVES AND CONSPIRACY MODEL](13-antagonist-objectives-and-conspiracy-model.md)
+- [14. PUBLIC NARRATIVE VERSUS ACTUAL RECORD](14-public-narrative-versus-actual-record.md)
+- [15. OPEN PLOT THREADS AND PAYOFF MATRIX](15-open-plot-threads-and-payoff-matrix.md)
+- [16. CHAPTER-BY-CHAPTER STATUS RECORD](16-chapter-by-chapter-status-record.md)
+- [17. STYLE, TONE, AND NARRATIVE RULES](17-style-tone-and-narrative-rules.md)
+- [18. ACT III ENTRY STATE](18-act-iii-entry-state.md)
+- [19. DISCREPANCY AND REPAIR REPORT](19-discrepancy-and-repair-report.md)
+- [20. CONTROL-PACK MAINTENANCE RULES](20-control-pack-maintenance-rules.md)
+
+@@END
+@@FILE 34 410
+books/book-01/manuscript/README.md# Book 1 Manuscript Status
+
+The accepted external manuscript currently contains the Prologue and Chapters 1–12.
+
+The accepted manuscript remains in the project-source Google Doc and is the highest canon authority. See [SOURCE.md](SOURCE.md).
+
+Do not draft Chapter 13 until the Chapter 5–6 chronology/geography break is explicitly resolved or the Chapter 6–12 clock is formally designated as controlling.
+
+@@END
+@@FILE 34 580
+books/book-01/manuscript/SOURCE.md# Manuscript Source and Authority
+
+The accepted Book 1 manuscript through Chapter 12 remains in the project-source Google Doc and is not duplicated in this documentation repository.
+
+External archival source:
+
+- Google Doc: https://docs.google.com/document/d/15HOO8NRBsT1IjkvHycznWzAu0rCz16mvGR41SeQ6uyU
+
+The accepted prose controls over summaries, outlines, trackers, and plans. If the external accepted manuscript and these repository documents ever differ, correct the repository to match the accepted manuscript rather than silently treating the documentation as newer canon.
+
+@@END
+@@DONE

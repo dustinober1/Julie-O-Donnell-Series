@@ -1,0 +1,572 @@
+ence.
+- Avoid viewpoint hopping inside a scene.
+
+## POV discipline
+
+The narration should reveal only what the active POV can observe, remember, infer, or access.
+
+Reader knowledge from Sharma cannot migrate into Julie’s thoughts. Private antagonist motive cannot be stated without an antagonist POV or evidence.
+
+## Prose density
+
+- Medium-density procedural prose.
+- Concrete physical and institutional detail.
+- Technical passages earn their length through consequence.
+- Avoid abstract summaries when a screen state, physical object, or procedural exchange can carry the information.
+
+## Sentence rhythm
+
+- Longer analytic sentences for evidence reasoning.
+- Short declarative paragraphs under physical or countdown pressure.
+- Repetition used deliberately for clocks, system states, and moral distinctions.
+- Avoid monotonous one-line paragraphs in low-pressure scenes.
+
+## Action-scene style
+
+- Physical geography must remain legible.
+- Doors, corridors, bodies, equipment, and exits have known positions.
+- Obstacles behave mechanically rather than theatrically.
+- Characters win seconds, not effortless control.
+- Injury changes choices.
+- Opponents adapt.
+
+## Technical-exposition style
+
+- Begin with observable effect.
+- Explain only the mechanism necessary for the next decision.
+- Interrupt explanation with time, pain, alarms, people, or institutional resistance.
+- State limitations immediately after conclusions.
+- Use display text sparingly and causally.
+
+## Institutional realism
+
+- Organizations contain lawful, cautious, compromised, and self-protective people simultaneously.
+- Procedure can delay truth without being a secret conspiracy.
+- Contractors and government systems have overlapping but nonidentical authority.
+- Characters ask who owns a channel, who receives custody, and which record survives.
+
+## Treatment of uncertainty
+
+Uncertainty is an active moral and operational condition, not indecision.
+
+Preferred pattern:
+
+1. State what the evidence shows.
+2. State what it suggests.
+3. State what it cannot prove.
+4. Decide what action is justified anyway.
+
+## Treatment of violence
+
+- Violence is brief, consequential, and physical.
+- Julie avoids firearms and lethal escalation.
+- Security personnel are not disposable.
+- Civilian background matters.
+- Injuries persist.
+- No celebratory killing.
+
+## Treatment of injuries
+
+- Every injury changes grip, breath, speed, balance, posture, or decision.
+- Treatment is limited and imperfect.
+- Pain may worsen without creating superhuman resolve.
+- Recovery requires time.
+
+## Dialogue patterns
+
+- Terse.
+- Imperfect.
+- Often one character corrects another’s noun or level of certainty.
+- Authority appears through word choice.
+- Humor is dry and situational.
+- Antagonists rarely explain more than they believe is necessary.
+
+## Scene transitions
+
+- Location and time headings.
+- Transitions often follow a new institutional or operational consequence.
+- Crosscuts should increase pressure rather than merely update another location.
+
+## Exact timestamps
+
+- Use exact timestamps when systems, evidence, or deadlines depend on them.
+- Do not overuse seconds in ordinary movement.
+- Once a timestamp is stated, downstream travel and action must fit it.
+
+## Virginia/Washington and Kashmir cross-cutting
+
+- Kashmir scenes should show the human consequence of American system output.
+- Crosscuts must preserve the 9:30 time difference.
+- Sharma should retain independent agency.
+- Do not use Kashmir solely as an anonymous countdown display.
+
+## Cliffhanger construction
+
+Chapter endings typically:
+
+- Convert victory into a larger problem.
+- Reveal a shorter clock.
+- Change evidence strength.
+- Show the enemy controlling the narrative.
+- Force a morally costly choice.
+- Move the story toward the next physical objective.
+
+## Character-specific voice notes
+
+### Julie
+
+- Precise, laconic, often corrects proof language.
+- Institutional anger is controlled.
+- Uses physical cause-and-effect metaphors.
+- Refuses comfort she cannot guarantee.
+- Does not confuse certainty with courage.
+
+### Marcus
+
+- Military brevity and command presence.
+- Dry humor under pressure.
+- Asks about exits, custody, civilians, and failure conditions.
+- Guilt appears through choices more than speeches.
+
+### Elias
+
+- Technical precision accelerates when frightened.
+- Corrects system mechanics.
+- Defensive about agency and blame.
+- Courage remains visibly costly.
+- Does not become a fearless hacker.
+
+### Chen
+
+- Professional, legally defensible language.
+- Uses status, scope, containment, and authority terms.
+- Emotional shifts appear through narrowed wording and preserved records.
+- Does not confess or sentimentalize.
+
+### Vance
+
+- Polished, calm, euphemistic.
+- Frames manipulation as strategic necessity or correction.
+- Rarely raises his voice.
+- Reveals worldview through nouns such as “record,” “conclusion,” “value,” and “recovery.”
+
+### Sterling
+
+- Measured public rhetoric.
+- Uses institutional discipline, public calm, evolving threat, and protection.
+- Avoids specific technical assertions he cannot publicly support.
+- Politically weaponizes authentic images.
+
+### Sharma
+
+- Concise command language.
+- Distinguishes request from order.
+- Grounds decisions in local observation and responsibility.
+- Distrusts certainty more than technology.
+
+### Mercer
+
+- Clear commands, authority questions, force-background awareness.
+- Professional rather than sadistic.
+- Distrust appears through requests for a named receiving agency or legal standard.
+
+## Style Failures to Avoid
+
+- Vague “hacking.”
+- Omnipotent surveillance.
+- Instantly defeated security.
+- Superhuman recovery.
+- Action without geography.
+- Technology as magic.
+- Antagonist confession monologues.
+- Treating inference as fact.
+- Generic military dialogue.
+- Excessive tactical jargon.
+- Repeating the same locked-door solution.
+- Turning Julie into an assassin or revenge-driven vigilante.
+- Turning every government employee into a conspirator.
+- Resolving moral uncertainty through simple certainty.
+- Repeating “official version,” “there it was,” or other thematic phrases until they lose force.
+- Excessive “not X but Y” constructions.
+- Characters reciting facts everyone in the scene already knows.
+- Long uninterrupted technical lectures.
+- A clean victory without evidence limits or consequence.
+- Treating Nora Bell’s suspicion or Chen’s restraint as instant alliance.
+- Writing Sterling as a melodramatic supervillain.
+- Using a crowd of civilians merely as convenient cover.
+- Describing the Chapter 12 endpoint as though Julie already has a Hartwell entry plan.
+
+---
+
+@@END
+@@FILE 47 6454
+books/book-01/control/18-act-iii-entry-state.md# 18. ACT III ENTRY STATE
+
+## Exact launch state
+
+**Time:** Approximately 07:18 EDT / 16:48 IST
+**Location:** Downtown Washington, exact street unstated
+**Vehicle:** PCF-27
+**Characters present:** Julie, Marcus, Elias
+
+## Physical condition
+
+### Julie
+
+- Driving with left hand.
+- Right wrist braced and functionally weak.
+- Pain worsened by every road seam and turn.
+- Exhausted and publicly recognizable.
+
+### Marcus
+
+- Passenger seat.
+- Reopened scalp wound with blood to jaw.
+- Rib pain prevents full breath.
+- Swollen right thigh and unreliable leg.
+- Taped damaged boot.
+- Limited balance and mobility.
+
+### Elias
+
+- Cargo floor.
+- Left hip injury.
+- Bandaged, bleeding right index finger.
+- Dizziness and exhaustion.
+- Torn office shirt; no rain shell.
+
+## Evidence and custody
+
+### Marcus
+
+- Primary aluminum case.
+- 136 sealed files.
+- 47 incomplete files.
+- 311 exclusions manifest.
+- Recovery cartridge.
+- Paper custody log.
+- Dead transponder.
+
+### Elias
+
+- Administrator-token board.
+- Partition A.
+- Partition B with valid WSS controller seal.
+
+### External copies
+
+- WSS-4 local record at Northbridge.
+- Chen directives at Apex.
+- Sharma/Qureshi image and Indian fire-control records at Arjun.
+
+## Pursuit status
+
+- Van plate and direction confirmed.
+- Metropolitan Police active.
+- Apex Protective Services active.
+- Regional and federal channels have the lookout.
+- Public images circulating.
+- Hartwell perimeter is already tightening.
+- Sterling’s motorcade has controlled signals and secure access.
+
+## Public narrative
+
+Julie is the alleged architect of an expanding insider attack against Apex and Northbridge. Marcus is armed accomplice; Elias is hostage or coerced employee.
+
+## Known Hartwell timing
+
+07:46:00–07:48:30 EDT.
+
+## Known Phase B timing
+
+Authorization deadline 07:49 EDT.
+
+## Known masking timing
+
+07:48–07:54 EDT.
+
+## Known K-17 status
+
+- Security Line One passed.
+- Relay access not confirmed at 07:08.
+- Physical status unknown at 07:18.
+
+## What Julie intends to accomplish
+
+At minimum, Julie intends to move toward the next physical authentication point rather than continue fleeing. The exact Chapter 13 operational plan is not yet canon.
+
+## What Julie can prove
+
+- Payload 88 was synthetic.
+- It was operationally deployed.
+- Vance-registered executive authority controlled the bridge.
+- Elias’s physical token did not sign the original deployment.
+- Julie’s recovery was an authenticated provenance correction.
+- WSS-4 hosted K17-PHASE-B.
+- Tariq field authority and Sterling-office SSO participated.
+- SSO-NS-004 is expected at Hartwell.
+- Relay access remained unconfirmed.
+- Phase B and masking remain pending.
+
+## What Julie cannot prove
+
+- Sterling personally held or used SSO-NS-004.
+- The identity of the current custodian.
+- Sterling’s exact command role.
+- Message plaintext.
+- Current K-17 position.
+- Phase B’s purpose.
+- Whether no Indian rounds were fired.
+- Vance’s complete relationship with Sterling or Tariq.
+- Current preservation of the WSS local record.
+
+## What constitutes success
+
+A useful Act III success should include one or more of:
+
+- Preventing or delaying Phase B authorization.
+- Capturing independently verifiable physical-custody evidence for SSO-NS-004.
+- Preserving the Hartwell authentication event with neutral witnesses or systems.
+- Reaching an independent official with both Apex and WSS evidence.
+- Preventing K-17 exploitation.
+- Fracturing the public narrative without exposing harmful raw intelligence.
+- Keeping all three protagonists and the primary evidence alive.
+
+## What constitutes failure
+
+- Phase B authorized.
+- Second masking/reconstruction profile executes.
+- K-17 logs or access are successfully manipulated.
+- Evidence destroyed or separated into hostile custody without redundancy.
+- Julie, Marcus, or Elias killed or incapacitated.
+- A civilian or honest officer is harmed.
+- Julie’s actions validate Sterling’s portrayal.
+- The signer disappears without a physical-custody record.
+
+## Ethical boundaries still in force
+
+- No civilian casualties.
+- No hostage-taking.
+- No assassination.
+- No firearm escalation without a new, immediate life threat.
+- No ramming through people.
+- No indiscriminate public dump.
+- No assumption that office registration proves human guilt.
+- No destruction of unrelated systems or records.
+- Evidence before revenge.
+- Preserve raw truth and uncertainty.
+
+## Immediate practical obstacles
+
+- Only 28 minutes to window opening.
+- Known van and active plate.
+- Hartwell lockdown.
+- No credential or sponsor.
+- No known Hartwell layout.
+- Severe injuries.
+- No secure communications channel.
+- No confirmed independent recipient.
+- Active police and Apex response.
+- Public facial recognition.
+- Motorcade and traffic restrictions.
+- Messages encrypted.
+- K-17 status unknown.
+
+## Approved Act III Structural Direction
+
+The revised Act II structure establishes only a broad, still-valid direction:
+
+- Act III begins with Julie moving toward the conspiracy’s secure political center rather than continuing to escape.
+- Hartwell is the next physical objective.
+- The missing proof concerns physical custody or independently verifiable use of the office signer.
+- Julie’s objective remains authenticated evidence, not revenge.
+- Vance, Sterling, and Tariq must retain distinct motives.
+- Chen’s fracture with Vance may create evidence or procedural opportunity, but she is not yet an ally.
+- The field crisis at K-17 remains live.
+
+The older review stated as fact that Sterling carried the device and that Tariq was less than an hour from K-17. The accepted manuscript supersedes those claims: the physical custodian is unknown, and relay access was not confirmed.
+
+No complete approved Act III outline or locked Chapter 13 title was found.
+
+## Decisions the author should make before drafting
+
+1. The precise Hartwell objective.
+2. The intended physical custodian of SSO-NS-004.
+3. Whether Chapter 13 reaches the perimeter, enters it, or ends before entry.
+4. Whether K-17 or Sharma receives a parallel scene.
+5. What immediate independent witness or record can authenticate the Hartwell event.
+6. Whether the trio stays together or splits evidence and action roles again.
+7. What abort condition Julie sets.
+8. Whether Phase B’s meaning is revealed at Hartwell or in the field.
+9. How the Chapter 5–6 continuity break will be repaired.
+
+These are planning decisions, not canon facts.
+
+---
+
+@@END
+@@FILE 57 10058
+books/book-01/control/19-discrepancy-and-repair-report.md# 19. DISCREPANCY AND REPAIR REPORT
+
+## Discrepancy 1 — Chapter 5-to-Chapter 6 immediate continuity
+
+### Conflict
+
+Chapter 5 ends at approximately 16:14 EDT with the trio trapped between an elevator and a circular production-vault door. Elias triggers a director-certificate compromise review and the circular door begins turning.
+
+Chapter 6 opens at 04:52 EDT with Julie driving Elias beneath an already descending hydraulic shutter, Marcus behind them, and a 05:00 release deadline.
+
+### Manuscript evidence
+
+Both sequences are in the accepted manuscript.
+
+### Older source
+
+The Chapter 6 production instruction required the 04:52 shutter scene to continue directly from Chapter 5, but the actual Chapter 5 ending was not revised to create that handoff.
+
+### Recommended controlling version
+
+For Act III planning, use the Chapter 6–12 branch because:
+
+- It is internally coherent.
+- It controls all accepted Act II injuries and evidence.
+- The requested endpoint is 07:18.
+- Hartwell deadlines depend on it.
+
+The author must revise the accepted Chapter 5 ending and likely earlier present-day clock structure to create a valid handoff.
+
+### Manuscript revision needed
+
+Yes.
+
+### Severity
+
+**Critical.**
+
+---
+
+## Discrepancy 2 — Global present-day deadline and India clock
+
+### Conflict
+
+Chapters 1–5 establish:
+
+- Final certification at 16:30 EDT / 02:00 IST.
+- Recommended Indian action window 02:10–05:00 IST.
+
+Chapters 6–8 establish:
+
+- Final external commit at 05:00 EDT / 14:30 IST.
+- Counter-battery mission reaches its firing point at 14:30 IST.
+
+These cannot describe one uninterrupted operation without a missing major delay and revised orders.
+
+### Recommended controlling version
+
+Chapter 6–12 timing should provisionally govern future chapters. A deliberate revision pass must decide whether to retime Chapters 1–5 or rebuild the transition as a later phase.
+
+### Manuscript revision needed
+
+Yes; not a one-line correction.
+
+### Severity
+
+**Critical.**
+
+---
+
+## Discrepancy 3 — Chapter 5 and Chapter 7 share the title “The Human Key”
+
+### Conflict
+
+Two accepted numbered chapters have the same title.
+
+### Recommended controlling version
+
+Retitle one after the timeline repair. Chapter 7 is more directly centered on Elias becoming the literal authenticated human key, so it has the stronger claim to the title.
+
+### Manuscript revision needed
+
+Yes, but not before Chapter 13 drafting.
+
+### Severity
+
+**Moderate.**
+
+---
+
+## Discrepancy 4 — Elias’s clothing during escape
+
+### Conflict
+
+Chapter 9 contains references to Elias’s or the group’s coveralls, while Chapters 5, 10, 11, and 12 establish Elias in a wrinkled office shirt, later covered only by an oversized Potomac rain shell. At Fenwick he leaves the shell in Mercer’s hand and is explicitly back in torn office clothes.
+
+### Recommended controlling version
+
+Endpoint clothing controls: Elias wears torn office clothes with no rain shell.
+
+### Manuscript revision needed
+
+A narrow wording correction in Chapter 9 may be appropriate.
+
+### Severity
+
+**Minor.**
+
+---
+
+## Discrepancy 5 — Older repository source hierarchy places prose below planning
+
+### Conflict
+
+The repository continuity file states that `PROJECT_STATE.yaml`, bibles, and outlines outrank draft prose. The user’s current authority hierarchy and accepted production practice place accepted manuscript prose first.
+
+### Older source
+
+The repository file explicitly ranks draft prose last.
+
+### Recommended controlling version
+
+Accepted manuscript first, as used by this pack.
+
+### Manuscript revision needed
+
+No. Repository controls should be archived or updated.
+
+### Severity
+
+**No repair needed** in manuscript; **Major documentation repair** externally.
+
+---
+
+## Discrepancy 6 — Superseded 50-chapter outline and cast
+
+### Conflict
+
+Repository materials describe a pre-draft 50-chapter book involving Mara Keene, Evan Rusk, Reed Calder, Dr. Selene Cho, RoboWarning, and a real convoy attack. The accepted manuscript instead establishes Marcus Reed, Elias Thorne, Sarah Chen, Senator Sterling, Major Tariq, Payload 88, and the false artillery warning.
+
+The repository drift audit itself reports that the project was pre-draft and scaffold-based at that point.
+
+### Recommended controlling version
+
+Accepted manuscript.
+
+### Manuscript revision needed
+
+No.
+
+### Severity
+
+**No repair needed.** Older plan cleanly superseded.
+
+---
+
+## Discrepancy 7 — Older ARGUS/RoboWarning naming
+
+### Conflict
+
+Older repository bibles identify “RoboWarning” as the present-day module. The accepted manuscript never uses that term.
+
+### Recommended controlling version
+
+Use Argus, Argus Enterprise, and ARGUS-ENT-4.6 as established in accepted prose. Keep RoboWarning out unl

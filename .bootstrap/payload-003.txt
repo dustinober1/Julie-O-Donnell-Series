@@ -1,0 +1,484 @@
+rivation, and accumulated bruising; no other discrete diagnosed injury shown.
+
+### Current clothing and visual condition
+
+- Gray maintenance coveralls.
+- “RANDALL” name patch.
+- Dark smear at one knee.
+- Suppression residue was washed off at the cutout, but the clothing remains stained.
+- Wrist brace concealed or partially concealed under the sleeve.
+- Publicly recognizable face from consultant photograph and broadcast footage.
+
+### Current location
+
+Driver’s seat of PCF-27 in downtown Washington, moving toward or along the Hartwell route.
+
+### Current possessions
+
+- Control of PCF-27.
+- No firearm.
+- No personal phone; it was left at Apex.
+- Mechanical truck key may still be in her possession, but the Ford is not with them.
+- Primary evidence is deliberately not on her person.
+
+### Current knowledge
+
+Julie knows:
+
+- Payload 88’s synthetic origin and safeguards.
+- The disputed packet boundary she selected.
+- The provenance-reconciliation result.
+- The K-17 movement visible after correction.
+- The APX-DIR certificate chain registered to Vance.
+- Northbridge’s role as endpoint and legitimate contractor.
+- The WSS-4 session structure.
+- Tariq field authority acceptance.
+- SSO-NS-004 registration and hardware response.
+- Relay access was not confirmed.
+- Phase B remained on hold.
+- Hartwell, Phase B, masking, and reconstruction deadlines.
+- Vance issued a material-loss lethal-force order and Chen preserved it.
+- The messages remain encrypted.
+- The evidence’s limitations.
+
+Julie does **not** know:
+
+- Who physically held SSO-NS-004.
+- Whether Sterling personally ordered anything.
+- What the encrypted blocks contain.
+- Whether no Indian rounds were fired.
+- Current K-17 position.
+- Phase B’s exact operation.
+- Hartwell’s detailed layout.
+- Which independent authority can receive the evidence safely.
+
+### Beliefs and working theories
+
+- The false artillery threat was operational cover for K-17.
+- Vance is protecting Apex and the operation.
+- Sterling is using the crisis politically and may be part of the command architecture.
+- Tariq’s objective may not be identical to Vance’s or Sterling’s.
+- The Hartwell authentication is the next opportunity to prove physical custody or stop authorization.
+
+### Public or institutional status
+
+- Suspected Argus sabotage architect.
+- Alleged armed insider.
+- Alleged thief of classified material.
+- Active apprehension target.
+- Former analyst whose prior history is being weaponized.
+
+### Relationships and trust state
+
+- **Marcus:** High operational trust; personal wound not fully repaired.
+- **Elias:** Responsible leadership and conditional trust; she refuses to erase his agency.
+- **Chen:** Adversarial but increasingly evidence-sensitive.
+- **Mercer:** Professional adversary.
+- **Sterling/Vance:** Evidence-driven antagonism, not revenge.
+- **Sharma:** No direct contact.
+
+### Current objective
+
+Reach the Hartwell event or otherwise prevent/capture the next authentication before Phase B and the second masking window.
+
+### Current fear or pressure
+
+- Being right again too late.
+- Losing the evidence to lawful custody before anyone understands it.
+- Using Marcus or Elias as instruments.
+- Causing civilian casualties that validate Sterling’s story.
+- Mistaking inference for proof.
+- Allowing proximity to Hartwell to override the mission’s ethical boundaries.
+
+### Arc position
+
+Julie has moved from isolated analyst to operational leader. She is no longer merely escaping or seeking an authority to believe her. She is constructing proof while retaining moral limits.
+
+### Continuity risks
+
+- Writing her as an action superhero.
+- Giving her normal right-hand strength.
+- Making her certain Sterling personally held the signer.
+- Making her indifferent to classification exposure or civilian risk.
+- Treating institutional distrust as proof that every institution is compromised.
+
+---
+
+## Marcus Reed
+
+### Identity and role
+
+Active-duty Army colonel, Army intelligence officer, Julie’s former colleague and current operational partner. He brought Julie back into the case.
+
+### Established background
+
+- Present during the six-years-ago strike.
+- Supported Julie only at the final moment.
+- Later testified that there was “confusion,” protecting his access instead of fully exposing the altered timeline.
+- Has spent six years knowing that his defensible testimony failed Julie.
+- Twenty-seven years in uniform.
+
+### Current physical condition
+
+- **Rib injury:** Sustained when he struck the retracting bridge rail and repeatedly aggravated during gate combat, suppression escape, carrying the case, moving the van, and Fenwick extraction. Deep breaths stop midway; movement folds him around the pain. Possible fracture is not medically confirmed.
+- **Scalp wound:** Above the right ear, caused when his head struck Mercer’s helmet edge. Cleaned and dressed twice, repeatedly reopened. Blood has reached his collar, cheek, and jaw.
+- **Right thigh injury:** Baton and electroshock-weapon impacts caused swelling, bruising, muscle failure, and unreliable weight bearing. Cold pack and light compression applied.
+- **Right boot:** Heel and sole torn, cut, and temporarily reinforced with tape. It folds or catches under him.
+- **Mobility:** Severe limp, balance impairment, cannot run normally, cannot reliably work pedals with the right leg, and may manage only short bursts of movement.
+- **Neurological watch:** Possible concussion concern due scalp strike and intermittent narrowing/dizziness, though pupils, orientation, and responses were normal at the cutout.
+
+### Current clothing and visual condition
+
+- Borrowed gray maintenance coveralls with “STEVE” patch.
+- Outer jacket present by Chapter 12; exact type not described.
+- Blood-stained scalp dressing.
+- Blood along cheek/jaw.
+- Taped, visibly damaged boot.
+- Limp and guarded breathing make him conspicuous.
+
+### Current location
+
+Front passenger seat of PCF-27.
+
+### Current possessions
+
+- Aluminum telemetry case.
+- Waterproof folder.
+- Tamper-bagged recovery cartridge.
+- Paper custody log.
+- Dead PCF-27 transponder module.
+- Watch.
+- No firearm.
+
+### Current knowledge
+
+Marcus knows most of what Julie and Elias know about:
+
+- Payload 88.
+- Vance’s certificate chain.
+- Northbridge.
+- Tariq’s accepted field authority.
+- SSO-NS-004.
+- Hartwell and the deadlines.
+- The evidence limitations.
+
+He does not know:
+
+- The encrypted message content.
+- Current K-17 status.
+- Who holds the signer.
+- Whether no Indian rounds were fired.
+- Whether Hackett will act if shown the stronger evidence.
+
+### Beliefs and working theories
+
+- Sterling’s office is directly operationally connected.
+- Hartwell is the next center.
+- Julie may stay too long when proof is close.
+- Protecting the existing originals is as important as obtaining new evidence.
+- Lawful channels may still work, but their sequence is too slow for the current deadline.
+
+### Public or institutional status
+
+- Active-duty colonel with revoked or suspended credentials.
+- Described as an armed accomplice.
+- Subject of counterintelligence/CID interest and active apprehension directives.
+
+### Relationships and trust state
+
+- **Julie:** Strong operational trust; remorse and unresolved personal betrayal.
+- **Elias:** Protective and increasingly respectful.
+- **Hackett:** Strained professional trust.
+- **Mercer:** Physical and procedural adversary.
+- **Chen:** Recognizes her procedural discipline but does not trust her control chain.
+
+### Current objective
+
+Protect the originals, navigate the Hartwell approach, prevent Julie from sacrificing the evidence or team, and provide the extraction or operational counterweight she still needs.
+
+### Current fear or pressure
+
+- Repeating his six-years-ago choice by protecting procedure over truth.
+- Becoming physically unable to protect the evidence.
+- Julie using herself as expendable.
+- Losing the case while pursuing one more piece of proof.
+- Formal military consequences.
+
+### Arc position
+
+Marcus has moved from defensible institutional insider to someone who repeatedly accepts personal and career risk. He has not yet repaired the six-years-ago record.
+
+### Continuity risks
+
+- Sudden athletic recovery.
+- Normal driving or fighting.
+- Treating his apology as complete reconciliation.
+- Giving his rank practical authority after his credentials were revoked.
+- Turning him into a generic tactical enforcer.
+
+---
+
+## Elias Thorne
+
+### Identity and role
+
+Apex Defense model developer in the Advanced Modeling Division. Author of Validation Package 88. Technical witness, voluntary whistleblower, and custodian of the most identity-sensitive evidence.
+
+### Established background
+
+- Built Payload 88 to fool Argus during adversarial testing.
+- Iterated it until it survived inside the model for fourteen minutes.
+- Archived it with three safeguards.
+- Discovered it live in production.
+- Found his credentials falsely attached to the deployment.
+- Attempted to preserve the original records.
+- Was detained and pressured to sign a false confession.
+
+### Current physical condition
+
+- **Left hip injury:** Sustained on the retracting bridge when his left leg passed through the rail. Causes dragging, shortened stride, sharp weight-bearing pain, and difficulty on stairs.
+- **Right index finger:** Shallow cut repeatedly reopened during authentication and module handling. Bandaged; fingertip clumsy; blood darkened the dressing at WSS-4.
+- **Cold exposure:** Hands became pale and slow after the lower-tier descent and suppression escape.
+- **Dizziness:** Turns of the head and elevator movement can destabilize him.
+- **General:** Exhausted, frightened, cold, and physically depleted. No adequate medical evaluation.
+
+### Current clothing and visual condition
+
+- Wrinkled office clothes.
+- Office shirt torn at one shoulder.
+- No Potomac rain shell; it was left in Mercer’s hand during the Fenwick escape.
+- Bandaged right index finger.
+- Limp and visible exhaustion.
+- Glasses remain part of his visual presentation unless later lost; no loss has been shown.
+
+### Current location
+
+Cargo floor of PCF-27.
+
+### Current possessions
+
+- Original administrator-token circuit board in padded sleeve or directly held.
+- Dual-partition incident module:
+  - Partition A sealed/read-only.
+  - Partition B sealed WSS-4 capture.
+- No firearm.
+- Canvas tool pouch status after escape is not clearly stated; do not assume it remains.
+
+### Current knowledge
+
+Elias has the deepest technical knowledge of:
+
+- Payload 88 construction.
+- Argus source behavior.
+- The administrator-token system.
+- Replay/mirroring.
+- The recovery routine.
+- Northbridge/APX Secure Facility 4.2.
+- WSS-4’s session-state sequence.
+- What Partition B captured.
+- Hartwell’s signer requirement.
+
+He does not know:
+
+- Who holds SSO-NS-004.
+- What the encrypted messages say.
+- Phase B’s exact field action.
+- K-17’s present physical state.
+- Whether Vance’s deployment was directed by Sterling.
+- Whether the public or investigators will accept the hardware distinction.
+
+### Beliefs and working theories
+
+- Payload 88 was converted into an operational mask.
+- The source-reconstruction profile is likely a second manipulation, though exact behavior is unproved.
+- The session event order matters as much as the visible certificate names.
+- Without a complete physical/authentication chain, institutions can continue separating each fact.
+
+### Public or institutional status
+
+- Apex employee.
+- Initially framed as the saboteur.
+- Publicly described as a possible hostage.
+- His current voluntary involvement may expose him to prosecution even as it disproves the original deployment.
+
+### Relationships and trust state
+
+- **Julie:** Trust based on honesty rather than comfort; he remains angry about being brought into lethal risk.
+- **Marcus:** Increasing trust; Marcus physically protected him and the evidence.
+- **Vance:** Direct betrayal and framing.
+- **Chen:** Institutional adversary offering separate evaluation, not trusted.
+- **Bell:** Direct witness who saw his technical competence and unauthorized acts.
+
+### Current objective
+
+Keep the module and board intact, help identify the complete Hartwell signer state, and prevent Phase B without losing the distinction between replayed identity and voluntary action.
+
+### Current fear or pressure
+
+- His own authenticated actions may be used to prosecute him.
+- He may be publicly erased as a hostage or recast as saboteur.
+- The module may be seized before its event order is independently verified.
+- His physical limitations may prevent another timed authentication.
+- Julie may again ask him to make an impossible choice.
+
+### Arc position
+
+Fearful employee → reluctant witness → active accomplice → voluntary whistleblower. His actions are now his own, even though none offered a safe outcome.
+
+### Continuity risks
+
+- Making him fearless.
+- Giving him a perfect technical solution.
+- Letting his right index finger function normally.
+- Treating his expertise as authority over every system.
+- Forgetting that he remains legally exposed.
+- Describing all his actions as coerced.
+
+---
+
+## Sarah Chen
+
+### Identity and role
+
+Apex contractor-integration and compliance official with a government liaison badge. Operational incident coordinator for Building Three security and containment.
+
+### Established background
+
+No personal history outside the current incident is established. She is technically literate, institutionally disciplined, and careful about language.
+
+### Current physical condition
+
+No injury shown.
+
+### Current clothing and visual condition
+
+Initially described in a navy blazer with dark hair pinned back and a tablet. No later clothing change is stated.
+
+### Current location
+
+Last confirmed in the Apex Building Three security command center.
+
+### Current possessions
+
+- Incident command access.
+- Tablet or command-console access.
+- Preserved incident records and directives.
+- No personal evidence object shown outside Apex systems.
+
+### Current knowledge
+
+Chen knows:
+
+- Julie found Payload 88.
+- The review environment was sanitized.
+- Elias authenticated emergency access.
+- The provenance review suspended the external commit.
+- Vance used suppression against an occupied room.
+- Vance issued a material-loss lethal-force directive.
+- Julie and Elias captured a WSS-4 session.
+- SSO-NS-004 and Hartwell were discussed during the WSS confrontation, though the exact extent of her retained technical knowledge should not be expanded without a new scene.
+- The public attribution preceded technical findings.
+- Mercer has questioned Vance’s authority and force standard.
+
+She may not know:
+
+- The full contents of the case.
+- Every WSS-4 field shown on the local display.
+- The encrypted messages.
+- Current K-17 status.
+- Who holds the signer.
+- The complete Vance/Northbridge/Tariq relationship.
+
+### Beliefs and working theories
+
+- Julie is an unauthorized, dangerous subject who must be taken into custody.
+- Vance has exceeded lawful containment.
+- Evidence must be preserved rather than destroyed.
+- Julie may possess a genuine technical record but is still committing serious security violations.
+- Her own decisions will be reviewed.
+
+### Public or institutional status
+
+Still acting under Apex/joint incident authority. Not publicly implicated.
+
+### Relationships and trust state
+
+- **Julie:** Adversarial, grudgingly responsive to evidence distinctions.
+- **Vance:** Fractured trust and open force-policy conflict.
+- **Mercer:** Operational subordinate whose judgment she increasingly relies on.
+- **Law enforcement:** Coordinating but not controlling all agencies.
+
+### Current objective
+
+Capture Julie, Marcus, and Elias alive; recover and preserve the material; maintain a defensible incident response; prevent Vance’s unlawful force standard from becoming operational.
+
+### Current fear or pressure
+
+- Loss of control over the operation.
+- Evidence leaving Apex.
+- Vance’s orders creating deaths she will be required to explain.
+- Julie forcing her to choose between corporate authority and preserved record.
+
+### Arc position
+
+Formidable institutional antagonist whose loyalty to lawful process is separating from Vance’s objectives.
+
+### Continuity risks
+
+- Premature defection.
+- Secretly warning Julie.
+- Treating her preservation of directives as alliance.
+- Making her omniscient about technical evidence.
+- Erasing her legitimate reasons for seeking custody.
+
+---
+
+## Arthur Vance
+
+### Identity and role
+
+Apex site director and designated security authority for Building Three’s technical floor. Registered custodian of the executive hardware authority bound to APX-DIR-0019.
+
+### Established background
+
+No history before the current incident is established, beyond senior Apex authority and investment in Argus.
+
+### Current physical condition
+
+No injury shown.
+
+### Current clothing and visual condition
+
+Last specifically described in a charcoal suit with a precisely centered tie. Current clothing at the endpoint is not refreshed.
+
+### Current location
+
+Last confirmed at or communicating through Apex Building Three’s command structure.
+
+### Current possessions and assets
+
+- Executive credential and authority.
+- APX-DIR-0019 control path.
+- Apex security and compliance channels.
+- Vendor watch rules.
+- Access to incident reporting, footage, and public narrative.
+- Influence over security directives and system sanitization.
+
+### Current knowledge
+
+Confirmed or strongly supported:
+
+- Payload 88 was operationally deployed.
+- Elias discovered it.
+- Julie preserved part of the record.
+- The provenance release was suspended.
+- The enclave recovery record was sealed.
+- Julie followed the evidence to WSS-4.
+- The external signer chain was requested.
+- The trio escaped with incident media.
+
+Unknown to the reader:
+
+- Exactly how much of K-17, Tariq, Hartwell, or Sterling’s role Vance knows.
+- Whether he personally designed the full operation.
+- Whether he was instructed by Ste

@@ -1,0 +1,361 @@
+ecurity:** Continuous recording, query mirroring, supervised sandbox, export disabled.
+- **Vulnerability exploited:** Evidence drive handshake established before Vance fully revoked authority.
+- **Rule:** The same hidden device path should not remain available.
+
+## Compliance Four
+
+- **Function:** Elias detention and trio reunion.
+- **Description:** Reinforced glass vestibule, security desk, holding rooms, rear service passage.
+- **Security:** Badge, fingerprint, cameras, controlled doors.
+- **Life safety:** Thermostat/facilities bus and local override path.
+- **Vulnerability exploited:** Elias sent fault code and triggered local life-safety override.
+- **Rule:** No repeat thermostat trick without a distinct, justified system path.
+
+## Cooling galleries and chiller plant
+
+- **Function:** Physical pursuit maze and evidence-based navigation.
+- **Description:** Gantries, compressors, chilled-water loops, retracting bridge, frost, pressure-purge vents, shafts.
+- **Monitoring:** Environmental sensors and limited cameras.
+- **Hazards:** Condensation, supercooled vapor, retracting bridge, pressure changes.
+- **Vulnerability:** Heat load and pipe flow reveal hidden enclave despite incomplete maps.
+- **Rule:** Geography and mechanics must stay explicit.
+
+## Argus production enclave
+
+- **Function:** Closed-loop system correction and immutable evidence creation.
+- **Description:** Compact hardened room, armored gate, cabinets, raised floor, local terminals, independent clock, filtered cold air.
+- **Security:** Emergency administrator token, PIN, live biometric, private-key challenge, local audit.
+- **Surviving systems:** Production, recovery, cooling, local cameras, hardened incident path, life safety.
+- **Exploited vulnerability:** Legitimate emergency provenance and fire-egress design.
+- **Current condition:** Recovery record sealed; no confirmed catastrophic physical damage.
+- **Rule:** Do not describe it as destroyed or as a science-fiction server cathedral.
+
+## Loading Dock Three
+
+- **Function:** Escape and vehicle acquisition.
+- **Description:** Contractor vehicles, dispatch board, emergency key cabinet, south service perimeter.
+- **Security:** Cameras, dock doors, contractor telematics.
+- **Vulnerability:** Fire alarm released vehicle-relocation keys and opened emergency traffic flow.
+- **Rule:** Keys and routes should now be controlled.
+
+## Decommissioned communications cutout
+
+- **Function:** Temporary safe site, medical triage, evidence consolidation.
+- **Description:** Gray roll-up service bay, lockbox, obsolete consoles, battery clock, kitchenette, washroom, observation room, old forensic workstation.
+- **Security:** No visible active network; archived lease tied to Marcus.
+- **Entrances:** Roll-up bay, pedestrian door, steel fire exit, alley.
+- **Vulnerability:** Traceable through retired leases and PCF-27 route.
+- **Current state:** Abandoned by trio at 06:47; not safe to revisit casually.
+
+## Fenwick Annex
+
+- **Function:** Northbridge cover site and Act II offensive operation.
+- **Description:** Older L Street commercial building with public lobby, professional offices, rear service alley, landlord vestibule, freight elevator, tenant corridor.
+- **Security layers:** Landlord outer access, Northbridge sponsor, secure-domain controller, camera records.
+- **Entrances/exits:** Rear service door, public lobby, freight elevator, code-required fire stair, east service-court exit under green canopy.
+- **Vulnerability exploited:** Plausible false work order and sponsor exception during real diagnostic window.
+- **Rule:** The site is now under active police/Apex response and cannot be reentered the same way.
+
+## Northbridge WSS-4
+
+- **Function:** Secure strategic-risk synchronization endpoint.
+- **Description:** Small equipment room, two-person workspace, controller cabinet, protected audit interface, short internal corridor, green-lit fire door.
+- **Control:** Northbridge operator and sponsor; Apex-certified controller.
+- **Monitoring:** Local audit, controller seal, sponsor logs, vendor integrity notice.
+- **Vulnerability:** Human sponsor accepted a provisional diagnostic with no live ticket.
+- **Rule:** Julie accessed only the current session envelope, not the Northbridge archive.
+
+## Downtown Washington route
+
+- **Function:** Moving pursuit environment and political convergence.
+- **Description:** Roosevelt Bridge, commercial lanes, L Street service alleys, downtown traffic, federal avenues, motorcade route.
+- **Monitoring:** Plate readers, traffic cameras, private cameras, police observations.
+- **Rule:** Separate systems correlate with delay; the trio is buying minutes, not becoming invisible.
+
+## Hartwell Executive Briefing Annex
+
+- **Function:** Next authentication point and Act III center.
+- **Known facts:** Emergency national-security briefing; traffic restrictions; local perimeter challenge; 07:46–07:48:30 window; SSO-NS-004 expected.
+- **Unknown:** Layout, entrances, operator, badge system, camera placement, secure-room geometry, life-safety paths, and exact motorcade handling.
+- **Rule:** Do not invent a detailed architecture until an approved plan or chapter establishes it.
+
+## Forward Post Arjun
+
+- **Function:** Human field counterpoint and site of potential escalation.
+- **Description:** Reinforced mountain observation post, armored windows, tactical display, firing console, communications.
+- **Security and control:** Indian military command; Sharma holds local execution authority.
+- **Known exits/approaches:** Mountain roads and route toward Point Kestrel; no complete layout.
+- **Rule:** Preserve harsh weather, terrain, and local command realism.
+
+## Relay K-17
+
+- **Function:** Physical target or enabling site in the concealed operation.
+- **Description:** Ridge-top collection relay where local sensors write raw logs before propagation.
+- **Known approach:** Maintenance route through disputed corridor.
+- **Security:** At least one security line; detailed perimeter unknown.
+- **Current status:** Access not confirmed at 07:08.
+- **Rule:** Do not invent rooms, gates, defenders, or capture state.
+
+## Disputed corridor
+
+- **Function:** Terrain used for covert movement and sensor evasion.
+- **Description:** Mountainous, weather-affected, terrain-masked corridor near the Line of Control.
+- **Monitoring:** Thermal, vibration, communications, and relay sensors.
+- **Vulnerability:** Precisely timed gaps and Payload 88’s filtering behavior.
+- **Rule:** Physical terrain and sensor coverage must constrain movement.
+
+---
+
+@@END
+@@FILE 70 6635
+books/book-01/control/13-antagonist-objectives-and-conspiracy-model.md# 13. ANTAGONIST OBJECTIVES AND CONSPIRACY MODEL
+
+## Arthur Vance
+
+### Confirmed actions
+
+- Restricted Julie’s access after her arrival.
+- Denied validation-archive access.
+- Suspended Marcus’s authority.
+- Sanitized the review partition.
+- Directed containment and evidence recovery.
+- Pressured Elias to sign a false confession.
+- Used or controlled APX-DIR-0019’s executive authority.
+- Overrode occupied-room suppression protection.
+- Requested volatile sanitization.
+- Issued no-witness or evidence-priority language.
+- Issued material-loss lethal-force authority.
+- Created the WSS vendor watch.
+- Supported the public narrative through Apex records and footage.
+
+### Confirmed authority
+
+- Building Three site/security authority.
+- Registered custodian of the executive hardware authority controlling APX-DIR-0019.
+
+### Probable objective
+
+- Preserve Argus’s credibility, Apex’s contract, and the K-17 operation.
+- Convert crisis into proof of Argus’s necessity.
+- Keep the evidence under Apex interpretation.
+
+### Unproved objective
+
+- Direct personal control over Phase B.
+- Sterling-directed orders.
+- Connection to the prologue incident.
+- Exact financial or political benefit.
+
+### Assets
+
+Apex systems, personnel, certificates, footage, reporting channels, vendor watches, and executive controls.
+
+### Evidence link
+
+Strong and direct at registered-authority level.
+
+### Missing evidence
+
+Physical operator, upstream instruction, full message content, direct Tariq communications.
+
+### Current knowledge
+
+Knows Julie has followed the chain into Washington and captured WSS material. Exact knowledge of Hartwell and field status is not fully shown.
+
+### Public strategy
+
+Let Sterling and Apex characterize Julie’s correction as the attack.
+
+### Vulnerability
+
+- Certificate chain.
+- Elias board.
+- Recovery cartridge.
+- Chen directives.
+- WSS local audit.
+- Bell and Mercer testimony.
+- Suppression and fire logs.
+
+### Potential conflict with other antagonists
+
+Vance’s priority is evidence and Apex survival; Sterling may prioritize political survival; Tariq may prioritize field success.
+
+---
+
+## Senator Sterling
+
+### Confirmed actions
+
+- Issued public statements blaming Julie.
+- Defended Argus and institutional discipline.
+- Announced and traveled to Hartwell.
+- His office’s registered SSO authenticated WSS-4.
+
+### Confirmed authority
+
+Senatorial office, committee influence, office signer infrastructure, and public platform.
+
+### Probable objective
+
+- Use the regional crisis and insider narrative to preserve or expand Argus authority.
+- Enable or ratify Phase B.
+
+### Unproved objective
+
+- Direct personal command.
+- Personal possession of SSO-NS-004.
+- Knowledge of Payload 88’s exact mechanics.
+- Exact benefit expected from K-17.
+
+### Assets
+
+Public credibility, office staff, legislative certificate chain, motorcade, Hartwell access, Northbridge network.
+
+### Evidence link
+
+Office-device authentication is direct; personal action remains indirect.
+
+### Missing evidence
+
+Physical custody, plaintext commands, direct orders to Vance or Tariq.
+
+### Current knowledge
+
+Private knowledge not shown. Public statements demonstrate awareness of events and a prepared narrative.
+
+### Public strategy
+
+Present Julie as an expanding insider threat and the system as the victim.
+
+### Vulnerability
+
+- Same signer expected at Hartwell.
+- WSS-4 local and portable records.
+- Timing of statements.
+- Northbridge staff testimony.
+- Potential camera/access evidence identifying custodian.
+
+### Potential conflict
+
+May sacrifice Vance or distance the office from the device if exposure becomes unavoidable.
+
+---
+
+## Major Tariq
+
+### Confirmed actions
+
+No personal physical action is shown.
+
+### Confirmed authority
+
+A field-route certificate registered to Major Tariq / Forward Liaison Cell was accepted for K17 Operational Control.
+
+### Probable objective
+
+Complete the K-17 field operation and obtain Phase B authorization.
+
+### Unproved objective
+
+- Exact field action.
+- Personal participation.
+- Political allegiance.
+- Whether the field team is his military personnel, contractors, or another group.
+
+### Assets
+
+Field command authority, disciplined movement team, K17 operational channel, knowledge of local security status.
+
+### Evidence link
+
+Direct at command-certificate level.
+
+### Missing evidence
+
+Physical identity of operator/team, orders, current location, access result.
+
+### Current knowledge
+
+His command channel knows the structured field status.
+
+### Public strategy
+
+None shown.
+
+### Vulnerability
+
+Field certificate, WSS event order, K-17 physical evidence, and any failed Phase B attempt.
+
+### Potential conflict
+
+Tariq’s strategic objective may not require the same public outcome Sterling or Vance wants.
+
+## Confirmed Conspiracy Chain
+
+1. Payload 88 exists as prohibited synthetic validation material.
+2. A post-archive derivative entered PAK_RELAY_17A.
+3. APX-DIR-0019 signed or controlled the bridge.
+4. APX-DIR-0019 is bound to executive hardware authority registered to Vance.
+5. Payload 88 created false artillery evidence and suppressed K-17 movement.
+6. Northbridge participated in the authenticated operational path.
+7. WSS-4 hosted K17-PHASE-B.
+8. Tariq’s registered field authority was accepted.
+9. Sterling-office SSO-NS-004 authenticated the authorization side.
+10. Hartwell is the next required authentication point.
+11. Phase B and the second masking window remain pending.
+
+## Strongly Supported but Unproved Links
+
+- Vance personally directed Payload 88’s deployment.
+- The false artillery warning was designed primarily to cover the K-17 approach.
+- Sterling’s political operation knowingly depends on the K-17 outcome.
+- SSO-NS-004 will be carried by Sterling or an immediately authorized staff member.
+- The pending Argus reconstruction profile is the second manipulation.
+- Phase B concerns relay access, log alteration, or physical corroboration.
+- Vance, Sterling, and Tariq coordinate through Northbridge.
+
+## Open Possibilities
+
+- An aide, counsel, Northbridge intermediary, or legislative-security officer holds SSO-NS-004.
+- Sterling may be exploiting an operation designed by others rather than commanding every step.
+- Tariq may have a field objective that diverges from Sterling’s desired public crisis.
+- Northbridge leadership may be involved while ordinary staff are not.
+- Vance may have initiated the operation for Apex without full knowledge of Tariq’s field purpose.
+- K-17 may be one stage rather than the ultimate objective.
+- The six-years-ago Argus failure may be connected, imitated, or merely structurally similar.
+
+---
+
+@@END
+@@FILE 65 3446
+books/book-01/control/14-public-narrative-versus-actual-record.md# 14. PUBLIC NARRATIVE VERSUS ACTUAL RECORD
+
+| Public or official claim | Evidence-supported reality | Issuer | Genuine material used misleadingly | Why plausible | Evidence needed to overturn |
+|---|---|---|---|---|---|
+| Julie caused the Argus corruption | Payload 88 was active before Julie’s protected recovery session; she restored original labels | Apex, Sterling | Footage of Julie at recovery console | She lacks current clearance and manipulated a live system | Recovery cartridge, board, case, production logs |
+| Marcus is an armed accomplice | Marcus is an active-duty colonel who obstructed security and fled; trio had no firearm | Apex bulletin, law-enforcement relay | Stairwell fight, gate fight, escape | He used force and defied custody | Full footage, weapons inventory, Mercer/Chen testimony |
+| Elias is a hostage or coerced employee | Early pressure existed, but later gate, reconciliation, review, and WSS actions were voluntary and authenticated | Apex/public alert | He traveled with Julie and looked injured/frightened | He was physically vulnerable and publicly unknown | Board signing history, audit records, custody log, Elias testimony |
+| Julie sabotaged national-security infrastructure | She entered systems without authorization but used authenticated recovery to correct poisoned provenance | Apex, Sterling | Enclave entry, module capture, altered system state | Her actions caused release suspension | Recovery record and Payload 88 origin chain |
+| Julie caused the fire | Julie deliberately generated limited heat and smoke to trigger verified life safety after Vance armed lethal suppression | Apex/Sterling | Real fire alarm and smoke | She did initiate the detector conditions | Suppression logs, occupied-room override, Chen records |
+| Julie stole classified material | She removed classified case and incident records without authorization to preserve them from subject-controlled custody | Apex, official alerts | Physical removal is real | Legal custody path was broken | Custody log, sanitization history, named-receiving-agency failures |
+| Northbridge was attacked | Julie and Elias entered under a false work order and captured one scheduled session; no archive search, property seizure, hostage-taking, or violence occurred | Sterling, media | False entry and secure-suite alarm | It was a real unauthorized penetration | WSS scope logs, Bell testimony, module content |
+| Argus was protected from insider manipulation | The insider manipulation was already active; Julie’s intervention exposed it | Sterling/Apex framing | Argus release was interrupted | Public sees interruption, not source lineage | Recovery record and board/case comparison |
+| Sterling is responding responsibly to a regional threat | He is publicly performing institutional control while his office signer appears in the K-17 chain | Sterling | Real border uncertainty and real breaches | His public language is restrained and authoritative | WSS local audit, SSO custody, Hartwell authentication evidence |
+| The Northbridge incident proves an expanding insider attack | It proves the trio pursued stronger authentication after official channels failed | Sterling | Same subjects entered two secure sites | Repetition resembles escalation | Complete event order and evidence chronology |
+
+The manuscript does not establish universal public belief. It establishes repeated broadcast and institutional assertion.
+
+---
+
+@@END
+@@FILE 63 5973
+books/book-01/control/15-open-plot-threads-and-payoff-matrix.md# 15. OPEN PLOT THREADS AND PAYOFF MATRIX
+
+| Thread | First appearance | Most recent development | Current status / reader knowledge | Julie’s knowledge | Unknown / likely payoff range | Risk if ignored |
+|---|---|---|---|---|---|---|
+| Who held SSO-NS-004 at WSS-4? | Ch. 10 metadata; explicit Ch. 12 | Device authenticated | Registered to Sterling’s office; holder unseen | Same | Act III/Hartwell reveal | Evidence overclaim |
+| Who will hold it at Hartwell? | Ch. 12 | Same serial required | Unknown | Unknown | Immediate Act III | Central objective collapses |
+| Encrypted message content | Ch. 12 | Three blocks captured | Still encrypted | Still encrypted | Act III or later forensic payoff | Artificial omniscience if ignored |
+| What is Phase B? | Ch. 10 schedule | Hold with 07:49 deadline | Unknown action | Unknown | Act III field/briefing reveal | Stakes remain abstract |
+| Has Tariq’s team reached K-17? | Ch. 8 | Access not confirmed at 07:08 | Unknown | Unknown | K-17 cutaway or later evidence | False continuity |
+| Purpose of Masking Window Two | Ch. 12 | 07:48–07:54 | Strongly li

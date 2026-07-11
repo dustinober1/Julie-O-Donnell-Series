@@ -1,0 +1,369 @@
+-NS-004’s physical custodian by assumption.** That answer is an Act III reveal, not existing canon.
+
+The duplicate Chapter 5 and Chapter 7 title, “The Human Key,” should be repaired before publication but does not block Chapter 13 drafting.
+
+---
+
+@@END
+@@FILE 72 9734
+books/book-01/control/03-story-premise-and-book-level-dramatic-engine.md# 3. STORY PREMISE AND BOOK-LEVEL DRAMATIC ENGINE
+
+## Book 1 premise
+
+Six years after an Argus Beta targeting failure killed civilians and allowed the real target to escape, former Army intelligence captain Julie O’Donnell is pulled back into the system by a new signal pattern that is too perfect to be real. She discovers that an Apex adversarial-validation package, Payload 88, has been converted into operational intelligence, creating a false artillery threat that could trigger an Indian counter-battery strike.
+
+Julie stops the automated support release by restoring the package’s original source labels rather than deleting the underlying intelligence. The corrected data reveals that the false threat was also masking a disciplined movement toward Relay K-17. As Julie, Marcus, and Elias preserve the evidence, Apex and Senator Sterling recast them as the attackers. Their investigation links Vance’s executive authority, Northbridge, Major Tariq’s field command, and a portable signer registered to Sterling’s office—but not yet Sterling’s own hand.
+
+## Commercial hook
+
+**What if a defense system produced a convincing lie—and the institutions around it needed the lie to remain operationally useful?**
+
+The specific thriller hook is that Julie must stop a war-triggering false warning while proving that the correction itself is not the attack.
+
+## Julie’s external objective
+
+At the end of Chapter 12, Julie’s external objective is to prevent the Hartwell authentication from enabling Phase B or to capture independently verifiable evidence of who completes it, while keeping the primary evidence alive and admissible enough to survive official scrutiny.
+
+## Julie’s internal conflict
+
+Julie must act inside institutions whose procedures once erased the truth, without allowing that betrayal to turn her into someone who treats all procedure, all uncertainty, or all institutional personnel as enemies.
+
+Her central internal pressures are:
+
+- She was right six years ago and still failed to save anyone.
+- Marcus’s cautious testimony helped corrupt the record.
+- Correcting the system can expose genuine intelligence and real people.
+- Action without proof risks repeating Hargrove’s moral error.
+- Waiting for perfect proof can allow another irreversible event.
+- Leadership requires taking responsibility for Elias and Marcus, not merely using their skills.
+
+## Central moral problem
+
+When a warning contains both manufactured evidence and the possibility of a real threat, the moral answer is not to declare the world safe. It is to restore the uncertainty that was deliberately removed and force human beings to own the decision.
+
+Julie’s governing principle is:
+
+- Preserve raw observation.
+- Separate observation from reconstruction.
+- Challenge only what cannot survive provenance review.
+- Do not convert doubt into permission for violence.
+- Do not make innocent people absorb the cost of exposing the conspiracy.
+
+## Primary conspiracy
+
+Confirmed at the system level:
+
+1. Payload 88 was created as a synthetic adversarial-validation package.
+2. Its sandbox, synthetic-source, and operational-export safeguards were removed.
+3. A post-archive object derived from it entered the live PAK_RELAY_17A path.
+4. APX-DIR-0019, bound to executive hardware authority registered to Arthur Vance, controlled the bridge.
+5. The false artillery pattern generated a 99.8-percent strategic warning.
+6. The associated source-correction object suppressed or buried genuine low-level movement toward K-17.
+7. A Northbridge endpoint participated in the operational path.
+8. WSS-4 later hosted a K17-PHASE-B session.
+9. Major Tariq’s registered field authority was accepted.
+10. SSO-NS-004, registered to Sterling’s office, authenticated the authorization side.
+11. The same signer serial is required at Hartwell.
+12. Phase B and a second masking window remain pending.
+
+The exact motive, command hierarchy, and division of benefits among Vance, Sterling, and Tariq are not yet fully proved.
+
+## Three major antagonist layers
+
+### Arthur Vance — operational cover-up and Apex interest
+
+Vance controls the Apex-side authority, containment, record management, and attempted destruction or recovery of evidence. His stated worldview is that a controlled demonstration of Argus’s value can protect the program and force institutions to correct themselves.
+
+### Senator Sterling — political architecture and institutional exploitation
+
+Sterling uses public authority, committee credibility, and a crisis narrative to defend Argus and portray Julie as the attacker. His office’s signer is in the operational chain. His personal direction and motives remain unproved.
+
+### Major Tariq — field operation and independent strategic objective
+
+Tariq’s command authority participates in K17-PHASE-B. The field operation may serve Vance and Sterling’s objectives while also advancing Tariq’s own goal. His exact motive and the identity of the physical team remain unresolved.
+
+This three-layer distinction remains a controlling structural principle where it does not overstate the evidence.
+
+## Role of Argus
+
+Argus is:
+
+- A platform family.
+- A trusted analytic, attribution, escalation, and allied-warning system.
+- A mechanism for converting source data into operational conclusions.
+- A record-making system whose confidence and certification states influence human decision-makers.
+- Vulnerable because trusted inputs, source labels, administrative authority, and institutional incentives can be manipulated.
+
+Argus is not:
+
+- Sentient.
+- An independent mastermind.
+- Morally responsible apart from its human design, use, and governance.
+- Capable of proving intention merely by assigning confidence.
+
+## Role of Payload 88
+
+Payload 88 has two established linked effects:
+
+1. It manufactures a persuasive cross-border artillery-mobilization pattern.
+2. Through the source-correction object derived from it, it suppresses or reclassifies genuine movement that destabilizes the false pattern—especially activity toward K-17.
+
+Elias created the synthetic package for testing. He did not authorize its operational deployment.
+
+## Purpose of the false artillery threat
+
+Confirmed effect:
+
+- It concentrated command attention, model weighting, readiness, and counter-battery planning in Sector Zebra-Nine.
+- It nearly caused an Indian preemptive artillery mission.
+- It made preparation by both sides generate further evidence of escalation.
+- It caused Argus to reject or bury observations inconsistent with the false track.
+
+Strong inference:
+
+- The false warning was deliberately used as operational camouflage for movement toward K-17.
+
+Not yet proved:
+
+- The complete intended political outcome.
+- Whether an actual exchange of fire was essential to the conspiracy.
+- Whether Vance, Sterling, and Tariq expected exactly the same result.
+
+## Purpose of the concealed movement toward K-17
+
+Confirmed facts establish that the team approached a ridge-top collection relay whose raw local logs could matter to the operation.
+
+Working possibilities include:
+
+- Destroying original sensor logs.
+- Altering logs.
+- Blinding the corridor.
+- Creating physical corroboration for the false threat.
+- Enabling a second Argus manipulation.
+- Preparing Phase B.
+
+No single purpose is yet confirmed.
+
+## Six-years-ago connection
+
+Operational and thematic parallels are established:
+
+- Synthetic training material entered a live intelligence stream.
+- The data looked physically too perfect.
+- The same 11.2-second pattern appears.
+- A SIGMA-NORMALIZE family routine appears in both incidents.
+- Institutional actors preferred certified confidence to source doubt.
+- An abort request was delayed inside an Argus gateway.
+- The surviving record concealed the system’s role.
+
+What is not established:
+
+- That Vance, Sterling, Tariq, Northbridge, or the current conspiracy caused the six-years-ago incident.
+- That APX-DIR-0019 existed then.
+- That the same human actor inserted both packages.
+- That Hargrove was part of the current conspiracy.
+
+## What has been established versus suspected
+
+### Established
+
+- Payload 88 was synthetic.
+- It entered production through executive-level Apex authority.
+- Elias’s physical token did not sign the original deployment.
+- Julie’s reconciliation stopped the external support release.
+- A real movement toward K-17 existed.
+- Northbridge WSS-4 hosted the K17-PHASE-B session.
+- Tariq’s registered command authority and Sterling-office SSO-NS-004 participated.
+- Hartwell is the next authentication point.
+- Phase B remains on hold.
+- Relay access was not confirmed at 07:08.
+- The messages remain encrypted.
+- The public narrative is false in its causal account.
+
+### Strongly suspected
+
+- The K-17 movement was the real operation hidden by the false artillery warning.
+- Vance knowingly deployed or directed the deployment of Payload 88.
+- Sterling’s political operation benefits from the manufactured crisis.
+- Phase B is a later stage of the K-17 operation.
+- The pending Argus reconstruction profile is part of a second masking action.
+
+### Unproved
+
+- Sterling personally held SSO-NS-004.
+- Sterling personally signed or typed anything.
+- Tariq personally operated the field device.
+- K-17 has been entered.
+- The exact contents of Phase B.
+- The exact message content.
+- The full Northbridge organizational role.
+- The connection between the current conspiracy and the prologue incident.
+
+## Central dramatic question
+
+**Can Julie preserve uncertainty, stop Phase B, and create proof that survives the official record before the people who benefit from manufactured certainty complete the K-17 operation and turn her correction into the crime?**
+
+---
+
+@@END
+@@FILE 55 9792
+books/book-01/control/04-source-of-truth-canon-locks.md# 4. SOURCE-OF-TRUTH CANON LOCKS
+
+1. **The accepted Prologue and Chapters 1–12 are the highest authority.**
+
+2. **The current accepted endpoint is approximately 07:18 EDT in downtown Washington.**
+
+3. **Julie, Marcus, and Elias are together in PCF-27.**
+
+4. **PCF-27 is known, visually identifiable, and actively sought. Its disconnected telematics module does not make it invisible.**
+
+5. **Payload 88 was created by Elias as an adversarial-validation package, not operational intelligence.**
+
+6. **Payload 88’s original safeguards were: synthetic-source label required, sandbox execution only, and operational export prohibited.**
+
+7. **The approved archive ended at Revision Eight.**
+
+8. **An unexplained ninth checksum appeared three weeks after archival. Its exact change remains unresolved.**
+
+9. **A post-archive object named PAK_RELAY_17A_SOURCE_CORRECTION was derived from Payload 88 and made live.**
+
+10. **APX-DIR-0019 controlled the production bridge.**
+
+11. **The restored certificate chain binds APX-DIR-0019 to executive hardware authority registered to Arthur Vance.**
+
+12. **That certificate proves Vance’s registered executive authority controlled or authorized the bridge.**
+
+13. **It does not prove Vance personally typed the command or physically held the hardware.**
+
+14. **Elias’s administrator-token board was not physically used for the original deployment.**
+
+15. **The board’s monotonic signing history distinguishes the original replayed or mirrored identity from Elias’s later live actions.**
+
+16. **Elias’s emergency gate access, provenance reconciliation, recorder removal, cutout review, and Northbridge operation were voluntary, authenticated actions.**
+
+17. **Elias’s later voluntary actions do not retroactively prove he authorized the original deployment.**
+
+18. **Julie did not delete all intelligence.**
+
+19. **Julie selected a limited disputed range, preserved raw observations, restored original labels, and required dependent conclusions to reestablish themselves.**
+
+20. **The 05:00 external counter-battery support release was suspended because source provenance became invalid.**
+
+21. **The reader knows Major Sharma aborted the Indian firing mission and no rounds were fired.**
+
+22. **Julie, Marcus, and Elias can prove the American support release was suspended; they have not received direct confirmation that the Indian batteries fired no rounds.**
+
+23. **Payload 88 both manufactured the false artillery pattern and helped suppress genuine K-17 movement.**
+
+24. **The field movement involved approximately five or six disciplined individuals.**
+
+25. **Their last direct sensor position shortly after 05:00 was a little more than two kilometers from K-17.**
+
+26. **That position is historical, not current.**
+
+27. **At 07:08, Security Line One was passed.**
+
+28. **At 07:08, Relay K-17 access was not confirmed.**
+
+29. **K-17 has not been proved captured, entered, altered, damaged, or abandoned.**
+
+30. **K17-PHASE-B was the WSS-4 task profile. Its exact operational meaning remains unknown.**
+
+31. **Phase B was on hold for authorization at 07:08.**
+
+32. **Phase B’s authorization deadline is 07:49 EDT.**
+
+33. **Masking Window Two runs from 07:48 to 07:54 EDT.**
+
+34. **An Argus source-reconstruction profile is pending. Its exact intended action remains unproved.**
+
+35. **Major Tariq’s registered field authority was accepted in the WSS-4 session.**
+
+36. **That does not prove Tariq personally operated the field device or was physically present with the team.**
+
+37. **SSO-NS-004 is a portable executive signer registered to the Office of Senator Sterling.**
+
+38. **SSO-NS-004 answered the WSS-4 hardware challenge at 07:08:09.442 EDT.**
+
+39. **That proves the registered device answered the challenge.**
+
+40. **It does not prove Sterling personally held the device.**
+
+41. **The same SSO-NS-004 serial is expected for the Hartwell authentication.**
+
+42. **The Hartwell window is 07:46:00–07:48:30 EDT.**
+
+43. **A Hartwell local perimeter challenge requires the device to authenticate inside the briefing security domain.**
+
+44. **That challenge may help establish device location; it still does not automatically identify the human custodian.**
+
+45. **The substantive WSS-4 message blocks remain encrypted.**
+
+46. **Partition B contains the encrypted blocks and authenticated session context, not decrypted command content.**
+
+47. **Partition A remained sealed, read-only, and unchanged throughout the WSS-4 capture.**
+
+48. **WSS-4 generated a valid local controller seal.**
+
+49. **A second local audit record remains at Northbridge unless later destroyed; no destruction has been shown.**
+
+50. **Northbridge has a legitimate Apex contract and legitimate public policy work.**
+
+51. **Nora Bell and the WSS-4 operator are not shown as conspirators.**
+
+52. **Apex as a whole is not proved to be controlled by the conspiracy.**
+
+53. **Sarah Chen remains a capture-oriented antagonist, not an ally.**
+
+54. **Chen has preserved Vance’s conflicting lethal-force directive but has not disclosed it to an independent authority.**
+
+55. **Daniel Mercer remains an Apex security officer performing containment, not a covert member of Julie’s team.**
+
+56. **Mercer has questioned authority and force standards without choosing Julie’s side.**
+
+57. **Julie’s public alert identifies her as armed even though the trio possesses no firearm.**
+
+58. **Marcus’s active-duty rank does not restore his revoked credentials or guarantee safe access to military facilities.**
+
+59. **The aluminum case is a partial capture, not a complete production archive.**
+
+60. **The 136 sealed-file hashes prove those files have not changed since capture.**
+
+61. **They do not prove Apex presented an honest source environment before capture.**
+
+62. **The 47 incomplete files remain incomplete.**
+
+63. **The 311 excluded files are absent. Their contents must not be invented.**
+
+64. **The ninth checksum remains unexplained beyond its association with the post-archive object.**
+
+65. **Julie’s right wrist remains significantly impaired and braced.**
+
+66. **Marcus’s ribs, right thigh, scalp, boot, balance, and mobility remain materially impaired.**
+
+67. **Elias’s left hip, right index finger, balance, and cold/exhaustion symptoms remain materially limiting.**
+
+68. **No character has received adequate medical treatment.**
+
+69. **The trio’s rules remain: no civilian casualties, no hostage-taking, no indiscriminate data release, no revenge mission, no firearm escalation, and no deliberate attack on honest officers merely doing their jobs.**
+
+70. **Argus is not sentient.**
+
+## Prohibited Continuity Errors
+
+- Do not claim a hardware certificate proves who physically held the device.
+- Do not claim Vance’s certificate proves his personal keystrokes.
+- Do not claim Sterling personally authenticated the WSS-4 session.
+- Do not claim Major Tariq personally operated the field endpoint.
+- Do not claim Relay K-17 has been captured.
+- Do not reuse the team’s old “two kilometers from K-17” position as current.
+- Do not claim the encrypted Northbridge messages have been read.
+- Do not state the exact content or purpose of Phase B as fact.
+- Do not state the exact purpose of the pending Argus reconstruction profile as fact.
+- Do not treat Elias as coerced into every action; his later actions were voluntary and audit-sealed.
+- Do not treat Elias’s voluntary actions as proof he made the original deployment.
+- Do not turn Sarah Chen into an ally prematurely.
+- Do not turn Mercer into a covert member of Julie’s team.
+- Do not portray Julie’s provenance action as deleting all intelligence.
+- Do not portray the 05:00 reconciliation as proof that no genuine threat existed.
+- Do not let Julie claim direct knowledge that no Indian rounds were fired unless she 

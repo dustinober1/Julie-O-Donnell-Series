@@ -1,0 +1,231 @@
+nked to second manipulation | Suspects masking | Near-term Act III | Deadline lacks payoff |
+| Pending Argus source-reconstruction profile | Ch. 12 | Status pending | Exact purpose unknown | Suspects another manipulation | Act III technical reveal | Overpowered tech or vague threat |
+| What must occur at Hartwell? | Ch. 12 | Local perimeter challenge | Same device must answer in secure domain | Knows timing and serial | Chapter 13/14 | Act III lacks concrete action |
+| Independently verifiable proof | Ch. 10 | WSS local audit plus portable capture | Stronger but still subject to hostile explanation | Knows physical custodian is missing | Act III independent witness/custody | Endless evidence escalation |
+| Sterling’s exact command role | Ch. 10 | Office signer at WSS | Office link direct, personal role unproved | Same | Act III or climax | Politician becomes generic villain |
+| Northbridge’s full role | Ch. 10 | WSS hosted live session | Operational suite implicated; staff knowledge divided | Same | Bell/leadership/audit payoff | Entire institution unfairly blamed |
+| What Vance knew about Tariq | Ch. 10 onward | No direct communication recovered | Unknown | Unknown | Decrypted record/testimony | Antagonist chain remains assumed |
+| What happened to Leland Price? | Ch. 1–2 | Extension suspended | Unknown | Knows only suspension | Mid/late Act III witness or unresolved | Dropped setup |
+| Will Chen disclose Vance’s directives? | Ch. 8–11 | Says she preserved them | Not yet disclosed | Knows preservation claim | Act III witness choice | Arc stalls |
+| Mercer witness or antagonist or both? | Ch. 3 onward | Rejected unjustified ballistic action; failed capture | Still active antagonist with relevant observations | Knows he follows procedure | Act III custody confrontation | Premature ally turn |
+| What will Hackett do with stronger evidence? | Ch. 4 | Has not seen later proof | Unknown | Knows he previously demanded surrender | Act III recipient/witness | Early contact becomes dead end |
+| How is Elias’s voluntary role established publicly? | Ch. 7 | Hardware audit, custody log, WSS witnesses | Strong technical proof exists, public still says hostage | Knows exact record | Investigation/public fracture | Elias remains erased |
+| Marcus and six-years-ago testimony | Prologue/Ch. 4 | Confession to Julie; current risk-taking | Official record unchanged | Knows full betrayal | Act III or final-act testimony | Arc incomplete |
+| Was old Argus incident connected? | Ch. 2 | Same pattern/software family | Similarity only | Suspects repeated method | Late-book/series reveal | Premature conspiracy inflation |
+| Can four-second delay be proved? | Prologue | Original cache overwritten | No surviving proof shown | Remembers it | Hargrove/old annex/system archive | Defining wound unresolved |
+| What happens at K-17? | Ch. 8 | Phase B hold and access unconfirmed | Active field crisis | Knows urgency only | Act III field climax | Geopolitical half disappears |
+| Consequence of aborted strike | Ch. 8 | No rounds fired; command demanded explanation | Reader knows; trio does not | No confirmation | Sharma/Northern Command scene | Tactical victory lacks human consequence |
+| Sharma’s role after abort | Ch. 8 | Last at post | Unknown | Does not know Sharma | Act III independent corroboration | Strong parallel character abandoned |
+| Physical costs | Ch. 6 onward | All three significantly impaired | Unresolved | Directly experienced | Treatment, collapse, permanent effect | Superhuman recovery |
+| Emotional costs | Prologue onward | Julie leads; Marcus atones; Elias owns choices | Unresolved | Directly experienced | Act III relationship decisions | Action erases character |
+| Public narrative fracture | Ch. 9 onward | Sterling strengthened it through Fenwick | No visible fracture yet | Needs authenticated counterrecord | Bell, Chen, Mercer, Sharma, local audits | Antagonist narrative too easy |
+| What launches final act? | Ch. 12 | Hartwell motorcade and 28-minute window | Structural launch exists | Chooses to move toward center | Chapter 13 | Momentum loss |
+| Hargrove’s current role | Prologue | No present-day appearance | Older outline planned witness only | Unknown | Optional later payoff | Treating stale plan as canon |
+| Physical custodian versus registered authority | Ch. 10–12 | Central distinction reinforced | Unresolved | Core evidence rule | Hartwell observation/custody record | Book violates own evidence logic |
+| Fate of Bell’s local record | Ch. 12 | Bell told to preserve it | Last known intact | Knows it exists | Independent seizure/testimony | WSS evidence loses redundancy |
+| Vance’s suppression and lethal orders | Ch. 8–12 | Chen preserved records | Not externally disclosed | Knows key facts | Chen/Mercer witness payoff | Vance consequence incomplete |
+
+---
+
+@@END
+@@FILE 60 12673
+books/book-01/control/16-chapter-by-chapter-status-record.md# 16. CHAPTER-BY-CHAPTER STATUS RECORD
+
+## Prologue — Six Years Ago
+
+- **Approximate word count:** 2,300.
+- **Time:** Operational morning; key times 09:41:16–09:41:20. Later nine-week investigation and resignation three months afterward.
+- **Locations:** FOB near Pakistan border; investigation/hearing; Fort Belvoir.
+- **Primary POV:** Julie.
+- **Purpose:** Establish Julie’s competence, original Argus wound, civilian cost, four-second delay, Marcus’s betrayal, and official-record theme.
+- **Opening state:** Julie sees a high-confidence target feed whose perfection violates physical conditions.
+- **Major events:** Finds synthetic carrier noise; orders abort; gateway delays; missile kills eleven civilians; real convoy escapes; hearing changes timeline; Julie resigns.
+- **Evidence gained/lost:** Local cache proves timing but is overwritten; Exercise 7C match established.
+- **Character changes:** Julie loses faith in institutional correction; Marcus preserves access at her expense.
+- **Systems introduced:** Argus Beta, raw carrier noise, validation package, tactical gateway.
+- **Ending state/hook:** Machine wrong, record says Julie late.
+- **Continuity carried forward:** 11.2-second pattern, SIGMA-NORMALIZE family, four-second delay, Hargrove, Marcus testimony.
+- **Revision concern:** Prologue operational times lack an explicit time zone; no repair required unless calendar precision is later needed.
+
+## Chapter 1 — The Official Version
+
+- **Approximate word count:** 4,200.
+- **Time:** October morning through 11:52 EDT.
+- **Locations:** Julie’s farm, Route 29, Apex campus, Room 402B.
+- **POV:** Julie.
+- **Purpose:** Reestablish Julie’s civilian life, bring Marcus back, initiate the new threat, and place her under supervised control.
+- **Opening:** Fence repair and physical causality.
+- **Major events:** Marcus presents sanitized telemetry; admits his past failure; Julie travels to Apex; Vance restricts access; Chen introduces compliance boundary; Julie sees the impossible feed.
+- **Evidence:** Sanitized 11.2-second sequence; one-hundred-percent display history mentioned; raw review begins.
+- **Relationships:** Julie and Marcus begin operational repair; Julie and Chen become immediate adversaries.
+- **Systems:** Argus Enterprise, supervised sandbox, plate readers, access controls.
+- **Ending hook:** The machine is lying in the same voice.
+- **Continuity:** Julie’s Ford, phone and electronic fob left at Apex, mechanical key retained.
+- **Revision concern:** None apart from downstream timeline conflict.
+
+## Chapter 2 — The Poisoned Feed
+
+- **Approximate word count:** 5,000.
+- **Time:** Begins immediately after Chapter 1; exact wall time not provided.
+- **Locations:** Room 402B; Elias’s integration lab.
+- **POVs:** Julie and Elias.
+- **Purpose:** Establish Payload 88, Elias’s framing, and the first evidence-capture opportunity.
+- **Major events:** Julie finds environmental variance, impossible terrain path, repeated carrier noise, Validation Package 88, Elias’s name, ninth checksum, and SIGMA-NORMALIZE-4. Elias discovers live deployment and APX-DIR-0019.
+- **Evidence:** Index, checksum, bridge path, token replay, safeguard removal.
+- **Character changes:** Julie moves from suspicion to evidence; Elias becomes endangered witness.
+- **Systems:** Validation archive, executive waiver, maintenance drive, hidden evidence path.
+- **Ending hook:** Room is locked and transfer at 85 percent.
+- **Continuity:** Exact escape time remains unstated.
+- **Revision concern:** None apart from downstream clock.
+
+## Chapter 3 — The Exit Protocol
+
+- **Approximate word count:** 4,400.
+- **Time:** Immediate continuation; ends before 13:07.
+- **Locations:** 402B, stairwell, parking skybridge, Apex perimeter; Forward Post Arjun.
+- **POVs:** Julie; Sharma cutaway.
+- **Purpose:** Escape with partial evidence and introduce the human decision-maker in Kashmir.
+- **Major events:** Capture seals; Marcus refuses undocumented seizure; Julie triggers fire alarm; trio’s first two members escape; Julie evades Apex; Sharma sees disappearing source review.
+- **Evidence:** Partial case; Sharma photograph.
+- **Relationships:** Marcus crosses from procedural sponsor to active accomplice; Mercer established as professional adversary.
+- **Systems:** Life safety, emergency egress, evidence manifest.
+- **Ending hook:** Sharma orders local image and watches certification countdown.
+- **Continuity:** PCF-27 not yet introduced.
+- **Revision concern:** First Indian timeline belongs to the conflicting Chapters 1–5 clock branch.
+
+## Chapter 4 — Burn Notice
+
+- **Approximate word count:** 6,350.
+- **Time:** 13:07–15:36 EDT, with Kashmir at 00:14 IST.
+- **Locations:** Prince William County, motel, Apex detention, library, car wash, Reston tree line, Forward Post Arjun.
+- **POVs:** Julie, Elias, Sharma.
+- **Purpose:** Analyze partial evidence, show Vance framing Elias, reject unsafe surrender, and plan return to Apex.
+- **Major events:** Julie verifies 136/47/311 state; Hackett refuses to suspend without admissible evidence; Marcus confesses his past compromise; trio identifies need for Elias and production root; Julie downloads old plans.
+- **Evidence:** Live object, APX-DIR fragment, source-challenge protocol, evidence-file integrity.
+- **Character changes:** Marcus accepts Julie’s standard; Julie chooses reentry; Elias resists confession.
+- **Ending hook:** Julie and Marcus walk back toward Apex.
+- **Continuity:** No firearms; gray coveralls; Ford left outside perimeter.
+- **Revision concern:** Timing conflicts with Chapter 6’s “same night” early-morning sequence.
+
+## Chapter 5 — The Human Key
+
+- **Approximate word count:** 6,400.
+- **Time:** 15:41–approximately 16:14 EDT; Kashmir 01:17 IST.
+- **Locations:** Building Three, Compliance Four, service corridors, core access lift, production-vault corridor, Forward Post Arjun.
+- **POVs:** Elias, Julie, Sharma.
+- **Purpose:** Unite trio, expose Vance’s worldview, and reach the first production-root challenge.
+- **Major events:** Elias messages through thermostat; Vance pressures him; Julie and Marcus enter through culvert; rescue Elias; Mercer questions Vance; trio descends; director-compromise review triggered.
+- **Evidence:** Elias board, APX-DIR reference, Vance verbal admissions.
+- **Character changes:** Elias actively joins; Mercer’s trust in Vance weakens.
+- **Ending hook:** Circular vault door begins turning as recovery team arrives.
+- **Continuity carried:** Countdown approximately 15 minutes to 16:30.
+- **Revision concern:** **Critical.** Does not connect to Chapter 6’s time, place, positions, or deadline.
+- **Additional concern:** Shares title with Chapter 7.
+
+## Chapter 6 — The Descent
+
+- **Approximate word count:** 3,950.
+- **Time:** 04:52–04:54:47 EDT.
+- **Locations:** Lower tier, cooling galleries, chiller plant, pressure galleries, enclave approach.
+- **POVs:** Julie with Chen cutaway.
+- **Purpose:** Trap trio below Apex and make enclave access the only route to prevent the 05:00 release.
+- **Major events:** Shutter crossing; cooling-route decision; bridge fall; purge hazards; pursuit; arrival at gate.
+- **Evidence:** Case remains intact.
+- **Injuries:** Julie wrist; Marcus boot and ribs; Elias hip.
+- **Systems:** Quarantine, cooling loops, retracting bridge, pressure purges.
+- **Ending hook:** Elias says opening the gate will permanently identify him.
+- **Revision concern:** **Critical opening mismatch with Chapter 5.**
+
+## Chapter 7 — The Human Key
+
+- **Approximate word count:** 4,900.
+- **Time:** 04:55–04:58:11 EDT.
+- **Locations:** Enclave gate and interior.
+- **POVs:** Julie with Chen cutaway.
+- **Purpose:** Force Elias’s voluntary choice, authenticate access realistically, and get trio through the gate.
+- **Major events:** Token identity selection; PIN; live biometric; private-key challenge; audit commit; containment fight; gate closes.
+- **Evidence:** Immutable emergency-access record.
+- **Injuries:** Marcus scalp and thigh worsen; Julie wrist worsens; Elias finger opens.
+- **Character changes:** Elias becomes voluntary whistleblower; Chen refuses lethal force.
+- **Ending hook:** Only 01:37 to external commit.
+- **Revision concern:** Duplicate title with Chapter 5.
+
+## Chapter 8 — The 05:00 Abort
+
+- **Approximate word count:** 4,650.
+- **Time:** 04:58–05:01 EDT / approximately 14:28–14:31 IST.
+- **Locations:** Enclave, Forward Post Arjun, Apex command center.
+- **POVs:** Julie, Sharma, Chen/Vance.
+- **Purpose:** Stop immediate catastrophe, preserve uncertainty, reveal K-17 movement, and escalate Vance to lethal suppression.
+- **Major events:** Reconciliation; confidence collapse; external release suspension; Sharma abort; K-17 discovery; Vance arms suppression.
+- **Evidence:** Recovery record, restored labels, K-17 raw events, Vance override.
+- **Character changes:** Julie completes moral correction; Elias owns technical decision; Sharma acts.
+- **Ending hook:** Suppression manifold pressurizes.
+- **Revision concern:** Part of the second clock branch; conflicts with Chapters 1–5 schedule.
+
+## Chapter 9 — The Life-Safety Override
+
+- **Approximate word count:** 5,500.
+- **Time:** 05:01–05:14:36 EDT.
+- **Locations:** Enclave, mechanical levels, Loading Dock Three, south utility gate.
+- **POVs:** Julie and Chen.
+- **Purpose:** Escape with evidence, establish public false narrative, and put trio in known vehicle.
+- **Major events:** Verified fire; cartridge removal; suppression discharge; fire egress; PCF-27 theft; public bulletin; van clears gate; telematics disconnected.
+- **Evidence:** Recovery cartridge, transponder.
+- **Injuries:** All worsen; Marcus mobility severely reduced.
+- **Public consequence:** Julie framed immediately.
+- **Ending hook:** Their names repeat over radio.
+- **Revision concern:** A line refers to Elias’s “coveralls,” while later endpoint clothing clearly returns to his office shirt. Treat endpoint clothing as controlling.
+
+## Chapter 10 — The Capital Connection
+
+- **Approximate word count:** 6,000.
+- **Time:** 05:15–06:25 EDT.
+- **Locations:** Northern Virginia roads; decommissioned cutout.
+- **POV:** Primarily Julie.
+- **Purpose:** Stabilize injuries, authenticate evidence, connect Vance to Northbridge, and find 07:08 schedule.
+- **Major events:** Arrival cutout; medical treatment; custody log; board analysis; recovery cartridge analysis; Vance certificate chain; Northbridge receipt; K17-PHASE-B schedule.
+- **Evidence:** Composite Vance proof; limited derivative.
+- **Relationships:** Elias challenges Julie; she accepts responsibility.
+- **Ending hook:** “No one yet.”
+- **Revision concern:** None material.
+
+## Chapter 11 — Going Offensive
+
+- **Approximate word count:** 5,550.
+- **Time:** 06:25–06:50 EDT.
+- **Locations:** Cutout; Northern Virginia route.
+- **POVs:** Julie with Chen cutaway.
+- **Purpose:** Define morally bounded Northbridge operation and evidence roles.
+- **Major events:** Reject immediate handoff; identify Fenwick; create dual-partition module; transfer originals to Marcus; prepare false work order; Chen preserves directives; trio departs; Sterling speaks.
+- **Evidence:** Partition A verified, Partition B armed, primary custody formalized.
+- **Character changes:** Julie commands; Elias volunteers; Marcus accepts exterior role.
+- **Ending hook:** Julie sees Sterling’s narrative and says, “Now I have to.”
+- **Revision concern:** None material.
+
+## Chapter 12 — The Sterling Trap
+
+- **Approximate word count:** 8,550.
+- **Time:** 06:50–07:18 EDT.
+- **Locations:** Northern Virginia, Roosevelt Bridge, Fenwick Annex, WSS-4, service court, downtown Washington, Apex command center.
+- **POVs:** Julie, Marcus, Chen.
+- **Purpose:** Conduct first offensive operation, capture stronger proof, trigger trap, and launch Act III.
+- **Major events:** Fenwick entry; Bell sponsor exception; vendor watch; WSS session; Tariq and Sterling-office certificates; encrypted blocks; Hartwell/Phase B/masking deadlines; delayed abort by eight seconds; escape; second public attack narrative; motorcade convergence.
+- **Evidence:** Partition B, Northbridge local audit, work-order/access witnesses.
+- **Injuries:** Julie wrist, Marcus scalp/ribs/thigh/boot, Elias hip/finger all worsen.
+- **Relationship changes:** Chen confirms preservation; Bell becomes witness; Mercer preserves force restraint; Elias remains at module voluntarily.
+- **Ending hook:** “Then impossible is where he’ll feel safest.”
+- **Revision concern:** No internal endpoint conflict. The eight-second overrun is deliberate and costs the primary exit.
+
+---
+
+@@END
+@@FILE 58 6955
+books/book-01/control/17-style-tone-and-narrative-rules.md# 17. STYLE, TONE, AND NARRATIVE RULES
+
+## Narrative perspective
+
+- Close third-person past tense.
+- Julie is primary viewpoint.
+- Controlled cutaways to Elias, Sharma, Chen, Marcus, or other pressure-bearing characters.
+- Cutaways must add dramatic irony, deadline pressure, or institutional consequ
