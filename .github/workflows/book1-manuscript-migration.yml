@@ -1,12 +1,12 @@
 name: Migrate Book 1 manuscript to Markdown
 
 on:
-  push:
+  pull_request:
     branches:
       - main
     paths:
+      - ".migration/request.md"
       - ".github/workflows/book1-manuscript-migration.yml"
-      - ".migration-trigger"
 
 permissions:
   contents: write
@@ -15,10 +15,11 @@ jobs:
   migrate:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repository
+      - name: Check out migration branch
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          ref: ${{ github.event.pull_request.head.ref }}
 
       - name: Export controlling Google Doc
         shell: bash
@@ -92,9 +93,7 @@ jobs:
               body = '\n\n'.join(paragraphs).strip()
               return f'# {title}\n\n{body}\n'
 
-          (root / 'prologue.md').write_text(
-              render(*sections[0]), encoding='utf-8'
-          )
+          (root / 'prologue.md').write_text(render(*sections[0]), encoding='utf-8')
 
           for number, section in enumerate(sections[1:], start=1):
               path = chapter_dir / f'chapter-{number:02d}.md'
@@ -130,14 +129,18 @@ jobs:
           PY
 
       - name: Remove one-time migration files
-        run: rm .github/workflows/book1-manuscript-migration.yml .migration-trigger
+        run: |
+          rm .github/workflows/book1-manuscript-migration.yml
+          rm -rf .migration
 
-      - name: Commit migrated manuscript
+      - name: Commit migrated manuscript to branch
         shell: bash
+        env:
+          HEAD_BRANCH: ${{ github.event.pull_request.head.ref }}
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add -A
           git diff --cached --check
           git commit -m 'Migrate accepted Book 1 manuscript into GitHub'
-          git push origin HEAD:main
+          git push origin "HEAD:${HEAD_BRANCH}"
