@@ -1,0 +1,25 @@
+# Canon Control Pack v1.0
+
+Split by section for review and version control. The accepted manuscript always outranks the control pack.
+
+- [Overview](00-overview.md)
+- [1. DOCUMENT PURPOSE AND USE](01-document-purpose-and-use.md)
+- [2. CURRENT PROJECT STATE](02-current-project-state.md)
+- [3. STORY PREMISE AND BOOK-LEVEL DRAMATIC ENGINE](03-story-premise-and-book-level-dramatic-engine.md)
+- [4. SOURCE-OF-TRUTH CANON LOCKS](04-source-of-truth-canon-locks.md)
+- [5. MASTER TIMELINE](05-master-timeline.md)
+- [6. CHARACTER STATE LEDGER](06-character-state-ledger.md)
+- [7. RELATIONSHIP AND TRUST MATRIX](07-relationship-and-trust-matrix.md)
+- [8. EVIDENCE AND CHAIN-OF-CUSTODY LEDGER](08-evidence-and-chain-of-custody-ledger.md)
+- [9. KNOWLEDGE AND INFORMATION CONTROL MATRIX](09-knowledge-and-information-control-matrix.md)
+- [10. TECHNOLOGY AND SYSTEM RULES](10-technology-and-system-rules.md)
+- [11. ORGANIZATIONS, AUTHORITIES, AND INSTITUTIONAL CONTROL](11-organizations-authorities-and-institutional-control.md)
+- [12. LOCATION AND SECURITY ARCHITECTURE](12-location-and-security-architecture.md)
+- [13. ANTAGONIST OBJECTIVES AND CONSPIRACY MODEL](13-antagonist-objectives-and-conspiracy-model.md)
+- [14. PUBLIC NARRATIVE VERSUS ACTUAL RECORD](14-public-narrative-versus-actual-record.md)
+- [15. OPEN PLOT THREADS AND PAYOFF MATRIX](15-open-plot-threads-and-payoff-matrix.md)
+- [16. CHAPTER-BY-CHAPTER STATUS RECORD](16-chapter-by-chapter-status-record.md)
+- [17. STYLE, TONE, AND NARRATIVE RULES](17-style-tone-and-narrative-rules.md)
+- [18. ACT III ENTRY STATE](18-act-iii-entry-state.md)
+- [19. DISCREPANCY AND REPAIR REPORT](19-discrepancy-and-repair-report.md)
+- [20. CONTROL-PACK MAINTENANCE RULES](20-control-pack-maintenance-rules.md)

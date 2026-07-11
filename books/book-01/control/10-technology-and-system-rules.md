@@ -1,4 +1,262 @@
-record.
+# 10. TECHNOLOGY AND SYSTEM RULES
+
+## 10.1 Argus platform family
+
+### Purpose
+
+Processes intelligence sources into attribution, confidence, movement, escalation, allied-warning, and strike-support products.
+
+### Control
+
+Shared government and Apex architecture; exact ownership differs by component.
+
+### Capabilities
+
+- Correlate source data.
+- Generate confidence and movement models.
+- Cache operational conclusions.
+- Route validated products.
+- Produce audit and dependency records.
+
+### Limitations
+
+- Cannot turn manipulated input into truth.
+- Cannot independently establish human intent.
+- Can preserve an invalid conclusion if a source merely disappears.
+- Depends on source labels, provenance, normalization, thresholds, and human authority.
+
+### Evidence created
+
+Confidence states, source lineage, cached conclusions, routing logs, release products, and review states.
+
+### Future rule
+
+Argus must remain a powerful but non-sentient tool whose dangerous output follows from human-controlled data and governance.
+
+---
+
+## 10.2 Argus Beta
+
+### Purpose
+
+Prologue-era tactical/SIGINT and targeting-support variant.
+
+### Established behavior
+
+- Accepted a training noise sequence wrapped in live encryption.
+- Produced 94.1-percent confidence.
+- Owned the tactical relay through which Julie’s abort had to pass.
+- Delayed the abort four seconds during authentication.
+
+### Limitations
+
+Its confidence did not prove source authenticity, and its certified routing behavior did not preserve the moral truth of the event.
+
+### Future rule
+
+The current conspiracy’s responsibility for the Beta incident remains unproved.
+
+---
+
+## 10.3 Argus Enterprise / ARGUS-ENT-4.6
+
+### Purpose
+
+Present-day scaled system supporting automated attribution, escalation modeling, and allied warning distribution.
+
+### Established controls
+
+Apex maintains much of the ingestion, validation, and infrastructure. Government acceptance and oversight exist but are constrained by contractor ownership.
+
+### Future rule
+
+Do not import the superseded term “RoboWarning” into accepted prose without deliberate revision.
+
+---
+
+## 10.4 Raw telemetry
+
+### Purpose
+
+Preserves packet timing, amplitude, receiver, location estimate, signal structure, environmental noise, and low-level sensor events before model conclusions.
+
+### What it can do
+
+Reveal physically impossible regularity and observations hidden by reconstruction.
+
+### What it cannot do
+
+Identify a human operator by itself or guarantee that the environment presenting the feed is honest.
+
+### Evidence
+
+Raw packet samples and K-17 events in the case.
+
+---
+
+## 10.5 Source ingestion
+
+### Purpose
+
+Moves collection data into the Argus operational assessment layer.
+
+### Control
+
+In this incident, a Pakistan relay path and Apex-controlled bridge.
+
+### Vulnerability
+
+Trusted ingestion can convert a prohibited object into normal-looking operational input.
+
+### Rule
+
+The exploit is abuse of authorized architecture, not omnipotent hacking.
+
+---
+
+## 10.6 Source normalization and SIGMA-NORMALIZE
+
+### Purpose
+
+Reconstructs or smooths environmentally degraded signals so the model can compare them.
+
+### Established variants
+
+- SIGMA-NORMALIZE-2 appears in the six-years-ago routing record.
+- SIGMA-NORMALIZE-4 processed the current feed.
+
+### Vulnerability
+
+Normalization can make synthetic data appear to have survived weather and can hide common provenance or contrary observations.
+
+### Limitation
+
+Use of the same software family does not prove the same conspirator.
+
+---
+
+## 10.7 Payload 88
+
+### Purpose
+
+Adversarial-validation scenario designed to test Argus’s source-verification logic.
+
+### Control
+
+Created by Elias’s team; later converted through executive authority.
+
+### Can do
+
+Generate realistic false artillery signals and rejection behavior.
+
+### Cannot do
+
+Authorize its own deployment or decide its own strategic purpose.
+
+### Evidence
+
+Revision Eight, safeguards, source label map, post-archive derivative, and recovery result.
+
+---
+
+## 10.8 Validation packages
+
+### Purpose
+
+Synthetic test objects used to expose system weaknesses.
+
+### Rules
+
+- Remain inside sandbox.
+- Require synthetic labels.
+- Cannot be operationally exported without violating established safeguards.
+- Their realism does not make them true field intelligence.
+
+---
+
+## 10.9 Synthetic-source labels
+
+### Purpose
+
+Tell Argus and human reviewers that data is artificial and operationally inadmissible.
+
+### Survival
+
+Restored from Elias’s board and preserved in the recovery record.
+
+### Vulnerability
+
+Can be stripped or bypassed by a privileged actor.
+
+### Rule
+
+Restoring labels changes admissibility and dependent conclusions; it does not erase raw observations.
+
+---
+
+## 10.10 Sandbox restrictions
+
+### Purpose
+
+Contain validation material and prevent operational effects.
+
+### Established controls
+
+- Sandbox execution only.
+- Operational export prohibited.
+- Synthetic source required.
+
+### Vulnerability
+
+Executive waiver was used as though it could reclassify source truth. The recovery system later ruled that executive waiver was insufficient for source reclassification.
+
+---
+
+## 10.11 Source provenance
+
+### Purpose
+
+Records where data originated, how it was transformed, and whether it is admissible.
+
+### Rule
+
+Confidence without valid provenance is not operational proof.
+
+### Vulnerability
+
+Privileged services can strip labels, wrap identities, or create derivative objects.
+
+---
+
+## 10.12 Cached operational conclusions
+
+### Purpose
+
+Allow operational systems to continue through source loss or collection interruption.
+
+### Danger
+
+Deleting Payload 88 alone would have left the last validated conclusion active.
+
+### Rule
+
+Future scenes must distinguish source removal from dependency invalidation.
+
+---
+
+## 10.13 Provenance reconciliation
+
+### Purpose
+
+Compare disputed operational source blocks with original validation material, restore labels, and recompute dependent conclusions.
+
+### What survived
+
+- Raw observations.
+- Limited selected range.
+- Restored labels.
+- Dependency chain.
+- Recovery record.
 
 ### What it did
 
@@ -490,69 +748,3 @@ The exact purpose must remain unresolved until dramatized or decrypted.
 - A second use of the same exact physical bypass succeeds merely because it worked once.
 
 ---
-
-@@END
-@@FILE 79 4933
-books/book-01/control/11-organizations-authorities-and-institutional-control.md# 11. ORGANIZATIONS, AUTHORITIES, AND INSTITUTIONAL CONTROL
-
-| Organization | Public role | Actual story role / systems | Authority and compromise | What remains lawful or innocent | Future simplification to avoid |
-|---|---|---|---|---|---|
-| Apex Defense Systems | Defense contractor and Argus developer/maintainer | Controls major ingestion, validation, Building Three, certified contractor profiles, and public response | Vance and privileged channels are compromised; exact breadth unknown | Many employees, technicians, security staff, and ordinary engineering functions remain legitimate | Do not make all Apex staff conspirators |
-| Army Intelligence | Government intelligence and program oversight | Marcus’s review cell and initial source challenge | Access can be suspended through security reporting | Marcus, Hackett, and other officers may act lawfully or cautiously | Do not say Apex directly commands the entire Army |
-| Defense Intelligence Agency | Defense intelligence and systems audit | Leland Price and government liaison presence | Price’s credentials were suspended | DIA as a whole is not implicated | Do not assume Price’s treatment represents full DIA policy |
-| Army counterintelligence | Investigates security and classified-data incidents | Receives Apex report and may detain subjects | Operating initially from a hostile or incomplete record | Detention and evidence seizure may be lawful | Do not equate procedure with conspiracy |
-| Army Criminal Investigation Division | Requested to locate Marcus/Julie in Vance’s account | Potential receiving investigative authority | Exact active role unclear | No evidence CID is controlled by Vance | Do not invent a CID tactical team without a scene |
-| Defense Criminal Investigative Service | Named by Marcus as an appropriate independent custodian | Not shown taking action | No confirmed involvement | Potentially legitimate recipient | Do not claim it has custody |
-| Argus program oversight | Government acceptance and strategic supervision | Marcus’s former access authority and broader governance | Contractor dependence limits inspection | Oversight may be flawed rather than corrupt | Avoid one monolithic “oversight” actor |
-| Northbridge Strategic Initiatives | Think tank/risk consultancy with secure communications contract | WSS-4 endpoint in bridge and Phase B chain | Suite is operationally implicated | Bell, operator, staff, policy work, and contract may be legitimate | Do not turn the office into a villain fortress |
-| Senator Sterling’s office | Legislative and national-security office | Owns SSO-NS-004 certificate chain; public narrative; Hartwell presence | Office device is operationally implicated | Which staff member possesses or uses it remains unknown | Office device ≠ Sterling’s hand |
-| Sterling’s committee/political network | Oversight, legislation, public authority | Argus policy advocacy and crisis exploitation | Exact legal committee name and command power not stated | Policy support and donor ties are not crimes | Do not invent committee powers |
-| Major Tariq’s Forward Liaison Cell | Field liaison/operational command | K17 Operational Control field endpoint | Authority accepted at WSS-4 | Parent service and nationality are unstated | Do not invent organizational identity |
-| Indian Northern Command | Regional military command | Pressures Sharma to prepare and execute | Relies on American certification | Its concern about a real threat is legitimate | Do not portray India as passive or foolish |
-| Forward Post Arjun | Indian forward artillery post | Local human check against Argus certainty | Sharma holds local execution authority | Personnel follow command and preserve defensive readiness | Do not give them U.S.-side knowledge |
-| Metropolitan Police | D.C. law enforcement | Responds to Northbridge breach and known van | Acts on reports and direct observations | Officers are shown using restraint | Do not make them Apex agents |
-| Fairfax County responders | Fire and local emergency response | External constraint on Apex during alarms | County response opened life-safety systems | Responders are ordinary public-safety personnel | Do not make fire response a recurring convenient tool |
-| Apex Protective Services | Contractor security | Mercer’s containment and recovery teams | Vance’s orders conflict with Chen’s force rules | Mercer and officers generally act professionally | Do not make every officer murderous |
-| Fenwick landlord security | Ordinary building security | Controls outer service access and responds to breach | Deceived by false work order | Guard performs correct job and uses restraint | Do not retroactively implicate him |
-| Hartwell Executive Briefing Annex | Secure briefing site | Next authentication point | Exact governing authority unknown | Briefing itself may be legitimate | Do not invent controlling agency or layout |
-
----
-
-@@END
-@@FILE 62 8567
-books/book-01/control/12-location-and-security-architecture.md# 12. LOCATION AND SECURITY ARCHITECTURE
-
-## Julie’s farm
-
-- **Function:** Refuge, moral baseline, physical cause-and-effect world.
-- **Description:** Ten acres, rolling pasture, oak/hickory tree line, weathered white farmhouse, listing porch, barn, gravel drive, fence.
-- **Entrances/exits:** Gravel drive and ordinary farm access; no detailed security layout.
-- **Monitoring:** No camera system mentioned.
-- **Control:** Julie; neighbor assists with horses.
-- **Vulnerability:** Address known through consultant paperwork.
-- **Continuity rule:** It is not currently a safehouse.
-
-## Apex campus
-
-- **Function:** Corporate-government fortress and Act I/II action center.
-- **Description:** Reston campus behind pines and landscaped berm.
-- **Security:** Tree cameras, plate reader, forced vehicle turn, guard booth, retractable barriers, concrete planters/bollards.
-- **Layers:** Outer vehicle control, parking structure, skybridge, biometric interior, technical floors, sublevels.
-- **Exploited vulnerabilities:** Fire evacuation, inbound fire lane, old stormwater easement.
-- **Future rule:** Those vulnerabilities are now known and should not work unchanged.
-
-## Apex Building Three
-
-- **Function:** Argus operational and evidence-control center.
-- **Description:** Four-story glass-and-stone office appearance above extensive mechanical and production sublevels.
-- **Entrances/exits:** Main screening, parking skybridge, loading docks, mechanical plant, stormwater chamber, service stairs.
-- **Monitoring:** Extensive cameras, badges, environmental sensors, tailgate detection.
-- **Control:** Split among Apex security, facility systems, government access, local production, and life safety.
-- **Unknown:** Exact full renovated layout.
-- **Rule:** No single control room owns every system.
-
-## Briefing Room 402B
-
-- **Function:** Initial supervised review and first evidence capture.
-- **Description:** Windowless, cold, metal table, four chairs, government terminal bolted to floor, dome camera, steel door.
-- **S

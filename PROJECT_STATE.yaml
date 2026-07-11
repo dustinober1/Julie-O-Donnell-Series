@@ -1,0 +1,54 @@
+project: "Julie O'Donnell Series"
+repository: "dustinober1/Julie-O-Donnell-Series"
+default_branch: "main"
+last_updated: "2026-07-11"
+
+active_book:
+  number: 1
+  title: null
+  genre: "Contemporary geopolitical techno-thriller / military-intelligence thriller"
+  primary_protagonist: "Julie O'Donnell"
+  canon_endpoint: "End of Chapter 12"
+  accepted_content:
+    prologue: true
+    chapters: "1-12"
+    act_i: "complete"
+    act_ii: "complete"
+    act_iii: "not drafted"
+  approximate_manuscript_words: 67800
+  endpoint_time:
+    eastern: "approximately 07:18 EDT"
+    india: "approximately 16:48 IST"
+  next_chapter:
+    number: 13
+    title: null
+    function: "not locked"
+
+source_of_truth:
+  - rank: 1
+    path: "books/book-01/manuscript/SOURCE.md"
+    role: "Reference to the accepted external manuscript; controlling canon"
+  - rank: 2
+    path: "books/book-01/control/"
+    role: "Canon and production controls through Chapter 12"
+  - rank: 3
+    path: "README.md"
+    role: "Navigation and summary only"
+
+critical_blockers:
+  - id: "chapter-5-6-continuity"
+    severity: "critical"
+    status: "unresolved"
+    description: "Chapter 5 ends around 16:14 EDT at the production-vault entrance; Chapter 6 begins at 04:52 EDT behind a descending hydraulic shutter as an immediate continuation."
+  - id: "chapter-13-function"
+    severity: "high"
+    status: "not locked"
+    description: "The dominant Chapter 13 objective and abort condition have not been selected."
+
+production_rules:
+  - "Accepted manuscript prose outranks all summaries and plans."
+  - "Do not silently repair the Chapter 5-6 contradiction."
+  - "Do not identify the physical custodian of SSO-NS-004 without new accepted evidence."
+  - "Plans for unwritten chapters remain non-canon until dramatized and accepted."
+
+next_recommended_action: "Resolve the Chapter 5-6 continuity break, then lock the Chapter 13 mission and draft Act III from the accepted Chapter 12 endpoint."

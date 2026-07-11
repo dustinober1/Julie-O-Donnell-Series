@@ -1,30 +1,4 @@
-acquires that information.
-- Do not portray Argus as sentient, self-motivated, or omniscient.
-- Do not restore the characters to full physical condition without treatment and elapsed recovery time.
-- Do not give Julie normal grip strength in her right hand.
-- Do not let Marcus sprint, fight, or drive normally on his current leg, ribs, scalp wound, and damaged boot.
-- Do not let Elias use his right index finger or injured hip normally.
-- Do not allow the evidence to prove more than its documented contents support.
-- Do not say hashes prove the original data was truthful.
-- Do not say the 136 sealed files constitute the complete archive.
-- Do not reconstruct the 47 incomplete or 311 excluded files from convenience.
-- Do not treat the WSS-4 module capture and the Northbridge local audit as the same physical object.
-- Do not make Northbridge’s ordinary staff members knowing conspirators without new evidence.
-- Do not make all of Apex, the Army, DIA, law enforcement, or the Senate part of one secret organization.
-- Do not reuse the Building Three fire-alarm, life-safety, stormwater, maintenance-ticket, or provisional-diagnostic solution as an effortless universal bypass.
-- Do not describe the Fenwick entry as a magical hack. It depended on a genuine form, plausible formatting, a real diagnostic window, landlord intake, Bell’s judgment, and a local sponsor exception.
-- Do not claim Sterling’s public statements prove his private operational role by themselves.
-- Do not invent a current warrant, charge, or court order.
-- Do not introduce “RoboWarning” as accepted manuscript terminology unless the manuscript is deliberately revised; that term appears only in superseded repository planning.
-- Do not assume the present conspiracy caused the six-years-ago incident.
-- Do not make Hargrove part of the present conspiracy without new evidence.
-- Do not silently correct the Chapter 5–6 timeline inside future prose.
-
----
-
-@@END
-@@FILE 43 14694
-books/book-01/control/05-master-timeline.md# 5. MASTER TIMELINE
+# 5. MASTER TIMELINE
 
 ## Timeline conventions
 
@@ -149,29 +123,3 @@ The Chapter 6–12 branch is recorded below because it controls the accepted end
 | Masking Window Two closes | 07:54:00 | 17:24:00 | 36:00 |
 
 ---
-
-@@END
-@@FILE 50 35043
-books/book-01/control/06-character-state-ledger.md# 6. CHARACTER STATE LEDGER
-
-## Julie O’Donnell
-
-### Identity and role
-
-Former U.S. Army captain and intelligence officer. Primary protagonist, analyst, evidence custodian, and current operational leader.
-
-### Established background
-
-- Served at a FOB near the Pakistan border.
-- Identified synthetic Argus Beta telemetry before the fatal strike.
-- Issued the abort before weapon release, but Argus held it for authentication.
-- Was cleared of misconduct while the official record blamed analyst delay.
-- Resigned three months later.
-- Lives on a ten-acre farm near Culpeper with horses and a life built around physical cause and effect.
-
-### Current physical condition
-
-- **Right wrist injury:** Began when she pulled Marcus beneath the Chapter 6 shutter; aggravated during the gate fight, suppression escape, driving, and Fenwick extraction.
-- **Treatment:** Rigid plastic strip and elastic wrapping in neutral position.
-- **Limitation:** Right hand has little useful grip. She steers primarily with her left hand and braces the wheel with her right forearm. Vibration causes hard pain at the base of the thumb and into the forearm.
-- **Other condition:** Exhaustion, cold exposure, suppressant exposure, sleep dep

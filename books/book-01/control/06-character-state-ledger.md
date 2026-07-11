@@ -1,4 +1,26 @@
-rivation, and accumulated bruising; no other discrete diagnosed injury shown.
+# 6. CHARACTER STATE LEDGER
+
+## Julie O’Donnell
+
+### Identity and role
+
+Former U.S. Army captain and intelligence officer. Primary protagonist, analyst, evidence custodian, and current operational leader.
+
+### Established background
+
+- Served at a FOB near the Pakistan border.
+- Identified synthetic Argus Beta telemetry before the fatal strike.
+- Issued the abort before weapon release, but Argus held it for authentication.
+- Was cleared of misconduct while the official record blamed analyst delay.
+- Resigned three months later.
+- Lives on a ten-acre farm near Culpeper with horses and a life built around physical cause and effect.
+
+### Current physical condition
+
+- **Right wrist injury:** Began when she pulled Marcus beneath the Chapter 6 shutter; aggravated during the gate fight, suppression escape, driving, and Fenwick extraction.
+- **Treatment:** Rigid plastic strip and elastic wrapping in neutral position.
+- **Limitation:** Right hand has little useful grip. She steers primarily with her left hand and braces the wheel with her right forearm. Vibration causes hard pain at the base of the thumb and into the forearm.
+- **Other condition:** Exhaustion, cold exposure, suppressant exposure, sleep deprivation, and accumulated bruising; no other discrete diagnosed injury shown.
 
 ### Current clothing and visual condition
 
@@ -481,4 +503,572 @@ Unknown to the reader:
 
 - Exactly how much of K-17, Tariq, Hartwell, or Sterling’s role Vance knows.
 - Whether he personally designed the full operation.
-- Whether he was instructed by Ste
+- Whether he was instructed by Sterling or another actor.
+- His relationship to the six-years-ago event.
+
+### Beliefs and working theories
+
+Vance’s own statements indicate he believes:
+
+- Institutions need actionable certainty.
+- A controlled Argus demonstration can protect or expand the program.
+- Strategic conclusions can justify manipulation of the input path.
+- Evidence recovery is more important than subject safety.
+
+### Public or institutional status
+
+Still Apex authority. Not publicly accused.
+
+### Relationships and trust state
+
+- **Chen:** Authority increasingly disobeyed or narrowed.
+- **Mercer:** His directions are questioned.
+- **Elias:** Employee he has framed and threatened.
+- **Julie/Marcus:** Subjects to discredit, contain, or eliminate.
+- **Sterling/Tariq:** Operational relationship not directly dramatized.
+
+### Current objective
+
+Prevent the evidence from reaching an independent evaluator, preserve the operational program, and complete or protect the larger K-17/Phase B action.
+
+### Current fear or pressure
+
+- Certificate chain reaching independent custody.
+- Chen’s preserved directives.
+- WSS-4 local audit.
+- Bell or Mercer becoming witnesses.
+- Hartwell authentication exposing physical custody.
+- Loss of Argus authority and Apex liability.
+
+### Arc position
+
+Operational cover-up figure exposed at the authority-chain level but not yet defeated.
+
+### Continuity risks
+
+- Saying his personal keystrokes are proved.
+- Turning him into a political official rather than Apex director.
+- Giving him omnipotent control over closed-loop or independent systems.
+- Making every Apex employee knowingly loyal to him.
+
+---
+
+## Senator Sterling
+
+### Identity and role
+
+United States senator, public political authority, committee figure, and the political layer of the antagonist structure.
+
+### Established background
+
+- Northbridge’s president formerly led Sterling’s national-security staff.
+- Northbridge policy language influenced legislation pushed by Sterling’s committee.
+- Northbridge board members belong to his donor network.
+- His office operates a national-security authority under the Senate member-office certificate chain.
+
+### Current physical condition
+
+No injury or limitation shown.
+
+### Current clothing and visual condition
+
+Appears at press microphones beneath flags and a committee seal; exact clothing details are not emphasized.
+
+### Current location
+
+Motorcade en route to Hartwell.
+
+### Current possessions
+
+Unknown. Do **not** assign SSO-NS-004 to his person. The device is registered to his office and expected at Hartwell.
+
+### Current knowledge
+
+Publicly shown:
+
+- Building Three incident.
+- Northbridge incident.
+- Argus and regional-threat framing.
+- Scheduled Hartwell briefing.
+
+Operational knowledge is not directly depicted from his POV. His office’s signer participation strongly supports access to the operation but does not establish his personal knowledge of every detail.
+
+### Beliefs and working theories
+
+His public rhetoric treats:
+
+- Julie as the insider threat.
+- Argus as infrastructure requiring protection.
+- Institutional discipline as the proper response.
+- The border threat as continuing despite the provenance failure.
+
+His private motive remains unproved.
+
+### Public or institutional status
+
+Powerful public official appearing responsible and calm. No public implication in the conspiracy.
+
+### Relationships and trust state
+
+- **Northbridge:** Strong public professional and political ties; operational link through WSS-4.
+- **Vance:** Probable operational alignment; direct command link unproved.
+- **Tariq:** Sterling-office signer and Tariq field authority share a session; personal relationship unproved.
+- **Julie:** Publicly cast as antagonist and threat.
+
+### Current objective
+
+Confirmed public objective: proceed to Hartwell and direct the public/institutional response.
+
+Probable operational objective: obtain or enable Phase B authorization and exploit the crisis. Still unproved.
+
+### Current fear or pressure
+
+Probable:
+
+- Exposure of the office signer chain.
+- A physical custodian being identified.
+- Independent WSS-4 records.
+- Loss of political control over the crisis narrative.
+
+### Arc position
+
+Political architect strongly implicated at the office-device level, not yet personally proved.
+
+### Continuity risks
+
+- Naming him as physical signer.
+- Giving him private knowledge not shown.
+- Turning public rhetoric into direct proof.
+- Giving him and Vance identical motives.
+
+---
+
+## Major Tariq
+
+### Identity and role
+
+Major associated with a Forward Liaison Cell and K17 Operational Control. Field-antagonist layer.
+
+### Established background
+
+No personal history, nationality, service branch, or appearance is directly established.
+
+### Current physical condition and clothing
+
+Unknown.
+
+### Current location
+
+Unknown.
+
+### Current possessions
+
+Unknown. A field-route certificate registered to his command participated in WSS-4; physical custody is unknown.
+
+### Current knowledge
+
+His command channel knows or transmitted:
+
+- Security Line One passed.
+- Relay access not confirmed.
+- Phase B on hold.
+- Authorization required.
+- K17-PHASE-B session context.
+
+His personal knowledge cannot be separated from his command’s knowledge without a direct scene.
+
+### Beliefs and working theories
+
+Unknown.
+
+### Public or institutional status
+
+Not publicly identified.
+
+### Relationships and trust state
+
+- **Sterling:** Their registered authorities meet in one session; personal relationship unproved.
+- **Vance:** No direct link shown.
+- **Field team:** Probable command relationship; physical identity and control unproved.
+
+### Current objective
+
+Probable: complete a field operation associated with K-17 and Phase B.
+
+Exact strategic objective remains unproved.
+
+### Current fear or pressure
+
+- Phase B deadline.
+- Relay access still unconfirmed.
+- Need for masking or source reconstruction.
+- Exposure of the field command certificate.
+
+### Arc position
+
+Field authority revealed, personal character still largely concealed.
+
+### Continuity risks
+
+- Inventing nationality, unit, motive, or location.
+- Treating command-certificate use as proof of personal operation.
+- Saying his team captured K-17.
+
+---
+
+## Major Ananya Sharma
+
+### Identity and role
+
+Indian artillery/battery commander at Forward Post Arjun.
+
+### Established background
+
+Experienced mountain officer who distrusts machine certainty unsupported by local observation.
+
+### Current physical condition and clothing
+
+No injury shown. Military uniform and cold-weather operational context are implicit, but detailed clothing is not established.
+
+### Current location
+
+Last confirmed at Forward Post Arjun at 14:30 IST. Her location at 16:48 IST is not shown.
+
+### Current possessions
+
+- Written fire order.
+- Access to firing and communications systems.
+- Qureshi’s photograph or local copy of the disappearing source-review notice.
+- Local mission and abort records.
+
+### Current knowledge
+
+Sharma knows:
+
+- The American assessment was internally unstable.
+- A source-review notice appeared and vanished.
+- The Argus confidence collapsed after provenance review.
+- A synthetic component was detected.
+- Counter-battery support became invalid.
+- She aborted the mission.
+- No rounds were fired.
+
+She does not know:
+
+- Julie’s identity or actions.
+- Payload 88.
+- Vance, Sterling, Tariq, Northbridge, or Phase B.
+- The concealed K-17 movement unless later local review reveals it.
+
+### Beliefs and working theories
+
+- The original American certainty was unsupported.
+- Preparation can create the evidence used to justify further preparation.
+- Command responsibility remains local even when allied systems provide confidence.
+
+### Public or institutional status
+
+Likely subject to Northern Command scrutiny after delaying and aborting the mission, but no aftermath is shown.
+
+### Relationships and trust state
+
+- No direct relationship with Julie.
+- Strong thematic parallel.
+- Strained relationship with Northern Command over execution authority.
+- Professional trust with Qureshi.
+
+### Current objective
+
+Last confirmed: keep weapons safe, demand an explanation, preserve local evidence, and maintain real defensive readiness.
+
+### Current fear or pressure
+
+- Genuine Pakistani threat may still exist.
+- Her delay may be blamed.
+- The source system may have concealed a different operation.
+
+### Arc position
+
+Independent human decision-maker who validates Julie’s moral principle from the field.
+
+### Continuity risks
+
+- Giving Julie knowledge from Sharma’s POV.
+- Making Sharma a direct ally without contact.
+- Forgetting the patrol toward Point Kestrel.
+- Claiming she knows the K-17 conspiracy.
+
+---
+
+## Daniel Mercer
+
+### Identity and role
+
+Apex Protective Services officer and containment-team leader.
+
+### Established background
+
+No earlier history established. He is physically capable, procedurally minded, and accustomed to command.
+
+### Current physical condition
+
+- Wrist was taped after Marcus twisted it during the first escape.
+- Later struck in the face/head area during the enclave fight; no diagnosed injury described.
+- Otherwise operational.
+
+### Current clothing and visual condition
+
+Dark Apex Protective Services uniform and body armor. Sidearm, radio, and team support. At Fenwick he arrived with less-lethal and rifle-equipped operators.
+
+### Current location
+
+Last confirmed in the Fenwick service court.
+
+### Current possessions
+
+- Standard security equipment.
+- Radio.
+- No evidence item recovered.
+
+### Current knowledge
+
+Mercer knows:
+
+- Julie and Marcus escaped with the case.
+- Elias claims APX-DIR-0019 framed him.
+- Vance failed to name a receiving federal agency.
+- Vance issued an aggressive material-recovery priority.
+- Chen’s force standard forbids firearm use without deadly threat and clear background.
+- Elias escaped Fenwick with an electronic module.
+- Civilians and police were present.
+
+He does not know:
+
+- The module’s contents.
+- The WSS-4 signer chain.
+- Current K-17 or Phase B details.
+- Full certificate proof against Vance.
+
+### Beliefs and working theories
+
+- The trio committed serious security violations.
+- Vance’s authority and explanations are unreliable.
+- Containment and evidence recovery remain his duty.
+- Unjustified lethal force is not.
+
+### Public or institutional status
+
+Active Apex security officer.
+
+### Relationships and trust state
+
+- **Chen:** Operational trust; follows her force limits.
+- **Vance:** Increasing distrust.
+- **Julie/Marcus/Elias:** Subjects to capture, not partners.
+
+### Current objective
+
+Recover the subjects and media within lawful force constraints.
+
+### Current fear or pressure
+
+- Losing evidence.
+- Failing command.
+- Being ordered to commit an unlawful killing.
+- Crossfire or civilian harm in occupied environments.
+
+### Arc position
+
+Procedural antagonist developing independent judgment.
+
+### Continuity risks
+
+- Secretly helping Julie.
+- Ignoring capture duty.
+- Becoming sadistic.
+- Using lethal force without the clear-background and deadly-threat conditions he has respected.
+
+---
+
+## Leland Price
+
+### Identity and role
+
+DIA systems auditor and member of Marcus’s original review cell.
+
+### Established background
+
+- Requested raw access after Argus displayed one hundred percent confidence.
+- Had his credentials suspended.
+- Internal extension was disabled.
+- Was unavailable when Marcus called.
+
+### Current physical condition, clothing, location, possessions
+
+Unknown.
+
+### Current knowledge
+
+Likely knows or suspects:
+
+- The Pakistan feed required source-level review.
+- The one-hundred-percent state was abnormal.
+- Access was being obstructed.
+
+He does not know the later case unless independently briefed.
+
+### Public or institutional status
+
+Subject of an administrative access review. Whether detained, reassigned, protected, or silenced remains unknown.
+
+### Relationships and trust state
+
+- Marcus considered him part of a small review cell.
+- Julie has never met him on-page.
+- Relationship to Chen, Vance, or Hackett is unknown.
+
+### Current objective and pressure
+
+Unknown; likely preserving his position or pursuing the source anomaly.
+
+### Arc position
+
+Unresolved potential witness.
+
+### Continuity risks
+
+- Assuming he is dead, detained, or an ally.
+- Giving him evidence he never received.
+- Using him as a convenient unmonitored channel without explaining his status.
+
+---
+
+## General William Hackett
+
+### Identity and role
+
+Deputy Director for Operational Intelligence; Marcus’s senior contact.
+
+### Established background
+
+Julie met him once before the current story. Marcus trusted him enough to call from the motel.
+
+### Current physical condition, clothing, location, possessions
+
+Not shown. He answered through his office.
+
+### Current knowledge
+
+Hackett knows:
+
+- Marcus and Julie claimed synthetic contamination.
+- They possessed a sealed incident capture.
+- Marcus’s credentials had been revoked.
+- They had removed classified material.
+- The South Asia decision was time-sensitive.
+- Marcus refused to surrender through the gate without a named custody path.
+
+Hackett does not know:
+
+- The recovery cartridge.
+- Vance certificate chain.
+- K-17 movement.
+- Northbridge.
+- WSS-4.
+- SSO-NS-004.
+- Hartwell linkage.
+
+### Beliefs and working theories
+
+- Marcus may possess important but inadmissible evidence.
+- Lawful custody must precede action.
+- The unsecured phone call itself was dangerous.
+- He could not suspend a strategic product based only on Marcus’s claim.
+
+### Public or institutional status
+
+Senior official, not implicated.
+
+### Relationships and trust state
+
+- **Marcus:** Professional relationship strained by Marcus’s flight.
+- **Julie:** Historical awareness, no current trust scene.
+- **Vance/Apex:** No direct personal relationship shown.
+
+### Current objective
+
+Last confirmed: obtain the case through Fort Belvoir and Army counterintelligence.
+
+### Current fear or pressure
+
+- Acting on unverified evidence.
+- Mishandling classified material.
+- Being manipulated by either Apex or fugitives.
+- The South Asia deadline.
+
+### Arc position
+
+Potential independent authority whose caution is lawful but operationally too slow.
+
+### Continuity risks
+
+- Making him corrupt.
+- Making him instantly believe Julie.
+- Giving him later evidence without a transfer scene.
+- Forgetting he may become useful once the evidence is independently authenticated.
+
+---
+
+## Lieutenant Colonel Daniel Hargrove
+
+### Identity and role
+
+Prologue-era command-pressure figure who blocked Julie’s first abort long enough for the strike to proceed.
+
+### Established background
+
+- Pressed for action based on Argus confidence.
+- Discounted Julie’s physical-signal analysis.
+- Stood between Julie and the abort control.
+- Received a letter of concern that did not enter his permanent record.
+- Participated in the hearing process.
+
+### Current physical condition, clothing, location, possessions
+
+Unknown. Last shown six years ago in uniform.
+
+### Current knowledge
+
+Historical:
+
+- Julie identified synthetic material before the strike.
+- Marcus supported her late.
+- The local logs showed the abort initiated before release.
+
+Current story knowledge is unknown.
+
+### Public or institutional status
+
+Unknown.
+
+### Relationships and trust state
+
+- **Julie:** Deep historical antagonism and accountability.
+- **Marcus:** Shared institutional failure.
+- **Current conspiracy:** No confirmed relationship.
+
+### Current objective and pressure
+
+Unknown.
+
+### Arc position
+
+Historical unresolved witness. An older outline planned him as an Act III witness, but no current approved Act III plan establishes that role.
+
+### Continuity risks
+
+- Treating the older planned witness role as canon.
+- Making him part of the current conspiracy.
+- absolving or demonizing him without confronting his actual command decisions.
+
+---

@@ -1,22 +1,4 @@
-direct order to destroy the local record, or Vance attempting to remove Chen |
-| Mercer ↔ Chen | Containment leader and incident coordinator | Moderate-to-high professional | Operational failure and conflicting command | Chen knows directive provenance; Mercer has field observations | Continued consistent force rules or Chen asking Mercer to preserve evidence against Vance |
-| Mercer ↔ Vance | Vance is designated authority | Low and deteriorating | Vance refuses named custody paths and prioritizes material over life | Mercer has heard Vance’s evasions; Vance controls reporting | Proof of unlawful orders or a direct order to fire without lawful basis |
-| Sterling ↔ Vance | Probable aligned operational interests | Unknown | Their motives may diverge if exposure grows | Vance controls Apex records; Sterling controls political narrative | Decrypted communications or direct command evidence |
-| Sterling ↔ Northbridge | Public staff, policy, donor, contract, and WSS links | Institutionally close | Northbridge may be exposed as operational cutout | Bell and WSS local audit may reveal more than Sterling expects | Independent seizure of WSS-4 records and personnel testimony |
-| Sterling ↔ Tariq | Their registered authorities shared K17-PHASE-B session | Operational link proved; personal trust unknown | Field objective may conflict with political timing | Tariq knows field status; Sterling office controls authorization device | Message decryption, Hartwell event, or field failure |
-| Vance ↔ Tariq | No direct personal link shown | Unknown | Operational interests overlap through Payload 88/K-17 chain | Vance knows source manipulation; Tariq’s command knows field status | A routing receipt, message, or testimony directly joining them |
-| Julie ↔ Sharma | No direct contact | None established | Both face action under uncertainty | Reader knows both sides; each does not know the other | Independent transmission of the recovery or abort records |
-| Marcus ↔ Hackett | Senior-subordinate professional relationship | Strained | Hackett requires lawful custody; Marcus believes custody sequence is compromised | Marcus knows evidence; Hackett knows institutional authority | Presentation of independently sealed WSS and Apex records |
-| Julie ↔ Hargrove | He pressured the fatal strike and helped shape the aftermath | None | Accountability for the prologue | Hargrove may know old details not preserved; Julie knows his conduct | Direct testimony correcting the old record |
-| Julie ↔ Sterling | No private contact | None | Sterling publicly defines Julie as attacker | Julie has office-device evidence; Sterling controls public interpretation | Hartwell physical evidence, independent witnesses, or signer custody |
-| Elias ↔ Vance | Employee and director | Destroyed | Vance framed him and threatened him | Elias holds hardware proof; Vance controls corporate logs | Independent examination of board and certificate chain |
-| Bell ↔ Julie/Elias | Sponsor deceived into WSS-4 diagnostic | Adversarial but evidence-aware | False work order and classified capture | Bell saw the full signer state and knows local audit exists | Pressure to erase the local record or lawful testimony |
-
----
-
-@@END
-@@FILE 64 21569
-books/book-01/control/08-evidence-and-chain-of-custody-ledger.md# 8. EVIDENCE AND CHAIN-OF-CUSTODY LEDGER
+# 8. EVIDENCE AND CHAIN-OF-CUSTODY LEDGER
 
 ## 8.1 Aluminum telemetry case and primary evidence drive
 
@@ -632,3 +614,303 @@ Classified communications capture, removed under false service pretext; seizure 
 
 ## 8.15 WSS-4 incident capture
 
+This is the evidentiary event represented by Partition B. It must not be confused with the physical module as a whole.
+
+### What it establishes
+
+- Northbridge WSS-4 was the local suite.
+- Tariq’s command authority was the field endpoint.
+- SSO-NS-004 was the external signer.
+- K17-PHASE-B was the task profile.
+- Relay access remained unconfirmed.
+- Hartwell was the next required authentication site.
+- Phase B and the masking window were pending.
+
+### Limitation
+
+It records authenticated context and ciphertext, not decrypted orders or human hands.
+
+---
+
+## 8.16 Northbridge WSS-4 local audit record
+
+### Source
+
+WSS-4 controller’s own local incident and session recorder.
+
+### Creation time
+
+During the same 07:08–07:10 session.
+
+### Original custodian
+
+Northbridge WSS-4.
+
+### Current custodian and location
+
+Last confirmed physically at WSS-4. Practical control may now be disputed among Bell, Northbridge, police, Apex, or other authorities; no transfer is shown.
+
+### Integrity
+
+The controller generated a valid local seal. Bell was instructed not to allow erasure.
+
+### Contents
+
+At minimum, the local suite events, session state, sponsor exception, external chain presentation, and incident-capture activity.
+
+### Proves
+
+An independently located second record exists or existed.
+
+### Does not prove
+
+That it has not been altered after Julie’s departure.
+
+### People who know
+
+Bell, the WSS operator, Julie, Elias, Chen, Vance, and responding personnel.
+
+### Threats
+
+Vendor access, executive pressure, sanitization, seizure, or selective production.
+
+---
+
+## 8.17 Dead PCF-27 fleet transponder
+
+### Description
+
+Black module roughly the size of a deck of cards, locking connector, prior green status light.
+
+### Source and creation
+
+Installed in PCF-27 before the incident.
+
+### Disconnection
+
+Immediately after PCF-27 cleared Apex at 05:14:36.
+
+### Custody
+
+Elias disconnected it. It was bagged at the cutout and transferred to Marcus.
+
+### Current location
+
+Waterproof folder with Marcus.
+
+### Proves
+
+Potentially, when the vehicle ceased transmitting if compared with fleet logs.
+
+### Does not prove
+
+Where the van went afterward or that earlier route logs disappeared.
+
+### Risks
+
+Ancillary evidence may be treated as stolen contractor property or proof of evasion.
+
+---
+
+## 8.18 False Potomac Critical Facilities work order
+
+### Physical description
+
+Genuine carbon-copy PCF form with company and van identifiers.
+
+### Creation
+
+Prepared at 06:42 using:
+
+- Correct tenant identifier.
+- Correct service-call format.
+- Correct-length and checksum-valid authorization number.
+- False call and nonexistent live ticket.
+- WSS-4 trust-chain diagnostic description.
+- 06:45–07:20 service window.
+
+### Custody
+
+Presented to landlord guard and Bell. It was not shown returning to Julie. Last known at Fenwick.
+
+### Proves
+
+The trio used deliberate deception and a false service call.
+
+### Also proves
+
+The access path depended on ordinary procedure rather than a magical credential.
+
+### Does not prove
+
+Any conspiratorial knowledge by Bell or landlord security.
+
+### Risks
+
+Strong evidence of unauthorized entry; useful to prosecution as well as continuity reconstruction.
+
+---
+
+## 8.19 Apex security footage
+
+### Source
+
+Building Three’s security and incident camera systems.
+
+### Custodian
+
+Apex; edited derivatives distributed publicly.
+
+### Known contents
+
+- Julie at recovery console.
+- Elias using restricted terminals.
+- Marcus obstructing security.
+- Fire/suppression discharge.
+- Case leaving through loading dock.
+
+### Proves
+
+The depicted physical acts occurred.
+
+### Does not prove
+
+The causal order used by Sterling’s edited narrative, who introduced Payload 88, or why the trio acted.
+
+### Weaknesses
+
+- Room 402B recording went dark during quarantine.
+- Footage can be selectively edited or reordered.
+- Some lower-tier feeds were unavailable during quarantine.
+
+---
+
+## 8.20 Sterling’s public statements
+
+### Creation times
+
+- First major statement approximately 06:50.
+- Second statement after the Northbridge breach, heard by approximately 07:16.
+
+### Custody
+
+Public broadcasts and media archives.
+
+### Contents
+
+- Julie blamed for Argus corruption.
+- Building Three described as insider attack.
+- Northbridge breach described as attack on sensitive communications.
+- Argus and institutional discipline defended.
+- Hartwell briefing announced.
+
+### Proves
+
+Sterling’s exact public claims and timing.
+
+### Strongly suggests
+
+A prepared political narrative and unusually early certainty.
+
+### Does not prove
+
+His private knowledge, signer possession, or operational command.
+
+---
+
+## 8.21 Chen’s preserved directives and incident records
+
+### Source
+
+Apex/joint incident channels and Chen’s incident file.
+
+### Key records
+
+- Lawful capture directive.
+- Vance lethal-force directive issued 43 seconds later.
+- Vance’s suppression override.
+- Chen’s force-rule instructions.
+- Public statement timing.
+- Vendor-watch alert.
+- Mercer communications.
+
+### Current custodian
+
+Chen/Apex incident system.
+
+### Proves
+
+Conflicting force standards and Vance’s material-recovery priority.
+
+### Suggests
+
+Vance sought to prevent evidence transfer even at lethal cost.
+
+### Does not prove
+
+The full conspiracy or Sterling’s command.
+
+### Risks
+
+Chen may lose access; Apex may contest, redact, or sanitize the record.
+
+---
+
+## 8.22 Sharma/Qureshi photograph of disappearing source-review notice
+
+### Creation
+
+At Forward Post Arjun when the notice appeared and vanished.
+
+### Custody
+
+Qureshi/Sharma or local post records.
+
+### Contents
+
+Image showing a source-review status not preserved in the formal American channel.
+
+### Proves
+
+A warning or review state reached the Indian display and then disappeared.
+
+### Does not prove
+
+Who suppressed it or why.
+
+### Risks
+
+Phone or local-image admissibility, classification, time synchronization, and the larger manuscript timeline conflict.
+
+---
+
+## 8.23 Other important potential evidence
+
+### Vance’s prepared confession for Elias
+
+- Remains at Apex.
+- Shows a framing narrative prepared before outside investigation.
+- Does not itself prove the deployment facts false.
+
+### Elias detention-room footage and audio
+
+- May contain Vance’s admissions.
+- Existence and preservation are not confirmed.
+- The room had a camera, but whether audio was recorded is unstated.
+
+### Fire-system and suppression logs
+
+- Can establish occupied-room status, Vance override, verified fire, hardwired egress, and suppression timing.
+- Custody remains with Apex and external monitoring systems.
+
+### Forward Post Arjun fire-control logs
+
+- Can establish mission abort and no rounds fired.
+- Not in Julie’s custody.
+
+### Northbridge sponsor and landlord logs
+
+- Can establish Julie and Elias’s access path, Bell’s sponsor exception, false ticket, and local timing.
+- Do not prove Bell’s complicity.
+
+---

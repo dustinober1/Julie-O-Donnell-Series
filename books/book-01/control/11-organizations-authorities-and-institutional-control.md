@@ -1,0 +1,24 @@
+# 11. ORGANIZATIONS, AUTHORITIES, AND INSTITUTIONAL CONTROL
+
+| Organization | Public role | Actual story role / systems | Authority and compromise | What remains lawful or innocent | Future simplification to avoid |
+|---|---|---|---|---|---|
+| Apex Defense Systems | Defense contractor and Argus developer/maintainer | Controls major ingestion, validation, Building Three, certified contractor profiles, and public response | Vance and privileged channels are compromised; exact breadth unknown | Many employees, technicians, security staff, and ordinary engineering functions remain legitimate | Do not make all Apex staff conspirators |
+| Army Intelligence | Government intelligence and program oversight | Marcus’s review cell and initial source challenge | Access can be suspended through security reporting | Marcus, Hackett, and other officers may act lawfully or cautiously | Do not say Apex directly commands the entire Army |
+| Defense Intelligence Agency | Defense intelligence and systems audit | Leland Price and government liaison presence | Price’s credentials were suspended | DIA as a whole is not implicated | Do not assume Price’s treatment represents full DIA policy |
+| Army counterintelligence | Investigates security and classified-data incidents | Receives Apex report and may detain subjects | Operating initially from a hostile or incomplete record | Detention and evidence seizure may be lawful | Do not equate procedure with conspiracy |
+| Army Criminal Investigation Division | Requested to locate Marcus/Julie in Vance’s account | Potential receiving investigative authority | Exact active role unclear | No evidence CID is controlled by Vance | Do not invent a CID tactical team without a scene |
+| Defense Criminal Investigative Service | Named by Marcus as an appropriate independent custodian | Not shown taking action | No confirmed involvement | Potentially legitimate recipient | Do not claim it has custody |
+| Argus program oversight | Government acceptance and strategic supervision | Marcus’s former access authority and broader governance | Contractor dependence limits inspection | Oversight may be flawed rather than corrupt | Avoid one monolithic “oversight” actor |
+| Northbridge Strategic Initiatives | Think tank/risk consultancy with secure communications contract | WSS-4 endpoint in bridge and Phase B chain | Suite is operationally implicated | Bell, operator, staff, policy work, and contract may be legitimate | Do not turn the office into a villain fortress |
+| Senator Sterling’s office | Legislative and national-security office | Owns SSO-NS-004 certificate chain; public narrative; Hartwell presence | Office device is operationally implicated | Which staff member possesses or uses it remains unknown | Office device ≠ Sterling’s hand |
+| Sterling’s committee/political network | Oversight, legislation, public authority | Argus policy advocacy and crisis exploitation | Exact legal committee name and command power not stated | Policy support and donor ties are not crimes | Do not invent committee powers |
+| Major Tariq’s Forward Liaison Cell | Field liaison/operational command | K17 Operational Control field endpoint | Authority accepted at WSS-4 | Parent service and nationality are unstated | Do not invent organizational identity |
+| Indian Northern Command | Regional military command | Pressures Sharma to prepare and execute | Relies on American certification | Its concern about a real threat is legitimate | Do not portray India as passive or foolish |
+| Forward Post Arjun | Indian forward artillery post | Local human check against Argus certainty | Sharma holds local execution authority | Personnel follow command and preserve defensive readiness | Do not give them U.S.-side knowledge |
+| Metropolitan Police | D.C. law enforcement | Responds to Northbridge breach and known van | Acts on reports and direct observations | Officers are shown using restraint | Do not make them Apex agents |
+| Fairfax County responders | Fire and local emergency response | External constraint on Apex during alarms | County response opened life-safety systems | Responders are ordinary public-safety personnel | Do not make fire response a recurring convenient tool |
+| Apex Protective Services | Contractor security | Mercer’s containment and recovery teams | Vance’s orders conflict with Chen’s force rules | Mercer and officers generally act professionally | Do not make every officer murderous |
+| Fenwick landlord security | Ordinary building security | Controls outer service access and responds to breach | Deceived by false work order | Guard performs correct job and uses restraint | Do not retroactively implicate him |
+| Hartwell Executive Briefing Annex | Secure briefing site | Next authentication point | Exact governing authority unknown | Briefing itself may be legitimate | Do not invent controlling agency or layout |
+
+---
