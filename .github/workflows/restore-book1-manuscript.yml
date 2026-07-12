@@ -71,8 +71,64 @@ jobs:
             actual_hash="$(sha256sum /tmp/integrate_ch5_6.py | awk '{print $1}')"
             echo "payload_sha256=$actual_hash"
             echo "recorded_sha256=ea90a17181d0331ed9a44dddd19edbef175f6f4570ff54b9d6a5773234ad676c"
+            test "$actual_hash" = "ea90a17181d0331ed9a44dddd19edbef175f6f4570ff54b9d6a5773234ad676c"
             python3 -m py_compile /tmp/integrate_ch5_6.py
           } 2>&1 | tee -a /tmp/ch5repair.log
+
+      - name: Adapt one brittle Chapter 4 replacement
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY' 2>&1 | tee -a /tmp/ch5repair.log
+          from pathlib import Path
+
+          script_path = Path('/tmp/integrate_ch5_6.py')
+          script = script_path.read_text(encoding='utf-8')
+          tuple_block = '''    (
+                  "“And even if we succeed, the review may not finish before certification.”",
+                  "“And even if we succeed, the review may not finish before source certification.”",
+                  "Chapter 4 risk statement",
+              ),
+          '''
+          if script.count(tuple_block) != 1:
+              raise SystemExit(f'Expected one brittle Chapter 4 tuple, found {script.count(tuple_block)}')
+          script = script.replace(tuple_block, '', 1)
+
+          anchor = '''for old, new, label in chapter4_replacements:
+              text = replace_once(text, old, new, label)
+          write(p, text)
+          '''
+          replacement = '''for old, new, label in chapter4_replacements:
+              text = replace_once(text, old, new, label)
+          risk_lines = [
+              line
+              for line in text.splitlines()
+              if "And even if we succeed" in line
+              and "review may not finish before certification" in line
+          ]
+          if len(risk_lines) != 1:
+              raise AssertionError(
+                  f"Chapter 4 risk statement: expected exactly one stable-text match, found {len(risk_lines)}"
+              )
+          text = text.replace(
+              risk_lines[0],
+              "“And even if we succeed, the review may not finish before source certification.”",
+              1,
+          )
+          write(p, text)
+          '''
+          if script.count(anchor) != 1:
+              raise SystemExit(f'Expected one Chapter 4 loop anchor, found {script.count(anchor)}')
+          script = script.replace(anchor, replacement, 1)
+          script_path.write_text(script, encoding='utf-8')
+
+          chapter = Path('books/book-01/manuscript/chapters/chapter-04.md').read_text(encoding='utf-8')
+          matches = [line for line in chapter.splitlines() if 'And even if we succeed' in line]
+          print(f'chapter4_risk_line_matches={len(matches)}')
+          for line in matches:
+              print(repr(line))
+          PY
+          python3 -m py_compile /tmp/integrate_ch5_6.py
 
       - name: Apply and validate repair
         shell: bash
