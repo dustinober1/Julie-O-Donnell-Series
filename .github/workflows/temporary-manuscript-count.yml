@@ -1,0 +1,42 @@
+name: Temporary manuscript count
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  count:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Recount accepted inventory and Chapter 13
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+
+          manifest = Path('books/book-01/ACCEPTED_MANUSCRIPT.yaml').read_text(encoding='utf-8')
+          accepted_block = manifest.split('accepted_files:', 1)[1].split('excluded_from_canon:', 1)[0]
+          paths = re.findall(r'path:\s*"([^"]+\.md)"', accepted_block)
+
+          methods = {
+              'whitespace': lambda s: len(s.split()),
+              'unicode_words': lambda s: len(re.findall(r"[^\W_]+(?:[’'\-][^\W_]+)*", s, flags=re.UNICODE)),
+              'wordish': lambda s: len(re.findall(r"\b[\w’'\-]+\b", s, flags=re.UNICODE)),
+          }
+
+          print('ACCEPTED_FILES', len(paths))
+          totals = {name: 0 for name in methods}
+          for path in paths:
+              text = Path(path).read_text(encoding='utf-8')
+              counts = {name: fn(text) for name, fn in methods.items()}
+              for name, value in counts.items():
+                  totals[name] += value
+              print('FILE', path, *(f'{name}={value}' for name, value in counts.items()))
+          print('ACCEPTED_TOTALS', *(f'{name}={value}' for name, value in totals.items()))
+
+          chapter = Path('books/book-01/drafts/chapter-13.md').read_text(encoding='utf-8')
+          print('CHAPTER13', *(f'{name}={fn(chapter)}' for name, fn in methods.items()))
+          PY
