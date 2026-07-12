@@ -15,7 +15,7 @@ active_book:
     act_i: "complete"
     act_ii: "complete"
     act_iii: "not drafted"
-  approximate_manuscript_words: 67951
+  approximate_manuscript_words: 69965
   endpoint_time:
     eastern: "approximately 07:18 EDT"
     india: "approximately 16:48 IST"
@@ -38,8 +38,10 @@ source_of_truth:
 critical_blockers:
   - id: "chapter-5-6-continuity"
     severity: "critical"
-    status: "unresolved"
-    description: "Chapter 5 ends around 16:14 EDT at the production-vault entrance; Chapter 6 begins at 04:52 EDT behind a descending hydraulic shutter as an immediate continuation."
+    status: "resolved"
+    resolved_date: "2026-07-12"
+    integration_commit: "__INTEGRATION_COMMIT_SHA__"
+    description: "Integrated repair establishes 16:30 allied source certification, 05:00 executable support commit, and the exact L3-7 handoff into Chapter 6."
   - id: "chapter-13-function"
     severity: "high"
     status: "not locked"
@@ -48,7 +50,7 @@ critical_blockers:
 production_rules:
   - "The GitHub Markdown manuscript is the sole controlling manuscript."
   - "Accepted manuscript prose outranks all summaries and plans."
-  - "Do not silently repair the Chapter 5-6 contradiction."
+  - "The accepted Chapter 5-6 repair is explicit canon; any later alteration requires a documented manuscript-and-control-pack revision."
   - "Do not identify the physical custodian of SSO-NS-004 without new accepted evidence."
   - "Plans for unwritten chapters remain non-canon until dramatized and accepted."
 
@@ -57,4 +59,4 @@ migration:
   completed: "2026-07-11"
   active_external_manuscript: false
 
-next_recommended_action: "Review and integrate or reject the proposed Chapter 5-6 continuity repair, then lock the Chapter 13 mission and draft Act III from the accepted Chapter 12 endpoint."
+next_recommended_action: "Lock Chapter 13’s dominant mission and abort condition, then plan Act III from the accepted Chapter 12 endpoint."

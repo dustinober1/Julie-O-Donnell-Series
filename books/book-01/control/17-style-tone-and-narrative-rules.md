@@ -100,6 +100,15 @@ Preferred pattern:
 - Do not overuse seconds in ordinary movement.
 - Once a timestamp is stated, downstream travel and action must fit it.
 
+## Chapter 5-to-6 continuity style lock
+
+- The interval between 16:30 and 04:52 must read as active operational pressure, not downtime.
+- The initial stormwater attempt fails outside the Apex perimeter; it is not a first completed infiltration.
+- The later reentry uses the same route after changed water and pump conditions.
+- No scene may imply meaningful sleep, medical treatment, emotional reset, or physical recovery.
+- The two-stage source-certification/support-commit architecture should be explained only when a character needs it for the next decision; avoid restating the full architecture repeatedly.
+- The final Chapter 5 paragraphs and first Chapter 6 paragraphs must preserve continuous second-by-second physical geography.
+
 ## Virginia/Washington and Kashmir cross-cutting
 
 - Kashmir scenes should show the human consequence of American system output.

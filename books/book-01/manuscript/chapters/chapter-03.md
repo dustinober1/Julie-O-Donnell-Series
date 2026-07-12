@@ -1082,9 +1082,9 @@ If inaccurate, firing first could ignite the entire sector.
 
 Four hours away.
 
-“And the recommended action window?”
+“And the support window?”
 
-“Preemptive counter-battery strike before zero-five-hundred.”
+“Immediate execution is recommended when the counter-battery support product releases at fourteen-thirty.”
 
 Qureshi hesitated.
 
@@ -1176,13 +1176,13 @@ Qureshi reached for his phone.
 
 Sharma watched the countdown beside the assessment.
 
-03:41:22 UNTIL FINAL CERTIFICATION.
+03:41:22 UNTIL ALLIED SOURCE CERTIFICATION.
 
 “Major?” Qureshi asked.
 
 She kept her eyes on the clock.
 
-“At zero-five-hundred, if the threat is confirmed, we fire.”
+“At fourteen-thirty, if the support release arrives and the threat remains confirmed, we decide whether to fire.”
 
 “And if it isn’t?”
 

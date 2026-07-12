@@ -30,7 +30,7 @@
 - **Systems:** Argus Enterprise, supervised sandbox, plate readers, access controls.
 - **Ending hook:** The machine is lying in the same voice.
 - **Continuity:** Julie’s Ford, phone and electronic fob left at Apex, mechanical key retained.
-- **Revision concern:** None apart from downstream timeline conflict.
+- **Revision concern:** None.
 
 ## Chapter 2 — The Poisoned Feed
 
@@ -45,7 +45,7 @@
 - **Systems:** Validation archive, executive waiver, maintenance drive, hidden evidence path.
 - **Ending hook:** Room is locked and transfer at 85 percent.
 - **Continuity:** Exact escape time remains unstated.
-- **Revision concern:** None apart from downstream clock.
+- **Revision concern:** None.
 
 ## Chapter 3 — The Exit Protocol
 
@@ -76,20 +76,19 @@
 - **Continuity:** No firearms; gray coveralls; Ford left outside perimeter.
 - **Revision concern:** Timing conflicts with Chapter 6’s “same night” early-morning sequence.
 
-## Chapter 5 — The Human Key
+## Chapter 5 — The Second Clock
 
-- **Approximate word count:** 6,400.
-- **Time:** 15:41–approximately 16:14 EDT; Kashmir 01:17 IST.
-- **Locations:** Building Three, Compliance Four, service corridors, core access lift, production-vault corridor, Forward Post Arjun.
-- **POVs:** Elias, Julie, Sharma.
-- **Purpose:** Unite trio, expose Vance’s worldview, and reach the first production-root challenge.
-- **Major events:** Elias messages through thermostat; Vance pressures him; Julie and Marcus enter through culvert; rescue Elias; Mercer questions Vance; trio descends; director-compromise review triggered.
-- **Evidence:** Elias board, APX-DIR reference, Vance verbal admissions.
-- **Character changes:** Elias actively joins; Mercer’s trust in Vance weakens.
-- **Ending hook:** Circular vault door begins turning as recovery team arrives.
-- **Continuity carried:** Countdown approximately 15 minutes to 16:30.
-- **Revision concern:** **Critical.** Does not connect to Chapter 6’s time, place, positions, or deadline.
-- **Additional concern:** Shares title with Chapter 7.
+- **Approximate word count:** 8,279.
+- **Time:** 15:41 EDT through approximately 04:52 EDT the next day; India crosscuts from 01:17 IST through 14:22 IST.
+- **Locations:** Building Three, Forward Post Arjun, stormwater utility easement outside the Apex perimeter, external observation positions, Compliance Four, core access lift, and lower-tier incident-transfer corridor.
+- **POVs:** Elias, Julie, Sharma, with limited Chen/Vance institutional pressure.
+- **Purpose:** Establish the two-stage release architecture, fail the first approach outside the perimeter, sustain overnight pressure without recovery, complete the pre-05:00 reentry, reunite the trio, and deliver the exact L3-7 handoff into Chapter 6.
+- **Major events:** Source certification completes at 16:30 / 02:00 without firing; Julie and Marcus identify the dependent 05:00 support commit; maintain active surveillance; reenter through the same stormwater route; recover Elias in Compliance Four; descend by core lift; report APX-DIR-0019 compromised; trigger L3-7; throw the case beneath the shutter as the recovery team arrives.
+- **Evidence:** Aluminum case remains sealed; 136/47/311 state unchanged; Elias retains the administrator-token board; canvas tool bag remains with Marcus.
+- **Character changes:** Elias continues resisting Vance and joins voluntarily; Julie and Marcus maintain pressure without sleep, treatment, or recovery; no Chapter 6 injury occurs early.
+- **Ending hook:** L3-7 descends above Elias and Julie while Marcus remains last beside the white-strobed recovery door.
+- **Continuity carried:** Chapter 6 begins in the next seconds with the same location, shutter, positions, pursuit, case, tool bag, and red emergency strobes.
+- **Revision status:** Accepted repair integrated in commit `__INTEGRATION_COMMIT_SHA__`.
 
 ## Chapter 6 — The Descent
 
@@ -103,7 +102,7 @@
 - **Injuries:** Julie wrist; Marcus boot and ribs; Elias hip.
 - **Systems:** Quarantine, cooling loops, retracting bridge, pressure purges.
 - **Ending hook:** Elias says opening the gate will permanently identify him.
-- **Revision concern:** **Critical opening mismatch with Chapter 5.**
+- **Revision concern:** None. The unchanged opening is now the exact continuation of Chapter 5.
 
 ## Chapter 7 — The Human Key
 
@@ -117,7 +116,7 @@
 - **Injuries:** Marcus scalp and thigh worsen; Julie wrist worsens; Elias finger opens.
 - **Character changes:** Elias becomes voluntary whistleblower; Chen refuses lethal force.
 - **Ending hook:** Only 01:37 to external commit.
-- **Revision concern:** Duplicate title with Chapter 5.
+- **Revision concern:** None. Chapter 7 uniquely retains **The Human Key**.
 
 ## Chapter 8 — The 05:00 Abort
 
@@ -130,7 +129,7 @@
 - **Evidence:** Recovery record, restored labels, K-17 raw events, Vance override.
 - **Character changes:** Julie completes moral correction; Elias owns technical decision; Sharma acts.
 - **Ending hook:** Suppression manifold pressurizes.
-- **Revision concern:** Part of the second clock branch; conflicts with Chapters 1–5 schedule.
+- **Revision concern:** None. The repaired two-stage schedule now leads coherently to the 05:00 abort.
 
 ## Chapter 9 — The Life-Safety Override
 

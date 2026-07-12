@@ -1,19 +1,19 @@
 # Chapter 5-to-6 Continuity Diagnosis
 
-**Status:** Proposed  
-**Controlling manuscript:** Accepted Prologue and Chapters 1–12  
-**Repository baseline:** `77a3e6585510d7597e48c798505bfdc731a2c69b`  
+**Status:** Accepted and integrated
+**Controlling manuscript:** Accepted Prologue and Chapters 1–12
+**Repository baseline:** `454c925adb3a66c8a5f3556128e030856c83de13`
 **Google Doc modified:** No
 
 ## Conflict summary
 
-The accepted Chapter 5 and Chapter 6 cannot currently be read as consecutive events.
+Before this repair was integrated, the accepted Chapter 5 and Chapter 6 could not be read as consecutive events.
 
-Chapter 5 ends at approximately 16:14 EDT / 01:44 IST with Julie, Marcus, and Elias at a circular production-vault entrance. Elias has invoked a director-certificate compromise path, supplied biometric confirmation, and caused the circular vault door to begin turning. The active deadline is presented as a 16:30 allied certification.
+The superseded Chapter 5 branch ended at approximately 16:14 EDT / 01:44 IST with Julie, Marcus, and Elias at a circular production-vault entrance. Elias has invoked a director-certificate compromise path, supplied biometric confirmation, and caused the circular vault door to begin turning. The active deadline is presented as a 16:30 allied certification.
 
 Chapter 6 opens at 04:52 EDT / 14:22 IST with the same three characters already running beneath hydraulic shutter L3-7. The aluminum case is ahead of them, Marcus is last with the tool bag, a security door is opening behind him, and the operative deadline is a 05:00 external commit. The scene is written as the next seconds of the same pursuit.
 
-The conflict therefore includes four linked failures:
+The superseded conflict included four linked failures:
 
 1. **Clock:** 16:14 does not flow into 04:52 without more than twelve unexplained hours.
 2. **Deadline architecture:** 16:30 is treated as final in Chapters 1–5, while Chapters 6–8 require a distinct 05:00 executable release.
@@ -30,7 +30,7 @@ Changing Chapters 6–12 would damage the internally coherent branch that establ
 - the 07:18 Chapter 12 endpoint;
 - the 07:46–07:54 Hartwell, Phase B, and Masking Window Two deadlines.
 
-For that reason, the Chapter 6–12 chronology must control.
+For that reason, the accepted repair preserved the Chapter 6–12 chronology unchanged.
 
 ## Deadline interpretation
 
@@ -50,3 +50,18 @@ This mechanism does not perform Chapter 7's authentication. Elias does not selec
 ## Controlling decision
 
 Use the two-stage deadline and delayed same-route reentry repair. Replace the late Chapter 5 sequence, retain Chapter 6 unchanged, and make exact earlier line edits that distinguish source certification from executable support release.
+
+## Integration record
+
+**Status:** Accepted and integrated
+**Integration date:** 2026-07-12
+**Starting commit:** `454c925adb3a66c8a5f3556128e030856c83de13`
+**Final integration commit:** `__INTEGRATION_COMMIT_SHA__`
+**Controlling manuscript:** GitHub Markdown in `books/book-01/manuscript/`
+**Google Docs accessed:** No
+**Chapter 5 title:** The Second Clock
+**Chapter 6 prose changed:** No
+**Deadline architecture:** 16:30 EDT / 02:00 IST source certification; 05:00 EDT / 14:30 IST executable support commit
+**Replacement boundary:** From the 15:49 Apex Campus Utility Easement heading through the obsolete circular-vault ending
+**Validation result:** Passed all manuscript, chronology, injury, evidence, title, inventory, migration-cleanup, and downstream checks
+**Deviation:** No architectural deviation; only localized line edits and status/control updates

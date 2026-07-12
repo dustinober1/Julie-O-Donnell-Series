@@ -289,7 +289,7 @@ Vance’s expression did not change.
 
 “The assessment is queued for India.”
 
-“It is undergoing final certification.”
+“It is undergoing allied source certification.”
 
 “Stop it.”
 
@@ -383,7 +383,7 @@ Apex wanted the signed statement before anyone outside the company examined the 
 
 “Sixteen-twenty.”
 
-The certification was scheduled for sixteen-thirty.
+The source certification was scheduled for sixteen-thirty.
 
 Ten minutes to process the confession and fix the record before the false intelligence became official.
 
@@ -691,11 +691,11 @@ Julie opened the next page.
 
 She read farther.
 
-“Any downstream certification depending on the challenged source is suspended until human review.”
+“Any downstream release product depending on the challenged source is suspended until human review.”
 
 Marcus checked his watch.
 
-“Final certification was at sixteen-thirty.”
+“Source certification was at sixteen-thirty.”
 
 “According to the copied schedule.”
 
@@ -703,9 +703,9 @@ Marcus checked his watch.
 
 “Less now.”
 
-“What happens after certification?”
+“What happens after source certification?”
 
-“The report leaves Apex’s controlled environment. India receives it as a validated American assessment. We may be able to issue a correction, but the correction will arrive after the original warning.”
+“The report leaves Apex’s controlled environment. India receives it as a validated American assessment. The executable support product remains on operational hold until zero-five-hundred. We may still invalidate the source before that commit, but the original warning will already be in their system.”
 
 Marcus looked at the evidence drive.
 
@@ -1057,7 +1057,7 @@ Marcus understood from her silence.
 
 Julie looked at him.
 
-“We don’t have enough evidence to stop certification from out here.”
+“We don’t have enough evidence to stop the source certification from out here.”
 
 “We have enough to get arrested.”
 
@@ -1105,7 +1105,7 @@ Marcus stopped.
 
 “And this action?”
 
-“We could be arrested. We could be shot if Apex security believes we are attacking the production system. Elias could refuse. The certificate could fail. The source challenge could expose genuine threat data beneath the synthetic package. And even if we succeed, the review may not finish before certification.”
+“We could be arrested. We could be shot if Apex security believes we are attacking the production system. Elias could refuse. The certificate could fail. The source challenge could expose genuine threat data beneath the synthetic package. And even if we succeed, the review may not finish before source certification.”
 
 Marcus looked at the clock.
 
@@ -1211,7 +1211,7 @@ One survived.
 
 ALLIED CERTIFICATION WINDOW
 PAK_RELAY_17A
-FINAL RELEASE: 16:30 EDT
+SOURCE CERTIFICATION: 16:30 EDT
 
 Beneath it was an automated approval state:
 
@@ -1245,7 +1245,7 @@ Lieutenant Qureshi entered the observation room carrying a printed message.
 
 Sharma took it.
 
-PREPARE TO EXECUTE PREEMPTIVE COUNTER-BATTERY PLAN UPON RECEIPT OF FINAL ALLIED SOURCE CERTIFICATION.
+PREPARE COUNTER-BATTERY PLAN UPON RECEIPT OF ALLIED SOURCE CERTIFICATION. EXECUTION REQUIRES COUNTER-BATTERY SUPPORT RELEASE.
 
 “Still no independent confirmation?” she asked.
 
@@ -1283,8 +1283,9 @@ Qureshi looked toward the tactical display.
 
 Another alert appeared on the monitor.
 
-ARGUS ALLIED CERTIFICATION
+ARGUS ALLIED SOURCE CERTIFICATION
 EXPECTED 02:00 IST
+COUNTER-BATTERY SUPPORT RELEASE: 14:30 IST
 
 The red symbols representing Pakistani artillery continued advancing across the digital map.
 
@@ -1629,7 +1630,7 @@ Reston, Virginia
 
 15:34 Eastern Daylight Time
 
-Julie parked the Ford behind an abandoned office building three miles south of the Apex campus.
+Julie parked the Ford behind an abandoned office building on the southern edge of the Apex campus.
 
 Rain had begun as a fine mist, darkening the pavement and softening the tree line.
 
@@ -1699,7 +1700,7 @@ Julie opened the truck door.
 
 “Julie.”
 
-“If there is time, we reach the production root and suspend certification.”
+“If there is time, we reach the production root and suspend the source certification or the support release built from it.”
 
 “That isn’t the mission.”
 

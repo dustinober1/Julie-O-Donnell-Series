@@ -1,5 +1,9 @@
 # 18. ACT III ENTRY STATE
 
+## Resolved pre-Act-III continuity state
+
+The Chapter 5-to-6 chronology and physical handoff were repaired and integrated on 2026-07-12 in commit `__INTEGRATION_COMMIT_SHA__`. It is no longer an Act III blocker. Chapter 13’s precise mission, abort condition, and POV/cutaway choice remain planning decisions and are not locked by this repair.
+
 ## Exact launch state
 
 **Time:** Approximately 07:18 EDT / 16:48 IST
@@ -196,7 +200,6 @@ No complete approved Act III outline or locked Chapter 13 title was found.
 6. Whether the trio stays together or splits evidence and action roles again.
 7. What abort condition Julie sets.
 8. Whether Phase B’s meaning is revealed at Hartwell or in the field.
-9. How the Chapter 5–6 continuity break will be repaired.
 
 These are planning decisions, not canon facts.
 

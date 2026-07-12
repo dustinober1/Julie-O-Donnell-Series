@@ -1,11 +1,13 @@
-# Julie O’Donnell Book 1 — Canon Control Pack v1.0
+# Julie O’Donnell Book 1 — Canon Control Pack v2.0
 
-**Version:** 1.0
+**Version:** 2.0
 **Canon endpoint:** End of Chapter 12
 **Approximate story time at endpoint:** 07:18 Eastern Daylight Time / 16:48 Indian Standard Time
-**Next planned chapter:** Chapter 13; title not locked
+**Next planned chapter:** Chapter 13; title and function not locked
 **Production state:** Accepted Prologue and Chapters 1–12 complete; Acts I and II complete; Act III undrafted
-**Controlling source:** Accepted manuscript prose
-**Important control warning:** The accepted manuscript contains a critical continuity break between Chapters 5 and 6. This pack preserves the contradiction rather than silently repairing it. For the Chapter 12 endpoint and Act III deadlines, it provisionally follows the internally coherent Chapter 6–12 timeline.
+**Controlling source:** GitHub Markdown manuscript in `../manuscript/`
+**Repair state:** Chapter 5-to-6 chronology, two-stage deadline, geography, title, and L3-7 handoff repaired and integrated on 2026-07-12 in `__INTEGRATION_COMMIT_SHA__`.
+
+The accepted manuscript always outranks this pack. Chapter 13 remains undrafted; its dominant mission and abort condition remain the next production decision.
 
 ---

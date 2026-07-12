@@ -13,6 +13,10 @@
 
 | Fact | Reader | Julie | Marcus | Elias | Chen | Vance | Sterling | Tariq | Sharma | Mercer | Law enforcement | Public | Northbridge |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+
+| 16:30 EDT / 02:00 IST is allied source certification, not weapon release | K | K | K | K | K | K | U/B | U/L | K | U/L | U | U | U |
+| A dependent executable support product remains held until 05:00 EDT / 14:30 IST | K | K after 16:21 | K after 16:21 | K | L/K | K | U/B | U/L | K by 13:57 IST | U/L | U | U | U |
+| Provenance invalidation can suspend the dependent support product while preserving raw observations | K | K | K | K | L/K | K | U/B | U/L | K when result arrives | L | U | F/U | Bell L |
 | Payload 88 was synthetic | K | K | K | K | L/K | K | U/B | U | U | L | F/U | F | Bell L |
 | Payload 88 entered production | K | K | K | K | L | K | U/B | U | U | L | F/U | F | U |
 | APX-DIR-0019 controlled the bridge | K | K | K | K | L | K | U | U | U | L | U | U | U |
@@ -42,6 +46,15 @@
 | Northbridge has legitimate public role | K | K | K | K | K | K | K | U | U | L | K/U | K | K |
 | Northbridge as a whole knowingly joined conspiracy | U | U | U | U | U | Private unknown | Private unknown | U | U | U | U | U | U |
 | Same conspiracy caused six-years-ago strike | U | B/question | B/question | U | U | Private unknown | U | U | U | U | U | U | U |
+
+## Integrated timing knowledge
+
+- Julie and Marcus first identify the dependent 05:00 support object at approximately 16:21 EDT after the failed initial approach.
+- Elias and Vance already understand the two-stage architecture; Elias states it directly during the repaired 04:27 scene.
+- Sharma receives the 02:00 source certification without firing and later receives the 14:30 support-release clock.
+- Chen’s command systems may expose stage and containment status, but the repair does not give her the trio’s private analysis.
+- Mercer understands the pursuit and local containment geometry, not the complete strategic release architecture.
+- No repair scene gives Sterling, Tariq, law enforcement, the public, or Northbridge staff knowledge beyond what their accepted records or later scenes establish.
 
 ## Information-control rules
 

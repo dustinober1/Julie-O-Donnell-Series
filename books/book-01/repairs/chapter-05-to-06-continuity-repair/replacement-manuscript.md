@@ -1,8 +1,8 @@
 # Replacement Manuscript — Chapter 5-to-6 Continuity Repair
 
-**Status:** Proposed  
-**Google Doc modified:** No  
-**Copy-and-paste scope:** Chapter 5 only
+**Status:** Accepted and integrated
+**Google Doc modified:** No
+**Integrated scope:** Chapter 5 replacement block; Chapter 6 unchanged
 
 ## Replacement boundary
 
@@ -10,13 +10,13 @@ Retain Chapter 5 through the corrected Forward Post Arjun line:
 
 > `42:31 UNTIL ALLIED SOURCE CERTIFICATION.`
 
-Replace from the following heading through the end of Chapter 5:
+The accepted integration replaced from the following heading through the end of the former Chapter 5 branch:
 
-> `Apex Campus Utility Easement`  
-> `Reston, Virginia`  
+> `Apex Campus Utility Easement`
+> `Reston, Virginia`
 > `15:49 Eastern Daylight Time`
 
-Do not include the current circular-vault ending. After the replacement prose, retain the existing Chapter 6 heading and all Chapter 6 prose unchanged.
+The obsolete circular-vault ending was removed. The existing Chapter 6 heading and all Chapter 6 prose were retained unchanged.
 
 ## Replacement text
 
@@ -1684,8 +1684,23 @@ Above them, the shutter dropped into the opening.
 
 The next manuscript text remains:
 
-> `Chapter 6 - The Descent`  
-> `Apex Building Three`  
-> `Reston, Virginia`  
-> `04:52 Eastern Daylight Time`  
+> `Chapter 6 - The Descent`
+> `Apex Building Three`
+> `Reston, Virginia`
+> `04:52 Eastern Daylight Time`
 > `The hydraulic shutter came down hard enough to shake dust from the concrete ceiling.`
+
+## Integration record
+
+**Status:** Accepted and integrated
+**Integration date:** 2026-07-12
+**Starting commit:** `454c925adb3a66c8a5f3556128e030856c83de13`
+**Final integration commit:** `__INTEGRATION_COMMIT_SHA__`
+**Controlling manuscript:** GitHub Markdown in `books/book-01/manuscript/`
+**Google Docs accessed:** No
+**Chapter 5 title:** The Second Clock
+**Chapter 6 prose changed:** No
+**Deadline architecture:** 16:30 EDT / 02:00 IST source certification; 05:00 EDT / 14:30 IST executable support commit
+**Replacement boundary:** From the 15:49 Apex Campus Utility Easement heading through the obsolete circular-vault ending
+**Validation result:** Passed all manuscript, chronology, injury, evidence, title, inventory, migration-cleanup, and downstream checks
+**Deviation:** No architectural deviation; only localized line edits and status/control updates

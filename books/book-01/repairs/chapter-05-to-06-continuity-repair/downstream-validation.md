@@ -1,6 +1,6 @@
 # Downstream Validation
 
-**Status:** Proposed  
+**Status:** Accepted and integrated
 **Validation range:** Chapter 6 opening through the accepted Chapter 12 endpoint
 
 ## Character positions at Chapter 6 opening
@@ -86,3 +86,26 @@ The repair creates a continuous sequence:
 8. the APX-DIR compromise report triggers L3-7;
 9. Chapter 6 begins in the next seconds;
 10. all accepted events through Chapter 12 remain intact.
+
+## Integration record
+
+**Status:** Accepted and integrated
+**Integration date:** 2026-07-12
+**Starting commit:** `454c925adb3a66c8a5f3556128e030856c83de13`
+**Final integration commit:** `__INTEGRATION_COMMIT_SHA__`
+**Controlling manuscript:** GitHub Markdown in `books/book-01/manuscript/`
+**Google Docs accessed:** No
+**Chapter 5 title:** The Second Clock
+**Chapter 6 prose changed:** No
+**Deadline architecture:** 16:30 EDT / 02:00 IST source certification; 05:00 EDT / 14:30 IST executable support commit
+**Replacement boundary:** From the 15:49 Apex Campus Utility Easement heading through the obsolete circular-vault ending
+**Validation result:** Passed all manuscript, chronology, injury, evidence, title, inventory, migration-cleanup, and downstream checks
+**Deviation:** No architectural deviation; only localized line edits and status/control updates
+
+## Final integration validation
+
+**Result:** Pass
+
+The final GitHub manuscript was validated after integration. Chapters 6–12 remained byte-for-byte unchanged. The final Chapter 5 page and Chapter 6 opening form one continuous action at L3-7. All accepted downstream clocks, injuries, evidence limitations, K-17 uncertainty, Hartwell timing, Phase B timing, and Chapter 12 endpoint remain intact.
+
+Integration commit: `__INTEGRATION_COMMIT_SHA__`.

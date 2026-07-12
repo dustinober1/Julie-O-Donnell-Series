@@ -29,6 +29,24 @@
 - **Unknown:** Exact full renovated layout.
 - **Rule:** No single control room owns every system.
 
+## Apex stormwater utility easement
+
+- **Function:** Initial failed approach and later same-route reentry.
+- **Location:** Southern edge of the campus, beneath the outer security berm.
+- **Initial 15:49 conditions:** Rising water, reverse-flow pump activation, unstable footing, and a partially blocked grate make continued passage unsafe.
+- **Initial result:** Julie and Marcus withdraw before crossing the Apex perimeter.
+- **04:31 conditions:** Water level and pump cycle have changed enough for the same route to become passable.
+- **Continuity rule:** This is one approach used twice under different physical conditions, not two separate full infiltrations.
+
+## Lower-tier incident-transfer corridor and shutter L3-7
+
+- **Function:** Connects the core access lift to the protected lower-tier provenance route without opening directly into the production enclave.
+- **Description:** Concrete transfer corridor, red emergency strobes, hydraulic fire-isolation shutter L3-7, and a white-strobed recovery security door behind the trio.
+- **Control:** Local production-domain isolation and physical containment, triggered when APX-DIR-0019 is reported compromised.
+- **Handoff state:** Elias in front; Julie immediately behind with a hand on his shoulder; Marcus last; sealed aluminum case already thrown beneath L3-7; canvas tool bag still with Marcus; recovery team entering behind.
+- **Next route:** Chapter 6 forces the trio into cooling infrastructure and eventually toward the rear enclave gate.
+- **Continuity rule:** The obsolete circular production-vault endpoint is historical superseded material, not current geography.
+
 ## Briefing Room 402B
 
 - **Function:** Initial supervised review and first evidence capture.

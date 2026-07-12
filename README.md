@@ -20,16 +20,22 @@ Repository for the Julie O’Donnell contemporary geopolitical techno-thriller /
 
 If any repository document conflicts with the accepted manuscript prose, the accepted manuscript controls and the subordinate document must be corrected.
 
-## Critical continuity warning
+## Chapter 5-to-6 continuity repair
 
-The accepted manuscript contains an unresolved chronology and geography break between Chapters 5 and 6. Chapter 5 ends around 16:14 EDT at the production-vault entrance, while Chapter 6 opens at 04:52 EDT behind a descending hydraulic shutter as an immediate continuation.
+The chronology, deadline, geography, and immediate physical handoff between Chapters 5 and 6 were repaired and integrated on July 11, 2026.
 
-The proposed repair package is stored at:
+- Chapter 5 is now **The Second Clock**.
+- Chapter 7 remains **The Human Key**.
+- 16:30 EDT / 02:00 IST is the allied source-certification stage.
+- 05:00 EDT / 14:30 IST is the executable counter-battery support commit and firing-decision point.
+- Chapter 5 now ends at hydraulic shutter L3-7 in the seconds immediately preceding Chapter 6.
+- Chapter 6 remains unchanged.
+
+Permanent repair history:
 
 `books/book-01/repairs/chapter-05-to-06-continuity-repair/`
 
-It has not yet been integrated into the controlling manuscript.
-
+Integration commit: `__INTEGRATION_COMMIT_SHA__`
 ## Repository layout
 
 ```text
@@ -39,13 +45,13 @@ It has not yet been integrated into the controlling manuscript.
 └── books/
     └── book-01/
         ├── manuscript/    # Controlling Prologue and Chapters 1–12 in Markdown
-        ├── control/       # Canon Control Pack v1.0, split by section
-        └── repairs/       # Proposed and accepted manuscript-repair records
+        ├── control/       # Canon Control Pack, updated through the integrated repair
+        └── repairs/       # Permanent accepted manuscript-repair records
 ```
 
 ## Immediate next decisions
 
-- Review and integrate or reject the proposed Chapter 5-to-6 continuity repair.
-- Lock Chapter 13’s dominant mission and abort condition after the repair is resolved.
+- Lock Chapter 13’s dominant mission and abort condition.
 - Decide whether Chapter 13 includes a K-17 or Sharma cutaway.
 - Keep the physical custodian of SSO-NS-004 unresolved until established by evidence in accepted prose.
+- Keep Act III undrafted until the Chapter 13 mission is approved.

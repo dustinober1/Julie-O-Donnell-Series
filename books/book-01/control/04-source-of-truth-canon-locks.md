@@ -140,6 +140,15 @@
 
 70. **Argus is not sentient.**
 
+## Integrated Chapter 5-to-6 deadline and handoff locks
+
+- **16:30 EDT / 02:00 IST is the allied source-certification stage.** It makes the assessment an official validated United States source product and drives readiness, but it does not itself release a weapon or authorize Indian fire.
+- **05:00 EDT / 14:30 IST is the dependent executable counter-battery support commit and firing-decision point.** That is the product Julie suspends through provenance reconciliation.
+- **Cached conclusions remain operationally influential between the two stages.** The certified assessment continues shaping readiness until dependent products are invalidated or reviewed.
+- **The accepted Chapter 5 handoff ends at hydraulic shutter L3-7.** Elias is immediately in front of Julie; Julie has a hand on his shoulder; Marcus is last; Marcus has thrown the sealed aluminum case beneath the shutter; he still carries the canvas tool bag; a recovery team enters behind him through the white-strobed security door; red emergency strobes and the warning horn are active.
+- **No Chapter 6 injury exists before L3-7 begins descending.** Julie’s wrist and Marcus’s boot are first injured during the unchanged Chapter 6 opening. Marcus’s ribs, scalp, and thigh and Elias’s hip and finger progression remain in their accepted later locations.
+- **No overnight recovery occurred.** The characters remained wet, cold, exhausted, surveilled, and operationally engaged without meaningful sleep, treatment, or reset.
+
 ## Prohibited Continuity Errors
 
 - Do not claim a hardware certificate proves who physically held the device.
@@ -177,6 +186,6 @@
 - Do not introduce “RoboWarning” as accepted manuscript terminology unless the manuscript is deliberately revised; that term appears only in superseded repository planning.
 - Do not assume the present conspiracy caused the six-years-ago incident.
 - Do not make Hargrove part of the present conspiracy without new evidence.
-- Do not silently correct the Chapter 5–6 timeline inside future prose.
+- Do not alter the accepted Chapter 5-to-6 deadline architecture or L3-7 handoff without an explicit manuscript repair and same-pass control-pack update.
 
 ---

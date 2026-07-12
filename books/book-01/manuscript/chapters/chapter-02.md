@@ -589,7 +589,8 @@ He checked the downstream routing.
 The assessment was queued for allied distribution.
 
 INDIAN NORTHERN COMMAND
-FINAL CERTIFICATION: 16:30 EDT
+SOURCE CERTIFICATION: 16:30 EDT
+COUNTER-BATTERY SUPPORT COMMIT: 05:00 EDT
 
 Elias pushed away from the desk so quickly that his chair struck the workstation behind him.
 

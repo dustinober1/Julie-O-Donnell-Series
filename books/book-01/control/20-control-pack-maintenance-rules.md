@@ -62,7 +62,7 @@
 
 20. Update the repository or project bibles only after they have been reconciled to the accepted manuscript. The existing repository files remain a superseded pre-draft scaffold rather than controlling canon.
 
-21. Do not remove the Chapter 5–6 discrepancy from this report until the accepted manuscript itself contains a causal, geographic, and chronological bridge.
+21. Accepted manuscript repairs in GitHub must update every affected control-pack, status, timeline, evidence, knowledge, technology, location, and discrepancy document in the same production pass.
 
 22. Before Chapter 13 is accepted, update:
    - Exact endpoint time.
@@ -87,3 +87,5 @@
    - All character-specific knowledge.
    - The prologue-to-present operational connection.
    - The ultimate correction—or noncorrection—of the official record.
+
+24. The accepted Chapter 5-to-6 repair is permanent canon. Preserve its repair package and commit references; do not restore the obsolete circular-vault branch as current manuscript truth.

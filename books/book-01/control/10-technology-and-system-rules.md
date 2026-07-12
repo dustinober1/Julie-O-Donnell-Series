@@ -1,5 +1,28 @@
 # 10. TECHNOLOGY AND SYSTEM RULES
 
+## Accepted two-stage release architecture
+
+### Allied source certification — 16:30 EDT / 02:00 IST
+
+- Converts the assessment into an official validated United States source product.
+- Propagates a certified conclusion into the bilateral channel.
+- Influences readiness, planning, and institutional behavior.
+- Does **not** itself release a weapon, execute a mission, or remove Indian human command authority.
+
+### Dependent counter-battery support commit — 05:00 EDT / 14:30 IST
+
+- Is the executable or operationally actionable support product built from the certified assessment.
+- Remains held until the later commit time.
+- Is the product suspended when provenance reconciliation invalidates its dependency chain.
+
+### Cached conclusions and provenance-validity hold
+
+- Cached conclusions may continue shaping operations after source certification.
+- Deleting or losing the source does not retract those conclusions.
+- Restoring synthetic labels and invalidating provenance causes dependent conclusions to reestablish themselves.
+- Provenance reconciliation preserves raw observations, challenges reconstruction and cached products, suspends unsupported dependent releases, and requires mandatory human review.
+- Argus performs these rules as designed; it is not sentient, self-motivated, or independently strategic.
+
 ## 10.1 Argus platform family
 
 ### Purpose

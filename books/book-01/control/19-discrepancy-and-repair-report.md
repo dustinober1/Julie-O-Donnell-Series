@@ -1,6 +1,21 @@
 # 19. DISCREPANCY AND REPAIR REPORT
 
-## Discrepancy 1 — Chapter 5-to-Chapter 6 immediate continuity
+## Accepted repair summary
+
+The Chapter 5-to-6 continuity repair was accepted and integrated on 2026-07-12.
+
+- Integration commit: `__INTEGRATION_COMMIT_SHA__`
+- Chapter 5 title: **The Second Clock**
+- Chapter 6 change: none
+- Deadline architecture: 16:30 source certification; 05:00 executable support commit
+- Immediate handoff: lower-tier incident-transfer corridor → hydraulic shutter L3-7
+- Permanent history: `../repairs/chapter-05-to-06-continuity-repair/`
+
+The original discrepancy descriptions below are retained as historical records. Resolved items are explicitly labeled.
+
+## Discrepancy 1 — Chapter 5-to-Chapter 6 immediate continuity — RESOLVED
+
+**Resolution:** Chapter 5 now ends at shutter L3-7 in the exact physical state required by Chapter 6. The obsolete circular-vault branch was removed from the controlling manuscript. Integrated in `__INTEGRATION_COMMIT_SHA__`.
 
 ### Conflict
 
@@ -37,7 +52,9 @@ Yes.
 
 ---
 
-## Discrepancy 2 — Global present-day deadline and India clock
+## Discrepancy 2 — Global present-day deadline and India clock — RESOLVED
+
+**Resolution:** 16:30 EDT / 02:00 IST is allied source certification; 05:00 EDT / 14:30 IST is the dependent executable support commit and firing-decision point. Integrated in `__INTEGRATION_COMMIT_SHA__`.
 
 ### Conflict
 
@@ -67,7 +84,9 @@ Yes; not a one-line correction.
 
 ---
 
-## Discrepancy 3 — Chapter 5 and Chapter 7 share the title “The Human Key”
+## Discrepancy 3 — Chapter 5 and Chapter 7 share the title “The Human Key” — RESOLVED
+
+**Resolution:** Chapter 5 is **The Second Clock**; Chapter 7 uniquely retains **The Human Key**. Integrated in `__INTEGRATION_COMMIT_SHA__`.
 
 ### Conflict
 
@@ -349,7 +368,9 @@ No.
 
 ---
 
-## Discrepancy 16 — Status notes incorrectly reported no unresolved timeline conflict
+## Discrepancy 16 — Status notes incorrectly reported no unresolved timeline conflict — RESOLVED
+
+**Resolution:** The controlling manuscript, status files, timeline, and control pack now record one integrated chronology. Integrated in `__INTEGRATION_COMMIT_SHA__`.
 
 ### Conflict
 

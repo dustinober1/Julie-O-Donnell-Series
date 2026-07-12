@@ -6,7 +6,7 @@
 - Chapter 1 establishes an October morning.
 - EDT to IST conversion is **+9 hours 30 minutes**.
 - Prologue times are shown as operational times without an identified time zone.
-- Because Chapters 1–5 and Chapters 6–12 contain incompatible clock structures, both are recorded separately.
+- The accepted July 11, 2026 repair establishes one continuous present-day chronology through Chapter 12.
 
 ## Six years ago
 
@@ -21,9 +21,7 @@
 | Following nine weeks | Army investigation | Julie testifies four times. Hargrove and Marcus testify. | Official hearing record omits the four-second gateway delay. | Julie is cleared but the report frames “analyst delay.” | Whether any hidden cache or annex survives is unknown. |
 | Three months after strike | Fort Belvoir | Julie resigns. Marcus admits only years later that he protected his access by shaping his testimony. | Resignation and hearing records. | Julie leaves the Army and their relationship breaks. | Hargrove’s current status is unknown. |
 
-## Present-day chronology recorded in Chapters 1–5
-
-This branch is internally coherent until Chapter 5 but conflicts with Chapter 6.
+## Present-day chronology through the Chapter 5-to-6 handoff
 
 | EDT | IST | Location | Event | Evidence / consequence |
 |---:|---:|---|---|---|
@@ -33,32 +31,32 @@ This branch is internally coherent until Chapter 5 but conflicts with Chapter 6.
 | Approximately 11:35 | 21:05 | Apex outer checkpoint | Julie’s plate is read. | Vance’s office later modifies her access four minutes after the read. |
 | 11:39 | 21:09 | Apex | Access profile changed to supervised sandbox, exports disabled, query mirroring enabled. | Direct institutional obstruction begins. |
 | 11:52 | 21:22 | Apex Building Three | Julie reaches Sarah Chen and Briefing Room 402B. | Review begins. |
-| After 11:52; exact time unstated | — | 402B | Julie proves physical anomalies, discovers Payload 88’s index entry, Elias’s authorship, and the ninth checksum. | Initial Payload 88 discovery. |
-| Before 13:07; exact time unstated | — | Building Three and parking structure | Julie and Marcus seal a partial capture, trigger the fire alarm, escape through the skybridge, and leave in Julie’s Ford. | Case contains 136 sealed files, 47 incomplete, 311 excluded. |
-| 12:48:38 EDT equivalent | 22:18 IST | Forward Post Arjun | Sharma sees a disappearing source-review notice; Qureshi photographs it. Countdown to 02:00 IST certification is 03:41:22. | Independent local anomaly record created. |
+| Before 13:07 | — | Building Three and parking structure | Julie and Marcus seal a partial capture, trigger the fire alarm, escape, and leave in Julie’s Ford. | Case contains 136 sealed files, 47 incomplete files, and 311 excluded files. |
+| 12:48:38 EDT equivalent | 22:18 | Forward Post Arjun | Sharma sees a disappearing source-review notice; Qureshi photographs it. | Independent local anomaly record created. |
 | 13:07 | 22:37 | Prince William County | Julie and Marcus evade Apex surveillance. | Official burn notice forming. |
 | 13:31 | 23:01 | Apex Building Three | Vance pressures Elias to sign a false confession. | Prepared framing document. |
-| 13:54 | 23:24 | Manassas motel | Julie and Marcus examine the case through an offline laptop. | Sealed files verify; APX-DIR bridge fragment found. |
+| 13:54 | 23:24 | Manassas motel | Julie and Marcus inspect the case offline. | Sealed files verify; APX-DIR bridge fragment found. |
 | Approximately 14:32 | 00:02 next day | Motel | Julie decides they need Elias and the production root. | Operational return plan formed. |
-| 14:44 EDT equivalent | 00:14 IST | Forward Post Arjun | Ammunition moves forward; Northern Command prepares execution upon final certification. | Escalation becomes physical. |
+| 14:44 EDT equivalent | 00:14 | Forward Post Arjun | Ammunition moves forward after the pending source-certification warning. | Readiness escalates; execution still requires the later support release. |
 | 14:47 | 00:17 | Public library | Julie downloads old campus civil-engineering plans. | Stormwater route identified. |
 | 15:12 | 00:42 | Apex | Elias sends 0088 / COMP-04 / CORE-01 through the facilities bus. | Message to anyone returning for him. |
-| 15:34 | 01:04 | Reston | Julie and Marcus prepare to reenter Apex. | No firearms; gray coveralls; evidence case. |
-| 15:36 | 01:06 | Apex tree line | Julie and Marcus begin the reentry. | — |
-| 15:41 | 01:11 | Building Three | Elias repeats the thermostat message; Vance renews pressure. | Elias retains board. |
-| 15:47 EDT equivalent | 01:17 IST | Forward Post Arjun | Sharma delays full readiness and demands human accountability. | Counter-battery pressure continues. |
-| 15:49–16:02 | 01:19–01:32 | Campus culvert / Building Three | Julie and Marcus enter through stormwater and reach Compliance Four. | Vulnerabilities exploited and recorded. |
-| 16:07 | 01:37 | Compliance Four | Trio united; Elias explains cached conclusions and local provenance review. | Need for production root established. |
-| 16:12 | 01:42 | Core access lift | Trio descends using hostile-credential forensic escort mode. | — |
-| Approximately 16:14 | 01:44 | Production-vault corridor | Recovery certificate fails; Julie uses Vance’s partial certificate reference to trigger a director-compromise review. Circular vault door begins turning. | Countdown shows approximately 15 minutes to the 16:30 certification. |
+| 15:34 | 01:04 | Southern edge of Apex campus | Julie and Marcus prepare for the stormwater approach. | No firearms; gray coveralls; sealed case and tool bag. |
+| 15:36 | 01:06 | Apex tree line | Julie and Marcus move toward the utility easement. | Initial approach begins. |
+| 15:41 | 01:11 | Building Three | Elias repeats the thermostat message; Vance renews pressure. | Elias retains the board. |
+| 15:47 EDT equivalent | 01:17 | Forward Post Arjun | Sharma limits readiness and retains local firing authority. | Source certification will not itself trigger fire. |
+| 15:49–16:12 | 01:19–01:42 | Stormwater utility easement, outside Apex perimeter | Rising water, reverse-flow pumps, and grate conditions make passage physically unsafe. Julie and Marcus withdraw without crossing the perimeter. | Initial approach fails outside the campus; no injury or evidence loss. |
+| 16:21 | 01:51 | Utility-cut observation position | Julie and Marcus identify a second dependent object in captured metadata. | Counter-battery support commit is scheduled for 05:00 EDT / 14:30 IST. |
+| 16:30 | 02:00 | Apex / Forward Post Arjun | Allied source certification completes. | Assessment becomes official and drives readiness; no weapon releases and Sharma does not fire. |
+| 18:06–03:57 | 03:36–13:27 | External observation positions / Building Three | Julie and Marcus maintain surveillance, preserve evidence, and plan the same-route reentry while Elias remains under pressure inside. | No meaningful sleep, treatment, or recovery. |
+| 04:27 | 13:57 | Apex / Forward Post Arjun | Elias confirms the source assessment was certified but the dependent support object remains held for the 05:00 commit; Sharma receives the same support clock. | Two-stage architecture is explicit to both sides. |
+| 04:31 | 14:01 | Stormwater utility easement | Water level has fallen enough for the same route to be used. Julie and Marcus reenter. | No second perimeter concept; same route, changed physical conditions. |
+| 04:44 | 14:14 | Building Three inner secure corridor | Julie and Marcus reach the interior route under active pursuit. | Case remains sealed; tool bag remains with Marcus. |
+| 04:47 | 14:17 | Compliance Four | Julie and Marcus reunite with Elias. | Elias retains the administrator-token board; no injury or treatment reset. |
+| 04:50 | 14:20 | Core access lift | Hostile-identity forensic escort mode routes the trio downward. | Lift destination is an incident-transfer corridor, not the enclave. |
+| 04:51 | 14:21 | Lower-tier incident-transfer corridor | Reporting APX-DIR-0019 as compromised triggers local production isolation. | Hydraulic shutter L3-7 begins its containment sequence; red strobes activate. |
+| 04:52 | 14:22 | Shutter L3-7 threshold | Marcus throws the sealed aluminum case beneath the descending shutter; Julie drives Elias toward the gap; Marcus remains last with the canvas tool bag as the white-strobed recovery door opens behind him. | Exact second-by-second handoff into the unchanged Chapter 6 opening. |
 
-## Critical break between Chapters 5 and 6
-
-Chapter 6 does not continue from the 16:14 circular-vault scene. It begins at **04:52 EDT** behind a descending hydraulic shutter, with the trio in different physical positions and a new 05:00 deadline.
-
-The Chapter 6–12 branch is recorded below because it controls the accepted endpoint and Act III deadlines.
-
-## Present-day chronology recorded in Chapters 6–12
+## Present-day chronology from Chapter 6 through Chapter 12
 
 | EDT | IST | Location | Event | Evidence / consequence |
 |---:|---:|---|---|---|

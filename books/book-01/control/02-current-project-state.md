@@ -9,11 +9,20 @@
 | Act I | Complete |
 | Act II | Complete |
 | Act III | Not drafted |
-| Approximate accepted manuscript length | 67,800 words |
+| Approximate accepted manuscript length | 69,965 words |
 | Current endpoint | Downtown Washington, approximately 07:18 EDT |
 | Next chapter title | Not locked |
 | Full Act III outline | No controlling full outline located |
-| Principal continuity issue | Critical Chapter 5-to-Chapter 6 chronology and geography break |
+| Chapter 5-to-6 continuity | Resolved and integrated on 2026-07-12; commit `__INTEGRATION_COMMIT_SHA__` |
+
+## Integrated Chapter 5-to-6 state
+
+- Chapter 5 is **The Second Clock**.
+- Chapter 7 remains **The Human Key**.
+- 16:30 EDT / 02:00 IST is allied source certification.
+- 05:00 EDT / 14:30 IST is the dependent executable counter-battery support commit and firing-decision point.
+- The repaired Chapter 5 ends at hydraulic shutter L3-7 in the exact physical state required by the unchanged Chapter 6 opening.
+- No downstream Hartwell, Phase B, masking, injury, evidence, or Chapter 12 endpoint state changed.
 
 ## Current manuscript endpoint
 
@@ -220,20 +229,7 @@ The immediate problem is to reach or affect the Hartwell authentication event be
 
 Only genuine blockers are listed.
 
-1. **Resolve or expressly control the Chapter 5–6 continuity break.** Chapter 5 ends at approximately 16:14 EDT at a circular production-vault entrance. Chapter 6 begins at 04:52 EDT behind a descending hydraulic shutter, presented as immediate continuation. This is not a simple timestamp typo; it affects geography, Indian time, the certification deadline, and causality.
-
-2. **For provisional Act III drafting, formally confirm that the Chapter 6–12 clock controls.** This pack uses that branch because the accepted Chapter 12 endpoint and all Hartwell deadlines depend on it.
-
-3. **Lock Chapter 13’s immediate function.** The title need not be chosen first, but the author should decide whether the dominant objective is:
-   - Capture independently verifiable evidence of who presents SSO-NS-004 at Hartwell.
-   - Prevent or delay the Hartwell authentication.
-   - Reach an independent authority with the existing evidence.
-   - Combine those goals under a clearly prioritized abort condition.
-
-4. **Decide how much of K-17 appears in Chapter 13.** A Sharma or field cutaway may be structurally useful, but no approved Chapter 13 POV pattern was located.
-
-5. **Do not decide the identity of SSO-NS-004’s physical custodian by assumption.** That answer is an Act III reveal, not existing canon.
-
-The duplicate Chapter 5 and Chapter 7 title, “The Human Key,” should be repaired before publication but does not block Chapter 13 drafting.
-
+1. **Lock Chapter 13’s immediate function and abort condition.** Decide whether the dominant objective is physical-custody proof at Hartwell, prevention/delay of authentication, delivery to an independent authority, or a prioritized combination.
+2. **Decide how much of K-17 or Sharma appears in Chapter 13.** No approved Chapter 13 cutaway pattern is locked.
+3. **Do not decide the identity of SSO-NS-004’s physical custodian by assumption.** That remains an Act III reveal, not existing canon.
 ---

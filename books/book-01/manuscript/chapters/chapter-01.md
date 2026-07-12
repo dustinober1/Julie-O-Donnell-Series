@@ -246,13 +246,13 @@ Now he simply stood below her porch and let the statement remain true.
 
 “When?”
 
-“Final certification goes out at sixteen-thirty Eastern.”
+“The source certification goes out at sixteen-thirty Eastern.”
 
 Julie looked toward the sun. It was not yet ten.
 
-“And after certification?”
+“And after that?”
 
-“It enters the bilateral channel as a validated United States assessment. India decides what to do with it.”
+“It enters the bilateral channel as a validated United States assessment. The executable counter-battery support product commits at zero-five-hundred Eastern. India still decides whether to fire.”
 
 “You think they’ll fire.”
 

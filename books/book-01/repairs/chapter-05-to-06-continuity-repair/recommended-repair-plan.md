@@ -1,8 +1,8 @@
 # Recommended Chapter 5-to-6 Repair Plan
 
-**Status:** Proposed  
-**Google Doc modified:** No  
-**Canon effect:** None until author approval and manuscript integration
+**Status:** Accepted and integrated
+**Google Doc modified:** No
+**Canon effect:** Accepted and integrated on 2026-07-12 in `__INTEGRATION_COMMIT_SHA__`
 
 ## Options considered
 
@@ -73,8 +73,8 @@ In Chapter 5, retain the Forward Post Arjun scene through the corrected line:
 
 Begin replacement at:
 
-> `Apex Campus Utility Easement`  
-> `Reston, Virginia`  
+> `Apex Campus Utility Easement`
+> `Reston, Virginia`
 > `15:49 Eastern Daylight Time`
 
 ### Replacement end
@@ -106,3 +106,18 @@ At the new Chapter 5 endpoint:
 - the 05:00 support commit remains live.
 
 Chapter 6 can therefore begin without a time jump, recap, or unexplained repositioning.
+
+## Integration record
+
+**Status:** Accepted and integrated
+**Integration date:** 2026-07-12
+**Starting commit:** `454c925adb3a66c8a5f3556128e030856c83de13`
+**Final integration commit:** `__INTEGRATION_COMMIT_SHA__`
+**Controlling manuscript:** GitHub Markdown in `books/book-01/manuscript/`
+**Google Docs accessed:** No
+**Chapter 5 title:** The Second Clock
+**Chapter 6 prose changed:** No
+**Deadline architecture:** 16:30 EDT / 02:00 IST source certification; 05:00 EDT / 14:30 IST executable support commit
+**Replacement boundary:** From the 15:49 Apex Campus Utility Easement heading through the obsolete circular-vault ending
+**Validation result:** Passed all manuscript, chronology, injury, evidence, title, inventory, migration-cleanup, and downstream checks
+**Deviation:** No architectural deviation; only localized line edits and status/control updates

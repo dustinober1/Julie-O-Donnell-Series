@@ -1,5 +1,16 @@
 # 8. EVIDENCE AND CHAIN-OF-CUSTODY LEDGER
 
+## Integrated Chapter 5-to-6 custody handoff
+
+The repaired chronology preserves all accepted evidence states.
+
+- The aluminum case remains sealed and intact throughout the failed first approach, external surveillance period, and pre-05:00 reentry.
+- Marcus retains physical custody during the lower-tier incident-transfer sequence and throws the case beneath shutter L3-7 before any person crosses.
+- Elias retains the administrator-token board. Chapter 5 uses it only for hostile-identity checking and the director-compromise report; the Chapter 7 emergency-administrator authentication remains the first use of the rotating PIN, bound right-index biometric, and private-key challenge.
+- Marcus retains the canvas tool bag until the unchanged Chapter 6 opening, when he throws it separately.
+- The enclave recovery cartridge does not yet exist before Chapter 8 and its later custody remains unchanged.
+- The repaired handoff does not add, remove, duplicate, open, reseal, or transfer any evidence object.
+
 ## 8.1 Aluminum telemetry case and primary evidence drive
 
 ### Object name
@@ -880,7 +891,7 @@ Who suppressed it or why.
 
 ### Risks
 
-Phone or local-image admissibility, classification, time synchronization, and the larger manuscript timeline conflict.
+Phone or local-image admissibility, classification, and time synchronization.
 
 ---
 

@@ -1,5 +1,16 @@
 # 6. CHARACTER STATE LEDGER
 
+## Integrated pre-Chapter-6 state
+
+The repaired Chapter 5 adds prolonged exposure, surveillance pressure, cold, wet clothing, hunger, and exhaustion, but no meaningful treatment, sleep, or physical recovery.
+
+- Julie’s right wrist is uninjured until she pulls Marcus beneath L3-7 in Chapter 6.
+- Marcus’s boot is intact until L3-7 catches it in Chapter 6.
+- Marcus’s rib injury begins at the retracting bridge; his scalp and thigh injuries begin at the enclave-gate fight.
+- Elias’s left-hip injury begins at the retracting bridge.
+- Elias’s right-index limitation remains tied to the accepted Chapter 7 live-finger authentication sequence.
+- The trio enters Chapter 6 with the same fatigue and evidence burden created by the repaired overnight sequence.
+
 ## Julie O’Donnell
 
 ### Identity and role
