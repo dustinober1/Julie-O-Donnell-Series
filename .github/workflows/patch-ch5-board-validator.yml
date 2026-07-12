@@ -1,0 +1,52 @@
+name: Patch Chapter 5 board validator
+
+on:
+  issue_comment:
+    types:
+      - created
+
+permissions:
+  contents: write
+
+jobs:
+  patch:
+    if: github.event.comment.body == '/patch-ch5-board-validator'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Patch validator and remove this workflow
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          from pathlib import Path
+
+          path = Path('.github/workflows/restore-book1-manuscript.yml')
+          text = path.read_text(encoding='utf-8')
+          anchor = """          script = script.replace(old_evidence_block, new_evidence_block, 1)
+          script_path.write_text(script, encoding='utf-8')"""
+          replacement = """          script = script.replace(old_evidence_block, new_evidence_block, 1)
+
+          old_board_check = 'assert_contains(final_ch5, \"administrator-token board\", \"Elias board custody\")'
+          new_board_check = '''assert_contains(final_ch5, \"Elias inserted the circuit board.\", \"Elias board physical custody\")
+          assert_contains(evidence_ledger, \"administrator-token circuit board\", \"Elias board ledger identity\")'''
+          if script.count(old_board_check) != 1:
+              raise SystemExit(f'board custody validator: expected one check, found {script.count(old_board_check)}')
+          script = script.replace(old_board_check, new_board_check, 1)
+          script_path.write_text(script, encoding='utf-8')"""
+          if text.count(anchor) != 1:
+              raise SystemExit(f'workflow insertion anchor expected once, found {text.count(anchor)}')
+          path.write_text(text.replace(anchor, replacement, 1), encoding='utf-8')
+          PY
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git rm .github/workflows/patch-ch5-board-validator.yml
+          git add .github/workflows/restore-book1-manuscript.yml
+          git diff --cached --check
+          git commit -m "Align Elias board custody validation"
+          git push origin HEAD:main
