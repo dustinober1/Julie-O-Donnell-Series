@@ -1,4 +1,4 @@
-name: Temporary manuscript source export
+name: Temporary repository source export
 
 on:
   pull_request:
@@ -10,16 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Package controlling Markdown inventory
+      - name: Package repository tree
         shell: bash
-        run: |
-          tar -czf manuscript-source.tgz \
-            books/book-01/ACCEPTED_MANUSCRIPT.yaml \
-            books/book-01/manuscript \
-            books/book-01/drafts/chapter-13.md
-      - name: Upload source package
+        run: git archive --format=tar.gz --output=repo-source.tgz HEAD
+      - name: Upload repository package
         uses: actions/upload-artifact@v4
         with:
-          name: manuscript-source
-          path: manuscript-source.tgz
+          name: repo-source
+          path: repo-source.tgz
           if-no-files-found: error
