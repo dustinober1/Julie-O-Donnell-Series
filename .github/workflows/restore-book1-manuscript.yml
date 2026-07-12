@@ -4,9 +4,8 @@ on:
   pull_request:
     branches:
       - main
-    types: [opened, synchronize, reopened]
-    paths:
-      - .chapter5-6-trigger
+      - agent/ch5-6-event-base
+    types: [edited, synchronize, reopened]
 
 permissions:
   contents: write
