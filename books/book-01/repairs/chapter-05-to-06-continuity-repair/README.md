@@ -4,7 +4,7 @@
 **Integration date:** 2026-07-12
 **Starting commit:** `454c925adb3a66c8a5f3556128e030856c83de13`
 **Final integration commit:** `f6d49cbeae2b2f23daac55dc0bacfeb040428f5f`
-**Metadata commit:** Recorded by the immediately following Git commit so the immutable integration SHA could be written into the repository.
+**Metadata commit:** `73db36268aa954787c10135c921611e81a1f2c93`
 
 ## Authority
 

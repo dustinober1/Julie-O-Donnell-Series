@@ -22,7 +22,7 @@ If any repository document conflicts with the accepted manuscript prose, the acc
 
 ## Chapter 5-to-6 continuity repair
 
-The chronology, deadline, geography, and immediate physical handoff between Chapters 5 and 6 were repaired and integrated on July 11, 2026.
+The chronology, deadline, geography, and immediate physical handoff between Chapters 5 and 6 were repaired and integrated on July 12, 2026.
 
 - Chapter 5 is now **The Second Clock**.
 - Chapter 7 remains **The Human Key**.
