@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Recount accepted inventory and Chapter 13
+      - name: Compare repeatable Markdown word-count methods
         shell: bash
         run: |
           python3 - <<'PY' > manuscript-counts.txt
@@ -21,29 +21,76 @@ jobs:
           accepted_block = manifest.split('accepted_files:', 1)[1].split('excluded_from_canon:', 1)[0]
           paths = re.findall(r'path:\s*"([^"]+\.md)"', accepted_block)
 
-          methods = {
-              'whitespace': lambda s: len(s.split()),
-              'unicode_words': lambda s: len(re.findall(r"[^\W_]+(?:[’'\-][^\W_]+)*", s, flags=re.UNICODE)),
-              'wordish': lambda s: len(re.findall(r"\b[\w’'\-]+\b", s, flags=re.UNICODE)),
+          time_re = re.compile(r'^(?:approximately\s+)?\d{1,2}:\d{2}(?::\d{2}(?:\.\d+)?)?\s+(?:Eastern Daylight Time|Indian Standard Time|EDT|IST)$', re.I)
+          def is_upper_display(line):
+              letters = [c for c in line if c.isalpha()]
+              return bool(letters) and all(c.isupper() for c in letters)
+
+          def scene_header_indexes(lines):
+              remove = set()
+              for i, raw in enumerate(lines):
+                  line = raw.strip()
+                  if not time_re.match(line):
+                      continue
+                  remove.add(i)
+                  j = i - 1
+                  kept = 0
+                  while j >= 0 and lines[j].strip() and kept < 3:
+                      remove.add(j)
+                      kept += 1
+                      j -= 1
+              return remove
+
+          def count_variant(text, *, headings=True, upper=True, scene=True, code_fences=True):
+              lines = text.splitlines()
+              scene_idx = scene_header_indexes(lines) if not scene else set()
+              kept = []
+              in_fence = False
+              for i, raw in enumerate(lines):
+                  s = raw.strip()
+                  if s.startswith('```'):
+                      in_fence = not in_fence
+                      if not code_fences:
+                          continue
+                  if not code_fences and in_fence:
+                      continue
+                  if not headings and s.startswith('#'):
+                      continue
+                  if not upper and is_upper_display(s):
+                      continue
+                  if not scene and i in scene_idx:
+                      continue
+                  kept.append(raw)
+              return len('\n'.join(kept).split())
+
+          variants = {
+              'all': {},
+              'no_headings': {'headings': False},
+              'no_upper': {'upper': False},
+              'no_scene': {'scene': False},
+              'no_headings_upper': {'headings': False, 'upper': False},
+              'no_headings_scene': {'headings': False, 'scene': False},
+              'no_upper_scene': {'upper': False, 'scene': False},
+              'prose_candidate': {'headings': False, 'upper': False, 'scene': False, 'code_fences': False},
           }
 
+          totals = {name: 0 for name in variants}
           print('ACCEPTED_FILES', len(paths))
-          totals = {name: 0 for name in methods}
           for path in paths:
               text = Path(path).read_text(encoding='utf-8')
-              counts = {name: fn(text) for name, fn in methods.items()}
+              counts = {name: count_variant(text, **opts) for name, opts in variants.items()}
               for name, value in counts.items():
                   totals[name] += value
               print('FILE', path, *(f'{name}={value}' for name, value in counts.items()))
           print('ACCEPTED_TOTALS', *(f'{name}={value}' for name, value in totals.items()))
 
           chapter = Path('books/book-01/drafts/chapter-13.md').read_text(encoding='utf-8')
-          print('CHAPTER13', *(f'{name}={fn(chapter)}' for name, fn in methods.items()))
+          print('CHAPTER13', *(f'{name}={count_variant(chapter, **opts)}' for name, opts in variants.items()))
           PY
           cat manuscript-counts.txt
       - name: Upload count report
         uses: actions/upload-artifact@v4
         with:
-          name: manuscript-counts
+          name: manuscript-counts-variants
           path: manuscript-counts.txt
           if-no-files-found: error
