@@ -86,7 +86,7 @@ jobs:
           replacements = [
               (
                   'STARTING_HEAD = "01e3590f6da1a860b63666045e50cb55239c0b80"',
-                  'STARTING_HEAD = "24e480148de26e65abf2b217d8ae6fc68832717d"',
+                  'STARTING_HEAD = "454c925adb3a66c8a5f3556128e030856c83de13"',
                   'verification-pass starting commit',
               ),
               (
