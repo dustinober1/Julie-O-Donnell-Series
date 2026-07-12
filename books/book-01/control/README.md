@@ -1,6 +1,6 @@
-# Canon Control Pack v2.0
+# Canon Control Pack v2.1
 
-Split by section for review and version control. The accepted manuscript always outranks the control pack. Version 2.0 incorporates the accepted Chapter 5-to-6 timeline and L3-7 handoff repair integrated on 2026-07-12 in `f6d49cbeae2b2f23daac55dc0bacfeb040428f5f`.
+Split by section for review and version control. The accepted manuscript always outranks the control pack. Version 2.1 incorporates the accepted Chapter 5-to-6 repair and the locked Chapter 13 mission/Act III entry planning artifact.
 
 - [Overview](00-overview.md)
 - [1. DOCUMENT PURPOSE AND USE](01-document-purpose-and-use.md)
@@ -23,3 +23,4 @@ Split by section for review and version control. The accepted manuscript always 
 - [18. ACT III ENTRY STATE](18-act-iii-entry-state.md)
 - [19. DISCREPANCY AND REPAIR REPORT](19-discrepancy-and-repair-report.md)
 - [20. CONTROL-PACK MAINTENANCE RULES](20-control-pack-maintenance-rules.md)
+- [21. CHAPTER 13 MISSION LOCK](21-chapter-13-mission-lock.md)
