@@ -1,4 +1,4 @@
-name: Temporary repository source export
+name: Temporary baseline tree export
 
 on:
   pull_request:
@@ -10,12 +10,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Package repository tree
+      - name: Resolve baseline tree
         shell: bash
-        run: git archive --format=tar.gz --output=repo-source.tgz HEAD
-      - name: Upload repository package
+        run: |
+          git fetch --no-tags --depth=1 origin a426b7c98867dfb939ca5f406830126e89307f44
+          git rev-parse 'a426b7c98867dfb939ca5f406830126e89307f44^{tree}' > baseline-tree.txt
+          cat baseline-tree.txt
+      - name: Upload baseline tree
         uses: actions/upload-artifact@v4
         with:
-          name: repo-source
-          path: repo-source.tgz
+          name: baseline-tree
+          path: baseline-tree.txt
           if-no-files-found: error
