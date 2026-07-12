@@ -13,7 +13,7 @@ permissions:
 
 concurrency:
   group: book1-chapter5-6-integration
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   integrate:
