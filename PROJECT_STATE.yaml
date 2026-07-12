@@ -15,7 +15,7 @@ active_book:
     act_i: "complete"
     act_ii: "complete"
     act_iii: "not accepted; Chapter 13 exists as a draft"
-  approximate_manuscript_words: 66333
+  approximate_manuscript_words: 65366
   endpoint_time:
     eastern: "approximately 07:18 EDT"
     india: "approximately 16:48 IST"
@@ -40,12 +40,17 @@ active_book:
     manuscript_revisions_applied: true
     prologue_revised: true
     revised_chapters:
+      - 1
       - 12
     revised_sections:
       - "Prologue"
+      - "Chapter 1"
       - "Chapter 12"
     latest_prologue_revision_note: "artifacts/book-01-prologue-house-style-v2-1-revision-note.md"
-    latest_chapter_revision_note: "artifacts/book-01-chapter-12-house-style-v2-revision-note.md"
+    latest_chapter_revision_note: "artifacts/book-01-chapter-01-house-style-v2-1-revision-note.md"
+    chapter_revision_notes:
+      chapter_1: "artifacts/book-01-chapter-01-house-style-v2-1-revision-note.md"
+      chapter_12: "artifacts/book-01-chapter-12-house-style-v2-revision-note.md"
 
 source_of_truth:
   - rank: 1
@@ -94,4 +99,4 @@ migration:
   completed: "2026-07-11"
   active_external_manuscript: false
 
-next_recommended_action: "Apply the House Style v2.1 moderate narrative-density pass to Chapter 1 — The Official Version, using the revised Prologue and accepted Chapter 2 as continuity controls."
+next_recommended_action: "Apply the House Style v2.1 moderate narrative-density pass to Chapter 2 — The Poisoned Feed, using the revised Chapter 1 and accepted Chapter 3 as continuity controls."
