@@ -1,4 +1,4 @@
-name: Temporary Chapter 13 patch export
+name: Temporary Chapter 13 staging export
 
 on:
   push:
@@ -16,22 +16,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Reconstruct and validate staged patch
+      - name: Export raw staging chunks and baseline tree
         shell: bash
         run: |
-          {
-            base64 --decode .tmp/ch13-patch-00
-            base64 --decode .tmp/ch13-patch-01
-          } | gzip --decompress > ch13-acceptance.patch
-          sha256sum ch13-acceptance.patch | tee ch13-acceptance.patch.sha256
-          git apply --stat ch13-acceptance.patch | tee ch13-acceptance.patch.stat
-          git apply --check ch13-acceptance.patch
-      - name: Upload staged patch
+          cp .tmp/ch13-patch-00 raw-ch13-patch-00.txt
+          cp .tmp/ch13-patch-01 raw-ch13-patch-01.txt
+          wc -c raw-ch13-patch-00.txt raw-ch13-patch-01.txt | tee staging-sizes.txt
+          sha256sum raw-ch13-patch-00.txt raw-ch13-patch-01.txt | tee staging-sha256.txt
+          git fetch --no-tags --depth=1 origin a426b7c98867dfb939ca5f406830126e89307f44
+          git rev-parse 'a426b7c98867dfb939ca5f406830126e89307f44^{tree}' > baseline-tree.txt
+      - name: Upload raw staging export
         uses: actions/upload-artifact@v4
         with:
-          name: ch13-acceptance-patch
+          name: ch13-raw-staging-export
           path: |
-            ch13-acceptance.patch
-            ch13-acceptance.patch.sha256
-            ch13-acceptance.patch.stat
+            raw-ch13-patch-00.txt
+            raw-ch13-patch-01.txt
+            staging-sizes.txt
+            staging-sha256.txt
+            baseline-tree.txt
           if-no-files-found: error
