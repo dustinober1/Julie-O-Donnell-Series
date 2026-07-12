@@ -2,13 +2,17 @@
 
 ## Resolved pre-Act-III continuity state
 
-The Chapter 5-to-6 chronology and physical handoff were repaired and integrated on 2026-07-12 in commit `f6d49cbeae2b2f23daac55dc0bacfeb040428f5f`. It is no longer an Act III blocker. Chapter 13’s precise mission, abort condition, and POV/cutaway choice remain planning decisions and are not locked by this repair.
+The Chapter 5-to-6 chronology and physical handoff were repaired and integrated on 2026-07-12 in commit `f6d49cbeae2b2f23daac55dc0bacfeb040428f5f`. It is no longer an Act III blocker.
+
+Chapter 13’s dominant mission, immediate tactical objective, abort condition, POV structure, cutaway decision, opening state, likely endpoint, and Chapter 14 handoff are now locked as planning in `21-chapter-13-mission-lock.md`.
+
+Chapter 13 remains undrafted. Act III remains undrafted. Chapter 14 and later functions remain unlocked.
 
 ## Exact launch state
 
-**Time:** Approximately 07:18 EDT / 16:48 IST
-**Location:** Downtown Washington, exact street unstated
-**Vehicle:** PCF-27
+**Time:** Approximately 07:18 EDT / 16:48 IST  
+**Location:** Downtown Washington, exact street unstated  
+**Vehicle:** PCF-27  
 **Characters present:** Julie, Marcus, Elias
 
 ## Physical condition
@@ -95,7 +99,11 @@ Authorization deadline 07:49 EDT.
 
 ## What Julie intends to accomplish
 
-At minimum, Julie intends to move toward the next physical authentication point rather than continue fleeing. The exact Chapter 13 operational plan is not yet canon.
+Julie’s locked Chapter 13 intention is to move from registered digital authority toward a physical Hartwell event without overclaiming the evidence.
+
+She must shed PCF-27 as the obvious target and establish continuous observation of the Hartwell signer-carrier stream before the 07:46:00 EDT local perimeter challenge begins, or Phase B can be authorized and masked through a physical event the trio cannot tie to any person, vehicle, witness, or admissible record.
+
+The exact target of the observation is the route, access lane, support vehicle, staff/courier stream, or physical presentation path by which **SSO-NS-004** enters Hartwell’s briefing security domain. The plan does not assume that Sterling personally holds the signer.
 
 ## What Julie can prove
 
@@ -122,28 +130,38 @@ At minimum, Julie intends to move toward the next physical authentication point 
 - Vance’s complete relationship with Sterling or Tariq.
 - Current preservation of the WSS local record.
 
-## What constitutes success
+## Locked Chapter 13 success condition
 
-A useful Act III success should include one or more of:
+Chapter 13 succeeds if, by its endpoint, the trio has:
 
-- Preventing or delaying Phase B authorization.
-- Capturing independently verifiable physical-custody evidence for SSO-NS-004.
-- Preserving the Hartwell authentication event with neutral witnesses or systems.
-- Reaching an independent official with both Apex and WSS evidence.
-- Preventing K-17 exploitation.
-- Fracturing the public narrative without exposing harmful raw intelligence.
-- Keeping all three protagonists and the primary evidence alive.
+1. Preserved all existing evidence objects and their custody distinctions.
+2. Removed or displaced PCF-27 from the immediate Hartwell plate-recognition stream.
+3. Identified the most likely physical lane, person-stream, or support route through which SSO-NS-004 must enter the Hartwell security domain.
+4. Positioned Julie and Elias to witness or capture the local perimeter challenge in Chapter 14.
+5. Left Marcus with the primary evidence and an exfiltration/control role.
+6. Preserved the distinction that the signer device is registered to Sterling’s office but the human custodian remains unproved.
 
-## What constitutes failure
+## Locked Chapter 13 failure consequence
 
-- Phase B authorized.
-- Second masking/reconstruction profile executes.
-- K-17 logs or access are successfully manipulated.
-- Evidence destroyed or separated into hostile custody without redundancy.
-- Julie, Marcus, or Elias killed or incapacitated.
-- A civilian or honest officer is harmed.
-- Julie’s actions validate Sterling’s portrayal.
-- The signer disappears without a physical-custody record.
+If the mission fails:
+
+- Phase B can be authorized.
+- Masking Window Two can execute.
+- K-17 logs or access may be manipulated without a physical Hartwell record.
+- The existing evidence remains vulnerable to hostile explanation as registered authority without human custody.
+- Sterling’s public narrative continues without an immediate physical contradiction.
+- The team may lose the evidence, one another, or the moral boundary that keeps their actions from validating Sterling’s claim.
+
+## Locked Chapter 13 abort condition
+
+Hard abort at **07:42:30 EDT** unless both of the following are true:
+
+1. Julie has established continuous observation, or a defensibly recoverable observation record, of the suspected SSO-NS-004 carrier stream, access lane, support vehicle, or staff/courier route into Hartwell.
+2. Marcus has a viable exfiltration route with the primary evidence, and Elias can confirm that the incident module and administrator-token board remain in his custody and usable.
+
+Immediate abort triggers include evidence loss or separation, module/board compromise, closure of both exfiltration routes, civilian exposure requiring harm or hostage-taking, separation of a required team member, or loss of the ability to establish the intended physical-custody fact.
+
+Julie may not override the hard clock or a confirmed evidence-integrity abort.
 
 ## Ethical boundaries still in force
 
@@ -174,7 +192,7 @@ A useful Act III success should include one or more of:
 - Messages encrypted.
 - K-17 status unknown.
 
-## Approved Act III Structural Direction
+## Approved Act III structural direction
 
 The revised Act II structure establishes only a broad, still-valid direction:
 
@@ -188,18 +206,24 @@ The revised Act II structure establishes only a broad, still-valid direction:
 
 The older review stated as fact that Sterling carried the device and that Tariq was less than an hour from K-17. The accepted manuscript supersedes those claims: the physical custodian is unknown, and relay access was not confirmed.
 
-No complete approved Act III outline or locked Chapter 13 title was found.
+## Chapter 13 locked decisions
 
-## Decisions the author should make before drafting
+1. **Precise Hartwell objective:** Establish observation of the physical signer-carrier stream before the Hartwell local perimeter challenge.
+2. **Dominant function:** Moving physical-custodian identification operation.
+3. **Abort condition:** Hard abort at 07:42:30 EDT unless observation and evidence/exfil conditions are both satisfied.
+4. **POV structure:** Julie-dominant with one short Chen/Mercer pressure cutaway.
+5. **Cutaway exclusions:** No Sharma, K-17/Tariq, Sterling, or Vance major cutaway in Chapter 13.
+6. **Likely endpoint:** Approximately 07:45–07:46 EDT outside Hartwell, with the physical-custody question unresolved into Chapter 14.
 
-1. The precise Hartwell objective.
-2. The intended physical custodian of SSO-NS-004.
-3. Whether Chapter 13 reaches the perimeter, enters it, or ends before entry.
-4. Whether K-17 or Sharma receives a parallel scene.
-5. What immediate independent witness or record can authenticate the Hartwell event.
-6. Whether the trio stays together or splits evidence and action roles again.
-7. What abort condition Julie sets.
-8. Whether Phase B’s meaning is revealed at Hartwell or in the field.
+## Decisions still unlocked
+
+1. Chapter 13 title.
+2. The intended physical custodian of SSO-NS-004, until evidence establishes it in accepted prose.
+3. Chapter 14 and later chapter functions.
+4. The full Act III chapter sequence.
+5. Phase B’s precise meaning.
+6. K-17’s physical state.
+7. Whether later chapters use Sharma, K-17/Tariq, Hargrove, Hackett, Bell, Chen, Mercer, or another witness/cutaway.
 
 These are planning decisions, not canon facts.
 
