@@ -62,7 +62,7 @@ jobs:
               sort
             )
             echo "payload_parts=${#parts[@]}"
-            test "${#parts[@]}" -eq 12
+            test "${#parts[@]}" -eq 14
             : > /tmp/integrate_ch5_6.py
             for part in "${parts[@]}"; do
               echo "materializing $part"
