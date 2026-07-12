@@ -3,7 +3,7 @@
 **Repository source:** GitHub Markdown manuscript  
 **Migration date:** July 11, 2026  
 **Canon endpoint:** End of Chapter 12, approximately 07:18 EDT / 16:48 IST  
-**Approximate accepted-manuscript length:** 63,968 words  
+**Approximate accepted-manuscript length:** 62,454 words  
 **Act I:** Complete  
 **Act II:** Complete  
 **Act III:** Drafting begun; no Act III chapter has been promoted to accepted canon
@@ -11,9 +11,9 @@
 ## Accepted files
 
 - Prologue: accepted; House Style v2.1 narrative-density revision applied.
-- Chapter 1: **The Official Version** — accepted; House Style v2.1 narrative-density revision applied.
-- Chapter 2: **The Poisoned Feed** — accepted; House Style v2.1 narrative-density revision applied.
-- Chapter 3: **The Exit Protocol** — accepted.
+- Chapter 1: **The Official Version** — accepted; House Style v2.2 line-density second pass applied.
+- Chapter 2: **The Poisoned Feed** — accepted; House Style v2.2 line-density second pass applied.
+- Chapter 3: **The Exit Protocol** — accepted; v2.2 revision design exists, manuscript not yet revised under v2.2.
 - Chapter 4: **Burn Notice** — accepted.
 - Chapter 5: **The Second Clock** — accepted; continuity repair integrated.
 - Chapter 6: **The Descent** — accepted.
@@ -35,18 +35,22 @@
 
 ## Revision status
 
-- Current craft control: `../../../docs/Julie_ODonnell_Narrative_House_Style_v2_1.md`.
+- Current craft control: `../../../docs/Julie_ODonnell_Narrative_House_Style_v2_2.md`.
+- Narrative-density supplement retained at `../../../docs/Julie_ODonnell_Narrative_House_Style_v2_1.md`.
 - Complete base guide retained at `../../../docs/Julie_ODonnell_Narrative_House_Style_v2.md`.
 - Revised accepted sections: Prologue, Chapter 1, Chapter 2, and Chapter 12.
+- House Style v2.2 second-pass chapters: Chapter 1 and Chapter 2.
 - Prologue revision note: `../../../artifacts/book-01-prologue-house-style-v2-1-revision-note.md`.
-- Chapter 1 revision note: `../../../artifacts/book-01-chapter-01-house-style-v2-1-revision-note.md`.
-- Chapter 2 revision note: `../../../artifacts/book-01-chapter-02-house-style-v2-1-revision-note.md`.
+- Chapter 1 v2.2 revision note: `../../../artifacts/book-01-chapter-01-house-style-v2-2-line-density-revision-note.md`.
+- Chapter 2 v2.2 revision note: `../../../artifacts/book-01-chapter-02-house-style-v2-2-line-density-revision-note.md`.
 - Chapter 12 revision note: `../../../artifacts/book-01-chapter-12-house-style-v2-revision-note.md`.
-- Next recommended revision: Chapter 3 — **The Exit Protocol**.
+- Prior v2.1 Chapter 1 and Chapter 2 notes remain in `../../../artifacts/` as historical revision records.
+- Chapter 3 revision design: `../../../docs/superpowers/specs/2026-07-12-chapter-03-narrative-density-design.md`.
+- Next recommended revision: Chapter 3 — **The Exit Protocol**, using House Style v2.2.
 
 ## Open blockers
 
-- No blocker prevents continued House Style v2.1 revision work on accepted chapters.
+- No blocker prevents continued House Style v2.2 revision work on accepted chapters.
 - Chapter 13 requires a separate acceptance and continuity review before it can control later canon.
 - Chapter 14 and later functions remain unlocked.
 - Act III remains unaccepted beyond the Chapter 13 draft.
