@@ -4,9 +4,9 @@
 
 2. Record only accepted manuscript facts as confirmed canon.
 
-3. Keep unwritten chapter material labeled as planned, proposed, or unresolved.
+3. Keep unwritten chapter material labeled as planned, proposed, locked planning, or unresolved.
 
-4. Update the master timeline immediately whenever a chapter uses an exact timestamp.
+4. Update the master timeline immediately whenever a chapter uses an exact timestamp in accepted prose.
 
 5. Record both EDT and IST when events materially affect the cross-border crisis.
 
@@ -50,8 +50,8 @@
 15. Preserve older control-pack versions.
 
 16. Use semantic versioning:
-   - Minor accepted chapter update: v1.1, v1.2, and so on.
-   - Major act transition or repaired timeline: v2.0.
+   - Minor accepted chapter update: v2.2, v2.3, and so on.
+   - Major act transition or repaired timeline: v3.0.
    - Final continuity pass: designated final-control version.
 
 17. Run a discrepancy check before every new act.
@@ -60,7 +60,7 @@
 
 19. Run a full continuity audit before final revision.
 
-20. Update the repository or project bibles only after they have been reconciled to the accepted manuscript. The existing repository files remain a superseded pre-draft scaffold rather than controlling canon.
+20. Update the repository or project bibles only after they have been reconciled to the accepted manuscript. The existing repository files remain a superseded pre-draft scaffold rather than controlling canon where they conflict with the accepted manuscript.
 
 21. Accepted manuscript repairs in GitHub must update every affected control-pack, status, timeline, evidence, knowledge, technology, location, and discrepancy document in the same production pass.
 
@@ -89,3 +89,11 @@
    - The ultimate correction—or noncorrection—of the official record.
 
 24. The accepted Chapter 5-to-6 repair is permanent canon. Preserve its repair package and commit references; do not restore the obsolete circular-vault branch as current manuscript truth.
+
+25. The Chapter 13 mission lock is stored at `21-chapter-13-mission-lock.md` and is accepted locked planning, not accepted prose. It controls the next drafting context unless superseded by an explicit same-pass planning revision.
+
+26. The Chapter 13 locked plan must not be expanded into a full Act III chapter-by-chapter outline before Chapter 13 is drafted and accepted.
+
+27. Chapter 13’s title, Chapter 14’s function, later Act III functions, the physical custodian of SSO-NS-004, Phase B’s exact purpose, and K-17’s physical status remain unlocked until accepted evidence or a later locked planning artifact establishes them.
+
+28. If Chapter 13 draft prose changes any mission-lock assumption, update `21-chapter-13-mission-lock.md` or mark the changed assumption superseded in the same production pass.
