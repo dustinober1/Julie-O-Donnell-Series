@@ -1,0 +1,1 @@
+Prologue is present on main. Chapters 1-12 are staged as exact transparent segments for SHA-256 verified assembly.
