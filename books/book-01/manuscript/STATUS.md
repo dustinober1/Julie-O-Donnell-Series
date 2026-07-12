@@ -3,7 +3,7 @@
 **Repository source:** GitHub Markdown manuscript  
 **Migration date:** July 11, 2026  
 **Canon endpoint:** End of Chapter 12, approximately 07:18 EDT / 16:48 IST  
-**Approximate accepted-manuscript length:** 66,333 words  
+**Approximate accepted-manuscript length:** 65,366 words  
 **Act I:** Complete  
 **Act II:** Complete  
 **Act III:** Drafting begun; no Act III chapter has been promoted to accepted canon
@@ -11,7 +11,7 @@
 ## Accepted files
 
 - Prologue: accepted; House Style v2.1 narrative-density revision applied.
-- Chapter 1: **The Official Version** — accepted.
+- Chapter 1: **The Official Version** — accepted; House Style v2.1 narrative-density revision applied.
 - Chapter 2: **The Poisoned Feed** — accepted.
 - Chapter 3: **The Exit Protocol** — accepted.
 - Chapter 4: **Burn Notice** — accepted.
@@ -37,10 +37,11 @@
 
 - Current craft control: `../../../docs/Julie_ODonnell_Narrative_House_Style_v2_1.md`.
 - Complete base guide retained at `../../../docs/Julie_ODonnell_Narrative_House_Style_v2.md`.
-- Revised accepted sections: Prologue and Chapter 12.
+- Revised accepted sections: Prologue, Chapter 1, and Chapter 12.
 - Prologue revision note: `../../../artifacts/book-01-prologue-house-style-v2-1-revision-note.md`.
+- Chapter 1 revision note: `../../../artifacts/book-01-chapter-01-house-style-v2-1-revision-note.md`.
 - Chapter 12 revision note: `../../../artifacts/book-01-chapter-12-house-style-v2-revision-note.md`.
-- Next recommended revision: Chapter 1 — **The Official Version**.
+- Next recommended revision: Chapter 2 — **The Poisoned Feed**.
 
 ## Open blockers
 
