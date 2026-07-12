@@ -1,24 +1,29 @@
-name: Prepare accepted Chapter 5-6 continuity repair
+name: Integrate accepted Chapter 5-6 continuity repair
 
 on:
-  pull_request:
+  push:
     branches:
       - main
-      - agent/ch5-6-event-base
-    types: [edited, synchronize, reopened]
+    paths:
+      - .github/workflows/restore-book1-manuscript.yml
+  workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: book1-chapter5-6-integration
+  cancel-in-progress: false
+
 jobs:
   integrate:
-    if: github.head_ref == 'agent/private-book1-migration-bundle'
+    if: github.event_name == 'workflow_dispatch' || github.event.head_commit.message == 'Arm accepted Chapter 5-6 continuity repair'
     runs-on: ubuntu-latest
     steps:
-      - name: Check out isolated integration branch
+      - name: Check out main
         uses: actions/checkout@v4
         with:
-          ref: agent/ch5-6-continuity-repair-staging
+          ref: main
           fetch-depth: 0
 
       - name: Set up Python
@@ -26,36 +31,83 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Materialize repository-local integration script
+      - name: Fetch and verify integration payload
         shell: bash
         run: |
           set -euo pipefail
-          python - <<'PY'
-          import base64
-          import zlib
-          from pathlib import Path
+          git fetch origin agent/ch5-6-integration-payload:refs/remotes/origin/agent/ch5-6-integration-payload
+          : > /tmp/integrate_ch5_6.py
+          while IFS= read -r part; do
+            git show "origin/agent/ch5-6-integration-payload:$part" >> /tmp/integrate_ch5_6.py
+          done < <(
+            git ls-tree -r --name-only origin/agent/ch5-6-integration-payload tools/.ch5repair |
+            grep '^tools/.ch5repair/source-' |
+            sort
+          )
+          echo "ea90a17181d0331ed9a44dddd19edbef175f6f4570ff54b9d6a5773234ad676c  /tmp/integrate_ch5_6.py" | sha256sum -c -
+          python -m py_compile /tmp/integrate_ch5_6.py
 
-          parts = sorted(Path('tools/.ch5repair').glob('part*'))
-          if len(parts) != 5:
-              raise SystemExit(f'Expected five integration payload parts; found {len(parts)}')
-          encoded = ''.join(path.read_text(encoding='utf-8') for path in parts)
-          script = zlib.decompress(base64.b64decode(encoded))
-          Path('tools/integrate_chapter5_6.py').write_bytes(script)
-          PY
+      - name: Apply and validate repair
+        run: python /tmp/integrate_ch5_6.py
 
-      - name: Apply and validate accepted repair
-        run: python tools/integrate_chapter5_6.py
-
-      - name: Validate patch formatting
-        run: git diff --check
-
-      - name: Commit validated staging result
+      - name: Commit integration and record immutable SHA
         shell: bash
         run: |
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add -A
+          git diff --cached --check
           git diff --cached --stat
-          git commit -m "Prepare accepted Chapter 5-6 continuity repair"
-          git push origin HEAD:agent/ch5-6-continuity-repair-staging
+          git commit -m "Integrate accepted Chapter 5-6 continuity repair"
+          integration_sha="$(git rev-parse HEAD)"
+
+          python - "$integration_sha" <<'PY'
+          from pathlib import Path
+          import sys
+
+          placeholder = "__INTEGRATION_COMMIT_SHA__"
+          sha = sys.argv[1]
+          replacements = 0
+          for path in Path(".").rglob("*"):
+              if not path.is_file() or ".git" in path.parts:
+                  continue
+              try:
+                  text = path.read_text(encoding="utf-8")
+              except UnicodeDecodeError:
+                  continue
+              count = text.count(placeholder)
+              if count:
+                  path.write_text(text.replace(placeholder, sha), encoding="utf-8")
+                  replacements += count
+
+          if replacements == 0:
+              raise SystemExit("No integration SHA placeholders were found.")
+          print(f"Recorded {sha} in {replacements} repository locations.")
+          PY
+
+          if git grep -n "__INTEGRATION_COMMIT_SHA__"; then
+            echo "Unresolved integration SHA placeholder remains."
+            exit 1
+          fi
+
+          git add -A
+          git diff --cached --check
+          git diff --cached --stat
+          git commit -m "Record Chapter 5-6 integration commit"
+          git push origin HEAD:main
+          git push origin --delete agent/ch5-6-integration-payload
+
+      - name: Final runner readback
+        shell: bash
+        run: |
+          set -euo pipefail
+          echo "Ending HEAD: $(git rev-parse HEAD)"
+          git log -2 --oneline
+          test "$(find books/book-01/manuscript/chapters -maxdepth 1 -name 'chapter-*.md' | wc -l)" -eq 12
+          grep -F "# Chapter 5 - The Second Clock" books/book-01/manuscript/chapters/chapter-05.md
+          grep -F "# Chapter 6 - The Descent" books/book-01/manuscript/chapters/chapter-06.md
+          grep -F "# Chapter 7 - The Human Key" books/book-01/manuscript/chapters/chapter-07.md
+          grep -F "The hydraulic shutter came down hard enough to shake dust from the concrete ceiling." books/book-01/manuscript/chapters/chapter-06.md
+          test ! -e .github/workflows/restore-book1-manuscript.yml
