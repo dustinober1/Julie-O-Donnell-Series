@@ -104,6 +104,16 @@ jobs:
                   '"And even if we succeed, the review may not finish before source certification.",',
                   'embedded Chapter 4 new sentence',
               ),
+              (
+                  '"The red emergency strobes came on before the alarm.",',
+                  '"The red strobes beyond L3-7 accelerated.",',
+                  'accepted red-strobe handoff assertion',
+              ),
+              (
+                  '"He threw the aluminum case under the descending steel.",',
+                  '"He threw the aluminum case beneath the descending steel.",',
+                  'accepted evidence-case handoff assertion',
+              ),
           ]
           for old, new, label in replacements:
               count = script.count(old)
