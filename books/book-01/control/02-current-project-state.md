@@ -12,8 +12,14 @@
 | Approximate accepted manuscript length | 69,965 words |
 | Current endpoint | Downtown Washington, approximately 07:18 EDT |
 | Next chapter title | Not locked |
-| Full Act III outline | No controlling full outline located |
+| Chapter 13 manuscript | Not drafted; no `chapter-13.md` exists |
+| Chapter 13 dominant mission | Locked: moving physical-custodian identification operation |
+| Chapter 13 abort condition | Locked: hard abort at 07:42:30 EDT unless observation and evidence/exfiltration conditions are both satisfied |
+| Chapter 13 POV structure | Locked: Julie-dominant with one short Chen/Mercer pressure cutaway |
+| Full Act III outline | No controlling full outline; Chapter 14 and later functions remain unlocked |
 | Chapter 5-to-6 continuity | Resolved and integrated on 2026-07-12; commit `f6d49cbeae2b2f23daac55dc0bacfeb040428f5f` |
+
+Permanent Chapter 13 planning artifact: `21-chapter-13-mission-lock.md`.
 
 ## Integrated Chapter 5-to-6 state
 
@@ -131,11 +137,13 @@ Not confirmed:
 - Has issued evidence-destruction, witness-containment, suppression, and lethal-force measures.
 - Has lost exclusive control of the record because independent local audit objects now exist.
 - Still controls or influences Apex systems, personnel, public footage, and official reporting.
+- APX-DIR-0019 remains registered-authority evidence, not proof of Vance’s personal keystrokes or physical possession of the hardware.
 
 ### Senator Sterling
 
 - Publicly leading the response and traveling to Hartwell.
 - His office’s registered signer, SSO-NS-004, authenticated the 07:08 K-17 session.
+- The same device is expected for the Hartwell local perimeter challenge.
 - His personal possession or keystrokes remain unproved.
 - His public statements preceded neutral technical findings and are increasingly specific.
 
@@ -225,11 +233,29 @@ She still cannot prove:
 
 The immediate problem is to reach or affect the Hartwell authentication event before the Phase B and masking deadlines while preserving the existing evidence, avoiding civilian casualties, and surviving an expanding manhunt.
 
+## Locked Chapter 13 function
+
+Chapter 13’s locked dominant function is a **moving physical-custodian identification operation**.
+
+Julie must shed PCF-27 as the obvious target and establish continuous observation of the Hartwell signer-carrier stream before the 07:46:00 EDT local perimeter challenge begins, or Phase B can be authorized and masked through a physical event the trio cannot tie to any person, vehicle, witness, or admissible record.
+
+The locked immediate objective is to identify and preserve the physical route by which the signer device registered as SSO-NS-004 is carried into Hartwell’s briefing security domain. The chapter must not prove Sterling personally held the device unless accepted evidence establishes that fact.
+
+The locked hard abort occurs at **07:42:30 EDT** unless both conditions are true:
+
+1. Julie has established continuous observation, or a defensibly recoverable observation record, of the suspected SSO-NS-004 carrier stream, access lane, support vehicle, or staff/courier route.
+2. Marcus has a viable exfiltration route with the primary evidence, and Elias can confirm that the module and board remain in his custody and usable.
+
+POV is locked as Julie-dominant with one short Chen/Mercer pressure cutaway. Sharma, K-17/Tariq, Sterling, and Vance POVs are not selected for Chapter 13.
+
 ## What Must Happen Before Chapter 13 Is Drafted
 
 Only genuine blockers are listed.
 
-1. **Lock Chapter 13’s immediate function and abort condition.** Decide whether the dominant objective is physical-custody proof at Hartwell, prevention/delay of authentication, delivery to an independent authority, or a prioritized combination.
-2. **Decide how much of K-17 or Sharma appears in Chapter 13.** No approved Chapter 13 cutaway pattern is locked.
-3. **Do not decide the identity of SSO-NS-004’s physical custodian by assumption.** That remains an Act III reveal, not existing canon.
+1. Use `21-chapter-13-mission-lock.md` as the locked Chapter 13 mission plan.
+2. Draft Chapter 13 in a fresh context from the accepted GitHub manuscript and this control pack only.
+3. Keep Chapter 13’s title unlocked until the drafting task selects one.
+4. Keep the physical custodian of SSO-NS-004 unresolved until evidence in accepted prose proves it.
+5. Keep Act III undrafted and do not promote a full Act III chapter-by-chapter outline to controlling canon.
+
 ---
