@@ -75,7 +75,7 @@ jobs:
             python3 -m py_compile /tmp/integrate_ch5_6.py
           } 2>&1 | tee -a /tmp/ch5repair.log
 
-      - name: Adapt one brittle Chapter 4 replacement
+      - name: Adapt embedded Chapter 4 risk sentence
         shell: bash
         run: |
           set -euo pipefail
@@ -84,49 +84,25 @@ jobs:
 
           script_path = Path('/tmp/integrate_ch5_6.py')
           script = script_path.read_text(encoding='utf-8')
-          tuple_block = '''    (
-                  "“And even if we succeed, the review may not finish before certification.”",
-                  "“And even if we succeed, the review may not finish before source certification.”",
-                  "Chapter 4 risk statement",
-              ),
-          '''
-          if script.count(tuple_block) != 1:
-              raise SystemExit(f'Expected one brittle Chapter 4 tuple, found {script.count(tuple_block)}')
-          script = script.replace(tuple_block, '', 1)
+          old_literal = '"“And even if we succeed, the review may not finish before certification.”",'
+          adapted_old = '"And even if we succeed, the review may not finish before certification.",'
+          new_literal = '"“And even if we succeed, the review may not finish before source certification.”",'
+          adapted_new = '"And even if we succeed, the review may not finish before source certification.",'
 
-          anchor = '''for old, new, label in chapter4_replacements:
-              text = replace_once(text, old, new, label)
-          write(p, text)
-          '''
-          replacement = '''for old, new, label in chapter4_replacements:
-              text = replace_once(text, old, new, label)
-          risk_lines = [
-              line
-              for line in text.splitlines()
-              if "And even if we succeed" in line
-              and "review may not finish before certification" in line
-          ]
-          if len(risk_lines) != 1:
-              raise AssertionError(
-                  f"Chapter 4 risk statement: expected exactly one stable-text match, found {len(risk_lines)}"
-              )
-          text = text.replace(
-              risk_lines[0],
-              "“And even if we succeed, the review may not finish before source certification.”",
-              1,
-          )
-          write(p, text)
-          '''
-          if script.count(anchor) != 1:
-              raise SystemExit(f'Expected one Chapter 4 loop anchor, found {script.count(anchor)}')
-          script = script.replace(anchor, replacement, 1)
+          if script.count(old_literal) != 1:
+              raise SystemExit(f'Expected one Chapter 4 old literal, found {script.count(old_literal)}')
+          if script.count(new_literal) != 1:
+              raise SystemExit(f'Expected one Chapter 4 new literal, found {script.count(new_literal)}')
+
+          script = script.replace(old_literal, adapted_old, 1)
+          script = script.replace(new_literal, adapted_new, 1)
           script_path.write_text(script, encoding='utf-8')
 
           chapter = Path('books/book-01/manuscript/chapters/chapter-04.md').read_text(encoding='utf-8')
-          matches = [line for line in chapter.splitlines() if 'And even if we succeed' in line]
-          print(f'chapter4_risk_line_matches={len(matches)}')
-          for line in matches:
-              print(repr(line))
+          needle = 'And even if we succeed, the review may not finish before certification.'
+          print(f'chapter4_risk_substring_matches={chapter.count(needle)}')
+          if chapter.count(needle) != 1:
+              raise SystemExit('Chapter 4 stable risk substring is not unique.')
           PY
           python3 -m py_compile /tmp/integrate_ch5_6.py
 
