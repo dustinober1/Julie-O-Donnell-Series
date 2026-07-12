@@ -771,3 +771,36 @@ The exact purpose must remain unresolved until dramatized or decrypted.
 - A second use of the same exact physical bypass succeeds merely because it worked once.
 
 ---
+
+## 10.39 Public-garage plate correlation
+
+- A commercial entrance camera captures PCF-27 at 07:21:52.
+- Comparison against the District lookout occurs approximately two minutes later; routing to Hartwell/MPD takes additional human and system steps.
+- A plate hit identifies a vehicle record, not occupants, intent, or evidence contents.
+- The system is neither instantaneous nor omniscient.
+
+## 10.40 Camera-record limits
+
+- Garage, traffic, and private loading cameras may create overlapping records, but angle, retention, clock offset, and lawful access must be established separately.
+- The twenty-one-second physical obstruction can be recoverable without being continuously visible to Julie.
+- Characters may identify a potential source without claiming they possess or have authenticated it.
+
+## 10.41 Handling-event marker mechanics
+
+- Elias’s manual marker records device time, operator input, and local device state.
+- The marker does not ingest the external image, identify a person, or certify that the operator’s spoken description is true.
+- Event order can support a later reconstruction only when matched to independent records.
+
+## 10.42 Hartwell challenge boundary
+
+- The local perimeter challenge opens at 07:46:00 EDT.
+- Chapter 13 visually establishes a three-person carrier stream and a compact case moving through the staff route.
+- It does not show the signer, certificate presentation, challenge response, device serial, or human hand inside Hartwell.
+- Office registration remains distinct from physical possession and physical possession remains distinct from personal keystrokes or command intent.
+
+## 10.43 Endpoint clock state
+
+- Hartwell window: 07:46:00–07:48:30 EDT.
+- Masking Window Two: 07:48:00–07:54:00 EDT.
+- Phase B authorization deadline: 07:49:00 EDT.
+- No Chapter 13 action alters these deadlines.

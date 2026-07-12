@@ -2,12 +2,11 @@
 
 This directory contains prose that may be complete, revised, or mission-locked but is **not accepted canon**.
 
-## Current draft
+## Current drafts
 
-- [`chapter-13.md`](chapter-13.md) — **The Carrier Stream**
-- Status: complete draft
-- Canon status: unaccepted
-- Review: [`../control/27-chapter-13-acceptance-review.md`](../control/27-chapter-13-acceptance-review.md)
+No active Book 1 chapter draft is present. Chapter 13 was promoted to `../manuscript/chapters/chapter-13.md` after an ACCEPT verdict.
+
+Chapter 14 and later prose remain undrafted.
 
 ## Rules
 

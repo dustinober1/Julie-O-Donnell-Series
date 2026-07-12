@@ -22,3 +22,17 @@
 | Bell ↔ Julie/Elias | Sponsor deceived into WSS-4 diagnostic | Adversarial but evidence-aware | False work order and classified capture | Bell saw the full signer state and knows local audit exists | Pressure to erase the local record or lawful testimony |
 
 ---
+
+---
+
+## Accepted Chapter 13 relationship delta
+
+| Relationship | Accepted movement | What did not occur | Next pressure |
+|---|---|---|---|
+| Julie ↔ Marcus | Operational trust strengthens because Marcus preserves originals, reports the observation/exfil standard precisely, and respects the locked abort test. | Full personal reconciliation or absolution. | Chapter 14 must test whether evidence discipline survives the live Hartwell challenge. |
+| Julie ↔ Elias | Trust strengthens through bounded technical testimony, voluntary marker use, and intact custody. | Elias does not become fearless, immune, or merely Julie’s instrument. | His legal exposure and technical limits remain active. |
+| Marcus ↔ Elias | Mutual reliance deepens around evidence separation and physical limitations. | No transfer of the board/module to Marcus and no merger of evidence roles. | Both must preserve distinct originals under tightening custody pressure. |
+| Julie ↔ Chen | Adversarial respect sharpens. Chen understands the target behavior and preserves capture/evidence priorities. | Chen does not defect or warn Julie. | Her eventual choice remains a Book 1 payoff. |
+| Julie ↔ Mercer | Mercer remains an active professional antagonist who sees Julie obey some limits and refuse custody. | He does not become a teammate or secret ally. | His witness value and institutional choice remain open. |
+| Trio ↔ responding police | The officer sees an unarmed, procedure-conscious trio but still has lawful grounds to detain them under the current bulletin. | Honest policing is not treated as conspiracy. | Custody, force, and independent record questions intensify. |
+| Trio ↔ ordinary Hartwell personnel | Personnel are observed as a carrier stream, not presumed conspirators. | No guilt by proximity or job role. | Chapter 14 must separate physical presentation from institutional routine. |

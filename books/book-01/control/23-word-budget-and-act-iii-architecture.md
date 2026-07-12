@@ -11,16 +11,16 @@
 | Minimum finished length | 100,000 |
 | Planning target | 112,500 |
 | Maximum finished length | 125,000 |
-| Accepted manuscript | 61,118 |
-| Remaining to planning target | 51,382 |
-| Remaining to minimum | 38,882 |
-| Remaining before maximum | 63,882 |
+| Accepted manuscript through Chapter 13 | 69,830 |
+| Remaining to planning target | 42,670 |
+| Remaining to minimum | 30,170 |
+| Remaining before maximum | 55,170 |
 
-Chapter 13 draft words are excluded until acceptance and must be measured during its acceptance pass.
+Chapter 13 contributes 6,175 accepted words. Prologue and Chapters 1–12 contribute 63,655 accepted words under the same whitespace-delimited method.
 
 ## Planning principle
 
-The remaining manuscript should normally land between **44,500 and 56,000 new accepted words**, producing a likely first-draft total between approximately **105,600 and 117,100 words** before final cuts or additions.
+The remaining Chapter 14–resolution manuscript should normally land between **38,500 and 49,000 new accepted words**, producing a likely first-draft total between approximately **108,330 and 118,830 words** before final cuts or additions.
 
 No chapter receives words solely to satisfy the target. Every scene must advance at least one of:
 
@@ -36,7 +36,7 @@ No chapter receives words solely to satisfy the target. Every scene must advance
 
 | Unit | Provisional function | Planning range |
 |---|---|---:|
-| Chapter 13 | Carrier-stream observation; preserve custody distinction; reach Hartwell challenge | 5,500–7,000 |
+| Chapter 13 — accepted | Carrier-stream observation; custody distinction preserved; Hartwell challenge reached | 6,175 actual |
 | Chapter 14 | Hartwell authentication; identify or sharply narrow physical presentation/custody | 5,500–6,500 |
 | Chapter 15 | Reveal Phase B and Masking Window Two; force a new decision | 5,500–6,500 |
 | Chapter 16 | Reconnect Washington evidence to Sharma, Tariq, and the live K-17 outcome | 5,500–6,500 |
@@ -48,8 +48,8 @@ No chapter receives words solely to satisfy the target. Every scene must advance
 
 ## Sequence rules
 
-1. Chapter 13 must be accepted before Chapter 14 prose begins.
-2. Chapter 14 requires a separate mission lock based on the accepted Chapter 13 endpoint.
+1. Chapter 13 is accepted and controls the 07:46:00 Hartwell opening state.
+2. Chapter 14 requires a separate mission lock based on that accepted endpoint; no Chapter 14 prose may be drafted first.
 3. Phase B must become concrete no later than the middle of the remaining structure.
 4. K-17 must return to the foreground before the climax.
 5. Independent evidence custody must develop before the final confrontation; it cannot appear as a convenient last-page solution.

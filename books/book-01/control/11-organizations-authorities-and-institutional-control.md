@@ -22,3 +22,28 @@
 | Hartwell Executive Briefing Annex | Secure briefing site | Next authentication point | Exact governing authority unknown | Briefing itself may be legitimate | Do not invent controlling agency or layout |
 
 ---
+
+## Accepted Chapter 13 institutional delta
+
+### Metropolitan Police / District response
+
+- Responds to a known-plate, armed-insider, classified-material alert that is false or overstated in important respects but operationally credible.
+- Uses ordinary containment, verification, and controlled-force behavior; no accepted officer acts as an Apex conspirator.
+- Police custody could be lawful while still ending the trio’s observation before the physical event. Both facts remain true.
+
+### Commercial garage
+
+- Private civilian infrastructure creates potentially independent plate and internal-camera records.
+- Garage management reports open upper-level access; no special credential or secret institutional cooperation is invented.
+
+### Hartwell Executive Briefing Annex
+
+- Temporary traffic control, screening, and staff/courier lanes are active for a sensitive briefing.
+- Ordinary security and staff may be acting correctly from incomplete information.
+- The annex does not grant the trio access. Observation remains external.
+
+### Apex / Chen / Mercer / Vance
+
+- Chen and Mercer continue a capture/evidence operation with bounded force.
+- Vance retains a distinct objective: recover or control telemetry and the explanatory record.
+- Neither Apex nor Vance receives omniscient access to every garage, private camera, or Hartwell event.

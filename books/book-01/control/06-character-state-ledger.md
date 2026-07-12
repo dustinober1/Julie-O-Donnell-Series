@@ -1083,3 +1083,59 @@ Historical unresolved witness. An older outline planned him as an Act III witnes
 - absolving or demonizing him without confronting his actual command decisions.
 
 ---
+
+---
+
+## Accepted Chapter 13 endpoint update
+
+This section supersedes earlier “current” location and knowledge fields where they differ. No character receives meaningful recovery.
+
+### Julie O’Donnell
+
+- **Location:** Garage level six beside PCF-27, maintaining the Hartwell sightline at 07:46:00 EDT.
+- **Physical state:** Right wrist remains braced with little useful grip; pain has escalated through steering, walking, and observation. Exhaustion continues.
+- **Knowledge:** Knows the support route, compact black case, three-person 07:46 stream, and potentially recoverable camera geometry. Does not know the human signer custodian, encrypted content, Phase B, K-17 outcome, or reconstruction purpose.
+- **Agency:** Applies the 07:42:30 hard-abort test honestly and continues only because both conditions pass.
+- **Public/legal state:** Still named in the armed-insider narrative; no accepted conviction, warrant, or formal charge is established.
+
+### Marcus Reed
+
+- **Location:** At PCF-27 with every primary original and exfiltration control.
+- **Physical state:** Rib, scalp, thigh, boot, dizziness/balance, and driving limits remain active. He can move the van once over a short distance, not conduct a normal pursuit escape.
+- **Custody:** Aluminum case, 136 sealed files, 47 incomplete files, 311-exclusion manifest, recovery cartridge, paper log, dead transponder, and waterproof folder remain with him.
+- **Knowledge:** Knows the observation and route status he personally reports; does not know the hidden hand or decrypted message content.
+
+### Elias Thorne
+
+- **Location:** Beside Julie with the module and administrator-token board.
+- **Physical state:** Left hip, right-index injury, dizziness, exhaustion, and lack of rain shell remain continuous.
+- **Custody:** Partition A, Partition B, administrator board, and the new handling journal remain in his physical control.
+- **Knowledge:** Understands marker mechanics and challenge timing. Does not claim that device markers prove the observed external event.
+- **Agency:** Continues voluntarily and answers the responding officer honestly about the module’s non-transmitting marker function.
+
+### Sarah Chen
+
+- **Location:** Last accepted in Apex incident command.
+- **State:** Capture-oriented and evidence-sensitive. She routes the garage identification and keeps force decisions bounded; she does not become Julie’s covert ally.
+- **Knowledge:** Knows the trio’s likely garage mission and scheduled Hartwell window, not the hidden custodian or Julie’s exact observation result.
+
+### Daniel Mercer
+
+- **Location:** Garage level six at the endpoint.
+- **State:** Professional antagonist enforcing apprehension while respecting lawful-force geometry and the responding officer’s role.
+- **Knowledge:** Knows the trio is observing Hartwell and understands Julie’s hard-line pattern. He does not know the unseen holder.
+
+### Arthur Vance
+
+- **Location:** Exact location unshown; remains connected to Apex command and vendor/incident systems.
+- **State:** Continues prioritizing telemetry recovery and narrative control. He is not omniscient and receives no accepted view of the hidden hand.
+
+### Senator Sterling
+
+- **Location:** Within the Hartwell briefing/motorcade environment; exact room and movement after arrival are not shown.
+- **State:** Office registration and public schedule remain operational links. Personal possession, personal keystrokes, and physical presentation remain unproved.
+
+### Responding police and ordinary Hartwell personnel
+
+- Police act from a known-plate armed-insider bulletin and observable behavior. At least one officer hears that office registration is not physical possession and sees the trio obey the no-Hartwell-movement limit.
+- Ordinary Hartwell staff, officers, and couriers may be performing lawful duties from incomplete or false information. No blanket complicity is established.

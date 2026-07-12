@@ -2,13 +2,13 @@
 
 ## Current status
 
-**Mission lock:** Accepted planning.  
-**Draft title:** **The Carrier Stream**.  
-**Draft prose:** Exists at `../drafts/chapter-13.md`.  
-**Canon status:** Not accepted.  
-**Acceptance review:** `27-chapter-13-acceptance-review.md`.
+**Mission lock:** Fulfilled by accepted Chapter 13.
+**Accepted title:** **The Carrier Stream**.
+**Accepted prose:** `../manuscript/chapters/chapter-13.md`.
+**Canon status:** Accepted.
+**Acceptance review:** `27-chapter-13-acceptance-review.md` — **ACCEPT**.
 
-This file controls the standards used to review the draft. It does not make the draft canon and does not establish Chapter 14 facts.
+This file remains the historical mission definition used to review Chapter 13. Its planning requirements are now superseded by the accepted prose and updated control pack. It does not establish Chapter 14 facts.
 
 ## Controlling accepted opening
 
@@ -164,7 +164,7 @@ The chapter should end at or immediately before the local challenge with:
 
 ## Acceptance standard
 
-The draft may be promoted only if the review confirms:
+The chapter was promoted after the review confirmed:
 
 - exact continuity from Chapter 12;
 - compliance with the hard-abort logic;
@@ -177,3 +177,21 @@ The draft may be promoted only if the review confirms:
 - no human-custodian invention;
 - a clean endpoint capable of launching Chapter 14; and
 - all ledgers updated in the same acceptance commit.
+
+## Fulfillment record
+
+Accepted Chapter 13 fulfills the locked mission with these bounded outcomes:
+
+- PCF-27 is displaced from the immediate motorcade approach and positioned on level six of a public garage overlooking Hartwell.
+- Continuous or defensibly recoverable observation is maintained through the 07:42:30 hard-abort decision.
+- Marcus retains the primary originals and a viable westbound evidence/exfiltration route.
+- Elias retains the administrator-token board and dual-partition incident module.
+- The observed stream narrows to three people and a compact black case moving toward the controlled Hartwell door.
+- The 07:46:00 local challenge opens.
+- The physical custodian remains unresolved.
+- Phase B, K-17 access, encrypted message content, and the Argus reconstruction profile remain unresolved.
+- Only the planned short Chen/Mercer pressure cutaway is used outside Julie’s dominant close-third POV.
+
+Two sentence-level acceptance repairs corrected the elapsed obstruction from nineteen to twenty-one seconds and preserved the west exit as exposed but physically viable. No other prose revision was authorized or required.
+
+The next production gate is a dedicated Chapter 14 mission lock from the accepted 07:46:00 Hartwell endpoint. No Chapter 14 prose may be drafted first.

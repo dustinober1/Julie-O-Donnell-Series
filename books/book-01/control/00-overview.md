@@ -1,47 +1,27 @@
-# Julie O’Donnell Book 1 — Canon Control Pack v3.0
+# 0. BOOK 1 CONTROL PACK OVERVIEW
 
-**Version:** 3.0  
-**Accepted canon endpoint:** End of Chapter 12  
-**Accepted endpoint time:** Approximately 07:18 EDT / 16:48 IST  
-**Accepted manuscript:** Prologue and Chapters 1–12  
-**Accepted length:** 61,118 words  
-**Act III accepted status:** No accepted Act III chapter  
-**Chapter 13:** Complete draft, **The Carrier Stream**, stored outside the accepted manuscript  
-**Chapter 14 and later prose:** Not drafted  
-**Controlling accepted inventory:** `../ACCEPTED_MANUSCRIPT.yaml`  
-**Production-status authority:** `../../../PROJECT_STATE.yaml`
+**Control-pack version:** 3.1
+**Accepted prose:** Prologue and Chapters 1–13
+**Accepted length:** 69,830 words
+**Accepted endpoint:** 07:46:00 EDT / 17:16:00 IST, public garage overlooking Hartwell
+**Chapter 13:** Accepted as **The Carrier Stream**
+**Chapter 14 and later prose:** Not drafted
+**Next production gate:** Dedicated Chapter 14 mission lock
 
-## Purpose of v3.0
+## Authority
 
-This version resolves repository-status drift and establishes the production controls required to finish a 100,000–125,000-word first novel without losing cross-book character continuity.
+1. Accepted prose listed in `../ACCEPTED_MANUSCRIPT.yaml` controls story facts.
+2. `../ACCEPTED_MANUSCRIPT.yaml` controls which prose is accepted.
+3. This control pack controls continuity and approved production planning where it agrees with accepted prose.
+4. `../../../series/` controls cross-book tracking where it agrees with accepted prose.
+5. Drafts, archive material, the former Google Doc, and the uploaded Word snapshot are non-canon provenance.
 
-It adds:
+## Current operational state
 
-- strict separation between accepted prose and drafts;
-- a 112,500-word planning target;
-- a Book 1 ending contract;
-- a provisional Act III architecture;
-- disposition of every existing open thread;
-- a mandatory chapter acceptance gate;
-- a series-level recurring-character ledger;
-- archival rules for external and superseded sources; and
-- a formal Chapter 13 acceptance review.
+Julie, Marcus, and Elias are on level six of a public commercial parking garage overlooking the Hartwell Executive Briefing Annex. PCF-27 is parked nose-out toward the west ramp. Police and Apex personnel are on the level, but the west exit remains exposed and viable without ramming, civilian harm, or use of civilians as cover.
 
-## Current production gate
+The 07:46:00 Hartwell local challenge has opened. A three-person support stream passed through the controlled door after a compact black case moved through the staff route. The office-registered signer serial remains linked to Sterling’s office, but the human carrier or custodian is not visible or proved.
 
-Chapter 13 has a complete draft but is not accepted. The next action is to complete its acceptance pass. Chapter 14 must not be drafted from the Chapter 13 endpoint unless Chapter 13 is promoted or a replacement endpoint is explicitly locked.
+## Current production rule
 
-## Permanent continuity state
-
-The Chapter 5-to-6 repair is accepted and permanent.
-
-- Chapter 5: **The Second Clock**
-- Chapter 7: **The Human Key**
-- 16:30 EDT / 02:00 IST: allied source certification
-- 05:00 EDT / 14:30 IST: executable counter-battery support commit
-- Chapter 5 ends at hydraulic shutter L3-7 in the exact state required by Chapter 6
-- Integration commit: `f6d49cbeae2b2f23daac55dc0bacfeb040428f5f`
-
-## Authority rule
-
-The accepted manuscript always outranks this pack. Planning controls organize future work; they do not create story facts.
+Chapter 14 may be planned only through a dedicated mission lock based on this accepted endpoint. Do not draft Chapter 14 prose first.

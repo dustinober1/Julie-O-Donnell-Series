@@ -105,3 +105,14 @@ After every accepted chapter, update the “Book 1 requirement” state to one o
 - removed by explicit author decision.
 
 No thread may disappear because a later outline forgot it.
+
+## Accepted Chapter 13 disposition update
+
+| Controlling thread group | State after accepted Chapter 13 | Required next gate |
+|---|---|---|
+| Hartwell custody chain | **Advanced, unresolved.** A compact case, screened transfer, and three-person 07:46 stream are observed. No human hand is identified. | Chapter 14 mission lock must define the exact authentication/presentation problem without assigning the custodian in advance. |
+| Phase B / K-17 / masking | **Unchanged in substance.** K-17 access remains unconfirmed; Phase B, Masking Window Two, and the reconstruction profile remain undefined. | Reconnect the Hartwell event to the live field threat before the climax. |
+| Independent counterrecord | **Advanced.** Garage plate/camera records, traffic and loading cameras, responding police, Hartwell security records, Elias’s nine markers, Marcus’s notes, and the existing originals may overlap. The trio does not possess or authenticate all external records. | Establish actual preservation, access, independence, and lawful custody; potential records are not automatic proof. |
+| Original wound and series mystery | **Advanced emotionally, not resolved.** Julie obeys the 07:42:30 decision rule and refuses to invent the answer. Marcus preserves the originals and exfiltration discipline. | Marcus still owes an on-record corrective choice; the old four-second technical proof may remain a bounded series thread. |
+
+Chapter 13 resolves the final-act launch only. It does not resolve the signer custodian, Phase B, K-17, encrypted messages, Sterling’s personal command, independent custody, or the public record.

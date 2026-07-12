@@ -6,7 +6,7 @@
 - Chapter 1 establishes an October morning.
 - EDT to IST conversion is **+9 hours 30 minutes**.
 - Prologue times are shown as operational times without an identified time zone.
-- The accepted July 11, 2026 repair establishes one continuous present-day chronology through Chapter 12.
+- The accepted Chapter 5-to-6 repair and Chapter 13 acceptance establish one continuous present-day chronology through 07:46:00 EDT / 17:16:00 IST.
 
 ## Six years ago
 
@@ -110,14 +110,46 @@
 | 07:16 | 16:46 | Downtown Washington | Evidence custody updated; Sterling issues second statement. | Northbridge breach absorbed into public narrative. |
 | 07:18 | 16:48 | Downtown Washington | Sterling motorcade moves toward Hartwell. Julie chooses to follow the operational center. | Chapter 12 endpoint. |
 
-## Upcoming deadlines
+## Accepted Chapter 13 chronology
+
+| EDT | IST | Location | Event | Evidence / consequence |
+|---:|---:|---|---|---|
+| Approximately 07:18 | Approximately 16:48 | Downtown Washington / PCF-27 | Chapter opens in exact continuity from Chapter 12. Julie drives left-handed; Marcus holds originals; Elias holds the module and board. | Known van and active pursuit continue. |
+| 07:21:52 | 16:51:52 | Public commercial garage entrance | Garage camera captures PCF-27’s known plate. | Plate image is a potentially independent record; trio does not possess it. |
+| 07:22 | 16:52 | Garage approach | Julie commits to the public-garage observation geometry. | PCF-27 leaves the immediate moving approach. |
+| 07:24:16 | 16:54:16 | Garage level six | PCF-27 is parked nose-out near the west ramp with Hartwell visible across the service corridor. | West ramp is the evidence-preserving exfiltration route. |
+| 07:25:41 | 16:55:41 | Same | Elias confirms Partition A, Partition B, board, and handling journal state. | No evidence transfer or integrity failure. |
+| 07:27:13–07:27:14.118 | 16:57:13–16:57:14.118 | Hartwell approach / garage | Police motorcycle crosses; Elias enters marker 001. | Marker proves only manual input/device time. |
+| 07:28 | 16:58 | Apex command | Chen/Mercer pressure cutaway: the 07:21:52 plate image has correlated and response is being routed. | Honest police action remains distinct from Apex priorities. |
+| 07:31:22.604 | 17:01:22.604 | Hartwell support lane | Marker 002 records probable support-vehicle observation. | Vehicle identity and human custodian remain unproved. |
+| 07:33:08 | 17:03:08 | Sightline | Building-services truck begins physical obstruction. | Direct visual temporarily lost. |
+| 07:33:11.093 | 17:03:11.093 | Same | Marker 003 records the observation-loss event. | Device time does not prove the external cause. |
+| 07:33:29 | 17:03:29 | Same | Truck clears; direct visual restored. | Physical obstruction lasted twenty-one seconds; external cameras may preserve the gap. |
+| 07:34:02 | 17:04:02 | Garage level six | 8:28 remains to hard abort. | Arithmetic verified. |
+| 07:35:18.771 | 17:05:18.771 | Hartwell support lane | Marker 004 records staff-stream delivery. | Route narrows; holder remains unknown. |
+| 07:36:11 | 17:06:11 | Garage | Maintenance-worker encounter begins. | No assault, hostage-taking, or invented access. |
+| 07:36:49.330 | 17:06:49.330 | Hartwell route | Marker 005 records compact black case in the support stream. | Case contents and custodian unknown. |
+| 07:38:07 | 17:08:07 | Garage level six | 4:23 remains to hard abort. | Arithmetic verified. |
+| 07:40:22 | 17:10:22 | Same | 2:08 remains; police/Mercer close on the observation position. | East route closes; west remains open. |
+| 07:41:07 | 17:11:07 | Same | 83 seconds remain; Marcus gives formal observation, exfiltration, and evidence status. | Observation standard explicitly bounded. |
+| 07:41:44 | 17:11:44 | Same | 46 seconds remain. | Arithmetic verified. |
+| 07:42:30 | 17:12:30 | Same | Hard-abort test. Both required conditions pass. | Observation is continuous/recoverable; west exit is viable; all evidence roles remain intact. |
+| 07:43:02 | 17:13:02 | West exit / garage | Box truck clears; police cruiser remains outside but does not yet control the lane. | Route narrows but stays exposed and viable without ramming or civilian harm. |
+| 07:43:31.882 | 17:13:31.882 | Hartwell support stream | Marker 006 records renewed staff movement. | Human holder still unseen. |
+| 07:44:16–07:44:19.407 | 17:14:16–17:14:19.407 | Hartwell external screen | Staff/courier stream advances; marker 007 entered. | Black case is visible, attached hand is not. |
+| 07:45:11 | 17:15:11 | Hartwell inspection route | Black case disappears from the visible inspection surface; Elias enters marker 008. | Transfer or carrier cannot be seen; the exact device time is not rendered. |
+| 07:45:37 | 17:15:37 | Hartwell controlled door | Status lamp changes to white. | Challenge preparation inferred, not proved beyond visible state. |
+| 07:45:58 | 17:15:58 | Garage level six | Team holds observation and exfiltration roles. | No movement into Hartwell. |
+| 07:46:00 | 17:16:00 | Hartwell / garage sightline | Controlled door opens; three-person stream enters; Elias enters marker 009. | Challenge window opens; human custodian remains unresolved; the exact device time is not rendered. |
+
+## Active deadlines from the accepted Chapter 13 endpoint
 
 | Event | EDT | IST | Remaining from endpoint |
 |---|---:|---:|---:|
-| Hartwell window opens | 07:46:00 | 17:16:00 | 28:00 |
-| Masking Window Two opens | 07:48:00 | 17:18:00 | 30:00 |
-| Hartwell window closes | 07:48:30 | 17:18:30 | 30:30 |
-| Phase B authorization deadline | 07:49:00 | 17:19:00 | 31:00 |
-| Masking Window Two closes | 07:54:00 | 17:24:00 | 36:00 |
+| Hartwell window opens | 07:46:00 | 17:16:00 | Open at endpoint |
+| Masking Window Two opens | 07:48:00 | 17:18:00 | 2:00 |
+| Hartwell window closes | 07:48:30 | 17:18:30 | 2:30 |
+| Phase B authorization deadline | 07:49:00 | 17:19:00 | 3:00 |
+| Masking Window Two closes | 07:54:00 | 17:24:00 | 8:00 |
 
 ---

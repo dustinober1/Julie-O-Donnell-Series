@@ -1,12 +1,12 @@
 # 4. SOURCE-OF-TRUTH CANON LOCKS
 
-1. **The accepted Prologue and Chapters 1–12 are the highest authority.**
+1. **The accepted Prologue and Chapters 1–13 are the highest authority.**
 
-2. **The current accepted endpoint is approximately 07:18 EDT in downtown Washington.**
+2. **The current accepted endpoint is 07:46:00 EDT / 17:16:00 IST in a public parking garage overlooking Hartwell.**
 
-3. **Julie, Marcus, and Elias are together in PCF-27.**
+3. **Julie and Elias are at the level-six Hartwell sightline beside PCF-27; Marcus remains at the van with the primary originals and exfiltration role.**
 
-4. **PCF-27 is known, visually identifiable, and actively sought. Its disconnected telematics module does not make it invisible.**
+4. **PCF-27 is known, visually identifiable, actively sought, parked nose-out toward the west ramp, and still has an exposed but viable short exfiltration route. Its disconnected telematics module does not make it invisible.**
 
 5. **Payload 88 was created by Elias as an adversarial-validation package, not operational intelligence.**
 
@@ -139,6 +139,26 @@
 69. **The trio’s rules remain: no civilian casualties, no hostage-taking, no indiscriminate data release, no revenge mission, no firearm escalation, and no deliberate attack on honest officers merely doing their jobs.**
 
 70. **Argus is not sentient.**
+
+## Accepted Chapter 13 endpoint locks
+
+71. **Chapter 13 — _The Carrier Stream_ — is accepted at `books/book-01/manuscript/chapters/chapter-13.md`.**
+
+72. **At 07:42:30, both locked hard-abort conditions genuinely pass: the observation/recoverable-record condition and the evidence/exfiltration condition.**
+
+73. **The support lane is physically obstructed from 07:33:08 to 07:33:29, a twenty-one-second interval; marker 003 at 07:33:11.093 is not the obstruction start time.**
+
+74. **Handling markers 001–009 prove manual inputs in the module’s recorded hardware state; they do not prove the associated external events. Markers 008 and 009 are narratively entered without rendered device-time fields.**
+
+75. **Garage, traffic, private-loading, police, and Hartwell records remain separately owned, differently timed, potentially recoverable records. The trio has not acquired or authenticated them at the endpoint.**
+
+76. **The accepted observation narrows the carrier stream to a compact black case and three people entering the controlled Hartwell door; ordinary security geometry hides the attached hand. The human custodian remains unresolved.**
+
+77. **The Hartwell challenge begins at 07:46:00; Masking Window Two opens at 07:48:00; Phase B’s authorization deadline remains 07:49:00.**
+
+78. **No Chapter 13 evidence-custody transfer occurs. Marcus retains every primary original and Elias retains the administrator board and dual-partition module.**
+
+79. **Chapter 14 prose is prohibited until a dedicated Chapter 14 mission lock is approved from this endpoint.**
 
 ## Integrated Chapter 5-to-6 deadline and handoff locks
 

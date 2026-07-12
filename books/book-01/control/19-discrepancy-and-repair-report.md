@@ -409,3 +409,29 @@ No.
 **Moderate planning issue.**
 
 ---
+
+## Discrepancy 18 — Chapter 13 elapsed time and west-exit continuity — RESOLVED
+
+**Resolution:** The Chapter 13 acceptance pass corrected the visual obstruction from nineteen to twenty-one seconds without changing the 07:33:08 or 07:33:29 timestamps. It also replaced the later “operational custody” description with a bounded state in which police movement exposes the west lane but does not physically control it; PCF-27 can still clear the garage and turn west.
+
+### Conflict
+
+The draft’s exact timestamps established a twenty-one-second obstruction, but the narrative described nineteen seconds. Separately, the 07:42:30 hard-abort test passed because one evidence-preserving exfiltration route remained, while later prose described that route as effectively controlled.
+
+### Manuscript repair
+
+Two sentence-level revisions only. Chapter 13 remained 6,175 words before and after. No accepted Chapter 1–12 prose changed.
+
+### Continuity result
+
+- The 07:42:30 decision remains valid.
+- Observation remains continuous or defensibly recoverable.
+- Primary evidence and exfiltration remain with Marcus.
+- Police remain competent and lawful; no magical gap or chase is created.
+- The physical custodian of `SSO-NS-004` remains unresolved.
+
+### Severity
+
+**Moderate draft continuity defect, resolved before promotion.**
+
+---
