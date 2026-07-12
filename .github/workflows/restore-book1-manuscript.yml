@@ -95,11 +95,6 @@ jobs:
                   'actual integration date',
               ),
               (
-                  '    p.write_text(text.rstrip() + "\\n", encoding="utf-8")',
-                  '    normalized = "\\n".join(line.rstrip() for line in text.splitlines())\\n    p.write_text(normalized.rstrip() + "\\n", encoding="utf-8")',
-                  'normalize generated Markdown whitespace',
-              ),
-              (
                   '"“And even if we succeed, the review may not finish before certification.”",',
                   '"And even if we succeed, the review may not finish before certification.",',
                   'embedded Chapter 4 old sentence',
@@ -150,6 +145,13 @@ jobs:
               if count != 1:
                   raise SystemExit(f'{label}: expected one payload literal, found {count}')
               script = script.replace(old, new, 1)
+
+          old_write_line = '    p.write_text(text.rstrip() + "\\n", encoding="utf-8")'
+          new_write_lines = '''    normalized = "\\n".join(line.rstrip() for line in text.splitlines())
+              p.write_text(normalized.rstrip() + "\\n", encoding="utf-8")'''
+          if script.count(old_write_line) != 1:
+              raise SystemExit(f'write normalizer: expected one line, found {script.count(old_write_line)}')
+          script = script.replace(old_write_line, new_write_lines, 1)
 
           old_evidence_block = '''for value in ["136", "47", "311"]:
               assert_contains(final_ch5, value, f"Chapter 5 evidence count {value}")
@@ -271,7 +273,7 @@ jobs:
         shell: bash
         run: |
           target="${{ github.event.issue.number }}"
-          test -n "$target" || target="13"
+          test -n "$target" || target="15"
           gh issue comment "$target" --repo "${{ github.repository }}" --body "Chapter 5-to-6 integration completed. Integration commit: ${{ steps.commit.outputs.integration_sha }}. Verification commit: ${{ steps.commit.outputs.verification_sha }}. Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
 
       - name: Report failure
@@ -281,7 +283,7 @@ jobs:
         shell: bash
         run: |
           target="${{ github.event.issue.number }}"
-          test -n "$target" || target="13"
+          test -n "$target" || target="15"
           {
             echo "Chapter 5-to-6 integration failed."
             echo
