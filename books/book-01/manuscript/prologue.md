@@ -18,11 +18,7 @@ Confidence: 94.1 percent.
 
 Julie stared at the timestamps.
 
-11.2 seconds.
-
-11.2 seconds.
-
-11.2 seconds.
+11.2 seconds. 11.2 seconds. 11.2 seconds.
 
 Every burst arrived at the same interval. Wind had shaken the relay mast for most of the morning, and a dust front had degraded every other source in the valley. Anwar’s handset had not flickered, drifted, or lost a measurable fraction of signal strength.
 
