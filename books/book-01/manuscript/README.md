@@ -5,17 +5,17 @@ This directory contains the controlling accepted manuscript for Julie O’Donnel
 ## Authority
 
 1. The Markdown manuscript files in this directory are the highest source of story truth.
-2. `../control/` governs continuity, evidence, technology, character state, chronology, and production controls only where it agrees with the accepted manuscript.
+2. `../control/` governs continuity, evidence, technology, character state, chronology, production controls, and locked planning records only where it agrees with the accepted manuscript.
 3. `../../../PROJECT_STATE.yaml` and the repository root `README.md` are navigation and status summaries.
 
-If any summary, tracker, outline, repair proposal, or control document conflicts with the accepted manuscript, the manuscript controls until an approved manuscript revision is committed.
+If any summary, tracker, outline, repair proposal, control document, or planning note conflicts with the accepted manuscript, the manuscript controls until an approved manuscript revision is committed.
 
 ## File layout
 
 - `prologue.md`
 - `chapters/chapter-01.md` through `chapters/chapter-12.md`
 - `SOURCE.md` — source-of-truth policy and migration provenance
-- `STATUS.md` — current acceptance and production status
+- `STATUS.md` — current acceptance, production status, and planning-lock status
 
 ## Accepted manuscript inventory
 
@@ -46,4 +46,12 @@ Chapter 5 now ends at shutter L3-7 in the exact physical state required by the u
 - 16:30 EDT / 02:00 IST — allied source certification.
 - 05:00 EDT / 14:30 IST — executable counter-battery support commit and firing-decision point.
 
-Chapter 13 remains undrafted and its dominant objective and abort condition remain unlocked.
+## Chapter 13 planning state
+
+Chapter 13 remains undrafted and no `chapter-13.md` file exists. Its title remains unlocked.
+
+The Chapter 13 dominant mission, immediate objective, abort condition, POV structure, cutaway decision, opening state, likely endpoint, and unresolved Chapter 14 handoff are accepted and locked as planning in:
+
+`../control/21-chapter-13-mission-lock.md`
+
+The locked dominant mission is a **moving physical-custodian identification operation** aimed at establishing observation of the Hartwell signer-carrier stream before the 07:46:00 EDT local perimeter challenge. Act III remains undrafted, and Chapter 14 and later functions remain unlocked.
