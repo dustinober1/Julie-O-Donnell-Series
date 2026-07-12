@@ -1,4 +1,4 @@
-# git-data trigger test 2026-07-11
+# native merge trigger 2026-07-12
 name: Integrate accepted Chapter 5-6 continuity repair
 
 on:
@@ -18,7 +18,7 @@ concurrency:
 
 jobs:
   integrate:
-    if: github.event_name == 'workflow_dispatch' || github.event.head_commit.message == 'Arm accepted Chapter 5-6 continuity repair'
+    if: github.event_name == 'workflow_dispatch' || github.event_name == 'push'
     runs-on: ubuntu-latest
     steps:
       - name: Check out main
