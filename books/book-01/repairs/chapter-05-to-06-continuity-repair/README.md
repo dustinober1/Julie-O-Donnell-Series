@@ -77,4 +77,4 @@ All affected root, manuscript-status, canon-lock, timeline, character, evidence,
 
 No architectural deviation was required. Localized changes were limited to consequential deadline labels, the staging-distance correction, documentation integration, and removal of obsolete migration machinery.
 
-The integration SHA cannot be embedded in the commit that creates itself. The workflow therefore creates the manuscript/control integration commit first, then creates one metadata-only commit that replaces `f6d49cbeae2b2f23daac55dc0bacfeb040428f5f` with the exact immutable integration SHA.
+The integration SHA could not be embedded in the commit that created it. The workflow therefore created the manuscript/control integration commit first, then created metadata commit `73db36268aa954787c10135c921611e81a1f2c93` to record the exact immutable integration SHA.
