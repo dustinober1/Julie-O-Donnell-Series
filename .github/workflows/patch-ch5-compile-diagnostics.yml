@@ -1,0 +1,49 @@
+name: Patch Chapter 5 repair compile diagnostics
+
+on:
+  issue_comment:
+    types:
+      - created
+
+permissions:
+  contents: write
+
+jobs:
+  patch:
+    if: github.event.comment.body == '/patch-ch5-compile-diagnostics'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Capture generated script compile errors
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          from pathlib import Path
+
+          path = Path('.github/workflows/restore-book1-manuscript.yml')
+          text = path.read_text(encoding='utf-8')
+          old = """          PY
+          python3 -m py_compile /tmp/integrate_ch5_6.py
+
+      - name: Apply and validate repair"""
+          new = """          PY
+          python3 -m py_compile /tmp/integrate_ch5_6.py 2>&1 | tee -a /tmp/ch5repair.log
+
+      - name: Apply and validate repair"""
+          if text.count(old) != 1:
+              raise SystemExit(f'compile diagnostic anchor expected once, found {text.count(old)}')
+          path.write_text(text.replace(old, new, 1), encoding='utf-8')
+          PY
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git rm .github/workflows/patch-ch5-compile-diagnostics.yml
+          git add .github/workflows/restore-book1-manuscript.yml
+          git diff --cached --check
+          git commit -m "Capture generated repair compile diagnostics"
+          git push origin HEAD:main
