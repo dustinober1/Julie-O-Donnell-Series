@@ -24,9 +24,22 @@
 - Chapter 11: **Going Offensive** — accepted.
 - Chapter 12: **The Sterling Trap** — accepted.
 
+## Planned but not drafted
+
+- Chapter 13: title not locked; manuscript file not created.
+- Dominant Chapter 13 mission: **moving physical-custodian identification operation**.
+- Mission lock artifact: `../control/21-chapter-13-mission-lock.md`.
+- Abort condition: hard abort at **07:42:30 EDT** unless the observation and evidence/exfiltration conditions are both satisfied.
+- POV structure: Julie-dominant with one short Chen/Mercer pressure cutaway.
+- Planned Chapter 13 endpoint: approximately 07:45–07:46 EDT outside Hartwell, with the physical-custody question unresolved into Chapter 14.
+
 ## Open blockers
 
-- **High:** Chapter 13’s dominant objective and abort condition are not locked.
+- No current blocker to drafting Chapter 13 from the accepted GitHub manuscript and the Chapter 13 mission-lock document.
+- Chapter 13 prose remains undrafted.
+- Act III remains undrafted.
+- Chapter 14 and later functions remain unlocked.
+
 ## Repair status
 
 The package at `../repairs/chapter-05-to-06-continuity-repair/` is **accepted and integrated**.
@@ -36,6 +49,7 @@ The package at `../repairs/chapter-05-to-06-continuity-repair/` is **accepted an
 - Chapter 5 title: **The Second Clock**
 - Chapter 6 prose change: none
 - Final architecture: 16:30 source certification; 05:00 support commit
+
 ## Production rule
 
-Future accepted manuscript additions and revisions must be committed to these GitHub Markdown files. Do not maintain a competing manuscript in Google Docs.
+Future accepted manuscript additions and revisions must be committed to these GitHub Markdown files. Do not maintain a competing manuscript in Google Docs. The Chapter 13 mission lock is a planning record only; it does not add accepted prose and does not create `chapter-13.md`.
