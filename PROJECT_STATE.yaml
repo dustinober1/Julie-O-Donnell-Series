@@ -14,8 +14,8 @@ active_book:
     chapters: "1-12"
     act_i: "complete"
     act_ii: "complete"
-    act_iii: "not accepted"
-  approximate_manuscript_words: 69965
+    act_iii: "not accepted; Chapter 13 exists as a draft"
+  approximate_manuscript_words: 66333
   endpoint_time:
     eastern: "approximately 07:18 EDT"
     india: "approximately 16:48 IST"
@@ -29,16 +29,22 @@ active_book:
     pov_structure: "locked: Julie-dominant with one short Chen/Mercer pressure cutaway"
     planned_endpoint: "approximately 07:45-07:46 EDT outside Hartwell, with the physical-custody question unresolved into Chapter 14"
   narrative_house_style:
-    version: "2.0"
-    status: "locked for new chapter production and later separately authorized revision passes"
-    guide: "docs/Julie_ODonnell_Narrative_House_Style_v2.md"
+    version: "2.1"
+    status: "locked for new chapter production and revision passes"
+    guide: "docs/Julie_ODonnell_Narrative_House_Style_v2_1.md"
+    base_guide: "docs/Julie_ODonnell_Narrative_House_Style_v2.md"
     calibration: "artifacts/book-01-style-calibration.md"
     revision_map: "artifacts/book-01-chapter-revision-map.md"
-    revision_note: "artifacts/book-01-narrative-house-style-v2-revision-note.md"
+    original_revision_note: "artifacts/book-01-narrative-house-style-v2-revision-note.md"
     authority: "craft control only; accepted manuscript and Book 1 canon controls remain superior for facts and continuity"
     manuscript_revisions_applied: true
+    prologue_revised: true
     revised_chapters:
       - 12
+    revised_sections:
+      - "Prologue"
+      - "Chapter 12"
+    latest_prologue_revision_note: "artifacts/book-01-prologue-house-style-v2-1-revision-note.md"
     latest_chapter_revision_note: "artifacts/book-01-chapter-12-house-style-v2-revision-note.md"
 
 source_of_truth:
@@ -73,10 +79,11 @@ production_rules:
   - "The GitHub Markdown manuscript is the sole controlling manuscript."
   - "Accepted manuscript prose outranks all summaries and plans."
   - "The accepted Chapter 5-6 repair is explicit canon; any later alteration requires a documented manuscript-and-control-pack revision."
-  - "Julie O'Donnell Narrative House Style v2.0 controls prose craft, pacing, scene construction, exposition, and originality safeguards without creating canon."
+  - "Julie O'Donnell Narrative House Style v2.1 controls prose craft, pacing, dialogue function, narrative compression, paragraph density, exposition, and originality safeguards without creating canon."
+  - "Narrative House Style v2.0 remains the complete base guide and is superseded by v2.1 only where v2.1 provides more specific dialogue and page-density rules."
   - "No draft or revision may imitate or closely emulate the recognizable prose of a living author."
   - "The style calibration samples are noncanonical and do not replace accepted prose."
-  - "No accepted chapter is marked revised by creation of the house-style guide or chapter revision map."
+  - "No accepted chapter is marked revised merely by creation of a style guide or revision map."
   - "Chapter 13's locked mission is planning guidance; its existing prose remains a draft until separately accepted."
   - "Do not identify the physical custodian of SSO-NS-004 without new accepted evidence."
   - "Chapter 14 and later functions remain unlocked; do not treat any full Act III outline as controlling canon."
@@ -87,4 +94,4 @@ migration:
   completed: "2026-07-11"
   active_external_manuscript: false
 
-next_recommended_action: "Continue the reverse-order House Style v2.0 pass with Chapter 11 — Going Offensive, using the accepted GitHub manuscript and Chapter 12 revision as continuity controls."
+next_recommended_action: "Apply the House Style v2.1 moderate narrative-density pass to Chapter 1 — The Official Version, using the revised Prologue and accepted Chapter 2 as continuity controls."
