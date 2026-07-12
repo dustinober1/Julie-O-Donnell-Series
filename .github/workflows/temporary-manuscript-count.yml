@@ -1,4 +1,4 @@
-name: Temporary Chapter 13 staging export
+name: Temporary clean-main export
 
 on:
   push:
@@ -16,23 +16,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Export raw staging chunks and baseline tree
+        with:
+          ref: main
+          fetch-depth: 1
+      - name: Archive exact current main
         shell: bash
         run: |
-          cp .tmp/ch13-patch-00 raw-ch13-patch-00.txt
-          cp .tmp/ch13-patch-01 raw-ch13-patch-01.txt
-          wc -c raw-ch13-patch-00.txt raw-ch13-patch-01.txt | tee staging-sizes.txt
-          sha256sum raw-ch13-patch-00.txt raw-ch13-patch-01.txt | tee staging-sha256.txt
-          git fetch --no-tags --depth=1 origin a426b7c98867dfb939ca5f406830126e89307f44
-          git rev-parse 'a426b7c98867dfb939ca5f406830126e89307f44^{tree}' > baseline-tree.txt
-      - name: Upload raw staging export
+          git rev-parse HEAD > main-commit.txt
+          git rev-parse 'HEAD^{tree}' > main-tree.txt
+          git ls-files -z | tar --null -T - -czf julie-book1-clean-main.tar.gz
+          sha256sum julie-book1-clean-main.tar.gz > julie-book1-clean-main.tar.gz.sha256
+      - name: Upload clean main archive
         uses: actions/upload-artifact@v4
         with:
-          name: ch13-raw-staging-export
+          name: julie-book1-clean-main
           path: |
-            raw-ch13-patch-00.txt
-            raw-ch13-patch-01.txt
-            staging-sizes.txt
-            staging-sha256.txt
-            baseline-tree.txt
+            julie-book1-clean-main.tar.gz
+            julie-book1-clean-main.tar.gz.sha256
+            main-commit.txt
+            main-tree.txt
           if-no-files-found: error
