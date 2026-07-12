@@ -114,6 +114,11 @@ jobs:
                   '"He threw the aluminum case beneath the descending steel.",',
                   'accepted evidence-case handoff assertion',
               ),
+              (
+                  'assert_contains(final_ch5, "16:30 Eastern Daylight Time", "Chapter 5 certification event")',
+                  'assert_contains(final_ch5, "SCHEDULED: 16:30 EDT / 02:00 IST", "Chapter 5 certification event")',
+                  'accepted source-certification timestamp assertion',
+              ),
           ]
           for old, new, label in replacements:
               count = script.count(old)
@@ -230,7 +235,7 @@ jobs:
         shell: bash
         run: |
           target="${{ github.event.issue.number }}"
-          test -n "$target" || target="6"
+          test -n "$target" || target="7"
           gh issue comment "$target" --repo "${{ github.repository }}" --body "Chapter 5-to-6 integration completed. Integration commit: ${{ steps.commit.outputs.integration_sha }}. Verification commit: ${{ steps.commit.outputs.verification_sha }}. Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
 
       - name: Report failure
@@ -240,7 +245,7 @@ jobs:
         shell: bash
         run: |
           target="${{ github.event.issue.number }}"
-          test -n "$target" || target="6"
+          test -n "$target" || target="7"
           {
             echo "Chapter 5-to-6 integration failed."
             echo
