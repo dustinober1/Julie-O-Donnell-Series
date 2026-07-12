@@ -37,6 +37,17 @@ jobs:
             cat .migration/book1/chapter-${n}/part-*.md > books/book-01/manuscript/chapters/chapter-${n}.md
           done
 
+          python - <<'PY'
+          from pathlib import Path
+
+          path = Path('books/book-01/manuscript/chapters/chapter-05.md')
+          text = path.read_text(encoding='utf-8')
+          needle = 'The fault repeated three times.\n\nA location string followed.'
+          replacement = 'The fault repeated three times.\n\n88.\n\n89.\n\n90.\n\nA location string followed.'
+          assert text.count(needle) == 1, text.count(needle)
+          path.write_text(text.replace(needle, replacement), encoding='utf-8')
+          PY
+
           cat > /tmp/expected.sha256 <<'EOF'
           c81c916e394fd7709dd2f250d3f2443781dd1b7dcd287106ad6cf3f4d1edb1d1  books/book-01/manuscript/chapters/chapter-01.md
           9bf38dcf9cda9abe5dcd0e9399af93198400e0b2ccddaa11c6eedbb5ba5e1a76  books/book-01/manuscript/chapters/chapter-02.md
@@ -154,10 +165,9 @@ jobs:
 
           sed -i 's/^          //' books/book-01/manuscript/README.md books/book-01/manuscript/SOURCE.md books/book-01/manuscript/STATUS.md
 
-          rm -rf .migration/book1
-          rm -f .migration/pr-ready.md .migration/request.md
-          rmdir .migration 2>/dev/null || true
+          rm -rf .migration
           rm -f .github/workflows/restore-book1-manuscript.yml
+          rm -f .github/workflows/diagnose-book1-manuscript.yml
 
       - name: Commit restored manuscript
         shell: bash
