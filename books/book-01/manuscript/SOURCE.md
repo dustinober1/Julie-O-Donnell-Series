@@ -1,18 +1,31 @@
 # Manuscript Source and Authority
 
-The controlling Book 1 manuscript is stored in this repository as Markdown:
+The controlling Book 1 accepted manuscript is stored in this repository as Markdown and inventoried in [`../ACCEPTED_MANUSCRIPT.yaml`](../ACCEPTED_MANUSCRIPT.yaml).
+
+Accepted prose currently consists of:
 
 - `prologue.md`
 - `chapters/chapter-01.md` through `chapters/chapter-12.md`
 
-These files are the highest authority for accepted prose, events, character behavior, chronology, injuries, evidence, technology, geography, and narrative voice.
+These files are the highest authority for accepted events, character behavior, chronology, injuries, evidence, technology, geography, and narrative voice.
 
-The manuscript was migrated from the former project Google Doc on July 11, 2026. That document was used only as the migration input. It is no longer an active source of truth and must not override the GitHub manuscript.
+## Draft separation
 
-If the manuscript conflicts with a summary, tracker, outline, repair proposal, or control document, correct the subordinate documentation to match the manuscript unless a later approved manuscript commit explicitly changes the prose.
+Unaccepted prose is stored under [`../drafts/`](../drafts/). A draft cannot create canon through existence, filename, title, or planning approval.
+
+Chapter 13, **The Carrier Stream**, is a complete but unaccepted draft at `../drafts/chapter-13.md`.
+
+## Migration provenance
+
+The manuscript was migrated from a former project Google Doc on July 11, 2026. That document was migration input only and is no longer active.
+
+A user-uploaded Word snapshot is also historical input only. Its identifying information is recorded in [`../../../archive/legacy-sources/README.md`](../../../archive/legacy-sources/README.md); the binary is intentionally not stored in this public repository.
+
+Neither external source may override accepted GitHub prose.
 
 ## Accepted continuity repair
 
-The Chapter 5-to-6 continuity repair was accepted and integrated on 2026-07-12. The permanent repair record is stored at `../repairs/chapter-05-to-06-continuity-repair/`, and the integration commit is `f6d49cbeae2b2f23daac55dc0bacfeb040428f5f`.
+The Chapter 5-to-6 continuity repair was accepted and integrated on July 12, 2026.
 
-GitHub was the sole working environment for the integration. The former Google Doc was not accessed and remains non-controlling historical migration provenance.
+- Permanent record: `../repairs/chapter-05-to-06-continuity-repair/`
+- Integration commit: `f6d49cbeae2b2f23daac55dc0bacfeb040428f5f`

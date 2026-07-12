@@ -1,99 +1,80 @@
 # 20. CONTROL-PACK MAINTENANCE RULES
 
-1. Update this control pack after every accepted chapter.
+## Authority and file placement
 
-2. Record only accepted manuscript facts as confirmed canon.
+1. The accepted-manuscript inventory at `../ACCEPTED_MANUSCRIPT.yaml` controls which prose files are canon.
+2. Accepted prose must live under `../manuscript/`.
+3. Unaccepted prose must live under `../drafts/`.
+4. No draft may be treated as canon because it is complete, titled, revised, mission-locked, or stored in Git.
+5. `../../../PROJECT_STATE.yaml` is the sole authority for production status and navigation. Other status summaries are subordinate.
+6. The series recurring-character ledger at `../../../series/recurring-character-ledger.md` controls cross-book continuity fields but cannot overrule accepted prose.
+7. Archive files and external snapshots are never active sources of truth.
 
-3. Keep unwritten chapter material labeled as planned, proposed, locked planning, or unresolved.
+## Promotion and acceptance
 
-4. Update the master timeline immediately whenever a chapter uses an exact timestamp in accepted prose.
+8. Every chapter begins with a mission lock or approved chapter brief.
+9. Every draft remains outside the accepted manuscript until the acceptance gate is complete.
+10. Promotion requires one same-pass commit that:
+    - moves the final reviewed prose into `../manuscript/`;
+    - updates `../ACCEPTED_MANUSCRIPT.yaml`;
+    - updates `../../../PROJECT_STATE.yaml`;
+    - updates accepted word count and endpoint;
+    - updates chapter status;
+    - updates every affected timeline, character, relationship, evidence, knowledge, technology, location, public-narrative, antagonist, and thread record; and
+    - records the acceptance verdict.
+11. Later chapters may not use an unaccepted draft endpoint as canon.
+12. A chapter title remains a draft title until promotion.
+13. Rejected or superseded drafts remain available through Git history; do not create active filenames such as `final2`, `new-final`, or `latest`.
 
-5. Record both EDT and IST when events materially affect the cross-border crisis.
+## Timeline and physical continuity
 
-6. Never hide a timestamp conflict by changing one table entry. Add it to the discrepancy report until the manuscript itself is repaired.
+14. Update the master timeline whenever accepted prose uses an exact timestamp.
+15. Record both EDT and IST when events materially affect the cross-border crisis.
+16. Never hide a time conflict by changing only a table. Record the discrepancy until the manuscript itself is repaired.
+17. Update injuries after every fall, fight, vehicle movement, treatment, rest period, worsening symptom, and meaningful elapsed-time change.
+18. Do not record recovery without treatment and elapsed time.
+19. Preserve the accepted Chapter 5-to-6 repair and L3-7 handoff unless an explicit manuscript-repair package supersedes it.
 
-7. Update Julie, Marcus, and Elias’s injuries after every:
-   - Fall.
-   - Fight.
-   - Vehicle movement.
-   - Treatment.
-   - Rest period.
-   - Worsening symptom.
+## Evidence and knowledge
 
-8. Do not record recovery without elapsed time and treatment.
+20. Record every evidence transfer with time, location, transferor, recipient, seal condition, reason, and witnesses.
+21. Keep the case, administrator board, recovery cartridge, Partition A, Partition B, WSS local audit, Chen records, and Sharma records as distinct objects.
+22. Update both “what it proves” and “what it does not prove” whenever evidence changes.
+23. Never promote registered authority into physical human custody without separate evidence.
+24. Update the knowledge matrix whenever a character witnesses a screen, hears a record, decrypts content, receives evidence, learns a public claim, or appears in a private antagonist scene.
+25. Never invent the contents of incomplete, excluded, encrypted, or unavailable records.
 
-9. Update every evidence custody transfer with:
-   - Time.
-   - Location.
-   - Transferor.
-   - Recipient.
-   - Seal condition.
-   - Reason.
-   - Any witness.
+## Plot and series continuity
 
-10. Keep the case, board, recovery cartridge, Partition A, Partition B, WSS local audit, Chen records, and Sharma records as separate evidence objects.
+26. Update the thread-disposition matrix after every accepted chapter.
+27. Resolve Book 1 obligations before using a series hook to defer them.
+28. Move resolved threads into a payoff record rather than deleting them.
+29. Update the recurring-character ledger whenever a returning character’s status, knowledge, injury, relationship, legal exposure, location, or future function changes.
+30. Do not assign a future-book role as canon until the character survives and reaches an accepted Book 1 end state.
+31. High-level Act III architecture may guide word budget and sequence, but chapter functions become controlling only through individual chapter locks.
+32. Plans for unwritten chapters remain non-canon.
 
-11. Update the knowledge matrix whenever:
-   - A character witnesses a screen.
-   - A record is read aloud.
-   - A message is decrypted.
-   - Evidence reaches a new authority.
-   - The public narrative changes.
-   - A private antagonist scene reveals knowledge.
+## Word count and ending control
 
-12. Update both “what it proves” and “what it does not prove” whenever evidence is expanded.
+33. Recount accepted manuscript words whenever prose is promoted or revised.
+34. Record only the accepted total in `PROJECT_STATE.yaml` and `../ACCEPTED_MANUSCRIPT.yaml`.
+35. Draft word counts remain separate.
+36. The Book 1 planning target is 112,500 words within an allowed range of 100,000–125,000 words.
+37. Word count never justifies a scene that does not advance plot, character, evidence, or consequence.
+38. The ending contract must be checked before accepting the climax, resolution, or epilogue.
 
-13. Never promote certificate registration into physical human identity without separate evidence.
+## Revision and audit
 
-14. Move resolved threads into a payoff record rather than deleting them.
+39. Narrative House Style v2.2 controls craft but cannot create or change canon.
+40. Run a discrepancy check before each new act or major phase.
+41. Run an evidence-limits check before chapters involving investigation, arrest, testimony, publication, decryption, or institutional custody.
+42. Run a full forward continuity audit before final revision.
+43. Run a reverse-order payoff audit after the ending exists.
+44. Before publication, audit exact times, EDT/IST conversion, titles, vehicles, security bypasses, certificate claims, evidence seals, injuries, knowledge, relationships, public narrative, and the official-record theme.
 
-15. Preserve older control-pack versions.
+## Archive policy
 
-16. Use semantic versioning:
-   - Minor accepted chapter update: v2.2, v2.3, and so on.
-   - Major act transition or repaired timeline: v3.0.
-   - Final continuity pass: designated final-control version.
-
-17. Run a discrepancy check before every new act.
-
-18. Run a custody and evidence-limits check before every chapter involving investigation, arrest, testimony, publication, or decryption.
-
-19. Run a full continuity audit before final revision.
-
-20. Update the repository or project bibles only after they have been reconciled to the accepted manuscript. The existing repository files remain a superseded pre-draft scaffold rather than controlling canon where they conflict with the accepted manuscript.
-
-21. Accepted manuscript repairs in GitHub must update every affected control-pack, status, timeline, evidence, knowledge, technology, location, and discrepancy document in the same production pass.
-
-22. Before Chapter 13 is accepted, update:
-   - Exact endpoint time.
-   - Hartwell window state.
-   - Signer custodian knowledge.
-   - K-17 access state.
-   - Phase B state.
-   - Masking-window state.
-   - Every injury.
-   - Every evidence object’s custody.
-   - Chen and Mercer’s institutional positions.
-   - Public narrative changes.
-
-23. Before the final Book 1 revision, audit:
-   - All exact times.
-   - All EDT/IST conversions.
-   - All chapter titles.
-   - All vehicle transitions.
-   - All security bypasses.
-   - All certificate claims.
-   - All evidence seals and transfers.
-   - All character-specific knowledge.
-   - The prologue-to-present operational connection.
-   - The ultimate correction—or noncorrection—of the official record.
-
-24. The accepted Chapter 5-to-6 repair is permanent canon. Preserve its repair package and commit references; do not restore the obsolete circular-vault branch as current manuscript truth.
-
-25. The Chapter 13 mission lock is stored at `21-chapter-13-mission-lock.md` and is accepted locked planning, not accepted prose. It controls the next drafting context unless superseded by an explicit same-pass planning revision.
-
-26. The Chapter 13 locked plan must not be expanded into a full Act III chapter-by-chapter outline before Chapter 13 is drafted and accepted.
-
-27. Chapter 13’s title, Chapter 14’s function, later Act III functions, the physical custodian of SSO-NS-004, Phase B’s exact purpose, and K-17’s physical status remain unlocked until accepted evidence or a later locked planning artifact establishes them.
-
-28. If Chapter 13 draft prose changes any mission-lock assumption, update `21-chapter-13-mission-lock.md` or mark the changed assumption superseded in the same production pass.
+45. The former Google Doc and uploaded Word snapshot are historical migration inputs only.
+46. Do not edit external historical snapshots as active manuscripts.
+47. Superseded status and planning states are preserved by Git history; do not keep duplicate active copies.
+48. Archive records must say what is historical, why it is non-controlling, and where the active replacement lives.

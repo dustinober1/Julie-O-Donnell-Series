@@ -1,5 +1,7 @@
 # 2. CURRENT PROJECT STATE
 
+The authoritative production status is `../../../PROJECT_STATE.yaml`. The authoritative accepted inventory is `../ACCEPTED_MANUSCRIPT.yaml`.
+
 ## Production snapshot
 
 | Item | Status |
@@ -8,254 +10,105 @@
 | Chapters 1–12 | Accepted |
 | Act I | Complete |
 | Act II | Complete |
-| Act III | Not drafted |
-| Approximate accepted manuscript length | 69,965 words |
-| Current endpoint | Downtown Washington, approximately 07:18 EDT |
-| Next chapter title | Not locked |
-| Chapter 13 manuscript | Not drafted; no `chapter-13.md` exists |
-| Chapter 13 dominant mission | Locked: moving physical-custodian identification operation |
-| Chapter 13 abort condition | Locked: hard abort at 07:42:30 EDT unless observation and evidence/exfiltration conditions are both satisfied |
-| Chapter 13 POV structure | Locked: Julie-dominant with one short Chen/Mercer pressure cutaway |
-| Full Act III outline | No controlling full outline; Chapter 14 and later functions remain unlocked |
-| Chapter 5-to-6 continuity | Resolved and integrated on 2026-07-12; commit `f6d49cbeae2b2f23daac55dc0bacfeb040428f5f` |
+| Act III | No accepted chapters |
+| Accepted length | 61,118 words |
+| Planning target | 112,500 words |
+| Target range | 100,000–125,000 words |
+| Accepted endpoint | End of Chapter 12, approximately 07:18 EDT / 16:48 IST |
+| Chapter 13 | Complete draft, **The Carrier Stream**, not accepted |
+| Chapter 13 path | `../drafts/chapter-13.md` |
+| Chapter 13 review | `27-chapter-13-acceptance-review.md` |
+| Chapter 14 and later | Not drafted |
+| Immediate production gate | Accept, revise, or reject Chapter 13 before Chapter 14 prose |
 
-Permanent Chapter 13 planning artifact: `21-chapter-13-mission-lock.md`.
+## Accepted endpoint
 
-## Integrated Chapter 5-to-6 state
+Julie, Marcus, and Elias are inside PCF-27 in downtown Washington after the Fenwick/Northbridge operation. Sterling’s motorcade has crossed their path and is proceeding toward the Hartwell Executive Briefing Annex.
 
-- Chapter 5 is **The Second Clock**.
-- Chapter 7 remains **The Human Key**.
-- 16:30 EDT / 02:00 IST is allied source certification.
-- 05:00 EDT / 14:30 IST is the dependent executable counter-battery support commit and firing-decision point.
-- The repaired Chapter 5 ends at hydraulic shutter L3-7 in the exact physical state required by the unchanged Chapter 6 opening.
-- No downstream Hartwell, Phase B, masking, injury, evidence, or Chapter 12 endpoint state changed.
-
-## Current manuscript endpoint
-
-Julie, Marcus, and Elias are inside **PCF-27**, a white Potomac Critical Facilities maintenance van, moving through downtown Washington after escaping the Fenwick Annex. Sterling’s motorcade has crossed their path and is proceeding toward the Hartwell Executive Briefing Annex.
-
-The exact street and distance to Hartwell are not stated. The van is on or near the motorcade’s route toward the federal briefing district.
+The exact street and distance to Hartwell remain unstated in accepted prose.
 
 ## Current character locations
 
 - **Julie O’Donnell:** Driver’s seat of PCF-27.
-- **Marcus Reed:** Front passenger seat of PCF-27, with the primary evidence.
-- **Elias Thorne:** Cargo floor of PCF-27, holding the dual-partition incident module and his administrator-token board.
-- **Sarah Chen:** Last confirmed at the Apex Building Three security command center, coordinating capture and preserving conflicting directives.
-- **Arthur Vance:** Last confirmed at or communicating through Apex Building Three’s command structure.
+- **Marcus Reed:** Front passenger seat with the primary evidence.
+- **Elias Thorne:** Cargo floor with the dual-partition incident module and administrator-token board.
+- **Sarah Chen:** Last accepted location is the Apex Building Three security command center.
+- **Arthur Vance:** Last accepted location is within or connected to Apex command.
 - **Senator Sterling:** In his motorcade, en route to Hartwell.
-- **Daniel Mercer:** Last confirmed in the Fenwick Annex service court after the van escaped.
+- **Daniel Mercer:** Last accepted location is the Fenwick service court.
 - **Major Tariq:** Physical location unknown.
-- **Major Ananya Sharma:** Last confirmed at Forward Post Arjun after aborting the counter-battery mission.
+- **Major Ananya Sharma:** Last accepted location is Forward Post Arjun after aborting the counter-battery mission.
 - **Relay K-17 field team:** Current location unknown.
 
-## Current vehicle
+## Active clocks at the accepted endpoint
 
-**PCF-27**
+| Event | EDT |
+|---|---:|
+| Hartwell authentication opens | 07:46:00 |
+| Masking Window Two opens | 07:48:00 |
+| Hartwell authentication closes | 07:48:30 |
+| Phase B authorization deadline | 07:49:00 |
+| Masking Window Two closes | 07:54:00 |
 
-- White Potomac Critical Facilities maintenance van.
-- Virginia commercial registration known to authorities.
-- Potomac company markings remain visible.
-- Apex temporary windshield placard was removed.
-- Fleet telematics module was disconnected after the van cleared Apex.
-- Telematics disconnection did not erase the van’s identity, route, plate, or camera history.
-- The van has been confirmed inside Washington.
-- Metropolitan Police, Apex Protective Services, and regional law enforcement have its description and direction of travel.
-
-## Current pursuit and legal status
-
-No conviction, formal charge, or warrant is shown in the manuscript. The controlling facts are:
-
-- Julie is the subject of a national and regional lookout.
-- A joint directive orders apprehension, subject separation, classified-material recovery, and preservation of life and evidence.
-- Apex has labeled Julie an armed insider threat and alleged Argus sabotage, deliberate fire, and theft.
-- Marcus is described as an armed accomplice.
-- Elias is publicly described as a possible hostage or coerced employee.
-- Army counterintelligence and Army Criminal Investigation Division have been asked to locate or receive the subjects.
-- Metropolitan Police have responded to the Fenwick breach.
-- Apex Protective Services remains involved.
-- Vance issued an additional directive authorizing deadly force if loss of the telemetry material was imminent.
-- Chen rejected that material-loss standard and retained a conventional deadly-threat standard.
-- The trio possesses no firearm.
-
-They are fugitives in the practical sense of actively evading apprehension, but future prose should not invent specific charges or warrants that have not been shown.
-
-## Current public narrative
-
-Sterling and Apex have established the following public account:
-
-- Julie corrupted Argus.
-- Julie sabotaged national-security infrastructure.
-- Julie caused a fire at Building Three.
-- Julie stole classified material.
-- Marcus is an armed accomplice.
-- Elias may be a hostage.
-- The group attacked Northbridge’s secure communications.
-- Argus and its responders protected the country from an insider attack.
-- Sterling is proceeding responsibly to an emergency briefing on an evolving border threat.
-
-The public narrative uses genuine footage and real unauthorized acts but reverses their causal meaning.
-
-## Current operational deadlines
-
-| Deadline | Exact time | Time remaining from 07:18 EDT |
-|---|---:|---:|
-| Hartwell authentication window opens | 07:46:00 | 28 minutes |
-| Masking Window Two opens | 07:48:00 | 30 minutes |
-| Hartwell authentication window closes | 07:48:30 | 30 minutes 30 seconds |
-| Phase B authorization deadline | 07:49:00 | 31 minutes |
-| Masking Window Two closes | 07:54:00 | 36 minutes |
-
-The second masking window begins **30 seconds before** the Hartwell authentication window closes.
-
-## Current field situation at Relay K-17
-
-Confirmed:
-
-- Five or six disciplined individuals moved through sensor gaps toward K-17 shortly before 05:00 EDT.
-- Their last direct sensor position was a little more than two kilometers from the relay at that time.
-- The team’s spacing and timing were designed to resist sensor correlation.
-- By the 07:08 WSS-4 session, **Security Line One had been passed**.
-- At 07:08, **Relay K-17 access was not confirmed**.
-- **Phase B remained on hold for authorization**.
-- A second masking window and an Argus source-reconstruction profile were pending.
-
-Not confirmed:
-
-- Whether the team has reached the relay.
-- Whether the team has entered any outer or inner K-17 perimeter.
-- Whether the relay has been captured, damaged, altered, or abandoned.
-- Whether Major Tariq is physically with the team.
-- What Phase B will do.
-- Whether the pending Argus profile is meant to alter relay evidence, conceal an assault, create corroboration, or serve another purpose.
-
-## Current antagonist and institutional status
-
-### Arthur Vance
-
-- Directly implicated by the executive certificate chain controlling the Payload 88 bridge.
-- Has issued evidence-destruction, witness-containment, suppression, and lethal-force measures.
-- Has lost exclusive control of the record because independent local audit objects now exist.
-- Still controls or influences Apex systems, personnel, public footage, and official reporting.
-- APX-DIR-0019 remains registered-authority evidence, not proof of Vance’s personal keystrokes or physical possession of the hardware.
-
-### Senator Sterling
-
-- Publicly leading the response and traveling to Hartwell.
-- His office’s registered signer, SSO-NS-004, authenticated the 07:08 K-17 session.
-- The same device is expected for the Hartwell local perimeter challenge.
-- His personal possession or keystrokes remain unproved.
-- His public statements preceded neutral technical findings and are increasingly specific.
-
-### Major Tariq
-
-- A field authority registered to his command was accepted in the K17-PHASE-B session.
-- His exact location, personal use of the field device, and field-team composition remain unproved.
-- Phase B awaits authorization.
-
-### Sarah Chen
-
-- Continues to order Julie’s capture.
-- Has not defected.
-- Has rejected Vance’s unlawful rule that material loss alone justifies deadly force.
-- Has preserved the conflicting capture and lethal-force directives.
-- Has preserved timing showing that Sterling’s public conclusion preceded technical adjudication.
-- May become a witness, but has not yet chosen to help Julie.
-
-### Daniel Mercer
-
-- Continues to pursue the trio.
-- Has repeatedly demanded clear authority and a receiving agency.
-- Has obeyed Chen’s no-fire rule when civilians or an unclear background were present.
-- Is not a covert ally.
-- Last failed to recover Elias’s incident module at Fenwick.
-
-## Current evidence status
+## Evidence state
 
 ### With Marcus
 
-- Aluminum telemetry case and primary evidence drive.
-- 136 sealed files.
-- 47 incomplete files.
-- Manifest showing 311 excluded files.
-- Tamper-bagged enclave recovery-record cartridge.
-- Paper custody log.
-- Dead PCF-27 telematics module.
-- Waterproof evidence folder.
+- Aluminum telemetry case and primary evidence drive
+- 136 sealed files
+- 47 incomplete files
+- Manifest showing 311 excluded files
+- Tamper-bagged recovery-record cartridge
+- Paper custody log
+- Dead PCF-27 telematics module
+- Waterproof evidence folder
 
 ### With Elias
 
-- Original administrator-token circuit board.
-- Dual-partition incident module:
-  - Partition A: sealed, read-only derivative.
-  - Partition B: sealed WSS-4 incident capture with valid Northbridge controller seal.
+- Original administrator-token circuit board
+- Partition A: sealed, read-only limited derivative
+- Partition B: sealed WSS-4 capture with valid Northbridge controller seal
 
-### At Northbridge
+### Independent or external records
 
-- WSS-4’s local audit record of the 07:08 session.
-- The false paper work order and landlord-service records.
-- Camera and access records.
-- Nora Bell as a direct witness to the suite events.
+- WSS-4 local audit at Northbridge
+- Nora Bell and the WSS operator as direct witnesses
+- Chen’s preserved directives at Apex
+- Apex production, access, fire, suppression, and incident records
+- Sharma/Qureshi and Indian fire-control/abort records
 
-### At Apex
+## What the accepted evidence establishes
 
-- Original production, security, access, fire, suppression, and incident records.
-- Chen’s preserved directives.
-- Security footage and public derivatives.
-- Vance’s executive-authority records.
-- Remaining copies or originals of Payload 88 and the bridge records.
-- Elias’s prepared confession and detention records.
+- Payload 88 was synthetic and was operationally deployed.
+- Vance-registered authority controlled or authorized the production bridge.
+- Elias’s physical token did not sign the original deployment.
+- WSS-4 hosted the K17-PHASE-B session.
+- Tariq field authority and Sterling-office SSO-NS-004 participated.
+- SSO-NS-004 is expected at Hartwell.
+- Relay access remained unconfirmed at 07:08.
+- Phase B and the second masking action remained pending.
 
-### At Forward Post Arjun
+## What remains unproved
 
-- Qureshi’s photograph of the disappearing source-review notice.
-- Local counter-battery orders, abort records, and fire-control logs.
-- Evidence that no rounds were fired.
-
-## Immediate narrative problem driving Chapter 13
-
-Julie has authenticated evidence tying:
-
-- Payload 88 to Vance’s registered executive authority.
-- Northbridge WSS-4 to a live K17-PHASE-B session.
-- Major Tariq’s command authority to the field side.
-- SSO-NS-004, registered to Sterling’s office, to the authorization side.
-- The same signer serial to the upcoming Hartwell challenge.
-
-She still cannot prove:
-
-- Who physically possessed SSO-NS-004 at WSS-4.
-- Who will carry it into Hartwell.
+- Who physically held SSO-NS-004 at WSS-4.
+- Who will carry or present it at Hartwell.
 - Whether Sterling personally directed the operation.
-- What the encrypted messages said.
-- What Phase B will do.
-- Whether K-17 access has succeeded.
+- What the encrypted messages say.
+- What Phase B does.
+- Whether K-17 access succeeded.
+- Whether the trio can place the evidence into durable independent custody.
+- Whether Julie will receive direct confirmation that no Indian rounds were fired.
 
-The immediate problem is to reach or affect the Hartwell authentication event before the Phase B and masking deadlines while preserving the existing evidence, avoiding civilian casualties, and surviving an expanding manhunt.
+## Pursuit and public status
 
-## Locked Chapter 13 function
+The trio has no firearm, but the public narrative identifies Julie as an armed insider and Marcus as an armed accomplice. Elias is publicly described as a possible hostage or coerced employee. No accepted prose establishes a conviction, formal charge, or current warrant.
 
-Chapter 13’s locked dominant function is a **moving physical-custodian identification operation**.
+## Draft-only Chapter 13 state
 
-Julie must shed PCF-27 as the obvious target and establish continuous observation of the Hartwell signer-carrier stream before the 07:46:00 EDT local perimeter challenge begins, or Phase B can be authorized and masked through a physical event the trio cannot tie to any person, vehicle, witness, or admissible record.
+The draft titled **The Carrier Stream** is stored at `../drafts/chapter-13.md`. It appears to carry the Hartwell carrier-stream operation through the 07:46 challenge opening while preserving the unknown-custodian distinction.
 
-The locked immediate objective is to identify and preserve the physical route by which the signer device registered as SSO-NS-004 is carried into Hartwell’s briefing security domain. The chapter must not prove Sterling personally held the device unless accepted evidence establishes that fact.
+Those events are not canon. The controlling accepted endpoint remains the end of Chapter 12 until an explicit promotion commit is made.
 
-The locked hard abort occurs at **07:42:30 EDT** unless both conditions are true:
+## Immediate production action
 
-1. Julie has established continuous observation, or a defensibly recoverable observation record, of the suspected SSO-NS-004 carrier stream, access lane, support vehicle, or staff/courier route.
-2. Marcus has a viable exfiltration route with the primary evidence, and Elias can confirm that the module and board remain in his custody and usable.
-
-POV is locked as Julie-dominant with one short Chen/Mercer pressure cutaway. Sharma, K-17/Tariq, Sterling, and Vance POVs are not selected for Chapter 13.
-
-## What Must Happen Before Chapter 13 Is Drafted
-
-Only genuine blockers are listed.
-
-1. Use `21-chapter-13-mission-lock.md` as the locked Chapter 13 mission plan.
-2. Draft Chapter 13 in a fresh context from the accepted GitHub manuscript and this control pack only.
-3. Keep Chapter 13’s title unlocked until the drafting task selects one.
-4. Keep the physical custodian of SSO-NS-004 unresolved until evidence in accepted prose proves it.
-5. Keep Act III undrafted and do not promote a full Act III chapter-by-chapter outline to controlling canon.
-
----
+Use `27-chapter-13-acceptance-review.md` and `25-chapter-acceptance-gate.md` to complete the Chapter 13 acceptance pass. Do not draft Chapter 14 first.
