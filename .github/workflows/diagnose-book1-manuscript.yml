@@ -64,7 +64,9 @@ jobs:
 
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add .migration/actual.sha256 .migration/hash-diff.txt .migration/hashes-ok.txt 2>/dev/null || true
+          git add .migration/actual.sha256
+          if [ -f .migration/hash-diff.txt ]; then git add .migration/hash-diff.txt; fi
+          if [ -f .migration/hashes-ok.txt ]; then git add .migration/hashes-ok.txt; fi
 
           if git diff --cached --quiet; then
             echo "No diagnostic changes."
