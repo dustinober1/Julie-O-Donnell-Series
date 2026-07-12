@@ -3,7 +3,7 @@
 **Repository source:** GitHub Markdown manuscript  
 **Migration date:** July 11, 2026  
 **Canon endpoint:** End of Chapter 12, approximately 07:18 EDT / 16:48 IST  
-**Approximate accepted-manuscript length:** 61,485 words  
+**Approximate accepted-manuscript length:** 61,118 words  
 **Act I:** Complete  
 **Act II:** Complete  
 **Act III:** Drafting begun; no Act III chapter has been promoted to accepted canon
@@ -13,7 +13,7 @@
 - Prologue: accepted; House Style v2.1 narrative-density revision applied.
 - Chapter 1: **The Official Version** — accepted; House Style v2.2 line-density second pass applied.
 - Chapter 2: **The Poisoned Feed** — accepted; House Style v2.2 line-density second pass applied.
-- Chapter 3: **The Exit Protocol** — accepted; House Style v2.2 line-density second pass applied.
+- Chapter 3: **The Exit Protocol** — accepted; House Style v2.2 revision repaired for valid speaker paragraphing, punctuation consistency, honest metrics, and Chapter 4 handoff rhythm.
 - Chapter 4: **Burn Notice** — accepted.
 - Chapter 5: **The Second Clock** — accepted; continuity repair integrated.
 - Chapter 6: **The Descent** — accepted.
