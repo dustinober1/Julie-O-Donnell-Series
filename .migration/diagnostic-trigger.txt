@@ -1,1 +1,0 @@
-Run hash diagnostics for the reconstructed manuscript.
