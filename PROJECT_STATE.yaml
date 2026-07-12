@@ -1,117 +1,139 @@
 project: "Julie O'Donnell Series"
-repository: "dustinober1/Julie-O-Donnell-Series"
-default_branch: "main"
+schema_version: 3
 last_updated: "2026-07-12"
+
+status_authority:
+  file: "PROJECT_STATE.yaml"
+  scope: "Production status and navigation only; not story canon"
+  rule: "Any duplicated status summary must be corrected to match this file in the same production pass"
+
+story_authority:
+  accepted_manifest: "books/book-01/ACCEPTED_MANUSCRIPT.yaml"
+  accepted_prose_root: "books/book-01/manuscript/"
+  control_pack_root: "books/book-01/control/"
+  series_bible_root: "series/"
+  draft_root: "books/book-01/drafts/"
+  archive_root: "archive/"
 
 active_book:
   number: 1
   title: null
   genre: "Contemporary geopolitical techno-thriller / military-intelligence thriller"
-  primary_protagonist: "Julie O'Donnell"
-  canon_endpoint: "End of Chapter 12"
-  accepted_content:
+
+  word_budget:
+    minimum: 100000
+    planning_target: 112500
+    maximum: 125000
+    accepted_words: 61118
+    words_to_planning_target: 51382
+    minimum_words_remaining: 38882
+    maximum_words_remaining: 63882
+    chapter_13_draft_words: null
+    chapter_13_count_status: "Measure before acceptance; draft words are excluded from accepted total"
+
+  accepted_canon:
+    manifest: "books/book-01/ACCEPTED_MANUSCRIPT.yaml"
     prologue: true
     chapters: "1-12"
-    act_i: "complete"
-    act_ii: "complete"
-    act_iii: "not accepted; Chapter 13 exists as a draft"
-  approximate_manuscript_words: 61118
-  endpoint_time:
-    eastern: "approximately 07:18 EDT"
-    india: "approximately 16:48 IST"
-  next_chapter:
-    number: 13
-    title: "The Carrier Stream"
-    manuscript_status: "drafted; not yet promoted to accepted canon"
-    dominant_function: "locked: moving physical-custodian identification operation"
-    mission_lock: "books/book-01/control/21-chapter-13-mission-lock.md"
-    abort_condition: "locked: hard abort at 07:42:30 EDT unless observation and evidence/exfil conditions are both satisfied"
-    pov_structure: "locked: Julie-dominant with one short Chen/Mercer pressure cutaway"
-    planned_endpoint: "approximately 07:45-07:46 EDT outside Hartwell, with the physical-custody question unresolved into Chapter 14"
+    acts:
+      act_i: "complete"
+      act_ii: "complete"
+      act_iii: "no accepted chapters"
+    endpoint:
+      chapter: 12
+      eastern: "approximately 07:18 EDT"
+      india: "approximately 16:48 IST"
+      location: "Downtown Washington inside PCF-27"
+    accepted_manuscript_words: 61118
+
+  drafts:
+    chapter_13:
+      title: "The Carrier Stream"
+      path: "books/book-01/drafts/chapter-13.md"
+      status: "complete draft; not accepted canon"
+      prose_changed_by_governance_pass: false
+      mission_lock: "books/book-01/control/21-chapter-13-mission-lock.md"
+      acceptance_review: "books/book-01/control/27-chapter-13-acceptance-review.md"
+      review_verdict: "retain as draft pending full acceptance pass"
+      projected_endpoint: "approximately 07:46 EDT outside Hartwell"
+      physical_custodian_status: "unresolved"
+
+  future_prose:
+    chapter_14_and_later: "not drafted"
+    rule: "Do not draft Chapter 14 until Chapter 13 is explicitly accepted or its replacement endpoint is locked"
+
+  planning_controls:
+    ending_contract: "books/book-01/control/22-book-1-ending-contract.md"
+    word_budget_and_architecture: "books/book-01/control/23-word-budget-and-act-iii-architecture.md"
+    thread_disposition: "books/book-01/control/24-thread-disposition-matrix.md"
+    chapter_acceptance_gate: "books/book-01/control/25-chapter-acceptance-gate.md"
+    governance_repair_record: "books/book-01/control/26-repository-governance-repair-record.md"
+    series_character_ledger: "series/recurring-character-ledger.md"
+
   narrative_house_style:
     version: "2.2"
     status: "locked for new chapter production and revision passes"
     guide: "docs/Julie_ODonnell_Narrative_House_Style_v2_2.md"
-    v2_1_guide: "docs/Julie_ODonnell_Narrative_House_Style_v2_1.md"
-    base_guide: "docs/Julie_ODonnell_Narrative_House_Style_v2.md"
-    calibration: "artifacts/book-01-style-calibration.md"
-    revision_map: "artifacts/book-01-chapter-revision-map.md"
-    original_revision_note: "artifacts/book-01-narrative-house-style-v2-revision-note.md"
-    authority: "craft control only; accepted manuscript and Book 1 canon controls remain superior for facts and continuity"
-    manuscript_revisions_applied: true
-    prologue_revised: true
-    line_density_second_pass_applied: true
-    line_density_second_pass_chapters:
-      - 1
-      - 2
-      - 3
-    revised_chapters:
-      - 1
-      - 2
-      - 3
-      - 12
-    revised_sections:
-      - "Prologue"
-      - "Chapter 1"
-      - "Chapter 2"
-      - "Chapter 3"
-      - "Chapter 12"
-    latest_prologue_revision_note: "artifacts/book-01-prologue-house-style-v2-1-revision-note.md"
-    latest_chapter_revision_note: "artifacts/book-01-chapter-03-house-style-v2-2-line-density-revision-note.md"
-    chapter_revision_notes:
-      chapter_1: "artifacts/book-01-chapter-01-house-style-v2-2-line-density-revision-note.md"
-      chapter_2: "artifacts/book-01-chapter-02-house-style-v2-2-line-density-revision-note.md"
-      chapter_3: "artifacts/book-01-chapter-03-house-style-v2-2-line-density-revision-note.md"
-      chapter_12: "artifacts/book-01-chapter-12-house-style-v2-revision-note.md"
-    prior_chapter_revision_notes:
-      chapter_1_v2_1: "artifacts/book-01-chapter-01-house-style-v2-1-revision-note.md"
-      chapter_2_v2_1: "artifacts/book-01-chapter-02-house-style-v2-1-revision-note.md"
+    v2_1_supplement: "docs/Julie_ODonnell_Narrative_House_Style_v2_1.md"
+    v2_base: "docs/Julie_ODonnell_Narrative_House_Style_v2.md"
+    authority: "Craft control only; accepted manuscript and Book 1 canon controls remain superior for facts and continuity"
 
 source_of_truth:
   - rank: 1
     path: "books/book-01/manuscript/"
-    role: "Controlling accepted manuscript in GitHub Markdown"
+    role: "Controlling story facts for prose listed in the accepted-manuscript inventory"
   - rank: 2
-    path: "books/book-01/control/"
-    role: "Canon and production controls through Chapter 12 plus locked Chapter 13 planning record"
+    path: "books/book-01/ACCEPTED_MANUSCRIPT.yaml"
+    role: "Controlling inventory of which prose files are accepted"
   - rank: 3
-    path: "PROJECT_STATE.yaml"
-    role: "Navigation and status only"
+    path: "books/book-01/control/"
+    role: "Canon controls and approved production planning"
   - rank: 4
+    path: "series/"
+    role: "Cross-book continuity and recurring-character controls"
+  - rank: 5
+    path: "books/book-01/drafts/"
+    role: "Unaccepted prose; never canon by location or existence"
+  - rank: 6
+    path: "archive/"
+    role: "Non-controlling legacy provenance and archive policy"
+  - rank: 7
     path: "README.md"
-    role: "Repository navigation only"
+    role: "Human navigation summary only"
 
-critical_blockers:
-  - id: "chapter-5-6-continuity"
-    severity: "critical"
-    status: "resolved"
-    resolved_date: "2026-07-12"
+critical_status:
+  chapter_5_6_continuity:
+    severity: "resolved"
     integration_commit: "f6d49cbeae2b2f23daac55dc0bacfeb040428f5f"
-    description: "Integrated repair establishes 16:30 allied source certification, 05:00 executable support commit, and the exact L3-7 handoff into Chapter 6."
-  - id: "chapter-13-function"
-    severity: "high"
-    status: "resolved"
-    resolved_date: "2026-07-12"
-    planning_artifact: "books/book-01/control/21-chapter-13-mission-lock.md"
-    description: "Chapter 13's dominant mission, immediate objective, abort condition, POV structure, cutaway decision, and Act III entry state are accepted and locked as planning. Chapter 13 prose exists as a draft but is not yet promoted to accepted canon."
+  chapter_13_separation:
+    severity: "resolved by governance pass"
+    rule: "The draft is outside the accepted manuscript directory"
+  status_drift:
+    severity: "resolved by governance pass"
+    rule: "PROJECT_STATE.yaml is the sole production-status authority"
+  chapter_13_acceptance:
+    severity: "current production gate"
+    status: "open"
+    next_action: "Run the acceptance checklist in control/27 before any Chapter 14 drafting"
+
+archive:
+  legacy_source_policy: "archive/legacy-sources/README.md"
+  former_google_doc_active: false
+  uploaded_word_snapshot_active: false
+  superseded_status_snapshots: "Preserved in Git history; not duplicated as active files"
 
 production_rules:
-  - "The GitHub Markdown manuscript is the sole controlling manuscript."
-  - "Accepted manuscript prose outranks all summaries and plans."
-  - "The accepted Chapter 5-6 repair is explicit canon; any later alteration requires a documented manuscript-and-control-pack revision."
-  - "Julie O'Donnell Narrative House Style v2.2 controls second-pass line density, dialogue chains, indirect dialogue, screen-field presentation, and paragraph joining without creating canon."
-  - "Narrative House Style v2.0 remains the complete base guide; v2.1 and v2.2 supersede it only where they provide more specific craft rules."
-  - "No draft or revision may imitate or closely emulate the recognizable prose of a living author."
-  - "The style calibration samples are noncanonical and do not replace accepted prose."
-  - "No accepted chapter is marked revised merely by creation of a style guide or revision map."
-  - "Chapter 13's locked mission is planning guidance; its existing prose remains a draft until separately accepted."
-  - "Do not identify the physical custodian of SSO-NS-004 without new accepted evidence."
-  - "Chapter 14 and later functions remain unlocked; do not treat any full Act III outline as controlling canon."
+  - "Accepted manuscript prose outranks all summaries, plans, trackers, drafts, and external snapshots."
+  - "No unaccepted chapter may live under books/book-01/manuscript/."
+  - "Draft existence does not create canon."
+  - "Promotion requires the same commit to move prose into manuscript, update ACCEPTED_MANUSCRIPT.yaml, update PROJECT_STATE.yaml, and update every affected control ledger."
+  - "Chapter 13 remains a draft until its acceptance review is completed and an explicit promotion commit is made."
+  - "Chapter 14 may not treat Chapter 13 facts as canon before promotion."
+  - "Registered authority never proves physical human custody without separate evidence."
+  - "Do not identify the physical custodian of SSO-NS-004 without accepted evidence."
+  - "High-level Act III architecture is production planning, not canon; chapter functions become controlling only through a chapter mission lock."
   - "Plans for unwritten chapters remain non-canon until dramatized and accepted."
+  - "The former Google Doc and uploaded Word snapshot are historical sources only and must not be edited as active manuscripts."
+  - "No draft or revision may imitate or closely emulate the recognizable prose of a living author."
 
-migration:
-  source: "Former project Google Doc"
-  completed: "2026-07-11"
-  active_external_manuscript: false
-
-next_recommended_action: "Apply House Style v2.2 to Chapter 4 — Burn Notice, using the revised Chapter 3 and accepted Chapter 5 as continuity controls."
+next_recommended_action: "Complete the Chapter 13 acceptance pass in books/book-01/control/27-chapter-13-acceptance-review.md; do not draft Chapter 14 first."

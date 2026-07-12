@@ -1,57 +1,45 @@
-# Julie O’Donnell Book 1 Manuscript
+# Julie O’Donnell Book 1 — Accepted Manuscript
 
-This directory contains the controlling accepted manuscript for Julie O’Donnell Book 1.
+This directory contains **accepted prose only**.
 
-## Authority
+The controlling inventory is [`../ACCEPTED_MANUSCRIPT.yaml`](../ACCEPTED_MANUSCRIPT.yaml). A prose file is canon only when it is both:
 
-1. The Markdown manuscript files in this directory are the highest source of story truth.
-2. `../control/` governs continuity, evidence, technology, character state, chronology, production controls, and locked planning records only where it agrees with the accepted manuscript.
-3. `../../../PROJECT_STATE.yaml` and the repository root `README.md` are navigation and status summaries.
+1. stored under this directory; and
+2. listed in the accepted-manuscript inventory.
 
-If any summary, tracker, outline, repair proposal, control document, or planning note conflicts with the accepted manuscript, the manuscript controls until an approved manuscript revision is committed.
+## Current accepted inventory
 
-## File layout
+- Prologue
+- Chapters 1–12
+- Accepted length: **61,118 words**
+- Accepted endpoint: approximately 07:18 EDT / 16:48 IST at the end of Chapter 12
+
+## Directory layout
 
 - `prologue.md`
 - `chapters/chapter-01.md` through `chapters/chapter-12.md`
-- `SOURCE.md` — source-of-truth policy and migration provenance
-- `STATUS.md` — current acceptance, production status, and planning-lock status
+- `SOURCE.md` — manuscript authority and migration provenance
+- `STATUS.md` — concise human-readable status pointer
 
-## Accepted manuscript inventory
+No unaccepted chapter belongs in this directory.
 
-| File | Approximate words |
-|---|---:|
-| [Prologue - Six Years Ago](prologue.md) | 2,328 |
-| [Chapter 1 - The Official Version](chapters/chapter-01.md) | 4,237 |
-| [Chapter 2 - The Poisoned Feed](chapters/chapter-02.md) | 5,031 |
-| [Chapter 3 - The Exit Protocol](chapters/chapter-03.md) | 4,436 |
-| [Chapter 4 - Burn Notice](chapters/chapter-04.md) | 6,396 |
-| [Chapter 5 - The Second Clock](chapters/chapter-05.md) | 8,279 |
-| [Chapter 6 - The Descent](chapters/chapter-06.md) | 3,967 |
-| [Chapter 7 - The Human Key](chapters/chapter-07.md) | 4,916 |
-| [Chapter 8 - The 05:00 Abort](chapters/chapter-08.md) | 4,681 |
-| [Chapter 9 - The Life-Safety Override](chapters/chapter-09.md) | 5,521 |
-| [Chapter 10 - The Capital Connection](chapters/chapter-10.md) | 6,004 |
-| [Chapter 11 - Going Offensive](chapters/chapter-11.md) | 5,574 |
-| [Chapter 12 - The Sterling Trap](chapters/chapter-12.md) | 8,595 |
+Chapter 13, **The Carrier Stream**, is stored at [`../drafts/chapter-13.md`](../drafts/chapter-13.md). Its existence does not create canon.
 
-**Approximate total:** 69,965 words.
+## Authority
 
-## Integrated continuity state
+Accepted prose controls story truth. The control pack may explain, index, or plan around the prose, but it cannot overrule accepted events, dialogue, chronology, evidence, injuries, or character knowledge.
 
-The accepted Chapter 5-to-6 repair was integrated on 2026-07-12 in commit `f6d49cbeae2b2f23daac55dc0bacfeb040428f5f`.
+If a subordinate document conflicts with accepted prose, correct the subordinate document unless an explicit manuscript-revision commit changes the prose.
 
-Chapter 5 now ends at shutter L3-7 in the exact physical state required by the unchanged Chapter 6 opening. The two-stage deadline architecture is:
+## Promotion rule
 
-- 16:30 EDT / 02:00 IST — allied source certification.
-- 05:00 EDT / 14:30 IST — executable counter-battery support commit and firing-decision point.
+A draft becomes accepted only through one explicit production commit that:
 
-## Chapter 13 planning state
+- moves the reviewed prose into this directory;
+- adds it to `../ACCEPTED_MANUSCRIPT.yaml`;
+- updates the accepted word count and endpoint;
+- updates `../../../PROJECT_STATE.yaml`;
+- updates every affected timeline, character, relationship, evidence, knowledge, technology, public-narrative, and open-thread control; and
+- records the acceptance verdict.
 
-Chapter 13 remains undrafted and no `chapter-13.md` file exists. Its title remains unlocked.
-
-The Chapter 13 dominant mission, immediate objective, abort condition, POV structure, cutaway decision, opening state, likely endpoint, and unresolved Chapter 14 handoff are accepted and locked as planning in:
-
-`../control/21-chapter-13-mission-lock.md`
-
-The locked dominant mission is a **moving physical-custodian identification operation** aimed at establishing observation of the Hartwell signer-carrier stream before the 07:46:00 EDT local perimeter challenge. Act III remains undrafted, and Chapter 14 and later functions remain unlocked.
+See [`../control/25-chapter-acceptance-gate.md`](../control/25-chapter-acceptance-gate.md).
