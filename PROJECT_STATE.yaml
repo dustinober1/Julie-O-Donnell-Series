@@ -15,7 +15,7 @@ active_book:
     act_i: "complete"
     act_ii: "complete"
     act_iii: "not accepted; Chapter 13 exists as a draft"
-  approximate_manuscript_words: 63968
+  approximate_manuscript_words: 62454
   endpoint_time:
     eastern: "approximately 07:18 EDT"
     india: "approximately 16:48 IST"
@@ -29,9 +29,10 @@ active_book:
     pov_structure: "locked: Julie-dominant with one short Chen/Mercer pressure cutaway"
     planned_endpoint: "approximately 07:45-07:46 EDT outside Hartwell, with the physical-custody question unresolved into Chapter 14"
   narrative_house_style:
-    version: "2.1"
+    version: "2.2"
     status: "locked for new chapter production and revision passes"
-    guide: "docs/Julie_ODonnell_Narrative_House_Style_v2_1.md"
+    guide: "docs/Julie_ODonnell_Narrative_House_Style_v2_2.md"
+    v2_1_guide: "docs/Julie_ODonnell_Narrative_House_Style_v2_1.md"
     base_guide: "docs/Julie_ODonnell_Narrative_House_Style_v2.md"
     calibration: "artifacts/book-01-style-calibration.md"
     revision_map: "artifacts/book-01-chapter-revision-map.md"
@@ -39,6 +40,10 @@ active_book:
     authority: "craft control only; accepted manuscript and Book 1 canon controls remain superior for facts and continuity"
     manuscript_revisions_applied: true
     prologue_revised: true
+    line_density_second_pass_applied: true
+    line_density_second_pass_chapters:
+      - 1
+      - 2
     revised_chapters:
       - 1
       - 2
@@ -49,11 +54,14 @@ active_book:
       - "Chapter 2"
       - "Chapter 12"
     latest_prologue_revision_note: "artifacts/book-01-prologue-house-style-v2-1-revision-note.md"
-    latest_chapter_revision_note: "artifacts/book-01-chapter-02-house-style-v2-1-revision-note.md"
+    latest_chapter_revision_note: "artifacts/book-01-chapter-02-house-style-v2-2-line-density-revision-note.md"
     chapter_revision_notes:
-      chapter_1: "artifacts/book-01-chapter-01-house-style-v2-1-revision-note.md"
-      chapter_2: "artifacts/book-01-chapter-02-house-style-v2-1-revision-note.md"
+      chapter_1: "artifacts/book-01-chapter-01-house-style-v2-2-line-density-revision-note.md"
+      chapter_2: "artifacts/book-01-chapter-02-house-style-v2-2-line-density-revision-note.md"
       chapter_12: "artifacts/book-01-chapter-12-house-style-v2-revision-note.md"
+    prior_chapter_revision_notes:
+      chapter_1_v2_1: "artifacts/book-01-chapter-01-house-style-v2-1-revision-note.md"
+      chapter_2_v2_1: "artifacts/book-01-chapter-02-house-style-v2-1-revision-note.md"
 
 source_of_truth:
   - rank: 1
@@ -87,8 +95,8 @@ production_rules:
   - "The GitHub Markdown manuscript is the sole controlling manuscript."
   - "Accepted manuscript prose outranks all summaries and plans."
   - "The accepted Chapter 5-6 repair is explicit canon; any later alteration requires a documented manuscript-and-control-pack revision."
-  - "Julie O'Donnell Narrative House Style v2.1 controls prose craft, pacing, dialogue function, narrative compression, paragraph density, exposition, and originality safeguards without creating canon."
-  - "Narrative House Style v2.0 remains the complete base guide and is superseded by v2.1 only where v2.1 provides more specific dialogue and page-density rules."
+  - "Julie O'Donnell Narrative House Style v2.2 controls second-pass line density, dialogue chains, indirect dialogue, screen-field presentation, and paragraph joining without creating canon."
+  - "Narrative House Style v2.0 remains the complete base guide; v2.1 and v2.2 supersede it only where they provide more specific craft rules."
   - "No draft or revision may imitate or closely emulate the recognizable prose of a living author."
   - "The style calibration samples are noncanonical and do not replace accepted prose."
   - "No accepted chapter is marked revised merely by creation of a style guide or revision map."
@@ -102,4 +110,4 @@ migration:
   completed: "2026-07-11"
   active_external_manuscript: false
 
-next_recommended_action: "Apply the House Style v2.1 moderate narrative-density pass to Chapter 3 — The Exit Protocol, using the revised Chapter 2 and accepted Chapter 4 as continuity controls."
+next_recommended_action: "Apply House Style v2.2 to Chapter 3 — The Exit Protocol, using the existing design at docs/superpowers/specs/2026-07-12-chapter-03-narrative-density-design.md, revised Chapter 2, and accepted Chapter 4 as continuity controls."
