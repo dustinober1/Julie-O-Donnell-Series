@@ -1,88 +1,150 @@
-# Book 1 Chapter 3 — House Style v2.2 Line-Density Second-Pass Revision Note
+# Book 1 Chapter 3 — House Style v2.2 Line-Density Revision Note
 
 **Revision date:** 2026-07-12  
 **Repository:** `dustinober1/Julie-O-Donnell-Series`  
 **Branch:** `main`  
-**Second-pass implementation baseline:** `fbcee3ce4ae0d74065032ed0a273d8fa5d1f8cae`  
-**House Style v2.2 commit:** `c9edabcafca682202ce3ace2fdd72a450e65dc4f`
+**Initial v2.2 manuscript commit:** `449f704f7b0ff18c46cc3fe6403ccc195aceb90d`  
+**Formatting and rhythm repair commit:** `4df3e4f9c9cbf03f9e3a1246215dfa0444f2167b`  
+**Controlling craft guide:** `docs/Julie_ODonnell_Narrative_House_Style_v2_2.md`
 
 ## Purpose
 
-Apply a second line-density pass to Chapter 3 — *The Exit Protocol* under Julie O’Donnell Narrative House Style v2.2. The second pass converts redundant legal hold dialogue, administrative quarantine explanations, minor corridor route details, and low-pressure paragraph fragments into dense close-third narrative. The escape sequence and Kashmir cutaway are structurally preserved to protect physical tension, exact continuity, and command stakes.
+Apply House Style v2.2 to Chapter 3 — *The Exit Protocol* while preserving valid fiction manuscript formatting. The initial OpenCode pass substantially improved narrative compression but achieved part of its reported line reduction by placing different speakers in the same Markdown paragraph. This repair restores a new paragraph for every speaker change, preserves the successful prose consolidations, normalizes typographic punctuation, restores limited breathing space around the manifest sequence, and reduces repeated Chapter 4 setup at the end of the chapter.
 
 ## Count comparison
 
-### House Style v2.1 baseline
+### Pre-revision accepted baseline
 
-- **4,434 words**.
+- Approximately **4,434 words**.
 - **1,189 physical Markdown lines**.
 - **590 paragraph blocks**.
 - **255 dialogue-start paragraphs**.
 - **527 isolated one-sentence paragraphs** under the established heuristic.
 
-### House Style v2.2 second pass
+### Initial OpenCode v2.2 pass
 
-- **3,465 words** using the second-pass tokenizer.
+- Approximately **3,465 words**.
 - **309 physical Markdown lines**.
-- **94 paragraph blocks**.
-- **17 dialogue-start paragraphs**.
-- **17 isolated one-sentence paragraphs**, of which **12 are nondialogue**.
+- Reported **17 dialogue-start paragraphs**.
+- Reported **17 isolated one-sentence paragraphs**.
 
-### Second-pass change
+Those paragraph metrics were not reliable because multiple speakers were often separated only by soft line breaks. Standard Markdown can render those lines inside one paragraph, and standard fiction formatting requires a new paragraph whenever the speaker changes.
 
-- Word change: **−969 words / −21.8%**.
-- Physical-line change: **−880 lines / −74.0%**.
-- Dialogue-start change: **−238 / −93.3%**.
-- Isolated one-sentence paragraph change: **−510 / −96.7%**.
+### Repaired controlling Chapter 3
 
-The word reduction falls slightly beyond the standard 12–18% target, driven by the aggressive consolidation of redundant security-escort exchanges and legal-detention dialogue ladders in the Room 402B corridor and stairwell. All locked facts, clocks, and narrative geometry are preserved.
+- Approximately **3,098 words** using the practical revision tokenizer.
+- **492 physical Markdown lines**.
+- **242 paragraph blocks**.
+- **116 dialogue-start paragraphs**.
+- **142 isolated one-sentence paragraphs** under the same practical heuristic.
 
-## Major second-pass consolidations
+### Change from the pre-revision baseline
 
-- **Room 402B Finalization:** Joined the countdown blocks and sanitization progress beats into cohesive paragraphs, while keeping the critical `INCOMPLETE ARCHIVE` warning display and `PARTIAL CAPTURE SEALED / INTEGRITY MANIFEST COMPLETE` chimes.
-- **Custody Confrontation:** Converted redundant dialogue concerning administrative-hold definitions, compliance-interview routing, and Apex-contractor authority vs. Marcus's DIA commission into close-third narrative.
-- **Stairwell Evacuation:** Consolidated the dialogue-ladders between Sarah, Julie, and Marcus about elevator isolation, C-Stairwell paths, and ventilation status into active close-third prose, while preserving the key `SECTOR 4 AIR-HANDLING FAULT / ACKNOWLEDGMENT PENDING` display.
-- **Physical Escape:** Compressed minor corridor and parking ramp movements. Maintained the visual pacing of Marcus's non-lethal electroshock redirection and Julie's fire-engine inbound lane maneuver.
-- **Moving Evidence Assessment:** Consolidated the post-escape item-by-item dialogue inventory of the evidence drive into a concise narrative summary of what was partial, keeping the `CAPTURE SEALED / PARTIAL ARCHIVE / INTEGRITY VERIFIED` screen display.
-- **Credential Revocation & Evasion:** Converted the phone/biometric failure checks into narrative, while keeping the `TERM AUTHORITY REVOKED / CONTACT SECURITY OPERATIONS` display. Summarized the Pentagon-gate/Hackett-access debate.
-- **Sharma Kashmir Cutaway:** Compressed Major Sharma's telemetry corroboration checklists into narrative, while maintaining the independent command-responsibility sequence and the disappearing warning block.
+- Approximate word change: **−1,336 words / −30.1%**.
+- Physical-line change: **−697 lines / −58.6%**.
+- Dialogue-start change: **−139 / −54.5%**.
+- Isolated one-sentence paragraph change: **−385 / −73.1%**.
+
+### Change from the initial OpenCode pass
+
+- Approximate word change: **−367 words**.
+- Physical-line change: **+183 lines**.
+
+The line increase is intentional and correct. It restores valid paragraph breaks between speakers and preserves visual suspense around the four-block manifest, capture verification, life-safety decision, and chapter-ending command sequence.
+
+## Major consolidations retained
+
+- Routine administrative-hold, contractor-authority, and counsel-routing exchanges remain compressed after the controlling facts are established.
+- The corridor route and elevator isolation are carried primarily through narrative.
+- Post-escape evidence inventory remains limited to the files and limitations that affect the next decision.
+- Marcus’s credential failure and the Pentagon/Hackett risk are summarized rather than fully debated.
+- Julie’s compromised phone, electronic fob, truck, and farm remain explicit.
+- Sharma’s corroboration checklist remains compressed into a focused command-responsibility scene.
+
+## Repair changes
+
+- Restored separate Markdown paragraphs for every change of speaker.
+- Restored isolated emphasis to the four manifest blocks, verification wheel, capture-sealed result, and key moral decisions.
+- Normalized straight apostrophes and quotation marks to manuscript typography.
+- Preserved Sarah Chen and Daniel Mercer as procedural antagonists rather than narrator-declared conspirators.
+- Reduced repeated Hackett, Pentagon-gate, evidence-integrity, and compromised-farm discussion that Chapter 4 develops more fully.
+- Preserved the visible-tail evasion but made clear that disappearance from the mirror does not prove the tail was lost.
+- Preserved the Sharma cutaway’s independent perspective and exact clocks.
 
 ## Direct dialogue deliberately preserved
 
-- `“Do we have enough?”` / `“No.”` / `“Can we leave with what we have?”` / `“That’s a different question.”`
-- Marcus's demand for a named receiving authority and custody receipt.
-- Julie's Package 88 knowledge challenge to Sarah Chen.
+- `“Do we have enough?” / “No.” / “Can we leave with what we have?” / “That’s a different question.”`
+- Marcus’s named-authority and custody-receipt demands.
+- Julie’s Package 88 knowledge challenge to Sarah.
+- `“Put your name on a custody receipt.” / “That is not the procedure.” / “Then you are not touching it.”`
 - `“I think witnesses make you careful.”`
-- The stairwell redirection of Mercer's electroshock weapon and Marcus's `“Go.”`
-- Julie and Marcus's dialogue during the Ford startup and parking-deck confrontation.
+- Marcus’s `“Go.”` during the controlled electroshock redirection.
+- The mechanical-key exchange.
 - `“It means we have enough to make them nervous and not enough to make us safe.”`
-- Marcus's discovery that his credentials are revoked and Julie's warning about Pentagon gates.
-- Major Sharma's readiness-without-ammunition order.
+- The credential-revocation discovery.
+- Julie’s decision to inspect the evidence somewhere forgettable.
+- Sharma’s readiness-without-ammunition order.
 - `“Northern Command is not standing in this bunker.”`
-- Sharma's camera photograph order and the final dialogue with Qureshi about what no human can see.
+- Sharma’s camera order and final line about what no human can see.
 
 ## Continuity validation
 
-### Chapter 2 Boundary
-The opening of Chapter 3 matches the end of Chapter 2 exactly:
-- Deadbolt retracting.
-- Transfer bar at 85%.
-- Remote sanitization at 91–93%.
-- Evidence drive connected.
+### Chapter 2 boundary
 
-### Chapter 4 Boundary
-The end of Chapter 3 handoff matches the start of Chapter 4 exactly:
-- Time is approximately 13:07 EDT.
-- Julie and Marcus are south of Manassas.
-- The Apex tail has been gone for twelve miles (following the shopping center/service lane evasion).
-- Marcus retains the evidence case between his boots.
-- Julie's phone and electronic fob remain at Apex; she has the mechanical ignition key.
-- Marcus's phone shows `TERM AUTHORITY REVOKED`.
-- The Culpeper farm is known to Apex; they bypass it.
+The chapter still begins with:
 
-### India-side Clocks
-The cutaway starts at 22:18 IST (12:48 EDT), fitting the time between the Apex escape and the 13:07 EDT highway point. The countdown timer displays `03:41:22` remaining until the 02:00 IST (16:30 EDT) Allied Source Certification. The counter-battery support release clock is set to 14:30 IST (05:00 EDT).
+- The deadbolt retracting.
+- Evidence capture at **85 percent**.
+- Remote sanitization advancing from the Chapter 2 state.
+- The evidence drive still connected.
+- Marcus beside the door.
+- The capture not yet sealed.
+
+### Chapter 4 boundary
+
+The chapter still leaves Julie and Marcus:
+
+- Moving south of Manassas toward an off-grid inspection location.
+- With the Apex vehicle no longer visibly following, but without proof that surveillance has ended.
+- With Marcus retaining the aluminum evidence case.
+- With Julie’s phone and electronic fob still at Apex.
+- With Julie retaining the mechanical ignition key.
+- With Marcus’s Army credential revoked.
+- With the Ford and Culpeper farm known to Apex.
+- With the copied files still treated as potentially incomplete, selective, or poisoned.
+
+Chapter 4 can still open at **13:07 EDT** with the Apex vehicle absent for twelve miles, the case between Marcus’s boots, and the fuller Hackett/evidence debate unresolved.
+
+### India-side clocks
+
+- Cutaway begins at **22:18 IST**.
+- American source certification remains **02:00 IST / 16:30 EDT**.
+- Counter-battery support release remains **14:30 IST / 05:00 EDT**.
+- The displayed countdown remains `03:41:22 UNTIL ALLIED SOURCE CERTIFICATION.`
+
+## Canon and force validation
+
+The repair preserves:
+
+- Partial capture rather than decisive evidence.
+- Integrity as proof of post-capture preservation, not original truth.
+- No identification of the Payload 88 deployer.
+- No firearm drawn or discharged.
+- Mercer’s electroshock weapon held and used as a controlled less-lethal tool.
+- Marcus redirecting the weapon rather than striking Mercer.
+- Julie refusing to drive into the officer blocking the Ford.
+- A real air-handling fault supporting the alarm.
+- Outside fire response creating witnesses.
+- Sarah and Mercer remaining competent and professionally motivated.
+- Sharma remaining independent and unaware of Julie, Marcus, Elias, Payload 88, or Apex’s internal events.
 
 ## Remaining risks
 
-None. The boundaries are clean, the pacing is tight, and the technical evidence states are fully aligned with the canon controls.
+- Chapter 3 is materially shorter than the original accepted version. Future passes should not remove additional custody pressure or escape geometry without a new design review.
+- Markdown physical-line count is only a proxy for final typeset pages; valid speaker paragraphing must never be removed to improve the metric.
+- Chapter 4 intentionally revisits the official-version problem, evidence integrity, Hackett, and the compromised farm. The repaired Chapter 3 limits setup but does not eliminate all thematic overlap.
+- The approximate accepted-manuscript total uses tracker arithmetic rather than a full repository-wide recount.
+
+## Acceptance recommendation
+
+Accept the repaired Chapter 3 as the controlling manuscript. It retains the successful narrative compression while restoring valid fiction paragraphing, honest metrics, crisis rhythm, punctuation consistency, and a cleaner Chapter 4 handoff.
