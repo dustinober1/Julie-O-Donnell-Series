@@ -14,15 +14,15 @@ active_book:
     chapters: "1-12"
     act_i: "complete"
     act_ii: "complete"
-    act_iii: "not drafted"
+    act_iii: "not accepted"
   approximate_manuscript_words: 69965
   endpoint_time:
     eastern: "approximately 07:18 EDT"
     india: "approximately 16:48 IST"
   next_chapter:
     number: 13
-    title: null
-    manuscript_status: "not drafted"
+    title: "The Carrier Stream"
+    manuscript_status: "drafted; not yet promoted to accepted canon"
     dominant_function: "locked: moving physical-custodian identification operation"
     mission_lock: "books/book-01/control/21-chapter-13-mission-lock.md"
     abort_condition: "locked: hard abort at 07:42:30 EDT unless observation and evidence/exfil conditions are both satisfied"
@@ -36,7 +36,10 @@ active_book:
     revision_map: "artifacts/book-01-chapter-revision-map.md"
     revision_note: "artifacts/book-01-narrative-house-style-v2-revision-note.md"
     authority: "craft control only; accepted manuscript and Book 1 canon controls remain superior for facts and continuity"
-    manuscript_revisions_applied: false
+    manuscript_revisions_applied: true
+    revised_chapters:
+      - 12
+    latest_chapter_revision_note: "artifacts/book-01-chapter-12-house-style-v2-revision-note.md"
 
 source_of_truth:
   - rank: 1
@@ -64,7 +67,7 @@ critical_blockers:
     status: "resolved"
     resolved_date: "2026-07-12"
     planning_artifact: "books/book-01/control/21-chapter-13-mission-lock.md"
-    description: "Chapter 13's dominant mission, immediate objective, abort condition, POV structure, cutaway decision, and Act III entry state are accepted and locked as planning. Chapter 13 prose remains undrafted."
+    description: "Chapter 13's dominant mission, immediate objective, abort condition, POV structure, cutaway decision, and Act III entry state are accepted and locked as planning. Chapter 13 prose exists as a draft but is not yet promoted to accepted canon."
 
 production_rules:
   - "The GitHub Markdown manuscript is the sole controlling manuscript."
@@ -74,8 +77,7 @@ production_rules:
   - "No draft or revision may imitate or closely emulate the recognizable prose of a living author."
   - "The style calibration samples are noncanonical and do not replace accepted prose."
   - "No accepted chapter is marked revised by creation of the house-style guide or chapter revision map."
-  - "Chapter 13's locked mission is planning guidance, not accepted prose."
-  - "Do not create chapter-13.md until the dedicated Chapter 13 drafting task."
+  - "Chapter 13's locked mission is planning guidance; its existing prose remains a draft until separately accepted."
   - "Do not identify the physical custodian of SSO-NS-004 without new accepted evidence."
   - "Chapter 14 and later functions remain unlocked; do not treat any full Act III outline as controlling canon."
   - "Plans for unwritten chapters remain non-canon until dramatized and accepted."
@@ -85,4 +87,4 @@ migration:
   completed: "2026-07-11"
   active_external_manuscript: false
 
-next_recommended_action: "Draft Chapter 13 in a fresh context using books/book-01/control/21-chapter-13-mission-lock.md, docs/Julie_ODonnell_Narrative_House_Style_v2.md, and the accepted GitHub manuscript as the controlling sources."
+next_recommended_action: "Continue the reverse-order House Style v2.0 pass with Chapter 11 — Going Offensive, using the accepted GitHub manuscript and Chapter 12 revision as continuity controls."
