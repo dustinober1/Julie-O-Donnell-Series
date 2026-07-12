@@ -10,9 +10,9 @@ Chapter 13 remains undrafted. Act III remains undrafted. Chapter 14 and later fu
 
 ## Exact launch state
 
-**Time:** Approximately 07:18 EDT / 16:48 IST  
-**Location:** Downtown Washington, exact street unstated  
-**Vehicle:** PCF-27  
+**Time:** Approximately 07:18 EDT / 16:48 IST
+**Location:** Downtown Washington, exact street unstated
+**Vehicle:** PCF-27
 **Characters present:** Julie, Marcus, Elias
 
 ## Physical condition
