@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - agent/chapter-13-acceptance-pass
+  pull_request:
+    branches:
+      - main
 
 permissions:
   contents: read
