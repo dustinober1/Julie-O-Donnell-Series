@@ -19,7 +19,10 @@ jobs:
       - name: Reconstruct and validate staged patch
         shell: bash
         run: |
-          cat .tmp/ch13-patch-00 .tmp/ch13-patch-01 | base64 --decode | gzip --decompress > ch13-acceptance.patch
+          {
+            base64 --decode .tmp/ch13-patch-00
+            base64 --decode .tmp/ch13-patch-01
+          } | gzip --decompress > ch13-acceptance.patch
           sha256sum ch13-acceptance.patch | tee ch13-acceptance.patch.sha256
           git apply --stat ch13-acceptance.patch | tee ch13-acceptance.patch.stat
           git apply --check ch13-acceptance.patch
