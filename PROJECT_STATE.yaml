@@ -22,7 +22,12 @@ active_book:
   next_chapter:
     number: 13
     title: null
-    function: "not locked"
+    manuscript_status: "not drafted"
+    dominant_function: "locked: moving physical-custodian identification operation"
+    mission_lock: "books/book-01/control/21-chapter-13-mission-lock.md"
+    abort_condition: "locked: hard abort at 07:42:30 EDT unless observation and evidence/exfil conditions are both satisfied"
+    pov_structure: "locked: Julie-dominant with one short Chen/Mercer pressure cutaway"
+    planned_endpoint: "approximately 07:45-07:46 EDT outside Hartwell, with the physical-custody question unresolved into Chapter 14"
 
 source_of_truth:
   - rank: 1
@@ -30,10 +35,13 @@ source_of_truth:
     role: "Controlling accepted manuscript in GitHub Markdown"
   - rank: 2
     path: "books/book-01/control/"
-    role: "Canon and production controls through Chapter 12"
+    role: "Canon and production controls through Chapter 12 plus locked Chapter 13 planning record"
   - rank: 3
+    path: "PROJECT_STATE.yaml"
+    role: "Navigation and status only"
+  - rank: 4
     path: "README.md"
-    role: "Navigation and summary only"
+    role: "Repository navigation only"
 
 critical_blockers:
   - id: "chapter-5-6-continuity"
@@ -44,14 +52,19 @@ critical_blockers:
     description: "Integrated repair establishes 16:30 allied source certification, 05:00 executable support commit, and the exact L3-7 handoff into Chapter 6."
   - id: "chapter-13-function"
     severity: "high"
-    status: "not locked"
-    description: "The dominant Chapter 13 objective and abort condition have not been selected."
+    status: "resolved"
+    resolved_date: "2026-07-12"
+    planning_artifact: "books/book-01/control/21-chapter-13-mission-lock.md"
+    description: "Chapter 13's dominant mission, immediate objective, abort condition, POV structure, cutaway decision, and Act III entry state are accepted and locked as planning. Chapter 13 prose remains undrafted."
 
 production_rules:
   - "The GitHub Markdown manuscript is the sole controlling manuscript."
   - "Accepted manuscript prose outranks all summaries and plans."
   - "The accepted Chapter 5-6 repair is explicit canon; any later alteration requires a documented manuscript-and-control-pack revision."
+  - "Chapter 13's locked mission is planning guidance, not accepted prose."
+  - "Do not create chapter-13.md until the dedicated Chapter 13 drafting task."
   - "Do not identify the physical custodian of SSO-NS-004 without new accepted evidence."
+  - "Chapter 14 and later functions remain unlocked; do not treat any full Act III outline as controlling canon."
   - "Plans for unwritten chapters remain non-canon until dramatized and accepted."
 
 migration:
@@ -59,4 +72,4 @@ migration:
   completed: "2026-07-11"
   active_external_manuscript: false
 
-next_recommended_action: "Lock Chapter 13’s dominant mission and abort condition, then plan Act III from the accepted Chapter 12 endpoint."
+next_recommended_action: "Draft Chapter 13 in a fresh context using books/book-01/control/21-chapter-13-mission-lock.md and the accepted GitHub manuscript as the sole source of truth."
