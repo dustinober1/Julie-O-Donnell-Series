@@ -1,16 +1,16 @@
 # Book 1 Manuscript Status
 
-**Repository source:** GitHub Markdown manuscript
-**Migration date:** July 11, 2026
-**Canon endpoint:** End of Chapter 12, approximately 07:18 EDT / 16:48 IST
-**Approximate manuscript length:** 69,965 words
-**Act I:** Complete
-**Act II:** Complete
-**Act III:** Not drafted
+**Repository source:** GitHub Markdown manuscript  
+**Migration date:** July 11, 2026  
+**Canon endpoint:** End of Chapter 12, approximately 07:18 EDT / 16:48 IST  
+**Approximate accepted-manuscript length:** 66,333 words  
+**Act I:** Complete  
+**Act II:** Complete  
+**Act III:** Drafting begun; no Act III chapter has been promoted to accepted canon
 
 ## Accepted files
 
-- Prologue: accepted.
+- Prologue: accepted; House Style v2.1 narrative-density revision applied.
 - Chapter 1: **The Official Version** — accepted.
 - Chapter 2: **The Poisoned Feed** — accepted.
 - Chapter 3: **The Exit Protocol** — accepted.
@@ -22,23 +22,32 @@
 - Chapter 9: **The Life-Safety Override** — accepted.
 - Chapter 10: **The Capital Connection** — accepted.
 - Chapter 11: **Going Offensive** — accepted.
-- Chapter 12: **The Sterling Trap** — accepted.
+- Chapter 12: **The Sterling Trap** — accepted; House Style revision applied.
 
-## Planned but not drafted
+## Drafted but not accepted
 
-- Chapter 13: title not locked; manuscript file not created.
+- Chapter 13: **The Carrier Stream** — complete draft exists at `chapters/chapter-13.md`; not yet promoted to accepted canon.
 - Dominant Chapter 13 mission: **moving physical-custodian identification operation**.
 - Mission lock artifact: `../control/21-chapter-13-mission-lock.md`.
 - Abort condition: hard abort at **07:42:30 EDT** unless the observation and evidence/exfiltration conditions are both satisfied.
 - POV structure: Julie-dominant with one short Chen/Mercer pressure cutaway.
 - Planned Chapter 13 endpoint: approximately 07:45–07:46 EDT outside Hartwell, with the physical-custody question unresolved into Chapter 14.
 
+## Revision status
+
+- Current craft control: `../../../docs/Julie_ODonnell_Narrative_House_Style_v2_1.md`.
+- Complete base guide retained at `../../../docs/Julie_ODonnell_Narrative_House_Style_v2.md`.
+- Revised accepted sections: Prologue and Chapter 12.
+- Prologue revision note: `../../../artifacts/book-01-prologue-house-style-v2-1-revision-note.md`.
+- Chapter 12 revision note: `../../../artifacts/book-01-chapter-12-house-style-v2-revision-note.md`.
+- Next recommended revision: Chapter 1 — **The Official Version**.
+
 ## Open blockers
 
-- No current blocker to drafting Chapter 13 from the accepted GitHub manuscript and the Chapter 13 mission-lock document.
-- Chapter 13 prose remains undrafted.
-- Act III remains undrafted.
+- No blocker prevents continued House Style v2.1 revision work on accepted chapters.
+- Chapter 13 requires a separate acceptance and continuity review before it can control later canon.
 - Chapter 14 and later functions remain unlocked.
+- Act III remains unaccepted beyond the Chapter 13 draft.
 
 ## Repair status
 
@@ -52,4 +61,4 @@ The package at `../repairs/chapter-05-to-06-continuity-repair/` is **accepted an
 
 ## Production rule
 
-Future accepted manuscript additions and revisions must be committed to these GitHub Markdown files. Do not maintain a competing manuscript in Google Docs. The Chapter 13 mission lock is a planning record only; it does not add accepted prose and does not create `chapter-13.md`.
+Future accepted manuscript additions and revisions must be committed to these GitHub Markdown files. Do not maintain a competing manuscript in Google Docs. Planning records and unaccepted chapter drafts do not create canon until separately reviewed and promoted.
