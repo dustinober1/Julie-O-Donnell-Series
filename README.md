@@ -9,13 +9,13 @@ Repository for the Julie O’Donnell contemporary geopolitical techno-thriller /
 - Acts I and II: complete
 - Act III: not drafted
 - Canon endpoint: approximately 07:18 EDT / 16:48 IST at the end of Chapter 12
-- Next planned chapter: Chapter 13; title and dominant objective not yet locked
+- Next planned chapter: Chapter 13; title not locked; dominant mission, abort condition, POV structure, and Act III launch state locked in `books/book-01/control/21-chapter-13-mission-lock.md`
 - Controlling manuscript: GitHub Markdown files in `books/book-01/manuscript/`
 
 ## Source-of-truth hierarchy
 
 1. `books/book-01/manuscript/` — accepted manuscript prose and controlling story truth.
-2. `books/book-01/control/` — continuity, evidence, technology, character, timeline, and production controls through Chapter 12.
+2. `books/book-01/control/` — continuity, evidence, technology, character, timeline, production controls, and locked planning records through the Chapter 13 mission lock.
 3. `PROJECT_STATE.yaml` and this README — navigation and status only.
 
 If any repository document conflicts with the accepted manuscript prose, the accepted manuscript controls and the subordinate document must be corrected.
@@ -36,6 +36,7 @@ Permanent repair history:
 `books/book-01/repairs/chapter-05-to-06-continuity-repair/`
 
 Integration commit: `f6d49cbeae2b2f23daac55dc0bacfeb040428f5f`
+
 ## Repository layout
 
 ```text
@@ -45,13 +46,13 @@ Integration commit: `f6d49cbeae2b2f23daac55dc0bacfeb040428f5f`
 └── books/
     └── book-01/
         ├── manuscript/    # Controlling Prologue and Chapters 1–12 in Markdown
-        ├── control/       # Canon Control Pack, updated through the integrated repair
+        ├── control/       # Canon Control Pack and Chapter 13 mission lock
         └── repairs/       # Permanent accepted manuscript-repair records
 ```
 
-## Immediate next decisions
+## Immediate next action
 
-- Lock Chapter 13’s dominant mission and abort condition.
-- Decide whether Chapter 13 includes a K-17 or Sharma cutaway.
+- Draft Chapter 13 in a fresh context using the locked mission document and the accepted GitHub manuscript as the sole source of truth.
+- Do not create or treat any full Act III chapter-by-chapter outline as controlling canon.
 - Keep the physical custodian of SSO-NS-004 unresolved until established by evidence in accepted prose.
-- Keep Act III undrafted until the Chapter 13 mission is approved.
+- Keep Act III undrafted until Chapter 13 prose is drafted and accepted.
