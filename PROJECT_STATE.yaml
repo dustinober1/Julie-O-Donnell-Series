@@ -28,6 +28,15 @@ active_book:
     abort_condition: "locked: hard abort at 07:42:30 EDT unless observation and evidence/exfil conditions are both satisfied"
     pov_structure: "locked: Julie-dominant with one short Chen/Mercer pressure cutaway"
     planned_endpoint: "approximately 07:45-07:46 EDT outside Hartwell, with the physical-custody question unresolved into Chapter 14"
+  narrative_house_style:
+    version: "2.0"
+    status: "locked for new chapter production and later separately authorized revision passes"
+    guide: "docs/Julie_ODonnell_Narrative_House_Style_v2.md"
+    calibration: "artifacts/book-01-style-calibration.md"
+    revision_map: "artifacts/book-01-chapter-revision-map.md"
+    revision_note: "artifacts/book-01-narrative-house-style-v2-revision-note.md"
+    authority: "craft control only; accepted manuscript and Book 1 canon controls remain superior for facts and continuity"
+    manuscript_revisions_applied: false
 
 source_of_truth:
   - rank: 1
@@ -61,6 +70,10 @@ production_rules:
   - "The GitHub Markdown manuscript is the sole controlling manuscript."
   - "Accepted manuscript prose outranks all summaries and plans."
   - "The accepted Chapter 5-6 repair is explicit canon; any later alteration requires a documented manuscript-and-control-pack revision."
+  - "Julie O'Donnell Narrative House Style v2.0 controls prose craft, pacing, scene construction, exposition, and originality safeguards without creating canon."
+  - "No draft or revision may imitate or closely emulate the recognizable prose of a living author."
+  - "The style calibration samples are noncanonical and do not replace accepted prose."
+  - "No accepted chapter is marked revised by creation of the house-style guide or chapter revision map."
   - "Chapter 13's locked mission is planning guidance, not accepted prose."
   - "Do not create chapter-13.md until the dedicated Chapter 13 drafting task."
   - "Do not identify the physical custodian of SSO-NS-004 without new accepted evidence."
@@ -72,4 +85,4 @@ migration:
   completed: "2026-07-11"
   active_external_manuscript: false
 
-next_recommended_action: "Draft Chapter 13 in a fresh context using books/book-01/control/21-chapter-13-mission-lock.md and the accepted GitHub manuscript as the sole source of truth."
+next_recommended_action: "Draft Chapter 13 in a fresh context using books/book-01/control/21-chapter-13-mission-lock.md, docs/Julie_ODonnell_Narrative_House_Style_v2.md, and the accepted GitHub manuscript as the controlling sources."
