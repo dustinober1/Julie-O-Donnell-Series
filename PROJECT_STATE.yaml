@@ -15,7 +15,7 @@ active_book:
     act_i: "complete"
     act_ii: "complete"
     act_iii: "not accepted; Chapter 13 exists as a draft"
-  approximate_manuscript_words: 61485
+  approximate_manuscript_words: 61118
   endpoint_time:
     eastern: "approximately 07:18 EDT"
     india: "approximately 16:48 IST"
