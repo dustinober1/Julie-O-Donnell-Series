@@ -1,24 +1,31 @@
-name: Temporary baseline tree export
+name: Temporary Chapter 13 patch export
 
 on:
-  pull_request:
+  push:
     branches:
-      - main
+      - agent/chapter-13-acceptance-pass
+
+permissions:
+  contents: read
 
 jobs:
   export:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Resolve baseline tree
+      - name: Reconstruct and validate staged patch
         shell: bash
         run: |
-          git fetch --no-tags --depth=1 origin a426b7c98867dfb939ca5f406830126e89307f44
-          git rev-parse 'a426b7c98867dfb939ca5f406830126e89307f44^{tree}' > baseline-tree.txt
-          cat baseline-tree.txt
-      - name: Upload baseline tree
+          cat .tmp/ch13-patch-00 .tmp/ch13-patch-01 | base64 --decode | gzip --decompress > ch13-acceptance.patch
+          sha256sum ch13-acceptance.patch | tee ch13-acceptance.patch.sha256
+          git apply --stat ch13-acceptance.patch | tee ch13-acceptance.patch.stat
+          git apply --check ch13-acceptance.patch
+      - name: Upload staged patch
         uses: actions/upload-artifact@v4
         with:
-          name: baseline-tree
-          path: baseline-tree.txt
+          name: ch13-acceptance-patch
+          path: |
+            ch13-acceptance.patch
+            ch13-acceptance.patch.sha256
+            ch13-acceptance.patch.stat
           if-no-files-found: error
