@@ -140,6 +140,17 @@ jobs:
               if count != 1:
                   raise SystemExit(f'{label}: expected one payload literal, found {count}')
               script = script.replace(old, new, 1)
+
+          old_evidence_block = '''for value in ["136", "47", "311"]:
+              assert_contains(final_ch5, value, f"Chapter 5 evidence count {value}")
+              assert_contains(read(CHAPTER_DIR / "chapter-08.md"), value, f"Chapter 8 evidence count {value}")'''
+          new_evidence_block = '''evidence_ledger = read("books/book-01/control/08-evidence-and-chain-of-custody-ledger.md")
+          for value in ["136", "47", "311"]:
+              assert_contains(read(CHAPTER_DIR / "chapter-08.md"), value, f"Chapter 8 evidence count {value}")
+              assert_contains(evidence_ledger, value, f"evidence ledger count {value}")'''
+          if script.count(old_evidence_block) != 1:
+              raise SystemExit(f'evidence count validator: expected one block, found {script.count(old_evidence_block)}')
+          script = script.replace(old_evidence_block, new_evidence_block, 1)
           script_path.write_text(script, encoding='utf-8')
 
           chapter = Path('books/book-01/manuscript/chapters/chapter-04.md').read_text(encoding='utf-8')
@@ -250,7 +261,7 @@ jobs:
         shell: bash
         run: |
           target="${{ github.event.issue.number }}"
-          test -n "$target" || target="9"
+          test -n "$target" || target="10"
           gh issue comment "$target" --repo "${{ github.repository }}" --body "Chapter 5-to-6 integration completed. Integration commit: ${{ steps.commit.outputs.integration_sha }}. Verification commit: ${{ steps.commit.outputs.verification_sha }}. Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
 
       - name: Report failure
@@ -260,7 +271,7 @@ jobs:
         shell: bash
         run: |
           target="${{ github.event.issue.number }}"
-          test -n "$target" || target="9"
+          test -n "$target" || target="10"
           {
             echo "Chapter 5-to-6 integration failed."
             echo
