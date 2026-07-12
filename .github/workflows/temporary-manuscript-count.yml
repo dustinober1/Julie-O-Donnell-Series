@@ -13,7 +13,7 @@ jobs:
       - name: Recount accepted inventory and Chapter 13
         shell: bash
         run: |
-          python3 - <<'PY'
+          python3 - <<'PY' > manuscript-counts.txt
           from pathlib import Path
           import re
 
@@ -40,3 +40,10 @@ jobs:
           chapter = Path('books/book-01/drafts/chapter-13.md').read_text(encoding='utf-8')
           print('CHAPTER13', *(f'{name}={fn(chapter)}' for name, fn in methods.items()))
           PY
+          cat manuscript-counts.txt
+      - name: Upload count report
+        uses: actions/upload-artifact@v4
+        with:
+          name: manuscript-counts
+          path: manuscript-counts.txt
+          if-no-files-found: error
