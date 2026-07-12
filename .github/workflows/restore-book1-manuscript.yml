@@ -20,7 +20,6 @@ jobs:
     if: >-
       github.event_name == 'workflow_dispatch' ||
       (github.event_name == 'issue_comment' &&
-       github.event.issue.pull_request &&
        github.event.comment.body == '/integrate-ch5-6')
     runs-on: ubuntu-latest
     steps:
@@ -75,7 +74,7 @@ jobs:
             python3 -m py_compile /tmp/integrate_ch5_6.py
           } 2>&1 | tee -a /tmp/ch5repair.log
 
-      - name: Adapt embedded Chapter 4 risk sentence
+      - name: Adapt verified payload to live repository state
         shell: bash
         run: |
           set -euo pipefail
@@ -84,18 +83,33 @@ jobs:
 
           script_path = Path('/tmp/integrate_ch5_6.py')
           script = script_path.read_text(encoding='utf-8')
-          old_literal = '"“And even if we succeed, the review may not finish before certification.”",'
-          adapted_old = '"And even if we succeed, the review may not finish before certification.",'
-          new_literal = '"“And even if we succeed, the review may not finish before source certification.”",'
-          adapted_new = '"And even if we succeed, the review may not finish before source certification.",'
-
-          if script.count(old_literal) != 1:
-              raise SystemExit(f'Expected one Chapter 4 old literal, found {script.count(old_literal)}')
-          if script.count(new_literal) != 1:
-              raise SystemExit(f'Expected one Chapter 4 new literal, found {script.count(new_literal)}')
-
-          script = script.replace(old_literal, adapted_old, 1)
-          script = script.replace(new_literal, adapted_new, 1)
+          replacements = [
+              (
+                  'STARTING_HEAD = "01e3590f6da1a860b63666045e50cb55239c0b80"',
+                  'STARTING_HEAD = "24e480148de26e65abf2b217d8ae6fc68832717d"',
+                  'verification-pass starting commit',
+              ),
+              (
+                  'INTEGRATION_DATE = "2026-07-11"',
+                  'INTEGRATION_DATE = "2026-07-12"',
+                  'actual integration date',
+              ),
+              (
+                  '"“And even if we succeed, the review may not finish before certification.”",',
+                  '"And even if we succeed, the review may not finish before certification.",',
+                  'embedded Chapter 4 old sentence',
+              ),
+              (
+                  '"“And even if we succeed, the review may not finish before source certification.”",',
+                  '"And even if we succeed, the review may not finish before source certification.",',
+                  'embedded Chapter 4 new sentence',
+              ),
+          ]
+          for old, new, label in replacements:
+              count = script.count(old)
+              if count != 1:
+                  raise SystemExit(f'{label}: expected one payload literal, found {count}')
+              script = script.replace(old, new, 1)
           script_path.write_text(script, encoding='utf-8')
 
           chapter = Path('books/book-01/manuscript/chapters/chapter-04.md').read_text(encoding='utf-8')
@@ -205,7 +219,9 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         shell: bash
         run: |
-          gh pr comment 4 --repo "${{ github.repository }}" --body "Chapter 5-to-6 integration completed. Integration commit: ${{ steps.commit.outputs.integration_sha }}. Verification commit: ${{ steps.commit.outputs.verification_sha }}. Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          target="${{ github.event.issue.number }}"
+          test -n "$target" || target="6"
+          gh issue comment "$target" --repo "${{ github.repository }}" --body "Chapter 5-to-6 integration completed. Integration commit: ${{ steps.commit.outputs.integration_sha }}. Verification commit: ${{ steps.commit.outputs.verification_sha }}. Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
 
       - name: Report failure
         if: failure()
@@ -213,6 +229,8 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         shell: bash
         run: |
+          target="${{ github.event.issue.number }}"
+          test -n "$target" || target="6"
           {
             echo "Chapter 5-to-6 integration failed."
             echo
@@ -225,4 +243,4 @@ jobs:
             echo
             echo '```'
           } > /tmp/failure-comment.md
-          gh pr comment 4 --repo "${{ github.repository }}" --body-file /tmp/failure-comment.md
+          gh issue comment "$target" --repo "${{ github.repository }}" --body-file /tmp/failure-comment.md
