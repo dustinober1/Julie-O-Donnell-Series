@@ -119,6 +119,16 @@ jobs:
                   'assert_contains(final_ch5, "SCHEDULED: 16:30 EDT / 02:00 IST", "Chapter 5 certification event")',
                   'accepted source-certification timestamp assertion',
               ),
+              (
+                  'assert_contains(final_ch5, "05:00 Eastern Daylight Time", "Chapter 5 support clock")',
+                  'assert_contains(final_ch5, "EXTERNAL COMMIT: 05:00 EDT / 14:30 IST", "Chapter 5 support clock")',
+                  'accepted EDT support-clock assertion',
+              ),
+              (
+                  'assert_contains(final_ch5, "14:30 Indian Standard Time", "Chapter 5 IST support clock")',
+                  'assert_contains(final_ch5, "EXTERNAL COMMIT: 05:00 EDT / 14:30 IST", "Chapter 5 IST support clock")',
+                  'accepted IST support-clock assertion',
+              ),
           ]
           for old, new, label in replacements:
               count = script.count(old)
@@ -235,7 +245,7 @@ jobs:
         shell: bash
         run: |
           target="${{ github.event.issue.number }}"
-          test -n "$target" || target="7"
+          test -n "$target" || target="8"
           gh issue comment "$target" --repo "${{ github.repository }}" --body "Chapter 5-to-6 integration completed. Integration commit: ${{ steps.commit.outputs.integration_sha }}. Verification commit: ${{ steps.commit.outputs.verification_sha }}. Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
 
       - name: Report failure
@@ -245,7 +255,7 @@ jobs:
         shell: bash
         run: |
           target="${{ github.event.issue.number }}"
-          test -n "$target" || target="7"
+          test -n "$target" || target="8"
           {
             echo "Chapter 5-to-6 integration failed."
             echo
