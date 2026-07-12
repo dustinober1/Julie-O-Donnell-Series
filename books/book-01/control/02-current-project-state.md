@@ -13,7 +13,7 @@
 | Current endpoint | Downtown Washington, approximately 07:18 EDT |
 | Next chapter title | Not locked |
 | Full Act III outline | No controlling full outline located |
-| Chapter 5-to-6 continuity | Resolved and integrated on 2026-07-12; commit `__INTEGRATION_COMMIT_SHA__` |
+| Chapter 5-to-6 continuity | Resolved and integrated on 2026-07-12; commit `f6d49cbeae2b2f23daac55dc0bacfeb040428f5f` |
 
 ## Integrated Chapter 5-to-6 state
 

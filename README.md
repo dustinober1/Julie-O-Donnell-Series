@@ -35,7 +35,7 @@ Permanent repair history:
 
 `books/book-01/repairs/chapter-05-to-06-continuity-repair/`
 
-Integration commit: `__INTEGRATION_COMMIT_SHA__`
+Integration commit: `f6d49cbeae2b2f23daac55dc0bacfeb040428f5f`
 ## Repository layout
 
 ```text

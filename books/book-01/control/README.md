@@ -1,6 +1,6 @@
 # Canon Control Pack v2.0
 
-Split by section for review and version control. The accepted manuscript always outranks the control pack. Version 2.0 incorporates the accepted Chapter 5-to-6 timeline and L3-7 handoff repair integrated on 2026-07-12 in `__INTEGRATION_COMMIT_SHA__`.
+Split by section for review and version control. The accepted manuscript always outranks the control pack. Version 2.0 incorporates the accepted Chapter 5-to-6 timeline and L3-7 handoff repair integrated on 2026-07-12 in `f6d49cbeae2b2f23daac55dc0bacfeb040428f5f`.
 
 - [Overview](00-overview.md)
 - [1. DOCUMENT PURPOSE AND USE](01-document-purpose-and-use.md)

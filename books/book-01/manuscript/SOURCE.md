@@ -13,6 +13,6 @@ If the manuscript conflicts with a summary, tracker, outline, repair proposal, o
 
 ## Accepted continuity repair
 
-The Chapter 5-to-6 continuity repair was accepted and integrated on 2026-07-12. The permanent repair record is stored at `../repairs/chapter-05-to-06-continuity-repair/`, and the integration commit is `__INTEGRATION_COMMIT_SHA__`.
+The Chapter 5-to-6 continuity repair was accepted and integrated on 2026-07-12. The permanent repair record is stored at `../repairs/chapter-05-to-06-continuity-repair/`, and the integration commit is `f6d49cbeae2b2f23daac55dc0bacfeb040428f5f`.
 
 GitHub was the sole working environment for the integration. The former Google Doc was not accessed and remains non-controlling historical migration provenance.

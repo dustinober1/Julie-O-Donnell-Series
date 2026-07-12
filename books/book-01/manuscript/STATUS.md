@@ -32,7 +32,7 @@
 The package at `../repairs/chapter-05-to-06-continuity-repair/` is **accepted and integrated**.
 
 - Integration date: 2026-07-12
-- Integration commit: `__INTEGRATION_COMMIT_SHA__`
+- Integration commit: `f6d49cbeae2b2f23daac55dc0bacfeb040428f5f`
 - Chapter 5 title: **The Second Clock**
 - Chapter 6 prose change: none
 - Final architecture: 16:30 source certification; 05:00 support commit

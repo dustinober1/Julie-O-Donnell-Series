@@ -2,7 +2,7 @@
 
 ## Resolved pre-Act-III continuity state
 
-The Chapter 5-to-6 chronology and physical handoff were repaired and integrated on 2026-07-12 in commit `__INTEGRATION_COMMIT_SHA__`. It is no longer an Act III blocker. Chapter 13’s precise mission, abort condition, and POV/cutaway choice remain planning decisions and are not locked by this repair.
+The Chapter 5-to-6 chronology and physical handoff were repaired and integrated on 2026-07-12 in commit `f6d49cbeae2b2f23daac55dc0bacfeb040428f5f`. It is no longer an Act III blocker. Chapter 13’s precise mission, abort condition, and POV/cutaway choice remain planning decisions and are not locked by this repair.
 
 ## Exact launch state
 

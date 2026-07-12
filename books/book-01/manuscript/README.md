@@ -39,7 +39,7 @@ If any summary, tracker, outline, repair proposal, or control document conflicts
 
 ## Integrated continuity state
 
-The accepted Chapter 5-to-6 repair was integrated on 2026-07-12 in commit `__INTEGRATION_COMMIT_SHA__`.
+The accepted Chapter 5-to-6 repair was integrated on 2026-07-12 in commit `f6d49cbeae2b2f23daac55dc0bacfeb040428f5f`.
 
 Chapter 5 now ends at shutter L3-7 in the exact physical state required by the unchanged Chapter 6 opening. The two-stage deadline architecture is:
 

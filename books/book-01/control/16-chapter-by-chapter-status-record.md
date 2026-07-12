@@ -88,7 +88,7 @@
 - **Character changes:** Elias continues resisting Vance and joins voluntarily; Julie and Marcus maintain pressure without sleep, treatment, or recovery; no Chapter 6 injury occurs early.
 - **Ending hook:** L3-7 descends above Elias and Julie while Marcus remains last beside the white-strobed recovery door.
 - **Continuity carried:** Chapter 6 begins in the next seconds with the same location, shutter, positions, pursuit, case, tool bag, and red emergency strobes.
-- **Revision status:** Accepted repair integrated in commit `__INTEGRATION_COMMIT_SHA__`.
+- **Revision status:** Accepted repair integrated in commit `f6d49cbeae2b2f23daac55dc0bacfeb040428f5f`.
 
 ## Chapter 6 — The Descent
 

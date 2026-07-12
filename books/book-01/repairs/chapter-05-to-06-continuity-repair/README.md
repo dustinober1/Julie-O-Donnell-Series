@@ -3,7 +3,7 @@
 **Status:** Accepted and integrated
 **Integration date:** 2026-07-12
 **Starting commit:** `454c925adb3a66c8a5f3556128e030856c83de13`
-**Final integration commit:** `__INTEGRATION_COMMIT_SHA__`
+**Final integration commit:** `f6d49cbeae2b2f23daac55dc0bacfeb040428f5f`
 **Metadata commit:** Recorded by the immediately following Git commit so the immutable integration SHA could be written into the repository.
 
 ## Authority
@@ -77,4 +77,4 @@ All affected root, manuscript-status, canon-lock, timeline, character, evidence,
 
 No architectural deviation was required. Localized changes were limited to consequential deadline labels, the staging-distance correction, documentation integration, and removal of obsolete migration machinery.
 
-The integration SHA cannot be embedded in the commit that creates itself. The workflow therefore creates the manuscript/control integration commit first, then creates one metadata-only commit that replaces `__INTEGRATION_COMMIT_SHA__` with the exact immutable integration SHA.
+The integration SHA cannot be embedded in the commit that creates itself. The workflow therefore creates the manuscript/control integration commit first, then creates one metadata-only commit that replaces `f6d49cbeae2b2f23daac55dc0bacfeb040428f5f` with the exact immutable integration SHA.

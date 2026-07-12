@@ -92,7 +92,7 @@ The repair creates a continuous sequence:
 **Status:** Accepted and integrated
 **Integration date:** 2026-07-12
 **Starting commit:** `454c925adb3a66c8a5f3556128e030856c83de13`
-**Final integration commit:** `__INTEGRATION_COMMIT_SHA__`
+**Final integration commit:** `f6d49cbeae2b2f23daac55dc0bacfeb040428f5f`
 **Controlling manuscript:** GitHub Markdown in `books/book-01/manuscript/`
 **Google Docs accessed:** No
 **Chapter 5 title:** The Second Clock
@@ -108,4 +108,4 @@ The repair creates a continuous sequence:
 
 The final GitHub manuscript was validated after integration. Chapters 6–12 remained byte-for-byte unchanged. The final Chapter 5 page and Chapter 6 opening form one continuous action at L3-7. All accepted downstream clocks, injuries, evidence limitations, K-17 uncertainty, Hartwell timing, Phase B timing, and Chapter 12 endpoint remain intact.
 
-Integration commit: `__INTEGRATION_COMMIT_SHA__`.
+Integration commit: `f6d49cbeae2b2f23daac55dc0bacfeb040428f5f`.

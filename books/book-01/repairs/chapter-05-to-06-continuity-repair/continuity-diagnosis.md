@@ -56,7 +56,7 @@ Use the two-stage deadline and delayed same-route reentry repair. Replace the la
 **Status:** Accepted and integrated
 **Integration date:** 2026-07-12
 **Starting commit:** `454c925adb3a66c8a5f3556128e030856c83de13`
-**Final integration commit:** `__INTEGRATION_COMMIT_SHA__`
+**Final integration commit:** `f6d49cbeae2b2f23daac55dc0bacfeb040428f5f`
 **Controlling manuscript:** GitHub Markdown in `books/book-01/manuscript/`
 **Google Docs accessed:** No
 **Chapter 5 title:** The Second Clock

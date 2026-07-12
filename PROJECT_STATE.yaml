@@ -40,7 +40,7 @@ critical_blockers:
     severity: "critical"
     status: "resolved"
     resolved_date: "2026-07-12"
-    integration_commit: "__INTEGRATION_COMMIT_SHA__"
+    integration_commit: "f6d49cbeae2b2f23daac55dc0bacfeb040428f5f"
     description: "Integrated repair establishes 16:30 allied source certification, 05:00 executable support commit, and the exact L3-7 handoff into Chapter 6."
   - id: "chapter-13-function"
     severity: "high"
