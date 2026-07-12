@@ -30,6 +30,8 @@ jobs:
           : > /tmp/ch5repair.log
           echo "event=${{ github.event_name }}" | tee -a /tmp/ch5repair.log
           echo "trigger_sha=${{ github.sha }}" | tee -a /tmp/ch5repair.log
+          echo "run_id=${{ github.run_id }}" | tee -a /tmp/ch5repair.log
+          echo "run_url=${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" | tee -a /tmp/ch5repair.log
 
       - name: Check out main
         uses: actions/checkout@v4
@@ -37,10 +39,16 @@ jobs:
           ref: main
           fetch-depth: 0
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
+      - name: Confirm runner and checkout
+        shell: bash
+        run: |
+          set -euo pipefail
+          {
+            echo "checkout_succeeded"
+            git status --short --branch
+            git rev-parse HEAD
+            python3 --version
+          } 2>&1 | tee -a /tmp/ch5repair.log
 
       - name: Fetch and verify integration payload
         shell: bash
@@ -53,6 +61,7 @@ jobs:
               grep '^tools/.ch5repair/source-' |
               sort
             )
+            echo "payload_parts=${#parts[@]}"
             test "${#parts[@]}" -eq 12
             : > /tmp/integrate_ch5_6.py
             for part in "${parts[@]}"; do
@@ -62,14 +71,14 @@ jobs:
             actual_hash="$(sha256sum /tmp/integrate_ch5_6.py | awk '{print $1}')"
             echo "payload_sha256=$actual_hash"
             echo "recorded_sha256=ea90a17181d0331ed9a44dddd19edbef175f6f4570ff54b9d6a5773234ad676c"
-            python -m py_compile /tmp/integrate_ch5_6.py
+            python3 -m py_compile /tmp/integrate_ch5_6.py
           } 2>&1 | tee -a /tmp/ch5repair.log
 
       - name: Apply and validate repair
         shell: bash
         run: |
           set -euo pipefail
-          python /tmp/integrate_ch5_6.py 2>&1 | tee -a /tmp/ch5repair.log
+          python3 /tmp/integrate_ch5_6.py 2>&1 | tee -a /tmp/ch5repair.log
 
       - name: Commit integration and record immutable SHA
         id: commit
@@ -87,7 +96,7 @@ jobs:
             integration_sha="$(git rev-parse HEAD)"
             echo "integration_sha=$integration_sha" >> "$GITHUB_OUTPUT"
 
-            python - "$integration_sha" <<'PY'
+            python3 - "$integration_sha" <<'PY'
           from pathlib import Path
           import sys
 
@@ -164,7 +173,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         shell: bash
         run: |
-          gh pr comment 4 --repo "${{ github.repository }}" --body "Chapter 5-to-6 integration completed. Integration commit: ${{ steps.commit.outputs.integration_sha }}. Verification commit: ${{ steps.commit.outputs.verification_sha }}."
+          gh pr comment 4 --repo "${{ github.repository }}" --body "Chapter 5-to-6 integration completed. Integration commit: ${{ steps.commit.outputs.integration_sha }}. Verification commit: ${{ steps.commit.outputs.verification_sha }}. Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
 
       - name: Report failure
         if: failure()
@@ -173,7 +182,11 @@ jobs:
         shell: bash
         run: |
           {
-            echo "Chapter 5-to-6 integration failed. Diagnostic tail:"
+            echo "Chapter 5-to-6 integration failed."
+            echo
+            echo "Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+            echo
+            echo "Diagnostic tail:"
             echo
             echo '```text'
             tail -c 50000 /tmp/ch5repair.log || true
