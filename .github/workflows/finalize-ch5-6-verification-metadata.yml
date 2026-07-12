@@ -1,0 +1,61 @@
+name: Finalize Chapter 5-6 verification metadata
+
+on:
+  issue_comment:
+    types:
+      - created
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  finalize:
+    if: github.event.comment.body == '/finalize-ch5-6-metadata'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Correct final verification metadata and self-remove
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          from pathlib import Path
+
+          changes = {
+              Path('README.md'): (
+                  'The chronology, deadline, geography, and immediate physical handoff between Chapters 5 and 6 were repaired and integrated on July 11, 2026.',
+                  'The chronology, deadline, geography, and immediate physical handoff between Chapters 5 and 6 were repaired and integrated on July 12, 2026.',
+              ),
+              Path('PROJECT_STATE.yaml'): (
+                  'last_updated: "2026-07-11"',
+                  'last_updated: "2026-07-12"',
+              ),
+              Path('books/book-01/repairs/chapter-05-to-06-continuity-repair/README.md'): (
+                  '**Metadata commit:** Recorded by the immediately following Git commit so the immutable integration SHA could be written into the repository.',
+                  '**Metadata commit:** `73db36268aa954787c10135c921611e81a1f2c93`',
+              ),
+          }
+
+          for path, (old, new) in changes.items():
+              text = path.read_text(encoding='utf-8')
+              if text.count(old) != 1:
+                  raise SystemExit(f'{path}: expected one metadata target, found {text.count(old)}')
+              path.write_text(text.replace(old, new, 1), encoding='utf-8')
+          PY
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git rm .github/workflows/finalize-ch5-6-verification-metadata.yml
+          git add README.md PROJECT_STATE.yaml books/book-01/repairs/chapter-05-to-06-continuity-repair/README.md
+          git diff --cached --check
+          git commit -m "Finalize Chapter 5-6 verification metadata"
+          git push origin HEAD:main
+
+          gh issue comment "${{ github.event.issue.number }}" --repo "${{ github.repository }}" --body "Final Chapter 5-to-6 verification metadata committed and temporary finalizer removed. Commit: $(git rev-parse HEAD)"
