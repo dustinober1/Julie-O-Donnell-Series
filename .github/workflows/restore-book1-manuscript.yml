@@ -95,6 +95,11 @@ jobs:
                   'actual integration date',
               ),
               (
+                  '    p.write_text(text.rstrip() + "\\n", encoding="utf-8")',
+                  '    normalized = "\\n".join(line.rstrip() for line in text.splitlines())\\n    p.write_text(normalized.rstrip() + "\\n", encoding="utf-8")',
+                  'normalize generated Markdown whitespace',
+              ),
+              (
                   '"“And even if we succeed, the review may not finish before certification.”",',
                   '"And even if we succeed, the review may not finish before certification.",',
                   'embedded Chapter 4 old sentence',
@@ -266,7 +271,7 @@ jobs:
         shell: bash
         run: |
           target="${{ github.event.issue.number }}"
-          test -n "$target" || target="12"
+          test -n "$target" || target="13"
           gh issue comment "$target" --repo "${{ github.repository }}" --body "Chapter 5-to-6 integration completed. Integration commit: ${{ steps.commit.outputs.integration_sha }}. Verification commit: ${{ steps.commit.outputs.verification_sha }}. Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
 
       - name: Report failure
@@ -276,7 +281,7 @@ jobs:
         shell: bash
         run: |
           target="${{ github.event.issue.number }}"
-          test -n "$target" || target="12"
+          test -n "$target" || target="13"
           {
             echo "Chapter 5-to-6 integration failed."
             echo
