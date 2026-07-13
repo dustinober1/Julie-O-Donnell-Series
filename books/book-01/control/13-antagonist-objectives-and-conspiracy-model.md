@@ -240,3 +240,9 @@ Tariq’s strategic objective may not require the same public outcome Sterling o
 - Tariq receives no interiority or physical appearance. K-17 access and Phase B remain unconfirmed.
 - The superseding reconstruction removes K-17 anomalies from the actionable allied picture, strengthening the apparent completeness of the official record without proving who ordered it or whether the omitted events were true.
 - Sharma's preservation decision creates a future antagonist vulnerability: multiple products and independent local records survive together.
+
+## Chapter 16 accepted antagonist-model update — 2026-07-13
+
+No new antagonist POV, private motive, or authorship fact is created. Apex's operational interest remains control of evidence handling and interpretation; its counsel continues to assert classification, property, technical necessity, and observer claims. The named hold limits immediate fragmentation without proving who directed the larger operation.
+
+Sterling's public utility from the hostile-insider narrative remains intact. Hartwell custody, compact black case contents, K-17, Phase B, and any reconstruction purpose or authorship remain unresolved.

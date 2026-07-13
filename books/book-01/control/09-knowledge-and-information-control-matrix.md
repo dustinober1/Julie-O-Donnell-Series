@@ -103,3 +103,15 @@ Permanent distinction: reader-visible office registration, hardware response, an
 - **Apex/Mercer:** Know MPD has taken interim custody; they do not possess the originals or Sharma's local record set.
 - **Public:** Continues to know the hostile armed-insider account and visible detention, not the technical meaning of the receipts or Sharma's contradiction.
 - **Permanent limits:** Presenter, exact Hartwell serial, compact-case contents, WSS plaintext, K-17 physical access, Phase B action, reconstruction authorship/purpose, Sterling's personal command, Vance's personal keystrokes, and Tariq's physical presence remain unproved.
+
+## Chapter 16 accepted knowledge update — 2026-07-13
+
+**Julie learns:** Hackett has placed a named preservation hold on incident `187463`; MPD still holds all seven packages; a restricted allied acknowledgment confirms that a challenged incident set and bounded record categories remain under local control.
+
+**Julie does not learn:** Sharma's identity, the Indian no-fire outcome, the allied record contents, unrestricted sensor geography, K-17's physical outcome, or Phase B's meaning.
+
+**Sharma learns:** a named American preservation sponsor requests bounded preservation of product identifiers, source-review/relay references, abort and fire-direction categories, no-fire record categories, and clock notes.
+
+**Sharma does not learn:** Julie's identity, the Washington narrative, the seven MPD package references, or the trio's location.
+
+The chapter establishes no Hartwell presenter, exact challenged serial, compact black case contents, Sterling physical possession, Vance personal keystrokes, Tariq physical presence, K-17 access, Phase B authorization/completion, or reconstruction authorship/purpose/truth.

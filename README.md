@@ -9,38 +9,41 @@ The authoritative production status is [`PROJECT_STATE.yaml`](PROJECT_STATE.yaml
 - Active book: Book 1 — title not yet locked
 - Target length: **100,000–125,000 words**
 - Planning target: **112,500 words**
-- Accepted canon: Prologue and Chapters 1–15
-- Accepted-manuscript length: **81,586 words**
-- Accepted endpoint: **07:56:40 EDT / 17:26:40 IST**
+- Accepted canon: Prologue and Chapters 1–16
+- Accepted-manuscript length: **87,610 words**
+- Accepted endpoint: **08:15:52 EDT / 17:45:52 IST**
 - Chapter 13, **The Carrier Stream**: accepted
 - Chapter 14, **The Witness Line**: accepted
 - Chapter 15, **The Split Record**: accepted after one capitalization-only copyedit at **5,993 words**
-- Chapter 16, **The Hold Order**: first draft complete at **6,024 words**; unaccepted and non-canon
-- Immediate production action: run the formal Chapter 16 acceptance and revision review
+- Chapter 16, **The Hold Order**: accepted unchanged at **6,024 words**
+- Immediate production action: Chapter 17 mission planning and mission locking only
 - Book 1: not publication-ready
 
-## Accepted Chapter 15 endpoint
+## Accepted Chapter 16 endpoint
 
-- Julie is in marked MPD transport under an injury-compatible restraint.
-- Marcus is in guarded ambulance care; his hard abort did not trigger.
-- Elias is in separate guarded medical transport.
-- MPD retains seven separately sealed evidence packages under incident `187463`.
-- The superseding allied product became controlling at 07:54 EDT / 17:24 IST, while Sharma preserved prior, superseding, local anomaly, abort, and no-fire records as one challenged incident set.
-- Hartwell presenter/exact serial, WSS plaintext, K-17 access, Phase B, final federal custody, and public fracture remain unresolved.
+- Hackett is the named federal preservation sponsor for MPD incident `187463`; he is not the physical receiver or technical examiner.
+- MPD retains physical custody of all seven packages, `MPD-901441` through `MPD-901447`.
+- Every package remains separate, sealed, offline, unopened, unconnected, and uncombined.
+- Marcus has placed his complete six-years-ago correction on an attributable record while under EMS authority; EMS ended the call at the medical boundary.
+- Sharma has acknowledged preservation of the bounded challenged allied incident set without deciding either product true or false.
+- Julie knows only that a restricted allied preservation acknowledgment exists; she does not know Sharma's identity or the no-fire outcome.
+- No final federal receiver, technical examiner, public vindication, Hartwell presenter, exact challenged serial, WSS plaintext, K-17 result, or Phase B result exists.
 
-## Chapter 16 first draft
+## Chapter 16 acceptance
 
-Chapter 16 — **The Hold Order** — is controlled by [`books/book-01/control/32-chapter-16-mission-lock.md`](books/book-01/control/32-chapter-16-mission-lock.md) and drafted only at [`books/book-01/drafts/chapter-16.md`](books/book-01/drafts/chapter-16.md).
+Chapter 16 — **The Hold Order** — is accepted at [`books/book-01/manuscript/chapters/chapter-16.md`](books/book-01/manuscript/chapters/chapter-16.md).
 
-- Draft words: **6,024**
-- Draft opening: **07:56:40 EDT / 17:26:40 IST**
-- Draft endpoint: **08:15:52 EDT / 17:45:52 IST**
-- POV: Julie opening and closing, one bounded Marcus ambulance cutaway, and one bounded Sharma cutaway
-- Draft result: Hackett becomes the named preservation sponsor, Marcus makes his attributable correction, MPD retains all seven packages separately sealed and offline, and an allied preservation acknowledgment is linked
-- Canon effect: **none**
-- Review status: formal acceptance and revision review not yet performed
+- Words: **6,024**
+- Opening: **07:56:40 EDT / 17:26:40 IST**
+- Endpoint: **08:15:52 EDT / 17:45:52 IST**
+- POV: Julie, Marcus, Sharma, Julie
+- Verdict: **ACCEPT**
+- Prose changed during review: **No**
+- Reviewed blob: `ff6fbaa66170a03502589309b3d1c2d74b50a289`
+- Mission lock: [`books/book-01/control/32-chapter-16-mission-lock.md`](books/book-01/control/32-chapter-16-mission-lock.md)
+- Acceptance review: [`books/book-01/control/33-chapter-16-acceptance-review.md`](books/book-01/control/33-chapter-16-acceptance-review.md)
 
-The draft does not change accepted prose, the 81,586-word accepted total, or the Chapter 15 canon endpoint. It does not authorize Chapter 17.
+No active Chapter 16 draft remains. Chapter 17 and later prose do not exist.
 
 ## Source-of-truth hierarchy
 
@@ -78,15 +81,14 @@ Accepted prose outranks every summary, tracker, plan, and draft. Draft prose can
 - [Word budget and provisional Act III architecture](books/book-01/control/23-word-budget-and-act-iii-architecture.md)
 - [Thread disposition matrix](books/book-01/control/24-thread-disposition-matrix.md)
 - [Chapter acceptance gate](books/book-01/control/25-chapter-acceptance-gate.md)
-- [Chapter 14 acceptance review](books/book-01/control/29-chapter-14-acceptance-review.md)
-- [Chapter 15 mission lock](books/book-01/control/30-chapter-15-mission-lock.md)
 - [Chapter 15 acceptance review](books/book-01/control/31-chapter-15-acceptance-review.md)
 - [Chapter 16 mission lock](books/book-01/control/32-chapter-16-mission-lock.md)
+- [Chapter 16 acceptance review](books/book-01/control/33-chapter-16-acceptance-review.md)
 - [Series recurring-character ledger](series/recurring-character-ledger.md)
 
-## Chapter 16 rule
+## Chapter 17 rule
 
-Review Chapter 16 only at `books/book-01/drafts/chapter-16.md` against the approved mission lock and acceptance gate. Do not place it in the accepted manuscript, update the accepted inventory, change the 81,586-word accepted total or 07:56:40 EDT / 17:26:40 IST accepted endpoint, draft Chapter 17, or create a complete remainder-of-Act-III outline unless and until Chapter 16 receives an explicit **ACCEPT** verdict and is promoted in a synchronized pass.
+The next session is for **Chapter 17 mission planning and mission locking only** from the accepted Chapter 16 endpoint. Do not draft Chapter 17. Do not create a complete chapter-by-chapter outline for the remainder of Act III.
 
 ## Permanent continuity repair
 

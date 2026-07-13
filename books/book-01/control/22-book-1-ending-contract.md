@@ -145,3 +145,9 @@ Before the final chapter is accepted, answer **yes** to all of the following:
 ## Chapter 15 acceptance implication
 
 Accepted Chapter 15 advances the independent-custody and Sharma-record obligations without satisfying the ending contract prematurely. Seven separately sealed originals now survive in MPD custody outside Vance's exclusive control, and Sharma preserves an independently held contradiction between prior, superseding, and local records. The chapter does not resolve Hartwell presenter custody, Phase B, K-17, WSS plaintext, Marcus's on-record correction, Chen/Mercer final choices, Vance's consequence, or the public narrative fracture. All required Book 1 resolutions remain active and viable.
+
+## Chapter 16 accepted ending-contract progress — 2026-07-13
+
+Chapter 16 advances the required institutional-cost and evidence-survival obligations: Marcus accepts attributable professional/legal cost; Hackett places a named office behind preservation; the seven-object record survives into secure MPD intake; and Sharma's independently controlled record is linked without collapsing uncertainty.
+
+The ending contract is not fulfilled. The final receiver/examiner, technical merits, Hartwell physical chain, WSS plaintext, K-17, Phase B, reconstruction purpose/authorship, public narrative fracture, and final personal/institutional consequences remain open.

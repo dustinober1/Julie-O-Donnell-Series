@@ -101,3 +101,11 @@
 - Chapter 16 remains unaccepted and non-canon until the formal acceptance gate issues **ACCEPT** and a synchronized promotion commit is completed.
 - The next gate is the formal Chapter 16 acceptance and revision review.
 - Chapter 17 and later prose do not exist. Do not draft them from the unaccepted Chapter 16 endpoint.
+
+## Chapter 16 acceptance maintenance record — 2026-07-13
+
+`33-chapter-16-acceptance-review.md` records **ACCEPT** with no prose change at 6,024 words. The reviewed blob `ff6fbaa66170a03502589309b3d1c2d74b50a289` now lives only at `../manuscript/chapters/chapter-16.md`; the draft copy is removed.
+
+The accepted manifest, project state, status files, affected canon ledgers, series character ledger, and validation workflow are synchronized to 87,610 words and the 08:15:52 EDT / 17:45:52 IST endpoint. The validator protects Chapters 14, 15, and 16; requires the Chapter 16 review; prohibits a Chapter 16 draft and Chapter 17 prose; and verifies the accepted total and endpoint.
+
+Next maintenance gate: Chapter 17 mission planning and mission locking only. No Chapter 17 prose or complete remainder-of-Act-III outline is authorized.

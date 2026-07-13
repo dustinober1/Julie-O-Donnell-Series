@@ -54,3 +54,11 @@
 - Julie and Ortiz's procedural trust strengthens without belief, alliance, or technical endorsement.
 - Mercer remains an adversarial professional who respects MPD scene authority and receives no evidence.
 - Sharma remains thematically aligned with Julie but operationally separate; neither knows the other's event.
+
+## Chapter 16 accepted trust update — 2026-07-13
+
+- **Julie ↔ Marcus:** Marcus's correction removes his silence from the institution's available record and materially advances accountability. It is not an apology scene, forgiveness exchange, or restoration of uncomplicated trust.
+- **Julie ↔ Hackett:** trust becomes bounded and procedural. Hackett places his name behind preservation after lawful surrender; he does not clear Julie, take custody, or accept technical conclusions.
+- **Julie ↔ Ortiz / MPD:** Ortiz demonstrates procedural reliability by demanding a complete named receiver. He does not become Julie's ally or adopt her technical interpretation.
+- **Hackett ↔ Sharma / allied record:** the relationship is record-to-record only through a bounded preservation route. No direct personal trust or knowledge transfer is established.
+- **Julie ↔ Sharma:** no contact and no identity knowledge. The linked acknowledgment establishes a second record owner, not personal alliance.

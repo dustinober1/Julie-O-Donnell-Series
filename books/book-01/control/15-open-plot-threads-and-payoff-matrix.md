@@ -68,3 +68,9 @@
 - **K-17 / Phase B / WSS plaintext:** Unresolved and bounded.
 - **Marcus correction, Chen/Mercer choices, Hackett, Price, Vance consequence, Bell local-record fate, and public fracture:** Still required.
 - **Physical/emotional cost:** Advanced through medical separation and loss of direct team unity; no recovery or reconciliation by convenience.
+
+## Chapter 16 accepted thread update — 2026-07-13
+
+**Advanced / intermediate payoff:** independent counterrecord and lawful custody; Marcus's six-years-ago correction; Hackett's named institutional choice; complete-incident preservation; bounded activation of Sharma's separately held record; MPD secure-intake threshold.
+
+**Still open:** final federal receiver, independent technical examiner, technical merits, Hartwell presenter/exact serial, compact black case contents, WSS plaintext, Sterling physical possession, Vance personal keystrokes/upstream direction, Tariq physical presence, K-17 outcome, Phase B, reconstruction authorship/purpose/truth, and public fracture or vindication.

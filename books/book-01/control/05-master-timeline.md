@@ -187,3 +187,13 @@
 | 07:55:31 | 17:25:31 | Dual-partition module transfers to `MPD-901447`. | Partition A/B and journal distinctions preserved. |
 | 07:55:42 | 17:25:42 | Medical/person separation begins. | Direct physical unity ends. |
 | 07:56:40 | 17:26:40 | Chapter endpoint. | Marcus in guarded ambulance care; Elias in separate guarded medical transport; Julie in marked MPD transport; Ortiz retains seven packages. |
+
+## Chapter 16 accepted timeline — 2026-07-13
+
+- **07:56:40 EDT / 17:26:40 IST:** Chapter 16 opens at the accepted Chapter 15 endpoint. MPD holds seven separately sealed packages under incident `187463`; Julie, Marcus, and Elias remain separated.
+- **Approximately 08:00 EDT:** Marcus gives his attributable six-years-ago correction from guarded ambulance care under EMS authority; Hackett names his office and issues the complete preservation hold.
+- **17:36 IST / 08:06 EDT:** Sharma receives the bounded preservation request and acknowledges the challenged allied incident set without a merits determination or unrestricted disclosure.
+- **08:10 EDT / 17:40 IST:** The MPD convoy reaches secure intake; Hackett remains sponsor, not receiver.
+- **08:15:52 EDT / 17:45:52 IST:** all seven packages cross the secure MPD intake threshold separately sealed and offline. No package has been opened, no final federal receiver or technical examiner exists, and no public statement has changed.
+
+The complete Chapter 16 interval is 19 minutes 12 seconds and preserves the 9-hour-30-minute EDT/IST offset.

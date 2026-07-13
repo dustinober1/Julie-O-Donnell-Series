@@ -744,3 +744,16 @@ Before Chapter 16 can pass a drafting review, confirm:
 This document contains planning, state definitions, conditions, and scene architecture only. It is **not prose**, **not accepted canon**, **not an acceptance verdict**, and **not a complete outline for the remainder of Act III**.
 
 Approval of this lock authorizes a future drafting session to create one unaccepted Chapter 16 draft under `books/book-01/drafts/chapter-16.md`. The accepted manuscript remains Prologue and Chapters 1–15 at **81,586 words**, ending at **07:56:40 EDT / 17:26:40 IST**, until Chapter 16 is separately drafted, reviewed, and promoted through the acceptance gate.
+
+## Chapter 16 acceptance disposition — 2026-07-13
+
+The locked mission was fulfilled by the complete draft without prose revision. Formal review `33-chapter-16-acceptance-review.md` issued **ACCEPT** at 6,024 words.
+
+- Reviewed and accepted blob: `ff6fbaa66170a03502589309b3d1c2d74b50a289`.
+- Accepted path: `../manuscript/chapters/chapter-16.md`.
+- Opening: 07:56:40 EDT / 17:26:40 IST.
+- Endpoint: 08:15:52 EDT / 17:45:52 IST.
+- POV: Julie → Marcus → Sharma → Julie.
+- Prose changed during review: no.
+- All mission requirements passed; every prohibited resolution remains unresolved.
+- Next gate: Chapter 17 mission planning and mission locking only. Do not draft Chapter 17.
