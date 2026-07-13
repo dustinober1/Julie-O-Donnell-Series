@@ -168,7 +168,7 @@ The planned endpoint is **08:16:40 EDT / 17:46:40 IST**. Travel and communicatio
 
 ## 13. POV structure
 
-Use three tightly bounded close-third sections:
+Use four tightly bounded close-third sections:
 
 1. **Julie — primary opening POV.**
 2. **Marcus — one bounded ambulance cutaway.**
