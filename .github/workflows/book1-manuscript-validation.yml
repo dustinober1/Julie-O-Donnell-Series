@@ -150,10 +150,14 @@ jobs:
           assert draft_lines[2] == '# Chapter 16 - The Hold Order'
           assert 'At 08:15:52 EDT / 17:45:52 IST' in draft
           assert '08:16:40 EDT / 17:46:40 IST' not in draft
-          assert draft.count('Public Commercial Garage') == 1
-          assert draft.count('Guarded Ambulance') == 1
-          assert draft.count('Forward Post Arjun') == 1
-          assert draft.count('MPD Secure Evidence Intake') == 1
+          section_headers = [
+              'Public Commercial Garage',
+              'Guarded Ambulance',
+              'Forward Post Arjun',
+              'MPD Secure Evidence Intake',
+          ]
+          for header in section_headers:
+              assert sum(line == header for line in draft_lines) == 1, header
           assert 'Chapter 17' not in draft
 
           required16 = [
