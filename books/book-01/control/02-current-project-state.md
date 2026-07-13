@@ -7,48 +7,48 @@ The authoritative production status is `../../../PROJECT_STATE.yaml`. The author
 | Item | Status |
 |---|---|
 | Prologue | Accepted |
-| Chapters 1–12 | Accepted |
+| Chapters 1–13 | Accepted |
 | Act I | Complete |
 | Act II | Complete |
-| Act III | No accepted chapters |
-| Accepted length | 61,118 words |
+| Act III | Chapter 13 accepted; later chapters not drafted |
+| Accepted length | 69,830 words |
 | Planning target | 112,500 words |
 | Target range | 100,000–125,000 words |
-| Accepted endpoint | End of Chapter 12, approximately 07:18 EDT / 16:48 IST |
-| Chapter 13 | Complete draft, **The Carrier Stream**, not accepted |
-| Chapter 13 path | `../drafts/chapter-13.md` |
-| Chapter 13 review | `27-chapter-13-acceptance-review.md` |
+| Accepted endpoint | Chapter 13, 07:46:00 EDT / 17:16:00 IST |
+| Chapter 13 | Accepted, **The Carrier Stream** |
+| Chapter 13 path | `../manuscript/chapters/chapter-13.md` |
+| Chapter 13 review | `27-chapter-13-acceptance-review.md` — ACCEPT |
 | Chapter 14 and later | Not drafted |
-| Immediate production gate | Accept, revise, or reject Chapter 13 before Chapter 14 prose |
+| Immediate production gate | Lock Chapter 14 before drafting prose |
 
 ## Accepted endpoint
 
-Julie, Marcus, and Elias are inside PCF-27 in downtown Washington after the Fenwick/Northbridge operation. Sterling’s motorcade has crossed their path and is proceeding toward the Hartwell Executive Briefing Annex.
+Julie, Marcus, and Elias are on level six of a public commercial parking garage overlooking the Hartwell Executive Briefing Annex. PCF-27 is parked near the west ramp and remains an exposed but viable evidence-preserving exfiltration vehicle.
 
-The exact street and distance to Hartwell remain unstated in accepted prose.
+At 07:46:00 EDT, Hartwell’s controlled door opens. A three-person support stream enters after a compact black case has moved through the external staff route. Julie has the vehicle, lane, event timing, and multiple potentially recoverable camera records. She still cannot see which person physically carries `SSO-NS-004`.
 
 ## Current character locations
 
-- **Julie O’Donnell:** Driver’s seat of PCF-27.
-- **Marcus Reed:** Front passenger seat with the primary evidence.
-- **Elias Thorne:** Cargo floor with the dual-partition incident module and administrator-token board.
-- **Sarah Chen:** Last accepted location is the Apex Building Three security command center.
-- **Arthur Vance:** Last accepted location is within or connected to Apex command.
-- **Senator Sterling:** In his motorcade, en route to Hartwell.
-- **Daniel Mercer:** Last accepted location is the Fenwick service court.
-- **Major Tariq:** Physical location unknown.
-- **Major Ananya Sharma:** Last accepted location is Forward Post Arjun after aborting the counter-battery mission.
-- **Relay K-17 field team:** Current location unknown.
+- **Julie O’Donnell:** Beside PCF-27 on garage level six, maintaining the Hartwell sightline; braced right wrist remains nearly useless for grip.
+- **Marcus Reed:** At PCF-27 with all primary originals and the paper custody record; ribs, scalp, thigh, boot, and balance remain impaired.
+- **Elias Thorne:** Beside Julie with the dual-partition incident module and administrator-token board; hip, right-index injury, dizziness, and exhaustion remain active.
+- **Sarah Chen:** Last accepted location is Apex Building Three command, coordinating capture and preserving force/evidence records.
+- **Arthur Vance:** Last accepted location is within or connected to Apex command; exact immediate location unknown.
+- **Senator Sterling:** Inside Hartwell’s broader briefing movement or motorcade network; personal possession of the signer is unproved.
+- **Daniel Mercer:** On garage level six, capture-oriented and observing the trio.
+- **Metropolitan Police:** At least one officer and additional units are responding from the public lookout and plate record.
+- **Ordinary Hartwell personnel:** Present in the support stream; complicity is not established.
+- **Major Tariq / K-17 team:** Physical location and relay-access outcome unknown.
 
 ## Active clocks at the accepted endpoint
 
-| Event | EDT |
-|---|---:|
-| Hartwell authentication opens | 07:46:00 |
-| Masking Window Two opens | 07:48:00 |
-| Hartwell authentication closes | 07:48:30 |
-| Phase B authorization deadline | 07:49:00 |
-| Masking Window Two closes | 07:54:00 |
+| Event | EDT | Status at endpoint |
+|---|---:|---|
+| Hartwell authentication opens | 07:46:00 | Open |
+| Masking Window Two opens | 07:48:00 | 2:00 remaining |
+| Hartwell authentication closes | 07:48:30 | 2:30 remaining |
+| Phase B authorization deadline | 07:49:00 | 3:00 remaining |
+| Masking Window Two closes | 07:54:00 | 8:00 remaining |
 
 ## Evidence state
 
@@ -68,47 +68,37 @@ The exact street and distance to Hartwell remain unstated in accepted prose.
 - Original administrator-token circuit board
 - Partition A: sealed, read-only limited derivative
 - Partition B: sealed WSS-4 capture with valid Northbridge controller seal
+- Device handling journal containing manual event markers through the 07:46 opening
 
-### Independent or external records
+### External or potentially recoverable records
 
-- WSS-4 local audit at Northbridge
-- Nora Bell and the WSS operator as direct witnesses
-- Chen’s preserved directives at Apex
-- Apex production, access, fire, suppression, and incident records
-- Sharma/Qureshi and Indian fire-control/abort records
+- Garage entrance plate image at 07:21:52
+- Garage internal camera records of vehicle placement and the trio’s observation position
+- Municipal traffic camera and private loading-camera coverage of the support lane
+- MPD plate-correlation and response records
+- Hartwell traffic-control, perimeter, staff-lane, and local-challenge records
+- WSS-4 local audit, Bell/operator testimony, Chen’s preserved directives, Apex records, and Sharma/Qureshi records
 
-## What the accepted evidence establishes
+## What Chapter 13 establishes
 
-- Payload 88 was synthetic and was operationally deployed.
-- Vance-registered authority controlled or authorized the production bridge.
-- Elias’s physical token did not sign the original deployment.
-- WSS-4 hosted the K17-PHASE-B session.
-- Tariq field authority and Sterling-office SSO-NS-004 participated.
-- SSO-NS-004 is expected at Hartwell.
-- Relay access remained unconfirmed at 07:08.
-- Phase B and the second masking action remained pending.
+- PCF-27 was displaced from the immediate moving approach and parked in a public garage.
+- The trio maintained continuous direct observation except one documented twenty-one-second physical obstruction covered by potentially recoverable external records.
+- The 07:42:30 hard-abort conditions genuinely passed.
+- A compact black case moved through the support/staff route.
+- A three-person stream entered Hartwell at 07:46:00.
+- The human carrier or custodian of `SSO-NS-004` remains unproved.
+- Event markers prove only manual input at the module’s recorded device time, not the external event.
 
 ## What remains unproved
 
-- Who physically held SSO-NS-004 at WSS-4.
-- Who will carry or present it at Hartwell.
-- Whether Sterling personally directed the operation.
+- Who physically held `SSO-NS-004` at WSS-4 or Hartwell.
+- Whether Sterling personally possessed, presented, or directed the signer.
 - What the encrypted messages say.
 - What Phase B does.
 - Whether K-17 access succeeded.
-- Whether the trio can place the evidence into durable independent custody.
-- Whether Julie will receive direct confirmation that no Indian rounds were fired.
-
-## Pursuit and public status
-
-The trio has no firearm, but the public narrative identifies Julie as an armed insider and Marcus as an armed accomplice. Elias is publicly described as a possible hostage or coerced employee. No accepted prose establishes a conviction, formal charge, or current warrant.
-
-## Draft-only Chapter 13 state
-
-The draft titled **The Carrier Stream** is stored at `../drafts/chapter-13.md`. It appears to carry the Hartwell carrier-stream operation through the 07:46 challenge opening while preserving the unknown-custodian distinction.
-
-Those events are not canon. The controlling accepted endpoint remains the end of Chapter 12 until an explicit promotion commit is made.
+- The exact purpose of the pending Argus source-reconstruction profile.
+- Which independent authority will receive durable custody of the primary evidence.
 
 ## Immediate production action
 
-Use `27-chapter-13-acceptance-review.md` and `25-chapter-acceptance-gate.md` to complete the Chapter 13 acceptance pass. Do not draft Chapter 14 first.
+Run a dedicated Chapter 14 mission-lock planning session. Lock the opening state, dominant function, objective, consequences, success and abort conditions, POV, evidence and knowledge limits, injuries, word range, required Book 1 payoffs, and the exact following-chapter handoff. Do not draft Chapter 14 prose in that session.

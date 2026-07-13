@@ -70,3 +70,20 @@
 10. Vance’s private knowledge must be dramatized or evidenced before being stated.
 
 ---
+
+---
+
+## Accepted Chapter 13 knowledge delta
+
+| Actor | Knows at 07:46 | Suspects / infers | Does not know |
+|---|---|---|---|
+| Julie | Exact observed route, compact case appearances, three-person entry stream, hard-abort result, and limits of the camera/marker record | One of the stream participants may be the physical carrier | Human custodian, encrypted content, Phase B action, K-17 outcome, reconstruction purpose |
+| Marcus | Original-evidence state, west-route state, observed support vehicle continuity, and reported case/staff facts | The support stream is operationally linked to Hartwell authentication | Hidden hand, signer possession, plaintext, K-17 outcome |
+| Elias | Module/board integrity, marker journal, challenge timing, and the distinction between device event time and external proof | The 07:46 stream is the next authentication carrier stream | Human holder, plaintext, Phase B, K-17 access |
+| Chen | Garage plate correlation, scheduled Hartwell window, and likely observation objective | Julie is trying to create a physical counterrecord | Julie’s exact sightline result and the unseen holder |
+| Mercer | Trio location, unarmed behavior, evidence refusal, and observation objective | Julie will obey some self-imposed limits but not surrender media | Human holder and technical message content |
+| Vance | Vendor/incident pressure, garage response, and the Hartwell schedule available to his systems | The trio is following the signer chain | Exact observation, hidden hand, and independent external records not under Apex control |
+| Responding police | Known-plate alert, visible trio, no displayed firearm, active media handling, and Julie’s statement that office registration is not possession | Trio is engaged in an unauthorized intelligence operation | Full evidence chain, encrypted content, actual signer custodian |
+| Ordinary Hartwell personnel | Their assigned screening, traffic, courier, or briefing duties | May know a sensitive session is beginning | Payload 88, the trio’s evidence, the conspiracy, or which colleague carries the signer unless directly assigned |
+
+Permanent distinction: reader-visible office registration, hardware response, and route convergence do not grant any character knowledge of the physical hand.

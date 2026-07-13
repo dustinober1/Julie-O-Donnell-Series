@@ -215,3 +215,12 @@ Tariq’s strategic objective may not require the same public outcome Sterling o
 - The six-years-ago Argus failure may be connected, imitated, or merely structurally similar.
 
 ---
+
+## Accepted Chapter 13 antagonist-state delta
+
+- **Sterling network:** Public schedule and office-registered device converge on Hartwell. This materially strengthens the operational connection but does not prove Sterling’s hand, personal presence at the challenge point, keystrokes, or direct command.
+- **Vance:** Continues to prioritize telemetry recovery and control of the official explanation. He can route vendor and protective-service pressure but does not know the hidden human custodian or control independent cameras by fiat.
+- **Chen:** Pursues capture, evidence preservation, and lawful-force limits. She remains an institutional antagonist with an unresolved future choice, not a covert ally.
+- **Mercer:** Acts on the physical scene as a professional capture antagonist. His observations may later become evidence, but no alliance occurs.
+- **Tariq / K-17:** No new accepted evidence changes field access, physical presence, or Phase B status.
+- **Conspiracy model:** The carrier stream is narrowed to an operationally relevant three-person arrival. The chain is sharper, not complete.

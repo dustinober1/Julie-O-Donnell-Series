@@ -5,15 +5,13 @@ The controlling Book 1 accepted manuscript is stored in this repository as Markd
 Accepted prose currently consists of:
 
 - `prologue.md`
-- `chapters/chapter-01.md` through `chapters/chapter-12.md`
+- `chapters/chapter-01.md` through `chapters/chapter-13.md`
 
 These files are the highest authority for accepted events, character behavior, chronology, injuries, evidence, technology, geography, and narrative voice.
 
 ## Draft separation
 
-Unaccepted prose is stored under [`../drafts/`](../drafts/). A draft cannot create canon through existence, filename, title, or planning approval.
-
-Chapter 13, **The Carrier Stream**, is a complete but unaccepted draft at `../drafts/chapter-13.md`.
+Unaccepted prose belongs under [`../drafts/`](../drafts/). A draft cannot create canon through existence, filename, title, or planning approval. Chapter 14 has not been drafted.
 
 ## Migration provenance
 
@@ -23,9 +21,8 @@ A user-uploaded Word snapshot is also historical input only. Its identifying inf
 
 Neither external source may override accepted GitHub prose.
 
-## Accepted continuity repair
+## Accepted production milestones
 
-The Chapter 5-to-6 continuity repair was accepted and integrated on July 12, 2026.
-
-- Permanent record: `../repairs/chapter-05-to-06-continuity-repair/`
-- Integration commit: `f6d49cbeae2b2f23daac55dc0bacfeb040428f5f`
+- Chapter 5-to-6 continuity repair integrated July 12, 2026: `f6d49cbeae2b2f23daac55dc0bacfeb040428f5f`
+- Chapter 13 accepted as **The Carrier Stream** through `../control/27-chapter-13-acceptance-review.md`
+- Current accepted endpoint: 07:46:00 EDT / 17:16:00 IST outside Hartwell

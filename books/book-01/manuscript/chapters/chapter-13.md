@@ -1014,7 +1014,7 @@ Eighty-three seconds.
 
 He answered without looking away from the west mirror.
 
-“Probable same motorcade support SUV continuously observed from seven-thirty-one-twenty-two except one documented nineteen-second visual obstruction. Independent traffic and loading cameras cover the obstruction. Staff stream delivered to east controlled approach. Compact black case observed at seven-thirty-six-forty-nine. Contents and custodian unknown.”
+“Probable same motorcade support SUV continuously observed from seven-thirty-one-twenty-two except one documented twenty-one-second visual obstruction. Independent traffic and loading cameras cover the obstruction. Staff stream delivered to east controlled approach. Compact black case observed at seven-thirty-six-forty-nine. Contents and custodian unknown.”
 
 “Exfiltration.”
 
@@ -1200,13 +1200,13 @@ Marcus opened the passenger door.
 
 “Julie.”
 
-The west vehicle exit had stopped moving.
+The west exit was no longer anonymous.
 
-A police cruiser now sat beyond the gate, angled so civilian cars could pass one at a time but PCF-27 could not leave without being stopped.
+Police moved toward the gate, exposing the route while civilian cars still cleared one at a time.
 
-The route remained physically open.
+The lane remained fully open for PCF-27 to clear the garage and turn west.
 
-Operationally, it had become custody.
+Operationally, it had become visible.
 
 “Still viable?” Julie asked.
 

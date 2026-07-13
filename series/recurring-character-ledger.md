@@ -43,15 +43,15 @@ Unknown fields must remain **not established** rather than being filled by conve
 - **Tier:** CORE
 - **Role:** Primary protagonist; former Army captain and intelligence officer; analyst, evidence custodian, and operational leader
 - **First accepted appearance:** Prologue
-- **Most recent accepted appearance:** Chapter 12
+- **Most recent accepted appearance:** Chapter 13
 - **Age:** Not established
 - **Physical continuity:** Right wrist significantly impaired and braced; exhausted; no firearm; publicly recognizable
 - **Voice/behavior:** Precise, evidence-limited, impatient with vague authority, unwilling to call inference proof
 - **Competencies:** Intelligence analysis, source provenance, operational reasoning, physical cause-and-effect judgment
 - **Limitations:** Trauma around delayed aborts; institutional distrust; right-hand impairment; no omniscience; not an action superhero
 - **Public/legal status:** Nationally sought alleged sabotage architect; no accepted conviction, charge, or warrant
-- **Current accepted location:** Driver’s seat of PCF-27, downtown Washington, approximately 07:18 EDT
-- **Knows:** Payload 88 chain, Vance authority, WSS-4 session, Tariq field authority, Sterling-office signer, Hartwell timing, evidence limits
+- **Current accepted location:** Garage level six west of Hartwell at 07:46 EDT; PCF-27 remains nose-out near the west ramp
+- **Knows:** Prior evidence chain plus the observed Hartwell carrier stream, compact black case, screened transfer, three-person 07:46 entry, and potential external-record geometry
 - **Does not know:** Physical custodian, encrypted plaintext, exact Phase B, current K-17 state, no-fire confirmation, safe independent recipient
 - **Relationship with Marcus:** High operational trust; personal wound unresolved
 - **Relationship with Elias:** Responsible leadership and conditional trust; refuses to erase his agency
@@ -59,44 +59,44 @@ Unknown fields must remain **not established** rather than being filled by conve
 - **Future-book function:** Lead investigator/operator whose authority comes from demonstrated judgment rather than formal office
 - **Return trigger:** A verified anomaly, institutional request with meaningful independence, or consequence of the surviving Argus network
 - **No-retcon locks:** Four-second wound; no false certainty; no effortless trust in institutions; no normal right-hand strength without recovery; no casual sacrifice of civilians
-- **Last updated:** Accepted Chapter 12 / governance v3.0
+- **Last updated:** Accepted Chapter 13 / governance v3.1
 
 ## Marcus Reed
 
 - **Tier:** CORE
 - **Role:** Active-duty Army colonel and intelligence officer; Julie’s former colleague and current operational partner
 - **First accepted appearance:** Prologue
-- **Most recent accepted appearance:** Chapter 12
+- **Most recent accepted appearance:** Chapter 13
 - **Age:** Not established
 - **Physical continuity:** Severe rib, scalp, thigh, boot, balance, and mobility limitations
 - **Voice/behavior:** Procedural, strategic, controlled; tests plans by asking what fails and who holds custody
 - **Competencies:** Institutional navigation, intelligence operations, route/exfiltration judgment, evidence custody
 - **Limitations:** Physical condition; revoked/suspended credentials; guilt; tendency to protect access as influence
 - **Public/legal status:** Active-duty status remains; described publicly as armed accomplice; practical fugitive
-- **Current accepted location:** Front passenger seat of PCF-27 with primary evidence
-- **Knows:** Most of Julie and Elias’s evidence chain, but not encrypted content, current K-17 status, or physical signer custody
+- **Current accepted location:** At PCF-27 on garage level six with primary evidence and west-route exfiltration control
+- **Knows:** Most of the evidence chain plus the garage observation record and hard-abort status; still not encrypted content, current K-17 status, or physical signer custody
 - **False belief/risk:** May still overvalue lawful sequence when time makes sequence unusable
 - **Relationship with Julie:** Strong operational trust; private betrayal not fully repaired
 - **Book 1 end-state requirement:** Make an on-record corrective choice that costs him something material
 - **Future-book function:** Institutional bridge, witness, strategist, or constrained insider
 - **Return trigger:** Formal investigation, military consequence, need for classified access, or Julie’s work intersecting Army systems
 - **No-retcon locks:** His earlier testimony was defensible cowardice, not innocent confusion; apology alone does not repair it; rank does not restore access; no sudden athletic recovery
-- **Last updated:** Accepted Chapter 12 / governance v3.0
+- **Last updated:** Accepted Chapter 13 / governance v3.1
 
 ## Elias Thorne
 
 - **Tier:** CORE
 - **Role:** Apex model developer; author of Validation Package 88; technical witness and voluntary whistleblower
 - **First accepted appearance:** Chapter 2
-- **Most recent accepted appearance:** Chapter 12
+- **Most recent accepted appearance:** Chapter 13
 - **Age:** Not established
 - **Physical continuity:** Left-hip injury, bandaged right index finger, dizziness, exhaustion, torn office clothing
 - **Voice/behavior:** Technical precision mixed with visible fear; corrects language that erases his agency
 - **Competencies:** Argus validation, administrator-token systems, replay/mirroring, recovery routines, WSS session state
 - **Limitations:** Legally exposed; not expert in every system; no perfect technical solution; physically impaired
 - **Public/legal status:** Apex employee; publicly framed as possible hostage or saboteur; voluntary role preserved in audit records
-- **Current accepted location:** Cargo floor of PCF-27 with board and incident module
-- **Knows:** Deepest technical chain for Payload 88, WSS-4, and signer mechanics
+- **Current accepted location:** Beside Julie at the garage observation position with board and dual-partition incident module
+- **Knows:** Deepest technical chain plus the nine-marker handling journal and Hartwell challenge-state sequence; the last two markers do not display separate exact module times in prose
 - **Does not know:** Physical custodian, encrypted content, exact Phase B, current K-17 state, Sterling’s personal direction
 - **Relationship with Julie:** Trust based on honesty rather than comfort; anger remains
 - **Relationship with Marcus:** Increasing trust after physical and evidentiary protection
@@ -104,50 +104,50 @@ Unknown fields must remain **not established** rather than being filled by conve
 - **Future-book function:** Technical witness, reluctant expert, defendant, protected specialist, or independent builder of safer systems
 - **Return trigger:** Argus-derived system failure, prosecution/investigation, need to authenticate historical technical evidence
 - **No-retcon locks:** Later voluntary actions do not prove original deployment; fear remains; no universal hacking ability; right index and hip limitations matter
-- **Last updated:** Accepted Chapter 12 / governance v3.0
+- **Last updated:** Accepted Chapter 13 / governance v3.1
 
 ## Sarah Chen
 
 - **Tier:** RECURRING
 - **Role:** Apex contractor-integration and compliance official with government liaison access; incident coordinator
 - **First accepted appearance:** Chapter 1
-- **Most recent accepted appearance:** Chapter 12
+- **Most recent accepted appearance:** Chapter 13
 - **Age:** Not established
 - **Physical continuity:** No injury established
 - **Voice/behavior:** Careful language, procedural discipline, evidence-preservation instinct, no sentimental defection
 - **Competencies:** Incident command, compliance, interagency coordination, record preservation
 - **Limitations:** Still capture-oriented; institutionally implicated; incomplete technical knowledge
 - **Public/legal status:** Not publicly implicated; decisions likely reviewable
-- **Current accepted location:** Apex Building Three command center
-- **Knows:** Vance’s unlawful force standard, preserved directives, public-attribution timing, parts of the WSS/Hartwell chain
+- **Current accepted location:** Apex Building Three incident command at 07:28 EDT
+- **Knows:** Prior incident record plus the garage plate hit and likely Hartwell observation mission; she does not know the hidden custodian or the trio’s final sightline result
 - **Does not know:** Full evidence contents, encrypted blocks, current K-17 state, physical signer custodian
 - **Relationship with Julie:** Adversarial and increasingly evidence-sensitive
 - **Book 1 end-state requirement:** Make a consequential preservation/disclosure choice without becoming an uncomplicated ally
 - **Future-book function:** Lawful institutional foil, investigator, witness, compliance authority, or rival
 - **Return trigger:** Inquiry into Apex, evidence custody dispute, oversight proceeding, or future contractor-government incident
 - **No-retcon locks:** Preservation is not alliance; she has legitimate reasons to seek custody; no omniscience; no secret warning without accepted scene
-- **Last updated:** Accepted Chapter 12 / governance v3.0
+- **Last updated:** Accepted Chapter 13 / governance v3.1
 
 ## Daniel Mercer
 
 - **Tier:** RECURRING
 - **Role:** Apex Protective Services containment officer
 - **First accepted appearance:** Chapter 3
-- **Most recent accepted appearance:** Chapter 12
+- **Most recent accepted appearance:** Chapter 13
 - **Age:** Not established
 - **Physical continuity:** Taped wrist after the stairwell encounter; otherwise no major accepted injury state requiring carryover
 - **Voice/behavior:** Professional, command-focused, asks for authority and force standards
 - **Competencies:** Containment, tactical movement, background/force judgment, evidence recovery
 - **Limitations:** Works from incomplete reports; remains an antagonist; not a covert ally
 - **Public/legal status:** Active Apex security officer
-- **Current accepted location:** Fenwick service court
-- **Knows:** Julie’s methods, Vance/Chen force conflict, WSS-4 access, portions of the evidence dispute
+- **Current accepted location:** Garage level six west of Hartwell at the 07:46 endpoint
+- **Knows:** Prior pursuit facts plus the trio’s bounded Hartwell observation purpose and evidence-limit answers; he still does not know the hidden custodian
 - **Relationship with Julie:** Professional adversary with mutual recognition of limits
 - **Book 1 end-state requirement:** Make a consequential choice about lawful force, evidence, or testimony
 - **Future-book function:** Security professional, witness, investigator, or recurring adversarial counterpart
 - **Return trigger:** Custody action, security inquiry, testimony, or another operation involving contested lawful authority
 - **No-retcon locks:** No secret membership in Julie’s team; restraint does not equal allegiance; he does not ignore duty
-- **Last updated:** Accepted Chapter 12 / governance v3.0
+- **Last updated:** Accepted Chapter 13 / governance v3.1
 
 ## Major Ananya Sharma
 
@@ -219,21 +219,21 @@ Unknown fields must remain **not established** rather than being filled by conve
 - **Tier:** NETWORK
 - **Role:** Senator publicly leading the crisis response; office authority registered to SSO-NS-004
 - **First accepted appearance:** Chapter 9 public narrative
-- **Most recent accepted appearance:** Chapter 12
+- **Most recent accepted appearance:** Chapter 13 (through public schedule, motorcade/support route, and Hartwell carrier stream; no private POV)
 - **Age:** Not established
 - **Physical continuity:** No injury established
 - **Voice/behavior:** Controlled public certainty, institutional discipline language, politically useful framing
 - **Competencies:** Public narrative, legislative influence, secure office authority, access to Hartwell
 - **Limitations:** Personal command role and physical possession remain unproved
 - **Public/legal status:** Senator; publicly unimplicated
-- **Current accepted location:** Motorcade en route to Hartwell
+- **Current accepted location:** Not directly observed; the public schedule and principal motorcade converge on Hartwell, but Sterling’s exact personal location is not shown
 - **Knows:** Exact private knowledge is unestablished
 - **Relationship with Julie:** Public antagonist; no direct personal relationship established
 - **Book 1 end-state requirement:** Public story materially fractures; Book 1 establishes a bounded operational connection or bounded uncertainty
 - **Future-book function:** Continuing political antagonist or node in a larger network
 - **Return trigger:** Oversight, election/political survival, investigation, surviving network, or another Argus deployment
 - **No-retcon locks:** Office registration is not personal possession; public statements are not proof of private command; do not make him a generic omnipotent villain
-- **Last updated:** Accepted Chapter 12 / governance v3.0
+- **Last updated:** Accepted Chapter 13 / governance v3.1
 
 ## Major Tariq
 
@@ -261,21 +261,21 @@ Unknown fields must remain **not established** rather than being filled by conve
 - **Tier:** CONDITIONAL
 - **Role:** Apex site director and registered executive authority behind APX-DIR-0019
 - **First accepted appearance:** Chapter 2
-- **Most recent accepted appearance:** Chapter 12
+- **Most recent accepted appearance:** Chapter 13 (executive-channel order in the Chen/Mercer cutaway)
 - **Age:** Not established
 - **Physical continuity:** No injury established
 - **Voice/behavior:** Precise institutional justification; treats defensible system output as strategic necessity
 - **Competencies:** Apex authority, security directives, public record shaping, system access
 - **Limitations:** Registered authority does not prove every personal action; has lost exclusive control of the record
 - **Public/legal status:** Publicly unimplicated; internally challenged by preserved records
-- **Current accepted location:** Apex command structure
-- **Knows:** Exact extent of K-17, Tariq, Hartwell, Sterling, and the old incident remains unknown
+- **Current accepted location:** Exact location unshown; connected to Apex incident command
+- **Knows:** The garage/Hartwell convergence and telemetry-recovery priority; the hidden signer custodian, final sightline result, and exact K-17/Phase B state remain unknown
 - **Relationship with Julie:** Evidence-driven antagonist
 - **Book 1 end-state requirement:** Meaningful operational consequence
 - **Future-book function:** Witness, defendant, compromised executive, or continuing node only if Book 1 leaves a logical path
 - **Return trigger:** Testimony, prosecution, cooperation, escape, or discovery of upstream direction
 - **No-retcon locks:** Certificate does not prove personal keystrokes; do not make him sole architect without evidence
-- **Last updated:** Accepted Chapter 12 / governance v3.0
+- **Last updated:** Accepted Chapter 13 / governance v3.1
 
 ## Nora Bell
 

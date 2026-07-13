@@ -1,5 +1,5 @@
 project: "Julie O'Donnell Series"
-schema_version: 3
+schema_version: 4
 last_updated: "2026-07-12"
 
 status_authority:
@@ -24,43 +24,46 @@ active_book:
     minimum: 100000
     planning_target: 112500
     maximum: 125000
-    accepted_words: 61118
-    words_to_planning_target: 51382
-    minimum_words_remaining: 38882
-    maximum_words_remaining: 63882
-    chapter_13_draft_words: null
-    chapter_13_count_status: "Measure before acceptance; draft words are excluded from accepted total"
+    accepted_words: 69830
+    words_to_planning_target: 42670
+    minimum_words_remaining: 30170
+    maximum_words_remaining: 55170
+    accepted_words_before_chapter_13: 63655
+    chapter_13_words: 6175
+    count_method: "UTF-8 Markdown whitespace-delimited tokens; tools/count_book1_words.py"
+    prior_total_recounted: true
 
   accepted_canon:
     manifest: "books/book-01/ACCEPTED_MANUSCRIPT.yaml"
     prologue: true
-    chapters: "1-12"
+    chapters: "1-13"
     acts:
       act_i: "complete"
       act_ii: "complete"
-      act_iii: "no accepted chapters"
+      act_iii: "Chapter 13 accepted; later Act III chapters not drafted"
     endpoint:
-      chapter: 12
-      eastern: "approximately 07:18 EDT"
-      india: "approximately 16:48 IST"
-      location: "Downtown Washington inside PCF-27"
-    accepted_manuscript_words: 61118
-
-  drafts:
+      chapter: 13
+      eastern: "07:46:00 EDT"
+      india: "17:16:00 IST"
+      location: "Public parking garage overlooking Hartwell; PCF-27 on level six"
+      status: "Hartwell local challenge window opened; physical custodian unresolved"
+    accepted_manuscript_words: 69830
     chapter_13:
       title: "The Carrier Stream"
-      path: "books/book-01/drafts/chapter-13.md"
-      status: "complete draft; not accepted canon"
-      prose_changed_by_governance_pass: false
-      mission_lock: "books/book-01/control/21-chapter-13-mission-lock.md"
-      acceptance_review: "books/book-01/control/27-chapter-13-acceptance-review.md"
-      review_verdict: "retain as draft pending full acceptance pass"
-      projected_endpoint: "approximately 07:46 EDT outside Hartwell"
+      path: "books/book-01/manuscript/chapters/chapter-13.md"
+      verdict: "ACCEPT"
+      accepted_words: 6175
+      prose_changed: true
+      revision_scope: "Two surgical continuity repairs; no major plot fact added"
       physical_custodian_status: "unresolved"
+
+  drafts:
+    active_chapter_drafts: []
+    chapter_14: "not drafted"
 
   future_prose:
     chapter_14_and_later: "not drafted"
-    rule: "Do not draft Chapter 14 until Chapter 13 is explicitly accepted or its replacement endpoint is locked"
+    rule: "Do not draft Chapter 14 until a dedicated Chapter 14 mission lock is approved from the accepted Chapter 13 endpoint"
 
   planning_controls:
     ending_contract: "books/book-01/control/22-book-1-ending-contract.md"
@@ -68,6 +71,7 @@ active_book:
     thread_disposition: "books/book-01/control/24-thread-disposition-matrix.md"
     chapter_acceptance_gate: "books/book-01/control/25-chapter-acceptance-gate.md"
     governance_repair_record: "books/book-01/control/26-repository-governance-repair-record.md"
+    chapter_13_review: "books/book-01/control/27-chapter-13-acceptance-review.md"
     series_character_ledger: "series/recurring-character-ledger.md"
 
   narrative_house_style:
@@ -106,15 +110,19 @@ critical_status:
     severity: "resolved"
     integration_commit: "f6d49cbeae2b2f23daac55dc0bacfeb040428f5f"
   chapter_13_separation:
-    severity: "resolved by governance pass"
-    rule: "The draft is outside the accepted manuscript directory"
+    severity: "resolved"
+    status: "promoted through the formal acceptance gate"
   status_drift:
-    severity: "resolved by governance pass"
-    rule: "PROJECT_STATE.yaml is the sole production-status authority"
+    severity: "resolved"
+    status: "active status and count references synchronized"
   chapter_13_acceptance:
+    severity: "resolved"
+    status: "ACCEPT"
+    review: "books/book-01/control/27-chapter-13-acceptance-review.md"
+  chapter_14_mission_lock:
     severity: "current production gate"
     status: "open"
-    next_action: "Run the acceptance checklist in control/27 before any Chapter 14 drafting"
+    next_action: "Run a dedicated Chapter 14 mission-lock planning session; do not draft prose"
 
 archive:
   legacy_source_policy: "archive/legacy-sources/README.md"
@@ -126,14 +134,14 @@ production_rules:
   - "Accepted manuscript prose outranks all summaries, plans, trackers, drafts, and external snapshots."
   - "No unaccepted chapter may live under books/book-01/manuscript/."
   - "Draft existence does not create canon."
-  - "Promotion requires the same commit to move prose into manuscript, update ACCEPTED_MANUSCRIPT.yaml, update PROJECT_STATE.yaml, and update every affected control ledger."
-  - "Chapter 13 remains a draft until its acceptance review is completed and an explicit promotion commit is made."
-  - "Chapter 14 may not treat Chapter 13 facts as canon before promotion."
+  - "Promotion requires the same production pass to move prose into manuscript, update ACCEPTED_MANUSCRIPT.yaml, update PROJECT_STATE.yaml, and update every affected control ledger."
+  - "Chapter 13 is accepted canon and may be used as the opening source for Chapter 14 planning."
+  - "Chapter 14 prose remains prohibited until its dedicated mission lock is approved."
   - "Registered authority never proves physical human custody without separate evidence."
-  - "Do not identify the physical custodian of SSO-NS-004 without accepted evidence."
+  - "The physical custodian of SSO-NS-004 remains unresolved."
   - "High-level Act III architecture is production planning, not canon; chapter functions become controlling only through a chapter mission lock."
   - "Plans for unwritten chapters remain non-canon until dramatized and accepted."
   - "The former Google Doc and uploaded Word snapshot are historical sources only and must not be edited as active manuscripts."
   - "No draft or revision may imitate or closely emulate the recognizable prose of a living author."
 
-next_recommended_action: "Complete the Chapter 13 acceptance pass in books/book-01/control/27-chapter-13-acceptance-review.md; do not draft Chapter 14 first."
+next_recommended_action: "Run a dedicated Chapter 14 mission-lock planning session from the accepted 07:46:00 EDT Hartwell endpoint; do not draft Chapter 14 prose."

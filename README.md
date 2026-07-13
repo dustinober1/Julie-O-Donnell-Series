@@ -11,12 +11,12 @@ Current snapshot:
 - Active book: Book 1 — title not yet locked
 - Target length: **100,000–125,000 words**
 - Planning target: **112,500 words**
-- Accepted canon: Prologue and Chapters 1–12
-- Accepted-manuscript length: **61,118 words**
-- Accepted endpoint: approximately 07:18 EDT / 16:48 IST at the end of Chapter 12
-- Chapter 13, **The Carrier Stream**: complete draft, not accepted canon
+- Accepted canon: Prologue and Chapters 1–13
+- Accepted-manuscript length: **69,830 words**
+- Accepted endpoint: **07:46:00 EDT / 17:16:00 IST**, in a public parking garage overlooking Hartwell
+- Chapter 13, **The Carrier Stream**: accepted
 - Chapter 14 and later prose: not drafted
-- Immediate production action: complete the Chapter 13 acceptance review before drafting Chapter 14
+- Immediate production action: dedicated Chapter 14 mission-lock planning; do not draft Chapter 14 prose
 
 ## Source-of-truth hierarchy
 
@@ -46,6 +46,8 @@ Accepted prose outranks every summary, tracker, plan, and draft. Draft prose can
 │       └── repairs/           # Permanent accepted repair records
 ├── docs/
 │   └── superpowers/           # Approved designs and implementation plans
+├── tools/
+│   └── count_book1_words.py
 └── series/
     └── recurring-character-ledger.md
 ```

@@ -16,3 +16,13 @@
 The manuscript does not establish universal public belief. It establishes repeated broadcast and institutional assertion.
 
 ---
+
+## Accepted Chapter 13 public-record delta
+
+| Public / institutional claim | Accepted actual record | Remaining uncertainty |
+|---|---|---|
+| Julie is an armed insider fleeing with stolen national-security material. | The trio has no firearm, does not ram, does not take hostages, and remains in a public garage documenting a physical route while preserving separated evidence. | Lawful classification and custody disputes remain unresolved. |
+| Office registration identifies Sterling as the person using the signer. | `SSO-NS-004` is registered to Sterling’s office and linked to Hartwell; Chapter 13 shows only a compact case and three-person stream. | Human holder and personal direction remain unknown. |
+| Event markers prove the external carrier event. | They prove only manual inputs at module device times. | Independent camera, police, and Hartwell records must be authenticated. |
+| Police/Apex response proves a unified corrupt institution. | Police and ordinary personnel act plausibly from the bulletin and visible circumstances; Chen/Mercer/Vance have distinct objectives. | Which records or actors later resist narrative control remains open. |
+| The trio’s continued presence after 07:42:30 shows another broken abort rule. | Both locked conditions pass at 07:42:30, and the west route remains viable through the endpoint after the surgical geometry repair. | Arrest or route closure may occur immediately afterward. |

@@ -33,7 +33,7 @@ A government incident-capture device brought by Marcus to Room 402B. The case pr
 4. Julie and Marcus handled it through the motel, reentry, enclave, and escape.
 5. At the cutout, Julie documented the handlers.
 6. At 06:39:16, Julie formally transferred it to Marcus.
-7. Marcus retained it through the Fenwick operation and Chapter 12 endpoint.
+7. Marcus retained it through the Fenwick operation, Chapter 12 endpoint, and accepted Chapter 13 endpoint.
 
 ### Current custodian and location
 
@@ -925,3 +925,63 @@ Phone or local-image admissibility, classification, and time synchronization.
 - Do not prove Bell’s complicity.
 
 ---
+
+---
+
+## 8.24 Chapter 13 handling-event journal
+
+- **Custodian:** Elias throughout Chapter 13.
+- **State:** Manual markers 001–009 are entered while the dual-partition incident module remains in its recorded sealed state; markers 008 and 009 are narratively entered without a rendered device-time field.
+- **Known to exist:** Yes; Elias sees the journal state and Julie/Marcus observe the inputs.
+- **Proves:** A human operator entered a marker at the module’s recorded device time while the device was in the recorded hardware state.
+- **Does not prove:** The external vehicle, case, staff movement, camera view, challenge, or human custodian described by the characters.
+- **Admissibility limit:** It is a contemporaneous handling journal requiring corroboration, not independent proof of the external event.
+
+## 8.25 Garage entrance plate record
+
+- **Owner/controller:** Commercial garage system; not the trio.
+- **Known to exist:** The Chen/Mercer cutaway establishes a camera capture at 07:21:52 and a later plate comparison.
+- **Visible/recoverable:** Potentially recoverable through the garage owner, police process, or legal demand; not currently possessed.
+- **Proves:** PCF-27 entered the garage at the recorded system time if the record authenticates.
+- **Does not prove:** Who was inside, what the trio observed, or who carried `SSO-NS-004`.
+
+## 8.26 Garage internal observation record
+
+- **Owner/controller:** Commercial garage.
+- **Known to exist:** Cameras and the observation geometry are visible; precise retention and fields of view are not established.
+- **Potential proof:** Vehicle placement, trio position, obstruction interval, police approach, and portions of the Hartwell-facing lane.
+- **Limits:** Camera angle, retention, clock accuracy, and access remain unverified. No camera is omniscient.
+
+## 8.27 Traffic, private loading, police, and Hartwell records
+
+- **Municipal traffic camera:** Potentially covers the support vehicle route; government-controlled, not in trio custody.
+- **Private loading camera:** Potentially covers the twenty-one-second obstruction and service lane; private owner and retention unknown.
+- **Police records:** Plate comparison, dispatch, unit routing, officer body-worn or vehicle records may exist; exact existence and access are not assumed beyond accepted references.
+- **Hartwell records:** Traffic-control, perimeter, staff-lane, and local-challenge records may exist inside separate security domains; trio has no lawful or physical access at the endpoint.
+- **Combined limit:** Independence must be tested source by source. Multiple records do not become independent merely because characters name them.
+
+## 8.28 PCF-27 endpoint state
+
+- **Location:** Public garage level six, nose toward the west ramp.
+- **Plate/markings:** Known and repeatedly circulated.
+- **Transponder:** Dead module remains with Marcus; the van’s disconnection does not erase external records.
+- **Exfiltration:** West ramp and gate remain exposed and viable at 07:46 without ramming, civilian injury, or use of civilians as cover.
+
+## 8.29 Chapter 13 endpoint custody summary
+
+| Object | Custodian | State at 07:46:00 |
+|---|---|---|
+| Aluminum telemetry case | Marcus | Closed; primary original custody intact |
+| 136 sealed files | Marcus / case | Still sealed; no claim of original source honesty added |
+| 47 incomplete files | Marcus / case | Still incomplete |
+| 311 exclusions manifest | Marcus / case | Excluded material remains absent |
+| Recovery cartridge | Marcus | Tamper-bagged / unchanged |
+| Paper custody log | Marcus | Updated; still primary paper record |
+| Dead PCF-27 transponder | Marcus | Ancillary evidence only |
+| Waterproof evidence folder | Marcus | Contains the paper and bagged items |
+| Administrator-token board | Elias | Original remains in his possession |
+| Partition A | Elias / module | Sealed and read-only |
+| Partition B | Elias / module | Sealed with WSS-4 controller seal |
+| Handling-event journal | Elias / module | Manual markers recorded; external facts unproved by markers alone |
+
+No Chapter 13 custody transfer occurs.

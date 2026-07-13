@@ -158,3 +158,21 @@
 - **Rule:** Physical terrain and sensor coverage must constrain movement.
 
 ---
+
+## Public commercial garage — accepted Chapter 13
+
+- **Function:** External observation platform and temporary vehicle displacement point, not a covert facility.
+- **Level:** Six.
+- **Vehicle geometry:** PCF-27 parked nose-out near the west descending ramp.
+- **Observation geometry:** Open side and service-lane gaps allow a bounded view toward Hartwell’s eastern controlled approach, support holding area, privacy screens, and final door.
+- **Obstructions:** Concrete posts, privacy panels, vehicles, and a building-services truck create credible partial or total sightline loss.
+- **Exits:** East route closes first; west ramp and civilian gate remain exposed and viable at the accepted endpoint.
+- **Security reality:** Commercial cameras, plate capture, management access, civilian traffic, and responding police make the location public and recoverable rather than magically covert.
+
+## Hartwell endpoint geometry
+
+- The trio remains outside Hartwell.
+- A support SUV/staff stream moves through successive external screens.
+- A compact black case appears on an inspection surface, then disappears behind bodies/panels.
+- At 07:46:00 a controlled door admits a three-person stream.
+- The physical carrier remains concealed by ordinary security geometry, not authorial omniscience.

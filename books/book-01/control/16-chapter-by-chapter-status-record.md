@@ -93,18 +93,19 @@ The accepted-manuscript inventory in `../ACCEPTED_MANUSCRIPT.yaml` controls acce
 
 ## Chapter 13 — The Carrier Stream
 
-- **Status:** Complete draft; not accepted.
-- **Draft path:** `../drafts/chapter-13.md`.
-- **Mission lock:** `21-chapter-13-mission-lock.md`.
-- **Acceptance review:** `27-chapter-13-acceptance-review.md`.
-- **Draft function:** Moving physical-custodian identification operation.
-- **Draft opening:** Approximately 07:18 EDT in PCF-27.
-- **Draft hard abort:** 07:42:30 EDT unless observation and evidence/exfiltration conditions pass.
-- **Draft projected endpoint:** Approximately 07:46 EDT outside Hartwell, with the device route narrowed and the physical custodian unresolved.
-- **Canon rule:** None of these draft events controls Chapter 14 until explicit promotion.
+- **Status:** Accepted canon.
+- **Accepted path:** `../manuscript/chapters/chapter-13.md`.
+- **Acceptance review:** `27-chapter-13-acceptance-review.md` — **ACCEPT**.
+- **Exact word count:** 6,175 whitespace-delimited Markdown words.
+- **Time:** Approximately 07:18–07:46 EDT / 16:48–17:16 IST.
+- **Purpose:** Complete the moving physical-custodian identification operation, displace PCF-27 from the immediate motorcade approach, establish continuous or recoverable observation, and reach the Hartwell challenge without inventing the human custodian.
+- **Hard-abort result:** Both locked conditions pass at 07:42:30; the west route remains exposed but viable.
+- **Evidence/custody:** Marcus retains all primary originals and exfiltration control. Elias retains the dual-partition incident module and administrator-token board.
+- **Endpoint:** Level six of a public parking garage overlooking Hartwell. The controlled door opens at 07:46:00. A three-person support stream and compact black case are observed. The human custodian of `SSO-NS-004` remains unresolved.
 
 ## Chapter 14 and later
 
 - **Status:** Not drafted.
-- **Planning:** High-level functions are provisional in `23-word-budget-and-act-iii-architecture.md`.
-- **Rule:** No later chapter function is canon, and no later prose may be drafted from Chapter 13’s endpoint before Chapter 13 is accepted or replaced.
+- **Planning:** High-level functions remain provisional in `23-word-budget-and-act-iii-architecture.md`.
+- **Next gate:** Dedicated Chapter 14 mission-lock planning session from the accepted 07:46:00 Hartwell endpoint.
+- **Rule:** Do not draft Chapter 14 prose before its mission lock is approved. No later chapter function is canon until separately locked, drafted, reviewed, and accepted.

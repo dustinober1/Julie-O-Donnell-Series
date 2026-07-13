@@ -14,7 +14,7 @@ The specific thriller hook is that Julie must stop a war-triggering false warnin
 
 ## Julie’s external objective
 
-At the end of Chapter 12, Julie’s external objective is to prevent the Hartwell authentication from enabling Phase B or to capture independently verifiable evidence of who completes it, while keeping the primary evidence alive and admissible enough to survive official scrutiny.
+At the accepted Chapter 13 endpoint, Julie’s external objective is to identify or defensibly narrow the physical presentation of `SSO-NS-004`, prevent the Hartwell authentication from enabling Phase B, and preserve independently verifiable evidence while keeping the primary originals intact.
 
 ## Julie’s internal conflict
 

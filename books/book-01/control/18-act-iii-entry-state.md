@@ -1,118 +1,103 @@
 # 18. ACT III ENTRY STATE
 
-## Controlling accepted entry state
+## Controlling accepted Act III state
 
-The accepted manuscript enters Act III at the end of Chapter 12.
+Act III now contains one accepted chapter: Chapter 13, **The Carrier Stream**.
 
-- **Time:** Approximately 07:18 EDT / 16:48 IST
-- **Location:** Downtown Washington; exact street unstated
-- **Vehicle:** PCF-27
+- **Accepted endpoint time:** 07:46:00 EDT / 17:16:00 IST
+- **Accepted endpoint location:** Level six of a public commercial parking garage overlooking the Hartwell Executive Briefing Annex
+- **Vehicle:** PCF-27, parked nose-out toward the west ramp
 - **Characters present:** Julie, Marcus, Elias
-- **Immediate objective:** Reach or affect the Hartwell authentication event while preserving evidence, lives, and the distinction between registered authority and physical custody
 - **Accepted prose after this point:** None
-
-Chapter 13 exists only as a draft. Until promotion, all Chapter 14 planning must begin from this accepted endpoint.
+- **Immediate next gate:** Dedicated Chapter 14 mission lock; no Chapter 14 prose first
 
 ## Physical state at the accepted endpoint
 
 ### Julie
 
-- Drives primarily with her left hand.
-- Right wrist is braced and has little useful grip.
-- Vibration and turning worsen pain.
-- Exhausted and publicly recognizable.
+- Dominant close-third POV remains hers.
+- Right wrist remains braced with little useful grip.
+- Left hand and forearm compensate for steering, writing, and camera handling.
+- Exhausted, publicly recognizable, and physically constrained.
 - No firearm.
 
 ### Marcus
 
-- Front passenger seat with primary evidence.
-- Severe rib pain, reopened scalp wound, thigh injury, damaged boot, impaired balance, and unreliable pedal control.
-- No normal running, fighting, or driving capacity.
+- Severe rib pain, scalp wound, thigh injury, damaged boot, impaired balance, and limited mobility remain active.
+- He retains the primary-original evidence role and controls exfiltration decisions.
+- He cannot run, fight, or drive normally.
 - No firearm.
 
 ### Elias
 
-- Cargo floor with the incident module and administrator-token board.
-- Left-hip injury, bandaged right index finger, dizziness, cold exposure, and exhaustion.
+- Left-hip injury, bandaged right index finger, dizziness, exhaustion, and torn office clothing remain active.
+- He retains the administrator-token board and the dual-partition incident module.
+- He remains technically precise but physically and legally exposed.
 - No firearm.
 
 ## Evidence and custody
 
-### Marcus
+### Marcus retains
 
-- Aluminum telemetry case
+- Aluminum telemetry case and primary evidence drive
 - 136 sealed files
 - 47 incomplete files
-- 311 excluded-file manifest
-- Recovery cartridge
+- Manifest recording 311 excluded files
+- Tamper-bagged recovery-record cartridge
 - Paper custody log
-- Dead transponder
+- Dead PCF-27 telematics module
 - Waterproof evidence folder
 
-### Elias
+### Elias retains
 
-- Administrator-token board
-- Partition A, sealed and read-only
-- Partition B, sealed with valid WSS-4 controller seal
+- Original administrator-token circuit board
+- Partition A: sealed, read-only, integrity verified
+- Partition B: sealed WSS-4 incident package with valid Northbridge controller seal
 
-### Independent records
+### Chapter 13 observation record
 
-- WSS-4 local audit and Northbridge witnesses
-- Chen’s preserved directives
-- Apex incident and production records
-- Sharma/Qureshi and Indian fire-control records
+- Nine manual handling-event markers were entered.
+- Markers 001–007 display exact device times in the prose.
+- The marker entered narratively at 07:45:11 and the marker entered at 07:46:00 do not display separate exact module-time fields.
+- Garage plate, internal-camera, traffic/loading, police, and Hartwell records may exist or be recoverable.
+- The team does not possess or control every potential corroborating record.
+- No marker, camera, registration, certificate, or hardware response identifies the human custodian by itself.
 
-## Active accepted clocks
+## Active clocks
 
 | Event | EDT |
 |---|---:|
-| Hartwell window opens | 07:46:00 |
+| Hartwell local challenge opens | 07:46:00 |
 | Masking Window Two opens | 07:48:00 |
-| Hartwell window closes | 07:48:30 |
+| Hartwell local challenge closes | 07:48:30 |
 | Phase B authorization deadline | 07:49:00 |
 | Masking Window Two closes | 07:54:00 |
 
-## Accepted knowledge boundary
+## Accepted Hartwell observation state
 
-The trio can prove that SSO-NS-004 is registered to Sterling’s office and answered the WSS-4 challenge. They cannot prove:
+Chapter 13 establishes:
 
-- who physically held it;
-- whether Sterling personally ordered or operated anything;
-- what the encrypted blocks contain;
-- what Phase B does;
-- whether Relay K-17 access succeeded; or
-- whether the Indian batteries fired no rounds.
+- PCF-27 is displaced from the immediate motorcade approach and positioned on level six.
+- Julie and Elias maintain continuous or defensibly recoverable observation of the suspected carrier stream.
+- A compact black case passes through the Hartwell staff route.
+- Three support personnel converge on the controlled-door route.
+- The controlled door opens at 07:46:00.
+- Police and Apex pressure are present on the garage level.
+- The west exit is exposed but remains physically viable for PCF-27 to clear the garage and turn west.
 
-## Chapter 13 draft relationship
+Chapter 13 does **not** establish:
 
-The Chapter 13 draft titled **The Carrier Stream** appears to dramatize the locked carrier-stream operation and reach the Hartwell challenge opening.
-
-Draft-only projected state:
-
-- approximately 07:46 EDT;
-- observation established from a public garage;
-- existing evidence retained;
-- Mercer and police pressure present;
-- Hartwell carrier stream narrowed;
-- exact human custodian unresolved.
-
-This projected state is not canon. It is recorded only to support the acceptance review in `27-chapter-13-acceptance-review.md`.
-
-## Approved production direction
-
-The Book 1 ending contract and provisional Act III architecture now permit high-level planning beyond Chapter 13. Those files control production sequence, not story facts.
-
-- `22-book-1-ending-contract.md`
-- `23-word-budget-and-act-iii-architecture.md`
-- `24-thread-disposition-matrix.md`
-
-A later chapter becomes controlling only through its own mission lock, drafted prose, review, and explicit acceptance.
+- the person physically carrying `SSO-NS-004`;
+- that the compact case contains `SSO-NS-004`;
+- Sterling’s personal possession, keystrokes, or command;
+- Tariq’s physical presence;
+- K-17 access;
+- decrypted message content;
+- Phase B’s precise action; or
+- the purpose of the pending Argus source-reconstruction profile.
 
 ## Current production gate
 
-1. Review Chapter 13 against the accepted Chapter 12 endpoint.
-2. Verify exact times, injuries, evidence custody, knowledge, public narrative, and technical limits.
-3. Apply the house-style pass without changing canon.
-4. Update every affected ledger.
-5. Promote or return the chapter for revision.
-6. Draft Chapter 14 only after that decision.
+The Chapter 13 acceptance pass is complete. The next session must lock Chapter 14’s dramatic mission, POV structure, exact authentication/custody problem, abort condition, and immediate endpoint from the accepted 07:46:00 Hartwell state.
+
+Do not draft Chapter 14 during the mission-lock session.

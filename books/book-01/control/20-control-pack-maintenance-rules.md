@@ -78,3 +78,11 @@
 46. Do not edit external historical snapshots as active manuscripts.
 47. Superseded status and planning states are preserved by Git history; do not keep duplicate active copies.
 48. Archive records must say what is historical, why it is non-controlling, and where the active replacement lives.
+
+## Current application record — accepted Chapter 13
+
+- Chapter 13 was promoted only after the acceptance gate changed to **ACCEPT**.
+- The prose move, accepted inventory, project state, accepted count, endpoint, and affected controls are one intentional acceptance change.
+- The exact whitespace-delimited counter is retained at `../../../tools/count_book1_words.py`.
+- Chapter 14 remains blocked until a dedicated mission lock is approved.
+- The accepted endpoint preserves unresolved human custody, K-17, encrypted content, Phase B, and reconstruction-purpose limits.

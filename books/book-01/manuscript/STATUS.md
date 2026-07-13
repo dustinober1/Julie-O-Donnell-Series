@@ -6,19 +6,19 @@
 ## Accepted
 
 - Prologue
-- Chapters 1–12
-- Acts I and II
-- Approximate accepted length: **61,118 words**
-- Canon endpoint: approximately 07:18 EDT / 16:48 IST at the end of Chapter 12
+- Chapters 1–13
+- Acts I and II complete
+- Act III: one accepted chapter
+- Accepted length: **69,830 words**
+- Canon endpoint: **07:46:00 EDT / 17:16:00 IST**, level six of a public garage overlooking Hartwell
+- Chapter 13 title: **The Carrier Stream**
+- Human custodian of `SSO-NS-004`: unresolved
 
 ## Drafted but not accepted
 
-- Chapter 13 — **The Carrier Stream**
-- Draft path: [`../drafts/chapter-13.md`](../drafts/chapter-13.md)
-- Review path: [`../control/27-chapter-13-acceptance-review.md`](../control/27-chapter-13-acceptance-review.md)
-- Status: complete draft retained outside the accepted manuscript
-- No Chapter 13 fact controls Chapter 14 until explicit promotion
+- None
+- Chapter 14 and later prose remain undrafted
 
 ## Next production action
 
-Complete the Chapter 13 acceptance pass. Do not draft Chapter 14 first.
+Run a dedicated Chapter 14 mission-lock planning session from the accepted Chapter 13 endpoint. Do not draft Chapter 14 prose first.

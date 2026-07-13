@@ -2,28 +2,23 @@
 
 This directory contains **accepted prose only**.
 
-The controlling inventory is [`../ACCEPTED_MANUSCRIPT.yaml`](../ACCEPTED_MANUSCRIPT.yaml). A prose file is canon only when it is both:
-
-1. stored under this directory; and
-2. listed in the accepted-manuscript inventory.
+The controlling inventory is [`../ACCEPTED_MANUSCRIPT.yaml`](../ACCEPTED_MANUSCRIPT.yaml). A prose file is canon only when it is both stored under this directory and listed in the accepted-manuscript inventory.
 
 ## Current accepted inventory
 
 - Prologue
-- Chapters 1–12
-- Accepted length: **61,118 words**
-- Accepted endpoint: approximately 07:18 EDT / 16:48 IST at the end of Chapter 12
+- Chapters 1–13
+- Accepted length: **69,830 words**
+- Accepted endpoint: **07:46:00 EDT / 17:16:00 IST**, level six of a public parking garage overlooking Hartwell
 
 ## Directory layout
 
 - `prologue.md`
-- `chapters/chapter-01.md` through `chapters/chapter-12.md`
+- `chapters/chapter-01.md` through `chapters/chapter-13.md`
 - `SOURCE.md` — manuscript authority and migration provenance
 - `STATUS.md` — concise human-readable status pointer
 
-No unaccepted chapter belongs in this directory.
-
-Chapter 13, **The Carrier Stream**, is stored at [`../drafts/chapter-13.md`](../drafts/chapter-13.md). Its existence does not create canon.
+No unaccepted chapter belongs in this directory. No active chapter draft currently exists under `../drafts/`.
 
 ## Authority
 
@@ -33,13 +28,6 @@ If a subordinate document conflicts with accepted prose, correct the subordinate
 
 ## Promotion rule
 
-A draft becomes accepted only through one explicit production commit that:
-
-- moves the reviewed prose into this directory;
-- adds it to `../ACCEPTED_MANUSCRIPT.yaml`;
-- updates the accepted word count and endpoint;
-- updates `../../../PROJECT_STATE.yaml`;
-- updates every affected timeline, character, relationship, evidence, knowledge, technology, public-narrative, and open-thread control; and
-- records the acceptance verdict.
+A draft becomes accepted only through one explicit production commit that moves the reviewed prose here, adds it to the manifest, updates the accepted word count and endpoint, updates `PROJECT_STATE.yaml`, updates every affected control, and records the verdict.
 
 See [`../control/25-chapter-acceptance-gate.md`](../control/25-chapter-acceptance-gate.md).

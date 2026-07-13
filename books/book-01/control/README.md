@@ -1,8 +1,8 @@
-# Canon Control Pack v3.0
+# Canon Control Pack v3.1
 
 The accepted manuscript always outranks this control pack.
 
-Version 3.0 adds repository governance, a Book 1 ending contract, a word budget, a provisional Act III architecture, a full thread-disposition matrix, a chapter acceptance gate, a recurring-character system, and a formal Chapter 13 draft review. It does not accept Chapter 13 or alter accepted prose.
+Version 3.1 records Chapter 13 acceptance, the 69,830-word accepted total, the 07:46:00 EDT / 17:16:00 IST Hartwell endpoint, and the dedicated Chapter 14 mission-lock gate.
 
 - [Overview](00-overview.md)
 - [1. Document Purpose and Use](01-document-purpose-and-use.md)
