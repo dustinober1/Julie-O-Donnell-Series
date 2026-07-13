@@ -79,7 +79,7 @@
 47. Superseded status and planning states are preserved by Git history; do not keep duplicate active copies.
 48. Archive records must say what is historical, why it is non-controlling, and where the active replacement lives.
 
-## Current application record — accepted Chapter 15
+## Historical application record — accepted Chapter 15
 
 - `31-chapter-15-acceptance-review.md` records **ACCEPT** after one capitalization-only copyedit at 5,993 words.
 - Accepted inventory is Prologue and Chapters 1–15 at **81,586** words.
@@ -88,7 +88,9 @@
 - Seven originals are separately sealed in MPD custody; no final federal/technical intake is established.
 - Book 1 remains not publication-ready.
 
-## Current application record — Chapter 16 first draft
+## Historical pre-acceptance application record — Chapter 16 first draft (superseded)
+
+The entries below preserve the pre-acceptance audit state only. They are superseded by the Chapter 16 acceptance maintenance record that follows and do not describe current production status.
 
 - `32-chapter-16-mission-lock.md` remains the controlling production plan for Chapter 16 — **The Hold Order**.
 - One active first draft exists only at `../drafts/chapter-16.md`.
@@ -104,7 +106,7 @@
 
 ## Chapter 16 acceptance maintenance record — 2026-07-13
 
-`33-chapter-16-acceptance-review.md` records **ACCEPT** with no prose change at 6,024 words. The reviewed blob `ff6fbaa66170a03502589309b3d1c2d74b50a289` now lives only at `../manuscript/chapters/chapter-16.md`; the draft copy is removed.
+`33-chapter-16-acceptance-review.md` records **ACCEPT** after one surgical POV-firewall revision at 6,024 words. The reviewed blob `dd5249f4b510a9da9ad19ab2902a95ce1e62a1d8` now lives only at `../manuscript/chapters/chapter-16.md`; the draft copy is removed. The revision removes narrator-level Washington, Hartwell, Payload 88, and MPD-specific knowledge from Sharma's bounded close-third movement without changing word count, events, or endpoint.
 
 The accepted manifest, project state, status files, affected canon ledgers, series character ledger, and validation workflow are synchronized to 87,610 words and the 08:15:52 EDT / 17:45:52 IST endpoint. The validator protects Chapters 14, 15, and 16; requires the Chapter 16 review; prohibits a Chapter 16 draft and Chapter 17 prose; and verifies the accepted total and endpoint.
 
