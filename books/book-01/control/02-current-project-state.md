@@ -7,116 +7,93 @@ The authoritative production status is `../../../PROJECT_STATE.yaml`. The author
 | Item | Status |
 |---|---|
 | Prologue | Accepted |
-| Chapters 1–13 | Accepted |
+| Chapters 1–14 | Accepted |
 | Act I | Complete |
 | Act II | Complete |
-| Act III | Chapter 13 accepted; Chapter 14 mission locked but not drafted |
-| Accepted length | 69,830 words |
+| Act III | Chapters 13–14 accepted; Chapter 15 mission locked, not drafted |
+| Accepted length | 75,593 words |
 | Planning target | 112,500 words |
 | Target range | 100,000–125,000 words |
-| Accepted endpoint | Chapter 13, 07:46:00 EDT / 17:16:00 IST |
-| Chapter 13 | Accepted, **The Carrier Stream** |
-| Chapter 13 path | `../manuscript/chapters/chapter-13.md` |
-| Chapter 13 review | `27-chapter-13-acceptance-review.md` — ACCEPT |
-| Chapter 14 mission lock | `28-chapter-14-mission-lock.md` — approved planning |
-| Chapter 14 working title | **The Witness Line** |
-| Chapter 14 prose | Not drafted |
-| Immediate production gate | Draft Chapter 14 under `../drafts/` from the approved mission lock |
+| Accepted endpoint | Chapter 14, 07:49:32 EDT / 17:19:32 IST |
+| Chapter 14 | Accepted, **The Witness Line** |
+| Chapter 14 path | `../manuscript/chapters/chapter-14.md` |
+| Chapter 14 review | `29-chapter-14-acceptance-review.md` — ACCEPT |
+| Chapter 15 mission lock | `30-chapter-15-mission-lock.md` — approved planning |
+| Chapter 15 working title | **The Split Record** |
+| Chapter 15 prose | Not drafted |
+| Immediate production gate | Draft Chapter 15 under `../drafts/chapter-15.md` from the approved mission lock |
 
 ## Accepted endpoint
 
-Julie, Marcus, and Elias are on level six of a public commercial parking garage overlooking the Hartwell Executive Briefing Annex. PCF-27 is parked near the west ramp and remains an exposed but viable evidence-preserving exfiltration vehicle.
+At 07:49:32 EDT / 17:19:32 IST, Julie, Marcus, and Elias remain on public commercial garage level six beside powered-down PCF-27 under MPD scene control.
 
-At 07:46:00 EDT, Hartwell's controlled door opens. A three-person support stream enters after a compact black case has moved through the external staff route. Julie has the vehicle, lane, event timing, and multiple potentially recoverable camera records. She still cannot see which person physically carries `SSO-NS-004`.
+- The west route is blocked by police vehicles.
+- PCF-27 is off and the key is visible.
+- Hartwell has acknowledged and held a relevant local-challenge/access record.
+- The exact Hartwell serial, presenter, receiver, challenge content, and compact-case contents remain undisclosed.
+- Phase B's 07:49 deadline has passed without an observable answer.
+- Masking Window Two remains active until 07:54.
+- No complete evidence transfer receipt exists.
+- No Chapter 15 movement has occurred.
 
-The approved Chapter 14 plan does not change this endpoint or resolve the custodian. It defines a drafting mission that converts the Hartwell challenge into an independent Metropolitan Police record and ends in documented scene control when the last nonviolent exit closes.
+## Current character state
 
-## Current character locations
-
-- **Julie O'Donnell:** Beside PCF-27 on garage level six, maintaining the Hartwell sightline; braced right wrist remains nearly useless for grip.
-- **Marcus Reed:** At PCF-27 with all primary originals and the paper custody record; ribs, scalp, thigh, boot, and balance remain impaired.
-- **Elias Thorne:** Beside Julie with the dual-partition incident module and administrator-token board; hip, right-index injury, dizziness, and exhaustion remain active.
-- **Sarah Chen:** Last accepted location is Apex Building Three command, coordinating capture and preserving force/evidence records.
-- **Arthur Vance:** Last accepted location is within or connected to Apex command; exact immediate location unknown.
-- **Senator Sterling:** Inside Hartwell's broader briefing movement or motorcade network; personal possession of the signer is unproved.
-- **Daniel Mercer:** On garage level six, capture-oriented and observing the trio.
-- **Metropolitan Police:** At least one officer and additional units are responding from the public lookout and plate record.
-- **Ordinary Hartwell personnel:** Present in the support stream; complicity is not established.
-- **Major Tariq / K-17 team:** Physical location and relay-access outcome unknown.
-
-## Active clocks at the accepted endpoint
-
-| Event | EDT | Status at endpoint |
-|---|---:|---|
-| Hartwell authentication opens | 07:46:00 | Open |
-| Masking Window Two opens | 07:48:00 | 2:00 remaining |
-| Hartwell authentication closes | 07:48:30 | 2:30 remaining |
-| Phase B authorization deadline | 07:49:00 | 3:00 remaining |
-| Masking Window Two closes | 07:54:00 | 8:00 remaining |
+- **Julie:** Right wrist braced with little useful grip; exhausted; publicly recognizable; no firearm; under MPD control.
+- **Marcus:** Severe rib, scalp, thigh, boot, balance, breathing, and mobility limitations; retains all primary originals; cannot drive, run, carry, or fight normally.
+- **Elias:** Left-hip injury, bandaged/clumsy right index, dizziness, exhaustion, and tremor; retains the original board and dual-partition module.
+- **Ortiz/MPD:** Controls the scene, body-camera record, dispatch preservation, west gate, and pending intake without endorsing the trio's interpretation.
+- **Mercer/Apex:** May assert classification or property claims but has no completed custody.
+- **Sharma/Qureshi:** Retain independent Indian anomaly, abort, and no-fire records; no contact with Julie.
 
 ## Evidence state
 
 ### With Marcus
 
-- Aluminum telemetry case and primary evidence drive
+- Aluminum telemetry case
 - 136 sealed files
 - 47 incomplete files
-- Manifest showing 311 excluded files
-- Tamper-bagged recovery-record cartridge
+- 311-exclusion manifest
+- Recovery-record cartridge
 - Paper custody log
 - Dead PCF-27 telematics module
-- Waterproof evidence folder
+- Waterproof folder
 
 ### With Elias
 
 - Original administrator-token circuit board
-- Partition A: sealed, read-only limited derivative
-- Partition B: sealed WSS-4 capture with valid Northbridge controller seal
-- Device handling journal containing manual event markers through the 07:46 opening
+- Partition A: sealed/read-only
+- Partition B: sealed WSS-4 capture
+- Handling-event journal
 
-### External or potentially recoverable records
+### Independent records
 
-- Garage entrance plate image at 07:21:52
-- Garage internal camera records of vehicle placement and the trio's observation position
-- Municipal traffic camera and private loading-camera coverage of the support lane
-- MPD plate-correlation and response records
-- Hartwell traffic-control, perimeter, staff-lane, and local-challenge records
-- WSS-4 local audit, Bell/operator testimony, Chen's preserved directives, Apex records, and Sharma/Qureshi records
+- Ortiz body camera
+- MPD dispatch and cross-reference
+- Commercial-garage records
+- Hartwell held record
+- WSS-4 local audit
+- Traffic/private-loading records
+- Chen/Apex directives
+- Sharma/Qureshi local records
 
-## What Chapter 13 establishes
+Scene control, serial collection, physical proximity, or classification claims are not a completed transfer.
 
-- PCF-27 was displaced from the immediate moving approach and parked in a public garage.
-- The trio maintained continuous direct observation except one documented twenty-one-second physical obstruction covered by potentially recoverable external records.
-- The 07:42:30 hard-abort conditions genuinely passed.
-- A compact black case moved through the support/staff route.
-- A three-person stream entered Hartwell at 07:46:00.
-- The human carrier or custodian of `SSO-NS-004` remains unproved.
-- Event markers prove only manual input at the module's recorded device time, not the external event.
+## Approved Chapter 15 mission
 
-## What remains unproved
+Chapter 15, working title **The Split Record**, must:
 
-- Who physically held `SSO-NS-004` at WSS-4 or Hartwell.
-- Whether Sterling personally possessed, presented, or directed the signer.
-- What the encrypted messages say.
-- What Phase B does.
-- Whether K-17 access succeeded.
-- The exact purpose of the pending Argus source-reconstruction profile.
-- Which independent authority will receive durable custody of the primary evidence.
-
-## Approved Chapter 14 drafting mission
-
-Chapter 14, working title **The Witness Line**, must:
-
-- open exactly at 07:46:00 EDT / 17:16:00 IST;
-- remain Julie-dominant close third with no secondary cutaway;
-- convert the Hartwell challenge into a neutral, time-synchronized Metropolitan Police record;
-- narrow the possible presenter without naming one;
-- preserve Marcus's and Elias's separate original-evidence roles;
-- use the trio's injuries to make another physical escape untenable;
-- redirect into documented Metropolitan Police scene control when the west route closes;
-- end after the 07:49 deadline with Masking Window Two active; and
-- leave the human presenter, Phase B, K-17, encrypted messages, and reconstruction purpose unresolved.
+- open exactly at 07:49:32 EDT / 17:19:32 IST;
+- remain dominated by lawful custody and record survival;
+- use Julie close third plus one bounded Sharma cutaway;
+- create complete, separate interim MPD receipt entries before medical separation;
+- keep all originals sealed, offline, uncombined, and precisely described;
+- show Masking Window Two producing a superseding allied reconstruction that removes K-17 anomalies from the actionable picture while Sharma preserves the local contradiction;
+- leave Phase B authorization, K-17 access, Hartwell presenter, exact serial, compact-case contents, and WSS plaintext unresolved;
+- end at 07:56:40 EDT / 17:26:40 IST with the trio separated and MPD holding the originals under one cross-referenced incident; and
+- remain planning-only until accepted prose exists.
 
 ## Immediate production action
 
-Draft Chapter 14 under `../drafts/` from `28-chapter-14-mission-lock.md`. Target 5,700–6,400 words. Do not add it to `../ACCEPTED_MANUSCRIPT.yaml`, do not create accepted Chapter 14 prose, and do not update accepted word counts or endpoint during drafting.
+Read the accepted Prologue and Chapters 1–14, `30-chapter-15-mission-lock.md`, relevant active controls, and Narrative House Style v2.2 in full. Then draft Chapter 15 under `../drafts/chapter-15.md`.
+
+Do not modify accepted prose, `../ACCEPTED_MANUSCRIPT.yaml`, the accepted word count, or the accepted endpoint during drafting.
