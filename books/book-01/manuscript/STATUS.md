@@ -20,11 +20,25 @@
 - Exact Hartwell challenge serial: held record acknowledged, not disclosed
 - Evidence transfer: pending at the accepted endpoint; no receipt complete in accepted prose
 
+The accepted inventory, accepted word count, and accepted endpoint are unchanged by the Chapter 15 first draft.
+
 ## Drafted but not accepted
 
-None.
+Chapter 15 — **The Split Record**
 
-Chapter 15 and later prose are not drafted.
+- Draft path: [`../drafts/chapter-15.md`](../drafts/chapter-15.md)
+- Status: complete first draft; **unaccepted and non-canon**
+- Exact draft word count: **5,993 whitespace-delimited Markdown words**
+- Opening: **07:49:32 EDT / 17:19:32 IST**
+- Draft endpoint: **07:56:40 EDT / 17:26:40 IST**
+- POV: Julie close third plus one bounded Sharma cutaway
+- Controlling mission lock: [`../control/30-chapter-15-mission-lock.md`](../control/30-chapter-15-mission-lock.md)
+- Canon effect: none
+- Next gate: formal Chapter 15 acceptance, continuity, evidence-limit, injury, style, and revision review
+
+No accepted Chapter 15 file exists.
+
+Chapter 16 and later prose are not drafted. Chapter 16 must not be drafted from the unaccepted Chapter 15 endpoint.
 
 ## Approved and completed controls
 
@@ -33,18 +47,10 @@ Chapter 15 and later prose are not drafted.
 - Chapter 15 mission lock: [`../control/30-chapter-15-mission-lock.md`](../control/30-chapter-15-mission-lock.md)
 - Chapter acceptance gate: [`../control/25-chapter-acceptance-gate.md`](../control/25-chapter-acceptance-gate.md)
 
-## Chapter 15 planning state
-
-- Working title: **The Split Record**
-- Dominant function: preserve a linked counterrecord through lawful detention, medical separation, and interim MPD evidence transfer while Masking Window Two supersedes the allied source picture
-- Opening: 07:49:32 EDT / 17:19:32 IST
-- Planned endpoint: 07:56:40 EDT / 17:26:40 IST
-- POV: Julie close third plus one bounded Sharma cutaway
-- Target: 5,700–6,400 words
-- Canon effect: none until accepted
-
 ## Next production action
 
-Draft Chapter 15 under `../drafts/chapter-15.md` from `../control/30-chapter-15-mission-lock.md`.
+Run a dedicated formal Chapter 15 acceptance review.
 
-Do not change the accepted inventory, accepted word count, accepted endpoint, or Chapter 14 prose during drafting.
+That session must read the accepted manuscript, Chapter 15 mission lock, and complete Chapter 15 draft in full before issuing **ACCEPT**, **REVISE**, **HOLD**, or **REJECT**.
+
+Do not change the accepted inventory, accepted word count, accepted endpoint, or Chapter 14 prose unless and until an **ACCEPT** verdict authorizes a same-pass promotion.

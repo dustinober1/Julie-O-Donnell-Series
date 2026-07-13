@@ -4,7 +4,17 @@ This directory contains prose that may be complete, revised, or mission-locked b
 
 ## Current drafts
 
-No active Book 1 chapter draft is present.
+Chapter 15 — **The Split Record**
+
+- Path: `chapter-15.md`
+- Status: complete first draft; **unaccepted and non-canon**
+- Exact draft word count: **5,993 whitespace-delimited Markdown words**
+- Opening: **07:49:32 EDT / 17:19:32 IST**
+- Draft endpoint: **07:56:40 EDT / 17:26:40 IST**
+- POV: Julie close third plus one bounded Sharma cutaway
+- Controlling mission lock: `../control/30-chapter-15-mission-lock.md`
+- Accepted-manuscript effect: none
+- Next gate: formal Chapter 15 acceptance, continuity, evidence-limit, injury, style, and revision review
 
 Chapter 14 — **The Witness Line** — was accepted unchanged and moved to:
 
@@ -14,25 +24,31 @@ Its formal review is:
 
 `../control/29-chapter-14-acceptance-review.md`
 
-Chapter 15 and later prose have not been drafted.
+No Chapter 14 draft remains active.
 
-## Approved Chapter 15 planning
+## Accepted manuscript remains unchanged
 
-- Mission lock: `../control/30-chapter-15-mission-lock.md`
-- Working title: **The Split Record**
-- Opening: 07:49:32 EDT / 17:19:32 IST
-- Planned endpoint: 07:56:40 EDT / 17:26:40 IST
-- Target: 5,700–6,400 words
-- POV: Julie close third plus one bounded Sharma cutaway
-- Status: approved planning only; not story canon
+- Accepted inventory: Prologue and Chapters 1–14
+- Accepted words: **75,593**
+- Accepted endpoint: **07:49:32 EDT / 17:19:32 IST**
+- Accepted Chapter 14 path: `../manuscript/chapters/chapter-14.md`
+- No accepted Chapter 15 file exists
+
+The Chapter 15 draft endpoint is not canon and may not control later prose.
 
 ## Next action
 
-Draft Chapter 15 at:
+Run the formal Chapter 15 acceptance review.
 
-`chapter-15.md`
+The review session must read, in full:
 
-The drafting session must read the accepted manuscript and the Chapter 15 mission lock in full before producing prose.
+1. the accepted manuscript;
+2. `../control/30-chapter-15-mission-lock.md`; and
+3. `chapter-15.md`.
+
+It must issue exactly one verdict: **ACCEPT**, **REVISE**, **HOLD**, or **REJECT**.
+
+Do not draft Chapter 16 before Chapter 15 passes the acceptance gate and is promoted.
 
 ## Rules
 

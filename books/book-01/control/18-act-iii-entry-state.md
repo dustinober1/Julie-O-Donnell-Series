@@ -15,8 +15,9 @@ Act III contains two accepted chapters:
 - **Vehicle:** PCF-27 powered down; key visible; west route blocked by police vehicles
 - **Characters present:** Julie, Marcus, Elias, Ortiz/MPD personnel, Mercer/Apex personnel
 - **Accepted prose after this point:** None
-- **Chapter 15 planning:** Mission locked in `30-chapter-15-mission-lock.md`
-- **Immediate next gate:** Draft Chapter 15 under `../drafts/chapter-15.md`
+- **Chapter 15 mission lock:** `30-chapter-15-mission-lock.md`
+- **Chapter 15 draft:** `../drafts/chapter-15.md`, 5,993 words, unaccepted and non-canon
+- **Immediate next gate:** Formal Chapter 15 acceptance, continuity, evidence-limit, injury, style, and revision review
 
 ## Physical state
 
@@ -74,11 +75,11 @@ Act III contains two accepted chapters:
 - Chen/Apex directives
 - Sharma/Qureshi local records
 
-No primary original is open, combined, or transferred. Scene control and serial collection are not constructive transfer.
+No primary original is open, combined, or transferred in accepted canon. Scene control and serial collection are not constructive transfer.
 
-## Active clocks
+## Active clocks at the accepted endpoint
 
-| Event | EDT | IST | State |
+| Event | EDT | IST | Accepted state |
 |---|---:|---:|---|
 | Hartwell challenge closes | 07:48:30 | 17:18:30 | Passed |
 | Phase B authorization deadline | 07:49:00 | 17:19:00 | Passed without observable answer |
@@ -98,32 +99,37 @@ No primary original is open, combined, or transferred. Scene control and serial 
 - No complete receipt exists.
 - Phase B, K-17, WSS plaintext, Masking Window Two's consequence, and reconstruction purpose remain unresolved.
 
-## Approved Chapter 15 planning state
+## Chapter 15 first-draft state
 
-Chapter 15, working title **The Split Record**, is approved planning only.
+Chapter 15 — **The Split Record** — now has one active first draft:
 
-It requires the draft to:
+- **Path:** `../drafts/chapter-15.md`
+- **Exact draft word count:** 5,993 whitespace-delimited Markdown words
+- **Opening:** 07:49:32 EDT / 17:19:32 IST
+- **Draft endpoint:** 07:56:40 EDT / 17:26:40 IST
+- **POV:** Julie close third plus one bounded Sharma cutaway
+- **Dominant function:** Lawful custody and linked counterrecord survival
+- **Status:** Unaccepted and non-canon
+- **Accepted-manuscript effect:** None
 
-- open exactly at 07:49:32 EDT / 17:19:32 IST;
-- keep lawful custody and record survival as the dominant function;
-- use Julie close third plus one bounded Sharma cutaway;
-- complete a separate, itemized interim MPD transfer before medical separation;
-- preserve every seal, partition, object distinction, and evidence limitation;
-- show a superseding allied reconstruction remove K-17 anomalies from the actionable picture during Masking Window Two while Sharma preserves the local contradiction;
-- keep Phase B authorization, K-17 access, Hartwell presenter, exact serial, compact-case contents, and WSS plaintext unresolved;
-- end at 07:56:40 EDT / 17:26:40 IST with the trio separated and the interim MPD receipt complete; and
-- remain 5,700–6,400 words.
+The draft dramatizes the approved interim MPD transfer and Sharma reconstruction consequence, but those events have not occurred in accepted canon.
+
+The accepted state remains the Chapter 14 endpoint above until a formal review issues **ACCEPT** and a same-pass promotion updates prose, inventory, endpoint, count, timeline, character state, custody, knowledge, technology, institutions, public narrative, threads, and series controls.
 
 ## Current production gate
 
-Draft Chapter 15 under `../drafts/chapter-15.md` from `30-chapter-15-mission-lock.md`.
+Run the formal Chapter 15 acceptance review from:
+
+- the complete accepted manuscript;
+- `30-chapter-15-mission-lock.md`; and
+- `../drafts/chapter-15.md`.
 
 Do not:
 
-- modify accepted prose;
+- modify accepted prose during the drafting pass;
 - update `../ACCEPTED_MANUSCRIPT.yaml`;
 - alter the 75,593 accepted total;
 - alter the accepted Chapter 14 endpoint;
-- create accepted Chapter 15 prose;
-- treat the planned Chapter 15 endpoint as canon before acceptance; or
-- draft Chapter 16 before Chapter 15 passes the formal acceptance gate.
+- create accepted Chapter 15 prose without an **ACCEPT** verdict;
+- treat the draft endpoint as canon; or
+- draft Chapter 16 before Chapter 15 passes the formal acceptance gate and is promoted.

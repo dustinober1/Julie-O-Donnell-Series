@@ -16,8 +16,10 @@ Current snapshot:
 - Accepted endpoint: **07:49:32 EDT / 17:19:32 IST**, public parking garage level six beside powered-down PCF-27 under Metropolitan Police scene control
 - Chapter 13, **The Carrier Stream**: accepted
 - Chapter 14, **The Witness Line**: accepted unchanged after formal review
-- Chapter 15, working title **The Split Record**: mission locked; prose not drafted
-- Immediate production action: draft Chapter 15 under `books/book-01/drafts/chapter-15.md` from the approved mission lock
+- Chapter 15, working title **The Split Record**: first draft complete at **5,993 words** under `books/book-01/drafts/chapter-15.md`; unaccepted and non-canon
+- Chapter 15 draft endpoint: **07:56:40 EDT / 17:26:40 IST**
+- Immediate production action: run the formal Chapter 15 acceptance, continuity, evidence-limit, injury, style, and revision review
+- Chapter 16: not drafted and must not be drafted from the unaccepted Chapter 15 endpoint
 
 ## Source-of-truth hierarchy
 
@@ -64,15 +66,18 @@ Accepted prose outranks every summary, tracker, plan, and draft. Draft prose can
 - [Chapter 14 mission lock](books/book-01/control/28-chapter-14-mission-lock.md)
 - [Chapter 14 acceptance review](books/book-01/control/29-chapter-14-acceptance-review.md)
 - [Chapter 15 mission lock](books/book-01/control/30-chapter-15-mission-lock.md)
+- [Chapter 15 first draft](books/book-01/drafts/chapter-15.md)
 - [Series recurring-character ledger](series/recurring-character-ledger.md)
 
 ## Chapter 15 production rule
 
-`books/book-01/control/30-chapter-15-mission-lock.md` is approved planning, not accepted story canon.
+`books/book-01/drafts/chapter-15.md` is a complete first draft at **5,993 whitespace-delimited Markdown words**. It opens at **07:49:32 EDT / 17:19:32 IST** and ends at the draft-only state of **07:56:40 EDT / 17:26:40 IST**.
 
-Draft Chapter 15 only under `books/book-01/drafts/chapter-15.md`. The draft must open from the exact accepted Chapter 14 endpoint, preserve all custody and knowledge limits, use the locked Julie-plus-Sharma POV structure, and remain unaccepted until formal review.
+The draft remains unaccepted and non-canon. The accepted inventory, accepted word count, accepted Chapter 14 endpoint, and accepted Chapter 14 prose remain unchanged.
 
-Do not change the accepted inventory, accepted word count, accepted endpoint, or accepted Chapter 14 prose during Chapter 15 drafting.
+The next gate is a dedicated formal Chapter 15 acceptance review. That review must read the accepted manuscript, the Chapter 15 mission lock, and the complete Chapter 15 draft in full before issuing **ACCEPT**, **REVISE**, **HOLD**, or **REJECT**.
+
+Do not draft Chapter 16 from the unaccepted Chapter 15 endpoint.
 
 ## Permanent continuity repair
 
