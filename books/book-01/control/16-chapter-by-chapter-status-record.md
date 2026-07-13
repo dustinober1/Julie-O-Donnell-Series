@@ -98,42 +98,38 @@ The accepted-manuscript inventory in `../ACCEPTED_MANUSCRIPT.yaml` controls acce
 - **Acceptance review:** `27-chapter-13-acceptance-review.md` — **ACCEPT**.
 - **Exact word count:** 6,175 whitespace-delimited Markdown words.
 - **Time:** Approximately 07:18–07:46 EDT / 16:48–17:16 IST.
-- **Purpose:** Complete the moving physical-custodian identification operation, displace PCF-27 from the immediate motorcade approach, establish continuous or recoverable observation, and reach the Hartwell challenge without inventing the human custodian.
-- **Hard-abort result:** Both locked conditions pass at 07:42:30; the west route remains exposed but viable.
-- **Evidence/custody:** Marcus retains all primary originals and exfiltration control. Elias retains the dual-partition incident module and administrator-token board.
-- **Endpoint:** Level six of a public parking garage overlooking Hartwell. The controlled door opens at 07:46:00. A three-person support stream and compact black case are observed. The human custodian of `SSO-NS-004` remains unresolved.
+- **Purpose:** Complete the moving physical-custodian identification operation, establish continuous or recoverable observation, and reach the Hartwell challenge without inventing the human custodian.
+- **Hard-abort result:** Both locked conditions pass at 07:42:30.
+- **Endpoint:** Garage level six at 07:46:00; three-person support stream and compact black case observed; human custodian unresolved.
 
 ## Chapter 14 — The Witness Line
 
-- **Status:** Complete first draft; **unaccepted and non-canon**.
-- **Draft path:** `../drafts/chapter-14.md`.
-- **Exact draft word count:** 5,763 whitespace-delimited Markdown words.
+- **Status:** Accepted canon.
+- **Accepted path:** `../manuscript/chapters/chapter-14.md`.
 - **Mission lock:** `28-chapter-14-mission-lock.md`.
-- **Controlling opening:** 07:46:00 EDT / 17:16:00 IST, exact Chapter 13 endpoint on garage level six.
-- **POV:** Julie-dominant close third throughout; no secondary cutaway.
-- **Dominant mission executed:** Julie time-binds the Hartwell challenge to the observed carrier stream in an independent MPD body-camera and dispatch record, narrows the possible presenter without naming one, and protects separated evidence through the transition to police scene control.
-- **Draft success state:** MPD records Julie's pre-event facts and limits; dispatch routes the preservation request; the dark-overcoat entrant is outside before the steady-green accepted/complete exterior state; Hartwell acknowledges the relevant record and hold before 07:48:30.
-- **Draft abort state:** The west route becomes physically blocked at 07:48:24; Julie terminates the observation mission, PCF-27 is shut down under police instruction, and no ramming, firearm escalation, civilian harm, or attack on an honest officer occurs.
-- **Draft endpoint:** 07:49:32 EDT / 17:19:32 IST, garage level six. MPD controls the scene and west gate; PCF-27 is off with the key visible; Marcus and Elias retain their separate evidence roles; no transfer receipt is complete.
-- **Still unresolved in draft:** Exact signer serial at Hartwell, physical presenter, compact-case contents, Phase B state, K-17 access, WSS-4 plaintext, Masking Window Two function, and reconstruction-profile purpose.
-- **Accepted manuscript impact:** None. Accepted scope remains Prologue and Chapters 1–13, accepted total remains 69,830, and accepted endpoint remains 07:46:00 EDT / 17:16:00 IST.
-- **Next gate:** Formal Chapter 14 acceptance, continuity, evidence-limit, injury, style, and revision review.
-- **Prohibitions:** Do not add Chapter 14 to `../ACCEPTED_MANUSCRIPT.yaml`, create `../manuscript/chapters/chapter-14.md`, update accepted word counts or endpoint, or draft Chapter 15 before an explicit acceptance verdict.
+- **Acceptance review:** `29-chapter-14-acceptance-review.md` — **ACCEPT**.
+- **Reviewed blob:** `78f7fff02cd271fecbc94f7daf7151dbebbd5c6d`.
+- **Exact word count:** 5,763 whitespace-delimited Markdown words.
+- **Time:** 07:46:00–07:49:32 EDT / 17:16:00–17:19:32 IST.
+- **Dominant function:** Create the independent MPD/Hartwell witness line and abort the observation mission when the west route closes.
+- **Endpoint:** Garage level six beside powered-down PCF-27 under MPD scene control; evidence remains separately held; no transfer receipt complete.
+- **Accepted manuscript total:** 75,593 words.
+- **Still unresolved:** Presenter, exact serial, compact-case contents, WSS plaintext, Phase B, K-17, Masking Window Two consequence, and reconstruction purpose.
 
-## Chapter 15 and later
+## Chapter 15 — The Split Record
 
-- **Status:** Not drafted.
+- **Status:** Mission locked; no prose; non-canon planning.
+- **Mission lock:** `30-chapter-15-mission-lock.md`.
+- **Opening:** Exact accepted Chapter 14 endpoint, 07:49:32 EDT / 17:19:32 IST.
+- **Dominant function:** Preserve a linked counterrecord through lawful detention, medical separation, and interim MPD evidence transfer while Masking Window Two supersedes the allied source picture.
+- **POV:** Julie close third plus one bounded Sharma cutaway.
+- **Target:** 5,700–6,400 words.
+- **Planned endpoint:** 07:56:40 EDT / 17:26:40 IST.
+- **Canon effect:** None until drafted, reviewed, accepted, and promoted.
+- **Next gate:** Draft under `../drafts/chapter-15.md`.
+
+## Chapter 16 and later
+
+- **Status:** Not drafted and not individually mission locked.
 - **Planning:** High-level functions remain provisional in `23-word-budget-and-act-iii-architecture.md`.
 - **Rule:** No later chapter function is canon until separately locked, drafted, reviewed, and accepted.
-
----
-## Chapter 14 — The Witness Line — accepted
-- Accepted path: `../manuscript/chapters/chapter-14.md`
-- Mission lock: `28-chapter-14-mission-lock.md`
-- Review: `29-chapter-14-acceptance-review.md`
-- Reviewed blob: `78f7fff02cd271fecbc94f7daf7151dbebbd5c6d`
-- Verdict: **ACCEPT**; 5,763 words before and after review; no prose change.
-- Opening: 07:46:00 EDT / 17:16:00 IST.
-- Endpoint: 07:49:32 EDT / 17:19:32 IST under MPD scene control; no transfer receipt.
-- Accepted manuscript total: 75,593 words.
-- Chapter 15 and later: not drafted; next gate is mission planning/locking only.
