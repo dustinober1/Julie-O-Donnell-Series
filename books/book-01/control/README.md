@@ -1,8 +1,8 @@
-# Canon Control Pack v3.2
+# Canon Control Pack v3.3
 
 The accepted manuscript always outranks this control pack.
 
-Version 3.2 records the approved Chapter 14 mission lock, **The Witness Line**, while preserving the 69,830-word accepted total, the 07:46:00 EDT / 17:16:00 IST Hartwell endpoint, and Chapter 14's undrafted/non-canon status.
+Version 3.3 records accepted Chapter 14 and the approved Chapter 15 mission lock, **The Split Record**, while preserving the 75,593-word accepted total and the 07:49:32 EDT / 17:19:32 IST endpoint.
 
 - [Overview](00-overview.md)
 - [1. Document Purpose and Use](01-document-purpose-and-use.md)
@@ -33,5 +33,11 @@ Version 3.2 records the approved Chapter 14 mission lock, **The Witness Line**, 
 - [26. Repository Governance Repair Record](26-repository-governance-repair-record.md)
 - [27. Chapter 13 Acceptance Review](27-chapter-13-acceptance-review.md)
 - [28. Chapter 14 Mission Lock](28-chapter-14-mission-lock.md)
+- [29. Chapter 14 Acceptance Review](29-chapter-14-acceptance-review.md)
+- [30. Chapter 15 Mission Lock](30-chapter-15-mission-lock.md)
 
 Cross-book character continuity is controlled separately in [`../../../series/recurring-character-ledger.md`](../../../series/recurring-character-ledger.md).
+
+## Current gate
+
+Chapter 15 may now be drafted only from `30-chapter-15-mission-lock.md` under `../drafts/chapter-15.md`. The mission lock is approved planning, not accepted story canon.

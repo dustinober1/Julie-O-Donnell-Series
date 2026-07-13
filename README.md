@@ -16,8 +16,8 @@ Current snapshot:
 - Accepted endpoint: **07:49:32 EDT / 17:19:32 IST**, public parking garage level six beside powered-down PCF-27 under Metropolitan Police scene control
 - Chapter 13, **The Carrier Stream**: accepted
 - Chapter 14, **The Witness Line**: accepted unchanged after formal review
-- Chapter 15 and later prose: not drafted
-- Immediate production action: a dedicated Chapter 15 mission-planning and mission-lock session; do not draft Chapter 15 in that session
+- Chapter 15, working title **The Split Record**: mission locked; prose not drafted
+- Immediate production action: draft Chapter 15 under `books/book-01/drafts/chapter-15.md` from the approved mission lock
 
 ## Source-of-truth hierarchy
 
@@ -63,11 +63,16 @@ Accepted prose outranks every summary, tracker, plan, and draft. Draft prose can
 - [Chapter 13 acceptance review](books/book-01/control/27-chapter-13-acceptance-review.md)
 - [Chapter 14 mission lock](books/book-01/control/28-chapter-14-mission-lock.md)
 - [Chapter 14 acceptance review](books/book-01/control/29-chapter-14-acceptance-review.md)
+- [Chapter 15 mission lock](books/book-01/control/30-chapter-15-mission-lock.md)
 - [Series recurring-character ledger](series/recurring-character-ledger.md)
 
 ## Chapter 15 production rule
 
-Chapter 15 has no accepted mission lock and no prose. The next session may lock its dramatic function, evidence/custody problem, clocks, POV, abort condition, and endpoint. It must not draft Chapter 15 until that planning gate is complete.
+`books/book-01/control/30-chapter-15-mission-lock.md` is approved planning, not accepted story canon.
+
+Draft Chapter 15 only under `books/book-01/drafts/chapter-15.md`. The draft must open from the exact accepted Chapter 14 endpoint, preserve all custody and knowledge limits, use the locked Julie-plus-Sharma POV structure, and remain unaccepted until formal review.
+
+Do not change the accepted inventory, accepted word count, accepted endpoint, or accepted Chapter 14 prose during Chapter 15 drafting.
 
 ## Permanent continuity repair
 

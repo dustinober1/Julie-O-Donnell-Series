@@ -2,129 +2,128 @@
 
 ## Controlling accepted Act III state
 
-Act III now contains one accepted chapter: Chapter 13, **The Carrier Stream**.
+Act III contains two accepted chapters:
 
-- **Accepted endpoint time:** 07:46:00 EDT / 17:16:00 IST
-- **Accepted endpoint location:** Level six of a public commercial parking garage overlooking the Hartwell Executive Briefing Annex
-- **Vehicle:** PCF-27, parked nose-out toward the west ramp
-- **Characters present:** Julie, Marcus, Elias
+- Chapter 13 — **The Carrier Stream**
+- Chapter 14 — **The Witness Line**
+
+### Accepted endpoint
+
+- **Time:** 07:49:32 EDT / 17:19:32 IST
+- **Location:** Public commercial parking garage level six beside powered-down PCF-27
+- **Authority:** Metropolitan Police scene control
+- **Vehicle:** PCF-27 powered down; key visible; west route blocked by police vehicles
+- **Characters present:** Julie, Marcus, Elias, Ortiz/MPD personnel, Mercer/Apex personnel
 - **Accepted prose after this point:** None
-- **Chapter 14 planning:** Mission locked in `28-chapter-14-mission-lock.md`
-- **Immediate next gate:** Draft Chapter 14 under `../drafts/`; no accepted Chapter 14 prose yet
+- **Chapter 15 planning:** Mission locked in `30-chapter-15-mission-lock.md`
+- **Immediate next gate:** Draft Chapter 15 under `../drafts/chapter-15.md`
 
-## Physical state at the accepted endpoint
+## Physical state
 
 ### Julie
 
-- Dominant close-third POV remains hers.
-- Right wrist remains braced with little useful grip.
-- Left hand and forearm compensate for steering, writing, and camera handling.
-- Exhausted, publicly recognizable, and physically constrained.
+- Primary close-third POV.
+- Right wrist braced with little useful grip.
+- Exhausted and publicly recognizable.
 - No firearm.
+- Under MPD control.
+- Cannot physically manage the evidence transfer.
 
 ### Marcus
 
-- Severe rib pain, scalp wound, thigh injury, damaged boot, impaired balance, and limited mobility remain active.
-- He retains the primary-original evidence role and controls exfiltration decisions.
-- He cannot run, fight, or drive normally.
-- No firearm.
+- Severe rib pain, reopened scalp wound, swollen/unreliable right thigh, damaged boot, impaired balance and breathing.
+- Cannot run, fight, carry, or drive normally.
+- Retains all primary-original evidence at the accepted endpoint.
+- Requires medical evaluation and prompt transport.
 
 ### Elias
 
-- Left-hip injury, bandaged right index finger, dizziness, exhaustion, and torn office clothing remain active.
-- He retains the administrator-token board and the dual-partition incident module.
-- He remains technically precise but physically and legally exposed.
-- No firearm.
+- Injured left hip, bandaged/clumsy right index, dizziness, exhaustion, and tremor.
+- Retains the administrator-token board and dual-partition incident module.
+- Remains legally exposed and voluntarily involved.
+- Requires medical evaluation.
 
-## Evidence and custody
+## Evidence and custody at the accepted endpoint
 
 ### Marcus retains
 
-- Aluminum telemetry case and primary evidence drive
+- Aluminum telemetry case
 - 136 sealed files
 - 47 incomplete files
-- Manifest recording 311 excluded files
-- Tamper-bagged recovery-record cartridge
+- 311-exclusion manifest
+- Recovery-record cartridge
 - Paper custody log
 - Dead PCF-27 telematics module
-- Waterproof evidence folder
+- Waterproof folder
 
 ### Elias retains
 
 - Original administrator-token circuit board
-- Partition A: sealed, read-only, integrity verified
-- Partition B: sealed WSS-4 incident package with valid Northbridge controller seal
+- Partition A, sealed/read-only
+- Partition B, sealed WSS-4 capture
+- Handling-event journal
 
-### Chapter 13 observation record
+### Independent records
 
-- Nine manual handling-event markers were entered.
-- Markers 001–007 display exact device times in the prose.
-- The marker entered narratively at 07:45:11 and the marker entered at 07:46:00 do not display separate exact module-time fields.
-- Garage plate, internal-camera, traffic/loading, police, and Hartwell records may exist or be recoverable.
-- The team does not possess or control every potential corroborating record.
-- No marker, camera, registration, certificate, or hardware response identifies the human custodian by itself.
+- MPD body camera
+- MPD dispatch preservation/cross-reference
+- Commercial-garage records
+- Hartwell held local-challenge/access record
+- WSS-4 local audit
+- Traffic/private-loading records
+- Chen/Apex directives
+- Sharma/Qureshi local records
+
+No primary original is open, combined, or transferred. Scene control and serial collection are not constructive transfer.
 
 ## Active clocks
 
-| Event | EDT |
-|---|---:|
-| Hartwell local challenge opens | 07:46:00 |
-| Masking Window Two opens | 07:48:00 |
-| Hartwell local challenge closes | 07:48:30 |
-| Phase B authorization deadline | 07:49:00 |
-| Masking Window Two closes | 07:54:00 |
+| Event | EDT | IST | State |
+|---|---:|---:|---|
+| Hartwell challenge closes | 07:48:30 | 17:18:30 | Passed |
+| Phase B authorization deadline | 07:49:00 | 17:19:00 | Passed without observable answer |
+| Accepted Chapter 14 endpoint | 07:49:32 | 17:19:32 | Current accepted state |
+| Masking Window Two closes | 07:54:00 | 17:24:00 | 4:28 remains |
 
-## Accepted Hartwell observation state
+## What accepted Chapters 13–14 establish
 
-Chapter 13 establishes:
+- A compact black case and three-person carrier stream entered the Hartwell controlled route.
+- The physical presenter and exact challenged serial remain unresolved.
+- The exterior white-to-green state proves only a local accepted/complete condition.
+- Julie created a bounded MPD body-camera and dispatch witness line.
+- Hartwell acknowledged and held a relevant record.
+- Julie obeyed the hard abort when the west route closed.
+- MPD controls the scene without endorsing the trio's interpretation.
+- Marcus and Elias retain distinct originals.
+- No complete receipt exists.
+- Phase B, K-17, WSS plaintext, Masking Window Two's consequence, and reconstruction purpose remain unresolved.
 
-- PCF-27 is displaced from the immediate motorcade approach and positioned on level six.
-- Julie and Elias maintain continuous or defensibly recoverable observation of the suspected carrier stream.
-- A compact black case passes through the Hartwell staff route.
-- Three support personnel converge on the controlled-door route.
-- The controlled door opens at 07:46:00.
-- Police and Apex pressure are present on the garage level.
-- The west exit is exposed but remains physically viable for PCF-27 to clear the garage and turn west.
+## Approved Chapter 15 planning state
 
-Chapter 13 does **not** establish:
-
-- the person physically carrying `SSO-NS-004`;
-- that the compact case contains `SSO-NS-004`;
-- Sterling's personal possession, keystrokes, or command;
-- Tariq's physical presence;
-- K-17 access;
-- decrypted message content;
-- Phase B's precise action; or
-- the purpose of the pending Argus source-reconstruction profile.
-
-## Approved Chapter 14 planning state
-
-The Chapter 14 mission lock is approved but remains non-canon.
+Chapter 15, working title **The Split Record**, is approved planning only.
 
 It requires the draft to:
 
-- open from the exact accepted 07:46:00 endpoint;
-- convert the Hartwell challenge into an independent Metropolitan Police body-camera/dispatch preservation record;
-- narrow the possible presenter without identifying a human custodian;
-- preserve Marcus's and Elias's separate evidence roles;
-- keep the module offline and avoid any implausible Hartwell hack;
-- use the trio's injuries to make another vehicle escape untenable once the west gate is physically controlled;
-- end after 07:49 with the trio under Metropolitan Police scene control, evidence transfer pending, Masking Window Two active, and Phase B unresolved; and
+- open exactly at 07:49:32 EDT / 17:19:32 IST;
+- keep lawful custody and record survival as the dominant function;
+- use Julie close third plus one bounded Sharma cutaway;
+- complete a separate, itemized interim MPD transfer before medical separation;
+- preserve every seal, partition, object distinction, and evidence limitation;
+- show a superseding allied reconstruction remove K-17 anomalies from the actionable picture during Masking Window Two while Sharma preserves the local contradiction;
+- keep Phase B authorization, K-17 access, Hartwell presenter, exact serial, compact-case contents, and WSS plaintext unresolved;
+- end at 07:56:40 EDT / 17:26:40 IST with the trio separated and the interim MPD receipt complete; and
 - remain 5,700–6,400 words.
 
 ## Current production gate
 
-Draft Chapter 14, working title **The Witness Line**, under `../drafts/` from `28-chapter-14-mission-lock.md`.
+Draft Chapter 15 under `../drafts/chapter-15.md` from `30-chapter-15-mission-lock.md`.
 
-Do not add Chapter 14 to the accepted inventory, move it into the manuscript directory, update accepted word counts, or alter the accepted endpoint until the draft receives an explicit acceptance verdict and promotion commit.
+Do not:
 
----
-## Controlling accepted Act III state after Chapter 14
-- Accepted Act III prose: Chapters 13–14.
-- Endpoint: 07:49:32 EDT / 17:19:32 IST, garage level six beside powered-down PCF-27 under MPD scene control.
-- Injuries remain active; no treatment/recovery; no firearms.
-- Marcus and Elias retain distinct originals; no transfer receipt is complete.
-- Independent records include MPD body camera/dispatch, Hartwell’s held record, garage records, WSS local audit, and Chen/Apex directives.
-- Presenter, exact serial, K-17, Phase B, plaintext, and reconstruction purpose remain unresolved.
-- Masking Window Two remains active until 07:54:00; 4:28 remains.
-- Immediate next gate: Chapter 15 mission planning/locking without prose.
+- modify accepted prose;
+- update `../ACCEPTED_MANUSCRIPT.yaml`;
+- alter the 75,593 accepted total;
+- alter the accepted Chapter 14 endpoint;
+- create accepted Chapter 15 prose;
+- treat the planned Chapter 15 endpoint as canon before acceptance; or
+- draft Chapter 16 before Chapter 15 passes the formal acceptance gate.
