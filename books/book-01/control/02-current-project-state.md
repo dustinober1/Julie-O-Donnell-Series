@@ -7,93 +7,88 @@ The authoritative production status is `../../../PROJECT_STATE.yaml`. The author
 | Item | Status |
 |---|---|
 | Prologue | Accepted |
-| Chapters 1–14 | Accepted |
+| Chapters 1–15 | Accepted |
 | Act I | Complete |
 | Act II | Complete |
-| Act III | Chapters 13–14 accepted; Chapter 15 mission locked, not drafted |
-| Accepted length | 75,593 words |
+| Act III | Chapters 13–15 accepted; Chapter 16 mission locked, not drafted |
+| Accepted length | 81,586 words |
 | Planning target | 112,500 words |
 | Target range | 100,000–125,000 words |
-| Accepted endpoint | Chapter 14, 07:49:32 EDT / 17:19:32 IST |
-| Chapter 14 | Accepted, **The Witness Line** |
-| Chapter 14 path | `../manuscript/chapters/chapter-14.md` |
-| Chapter 14 review | `29-chapter-14-acceptance-review.md` — ACCEPT |
-| Chapter 15 mission lock | `30-chapter-15-mission-lock.md` — approved planning |
-| Chapter 15 working title | **The Split Record** |
-| Chapter 15 prose | Not drafted |
-| Immediate production gate | Draft Chapter 15 under `../drafts/chapter-15.md` from the approved mission lock |
+| Accepted endpoint | Chapter 15, 07:56:40 EDT / 17:26:40 IST |
+| Chapter 15 | Accepted, **The Split Record** |
+| Chapter 15 path | `../manuscript/chapters/chapter-15.md` |
+| Chapter 15 review | `31-chapter-15-acceptance-review.md` — ACCEPT |
+| Chapter 16 mission lock | `32-chapter-16-mission-lock.md` — approved planning |
+| Chapter 16 working title | **The Hold Order** |
+| Chapter 16 prose | Not drafted |
+| Immediate production gate | Draft Chapter 16 under `../drafts/chapter-16.md` from the approved mission lock |
 
 ## Accepted endpoint
 
-At 07:49:32 EDT / 17:19:32 IST, Julie, Marcus, and Elias remain on public commercial garage level six beside powered-down PCF-27 under MPD scene control.
+At 07:56:40 EDT / 17:26:40 IST:
 
-- The west route is blocked by police vehicles.
-- PCF-27 is off and the key is visible.
-- Hartwell has acknowledged and held a relevant local-challenge/access record.
-- The exact Hartwell serial, presenter, receiver, challenge content, and compact-case contents remain undisclosed.
-- Phase B's 07:49 deadline has passed without an observable answer.
-- Masking Window Two remains active until 07:54.
-- No complete evidence transfer receipt exists.
-- No Chapter 15 movement has occurred.
+- Julie is inside the rear of a marked MPD vehicle under injury-compatible front restraint.
+- Marcus is in guarded ambulance care at the west-gate staging route on oxygen, oriented, with saturation at 92–93 percent on support.
+- Elias is in separate guarded medical transport moving toward the opposite ramp.
+- MPD incident `187463` holds seven separately sealed packages `MPD-901441` through `MPD-901447`.
+- Officer Gabriel Ortiz is the interim receiving officer; Officer Hannah Park is the witness officer.
+- No package has been opened, connected, combined, altered, or transferred to Apex or a federal examiner.
+- No final federal receiver, independent technical intake, charge, warrant, or adjudication exists.
+- The MPD receipt establishes interim handling and custody only.
+- The superseding allied product has controlled the actionable picture since 07:54 EDT / 17:24 IST.
+- Sharma separately preserves the prior and superseding products, source-review photograph, local sensor references, abort, and no-fire records as one challenged incident set.
+- Julie does not know Sharma’s action or the no-fire outcome.
+- Hartwell presenter/exact serial, compact-case contents, WSS plaintext, K-17 access, Phase B, reconstruction authorship/purpose/truth, final custody, and public fracture remain unresolved.
 
 ## Current character state
 
-- **Julie:** Right wrist braced with little useful grip; exhausted; publicly recognizable; no firearm; under MPD control.
-- **Marcus:** Severe rib, scalp, thigh, boot, balance, breathing, and mobility limitations; retains all primary originals; cannot drive, run, carry, or fight normally.
-- **Elias:** Left-hip injury, bandaged/clumsy right index, dizziness, exhaustion, and tremor; retains the original board and dual-partition module.
-- **Ortiz/MPD:** Controls the scene, body-camera record, dispatch preservation, west gate, and pending intake without endorsing the trio's interpretation.
-- **Mercer/Apex:** May assert classification or property claims but has no completed custody.
-- **Sharma/Qureshi:** Retain independent Indian anomaly, abort, and no-fire records; no contact with Julie.
+- **Julie:** Right wrist swollen, braced, and materially impaired; exhausted; publicly recognizable; no firearm; detained under MPD control; no original evidence.
+- **Marcus:** Severe rib, scalp, thigh, boot, balance, breathing, and mobility limitations; guarded ambulance care; oxygen support; no original evidence; formal six-years-ago correction still required.
+- **Elias:** Hip injury, bandaged/clumsy right index, dizziness, exhaustion, and tremor; separate guarded medical transport; no board or module custody.
+- **Ortiz/MPD:** Controls the seven sealed packages and interim custody without endorsing the trio’s interpretation.
+- **Apex/Mercer:** May assert classification or property claims but holds no original.
+- **Sharma/Qureshi:** Retain independently controlled product, anomaly, abort, and no-fire records; no contact with Julie.
 
 ## Evidence state
 
-### With Marcus
+### MPD incident `187463`
 
-- Aluminum telemetry case
-- 136 sealed files
-- 47 incomplete files
-- 311-exclusion manifest
-- Recovery-record cartridge
-- Paper custody log
-- Dead PCF-27 telematics module
-- Waterproof folder
+- `MPD-901441` — aluminum telemetry case `IC-77194`
+- `MPD-901442` — recovery-record cartridge `RRC-11804`
+- `MPD-901443` — paper custody log
+- `MPD-901444` — dead PCF-27 telematics module `PCF-27-TM-4418`
+- `MPD-901445` — waterproof folder and remaining PCF-27 documents
+- `MPD-901446` — administrator-token board `EAT-0881147`
+- `MPD-901447` — dual-partition incident module `FEM-240673`
 
-### With Elias
+### Independently controlled records
 
-- Original administrator-token circuit board
-- Partition A: sealed/read-only
-- Partition B: sealed WSS-4 capture
-- Handling-event journal
-
-### Independent records
-
-- Ortiz body camera
-- MPD dispatch and cross-reference
-- Commercial-garage records
-- Hartwell held record
+- MPD body cameras and dispatch cross-reference
+- commercial-garage and traffic/private-loading records
+- Hartwell held local-challenge/access record
 - WSS-4 local audit
-- Traffic/private-loading records
-- Chen/Apex directives
-- Sharma/Qureshi local records
+- Apex/Chen directives and incident records
+- Sharma/Qureshi challenged allied incident set
 
-Scene control, serial collection, physical proximity, or classification claims are not a completed transfer.
+MPD custody of the packages does not create possession or authentication of the external records.
 
-## Approved Chapter 15 mission
+## Approved Chapter 16 mission
 
-Chapter 15, working title **The Split Record**, must:
+Chapter 16 — **The Hold Order** — must:
 
-- open exactly at 07:49:32 EDT / 17:19:32 IST;
-- remain dominated by lawful custody and record survival;
-- use Julie close third plus one bounded Sharma cutaway;
-- create complete, separate interim MPD receipt entries before medical separation;
-- keep all originals sealed, offline, uncombined, and precisely described;
-- show Masking Window Two producing a superseding allied reconstruction that removes K-17 anomalies from the actionable picture while Sharma preserves the local contradiction;
-- leave Phase B authorization, K-17 access, Hartwell presenter, exact serial, compact-case contents, and WSS plaintext unresolved;
-- end at 07:56:40 EDT / 17:26:40 IST with the trio separated and MPD holding the originals under one cross-referenced incident; and
-- remain planning-only until accepted prose exists.
+- open exactly at 07:56:40 EDT / 17:26:40 IST;
+- force a named federal preservation authority behind the MPD chain without surrendering the packages to an unnamed claimant;
+- keep all seven packages separate, sealed, offline, and physically in MPD custody;
+- use Julie as primary POV, one bounded Marcus ambulance cutaway, one bounded Sharma cutaway, and a return to Julie;
+- make Marcus place his six-years-ago correction on an attributable record under EMS control;
+- require General Hackett to make a concrete named preservation choice without authenticating evidence or promising exoneration;
+- create a bounded allied preservation acknowledgment tied to Sharma’s challenged record without direct contact or a truth finding;
+- leave Hartwell presenter/serial, WSS plaintext, K-17 access, Phase B, reconstruction purpose, final federal custody, technical findings, and public fracture unresolved;
+- target 5,800–6,500 words; and
+- end no later than 08:16:40 EDT / 17:46:40 IST at a secure MPD evidence-intake threshold with no final technical receiver.
 
 ## Immediate production action
 
-Read the accepted Prologue and Chapters 1–14, `30-chapter-15-mission-lock.md`, relevant active controls, and Narrative House Style v2.2 in full. Then draft Chapter 15 under `../drafts/chapter-15.md`.
+Read the accepted Prologue and Chapters 1–15, `32-chapter-16-mission-lock.md`, relevant active controls, and Narrative House Style v2.2 in full. Then draft Chapter 16 only under `../drafts/chapter-16.md`.
 
-Do not modify accepted prose, `../ACCEPTED_MANUSCRIPT.yaml`, the accepted word count, or the accepted endpoint during drafting.
+Do not modify accepted prose, `../ACCEPTED_MANUSCRIPT.yaml`, the accepted word count, or the accepted endpoint during drafting. Do not draft Chapter 17 or create a complete remainder-of-Act-III outline.

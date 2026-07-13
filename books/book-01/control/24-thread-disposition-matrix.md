@@ -179,3 +179,30 @@ No other thread receives a controlling Chapter 15 payoff.
 | Public narrative fracture | **Not resolved.** Detention may harden Sterling's story. | Authenticated contradiction must become visible. |
 
 No B1-required thread is treated as resolved by interim MPD receipt alone.
+
+## Approved Chapter 16 mission-lock update
+
+The following entries describe locked planning only. They do not change accepted thread state until Chapter 16 is drafted, reviewed, accepted, and promoted.
+
+| Thread or group | Accepted state after Chapter 15 | Chapter 16 locked advancement | Prohibited premature payoff | Later obligation |
+|---|---|---|---|---|
+| Independent counterrecord / lawful custody | Seven separate MPD packages under one incident; no final receiver or technical intake | Move from mobile interim chest to secure MPD intake under General Hackett’s named preservation sponsorship while MPD retains physical custody | Treating the hold as authentication, exoneration, final federal custody, or a technical finding | Named independent examiner, technical comparison, institutional/public use |
+| Hackett | Previously demanded lawful surrender and has not seen the later proof | Hear stronger facts through the documented police chain and place his own name/authority on a preservation hold | Instant belief, immunity promise, seizure by title, or technical judgment by phone | Consequences of the hold and later institutional role |
+| Marcus correction | Private confession only; official six-years-ago record unchanged | Place an attributable correction on a recorded government/police-linked channel under EMS control | Treating a speech as personal reconciliation, public vindication, or recovered four-second technical proof | Institutional/public consequence and bounded relationship payoff |
+| Sharma / allied record | Challenged incident set preserved but isolated from Washington | Receive a bounded preservation/status request by product identifiers and return a manifest/reference with caveats | Direct alliance, Julie–Sharma contact, unrestricted sensor disclosure, or declaration that either product is true/false | Technical comparison, field outcome, and public/institutional use |
+| Phase B / K-17 / masking | Reconstruction changed the actionable picture; access and Phase B remain unknown | Create the official record path needed to compare the conflicting products later | Defining Phase B, confirming K-17 access, naming the author/purpose, or treating omission as proof | Immediate field and authorization payoff before climax completion |
+| Hartwell custody chain | Held record cross-referenced; presenter and serial undisclosed | Preserve the Hartwell record through the named hold | Naming presenter, exact serial, or compact-case contents | Lawful production/testimony or equivalent proof |
+| WSS-4 local audit / plaintext | Local audit separately controlled; message blocks encrypted | Preserve the local audit and external-chain record through the hold | Decryption, plaintext paraphrase, or assuming police/federal possession | Lawful production, decryption, testimony, or alternate proof |
+| Elias voluntary role | Board/module receipts and prior audits preserve agency; legal status unresolved | Keep board and module separately described and unopened while Elias remains in medical custody | Immunity, fresh technical work, or simple hostage/saboteur resolution | Independent examination and legal/public recognition |
+| Chen / Mercer | Records exist; no final choice or alliance | Name their records as preservation targets only | Defection, warning, disclosure, or ally turn | Consequential later choice and testimony/record production |
+| Public narrative fracture | Sterling’s story remains dominant and detention may harden it | Stage a stronger authenticated institutional contradiction through the hold and allied acknowledgment | Claiming the public sees or accepts the contradiction in Chapter 16 | Visible authenticated fracture later in Book 1 |
+| Physical and emotional cost | Trio separated and medically constrained | Make restraint, EMS authority, oxygen, lost possession, and inability to coordinate control the chapter mechanics | Recovery, reunion, tactical action, or reconciliation by convenience | Treatment, legal aftermath, and bounded character end states |
+
+### Locked Chapter 16 thread selection
+
+- **Primary:** Independent counterrecord / lawful custody.
+- **Secondary:** Marcus on-record correction and Hackett choice.
+- **Secondary:** Sharma’s challenged allied record becomes causally reachable.
+- **Constraint/pressure:** Public narrative, medical separation, Apex claims, and unresolved jurisdiction.
+
+No other thread receives a controlling Chapter 16 payoff. The lock does not create a complete outline for Chapter 17 or later.

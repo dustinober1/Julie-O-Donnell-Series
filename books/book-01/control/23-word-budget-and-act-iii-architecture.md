@@ -152,3 +152,23 @@ At the end of the first full draft:
 | Accepted Act III subtotal, Chapters 13–15 | 17,931 |
 
 Chapter 15 lands inside its 5,700–6,400 range. The later Chapter 16–resolution functions remain provisional until individually mission locked. The immediate next gate is Chapter 16 mission planning and locking only; no Chapter 16 prose or full remaining-Act-III outline is authorized by this update.
+
+## Approved Chapter 16 word-budget and architecture update
+
+This section supersedes only the earlier provisional Chapter 16 row and immediate-next-gate language. It does not replace or expand the later provisional rows.
+
+- Chapter 16 is mission locked as **The Hold Order** at `32-chapter-16-mission-lock.md`.
+- Accepted manuscript remains Prologue and Chapters 1–15 at **81,586** words.
+- Accepted endpoint remains **07:56:40 EDT / 17:26:40 IST**.
+- Remaining to 100,000 minimum remains **18,414** words.
+- Remaining to 112,500 planning target remains **30,914** words.
+- Remaining before 125,000 maximum remains **43,414** words.
+- Chapter 16 target range is **5,800–6,500 words**, preferred center approximately 6,150.
+- Dominant function: force a named federal preservation authority behind the interim MPD chain while keeping all seven packages separate, sealed, offline, and physically in MPD custody.
+- Supporting functions: Marcus’s attributable six-years-ago correction and a bounded allied preservation acknowledgment tied to Sharma’s challenged record.
+- Planned POV: Julie primary; one bounded Marcus ambulance cutaway; one bounded Sharma cutaway; return to Julie.
+- Planned maximum endpoint: **08:16:40 EDT / 17:46:40 IST**.
+- Chapter 16 must not resolve Hartwell presenter/serial, compact-case contents, WSS plaintext, K-17 access, Phase B, reconstruction authorship/purpose/truth, final federal custody, technical findings, public vindication, or the climax.
+- The Chapter 16 range leaves adequate space for immediate field outcome, independent technical examination, public-record fracture, institutional choices, climax, and legal/emotional aftermath.
+- Chapter 17 and later functions remain provisional and are not individually locked or expanded by this update.
+- Immediate next gate: draft exactly one Chapter 16 first version at `../drafts/chapter-16.md`, then run the formal acceptance review. Do not draft Chapter 17 or create a complete remainder-of-Act-III outline.

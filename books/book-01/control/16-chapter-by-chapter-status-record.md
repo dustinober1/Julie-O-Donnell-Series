@@ -89,7 +89,6 @@ The accepted-manuscript inventory in `../ACCEPTED_MANUSCRIPT.yaml` controls acce
 - **Purpose:** Conduct the first offensive operation, capture stronger proof, trigger the trap, and launch Act III.
 - **Major proof:** Tariq field authority, Sterling-office SSO-NS-004, Hartwell timing, Phase B deadline, and Masking Window Two.
 - **Limit:** The human custodian of SSO-NS-004 remains unproved.
-- **Ending hook:** Sterling's motorcade crosses before PCF-27.
 
 ## Chapter 13 — The Carrier Stream
 
@@ -114,33 +113,8 @@ The accepted-manuscript inventory in `../ACCEPTED_MANUSCRIPT.yaml` controls acce
 - **Dominant function:** Create the independent MPD/Hartwell witness line and abort the observation mission when the west route closes.
 - **Endpoint:** Garage level six beside powered-down PCF-27 under MPD scene control; evidence remains separately held; no transfer receipt complete.
 - **Accepted manuscript total:** 75,593 words.
-- **Still unresolved:** Presenter, exact serial, compact-case contents, WSS plaintext, Phase B, K-17, Masking Window Two consequence, and reconstruction purpose.
 
 ## Chapter 15 — The Split Record
-
-- **Status:** Complete first draft; **unaccepted and non-canon**.
-- **Draft path:** `../drafts/chapter-15.md`.
-- **Mission lock:** `30-chapter-15-mission-lock.md`.
-- **Exact draft word count:** 5,993 whitespace-delimited Markdown words.
-- **Opening:** 07:49:32 EDT / 17:19:32 IST, the exact accepted Chapter 14 endpoint.
-- **Draft endpoint:** 07:56:40 EDT / 17:26:40 IST.
-- **Dominant function:** Preserve a linked counterrecord through lawful detention, medical separation, and interim MPD evidence transfer while Masking Window Two supersedes the allied source picture.
-- **POV:** Julie close third plus one bounded Sharma cutaway.
-- **Draft result:** Interim MPD custody and the Sharma reconstruction conflict are dramatized only in unaccepted prose.
-- **Canon effect:** None. The accepted manuscript remains Prologue and Chapters 1–14 at 75,593 words and the 07:49:32 EDT / 17:19:32 IST endpoint.
-- **Next gate:** Formal Chapter 15 acceptance, continuity, evidence-limit, injury, style, and revision review.
-- **Rule:** Do not use the draft endpoint for Chapter 16 unless Chapter 15 receives an **ACCEPT** verdict and is promoted through the full same-pass acceptance procedure.
-
-## Chapter 16 and later
-
-- **Status:** Not drafted and not individually mission locked.
-- **Planning:** High-level functions remain provisional in `23-word-budget-and-act-iii-architecture.md`.
-- **Rule:** No later chapter function is canon until separately locked, drafted, reviewed, and accepted.
-- **Immediate prohibition:** Chapter 16 must not be drafted from the unaccepted Chapter 15 endpoint.
-
-## Accepted Chapter 15 promotion update
-
-Chapter 15 — **The Split Record**
 
 - **Status:** Accepted canon.
 - **Accepted path:** `../manuscript/chapters/chapter-15.md`.
@@ -154,6 +128,28 @@ Chapter 15 — **The Split Record**
 - **Dominant function:** Complete separate interim MPD custody while preserving the superseding/prior allied-record contradiction.
 - **Endpoint:** Seven MPD packages sealed under incident `187463`; Marcus, Elias, and Julie transported separately; no final federal receiver.
 - **Accepted manuscript total:** 81,586 words.
-- **Next gate:** Chapter 16 mission planning and mission locking only. Chapter 16 prose remains prohibited until that lock is approved.
 
-The earlier unaccepted Chapter 15 status section is historical and superseded by this promotion update.
+## Chapter 16 — The Hold Order
+
+- **Status:** Mission locked; planning only; prose not drafted.
+- **Mission lock:** `32-chapter-16-mission-lock.md`.
+- **Controlling opening:** 07:56:40 EDT / 17:26:40 IST, the exact accepted Chapter 15 endpoint.
+- **Working title:** **The Hold Order**.
+- **Dominant function:** Force a named, reviewable federal preservation authority behind the interim MPD custody chain without surrendering the seven packages to an unnamed claimant or opening them before independent technical intake.
+- **Primary POV:** Julie close third.
+- **Bounded cutaways:** One Marcus ambulance cutaway and one Sharma cutaway; return to Julie.
+- **Primary objective:** Put General William Hackett’s name and authority on a preservation hold under incident `187463` while MPD retains physical custody and all seven packages remain separate, sealed, and offline.
+- **Required character action:** Marcus places his six-years-ago correction on an attributable record under EMS control.
+- **Required allied action:** A preservation/status request makes Sharma’s challenged incident-set reference causally reachable without direct Julie–Sharma contact or a truth finding.
+- **Target range:** 5,800–6,500 words.
+- **Planned maximum endpoint:** 08:16:40 EDT / 17:46:40 IST.
+- **Required endpoint state:** Secure MPD evidence-intake threshold under a named preservation hold; seven packages intact; allied acknowledgment linked; no final federal/technical receiver.
+- **Prohibited resolutions:** Hartwell presenter/serial, compact-case contents, WSS plaintext, K-17 access, Phase B, reconstruction authorship/purpose/truth, final federal custody, technical finding, public vindication, and the complete climax.
+- **Canon effect:** None until a future draft passes the formal acceptance gate and is promoted.
+- **Next gate:** Draft exactly one first version at `../drafts/chapter-16.md`; do not draft Chapter 17 or outline the complete remainder of Act III.
+
+## Chapter 17 and later
+
+- **Status:** Not drafted and not individually mission locked.
+- **Planning:** High-level functions remain provisional in `23-word-budget-and-act-iii-architecture.md`.
+- **Rule:** No later chapter function is canon until separately locked, drafted, reviewed, and accepted.

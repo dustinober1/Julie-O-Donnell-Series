@@ -1,8 +1,8 @@
-# Canon Control Pack v3.3
+# Canon Control Pack v3.4
 
 The accepted manuscript always outranks this control pack.
 
-Version 3.3 records accepted Chapter 14 and the approved Chapter 15 mission lock, **The Split Record**, while preserving the 75,593-word accepted total and the 07:49:32 EDT / 17:19:32 IST endpoint.
+Version 3.4 records accepted Chapter 15 and the approved Chapter 16 mission lock, **The Hold Order**, while preserving the **81,586-word** accepted total and the **07:56:40 EDT / 17:26:40 IST** endpoint.
 
 - [Overview](00-overview.md)
 - [1. Document Purpose and Use](01-document-purpose-and-use.md)
@@ -35,9 +35,13 @@ Version 3.3 records accepted Chapter 14 and the approved Chapter 15 mission lock
 - [28. Chapter 14 Mission Lock](28-chapter-14-mission-lock.md)
 - [29. Chapter 14 Acceptance Review](29-chapter-14-acceptance-review.md)
 - [30. Chapter 15 Mission Lock](30-chapter-15-mission-lock.md)
+- [31. Chapter 15 Acceptance Review](31-chapter-15-acceptance-review.md)
+- [32. Chapter 16 Mission Lock](32-chapter-16-mission-lock.md)
 
 Cross-book character continuity is controlled separately in [`../../../series/recurring-character-ledger.md`](../../../series/recurring-character-ledger.md).
 
 ## Current gate
 
-Chapter 15 may now be drafted only from `30-chapter-15-mission-lock.md` under `../drafts/chapter-15.md`. The mission lock is approved planning, not accepted story canon.
+Chapter 16 may now be drafted only from `32-chapter-16-mission-lock.md` under `../drafts/chapter-16.md`.
+
+The Chapter 16 lock is approved planning, not accepted story canon. Drafting must not modify accepted prose, `../ACCEPTED_MANUSCRIPT.yaml`, the accepted word count or endpoint, create Chapter 17 prose, or create a complete remainder-of-Act-III outline.
