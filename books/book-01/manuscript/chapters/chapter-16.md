@@ -395,7 +395,7 @@ Forward Post Arjun
 
 The preservation request arrived with American incident references Sharma did not recognize and product references she did.
 
-She stood at the communications console while Qureshi opened the authenticated allied-routing envelope. The request did not name Julie O’Donnell, Metropolitan Police, or seven packages in Washington. Those details ended at the cleared boundary. What crossed it were the identifiers attached to the two allied products, the earlier source-review state, the omitted K-17-related references, and the record categories the American requesting authority wanted held.
+She stood at the communications console while Qureshi opened the authenticated allied-routing envelope. It named no American subject, no police incident, and no package count. Whatever triggered the request remained beyond the cleared boundary. What crossed it were the identifiers attached to the two allied products, the earlier source-review state, the omitted K-17-related references, and the record categories the American requesting authority wanted held.
 
 A header named General William Hackett as the preservation sponsor. The instruction beneath it was narrower than the title suggested.
 
@@ -464,7 +464,7 @@ Qureshi selected YES.
 
 Sharma added the next caveat herself. Controlling for action did not establish ground truth, authorship, purpose, or the correctness of omitted observations.
 
-The request did not ask who had carried an office device through Hartwell. It did not mention Payload 88. It offered no explanation for why an American general had placed his name behind preservation less than fifteen minutes after the superseding product arrived.
+The request did not identify the incident behind the hold. It characterized neither product as correct or corrupt. It offered no explanation for why an American general had placed his name behind preservation less than fifteen minutes after the superseding product had arrived.
 
 That absence made the request easier to trust.
 
@@ -474,7 +474,7 @@ Sharma authorized a manifest acknowledgment for the challenged Arjun incident se
 
 The system required a reason for withholding the detailed sensor geography. Qureshi entered OPERATIONAL SECURITY. Sharma added PENDING AUTHORIZED TECHNICAL COMPARISON. The first reason protected the mountain. The second prevented the restriction from being mistaken for refusal to cooperate.
 
-For the no-fire records, the outward acknowledgment exposed only category, custody, and retention status. The operational result remained behind the allied disclosure boundary. A later cleared examiner could request it through the proper channel. Metropolitan Police could not receive it merely because their incident number had helped trigger the hold.
+For the no-fire records, the outward acknowledgment exposed only category, custody, and retention status. The operational result remained behind the allied disclosure boundary. A later cleared examiner could request it through the proper channel. The requesting channel could not receive it merely because unfamiliar incident references helped trigger the hold.
 
 Qureshi pointed to the named accountability field. “Local point of responsibility?”
 
