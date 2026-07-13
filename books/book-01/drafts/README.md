@@ -6,7 +6,7 @@ This directory contains prose that may be complete, revised, or mission-locked b
 
 No active Book 1 chapter draft exists.
 
-Chapter 16 — **The Hold Order** — passed formal review unchanged and moved to:
+Chapter 16 — **The Hold Order** — passed formal review after one surgical POV-firewall revision and moved to:
 
 `../manuscript/chapters/chapter-16.md`
 
@@ -22,7 +22,7 @@ No active Chapter 16 draft remains. Chapter 17 and later prose do not exist.
 - Accepted words: **87,610**
 - Accepted endpoint: **08:15:52 EDT / 17:45:52 IST**
 - Chapter 16 verdict: **ACCEPT**
-- Chapter 16 accepted blob: `ff6fbaa66170a03502589309b3d1c2d74b50a289`
+- Chapter 16 accepted blob: `dd5249f4b510a9da9ad19ab2902a95ce1e62a1d8`
 
 ## Next action
 

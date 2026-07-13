@@ -16,7 +16,7 @@
 - Chapter 14: **The Witness Line**
 - Chapter 15: **The Split Record**
 - Chapter 16: **The Hold Order**
-- Chapter 16 verdict: **ACCEPT**, unchanged at 6,024 words
+- Chapter 16 verdict: **ACCEPT**, after one surgical POV-firewall revision at 6,024 words
 - Chapter 16 accepted path: [`chapters/chapter-16.md`](chapters/chapter-16.md)
 - Chapter 16 review: [`../control/33-chapter-16-acceptance-review.md`](../control/33-chapter-16-acceptance-review.md)
 

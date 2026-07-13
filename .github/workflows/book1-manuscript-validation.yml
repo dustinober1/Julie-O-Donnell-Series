@@ -89,7 +89,7 @@ jobs:
           assert chapter16_files == [chapter16], chapter16_files
           text = chapter16.read_text(encoding='utf-8')
           lines = text.splitlines()
-          assert blob(chapter16) == 'ff6fbaa66170a03502589309b3d1c2d74b50a289'
+          assert blob(chapter16) == 'dd5249f4b510a9da9ad19ab2902a95ce1e62a1d8'
           assert len(text.split()) == 6024
           assert lines[0] == '07:56:40 EDT / 17:26:40 IST'
           assert lines[2] == '# Chapter 16 - The Hold Order'
@@ -140,24 +140,46 @@ jobs:
           for phrase in forbidden:
               assert phrase not in text, phrase
 
+          pov_safe_required = [
+              'It named no American subject, no police incident, and no package count.',
+              'Whatever triggered the request remained beyond the cleared boundary.',
+              'It characterized neither product as correct or corrupt.',
+              'The requesting channel could not receive it merely because unfamiliar incident references helped trigger the hold.',
+          ]
+          for phrase in pov_safe_required:
+              assert phrase in text, phrase
+
+          pov_leaks = [
+              'The request did not name Julie O’Donnell, Metropolitan Police, or seven packages in Washington.',
+              'The request did not ask who had carried an office device through Hartwell.',
+              'It did not mention Payload 88.',
+              'Metropolitan Police could not receive it merely because their incident number had helped trigger the hold.',
+          ]
+          for phrase in pov_leaks:
+              assert phrase not in text, phrase
+
           assert review16.is_file()
           review = review16.read_text(encoding='utf-8')
           assert '**Formal verdict:** **ACCEPT**' in review
-          assert 'Prose changed during review: **No**' in review
-          assert 'Final reviewed blob: `ff6fbaa66170a03502589309b3d1c2d74b50a289`' in review
+          assert 'Prose changed during review: **Yes**' in review
+          assert 'Final reviewed blob: `dd5249f4b510a9da9ad19ab2902a95ce1e62a1d8`' in review
           assert mission16.is_file()
           assert 'Chapter 16 acceptance disposition — 2026-07-13' in mission16.read_text(encoding='utf-8')
 
           assert 'chapters: "1-16"' in project
           assert 'accepted_words: 87610' in project
-          assert 'prose_changed_during_review: false' in project
+          assert 'prose_changed_during_review: true' in project
           assert 'Chapter 17 mission planning and mission locking only' in project
           assert not list((root / 'books/book-01').rglob('chapter-17.md'))
           assert not (root / 'books/book-01/control/34-chapter-17-mission-lock.md').exists()
           assert not (root / 'tools/promote_chapter16_acceptance.py').exists()
           assert not (root / '.github/workflows/promote-chapter16-acceptance.yml').exists()
+          assert not (root / '.github/workflows/apply-chapter16-pov-firewall-repair.yml').exists()
+          assert not (root / '.github/workflows/apply-chapter16-pov-firewall-repair-pr.yml').exists()
+          assert not (root / '.github/workflows/apply-chapter16-explicit-repair.yml').exists()
 
           controls = [
+              '00-overview.md', '02-current-project-state.md', 'README.md',
               '04-source-of-truth-canon-locks.md', '05-master-timeline.md',
               '06-character-state-ledger.md', '07-relationship-and-trust-matrix.md',
               '08-evidence-and-chain-of-custody-ledger.md',
@@ -174,15 +196,24 @@ jobs:
           ]
           for name in controls:
               control = (root / 'books/book-01/control' / name).read_text(encoding='utf-8')
-              assert (
-                  'Chapter 16 accepted' in control
-                  or 'Chapter 16 — The Hold Order' in control
-                  or 'Chapter 16 acceptance' in control
-              ), name
+              assert 'Chapter 16' in control, name
+              assert ('accepted' in control.lower() or 'acceptance' in control.lower()), name
+
+          overview = (root / 'books/book-01/control/00-overview.md').read_text(encoding='utf-8')
+          current_state = (root / 'books/book-01/control/02-current-project-state.md').read_text(encoding='utf-8')
+          control_readme = (root / 'books/book-01/control/README.md').read_text(encoding='utf-8')
+          assert 'Prologue and Chapters 1–16' in overview
+          assert '87,610 words' in overview
+          assert 'Chapter 17 mission planning and mission locking only' in overview
+          assert 'Chapters 1–16' in current_state
+          assert 'Chapter 16, 08:15:52 EDT / 17:45:52 IST' in current_state
+          assert 'Chapter 17 mission planning and mission locking only' in current_state
+          assert 'Canon Control Pack v3.5' in control_readme
+          assert '33. Chapter 16 Acceptance Review' in control_readme
 
           print(f'validated accepted total: {accepted}')
           print('validated protected Chapter 14 and Chapter 15 blobs')
-          print('validated unchanged accepted Chapter 16 blob and 6,024-word count')
+          print('validated corrected accepted Chapter 16 blob and 6,024-word count')
           print('validated Chapter 16 promotion, control synchronization, and Chapter 17 absence')
           PYVALIDATE
 
