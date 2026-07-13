@@ -21,24 +21,29 @@ jobs:
       - name: Reconstruct, validate, and publish the clean acceptance commit
         shell: bash
         run: |
-          set -euo pipefail
+          set -Eeuo pipefail
+          trap 'rc=$?; printf "failed command: %s\nexit code: %s\n" "$BASH_COMMAND" "$rc" > publish-failure.txt; exit "$rc"' ERR
           TARGET_BRANCH='agent/chapter-13-acceptance-pass-2'
           EXPECTED_MAIN='a426b7c98867dfb939ca5f406830126e89307f44'
           EXPECTED_PATCH='d0137730eafb3b5311b00d9a7a4e93ffe7d5e692d9bef7f9b7b0bf9fad37e500'
+          echo start > publish-stage.txt
 
           cat .tmp/ch13-final-00 .tmp/ch13-final-01 .tmp/ch13-final-02 .tmp/ch13-final-03 \
               .tmp/ch13-final-04 .tmp/ch13-final-05 .tmp/ch13-final-06 .tmp/ch13-final-07 \
             | base64 --decode | gzip --decompress > /tmp/ch13-final.patch
           echo "${EXPECTED_PATCH}  /tmp/ch13-final.patch" | sha256sum --check
+          echo patch-reconstructed-and-verified > publish-stage.txt
 
           git fetch origin main --force
           ACTUAL_MAIN="$(git rev-parse origin/main)"
           test "${ACTUAL_MAIN}" = "${EXPECTED_MAIN}"
+          echo main-baseline-verified > publish-stage.txt
 
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git checkout -B "${TARGET_BRANCH}" origin/main
           git am /tmp/ch13-final.patch
+          echo patch-applied > publish-stage.txt
 
           test "$(git log -1 --pretty=%s)" = 'Complete Chapter 13 acceptance pass'
           test "$(git rev-list --count origin/main..HEAD)" -eq 1
@@ -47,9 +52,11 @@ jobs:
           test ! -e .github/workflows/temporary-manuscript-count.yml
           test ! -e .tmp/ch13-final-00
           test ! -e .tmp/ch13-patch-00
+          echo git-hygiene-verified > publish-stage.txt
 
-          python tools/count_book1_words.py --expect 69830 | tee /tmp/word-count.txt
-          python - <<'PY' | tee /tmp/acceptance-validation.txt
+          python tools/count_book1_words.py --expect 69830 | tee word-count.txt
+          echo word-count-verified > publish-stage.txt
+          python - <<'PY' | tee acceptance-validation.txt
           from pathlib import Path
 
           root = Path('.')
@@ -77,18 +84,23 @@ jobs:
           print('endpoint: 07:46 EDT / 17:16 IST outside Hartwell')
           print('physical custodian: unresolved')
           PY
+          echo acceptance-assertions-verified > publish-stage.txt
 
-          git rev-parse HEAD | tee /tmp/final-sha.txt
-          git show --stat --oneline --summary HEAD | tee /tmp/final-stat.txt
+          git rev-parse HEAD | tee final-sha.txt
+          git show --stat --oneline --summary HEAD | tee final-stat.txt
+          echo ready-to-push > publish-stage.txt
           git push --force origin "HEAD:refs/heads/${TARGET_BRANCH}"
+          echo pushed > publish-stage.txt
       - name: Upload publish verification
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: chapter-13-clean-publish-verification
           path: |
-            /tmp/final-sha.txt
-            /tmp/final-stat.txt
-            /tmp/word-count.txt
-            /tmp/acceptance-validation.txt
-          if-no-files-found: warn
+            publish-stage.txt
+            publish-failure.txt
+            final-sha.txt
+            final-stat.txt
+            word-count.txt
+            acceptance-validation.txt
+          if-no-files-found: error
