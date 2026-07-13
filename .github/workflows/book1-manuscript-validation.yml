@@ -86,8 +86,13 @@ jobs:
               'wss-4 message blocks',
               '07:54:48', '07:54:56', '07:55:02', '07:55:06',
               '07:55:11', '07:55:22', '07:55:31',
-              'mpd-901441', 'mpd-901442', 'mpd-901443', 'mpd-901444',
-              'mpd-901445', 'mpd-901446', 'mpd-901447',
+              'nine-zero-one-four-four-one',
+              'nine-zero-one-four-four-two',
+              'nine-zero-one-four-four-three',
+              'nine-zero-one-four-four-four',
+              'nine-zero-one-four-four-five',
+              'nine-zero-one-four-four-six',
+              'nine-zero-one-four-four-seven',
           ]
           lower = text.lower()
           for phrase in required:
