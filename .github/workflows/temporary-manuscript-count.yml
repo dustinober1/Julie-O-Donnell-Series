@@ -69,14 +69,15 @@ jobs:
           assert len(chapter12.read_text(encoding='utf-8').split()) == 5614
           assert len(text.split()) == 6175
           assert chapter13.is_file() and not draft13.exists()
-          assert text.count('Twenty-one seconds without a clean sightline.') == 1
-          assert 'Nineteen seconds without a clean sightline.' not in text
+          assert 'one documented twenty-one-second visual obstruction.' in text
+          assert 'one documented nineteen-second visual obstruction.' not in text
           assert 'The lane remained fully open for PCF-27 to clear the garage and turn west.' in text
           assert 'Operationally, it had become visible.' in text
           assert 'Operationally, it had become custody.' not in text
           assert '07:33:08' in text and '07:33:29' in text
           assert '07:42:30' in text and '07:46:00' in text
-          assert text.rstrip().endswith('The controlled door began to open.')
+          assert 'At 07:46:00, the controlled door opened.' in text
+          assert text.rstrip().endswith('She still could not see whose hand carried SSO-NS-004.')
           assert 'physical custodian remained unresolved' in text.lower()
           print('chapter-12 count: 5614')
           print('chapter-13 count: 6175')
