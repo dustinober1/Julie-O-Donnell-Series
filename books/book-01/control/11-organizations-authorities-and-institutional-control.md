@@ -1,26 +1,57 @@
 # 11. ORGANIZATIONS, AUTHORITIES, AND INSTITUTIONAL CONTROL
 
-| Organization / actor | Lawful role | Accepted Chapter 14 function | Compromise or pressure | What remains lawful / innocent | Prohibited simplification |
+| Organization | Public role | Actual story role / systems | Authority and compromise | What remains lawful or innocent | Future simplification to avoid |
 |---|---|---|---|---|---|
-| Apex Defense Systems | Defense contractor and Argus developer/maintainer | Claims classified-material recovery interest and supports Vance’s request | Vance uses Apex authority to seek control of evidence and explanation | Many employees and ordinary functions remain legitimate | Do not make all Apex staff conspirators |
-| Apex Protective Services | Contractor security | Mercer contests custody and seeks the case/module | Executive recovery pressure conflicts with public police process | Mercer and operators obey scene authority and do not fire | Do not make Mercer a sadist or ally |
-| Arthur Vance / Apex executive authority | Site and executive authority | Presses material recovery, classification, and executive delay | Seeks custody without completed independent receipt | Does not control MPD, Hartwell, or every record | No omnipotent contractor power |
-| Sarah Chen / incident coordination | Compliance and incident response | Preserves capture, life, evidence, named custody, and conflicting orders | Still participates in apprehension and classification response | Does not warn or release trio | Preservation is not defection |
-| Metropolitan Police | D.C. public law enforcement | Controls garage scene, west gate, vehicle shutdown, body-camera record, dispatch preservation, and pending intake | Works from armed-insider/classified-material alert | Officers act lawfully and cautiously; weapons stay holstered absent deadly threat | Do not make MPD Apex agents or rescuers |
-| Officer Ortiz | Scene officer | Records claims without endorsing them; independently observes exterior state; rejects undocumented handoff | Must reconcile public alert with visible restraint and evidence claims | Performs normal scene and custody duties | Not a technical expert or covert ally |
-| Hartwell Executive Briefing Annex | Secure briefing and local challenge site | Acknowledges that a relevant local-challenge/access record exists and is held | Classification and briefing security limit disclosure | Ordinary staff and security remain legitimate | Do not identify presenter or controlling agency without evidence |
-| Senator Sterling’s office | Legislative/national-security office | Office signer chain remains linked to Hartwell | Public narrative and operational-device link create exposure | Exact human possession and command remain unknown | Office device ≠ Sterling’s hand |
-| Northbridge Strategic Initiatives | Policy/risk consultancy and WSS-4 tenant | Its local audit remains part of the cross-reference chain | Suite hosted authenticated K17 session | Bell, operator, staff, and policy work may be legitimate | Do not implicate the entire institution |
-| Commercial garage | Public civilian infrastructure | Creates plate, internal-camera, lane, shutdown, and police-scene records | Ordinary retention/access uncertainty | No special cooperation with conspiracy | Not a covert surveillance facility |
-| District dispatch / record systems | Public safety routing and documentation | Time-stamps preservation and cross-reference requests | Jurisdiction/classification may slow production | Delay is not corruption | Do not grant instant access to every record |
-| Army Intelligence / counterintelligence / CID / DCIS | Government oversight and investigative channels | No new direct action in Chapter 14 | May later receive people/evidence through lawful process | No proof Apex controls them | Procedure is not conspiracy |
-| Indian Northern Command / Forward Post Arjun | Military command and local execution authority | No Chapter 14 scene or information transfer | Remains under separate field pressure | Sharma/Qureshi records remain independent | No U.S.-side omniscience |
-| Major Tariq’s Forward Liaison Cell | Registered K17 field authority | No visible answer at 07:49 | Exact field action and command remain private | Parent service/nationality unestablished | Certificate ≠ physical presence |
+| Apex Defense Systems | Defense contractor and Argus developer/maintainer | Controls major ingestion, validation, Building Three, certified contractor profiles, and public response | Vance and privileged channels are compromised; exact breadth unknown | Many employees, technicians, security staff, and ordinary engineering functions remain legitimate | Do not make all Apex staff conspirators |
+| Army Intelligence | Government intelligence and program oversight | Marcus’s review cell and initial source challenge | Access can be suspended through security reporting | Marcus, Hackett, and other officers may act lawfully or cautiously | Do not say Apex directly commands the entire Army |
+| Defense Intelligence Agency | Defense intelligence and systems audit | Leland Price and government liaison presence | Price’s credentials were suspended | DIA as a whole is not implicated | Do not assume Price’s treatment represents full DIA policy |
+| Army counterintelligence | Investigates security and classified-data incidents | Receives Apex report and may detain subjects | Operating initially from a hostile or incomplete record | Detention and evidence seizure may be lawful | Do not equate procedure with conspiracy |
+| Army Criminal Investigation Division | Requested to locate Marcus/Julie in Vance’s account | Potential receiving investigative authority | Exact active role unclear | No evidence CID is controlled by Vance | Do not invent a CID tactical team without a scene |
+| Defense Criminal Investigative Service | Named by Marcus as an appropriate independent custodian | Not shown taking action | No confirmed involvement | Potentially legitimate recipient | Do not claim it has custody |
+| Argus program oversight | Government acceptance and strategic supervision | Marcus’s former access authority and broader governance | Contractor dependence limits inspection | Oversight may be flawed rather than corrupt | Avoid one monolithic “oversight” actor |
+| Northbridge Strategic Initiatives | Think tank/risk consultancy with secure communications contract | WSS-4 endpoint in bridge and Phase B chain | Suite is operationally implicated | Bell, operator, staff, policy work, and contract may be legitimate | Do not turn the office into a villain fortress |
+| Senator Sterling’s office | Legislative and national-security office | Owns SSO-NS-004 certificate chain; public narrative; Hartwell presence | Office device is operationally implicated | Which staff member possesses or uses it remains unknown | Office device ≠ Sterling’s hand |
+| Sterling’s committee/political network | Oversight, legislation, public authority | Argus policy advocacy and crisis exploitation | Exact legal committee name and command power not stated | Policy support and donor ties are not crimes | Do not invent committee powers |
+| Major Tariq’s Forward Liaison Cell | Field liaison/operational command | K17 Operational Control field endpoint | Authority accepted at WSS-4 | Parent service and nationality are unstated | Do not invent organizational identity |
+| Indian Northern Command | Regional military command | Pressures Sharma to prepare and execute | Relies on American certification | Its concern about a real threat is legitimate | Do not portray India as passive or foolish |
+| Forward Post Arjun | Indian forward artillery post | Local human check against Argus certainty | Sharma holds local execution authority | Personnel follow command and preserve defensive readiness | Do not give them U.S.-side knowledge |
+| Metropolitan Police | D.C. law enforcement | Responds to Northbridge breach and known van | Acts on reports and direct observations | Officers are shown using restraint | Do not make them Apex agents |
+| Fairfax County responders | Fire and local emergency response | External constraint on Apex during alarms | County response opened life-safety systems | Responders are ordinary public-safety personnel | Do not make fire response a recurring convenient tool |
+| Apex Protective Services | Contractor security | Mercer’s containment and recovery teams | Vance’s orders conflict with Chen’s force rules | Mercer and officers generally act professionally | Do not make every officer murderous |
+| Fenwick landlord security | Ordinary building security | Controls outer service access and responds to breach | Deceived by false work order | Guard performs correct job and uses restraint | Do not retroactively implicate him |
+| Hartwell Executive Briefing Annex | Secure briefing site | Next authentication point | Exact governing authority unknown | Briefing itself may be legitimate | Do not invent controlling agency or layout |
 
-## Accepted Chapter 14 authority hierarchy
+---
 
-1. **MPD controls the public garage scene.**
-2. **Hartwell controls its own briefing-security and local-challenge record.**
-3. **Apex may assert classification and property interests but cannot seize evidence through MPD without documented authority and receipt.**
-4. **Julie, Marcus, and Elias retain physical custody of their distinct originals until a valid transfer is completed.**
-5. **No institution gains universal control merely because it controls one channel or location.**
+## Accepted Chapter 13 institutional delta
+
+### Metropolitan Police / District response
+
+- Responds to a known-plate, armed-insider, classified-material alert that is false or overstated in important respects but operationally credible.
+- Uses ordinary containment, verification, and controlled-force behavior; no accepted officer acts as an Apex conspirator.
+- Police custody could be lawful while still ending the trio’s observation before the physical event. Both facts remain true.
+
+### Commercial garage
+
+- Private civilian infrastructure creates potentially independent plate and internal-camera records.
+- Garage management reports open upper-level access; no special credential or secret institutional cooperation is invented.
+
+### Hartwell Executive Briefing Annex
+
+- Temporary traffic control, screening, and staff/courier lanes are active for a sensitive briefing.
+- Ordinary security and staff may be acting correctly from incomplete information.
+- The annex does not grant the trio access. Observation remains external.
+
+### Apex / Chen / Mercer / Vance
+
+- Chen and Mercer continue a capture/evidence operation with bounded force.
+- Vance retains a distinct objective: recover or control telemetry and the explanatory record.
+- Neither Apex nor Vance receives omniscient access to every garage, private camera, or Hartwell event.
+
+---
+## Accepted Chapter 14 authority update
+1. MPD controls the public garage scene, PCF-27 shutdown, west gate, body-camera record, dispatch preservation, and pending intake.
+2. Hartwell controls its own local-challenge/access record and acknowledges existence/hold without protected disclosure.
+3. Apex may assert classification/property interests but cannot seize originals through MPD without documented authority and receipt.
+4. The trio retains physical custody of distinct originals until a valid transfer is complete.
+5. No institution gains universal control merely because it controls one site, channel, or classification claim.

@@ -2,7 +2,7 @@
 
 ## Status
 
-**Approved production control.** This matrix classifies the active Book 1 and series threads after accepted Chapter 14.
+**Approved production control.** This matrix classifies every open thread previously tracked in `15-open-plot-threads-and-payoff-matrix.md`.
 
 Disposition labels:
 
@@ -10,69 +10,92 @@ Disposition labels:
 - **B1-PARTIAL / SERIES:** Book 1 must advance and bound the thread; final resolution may continue.
 - **SERIES:** May remain open after a clear Book 1 acknowledgment.
 - **MERGED:** Managed under another controlling thread to prevent duplicate planning.
-- **OPTIONAL:** Use only if it strengthens an existing payoff.
+- **OPTIONAL:** Use only if it strengthens an existing payoff; do not force it into Book 1.
 
-## Active thread dispositions
-
-| Thread | Disposition | State after accepted Chapter 14 | Book 1 requirement |
+| Thread | Disposition | Book 1 requirement | Series remainder |
 |---|---|---|---|
-| Who held `SSO-NS-004` at WSS-4? | MERGED | Historical WSS-4 hand remains unseen. | Address through the actionable Hartwell custody chain; do not invent retroactive certainty. |
-| Who held or presented `SSO-NS-004` at Hartwell? | B1-REQUIRED | **Advanced, unresolved.** Dark-overcoat entrant is outside before accepted/complete state; exact presenter and challenged serial remain unproved. | Establish a defensible person, handoff, carrier stream, or custody record through lawful examination or independent corroboration. |
-| Encrypted WSS-4 message content | B1-REQUIRED | Still encrypted. | Decrypt, lawfully recover, or otherwise establish enough content to define Phase B. |
-| What is Phase B? | B1-REQUIRED | Deadline passed at 07:49 without an observable answer; action remains unknown. | Reveal intended action and immediate outcome. |
-| Has Tariq’s team reached K-17? | B1-REQUIRED | Still unconfirmed. | Establish the immediate field outcome. |
-| Purpose of Masking Window Two | B1-REQUIRED | Window opened at 07:48 and remains active. | Reveal purpose and whether it executes. |
-| Pending Argus reconstruction profile | MERGED | Exact purpose remains undefined. | Resolve under Masking Window Two / Phase B. |
-| What must occur at Hartwell? | MERGED | A local challenge reached accepted/complete condition; Hartwell holds a relevant record but disclosed no substance. | Resolve under Hartwell physical custody and held-record examination. |
-| Independent counterrecord | B1-REQUIRED | **Payoff staged.** MPD body camera, dispatch preservation request, Ortiz’s independent observation, and Hartwell’s hold now exist alongside earlier WSS/Apex records. | Place at least one durable authenticated path outside Vance’s exclusive control and survive custody challenge. |
-| Sterling’s exact command role | B1-PARTIAL / SERIES | Office/device connection strengthened; personal hand and command remain unproved. | Establish a material operational connection or bounded uncertainty and fracture his public story. |
-| Northbridge’s full role | B1-PARTIAL / SERIES | WSS remains an implicated channel with ordinary staff not shown complicit. | Distinguish legitimate institution, compromised channel, and responsible actors. |
-| What Vance knew about Tariq | B1-PARTIAL / SERIES | No new direct link in Chapter 14. | Establish enough to resolve Vance’s Book 1 operational role. |
-| What happened to Leland Price? | B1-REQUIRED | Unchanged. | Pay off disappearance through appearance, record, or confirmed disposition. |
-| Will Chen disclose Vance’s directives? | B1-REQUIRED | Chen preserves the Hartwell local record and dispatch acknowledgment through communications while continuing capture. | Force a consequential independent disclosure or custody choice. |
-| Mercer: witness, antagonist, or both? | B1-REQUIRED | Mercer contests custody, obeys MPD scene authority, and hears the evidence limitations; remains adversarial. | Force a consequential choice without making him an uncomplicated ally. |
-| What will Hackett do with stronger evidence? | B1-REQUIRED | Still has not received the later evidence. | Give him a concrete choice after lawful or independently verifiable receipt. |
-| How is Elias’s voluntary role established publicly? | B1-REQUIRED | Manual marker 011 is entered under police observation; marker remains limited to local facts. | Preserve authenticated agency against both hostage and saboteur simplifications. |
-| Marcus and the six-years-ago testimony | B1-REQUIRED | He inventories primary objects on Ortiz’s body camera and records the Hartwell state/limitations in the paper log. | Still requires an on-record corrective choice with material cost. |
-| Was the old Argus incident connected? | SERIES | Unchanged. | Acknowledge without claiming proof. |
-| Can the four-second delay be proved? | B1-PARTIAL / SERIES | Unchanged. | Marcus’s moral choice must answer the wound even if technical proof remains lost. |
-| Consequence of Sharma’s aborted strike | B1-REQUIRED | Unchanged from reader-only no-fire knowledge. | Bring Indian records or consequence into the counterrecord or aftermath. |
-| Sharma’s role after abort | B1-REQUIRED | Unchanged. | Give her an independent action affecting proof or outcome. |
-| Physical costs | B1-REQUIRED | Injuries actively force Julie to stop the engine, Marcus to remain seated and guarded, and Elias to brace the module. | Continue through climax and aftermath; no instant recovery. |
-| Emotional costs | B1-REQUIRED | Julie chooses witnessable truth and lawful scene control over another escape; Marcus and Elias preserve distinct agency. | Continue toward costly bounded end states. |
-| Public narrative fracture | B1-REQUIRED | **Payoff staged, not public.** A truthful police/Hartwell record now contradicts the armed-insider account but has not been released or authenticated publicly. | Produce a visible authenticated contradiction. |
-| Fate of Bell’s local record | B1-REQUIRED | Unchanged; last known preserved at WSS-4. | Confirm preservation, seizure, destruction, or independent custody. |
-| Vance’s suppression and lethal orders | B1-REQUIRED | Chen preserves Vance’s contradictory Hartwell instructions; no outside disclosure yet. | Produce consequence and corroborating record. |
+| Who held SSO-NS-004 at WSS-4? | MERGED | Address through the Hartwell custody chain; do not invent retroactive certainty | Historical WSS-4 hand may remain unresolved if Hartwell establishes the actionable chain |
+| Who holds or presents SSO-NS-004 at Hartwell? | B1-REQUIRED | Establish a defensible person, handoff, carrier stream, or custody record | Broader office practice may continue |
+| Encrypted WSS-4 message content | B1-REQUIRED | Decrypt, lawfully recover, or otherwise establish enough content to define Phase B | Additional messages or upstream context may remain |
+| What is Phase B? | B1-REQUIRED | Reveal intended action and immediate outcome | Broader program may continue |
+| Has Tariq’s team reached K-17? | B1-REQUIRED | Establish the immediate field outcome | Tariq’s wider network may continue |
+| Purpose of Masking Window Two | B1-REQUIRED | Reveal purpose and whether it executes | Related future masking methods may continue |
+| Pending Argus source-reconstruction profile | MERGED | Resolve under Masking Window Two / Phase B | Broader Argus exploitation may continue |
+| What must occur at Hartwell? | MERGED | Resolve under the Hartwell physical-custody chain | Hartwell’s wider institutional role may continue |
+| Independently verifiable proof | B1-REQUIRED | Place a durable counterrecord outside Vance’s exclusive control | Full public adjudication may continue |
+| Sterling’s exact command role | B1-PARTIAL / SERIES | Establish a material Book 1 operational connection or bounded uncertainty; fracture his public story | Ultimate responsibility and legal fate may continue |
+| Northbridge’s full role | B1-PARTIAL / SERIES | Distinguish legitimate institution, compromised channel, and responsible actors | Wider contracts or actors may continue |
+| What Vance knew about Tariq | B1-PARTIAL / SERIES | Establish enough to resolve Vance’s Book 1 operational role | Full upstream direction may continue |
+| What happened to Leland Price? | B1-REQUIRED | Pay off his disappearance through appearance, record, or confirmed disposition | He may recur as witness or institutional contact |
+| Will Chen disclose Vance’s directives? | B1-REQUIRED | Force a consequential choice and durable record | Continuing legal/institutional role may recur |
+| Mercer: witness, antagonist, or both? | B1-REQUIRED | Force a consequential, character-consistent choice without making him an uncomplicated ally | He may recur as professional adversary/witness |
+| What will Hackett do with stronger evidence? | B1-REQUIRED | Give him a concrete choice after seeing or receiving stronger proof | He may recur as institutional contact or opponent |
+| How is Elias’s voluntary role established publicly? | B1-REQUIRED | Preserve an authenticated record that defeats simple hostage/saboteur erasure | Legal exposure may continue |
+| Marcus and the six-years-ago testimony | B1-REQUIRED | Require an on-record corrective choice with cost | Full personal reconciliation may continue |
+| Was the old Argus incident connected? | SERIES | Acknowledge the question without claiming proof | Primary series mystery candidate |
+| Can the four-second delay be proved? | B1-PARTIAL / SERIES | Marcus’s choice must answer the moral wound even if the technical proof remains lost | Technical recovery may drive a later book |
+| What happens at K-17? | MERGED | Resolve with Tariq-team/K-17 outcome | Geopolitical consequences may continue |
+| Consequence of Sharma’s aborted strike | B1-REQUIRED | Bring Indian no-fire and local records into the counterrecord or aftermath | Sharma’s career and future role may continue |
+| Sharma’s role after abort | B1-REQUIRED | Give her an independent Book 1 action that affects proof or outcome | Strong recurring international character |
+| Physical costs | B1-REQUIRED | Injuries must constrain climax and produce aftermath; no instant recovery | Lasting damage may carry into later books |
+| Emotional costs | B1-REQUIRED | Julie, Marcus, and Elias must make costly choices and reach bounded end states | Relationships may continue evolving |
+| Public narrative fracture | B1-REQUIRED | Produce an authenticated visible contradiction to Sterling’s story | Full vindication may continue |
+| What launches the final act? | RESOLVED / MERGED | Chapter 13 carrier-stream operation supplies the launch once accepted | None |
+| Hargrove’s current role | OPTIONAL / SERIES | Use only if he strengthens Marcus’s correction or the old-record theme | Potential later witness or antagonist |
+| Physical custodian versus registered authority | MERGED | Core rule of the Hartwell custody chain | Remains a series evidence principle |
+| Fate of Bell’s local record | B1-REQUIRED | Confirm preservation, seizure, destruction, or independent custody | Bell may recur |
+| Vance’s suppression and lethal orders | B1-REQUIRED | Produce a consequence and corroborating record | Wider Apex accountability may continue |
 
-## Consolidated controlling groups
+## Consolidated controlling thread groups
 
 ### Hartwell custody chain
 
-Combines WSS-4 holder, Hartwell presenter, physical event, registered authority versus physical custody, and the proof value of cameras, witnesses, access records, held records, and handoffs.
+Combines:
 
-**State after Chapter 14:** The chain is materially narrowed and independently time-bound. It is not solved. The accepted/complete light cannot name a serial, and the dark-overcoat entrant’s exterior position only narrows possible presentation routes.
+- WSS-4 holder;
+- Hartwell presenter;
+- Hartwell physical event;
+- registered authority versus physical custody; and
+- the proof value of cameras, witnesses, access records, and handoffs.
 
 ### Phase B / K-17 / masking operation
 
-Combines Phase B, K-17 access, Tariq field operation, Masking Window Two, and the pending reconstruction profile.
+Combines:
 
-**State after Chapter 14:** Masking Window Two is active; the 07:49 deadline has passed without an observable answer; exact action and field result remain unresolved.
+- Phase B;
+- K-17 access;
+- Tariq field operation;
+- Masking Window Two; and
+- the pending source-reconstruction profile.
 
 ### Independent counterrecord
 
-Combines Bell/WSS, Chen directives, Mercer observations, MPD body camera and dispatch, Hartwell held record, Hackett, Price, Sharma/Qureshi, Elias’s voluntary audit trail, and public narrative fracture.
+Combines:
 
-**State after Chapter 14:** The counterrecord now includes genuinely independent public actors and a preservation hold. It still requires authentication, lawful custody, and survival against classification and hostile explanation.
+- Bell’s WSS record;
+- Chen’s directives;
+- Mercer’s observations;
+- Hackett’s receipt decision;
+- Price’s status;
+- Sharma/Qureshi records;
+- Elias’s voluntary audit trail; and
+- public narrative fracture.
 
 ### Original wound and series mystery
 
-Combines Marcus’s testimony, the four-second delay, Hargrove, the six-years-ago incident, and the possibility of a repeated method.
+Combines:
 
-**State after Chapter 14:** Marcus has made another accurate contemporaneous record but has not yet corrected the old institutional record at personal cost.
+- Marcus’s testimony;
+- four-second delay;
+- Hargrove;
+- the six-years-ago Argus incident; and
+- the possibility of a larger repeated method.
+
+Book 1 must resolve Marcus’s moral choice. The technical and conspiratorial mystery may continue.
 
 ## Maintenance rule
 
-After every accepted chapter, set each Book 1 requirement to one of:
+After every accepted chapter, update the “Book 1 requirement” state to one of:
 
 - not started;
 - advanced;
@@ -82,3 +105,25 @@ After every accepted chapter, set each Book 1 requirement to one of:
 - removed by explicit author decision.
 
 No thread may disappear because a later outline forgot it.
+
+## Accepted Chapter 13 disposition update
+
+| Controlling thread group | State after accepted Chapter 13 | Required next gate |
+|---|---|---|
+| Hartwell custody chain | **Advanced, unresolved.** A compact case, screened transfer, and three-person 07:46 stream are observed. No human hand is identified. | Chapter 14 mission lock must define the exact authentication/presentation problem without assigning the custodian in advance. |
+| Phase B / K-17 / masking | **Unchanged in substance.** K-17 access remains unconfirmed; Phase B, Masking Window Two, and the reconstruction profile remain undefined. | Reconnect the Hartwell event to the live field threat before the climax. |
+| Independent counterrecord | **Advanced.** Garage plate/camera records, traffic and loading cameras, responding police, Hartwell security records, Elias’s nine markers, Marcus’s notes, and the existing originals may overlap. The trio does not possess or authenticate all external records. | Establish actual preservation, access, independence, and lawful custody; potential records are not automatic proof. |
+| Original wound and series mystery | **Advanced emotionally, not resolved.** Julie obeys the 07:42:30 decision rule and refuses to invent the answer. Marcus preserves the originals and exfiltration discipline. | Marcus still owes an on-record corrective choice; the old four-second technical proof may remain a bounded series thread. |
+
+Chapter 13 resolves the final-act launch only. It does not resolve the signer custodian, Phase B, K-17, encrypted messages, Sterling’s personal command, independent custody, or the public record.
+
+---
+## Accepted Chapter 14 disposition update
+- Hartwell presenter/exact serial: B1-REQUIRED, advanced but unresolved.
+- Independent counterrecord: B1-REQUIRED, payoff staged.
+- Phase B/K-17/Masking Window Two: B1-REQUIRED, unresolved.
+- Sterling command: B1-PARTIAL/SERIES, office/device chain strengthened while personal command remains unproved.
+- Mercer/Chen choices: B1-REQUIRED, advanced only.
+- Marcus correction: B1-REQUIRED, still unpaid.
+- Public narrative fracture: B1-REQUIRED, payoff staged but not public.
+- No thread is resolved merely because a record is held or police control the scene.

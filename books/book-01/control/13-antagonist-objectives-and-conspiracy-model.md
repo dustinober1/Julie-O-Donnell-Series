@@ -2,175 +2,233 @@
 
 ## Arthur Vance
 
-### Confirmed actions through Chapter 14
+### Confirmed actions
 
-- Restricted Julie’s review access.
+- Restricted Julie’s access after her arrival.
 - Denied validation-archive access.
 - Suspended Marcus’s authority.
 - Sanitized the review partition.
 - Directed containment and evidence recovery.
 - Pressured Elias to sign a false confession.
-- Used or controlled APX-DIR-0019 executive authority.
+- Used or controlled APX-DIR-0019’s executive authority.
 - Overrode occupied-room suppression protection.
 - Requested volatile sanitization.
-- Issued no-witness, evidence-priority, and material-loss lethal-force language.
+- Issued no-witness or evidence-priority language.
+- Issued material-loss lethal-force authority.
 - Created the WSS vendor watch.
-- Supported the public armed-insider narrative.
-- During Chapter 14, pressed for immediate recovery of the aluminum case and incident module, characterized Julie’s preservation request as continuing hostile targeting, and invoked classification/executive authority against disclosure.
-- Sought custody without a complete independent receiving receipt.
+- Supported the public narrative through Apex records and footage.
 
 ### Confirmed authority
 
-- Apex Building Three site/security authority.
+- Building Three site/security authority.
 - Registered custodian of the executive hardware authority controlling APX-DIR-0019.
-- Apex classification, reporting, protective-services, and vendor-certification influence.
-
-### Probable objectives
-
-- Preserve Argus credibility and Apex contracts.
-- Preserve or conceal the K-17/Phase B operation.
-- Keep evidence under Apex interpretation.
-- Prevent separate public records from becoming one independently reviewable sequence.
-
-### Unproved
-
-- Personal keystrokes.
-- Personal control of every incident instruction.
-- Direct command from Sterling.
-- Direct control over Tariq.
-- Exact Phase B design.
-- Connection to the prologue incident.
-- Control of MPD, Hartwell, commercial garage records, or every camera.
-
-### Current Chapter 14 position
-
-Vance loses exclusive control over the record. MPD body-camera/dispatch records, commercial-garage records, Hartwell’s held local record, WSS-4, and the trio’s separate originals now form a potential witness line across institutions. He remains dangerous because classification, jurisdiction, and hostile explanation can delay comparison.
-
-## Senator Sterling
-
-### Confirmed actions through Chapter 14
-
-- Issued public statements blaming Julie and defending Argus.
-- Announced and traveled toward the Hartwell briefing.
-- His office’s registered `SSO-NS-004` authenticated WSS-4.
-- The same device was expected at Hartwell.
-- Hartwell’s exterior state reached accepted/complete during the window, and a relevant local record was held.
-
-### Confirmed authority
-
-- Senatorial office, public platform, legislative influence, office signer infrastructure, and access to Hartwell’s briefing process.
-
-### Probable objectives
-
-- Use regional crisis and insider narrative to preserve or expand Argus authority.
-- Enable, ratify, conceal, or politically exploit Phase B.
-
-### Unproved
-
-- Personal possession or presentation of `SSO-NS-004`.
-- Presence at the exact challenge point.
-- Personal keystrokes or direct order.
-- Knowledge of Payload 88’s mechanics.
-- Exact K-17 benefit.
-- Control of Hartwell records or MPD.
-
-### Current Chapter 14 position
-
-The office/device link is stronger because the Hartwell challenge reached an accepted/complete state and a held record exists. Personal action remains unproved. Sterling may still distance himself from the device, an aide, Vance, Northbridge, or Tariq if exposure grows.
-
-## Major Tariq
-
-### Confirmed authority
-
-A field-route certificate registered to Major Tariq / Forward Liaison Cell was accepted in the K17 Operational Control session.
-
-### Chapter 14 result
-
-- No direct POV or physical appearance.
-- Phase B deadline passes at 07:49 without an observable Washington-side answer.
-- K-17 access remains unconfirmed.
-- No field action, failure, success, or withdrawal is established.
 
 ### Probable objective
 
-Complete the K-17 field operation and obtain/use Phase B authorization.
+- Preserve Argus’s credibility, Apex’s contract, and the K-17 operation.
+- Convert crisis into proof of Argus’s necessity.
+- Keep the evidence under Apex interpretation.
 
-### Unproved
+### Unproved objective
 
-- Physical location.
-- Personal operation of the field endpoint.
-- Team identity or nationality.
-- Exact Phase B action.
-- Political alignment with Sterling.
-- Direct communications with Vance.
+- Direct personal control over Phase B.
+- Sterling-directed orders.
+- Connection to the prologue incident.
+- Exact financial or political benefit.
 
-## Sarah Chen
+### Assets
 
-- Remains a capture-oriented institutional antagonist.
-- Preserves lawful-force, evidence, and named-custody language.
-- Preserves Vance’s contradictory instructions.
-- Rejects Vance’s attempt to treat Ortiz as compromised merely for using public police procedure.
-- Does not warn Julie, release the trio, or become a covert ally.
-- Her likely future vulnerability is the incident record she preserved.
+Apex systems, personnel, certificates, footage, reporting channels, vendor watches, and executive controls.
 
-## Daniel Mercer
+### Evidence link
 
-- Remains a professional capture and material-recovery antagonist.
-- Contests custody and advances Apex’s claim.
-- Obeys MPD scene control.
-- Receives no evidence.
-- Does not fire or use unlawful force.
-- Becomes a stronger potential witness to Vance’s recovery priority, Julie’s restraint, and the independent Hartwell event without becoming an ally.
+Strong and direct at registered-authority level.
 
-## Confirmed conspiracy chain after Chapter 14
+### Missing evidence
 
-1. Payload 88 existed as prohibited synthetic validation material.
-2. A post-archive derivative entered the live Pakistan source path.
-3. APX-DIR-0019 controlled or signed the bridge.
-4. APX-DIR-0019 was bound to Vance-registered executive hardware authority.
-5. Payload 88 created false artillery evidence and masked K-17 movement.
+Physical operator, upstream instruction, full message content, direct Tariq communications.
+
+### Current knowledge
+
+Knows Julie has followed the chain into Washington and captured WSS material. Exact knowledge of Hartwell and field status is not fully shown.
+
+### Public strategy
+
+Let Sterling and Apex characterize Julie’s correction as the attack.
+
+### Vulnerability
+
+- Certificate chain.
+- Elias board.
+- Recovery cartridge.
+- Chen directives.
+- WSS local audit.
+- Bell and Mercer testimony.
+- Suppression and fire logs.
+
+### Potential conflict with other antagonists
+
+Vance’s priority is evidence and Apex survival; Sterling may prioritize political survival; Tariq may prioritize field success.
+
+---
+
+## Senator Sterling
+
+### Confirmed actions
+
+- Issued public statements blaming Julie.
+- Defended Argus and institutional discipline.
+- Announced and traveled to Hartwell.
+- His office’s registered SSO authenticated WSS-4.
+
+### Confirmed authority
+
+Senatorial office, committee influence, office signer infrastructure, and public platform.
+
+### Probable objective
+
+- Use the regional crisis and insider narrative to preserve or expand Argus authority.
+- Enable or ratify Phase B.
+
+### Unproved objective
+
+- Direct personal command.
+- Personal possession of SSO-NS-004.
+- Knowledge of Payload 88’s exact mechanics.
+- Exact benefit expected from K-17.
+
+### Assets
+
+Public credibility, office staff, legislative certificate chain, motorcade, Hartwell access, Northbridge network.
+
+### Evidence link
+
+Office-device authentication is direct; personal action remains indirect.
+
+### Missing evidence
+
+Physical custody, plaintext commands, direct orders to Vance or Tariq.
+
+### Current knowledge
+
+Private knowledge not shown. Public statements demonstrate awareness of events and a prepared narrative.
+
+### Public strategy
+
+Present Julie as an expanding insider threat and the system as the victim.
+
+### Vulnerability
+
+- Same signer expected at Hartwell.
+- WSS-4 local and portable records.
+- Timing of statements.
+- Northbridge staff testimony.
+- Potential camera/access evidence identifying custodian.
+
+### Potential conflict
+
+May sacrifice Vance or distance the office from the device if exposure becomes unavoidable.
+
+---
+
+## Major Tariq
+
+### Confirmed actions
+
+No personal physical action is shown.
+
+### Confirmed authority
+
+A field-route certificate registered to Major Tariq / Forward Liaison Cell was accepted for K17 Operational Control.
+
+### Probable objective
+
+Complete the K-17 field operation and obtain Phase B authorization.
+
+### Unproved objective
+
+- Exact field action.
+- Personal participation.
+- Political allegiance.
+- Whether the field team is his military personnel, contractors, or another group.
+
+### Assets
+
+Field command authority, disciplined movement team, K17 operational channel, knowledge of local security status.
+
+### Evidence link
+
+Direct at command-certificate level.
+
+### Missing evidence
+
+Physical identity of operator/team, orders, current location, access result.
+
+### Current knowledge
+
+His command channel knows the structured field status.
+
+### Public strategy
+
+None shown.
+
+### Vulnerability
+
+Field certificate, WSS event order, K-17 physical evidence, and any failed Phase B attempt.
+
+### Potential conflict
+
+Tariq’s strategic objective may not require the same public outcome Sterling or Vance wants.
+
+## Confirmed Conspiracy Chain
+
+1. Payload 88 exists as prohibited synthetic validation material.
+2. A post-archive derivative entered PAK_RELAY_17A.
+3. APX-DIR-0019 signed or controlled the bridge.
+4. APX-DIR-0019 is bound to executive hardware authority registered to Vance.
+5. Payload 88 created false artillery evidence and suppressed K-17 movement.
 6. Northbridge participated in the authenticated operational path.
 7. WSS-4 hosted K17-PHASE-B.
 8. Tariq’s registered field authority was accepted.
-9. Sterling-office `SSO-NS-004` authenticated the authorization side at WSS-4.
-10. Hartwell was the next required local challenge site.
-11. A three-person carrier stream entered Hartwell at 07:46.
-12. A dark-overcoat entrant was outside before the exterior state changed.
-13. Hartwell reached a distinct accepted/complete exterior condition at 07:47:49.
-14. Hartwell acknowledged that a relevant local-challenge/access record exists and is held.
-15. The exact challenged serial and human presenter remain undisclosed.
-16. Masking Window Two began at 07:48.
-17. Phase B deadline passed at 07:49 without an observable answer.
-18. K-17, Phase B, plaintext, and reconstruction purpose remain unresolved.
+9. Sterling-office SSO-NS-004 authenticated the authorization side.
+10. Hartwell is the next required authentication point.
+11. Phase B and the second masking window remain pending.
 
-## Strongly supported but unproved links
+## Strongly Supported but Unproved Links
 
-- Vance personally directed the Payload 88 deployment.
-- False artillery warning primarily covered K-17.
-- Sterling’s political operation knowingly depended on K-17.
-- The Hartwell presenter acted for Sterling’s office with knowledge of the operational chain.
-- The compact black case contained `SSO-NS-004`.
-- The pending reconstruction profile was a second source manipulation.
-- Phase B concerns relay access, log alteration, or manufactured physical corroboration.
-- Vance, Sterling, and Tariq coordinated knowingly through Northbridge.
+- Vance personally directed Payload 88’s deployment.
+- The false artillery warning was designed primarily to cover the K-17 approach.
+- Sterling’s political operation knowingly depends on the K-17 outcome.
+- SSO-NS-004 will be carried by Sterling or an immediately authorized staff member.
+- The pending Argus reconstruction profile is the second manipulation.
+- Phase B concerns relay access, log alteration, or physical corroboration.
+- Vance, Sterling, and Tariq coordinate through Northbridge.
 
-## Open possibilities
+## Open Possibilities
 
-- An aide, counsel, legislative-security officer, Northbridge intermediary, or other authorized person presented the signer.
-- The signer may have been handed off inside Hartwell.
-- The dark-overcoat entrant may have carried the device earlier but was outside before challenge completion.
-- Sterling may be exploiting an operation designed by others.
-- Tariq’s field objective may diverge from Sterling’s political outcome.
-- Vance may know less about the field purpose than about the source manipulation.
-- Hartwell’s held record may identify a presenter but still not prove who directed that presenter.
-- Phase B may have failed, been delayed, been rerouted, or executed in a way not externally visible.
+- An aide, counsel, Northbridge intermediary, or legislative-security officer holds SSO-NS-004.
+- Sterling may be exploiting an operation designed by others rather than commanding every step.
+- Tariq may have a field objective that diverges from Sterling’s desired public crisis.
+- Northbridge leadership may be involved while ordinary staff are not.
+- Vance may have initiated the operation for Apex without full knowledge of Tariq’s field purpose.
+- K-17 may be one stage rather than the ultimate objective.
+- The six-years-ago Argus failure may be connected, imitated, or merely structurally similar.
 
-## Antagonist-control rule
+---
 
-Later chapters must distinguish:
+## Accepted Chapter 13 antagonist-state delta
 
-- authority from hand;
-- device response from human intent;
-- public narrative from private command;
-- operational alignment from identical motive;
-- record existence from lawful access to the record.
+- **Sterling network:** Public schedule and office-registered device converge on Hartwell. This materially strengthens the operational connection but does not prove Sterling’s hand, personal presence at the challenge point, keystrokes, or direct command.
+- **Vance:** Continues to prioritize telemetry recovery and control of the official explanation. He can route vendor and protective-service pressure but does not know the hidden human custodian or control independent cameras by fiat.
+- **Chen:** Pursues capture, evidence preservation, and lawful-force limits. She remains an institutional antagonist with an unresolved future choice, not a covert ally.
+- **Mercer:** Acts on the physical scene as a professional capture antagonist. His observations may later become evidence, but no alliance occurs.
+- **Tariq / K-17:** No new accepted evidence changes field access, physical presence, or Phase B status.
+- **Conspiracy model:** The carrier stream is narrowed to an operationally relevant three-person arrival. The chain is sharper, not complete.
+
+---
+## Accepted Chapter 14 antagonist update
+- **Vance:** Presses telemetry/material recovery, hostile-targeting characterization, classification, and executive delay; loses exclusive control of the record but does not control MPD, Hartwell, or every external source.
+- **Sterling:** Office/device chain is strengthened by the accepted/complete Hartwell state and held record; personal possession, presentation, keystrokes, and command remain unproved.
+- **Tariq:** No direct Chapter 14 action; K-17 access and Phase B remain unconfirmed.
+- **Chen:** Preserves capture, life, evidence, named custody, and Vance’s contradictory instructions without warning or releasing the trio.
+- **Mercer:** Remains adversarial, contests custody, obeys MPD scene authority, receives no evidence, and does not fire.
