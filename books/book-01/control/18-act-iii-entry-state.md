@@ -2,44 +2,45 @@
 
 ## Controlling accepted Act III state
 
-Act III contains three accepted chapters:
+Act III contains four accepted chapters:
 
 - Chapter 13 — **The Carrier Stream**
 - Chapter 14 — **The Witness Line**
 - Chapter 15 — **The Split Record**
+- Chapter 16 — **The Hold Order**
 
 ### Accepted endpoint
 
-- **Time:** 07:56:40 EDT / 17:26:40 IST
-- **Primary Washington state:** Julie, Marcus, and Elias are in separate MPD/EMS transport after the completed interim MPD seizure.
-- **Authority:** MPD controls the seven evidence packages; EMS controls Marcus’s and Elias’s medical movement; no final federal or technical receiver exists.
+- **Time:** 08:15:52 EDT / 17:45:52 IST
+- **Primary Washington state:** Julie remains restrained in marked MPD transport at the secure evidence-intake threshold; Marcus and Elias remain in separate guarded medical custody.
+- **Authority:** MPD retains physical custody of all seven packages under incident `187463`; General William Hackett is the named federal preservation sponsor; no final federal receiver or independent technical examiner exists.
 - **Accepted prose after this point:** None.
-- **Unaccepted prose after this point:** One Chapter 16 first draft at `../drafts/chapter-16.md`.
-- **Chapter 16 mission lock:** `32-chapter-16-mission-lock.md`.
-- **Immediate next gate:** Formal Chapter 16 acceptance and revision review. Do not draft Chapter 17.
+- **Unaccepted prose after this point:** None.
+- **Immediate next gate:** Chapter 17 mission planning and mission locking only. Do not draft Chapter 17 or create a complete chapter-by-chapter outline for the remainder of Act III.
 
 ## Physical state
 
 ### Julie
 
 - Primary close-third protagonist.
-- In the rear of a marked MPD vehicle under an injury-compatible front transport restraint.
-- Left wrist double-locked to the belt; right forearm held in a padded medical restraint outside the brace.
-- Right wrist swollen and materially impaired; no normal grip, writing, lifting, stabilization, restraint movement, or fighting.
+- Restrained in the rear of a marked MPD vehicle at secure intake.
+- Left wrist remains double-locked to the transport belt; braced right forearm remains in the padded medical restraint.
+- Right wrist remains swollen and materially impaired; no normal grip, writing, lifting, stabilization, restraint movement, or fighting.
 - Exhausted, publicly recognizable, unarmed, detained, and without an original evidence object.
+- Knows only that a restricted allied preservation acknowledgment exists; she does not know Sharma’s identity or the Indian no-fire outcome.
 
 ### Marcus
 
-- In guarded ambulance care at the west-gate staging route.
-- On four liters of oxygen; saturation improved only to 92–93 percent on support.
+- In guarded ambulance/medical custody after EMS ended his recorded statement.
+- Remains on four liters of oxygen with saturation fluctuating at 92–93 percent.
 - Severe rib pain, impaired ventilation, scalp wound, swollen/unreliable thigh, damaged boot, dizziness, balance loss, and exhaustion remain active.
 - Cannot run, fight, drive, carry evidence, or perform ordinary tactical movement.
-- No longer possesses any original.
-- His B1-required on-record correction remains unpaid in accepted canon.
+- No longer possesses an original.
+- His six-years-ago correction is now attributable and recorded; disciplinary, legal, rank, and relationship consequences remain unresolved.
 
 ### Elias
 
-- In separate guarded medical transport moving toward the opposite ramp.
+- In separate guarded medical transport.
 - Hip injury, dizziness, exhaustion, tremor, and bandaged/clumsy right index remain active.
 - Cannot handle evidence, sign normally, or perform a technical operation.
 - No longer possesses the administrator board or dual-partition module.
@@ -57,45 +58,57 @@ MPD incident `187463` holds seven separately sealed packages:
 6. `MPD-901446` — administrator-token board `EAT-0881147`
 7. `MPD-901447` — dual-partition incident module `FEM-240673`
 
-Officer Gabriel Ortiz, badge 4172, is the interim receiving officer. Officer Hannah Park, badge 5831, is the witness officer.
+Officer Gabriel Ortiz, badge 4172, remains the interim receiving officer. Officer Hannah Park, badge 5831, remains the witness officer.
 
-The MPD receipt proves handling and interim custody only. It does not authenticate contents, adopt the trio’s interpretation, decide classification ownership, establish guilt or innocence, exonerate anyone, or resolve final jurisdiction.
-
-No package is open, connected, combined, altered, decrypted, imaged, or held by Apex or a federal examiner.
+- The locked chest has crossed the secure MPD intake threshold.
+- Every package remains separate, sealed, offline, unopened, unconnected, uncombined, and physically with MPD.
+- Hackett’s written and recorded hold is attached to the incident but is not inside any sealed package.
+- The generic federal claim remains pending because no one verified named officer has accepted all seven packages, all seal conditions, the interpretation limitation, and responsibility for the next location in one documented act.
+- MPD receipt and intake records establish custody only; they do not authenticate technical meaning, establish original truth, determine ownership or classification, decide guilt or innocence, or exonerate the trio.
 
 ## Independently controlled records
 
-- MPD body cameras and dispatch cross-reference
+The hold requests preservation of separately controlled records without transferring them to MPD:
+
+- MPD body cameras, dispatch, and secure-intake records
 - commercial-garage records
-- traffic/private-loading records
+- traffic and private-loading records
 - Hartwell held local-challenge/access record
-- WSS-4 local audit
-- Apex/Chen directives and incident records
+- Northbridge WSS-4 local audit, sponsor, controller, and external-chain records
+- Apex/Chen directives, vendor-watch, fire, suppression, and handling records
 - Sharma/Qureshi challenged allied incident set
 
-Naming these records in an MPD receipt does not give MPD physical possession or technical control over them.
+An allied routing receipt now links a challenged-set reference, preserved record categories, product-status caveats, local clock basis, and a disclosure restriction to Hackett’s hold. Julie receives no local identity, no no-fire result, and no operational contents.
 
 ## Field and allied state
 
-- The superseding allied product became controlling at 07:54:00 EDT / 17:24:00 IST.
+- The superseding allied product remains controlling in the actionable picture from 07:54:00 EDT / 17:24:00 IST.
 - The counter-battery suspension remains.
-- The superseding actionable picture omits the earlier low-level K-17 anomaly references.
-- Omission does not prove the prior anomalies true or false.
-- Sharma preserves the prior and superseding products, source-review photograph, local sensor-reference identifiers, abort record, fire-direction record, no-fire acknowledgments, and clock-offset notes as one challenged incident set.
-- Julie does not know Sharma’s identity, preservation decision, or no-fire outcome.
-- Sharma does not know Julie, incident `187463`, or the Washington custody event.
+- The superseding actionable picture omits the earlier low-level K-17 anomaly references; omission does not prove those references true or false.
+- Sharma preserves the prior and superseding products, source-review photograph, local sensor-reference identifiers, abort record, fire-direction and no-fire records, and clock-offset notes as one challenged incident set.
+- Sharma’s acknowledgment preserves product status and caveats without declaring a merits result or releasing unrestricted sensor geography.
+- Julie does not know Sharma’s identity, preservation choices, or no-fire outcome.
+- Sharma does not know Julie, the complete Washington narrative, MPD incident `187463`, the seven packages, Hartwell custody events, WSS-4 contents, or the trio’s current location.
 - K-17 physical access remains unconfirmed.
 - Phase B remains undefined and is not shown authorized or completed.
 - Reconstruction authorship, authority, purpose, and truth remain unresolved.
 
-## Remaining Book 1 obligations after Chapter 15
+## Relationship and institutional movement
+
+- Marcus’s attributable correction materially advances the moral repair with Julie but does not create forgiveness or full reconciliation.
+- Hackett transforms from a cautious prior contact into a named preservation sponsor; he is not yet a trusted examiner, receiver, or ally.
+- Julie and Ortiz’s procedural trust deepens without belief or alliance.
+- Sharma and Julie remain unknown to each other; only a causal preservation bridge connects their independently made choices.
+- Apex, Hartwell, Northbridge, MPD, the allied chain, and Hackett’s office each retain bounded and nonuniversal authority.
+- Sterling’s hostile armed-insider account remains publicly dominant; no public vindication or visible authenticated fracture has occurred.
+
+## Remaining Book 1 obligations after Chapter 16
 
 - Hartwell physical-custody chain and exact challenged serial
 - WSS-4 plaintext or alternate lawful proof sufficient to define Phase B
-- Immediate Phase B / K-17 / reconstruction outcome
-- Independent technical examination and named final custody
-- Marcus’s on-record correction
-- Hackett’s concrete choice
+- immediate Phase B / K-17 / reconstruction outcome
+- independent technical examination and named final custody
+- consequences of Marcus’s recorded correction
 - Chen and Mercer’s consequential choices
 - Bell local-record fate
 - Price disposition
@@ -103,67 +116,8 @@ Naming these records in an MPD receipt does not give MPD physical possession or 
 - authenticated public-narrative fracture
 - medical, legal, relationship, and future-role aftermath
 
-No obligation is resolved in accepted canon merely because the packages survived interim seizure or because an unaccepted draft dramatizes later events.
-
-## Approved Chapter 16 mission-lock state
-
-Chapter 16 — **The Hold Order** — is approved as the controlling pre-draft plan.
-
-### Dominant function
-
-Force a named, reviewable federal preservation authority behind the interim MPD chain without surrendering the seven packages to an unnamed claimant or allowing technical access before an independent intake can be established.
-
-### Opening
-
-- **Exact time:** 07:56:40 EDT / 17:26:40 IST
-- **Primary location:** Rear of Julie’s marked MPD vehicle on garage level six
-- **Trio state:** Physically separated; no direct communication
-- **Evidence state:** Locked MPD chest; seven separate sealed packages; no final receiver
-
-### POV
-
-- Julie primary opening and closing
-- one bounded Marcus ambulance cutaway
-- one bounded Sharma cutaway
-- no Elias or antagonist cutaway
-
-### Required advancement
-
-- General William Hackett becomes the named federal preservation sponsor/requesting authority.
-- MPD retains physical custody and moves the seven packages toward secure intake under a no-open/no-connect/separate-package hold.
-- Marcus places his six-years-ago correction on an attributable record under EMS control.
-- A bounded allied preservation request makes Sharma’s challenged incident-set reference reachable without direct contact or a truth finding.
-
-### Planned endpoint
-
-No later than **08:16:40 EDT / 17:46:40 IST**:
-
-- Julie remains in MPD custody at or entering a secure MPD evidence-intake threshold.
-- Marcus and Elias remain in separate medical custody.
-- All seven packages remain separately sealed and physically with MPD.
-- Hackett’s named preservation hold is active.
-- An allied preservation acknowledgment is linked.
-- No final federal/technical receiver, merits finding, exoneration, public fracture, Hartwell identity, WSS plaintext, K-17 result, or Phase B definition exists.
-
-## Unaccepted Chapter 16 first-draft status
-
-- **Draft path:** `../drafts/chapter-16.md`
-- **Exact draft words:** 6,024
-- **Draft opening:** 07:56:40 EDT / 17:26:40 IST
-- **Draft endpoint:** 08:15:52 EDT / 17:45:52 IST
-- **POV execution:** Julie / Marcus / Sharma / Julie
-- **Drafted mission result:** Hackett’s named hold becomes active; Marcus’s correction is recorded under EMS control; all seven packages remain separately sealed and physically with MPD; a caveat-bearing allied acknowledgment is linked.
-- **Review status:** Formal acceptance and revision review not performed.
-- **Canon effect:** None. Every physical, evidence, knowledge, relationship, and institutional state above remains controlled by accepted Chapter 15 until an explicit ACCEPT verdict and synchronized promotion.
+Chapter 16 resolves the mobile-custody survival problem and completes Marcus’s required on-record act. It does not resolve the technical merits, immediate geopolitical operation, final receiver, or public account.
 
 ## Current production gate
 
-Review the single Chapter 16 draft against `32-chapter-16-mission-lock.md` and `25-chapter-acceptance-gate.md`.
-
-Do not modify accepted prose, `../ACCEPTED_MANUSCRIPT.yaml`, the 81,586-word accepted total, or the accepted 07:56:40 EDT / 17:26:40 IST endpoint without an explicit ACCEPT verdict and same-pass promotion. Do not draft Chapter 17 or create a complete remainder-of-Act-III outline.
-
-## Post-Chapter 16 accepted Act III state — 2026-07-13
-
-Act III accepted canon now extends through Chapter 16 at 87,610 total words. The seven-package evidence set has reached secure MPD intake under a named Hackett preservation hold without a final federal receiver or technical examiner. Marcus has corrected the old record under medical control. Sharma's bounded acknowledgment makes the allied counterrecord reachable while retaining disclosure limits and no merits finding.
-
-The next mission must begin from separated medical/police custody, MPD physical control, a hostile public narrative, and an unresolved final receiver/examiner. Chapter 17 remains unplanned and undrafted until a dedicated mission lock is approved.
+Conduct **Chapter 17 mission planning and mission locking only** from this accepted endpoint. The mission lock must define the next chapter’s one dominant function without drafting prose or expanding the complete remainder of Act III.
