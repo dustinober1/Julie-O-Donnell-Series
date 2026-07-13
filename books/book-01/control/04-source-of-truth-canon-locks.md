@@ -209,3 +209,16 @@
 - Do not alter the accepted Chapter 5-to-6 deadline architecture or L3-7 handoff without an explicit manuscript repair and same-pass control-pack update.
 
 ---
+
+---
+
+## Accepted Chapter 14 canon locks
+
+- Chapter 14 — **The Witness Line** — is accepted unchanged at 5,763 words.
+- The accepted endpoint is 07:49:32 EDT / 17:19:32 IST on public garage level six beside powered-down PCF-27 under Metropolitan Police scene control.
+- The dark-overcoat entrant is visibly outside before Hartwell’s exterior state changes from white challenge-ready to steady green.
+- The exterior green state proves only a local accepted/complete condition; it does not prove the challenged serial, certificate, presenter, receiver, case contents, human intent, or Phase B result.
+- Hartwell acknowledges that a relevant local-challenge/access record exists and is held, but discloses no protected fields.
+- The physical presenter of `SSO-NS-004`, exact Hartwell serial, compact black case contents, WSS-4 plaintext, K-17 access, Phase B action, Masking Window Two purpose, and reconstruction-profile purpose remain unresolved.
+- Marcus and Elias retain physically separated primary originals. MPD scene control, object inventory, and serial collection do not constitute a completed evidence transfer.
+- Chapter 15 and later prose do not exist. The next gate is Chapter 15 mission planning and mission locking only.

@@ -47,3 +47,11 @@
 - Chen and Mercer continue a capture/evidence operation with bounded force.
 - Vance retains a distinct objective: recover or control telemetry and the explanatory record.
 - Neither Apex nor Vance receives omniscient access to every garage, private camera, or Hartwell event.
+
+---
+## Accepted Chapter 14 authority update
+1. MPD controls the public garage scene, PCF-27 shutdown, west gate, body-camera record, dispatch preservation, and pending intake.
+2. Hartwell controls its own local-challenge/access record and acknowledges existence/hold without protected disclosure.
+3. Apex may assert classification/property interests but cannot seize originals through MPD without documented authority and receipt.
+4. The trio retains physical custody of distinct originals until a valid transfer is complete.
+5. No institution gains universal control merely because it controls one site, channel, or classification claim.

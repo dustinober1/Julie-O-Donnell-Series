@@ -125,3 +125,15 @@ The accepted-manuscript inventory in `../ACCEPTED_MANUSCRIPT.yaml` controls acce
 - **Status:** Not drafted.
 - **Planning:** High-level functions remain provisional in `23-word-budget-and-act-iii-architecture.md`.
 - **Rule:** No later chapter function is canon until separately locked, drafted, reviewed, and accepted.
+
+---
+## Chapter 14 — The Witness Line — accepted
+- Accepted path: `../manuscript/chapters/chapter-14.md`
+- Mission lock: `28-chapter-14-mission-lock.md`
+- Review: `29-chapter-14-acceptance-review.md`
+- Reviewed blob: `78f7fff02cd271fecbc94f7daf7151dbebbd5c6d`
+- Verdict: **ACCEPT**; 5,763 words before and after review; no prose change.
+- Opening: 07:46:00 EDT / 17:16:00 IST.
+- Endpoint: 07:49:32 EDT / 17:19:32 IST under MPD scene control; no transfer receipt.
+- Accepted manuscript total: 75,593 words.
+- Chapter 15 and later: not drafted; next gate is mission planning/locking only.

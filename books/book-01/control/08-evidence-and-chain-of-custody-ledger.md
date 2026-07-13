@@ -985,3 +985,12 @@ Phone or local-image admissibility, classification, and time synchronization.
 | Handling-event journal | Elias / module | Manual markers recorded; external facts unproved by markers alone |
 
 No Chapter 13 custody transfer occurs.
+
+---
+## Accepted Chapter 14 evidence and custody update
+- Marcus retains the aluminum case, 136 sealed files, 47 incomplete files, 311-exclusion manifest, recovery cartridge, paper log, dead PCF-27 telematics module, and waterproof folder.
+- Elias retains the original administrator board, sealed/read-only Partition A, sealed WSS-4 Partition B, and handling journal.
+- Events 010–013 are local manual markers only; they do not prove external Hartwell events.
+- Independent records now include Ortiz’s body camera, MPD dispatch preservation/cross-reference requests, and Hartwell’s acknowledged held local-challenge/access record.
+- The 07:47:49 steady-green exterior state proves only an accepted/complete local condition; exact serial, certificate, presenter, receiver, challenge content, and briefing content remain undisclosed.
+- No primary original is opened, combined, handed to Apex, or transferred to MPD. Scene control and object-serial intake are not a completed transfer receipt.

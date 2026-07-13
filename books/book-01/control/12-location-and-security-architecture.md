@@ -176,3 +176,11 @@
 - A compact black case appears on an inspection surface, then disappears behind bodies/panels.
 - At 07:46:00 a controlled door admits a three-person stream.
 - The physical carrier remains concealed by ordinary security geometry, not authorial omniscience.
+
+---
+## Accepted Chapter 14 location update
+- The full chapter remains on public garage level six; no one enters Hartwell or leaves the garage.
+- Hartwell-facing geometry reveals the dark-overcoat return and white-to-steady-green change but still blocks the hidden hand and interior presenter.
+- The west route remains viable until police vehicles close it at 07:48:24; Julie aborts immediately and shuts down PCF-27 before 07:48:30.
+- Endpoint: van off, key visible, MPD controls the level/west gate, evidence separated, no receipt complete.
+- Hartwell acknowledges a relevant held record but discloses no serial, certificate, presenter, receiver, challenge content, or briefing content.

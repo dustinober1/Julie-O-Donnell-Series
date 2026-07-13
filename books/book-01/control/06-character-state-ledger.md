@@ -1139,3 +1139,11 @@ This section supersedes earlier “current” location and knowledge fields wher
 
 - Police act from a known-plate armed-insider bulletin and observable behavior. At least one officer hears that office registration is not physical possession and sees the trio obey the no-Hartwell-movement limit.
 - Ordinary Hartwell staff, officers, and couriers may be performing lawful duties from incomplete or false information. No blanket complicity is established.
+
+---
+## Accepted Chapter 14 state update — controls over earlier current-state fields
+- **Julie:** At 07:49:32 on garage level six under MPD scene control; right wrist remains braced and nearly useless for grip; no treatment or recovery. She creates the independent witness line, obeys the 07:48:24 hard abort, shuts down PCF-27, and still does not know the presenter, exact serial, compact-case contents, plaintext, K-17 result, Phase B action, reconstruction purpose, or Indian no-fire outcome.
+- **Marcus:** Remains severely limited by ribs, scalp, thigh, boot, balance, and breathing; retains all primary originals; inventories without opening; refuses undocumented Apex custody; six-years-ago corrective action remains unpaid.
+- **Elias:** Hip, right-index, dizziness, exhaustion, and tremor remain active; retains board, Partitions A/B, and journal; module remains offline; events 010–013 prove local input only.
+- **Ortiz:** Lawful MPD scene officer and independent witness; records without endorsing, routes preservation, controls van/west gate, and begins documented intake. No recurring-series function is established.
+- **Mercer/Chen/Vance/Sterling/Tariq:** Remain within prior evidence and authority limits; no alliance, personal signer proof, K-17 confirmation, or Phase B definition is created.

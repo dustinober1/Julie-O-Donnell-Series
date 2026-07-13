@@ -116,3 +116,14 @@ No thread may disappear because a later outline forgot it.
 | Original wound and series mystery | **Advanced emotionally, not resolved.** Julie obeys the 07:42:30 decision rule and refuses to invent the answer. Marcus preserves the originals and exfiltration discipline. | Marcus still owes an on-record corrective choice; the old four-second technical proof may remain a bounded series thread. |
 
 Chapter 13 resolves the final-act launch only. It does not resolve the signer custodian, Phase B, K-17, encrypted messages, Sterling’s personal command, independent custody, or the public record.
+
+---
+## Accepted Chapter 14 disposition update
+- Hartwell presenter/exact serial: B1-REQUIRED, advanced but unresolved.
+- Independent counterrecord: B1-REQUIRED, payoff staged.
+- Phase B/K-17/Masking Window Two: B1-REQUIRED, unresolved.
+- Sterling command: B1-PARTIAL/SERIES, office/device chain strengthened while personal command remains unproved.
+- Mercer/Chen choices: B1-REQUIRED, advanced only.
+- Marcus correction: B1-REQUIRED, still unpaid.
+- Public narrative fracture: B1-REQUIRED, payoff staged but not public.
+- No thread is resolved merely because a record is held or police control the scene.

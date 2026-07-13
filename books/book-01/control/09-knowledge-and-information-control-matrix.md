@@ -87,3 +87,10 @@
 | Ordinary Hartwell personnel | Their assigned screening, traffic, courier, or briefing duties | May know a sensitive session is beginning | Payload 88, the trio’s evidence, the conspiracy, or which colleague carries the signer unless directly assigned |
 
 Permanent distinction: reader-visible office registration, hardware response, and route convergence do not grant any character knowledge of the physical hand.
+
+---
+## Accepted Chapter 14 knowledge update
+- The trio knows the MPD preservation sequence, dark-overcoat return, exterior steady-green state, Hartwell hold acknowledgment, west-route closure, hard abort, shutdown, and lack of an observable Phase B answer.
+- The trio still does not know the physical presenter, exact Hartwell serial, compact-case contents, WSS plaintext, K-17 access, Phase B action, reconstruction purpose, Sterling’s personal command, or Indian no-fire outcome.
+- Ortiz/MPD know only scene-level behavior, Julie’s explicit limitations, the exterior state, hold acknowledgment, distinct objects, and incomplete transfer; they do not endorse the full conspiracy.
+- Hartwell may know protected fields privately, but no other character gains them without lawful production, testimony, or accepted examination.

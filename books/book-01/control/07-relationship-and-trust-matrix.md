@@ -36,3 +36,11 @@
 | Julie ↔ Mercer | Mercer remains an active professional antagonist who sees Julie obey some limits and refuse custody. | He does not become a teammate or secret ally. | His witness value and institutional choice remain open. |
 | Trio ↔ responding police | The officer sees an unarmed, procedure-conscious trio but still has lawful grounds to detain them under the current bulletin. | Honest policing is not treated as conspiracy. | Custody, force, and independent record questions intensify. |
 | Trio ↔ ordinary Hartwell personnel | Personnel are observed as a carrier stream, not presumed conspirators. | No guilt by proximity or job role. | Chapter 14 must separate physical presentation from institutional routine. |
+
+---
+## Accepted Chapter 14 relationship update
+- Julie and Marcus retain high operational trust while the personal/official-record wound remains unresolved.
+- Julie and Elias preserve voluntary, technically bounded agency and separate custody.
+- Julie and Ortiz establish procedural trust without belief; Ortiz is neither ally nor technical expert.
+- Mercer remains a professional adversary under MPD authority; Chen remains capture-oriented and evidence-sensitive; neither defects.
+- Hartwell is an external evidentiary contact only and discloses no protected substance.

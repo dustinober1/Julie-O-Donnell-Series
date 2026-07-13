@@ -11,12 +11,13 @@ Current snapshot:
 - Active book: Book 1 — title not yet locked
 - Target length: **100,000–125,000 words**
 - Planning target: **112,500 words**
-- Accepted canon: Prologue and Chapters 1–13
-- Accepted-manuscript length: **69,830 words**
-- Accepted endpoint: **07:46:00 EDT / 17:16:00 IST**, in a public parking garage overlooking Hartwell
+- Accepted canon: Prologue and Chapters 1–14
+- Accepted-manuscript length: **75,593 words**
+- Accepted endpoint: **07:49:32 EDT / 17:19:32 IST**, public parking garage level six beside powered-down PCF-27 under Metropolitan Police scene control
 - Chapter 13, **The Carrier Stream**: accepted
-- Chapter 14, working title **The Witness Line**: mission locked; prose not drafted
-- Immediate production action: draft Chapter 14 under `books/book-01/drafts/` from the approved mission lock
+- Chapter 14, **The Witness Line**: accepted unchanged after formal review
+- Chapter 15 and later prose: not drafted
+- Immediate production action: a dedicated Chapter 15 mission-planning and mission-lock session; do not draft Chapter 15 in that session
 
 ## Source-of-truth hierarchy
 
@@ -27,7 +28,7 @@ Current snapshot:
 5. [`PROJECT_STATE.yaml`](PROJECT_STATE.yaml) for production status and navigation
 6. [`archive/`](archive/) and Git history for superseded or external-source provenance
 
-Accepted prose outranks every summary, tracker, plan, and draft. Draft prose cannot create canon until it is explicitly promoted in a same-pass acceptance commit.
+Accepted prose outranks every summary, tracker, plan, and draft. Draft prose cannot create canon until explicitly promoted through the acceptance gate.
 
 ## Repository layout
 
@@ -61,13 +62,12 @@ Accepted prose outranks every summary, tracker, plan, and draft. Draft prose can
 - [Repository governance repair record](books/book-01/control/26-repository-governance-repair-record.md)
 - [Chapter 13 acceptance review](books/book-01/control/27-chapter-13-acceptance-review.md)
 - [Chapter 14 mission lock](books/book-01/control/28-chapter-14-mission-lock.md)
+- [Chapter 14 acceptance review](books/book-01/control/29-chapter-14-acceptance-review.md)
 - [Series recurring-character ledger](series/recurring-character-ledger.md)
 
-## Chapter 14 production rule
+## Chapter 15 production rule
 
-`books/book-01/control/28-chapter-14-mission-lock.md` is approved planning, not canon.
-
-Draft Chapter 14 only under `books/book-01/drafts/`. Do not add it to the accepted inventory, change accepted counts or endpoint, or create `books/book-01/manuscript/chapters/chapter-14.md` until the draft passes the formal acceptance gate.
+Chapter 15 has no accepted mission lock and no prose. The next session may lock its dramatic function, evidence/custody problem, clocks, POV, abort condition, and endpoint. It must not draft Chapter 15 until that planning gate is complete.
 
 ## Permanent continuity repair
 

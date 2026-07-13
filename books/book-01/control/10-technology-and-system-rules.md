@@ -804,3 +804,14 @@ The exact purpose must remain unresolved until dramatized or decrypted.
 - Masking Window Two: 07:48:00–07:54:00 EDT.
 - Phase B authorization deadline: 07:49:00 EDT.
 - No Chapter 13 action alters these deadlines.
+
+---
+
+## Accepted Chapter 14 technology locks
+
+- Elias’s dual-partition incident module remains offline throughout Chapter 14 and has no route into Hartwell.
+- Manual events 010–013 prove only local operator input, module time, local hardware state, and the statement entered. They do not prove the described external event.
+- No remote Hartwell access, wireless penetration, certificate sniffing, emission analysis, omnipotent Apex backdoor, WSS-4 decryption, sealed-partition alteration, or new digital derivative occurs.
+- Hartwell’s own held local-challenge/access record—not Elias’s module—is the potential future source for the exact challenged serial, certificate, presenter, receiver, challenge content, and local access context.
+- The white-to-steady-green exterior change is a bounded physical indicator of accepted/complete local state only. It cannot identify a device serial or human hand.
+- The Module, Hartwell, MPD body camera, MPD dispatch, commercial-garage records, WSS-4 local audit, and Apex/Chen records remain technically and institutionally distinct sources requiring later authentication and clock reconciliation.

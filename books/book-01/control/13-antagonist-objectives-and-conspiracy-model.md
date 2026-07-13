@@ -224,3 +224,11 @@ Tariq’s strategic objective may not require the same public outcome Sterling o
 - **Mercer:** Acts on the physical scene as a professional capture antagonist. His observations may later become evidence, but no alliance occurs.
 - **Tariq / K-17:** No new accepted evidence changes field access, physical presence, or Phase B status.
 - **Conspiracy model:** The carrier stream is narrowed to an operationally relevant three-person arrival. The chain is sharper, not complete.
+
+---
+## Accepted Chapter 14 antagonist update
+- **Vance:** Presses telemetry/material recovery, hostile-targeting characterization, classification, and executive delay; loses exclusive control of the record but does not control MPD, Hartwell, or every external source.
+- **Sterling:** Office/device chain is strengthened by the accepted/complete Hartwell state and held record; personal possession, presentation, keystrokes, and command remain unproved.
+- **Tariq:** No direct Chapter 14 action; K-17 access and Phase B remain unconfirmed.
+- **Chen:** Preserves capture, life, evidence, named custody, and Vance’s contradictory instructions without warning or releasing the trio.
+- **Mercer:** Remains adversarial, contests custody, obeys MPD scene authority, receives no evidence, and does not fire.

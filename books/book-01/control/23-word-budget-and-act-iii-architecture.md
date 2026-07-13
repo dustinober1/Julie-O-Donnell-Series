@@ -88,3 +88,12 @@ At the end of the first full draft:
 3. Cut repeated explanation before cutting consequence.
 4. Add missing decision or aftermath scenes before adding procedural detail.
 5. Keep the final manuscript within 100,000–125,000 words.
+
+---
+## Accepted Chapter 14 word-budget update
+- Accepted manuscript through Chapter 14: **75,593** words.
+- Remaining to 100,000 minimum: **24,407**.
+- Remaining to 112,500 planning target: **36,907**.
+- Remaining before 125,000 maximum: **49,407**.
+- Accepted Act III subtotal: Chapter 13 (6,175) + Chapter 14 (5,763) = **11,938**.
+- Later functions remain provisional; Chapter 15 must be mission-locked from the 07:49:32 endpoint and make active Masking Window Two consequential.

@@ -153,3 +153,18 @@
 | Masking Window Two closes | 07:54:00 | 17:24:00 | 8:00 |
 
 ---
+
+---
+## Accepted Chapter 14 timeline update
+- **07:46:00 EDT / 17:16:00 IST:** Controlled door closes behind the three-person Hartwell stream; hidden signer hand remains unseen.
+- **07:46:19:** Julie completes the bounded statement on Officer Ortiz’s body camera.
+- **07:46:42:** MPD dispatch routes the Hartwell preservation request; Marcus logs it.
+- **07:47:21:** Dark-overcoat entrant returns outside before the accepted/complete state.
+- **07:47:49:** Hartwell exterior changes from white challenge-ready to steady green; Ortiz independently observes it. Exact serial and presenter remain unknown.
+- **07:48:00:** Masking Window Two begins.
+- **07:48:16:** Hartwell acknowledges a relevant local-challenge/access record and preservation hold.
+- **07:48:24:** Police vehicles close the west route; Julie orders the hard abort.
+- **Before 07:48:30:** PCF-27 is shut down and the key remains visible.
+- **07:49:00:** Phase B deadline passes without an observable answer.
+- **07:49:29:** Final cross-reference preservation request is entered.
+- **07:49:32 EDT / 17:19:32 IST:** Accepted endpoint on garage level six under MPD scene control; evidence remains separated; no receipt is complete; 4:28 remains in Masking Window Two.

@@ -50,3 +50,11 @@
 | Chen/Mercer choices | **Advanced, not resolved.** Both preserve professional boundaries under pressure. | Force consequential institutional choices later. |
 | Marcus’s corrective arc | **Advanced.** He preserves originals and enforces the hard-abort/evidence standard. | Still requires an on-record costly correction. |
 | Elias’s voluntary record | **Advanced.** Voluntary technical participation and bounded claims continue. | Preserve public/legal proof of agency. |
+
+---
+## Accepted Chapter 14 thread update
+- **Hartwell presenter / exact serial:** Advanced but unresolved; a held record exists, while the exterior state and dark-overcoat position do not identify the presenter.
+- **Independent counterrecord:** Payoff staged through MPD body camera/dispatch, Ortiz observation, Hartwell hold, garage records, WSS, Chen/Mercer, and separate originals.
+- **Phase B / K-17 / Masking Window Two:** Unresolved; masking is active and the 07:49 deadline passed without observable answer.
+- **Public narrative fracture:** Payoff staged, not public or authenticated.
+- **Marcus correction, Chen/Mercer choices, WSS local record, Sharma consequence, final custody, climax, and resolution:** Still required.

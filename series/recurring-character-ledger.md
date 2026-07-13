@@ -365,3 +365,12 @@ Unknown fields must remain **not established** rather than being filled by conve
 - **Return trigger:** Apex inquiry, testimony, or recovered internal communications
 - **No-retcon locks:** Evasive behavior is not proof of full conspiracy membership
 - **Last updated:** Accepted Chapter 2 / governance v3.0
+
+---
+## Accepted Chapter 14 series-state update
+- **Julie:** Most recent accepted appearance Chapter 14; under MPD scene control at 07:49:32; wrist impairment and legal pressure remain; she creates a witnessable record and obeys the hard abort.
+- **Marcus:** Most recent accepted appearance Chapter 14; retains primary originals; severe injuries remain; formal six-years-ago corrective action is still required.
+- **Elias:** Most recent accepted appearance Chapter 14; retains board and sealed module; voluntarily creates bounded markers under police observation; legal and physical exposure remain.
+- **Chen/Mercer:** Their institutional conflicts deepen without alliance.
+- **Sterling/Vance/Tariq:** Operational links remain bounded by accepted evidence; no personal signer hand, sole-architect finding, or field result is created.
+- **Officer Ortiz:** Named Book 1 institutional witness only. Add a recurring-series entry only if later accepted prose gives him a continuing function or return trigger.

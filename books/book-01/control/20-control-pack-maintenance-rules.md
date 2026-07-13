@@ -88,3 +88,12 @@
 - The Chapter 14 mission lock is planning only and does not alter accepted prose, word count, endpoint, or canon.
 - Chapter 14 prose must be drafted under `../drafts/` and remain there until it passes the formal acceptance gate.
 - The approved Chapter 14 plan preserves unresolved human custody, K-17, encrypted content, Phase B, and reconstruction-purpose limits.
+
+---
+## Current application record — accepted Chapter 14
+- `29-chapter-14-acceptance-review.md` records **ACCEPT** unchanged at 5,763 words.
+- The unchanged blob moves from draft to `../manuscript/chapters/chapter-14.md`; no duplicate draft remains.
+- Accepted inventory is Prologue and Chapters 1–14 at 75,593 words.
+- Endpoint is 07:49:32 EDT / 17:19:32 IST under MPD scene control.
+- Primary evidence remains separated and untransferred; presenter, exact serial, Phase B, K-17, plaintext, and reconstruction purpose remain unresolved.
+- Chapter 15 is undrafted; next gate is mission planning/locking only.

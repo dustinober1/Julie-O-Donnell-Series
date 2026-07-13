@@ -26,3 +26,9 @@ The manuscript does not establish universal public belief. It establishes repeat
 | Event markers prove the external carrier event. | They prove only manual inputs at module device times. | Independent camera, police, and Hartwell records must be authenticated. |
 | Police/Apex response proves a unified corrupt institution. | Police and ordinary personnel act plausibly from the bulletin and visible circumstances; Chen/Mercer/Vance have distinct objectives. | Which records or actors later resist narrative control remains open. |
 | The trio’s continued presence after 07:42:30 shows another broken abort rule. | Both locked conditions pass at 07:42:30, and the west route remains viable through the endpoint after the surgical geometry repair. | Arrest or route closure may occur immediately afterward. |
+
+---
+## Accepted Chapter 14 public-record delta
+- Julie’s Hartwell observation can resemble target fixation; Elias’s module handling can resemble sabotage; Marcus’s custody protection can resemble refusal to surrender stolen material; the running van can resemble preparation to flee; the preservation request can resemble manipulation.
+- The accepted record instead shows a bounded body-camera statement, an MPD dispatch request, independent observation of the exterior state, Hartwell’s hold acknowledgment, immediate hard abort, engine shutdown, and refusal of undocumented Apex custody.
+- No public vindication occurs. The armed-insider story remains dominant, but it is harder to rewrite because multiple separately controlled records now exist.

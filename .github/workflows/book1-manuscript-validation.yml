@@ -1,0 +1,92 @@
+name: Book 1 manuscript validation
+
+on:
+  pull_request:
+    paths:
+      - "PROJECT_STATE.yaml"
+      - "books/book-01/**"
+      - "series/recurring-character-ledger.md"
+      - "tools/count_book1_words.py"
+      - ".github/workflows/book1-manuscript-validation.yml"
+  push:
+    branches: [main]
+    paths:
+      - "PROJECT_STATE.yaml"
+      - "books/book-01/**"
+      - "series/recurring-character-ledger.md"
+      - "tools/count_book1_words.py"
+      - ".github/workflows/book1-manuscript-validation.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Count accepted manuscript
+        shell: bash
+        run: |
+          expected=$(python - <<'PY'
+          from pathlib import Path
+          import re
+
+          manifest = Path('books/book-01/ACCEPTED_MANUSCRIPT.yaml').read_text(encoding='utf-8')
+          match = re.search(r'^accepted_words:\s*(\d+)$', manifest, re.M)
+          if not match:
+              raise SystemExit('accepted_words not found in manifest')
+          print(match.group(1))
+          PY
+          )
+          python tools/count_book1_words.py --expect "$expected"
+
+      - name: Validate accepted total and Chapter 14 promotion
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          root = Path('.')
+          manifest = (root / 'books/book-01/ACCEPTED_MANUSCRIPT.yaml').read_text(encoding='utf-8')
+          project = (root / 'PROJECT_STATE.yaml').read_text(encoding='utf-8')
+          chapter = root / 'books/book-01/manuscript/chapters/chapter-14.md'
+          draft = root / 'books/book-01/drafts/chapter-14.md'
+
+          accepted = int(re.search(r'^accepted_words:\s*(\d+)$', manifest, re.M).group(1))
+          project_total = int(re.search(r'^\s+accepted_words:\s*(\d+)$', project, re.M).group(1))
+          assert project_total == accepted, (project_total, accepted)
+          assert chapter.is_file()
+          assert not draft.exists()
+
+          text = chapter.read_text(encoding='utf-8')
+          assert len(text.split()) == 5763
+          lines = text.splitlines()
+          assert lines[0] == '07:46:00 EDT / 17:16:00 IST'
+          assert lines[2] == '# Chapter 14 - The Witness Line'
+          assert '07:49:32 EDT / 17:19:32 IST' in text
+          assert 'SSO-NS-004' in text
+          assert 'Chapter 15' not in text
+
+          forbidden = [
+              'K-17 access confirmed',
+              'WSS-4 decrypted',
+              'Sterling held the signer',
+              'Sterling presented the signer',
+          ]
+          for phrase in forbidden:
+              assert phrase not in text
+
+          chapter15 = list((root / 'books/book-01').rglob('chapter-15.md'))
+          assert not chapter15, chapter15
+          print(f'validated accepted total: {accepted}')
+          print('validated Chapter 14 promotion and Chapter 15 absence')
+          PY
+
+      - name: Check whitespace errors in pull-request diff
+        if: github.event_name == 'pull_request'
+        run: git diff --check "origin/${{ github.base_ref }}...HEAD"

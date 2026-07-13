@@ -117,3 +117,14 @@ It requires the draft to:
 Draft Chapter 14, working title **The Witness Line**, under `../drafts/` from `28-chapter-14-mission-lock.md`.
 
 Do not add Chapter 14 to the accepted inventory, move it into the manuscript directory, update accepted word counts, or alter the accepted endpoint until the draft receives an explicit acceptance verdict and promotion commit.
+
+---
+## Controlling accepted Act III state after Chapter 14
+- Accepted Act III prose: Chapters 13–14.
+- Endpoint: 07:49:32 EDT / 17:19:32 IST, garage level six beside powered-down PCF-27 under MPD scene control.
+- Injuries remain active; no treatment/recovery; no firearms.
+- Marcus and Elias retain distinct originals; no transfer receipt is complete.
+- Independent records include MPD body camera/dispatch, Hartwell’s held record, garage records, WSS local audit, and Chen/Apex directives.
+- Presenter, exact serial, K-17, Phase B, plaintext, and reconstruction purpose remain unresolved.
+- Masking Window Two remains active until 07:54:00; 4:28 remains.
+- Immediate next gate: Chapter 15 mission planning/locking without prose.
