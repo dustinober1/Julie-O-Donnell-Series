@@ -206,3 +206,12 @@ The following entries describe locked planning only. They do not change accepted
 - **Constraint/pressure:** Public narrative, medical separation, Apex claims, and unresolved jurisdiction.
 
 No other thread receives a controlling Chapter 16 payoff. The lock does not create a complete outline for Chapter 17 or later.
+
+## Chapter 16 accepted disposition update — 2026-07-13
+
+- **Independent counterrecord / custody:** advanced to secure MPD intake under named preservation sponsorship; not yet technically examined.
+- **Marcus accountability:** intermediate payoff completed through the attributable correction; broader legal/professional consequence remains open.
+- **Hackett institutional choice:** intermediate payoff completed; he sponsors preservation but does not receive or adjudicate evidence.
+- **Sharma allied record:** bounded preservation acknowledgment linked; identity and no-fire contents remain undisclosed to Julie.
+- **Public narrative:** deliberately unresolved and still hostile.
+- **Hartwell, WSS, K-17, Phase B, reconstruction, final receiver/examiner:** deliberately unresolved.

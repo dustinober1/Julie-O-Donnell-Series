@@ -3,6 +3,7 @@ name: Book 1 manuscript validation
 on:
   pull_request:
     paths:
+      - "README.md"
       - "PROJECT_STATE.yaml"
       - "books/book-01/**"
       - "series/recurring-character-ledger.md"
@@ -11,6 +12,7 @@ on:
   push:
     branches: [main]
     paths:
+      - "README.md"
       - "PROJECT_STATE.yaml"
       - "books/book-01/**"
       - "series/recurring-character-ledger.md"
@@ -43,7 +45,7 @@ jobs:
           )
           python tools/count_book1_words.py --expect "$expected"
 
-      - name: Validate Chapter 15 acceptance and single Chapter 16 draft
+      - name: Validate Chapter 16 acceptance and Chapter 17 absence
         shell: bash
         run: |
           python - <<'PYVALIDATE'
@@ -56,111 +58,48 @@ jobs:
           project = (root / 'PROJECT_STATE.yaml').read_text(encoding='utf-8')
           chapter14 = root / 'books/book-01/manuscript/chapters/chapter-14.md'
           chapter15 = root / 'books/book-01/manuscript/chapters/chapter-15.md'
-          chapter15_draft = root / 'books/book-01/drafts/chapter-15.md'
-          chapter16_draft = root / 'books/book-01/drafts/chapter-16.md'
-          chapter16_manuscript = root / 'books/book-01/manuscript/chapters/chapter-16.md'
-          review = root / 'books/book-01/control/31-chapter-15-acceptance-review.md'
+          chapter16 = root / 'books/book-01/manuscript/chapters/chapter-16.md'
+          draft16 = root / 'books/book-01/drafts/chapter-16.md'
+          review16 = root / 'books/book-01/control/33-chapter-16-acceptance-review.md'
           mission16 = root / 'books/book-01/control/32-chapter-16-mission-lock.md'
-          canon_locks = root / 'books/book-01/control/04-source-of-truth-canon-locks.md'
-          maintenance = root / 'books/book-01/control/20-control-pack-maintenance-rules.md'
+
+          def blob(path):
+              data = path.read_bytes()
+              return hashlib.sha1(f"blob {len(data)}\0".encode('ascii') + data).hexdigest()
 
           accepted = int(re.search(r'^accepted_words:\s*(\d+)$', manifest, re.M).group(1))
           project_total = int(re.search(r'^\s+accepted_words:\s*(\d+)$', project, re.M).group(1))
-          assert accepted == 81586, accepted
+          assert accepted == 87610, accepted
           assert project_total == accepted, (project_total, accepted)
-          assert 'chapter-16.md' not in manifest
-          assert 'sequence: 15' in manifest
-          assert 'sequence: 16' not in manifest
-          assert 'chapter: 15' in manifest
-          assert '07:56:40 EDT' in manifest
-          assert '17:26:40 IST' in manifest
+          assert 'sequence: 16' in manifest
+          assert 'sequence: 17' not in manifest
+          assert 'chapter: 16' in manifest
+          assert '08:15:52 EDT' in manifest
+          assert '17:45:52 IST' in manifest
+          assert 'Secure MPD evidence intake under Hackett' in manifest
 
-          assert chapter14.is_file()
-          chapter14_text = chapter14.read_text(encoding='utf-8')
-          chapter14_data = chapter14_text.encode('utf-8')
-          chapter14_blob = hashlib.sha1(
-              f"blob {len(chapter14_data)}\0".encode('ascii') + chapter14_data
-          ).hexdigest()
-          assert chapter14_blob == '78f7fff02cd271fecbc94f7daf7151dbebbd5c6d', chapter14_blob
-          assert len(chapter14_text.split()) == 5763
-          assert not (root / 'books/book-01/drafts/chapter-14.md').exists()
+          assert chapter14.is_file() and blob(chapter14) == '78f7fff02cd271fecbc94f7daf7151dbebbd5c6d'
+          assert len(chapter14.read_text(encoding='utf-8').split()) == 5763
+          assert chapter15.is_file() and blob(chapter15) == 'b8e7e2ae573a6c25ea096121c75acee867f3fad2'
+          assert len(chapter15.read_text(encoding='utf-8').split()) == 5993
 
-          assert chapter15.is_file()
-          assert not chapter15_draft.exists()
-          assert review.is_file()
-          assert mission16.is_file()
-
-          text = chapter15.read_text(encoding='utf-8')
-          lines = text.splitlines()
-          data = text.encode('utf-8')
-          chapter15_blob = hashlib.sha1(
-              f"blob {len(data)}\0".encode('ascii') + data
-          ).hexdigest()
-          assert chapter15_blob == 'b8e7e2ae573a6c25ea096121c75acee867f3fad2', chapter15_blob
-          assert len(text.split()) == 5993
-          assert lines[0] == '07:49:32 EDT / 17:19:32 IST'
-          assert lines[2] == '# Chapter 15 - The Split Record'
-          assert 'At 07:56:40 EDT / 17:26:40 IST' in text
-          assert 'Chapter 16' not in text
-          assert 'No camera guaranteed truth. Batteries failed. Angles missed hands. Files could later be challenged.' in text
-          assert 'Batteries failed. angles missed hands. files could later be challenged.' not in text
-
-          required15 = [
-              'one hundred thirty-six sealed files',
-              'forty-seven incomplete files',
-              'three hundred eleven excluded',
-              'partition a',
-              'partition b',
-              'wss-4 message blocks',
-              '07:54:48', '07:54:56', '07:55:02', '07:55:06',
-              '07:55:11', '07:55:22', '07:55:31',
-              'nine-zero-one-four-four-one',
-              'nine-zero-one-four-four-two',
-              'nine-zero-one-four-four-three',
-              'nine-zero-one-four-four-four',
-              'nine-zero-one-four-four-five',
-              'nine-zero-one-four-four-six',
-              'nine-zero-one-four-four-seven',
-          ]
-          lower15 = text.lower()
-          for phrase in required15:
-              assert phrase in lower15, phrase
-
-          forbidden15 = [
-              'K-17 access was confirmed',
-              'WSS-4 was decrypted',
-              'Sterling held the signer',
-              'Sterling presented the signer',
-              'Phase B was authorized',
-          ]
-          for phrase in forbidden15:
-              assert phrase not in text, phrase
-
-          assert chapter16_draft.is_file()
-          assert not chapter16_manuscript.exists()
+          assert chapter16.is_file()
+          assert not draft16.exists()
           chapter16_files = list((root / 'books/book-01').rglob('chapter-16.md'))
-          assert chapter16_files == [chapter16_draft], chapter16_files
+          assert chapter16_files == [chapter16], chapter16_files
+          text = chapter16.read_text(encoding='utf-8')
+          lines = text.splitlines()
+          assert blob(chapter16) == 'ff6fbaa66170a03502589309b3d1c2d74b50a289'
+          assert len(text.split()) == 6024
+          assert lines[0] == '07:56:40 EDT / 17:26:40 IST'
+          assert lines[2] == '# Chapter 16 - The Hold Order'
+          assert 'At 08:15:52 EDT / 17:45:52 IST' in text
+          assert '08:16:40 EDT / 17:46:40 IST' not in text
 
-          draft = chapter16_draft.read_text(encoding='utf-8')
-          draft_lines = draft.splitlines()
-          draft_words = len(draft.split())
-          assert 5800 <= draft_words <= 6500, draft_words
-          assert draft_words == 6024, draft_words
-          assert draft_lines[0] == '07:56:40 EDT / 17:26:40 IST'
-          assert draft_lines[2] == '# Chapter 16 - The Hold Order'
-          assert 'At 08:15:52 EDT / 17:45:52 IST' in draft
-          assert '08:16:40 EDT / 17:46:40 IST' not in draft
-          section_headers = [
-              'Public Commercial Garage',
-              'Guarded Ambulance',
-              'Forward Post Arjun',
-              'MPD Secure Evidence Intake',
-          ]
-          for header in section_headers:
-              assert sum(line == header for line in draft_lines) == 1, header
-          assert 'Chapter 17' not in draft
+          for header in ['Public Commercial Garage', 'Guarded Ambulance', 'Forward Post Arjun', 'MPD Secure Evidence Intake']:
+              assert sum(line == header for line in lines) == 1, header
 
-          required16 = [
+          required = [
               'incident `187463`',
               'General William Hackett',
               'named federal preservation sponsor',
@@ -182,10 +121,10 @@ jobs:
               'No federal officer had accepted final custody.',
               'No public statement had changed.',
           ]
-          for phrase in required16:
-              assert phrase in draft, phrase
+          for phrase in required:
+              assert phrase in text, phrase
 
-          forbidden16 = [
+          forbidden = [
               'K-17 access was confirmed',
               'K-seventeen access was confirmed',
               'WSS-4 was decrypted',
@@ -198,40 +137,53 @@ jobs:
               'the reconstruction was false',
               'the superseding product was false',
           ]
-          for phrase in forbidden16:
-              assert phrase not in draft, phrase
+          for phrase in forbidden:
+              assert phrase not in text, phrase
 
-          assert 'chapters: "1-15"' in project
-          assert 'accepted_words: 81586' in project
-          assert 'prose_changed_during_review: true' in project
-          assert 'b8e7e2ae573a6c25ea096121c75acee867f3fad2' in project
-          assert 'books/book-01/drafts/chapter-16.md' in project
-          assert 'draft_words: 6024' in project
-          assert 'first draft complete; unaccepted and non-canon' in project
-          assert 'Run the formal Chapter 16 acceptance and revision review' in project
+          assert review16.is_file()
+          review = review16.read_text(encoding='utf-8')
+          assert '**Formal verdict:** **ACCEPT**' in review
+          assert 'Prose changed during review: **No**' in review
+          assert 'Final reviewed blob: `ff6fbaa66170a03502589309b3d1c2d74b50a289`' in review
+          assert mission16.is_file()
+          assert 'Chapter 16 acceptance disposition — 2026-07-13' in mission16.read_text(encoding='utf-8')
 
-          review_text = review.read_text(encoding='utf-8')
-          assert 'Chapter 16 and later prose do not exist' in review_text
-          assert 'one capitalization-only copyedit' in review_text
-          assert 'b8e7e2ae573a6c25ea096121c75acee867f3fad2' in review_text
+          assert 'chapters: "1-16"' in project
+          assert 'accepted_words: 87610' in project
+          assert 'prose_changed_during_review: false' in project
+          assert 'Chapter 17 mission planning and mission locking only' in project
+          assert not list((root / 'books/book-01').rglob('chapter-17.md'))
+          assert not (root / 'books/book-01/control/34-chapter-17-mission-lock.md').exists()
+          assert not (root / 'tools/promote_chapter16_acceptance.py').exists()
+          assert not (root / '.github/workflows/promote-chapter16-acceptance.yml').exists()
 
-          canon_text = canon_locks.read_text(encoding='utf-8')
-          assert 'Chapter 15 — **The Split Record** — is accepted after one capitalization-only copyedit' in canon_text
-          assert 'Reviewed and accepted blob: `b8e7e2ae573a6c25ea096121c75acee867f3fad2`' in canon_text
-
-          maintenance_text = maintenance.read_text(encoding='utf-8')
-          assert '`31-chapter-15-acceptance-review.md` records **ACCEPT** after one capitalization-only copyedit at 5,993 words.' in maintenance_text
-          assert 'the corrected blob now lives only at `../manuscript/chapters/chapter-15.md`' in maintenance_text
-          assert 'Exact draft word count is **6,024**.' in maintenance_text
-
-          assert not (root / 'tools/apply_chapter15_acceptance_copyedit.py').exists()
-          assert not (root / '.github/workflows/apply-chapter-15-acceptance-copyedit.yml').exists()
+          controls = [
+              '04-source-of-truth-canon-locks.md', '05-master-timeline.md',
+              '06-character-state-ledger.md', '07-relationship-and-trust-matrix.md',
+              '08-evidence-and-chain-of-custody-ledger.md',
+              '09-knowledge-and-information-control-matrix.md',
+              '10-technology-and-system-rules.md',
+              '11-organizations-authorities-and-institutional-control.md',
+              '12-location-and-security-architecture.md',
+              '13-antagonist-objectives-and-conspiracy-model.md',
+              '14-public-narrative-versus-actual-record.md',
+              '15-open-plot-threads-and-payoff-matrix.md',
+              '16-chapter-by-chapter-status-record.md', '18-act-iii-entry-state.md',
+              '20-control-pack-maintenance-rules.md', '22-book-1-ending-contract.md',
+              '23-word-budget-and-act-iii-architecture.md', '24-thread-disposition-matrix.md',
+          ]
+          for name in controls:
+              control = (root / 'books/book-01/control' / name).read_text(encoding='utf-8')
+              assert (
+                  'Chapter 16 accepted' in control
+                  or 'Chapter 16 — The Hold Order' in control
+                  or 'Chapter 16 acceptance' in control
+              ), name
 
           print(f'validated accepted total: {accepted}')
-          print(f'validated Chapter 14 blob: {chapter14_blob}')
-          print(f'validated Chapter 15 blob: {chapter15_blob}')
-          print(f'validated Chapter 16 draft words: {draft_words}')
-          print('validated accepted-state protection and one unaccepted Chapter 16 draft')
+          print('validated protected Chapter 14 and Chapter 15 blobs')
+          print('validated unchanged accepted Chapter 16 blob and 6,024-word count')
+          print('validated Chapter 16 promotion, control synchronization, and Chapter 17 absence')
           PYVALIDATE
 
       - name: Check whitespace errors in pull-request diff

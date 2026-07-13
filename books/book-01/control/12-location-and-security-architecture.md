@@ -192,3 +192,9 @@
 - **Separate Elias transport:** Elias is moved through a distinct medically appropriate guarded path; no shared transport or direct communication with Marcus/Julie.
 - **Marked MPD vehicle:** Julie is transported separately with front-positioned padded restraint compatible with her wrist injury.
 - **Forward Post Arjun:** Sharma's cutaway occurs in the existing command/record environment. No new K-17 or Hartwell geography is invented.
+
+## Chapter 16 accepted location update — 2026-07-13
+
+Chapter 16 moves the evidence from public commercial-garage level six to a secure MPD evidence-intake vehicle bay. The route is a short controlled convoy; no evidence compartment or package is opened during movement.
+
+Endpoint geography at 08:15:52 EDT / 17:45:52 IST: the evidence transport has crossed the secure MPD intake threshold with the locked chest and all seven packages; Julie remains restrained in a parallel marked-police custody lane; Marcus remains in guarded ambulance care; Elias remains in separate guarded medical transport. The trio is not reunited.

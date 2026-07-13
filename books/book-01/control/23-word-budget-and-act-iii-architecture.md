@@ -172,3 +172,14 @@ This section supersedes only the earlier provisional Chapter 16 row and immediat
 - The Chapter 16 range leaves adequate space for immediate field outcome, independent technical examination, public-record fracture, institutional choices, climax, and legal/emotional aftermath.
 - Chapter 17 and later functions remain provisional and are not individually locked or expanded by this update.
 - Immediate next gate: draft exactly one Chapter 16 first version at `../drafts/chapter-16.md`, then run the formal acceptance review. Do not draft Chapter 17 or create a complete remainder-of-Act-III outline.
+
+## Chapter 16 accepted word-budget update — 2026-07-13
+
+- Chapter 16 accepted words: **6,024**.
+- Accepted total through Chapter 16: **87,610**.
+- Accepted Act III words (Chapters 13–16): **23,955**.
+- Words to 100,000 minimum: **12,390**.
+- Words to 112,500 planning target: **24,890**.
+- Words to 125,000 maximum: **37,390**.
+
+Chapter 16 remains inside its approved 5,800–6,500 range without revision. Future architecture remains planning only. The next gate is Chapter 17 mission planning and mission locking, not drafting or a complete remainder-of-Act-III outline.

@@ -236,3 +236,11 @@
 - Hartwell presenter and exact serial remain unresolved; WSS-4 remains encrypted; Phase B remains undefined and unauthorized in accepted evidence; K-17 access remains unconfirmed.
 - Police receipt is interim custody documentation, not authentication, exoneration, final federal intake, guilt, or innocence.
 - Chapter 16 and later prose do not exist. The next gate is Chapter 16 mission planning and mission locking only.
+
+## Chapter 16 accepted update — 2026-07-13
+
+Chapter 16 — **The Hold Order** — is accepted unchanged at 6,024 words. The controlling prose now lives only at `../manuscript/chapters/chapter-16.md`; reviewed blob: `ff6fbaa66170a03502589309b3d1c2d74b50a289`.
+
+Canon advances to 08:15:52 EDT / 17:45:52 IST. General William Hackett is the named federal preservation sponsor for MPD incident `187463`, but MPD retains physical custody. `MPD-901441` through `MPD-901447` remain separate, sealed, offline, unopened, unconnected, and uncombined. Marcus's six-years-ago correction is attributable and medically bounded. Sharma's restricted acknowledgment preserves record categories, custody, product-status caveats, and clock references without a merits finding.
+
+No final federal receiver or technical examiner exists. Hartwell presenter/exact serial, WSS plaintext, Sterling's physical possession, K-17 access, Phase B, reconstruction truth, and public vindication remain unresolved.

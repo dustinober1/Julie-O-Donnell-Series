@@ -385,3 +385,17 @@ Unknown fields must remain **not established** rather than being filled by conve
 - **Sterling / Vance / Tariq:** Evidence boundaries remain unchanged; no physical signer, personal keystroke, direct command, K-17 access, or Phase B result is created.
 - **Officer Ortiz:** Continues as a named Book 1 institutional witness/custodian only. No recurring-series tier is assigned.
 - **Officer Hannah Park:** Single-scene witness officer supporting receipt and body-camera continuity. No recurring-series entry or future obligation is created.
+
+## Chapter 16 accepted recurring-character update — 2026-07-13
+
+**Julie O'Donnell:** remains the primary protagonist; physically restrained and injured; leads through the exact custody question and refuses technical overclaim. Gains a second record owner, not vindication or unrestricted allied knowledge.
+
+**Marcus Reed:** makes the complete attributable correction to his six-years-ago testimony under EMS authority and accepts disciplinary/legal exposure. He remains medically unstable and separated from Julie and Elias.
+
+**Elias Thorne:** remains in separate guarded medical transport with no technical or evidence action in Chapter 16.
+
+**William Hackett:** makes a named institutional choice as federal preservation sponsor. He does not become a technical ally, receiver, or exonerating authority.
+
+**Gabriel Ortiz:** remains a neutral, procedure-driven MPD officer whose insistence on one complete named receiver protects the chain without adopting Julie's conclusions.
+
+**Ananya Sharma:** preserves the challenged allied record with caveats and disclosure limits, maintaining her independent command responsibility and knowledge boundary.

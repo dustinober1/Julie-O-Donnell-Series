@@ -1157,3 +1157,17 @@ This section supersedes earlier “current” location and knowledge fields wher
 - **Officer Ortiz:** Retains scene and evidence authority under MPD incident `187463`, receives all seven separate packages, and remains a lawful institutional witness rather than a technical ally.
 - **Officer Hannah Park:** Named witness officer, badge 5831, whose function is receipt witnessing and body-camera continuity. No recurring-series obligation is created.
 - **Mercer/Apex:** Remain outside evidence custody. Classification/property claims continue, but no original transfers to Apex.
+
+## Chapter 16 accepted character-state update — 2026-07-13
+
+**Julie O'Donnell:** restrained in marked MPD transport with the right wrist braced and materially unusable. She drives the custody question but touches no evidence, performs no technical act, and learns only that a restricted allied preservation acknowledgment exists. She does not learn Sharma's identity or the no-fire result.
+
+**Marcus Reed:** remains on four liters of oxygen at 92–93 percent saturation with rib-limited ventilation, scalp bleeding, thigh and boot instability, dizziness, and exhaustion. He corrects his six-years-ago testimony on an attributable record, accepts disciplinary/legal exposure, and stops immediately when EMS ends the call.
+
+**Elias Thorne:** remains in separate guarded medical transport, performs no technical action, and handles no original.
+
+**William Hackett:** becomes the named federal preservation sponsor for incident `187463`; he is neither physical receiver nor technical examiner and makes no merits, ownership, guilt, innocence, admissibility, immunity, or exoneration finding.
+
+**Gabriel Ortiz:** remains neutral and procedure-driven. He retains interim physical responsibility, rejects fragmented or unnamed transfer, and carries the complete incident into secure MPD intake.
+
+**Ananya Sharma:** preserves prior and superseding product records, caveats, abort/no-fire categories, and clock references while withholding unrestricted geography and making no truth determination.

@@ -64,3 +64,12 @@
 4. Person custody, evidence/property custody, medical control, and later federal jurisdiction remain separate categories.
 5. No final charge, warrant, court order, federal receiving team, or final property-room technical intake exists at the endpoint.
 6. Hartwell retains its own held record; Northbridge retains or contests its local audit; Sharma/Indian channels retain their own records. MPD custody of seven packages does not create universal record possession.
+
+## Chapter 16 accepted institutional update — 2026-07-13
+
+- **Metropolitan Police:** retains physical custody under incident `187463`, transports the sealed chest to secure intake, and refuses fragmented or unnamed transfer.
+- **Hackett / Deputy Director for Operational Intelligence:** acts as named federal preservation sponsor and requesting authority. His office owns the federal preservation request and routing, not the property.
+- **Federal recovery claimants:** may assert classified handling needs, but no claimant obtains custody without one complete named acceptance act.
+- **Apex:** continues classification/property and technical-necessity claims through counsel; those claims remain logged and unresolved and confer no observer or custody right.
+- **Allied preservation path:** carries bounded identifiers, categories, caveats, custody, and restriction—not an operational order or merits finding.
+- **EMS:** retains medical authority over Marcus and ends his statement without negotiation.

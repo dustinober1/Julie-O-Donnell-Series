@@ -161,3 +161,9 @@ No later than **08:16:40 EDT / 17:46:40 IST**:
 Review the single Chapter 16 draft against `32-chapter-16-mission-lock.md` and `25-chapter-acceptance-gate.md`.
 
 Do not modify accepted prose, `../ACCEPTED_MANUSCRIPT.yaml`, the 81,586-word accepted total, or the accepted 07:56:40 EDT / 17:26:40 IST endpoint without an explicit ACCEPT verdict and same-pass promotion. Do not draft Chapter 17 or create a complete remainder-of-Act-III outline.
+
+## Post-Chapter 16 accepted Act III state — 2026-07-13
+
+Act III accepted canon now extends through Chapter 16 at 87,610 total words. The seven-package evidence set has reached secure MPD intake under a named Hackett preservation hold without a final federal receiver or technical examiner. Marcus has corrected the old record under medical control. Sharma's bounded acknowledgment makes the allied counterrecord reachable while retaining disclosure limits and no merits finding.
+
+The next mission must begin from separated medical/police custody, MPD physical control, a hostile public narrative, and an unresolved final receiver/examiner. Chapter 17 remains unplanned and undrafted until a dedicated mission lock is approved.

@@ -44,3 +44,9 @@ The manuscript does not establish universal public belief. It establishes repeat
 | Julie's insistence on cross-references is continued manipulation. | She creates a sequence that links separately controlled records without claiming possession or endorsement. | Public belief does not change during the chapter. |
 
 The armed-insider narrative remains hostile and may harden because lawful detention is visually simple. No visible public fracture or exoneration occurs.
+
+## Chapter 16 accepted public-narrative update — 2026-07-13
+
+The public account remains the hostile armed-insider/sabotage account. A news update describes the evidence movement as occurring under “federal coordination,” which makes the contested preservation chain sound like a completed federal transfer. No public source names Hackett's limitations or MPD's continued custody.
+
+The actual record is narrower: Hackett sponsors preservation, MPD holds the seven packages, no examiner has opened them, no federal officer has accepted final custody, and no public authority has cleared Julie, Marcus, or Elias. Internal preservation does not equal public vindication.

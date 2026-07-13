@@ -149,3 +149,18 @@ The accepted-manuscript inventory in `../ACCEPTED_MANUSCRIPT.yaml` controls acce
 - **Status:** Not drafted and not individually mission locked.
 - **Planning:** High-level functions remain provisional in `23-word-budget-and-act-iii-architecture.md`.
 - **Rule:** No later chapter may use the unaccepted Chapter 16 endpoint as canon. No later chapter function is canon until separately locked, drafted, reviewed, and accepted.
+
+## Chapter 16 — The Hold Order
+
+- Status: **ACCEPTED CANON**
+- Accepted path: `../manuscript/chapters/chapter-16.md`
+- Mission lock: `32-chapter-16-mission-lock.md`
+- Acceptance review: `33-chapter-16-acceptance-review.md`
+- Exact words: **6,024**
+- Reviewed blob: `ff6fbaa66170a03502589309b3d1c2d74b50a289`
+- Prose changed during review: **No**
+- Opening: **07:56:40 EDT / 17:26:40 IST**
+- Endpoint: **08:15:52 EDT / 17:45:52 IST**
+- POV: Julie → Marcus → Sharma → Julie
+- Verdict: **ACCEPT**
+- Next gate: Chapter 17 mission planning and mission locking only; do not draft Chapter 17.
