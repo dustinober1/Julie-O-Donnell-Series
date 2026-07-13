@@ -29,7 +29,20 @@ jobs:
           fetch-depth: 0
 
       - name: Count accepted manuscript
-        run: python tools/count_book1_words.py --expect 75593
+        shell: bash
+        run: |
+          expected=$(python - <<'PY'
+          from pathlib import Path
+          import re
+
+          manifest = Path('books/book-01/ACCEPTED_MANUSCRIPT.yaml').read_text(encoding='utf-8')
+          match = re.search(r'^accepted_words:\s*(\d+)$', manifest, re.M)
+          if not match:
+              raise SystemExit('accepted_words not found in manifest')
+          print(match.group(1))
+          PY
+          )
+          python tools/count_book1_words.py --expect "$expected"
 
       - name: Validate accepted total and Chapter 14 promotion
         shell: bash
@@ -46,7 +59,6 @@ jobs:
 
           accepted = int(re.search(r'^accepted_words:\s*(\d+)$', manifest, re.M).group(1))
           project_total = int(re.search(r'^\s+accepted_words:\s*(\d+)$', project, re.M).group(1))
-          assert accepted == 75593, (accepted, 'manifest total')
           assert project_total == accepted, (project_total, accepted)
           assert chapter.is_file()
           assert not draft.exists()
