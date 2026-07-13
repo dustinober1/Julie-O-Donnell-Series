@@ -1,3 +1,4 @@
+
 # Book 1 Accepted-Manuscript Status
 
 **Authoritative production state:** [`../../../PROJECT_STATE.yaml`](../../../PROJECT_STATE.yaml)
@@ -6,51 +7,29 @@
 ## Accepted
 
 - Prologue
-- Chapters 1–14
+- Chapters 1–15
 - Acts I and II complete
-- Act III: Chapters 13–14 accepted
-- Accepted length: **75,593 words**
-- Canon endpoint: **07:49:32 EDT / 17:19:32 IST**
-- Endpoint location: public parking garage level six beside powered-down PCF-27 under Metropolitan Police scene control
-- Chapter 13 title: **The Carrier Stream**
-- Chapter 14 title: **The Witness Line**
-- Chapter 14 verdict: **ACCEPT**
-- Chapter 14 accepted path: [`chapters/chapter-14.md`](chapters/chapter-14.md)
-- Human presenter of `SSO-NS-004`: unresolved
-- Exact Hartwell challenge serial: held record acknowledged, not disclosed
-- Evidence transfer: pending at the accepted endpoint; no receipt complete in accepted prose
+- Act III: Chapters 13–15 accepted
+- Accepted length: **81,586 words**
+- Canon endpoint: **07:56:40 EDT / 17:26:40 IST**
+- Endpoint state: seven separately sealed MPD packages under incident `187463`; Marcus, Elias, and Julie in separate MPD/EMS transport; no final federal receiver
+- Chapter 13: **The Carrier Stream**
+- Chapter 14: **The Witness Line**
+- Chapter 15: **The Split Record**
+- Chapter 15 verdict: **ACCEPT**, unchanged at 5,993 words
+- Chapter 15 accepted path: [`chapters/chapter-15.md`](chapters/chapter-15.md)
+- Chapter 15 review: [`../control/31-chapter-15-acceptance-review.md`](../control/31-chapter-15-acceptance-review.md)
 
-The accepted inventory, accepted word count, and accepted endpoint are unchanged by the Chapter 15 first draft.
+Hartwell presenter and exact serial remain unresolved. WSS-4 remains encrypted. K-17 access remains unconfirmed. Phase B remains undefined. Book 1 is not publication-ready.
 
 ## Drafted but not accepted
 
-Chapter 15 — **The Split Record**
+None.
 
-- Draft path: [`../drafts/chapter-15.md`](../drafts/chapter-15.md)
-- Status: complete first draft; **unaccepted and non-canon**
-- Exact draft word count: **5,993 whitespace-delimited Markdown words**
-- Opening: **07:49:32 EDT / 17:19:32 IST**
-- Draft endpoint: **07:56:40 EDT / 17:26:40 IST**
-- POV: Julie close third plus one bounded Sharma cutaway
-- Controlling mission lock: [`../control/30-chapter-15-mission-lock.md`](../control/30-chapter-15-mission-lock.md)
-- Canon effect: none
-- Next gate: formal Chapter 15 acceptance, continuity, evidence-limit, injury, style, and revision review
-
-No accepted Chapter 15 file exists.
-
-Chapter 16 and later prose are not drafted. Chapter 16 must not be drafted from the unaccepted Chapter 15 endpoint.
-
-## Approved and completed controls
-
-- Chapter 14 mission lock: [`../control/28-chapter-14-mission-lock.md`](../control/28-chapter-14-mission-lock.md)
-- Chapter 14 acceptance review: [`../control/29-chapter-14-acceptance-review.md`](../control/29-chapter-14-acceptance-review.md)
-- Chapter 15 mission lock: [`../control/30-chapter-15-mission-lock.md`](../control/30-chapter-15-mission-lock.md)
-- Chapter acceptance gate: [`../control/25-chapter-acceptance-gate.md`](../control/25-chapter-acceptance-gate.md)
+Chapter 16 and later prose are not drafted.
 
 ## Next production action
 
-Run a dedicated formal Chapter 15 acceptance review.
+Run a dedicated Chapter 16 mission-planning and mission-lock session from the accepted Chapter 15 endpoint.
 
-That session must read the accepted manuscript, Chapter 15 mission lock, and complete Chapter 15 draft in full before issuing **ACCEPT**, **REVISE**, **HOLD**, or **REJECT**.
-
-Do not change the accepted inventory, accepted word count, accepted endpoint, or Chapter 14 prose unless and until an **ACCEPT** verdict authorizes a same-pass promotion.
+That session must not draft Chapter 16 and must not create a complete outline for the remainder of Act III.

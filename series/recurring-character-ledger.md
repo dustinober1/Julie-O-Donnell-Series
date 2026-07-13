@@ -374,3 +374,14 @@ Unknown fields must remain **not established** rather than being filled by conve
 - **Chen/Mercer:** Their institutional conflicts deepen without alliance.
 - **Sterling/Vance/Tariq:** Operational links remain bounded by accepted evidence; no personal signer hand, sole-architect finding, or field result is created.
 - **Officer Ortiz:** Named Book 1 institutional witness only. Add a recurring-series entry only if later accepted prose gives him a continuing function or return trigger.
+
+## Accepted Chapter 15 series-state update
+
+- **Julie O'Donnell:** Most recent accepted appearance Chapter 15. At 07:56:40 EDT she is in marked MPD transport under injury-compatible restraint, without an original. Wrist injury and public/legal pressure remain. Her series function is unchanged.
+- **Marcus Reed:** Most recent accepted appearance Chapter 15. In guarded ambulance care with oxygen saturation improved to 92–93 percent; severe rib, scalp, thigh, boot, balance, and breathing limits remain. He no longer holds the originals. His formal on-record correction remains required.
+- **Elias Thorne:** Most recent accepted appearance Chapter 15. In separate guarded medical transport; board and module transferred separately to MPD with voluntary receipt references. Hip, right-index, dizziness, and exhaustion remain. His technical/agency distinction is stronger, not legally resolved.
+- **Major Ananya Sharma:** Most recent accepted appearance Chapter 15. She preserves the prior and superseding allied products, source-review image, local references, abort, and no-fire record as one challenged incident set. Her required Book 1 independent-record function is advanced.
+- **Sarah Chen / Daniel Mercer:** No alliance or final choice created; continuing functions remain.
+- **Sterling / Vance / Tariq:** Evidence boundaries remain unchanged; no physical signer, personal keystroke, direct command, K-17 access, or Phase B result is created.
+- **Officer Ortiz:** Continues as a named Book 1 institutional witness/custodian only. No recurring-series tier is assigned.
+- **Officer Hannah Park:** Single-scene witness officer supporting receipt and body-camera continuity. No recurring-series entry or future obligation is created.

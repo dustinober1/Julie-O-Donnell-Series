@@ -994,3 +994,23 @@ No Chapter 13 custody transfer occurs.
 - Independent records now include Ortiz’s body camera, MPD dispatch preservation/cross-reference requests, and Hartwell’s acknowledged held local-challenge/access record.
 - The 07:47:49 steady-green exterior state proves only an accepted/complete local condition; exact serial, certificate, presenter, receiver, challenge content, and briefing content remain undisclosed.
 - No primary original is opened, combined, handed to Apex, or transferred to MPD. Scene control and object-serial intake are not a completed transfer receipt.
+
+## 8.30 Accepted Chapter 15 interim MPD custody
+
+Common incident: `187463`. Receiving officer: Ortiz, MPD badge 4172. Witness officer: Hannah Park, badge 5831. Body-camera continuity remains active.
+
+| Original | Prior custodian | Transfer time | MPD package | Accepted state |
+|---|---|---:|---|---|
+| Aluminum case `IC-77194` | Marcus | 07:55:11 | `MPD-901441` | Closed; green; 136 sealed, 47 incomplete, 311 excluded exact |
+| Recovery cartridge `RRC-11804` | Marcus | 07:54:48 | `MPD-901442` | Separate and sealed |
+| Paper custody log | Marcus | 07:54:56 | `MPD-901443` | Separate after minimum entry |
+| PCF-27 telematics `PCF-27-TM-4418` | Marcus | 07:55:02 | `MPD-901444` | Separate ancillary item |
+| Waterproof folder/itemization | Marcus | 07:55:06 | `MPD-901445` | Separate from removed originals |
+| Administrator board `EAT-0881147` | Elias | 07:55:22 | `MPD-901446` | Separate, unconnected, unaltered |
+| Dual-partition module `FEM-240673` | Elias | 07:55:31 | `MPD-901447` | Partition A sealed/read-only; Partition B sealed WSS-4 capture; journal distinct |
+
+No original is opened, connected, combined, altered, handed to Apex, or delivered to a federal receiver. Receipt references exist before transport. The receipt proves documented interim MPD seizure and package identity only; it does not authenticate technical meaning, establish source truth, prove guilt, prove innocence, exonerate the trio, or complete final property-room/federal intake.
+
+## 8.31 Accepted Sharma record set
+
+Sharma preserves separately held Indian/allied records: prior product, authenticated superseding product, Qureshi source-review image, local sensor references, abort record, and no-fire record. At 17:24:00 IST the prior product becomes superseded in the actionable picture; none of the prior/local records is retroactively altered. Julie and MPD do not possess this set at the Chapter 15 endpoint.

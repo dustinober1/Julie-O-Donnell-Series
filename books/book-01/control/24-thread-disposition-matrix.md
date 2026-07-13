@@ -166,3 +166,16 @@ The following entries describe locked planning only. They do not change accepted
 - **Secondary:** Sharma's independent record.
 
 No other thread receives a controlling Chapter 15 payoff.
+
+## Accepted Chapter 15 disposition update
+
+| Controlling thread group | State after accepted Chapter 15 | Required later treatment |
+|---|---|---|
+| Hartwell custody chain | **Advanced, unresolved.** Hartwell held record remains cross-referenced; presenter and exact serial remain undisclosed. | Lawful production, testimony, custody record, or equivalent proof. |
+| Phase B / K-17 / masking | **Advanced, unresolved.** Superseding product removes K-17 anomalies from the actionable picture at 07:54, but physical access, Phase B, author, and purpose remain unknown. | Reconnect Washington evidence to the immediate field outcome. |
+| Independent counterrecord | **Payoff staged strongly.** Seven separated MPD packages plus Hartwell, WSS, Apex/Chen, garage, and Sharma records now exist across distinct custodians. | Independent technical examination, named final receiver, and public/institutional use. |
+| Original wound and series mystery | **Advanced emotionally, unresolved.** Marcus protects a defensible record under medical cost. | On-record six-years-ago correction still required. |
+| Sharma / Indian no-fire | **Advanced.** Local records and both allied products preserved together. | Join the Indian record to the Book 1 counterrecord or outcome. |
+| Public narrative fracture | **Not resolved.** Detention may harden Sterling's story. | Authenticated contradiction must become visible. |
+
+No B1-required thread is treated as resolved by interim MPD receipt alone.
