@@ -81,8 +81,8 @@ active_book:
       path: "books/book-01/manuscript/chapters/chapter-16.md"
       verdict: "ACCEPT"
       accepted_words: 6024
-      prose_changed_during_review: false
-      reviewed_blob_sha: "ff6fbaa66170a03502589309b3d1c2d74b50a289"
+      prose_changed_during_review: true
+      reviewed_blob_sha: "dd5249f4b510a9da9ad19ab2902a95ce1e62a1d8"
       opening: "07:56:40 EDT / 17:26:40 IST"
       endpoint: "08:15:52 EDT / 17:45:52 IST"
       pov: "Julie, Marcus, Sharma, Julie"
@@ -93,7 +93,7 @@ active_book:
 
   drafts:
     active_chapter_drafts: []
-    chapter_16: "accepted and promoted unchanged"
+    chapter_16: "accepted and promoted after one surgical POV-firewall revision"
     chapter_17: "not drafted"
 
   future_prose:
@@ -113,20 +113,20 @@ active_book:
 
   chapter_16_record:
     title: "The Hold Order"
-    status: "accepted unchanged; canon"
+    status: "accepted after one surgical POV-firewall revision; canon"
     mission_lock: "books/book-01/control/32-chapter-16-mission-lock.md"
     review: "books/book-01/control/33-chapter-16-acceptance-review.md"
     accepted_path: "books/book-01/manuscript/chapters/chapter-16.md"
     accepted_words: 6024
-    reviewed_blob_sha: "ff6fbaa66170a03502589309b3d1c2d74b50a289"
+    reviewed_blob_sha: "dd5249f4b510a9da9ad19ab2902a95ce1e62a1d8"
     dominant_function: "Force a named, reviewable institutional choice that converts mobile interim MPD custody into a protected preservation chain without surrendering the seven packages to an unnamed claimant or allowing technical access before independent intake"
     opening: "07:56:40 EDT / 17:26:40 IST"
     accepted_endpoint: "08:15:52 EDT / 17:45:52 IST"
     pov: "Julie primary; one bounded Marcus ambulance movement; one bounded Sharma movement; return to Julie"
     verdict: "ACCEPT"
-    prose_changed_during_review: false
+    prose_changed_during_review: true
     blocking_findings: 0
-    significant_findings: 0
+    significant_findings: 2
     moderate_findings: 0
     copyediting_findings: 0
     next_gate: "Chapter 17 mission planning and mission locking only; do not draft Chapter 17"
@@ -176,11 +176,11 @@ critical_status:
     reviewed_blob_sha: "b8e7e2ae573a6c25ea096121c75acee867f3fad2"
   chapter_16_acceptance:
     severity: "resolved"
-    status: "ACCEPT; promoted unchanged"
+    status: "ACCEPT; promoted after one surgical POV-firewall revision"
     review: "books/book-01/control/33-chapter-16-acceptance-review.md"
     path: "books/book-01/manuscript/chapters/chapter-16.md"
     words: 6024
-    reviewed_blob_sha: "ff6fbaa66170a03502589309b3d1c2d74b50a289"
+    reviewed_blob_sha: "dd5249f4b510a9da9ad19ab2902a95ce1e62a1d8"
     opening: "07:56:40 EDT / 17:26:40 IST"
     endpoint: "08:15:52 EDT / 17:45:52 IST"
   status_drift:
@@ -202,7 +202,7 @@ production_rules:
   - "Draft existence does not create canon."
   - "Promotion requires the same production pass to move prose, update the manifest and project state, and update every affected control ledger."
   - "Chapters 13 through 16 are accepted Act III canon."
-  - "Chapter 16 is accepted unchanged at 6,024 words and exists only at the manuscript path."
+  - "Chapter 16 is accepted after one surgical POV-firewall revision at 6,024 words and exists only at the manuscript path."
   - "Registered authority never proves physical human custody without separate evidence."
   - "The Hartwell presenter and exact challenged serial remain unresolved."
   - "WSS-4 remains encrypted."
