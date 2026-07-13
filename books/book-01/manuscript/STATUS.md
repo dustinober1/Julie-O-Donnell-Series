@@ -21,24 +21,23 @@
 
 Hartwell presenter and exact serial remain unresolved. WSS-4 remains encrypted. K-17 access remains unconfirmed. Phase B remains undefined. Book 1 is not publication-ready.
 
-## Approved planning
-
-Chapter 16 — **The Hold Order** — is mission locked at:
-
-[`../control/32-chapter-16-mission-lock.md`](../control/32-chapter-16-mission-lock.md)
-
-The lock is planning only and has no accepted-manuscript effect. It preserves the 81,586-word accepted total and the 07:56:40 EDT / 17:26:40 IST canon endpoint.
-
 ## Drafted but not accepted
 
-None.
+Chapter 16 — **The Hold Order** — has one active first draft:
 
-Chapter 16 and later prose are not drafted.
+[`../drafts/chapter-16.md`](../drafts/chapter-16.md)
+
+- Exact draft words: **6,024**
+- Draft opening: **07:56:40 EDT / 17:26:40 IST**
+- Draft endpoint: **08:15:52 EDT / 17:45:52 IST**
+- Mission lock: [`../control/32-chapter-16-mission-lock.md`](../control/32-chapter-16-mission-lock.md)
+- Status: **unaccepted and non-canon**
+- Acceptance review: **not performed**
+
+The draft has no accepted-manuscript effect. It does not change the 81,586-word accepted total, the Chapter 15 canon endpoint, the accepted inventory, or any canon ledger.
 
 ## Next production action
 
-Draft Chapter 16 only at:
+Run the formal Chapter 16 acceptance and revision review.
 
-`../drafts/chapter-16.md`
-
-Use the accepted Chapter 15 prose and `../control/32-chapter-16-mission-lock.md` as the controlling opening and mission. Do not alter accepted prose or `../ACCEPTED_MANUSCRIPT.yaml`, draft Chapter 17, or create a complete remainder-of-Act-III outline.
+Do not alter accepted prose or `../ACCEPTED_MANUSCRIPT.yaml` without an explicit **ACCEPT** verdict and synchronized promotion. Do not draft Chapter 17 or create a complete remainder-of-Act-III outline.
