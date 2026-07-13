@@ -131,25 +131,21 @@ The accepted-manuscript inventory in `../ACCEPTED_MANUSCRIPT.yaml` controls acce
 
 ## Chapter 16 — The Hold Order
 
-- **Status:** Mission locked; planning only; prose not drafted.
+- **Status:** First draft complete; unaccepted and non-canon.
+- **Draft path:** `../drafts/chapter-16.md`.
 - **Mission lock:** `32-chapter-16-mission-lock.md`.
-- **Controlling opening:** 07:56:40 EDT / 17:26:40 IST, the exact accepted Chapter 15 endpoint.
-- **Working title:** **The Hold Order**.
+- **Exact draft word count:** 6,024 whitespace-delimited Markdown words.
+- **Time:** 07:56:40–08:15:52 EDT / 17:26:40–17:45:52 IST.
+- **POV:** Julie close third opening and closing; one bounded Marcus ambulance cutaway; one bounded Sharma cutaway.
 - **Dominant function:** Force a named, reviewable federal preservation authority behind the interim MPD custody chain without surrendering the seven packages to an unnamed claimant or opening them before independent technical intake.
-- **Primary POV:** Julie close third.
-- **Bounded cutaways:** One Marcus ambulance cutaway and one Sharma cutaway; return to Julie.
-- **Primary objective:** Put General William Hackett’s name and authority on a preservation hold under incident `187463` while MPD retains physical custody and all seven packages remain separate, sealed, and offline.
-- **Required character action:** Marcus places his six-years-ago correction on an attributable record under EMS control.
-- **Required allied action:** A preservation/status request makes Sharma’s challenged incident-set reference causally reachable without direct Julie–Sharma contact or a truth finding.
-- **Target range:** 5,800–6,500 words.
-- **Planned maximum endpoint:** 08:16:40 EDT / 17:46:40 IST.
-- **Required endpoint state:** Secure MPD evidence-intake threshold under a named preservation hold; seven packages intact; allied acknowledgment linked; no final federal/technical receiver.
-- **Prohibited resolutions:** Hartwell presenter/serial, compact-case contents, WSS plaintext, K-17 access, Phase B, reconstruction authorship/purpose/truth, final federal custody, technical finding, public vindication, and the complete climax.
-- **Canon effect:** None until a future draft passes the formal acceptance gate and is promoted.
-- **Next gate:** Draft exactly one first version at `../drafts/chapter-16.md`; do not draft Chapter 17 or outline the complete remainder of Act III.
+- **Draft mission result:** General William Hackett becomes the named preservation sponsor; Marcus places his six-years-ago correction on an attributable record under EMS control; MPD retains all seven packages separately sealed and offline; and a caveat-bearing allied preservation acknowledgment is linked.
+- **Draft endpoint:** Secure MPD evidence-intake threshold at 08:15:52 EDT / 17:45:52 IST; no final federal receiver or technical examiner.
+- **Prohibited resolutions preserved in the draft:** Hartwell presenter/serial, compact-case contents, WSS plaintext, K-17 access, Phase B, reconstruction authorship/purpose/truth, final federal custody, technical findings, and public vindication remain unresolved.
+- **Canon effect:** None. The accepted manuscript remains Prologue and Chapters 1–15 at 81,586 words with the 07:56:40 EDT / 17:26:40 IST endpoint.
+- **Next gate:** Formal Chapter 16 acceptance and revision review. Do not draft Chapter 17.
 
 ## Chapter 17 and later
 
 - **Status:** Not drafted and not individually mission locked.
 - **Planning:** High-level functions remain provisional in `23-word-budget-and-act-iii-architecture.md`.
-- **Rule:** No later chapter function is canon until separately locked, drafted, reviewed, and accepted.
+- **Rule:** No later chapter may use the unaccepted Chapter 16 endpoint as canon. No later chapter function is canon until separately locked, drafted, reviewed, and accepted.
