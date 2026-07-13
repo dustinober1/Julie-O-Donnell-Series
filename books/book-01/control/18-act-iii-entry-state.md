@@ -9,7 +9,8 @@ Act III now contains one accepted chapter: Chapter 13, **The Carrier Stream**.
 - **Vehicle:** PCF-27, parked nose-out toward the west ramp
 - **Characters present:** Julie, Marcus, Elias
 - **Accepted prose after this point:** None
-- **Immediate next gate:** Dedicated Chapter 14 mission lock; no Chapter 14 prose first
+- **Chapter 14 planning:** Mission locked in `28-chapter-14-mission-lock.md`
+- **Immediate next gate:** Draft Chapter 14 under `../drafts/`; no accepted Chapter 14 prose yet
 
 ## Physical state at the accepted endpoint
 
@@ -89,15 +90,30 @@ Chapter 13 does **not** establish:
 
 - the person physically carrying `SSO-NS-004`;
 - that the compact case contains `SSO-NS-004`;
-- Sterling’s personal possession, keystrokes, or command;
-- Tariq’s physical presence;
+- Sterling's personal possession, keystrokes, or command;
+- Tariq's physical presence;
 - K-17 access;
 - decrypted message content;
-- Phase B’s precise action; or
+- Phase B's precise action; or
 - the purpose of the pending Argus source-reconstruction profile.
+
+## Approved Chapter 14 planning state
+
+The Chapter 14 mission lock is approved but remains non-canon.
+
+It requires the draft to:
+
+- open from the exact accepted 07:46:00 endpoint;
+- convert the Hartwell challenge into an independent Metropolitan Police body-camera/dispatch preservation record;
+- narrow the possible presenter without identifying a human custodian;
+- preserve Marcus's and Elias's separate evidence roles;
+- keep the module offline and avoid any implausible Hartwell hack;
+- use the trio's injuries to make another vehicle escape untenable once the west gate is physically controlled;
+- end after 07:49 with the trio under Metropolitan Police scene control, evidence transfer pending, Masking Window Two active, and Phase B unresolved; and
+- remain 5,700–6,400 words.
 
 ## Current production gate
 
-The Chapter 13 acceptance pass is complete. The next session must lock Chapter 14’s dramatic mission, POV structure, exact authentication/custody problem, abort condition, and immediate endpoint from the accepted 07:46:00 Hartwell state.
+Draft Chapter 14, working title **The Witness Line**, under `../drafts/` from `28-chapter-14-mission-lock.md`.
 
-Do not draft Chapter 14 during the mission-lock session.
+Do not add Chapter 14 to the accepted inventory, move it into the manuscript directory, update accepted word counts, or alter the accepted endpoint until the draft receives an explicit acceptance verdict and promotion commit.
