@@ -1,6 +1,6 @@
 # Book 1 Accepted-Manuscript Status
 
-**Authoritative production state:** [`../../../PROJECT_STATE.yaml`](../../../PROJECT_STATE.yaml)  
+**Authoritative production state:** [`../../../PROJECT_STATE.yaml`](../../../PROJECT_STATE.yaml)
 **Authoritative accepted inventory:** [`../ACCEPTED_MANUSCRIPT.yaml`](../ACCEPTED_MANUSCRIPT.yaml)
 
 ## Accepted
