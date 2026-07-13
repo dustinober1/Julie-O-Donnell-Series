@@ -2,88 +2,80 @@
 
 ## Legend
 
-- **K:** Knows or directly witnessed.
-- **L:** Limited or partial knowledge.
-- **B:** Believes or strongly infers.
-- **U:** Not shown to know.
-- **F:** Knows only the false or official version.
-- **—:** Not applicable.
+- **K:** Knows or directly witnessed
+- **L:** Limited or partial knowledge
+- **B:** Believes or strongly infers
+- **U:** Not shown to know
+- **F:** Knows only the false/public version
+- **—:** Not applicable
 
-“Northbridge” distinguishes Bell/WSS personnel from the broader organization.
-
-| Fact | Reader | Julie | Marcus | Elias | Chen | Vance | Sterling | Tariq | Sharma | Mercer | Law enforcement | Public | Northbridge |
+| Fact after accepted Chapter 14 | Reader | Julie | Marcus | Elias | Ortiz / MPD scene | Chen | Vance | Sterling | Tariq | Sharma | Mercer | Public | Hartwell |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Payload 88 was synthetic and invalidated through provenance review | K | K | K | K | U/L claim only | L/K | K | U/B | U | U | L | F | U |
+| Vance-registered authority controlled or authorized the bridge | K | K | K | K | U/L claim only | U/L | K | U | U | U/L | U | U | U |
+| Vance personally typed the command | U | U | U | U | U | U | Private unknown | U | U | U | U | U | U |
+| `SSO-NS-004` authenticated WSS-4 | K | K | K | K | L through Julie’s statement | L/K | Likely K | Office side K | Session side K | U | L | U | U |
+| `SSO-NS-004` is registered to Sterling’s office | K | K | K | K | L through statement | L/K | Likely K | K | K/L | U | L | U | U |
+| Sterling personally held or used `SSO-NS-004` | U | U | U | U | U | U | U | U/private | U | U | U | U | U |
+| Compact black case contained `SSO-NS-004` | U | U | U | U | U | U | U | U | U | U | U | U | U |
+| Three-person carrier stream entered Hartwell at 07:46 | K | K | K | K | L/K from scene and statement | L/K | Likely K/L | Likely K | U | U | K/L | U | K/L |
+| Dark-overcoat entrant was outside by 07:47:21 | K | K | K | K | K | L | U/L | U | U | U | K/L | U | K/L |
+| Exterior state changed white to steady green at 07:47:49 | K | K | K | K | K | L/K | U/L | U/L | U | U | K/L | U | K |
+| Green state proves a local accepted/complete condition only | K | K | K | K | K at bounded level | L | U/L | U/L | U | U | L | U | K |
+| Exact Hartwell challenge serial | Held record only | U | U | U | U | U | U/private unknown | U/private unknown | U | U | U | U | K/private |
+| Human presenter / receiver | Held record or witnesses may know | U | U | U | U | U | U | U/private unknown | U | U | U | U | K/private possible |
+| Hartwell relevant record exists and is held | K | K | K | K | K | K/L | K/L | Likely K | U | U | K | U | K |
+| MPD preservation request exists | K | K | K | K | K | K/L | K/L | U/L | U | U | K | U | K/L |
+| Module remained offline and markers prove local input only | K | K | K | K | K | L | K/L | U | U | U | L | U | U |
+| West route closed at 07:48:24 and Julie aborted | K | K | K | K | K | K/L | K/L | U | U | U | K | U | U |
+| PCF-27 engine was shut down before 07:48:30 | K | K | K | K | K | K/L | K/L | U | U | U | K | U | U |
+| Phase B deadline passed at 07:49 without observable answer | K | K | K | K | K/L | L | Likely K/L | Signer side may know | Field side may know | U | L | U | U |
+| Phase B action | U | U | U | U | U | U | Private unknown | Signer side may know | Field side may know | U | U | U | U |
+| K-17 access succeeded | U | U | U | U | U | U | Private unknown | U/private | Command side private | U | U | U | U |
+| WSS message plaintext | U | U | U | U | U | U | Private unknown | Signer side may know | Field side may know | U | U | U | U |
+| Reconstruction-profile purpose | U | U | U | U | U | U | Private unknown | Signer side may know | Field side may know | U | U | U | U |
+| Indian mission aborted; no rounds fired | K | U | U | U | U | U | U | U | U | K | U | U | U |
+| Evidence transfer to MPD is complete | False | K no | K no | K no | K no | K no | K no | U | U | U | K no | U | U |
 
-| 16:30 EDT / 02:00 IST is allied source certification, not weapon release | K | K | K | K | K | K | U/B | U/L | K | U/L | U | U | U |
-| A dependent executable support product remains held until 05:00 EDT / 14:30 IST | K | K after 16:21 | K after 16:21 | K | L/K | K | U/B | U/L | K by 13:57 IST | U/L | U | U | U |
-| Provenance invalidation can suspend the dependent support product while preserving raw observations | K | K | K | K | L/K | K | U/B | U/L | K when result arrives | L | U | F/U | Bell L |
-| Payload 88 was synthetic | K | K | K | K | L/K | K | U/B | U | U | L | F/U | F | Bell L |
-| Payload 88 entered production | K | K | K | K | L | K | U/B | U | U | L | F/U | F | U |
-| APX-DIR-0019 controlled the bridge | K | K | K | K | L | K | U | U | U | L | U | U | U |
-| Vance registered authority signed bridge | K | K | K | K | U/L | K | U | U | U | U | U | U | U |
-| Vance personally typed the command | U | U | U | U | U | Private unknown | U | U | U | U | U | U | U |
-| Julie restored provenance rather than deleting all data | K | K | K | K | L/K | K | U | U | Sees result only | L | F/U | F | Bell L |
-| External support release was suspended | K | K | K | K | K | K | U/B | U | K | L | U | F | U |
-| Indian mission was aborted; no rounds fired | K | U | U | U | U | U | U | U | K | U | Northern Command K | U | U |
-| Genuine movement toward K-17 existed | K | K | K | K | U/L | Likely K/U | U/B | Likely K/L | U | U | U | U | U |
-| Five or six people were moving | K | K | K | K | U | Likely K/U | U | U | U | U | U | U | U |
-| Tariq field authority accepted in WSS-4 | K | K | K | K | L | Likely K/U | Office side likely K | Command side K | U | U | U | U | Bell K |
-| Security Line One passed | K | K | K | K | L | Likely K/U | Signer side likely K | K | U | U | U | U | Bell K |
-| Relay K-17 access not confirmed at 07:08 | K | K | K | K | L | Likely K/U | Signer side likely K | K | U | U | U | U | Bell K |
-| SSO-NS-004 authenticated WSS-4 | K | K | K | K | L/K | Likely K | Office side K | Session side K | U | U | U | U | Bell K |
-| Sterling personally held SSO-NS-004 | U | U | U | U | U | U | U/private | U | U | U | U | U | U |
-| Hartwell is next authentication point | K | K | K | K | L/K | Likely K | Likely K | Session side K | U | U | Public knows briefing only | Knows briefing only | Bell K |
-| Phase B remains on hold | K | K | K | K | L | Likely K | Signer side K/L | K | U | U | U | U | Bell K |
-| Phase B deadline 07:49 | K | K | K | K | L | Likely K | Signer side K | K | U | U | U | U | Bell K |
-| Masking Window Two pending | K | K | K | K | L | Likely K | Signer side K | K | U | U | U | U | Bell K |
-| Main message blocks remain encrypted | K | K | K | K | L | Private unknown | Signer side may know plaintext | Field side may know plaintext | U | U | U | U | Bell K as ciphertext |
-| Julie publicly accused of Argus corruption | K | K | K | K | K | K | K | U | U | K | K | K | K |
-| Marcus publicly called armed accomplice | K | K | K | K | K | K | K | U | U | K | K | K | K |
-| Elias publicly called hostage/coerced | K | K | K | K | K | K | K | U | U | K | K | K | K |
-| Elias’s later actions were voluntary | K | K | K | K | L/K | K | U | U | U | L | F/U | F | Bell K for WSS only |
-| Chen preserved conflicting directives | K | K/L | K/L | K/L | K | May suspect | U | U | U | K/L | U | U | U |
-| Mercer questioned Vance’s authority | K | K/L | K/L | K/L | K | K | U | U | U | K | U | U | U |
-| Northbridge has legitimate public role | K | K | K | K | K | K | K | U | U | L | K/U | K | K |
-| Northbridge as a whole knowingly joined conspiracy | U | U | U | U | U | Private unknown | Private unknown | U | U | U | U | U | U |
-| Same conspiracy caused six-years-ago strike | U | B/question | B/question | U | U | Private unknown | U | U | U | U | U | U | U |
+## Accepted Chapter 14 actor deltas
 
-## Integrated timing knowledge
+### Julie
 
-- Julie and Marcus first identify the dependent 05:00 support object at approximately 16:21 EDT after the failed initial approach.
-- Elias and Vance already understand the two-stage architecture; Elias states it directly during the repaired 04:27 scene.
-- Sharma receives the 02:00 source certification without firing and later receives the 14:30 support-release clock.
-- Chen’s command systems may expose stage and containment status, but the repair does not give her the trio’s private analysis.
-- Mercer understands the pursuit and local containment geometry, not the complete strategic release architecture.
-- No repair scene gives Sterling, Tariq, law enforcement, the public, or Northbridge staff knowledge beyond what their accepted records or later scenes establish.
+Knows the independently observed and routed sequence. Does not know the hidden presenter, exact serial, plaintext, Phase B, K-17, reconstruction purpose, or no-fire result.
 
-## Information-control rules
+### Marcus
+
+Knows the same public sequence and the exact state of every original in his custody. Does not know the hidden presenter or later field result.
+
+### Elias
+
+Knows the module remained offline, the handling markers’ narrow limits, and the visible/routed sequence. He does not know any external fact merely because he entered it as a marker.
+
+### Officer Ortiz / Metropolitan Police
+
+Know the alert, the trio’s visible behavior, Julie’s bounded claim, marker limitations, the exterior state, Hartwell’s hold acknowledgment, and the pending inventory. They do not know or endorse the full conspiracy.
+
+### Chen
+
+Knows the scene and preservation process through communications and preserved directives. She does not know the hidden presenter or exact held-record content.
+
+### Vance
+
+Knows the trio has shifted the event into public police/Hartwell records. He does not control or automatically know every external record.
+
+### Mercer
+
+Knows the same scene-level facts and remains obligated to capture/recover within MPD scene authority. He does not know the technical record’s undisclosed fields.
+
+## Permanent information-control rules
 
 1. Julie must not act as though she saw Sharma’s no-fire scene.
-2. Sharma must not know Julie’s identity or Payload 88 without a transmission.
-3. Marcus and Elias learn WSS-4 details through the live session and immediate debrief, but do not know plaintext.
-4. Chen may know enough to recognize an evidentiary problem; she does not automatically know all fields shown on Julie’s module.
-5. Sterling and Tariq should not be granted omniscient knowledge merely because their registered authorities participated.
-6. The public knows only the official narrative and visible events.
-7. Law enforcement may be acting honestly on incomplete and misleading reports.
-8. Nora Bell knows more than ordinary Northbridge staff because she sponsored and witnessed the session.
-9. The WSS operator left before the full external chain appeared; do not give him Bell’s complete knowledge without later review.
-10. Vance’s private knowledge must be dramatized or evidenced before being stated.
-
----
-
----
-
-## Accepted Chapter 13 knowledge delta
-
-| Actor | Knows at 07:46 | Suspects / infers | Does not know |
-|---|---|---|---|
-| Julie | Exact observed route, compact case appearances, three-person entry stream, hard-abort result, and limits of the camera/marker record | One of the stream participants may be the physical carrier | Human custodian, encrypted content, Phase B action, K-17 outcome, reconstruction purpose |
-| Marcus | Original-evidence state, west-route state, observed support vehicle continuity, and reported case/staff facts | The support stream is operationally linked to Hartwell authentication | Hidden hand, signer possession, plaintext, K-17 outcome |
-| Elias | Module/board integrity, marker journal, challenge timing, and the distinction between device event time and external proof | The 07:46 stream is the next authentication carrier stream | Human holder, plaintext, Phase B, K-17 access |
-| Chen | Garage plate correlation, scheduled Hartwell window, and likely observation objective | Julie is trying to create a physical counterrecord | Julie’s exact sightline result and the unseen holder |
-| Mercer | Trio location, unarmed behavior, evidence refusal, and observation objective | Julie will obey some self-imposed limits but not surrender media | Human holder and technical message content |
-| Vance | Vendor/incident pressure, garage response, and the Hartwell schedule available to his systems | The trio is following the signer chain | Exact observation, hidden hand, and independent external records not under Apex control |
-| Responding police | Known-plate alert, visible trio, no displayed firearm, active media handling, and Julie’s statement that office registration is not possession | Trio is engaged in an unauthorized intelligence operation | Full evidence chain, encrypted content, actual signer custodian |
-| Ordinary Hartwell personnel | Their assigned screening, traffic, courier, or briefing duties | May know a sensitive session is beginning | Payload 88, the trio’s evidence, the conspiracy, or which colleague carries the signer unless directly assigned |
-
-Permanent distinction: reader-visible office registration, hardware response, and route convergence do not grant any character knowledge of the physical hand.
+2. No camera, marker, certificate, light, case, registration, or route identifies the human presenter by itself.
+3. Hartwell’s record may contain the exact serial or presenter, but no character gains those facts until lawful production, direct witness testimony, or accepted examination occurs.
+4. The public knows only the official armed-insider narrative and visible police response.
+5. Law enforcement may act honestly on incomplete or misleading reports.
+6. Chen’s preservation behavior is not alliance.
+7. Mercer’s procedural restraint is not alliance.
+8. Vance and Sterling receive no omniscient knowledge.
+9. Phase B, K-17, WSS plaintext, and reconstruction purpose remain unresolved after Chapter 14.
+10. Scene control and object serial collection do not equal completed evidence transfer.

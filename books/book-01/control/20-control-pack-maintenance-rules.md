@@ -20,7 +20,7 @@
     - updates `../../../PROJECT_STATE.yaml`;
     - updates accepted word count and endpoint;
     - updates chapter status;
-    - updates every affected timeline, character, relationship, evidence, knowledge, technology, location, public-narrative, antagonist, and thread record; and
+    - updates every affected timeline, character, relationship, evidence, knowledge, technology, institutional, location, antagonist, public-narrative, open-thread, and series record; and
     - records the acceptance verdict.
 11. Later chapters may not use an unaccepted draft endpoint as canon.
 12. A chapter title remains a draft title until promotion.
@@ -38,18 +38,18 @@
 ## Evidence and knowledge
 
 20. Record every evidence transfer with time, location, transferor, recipient, seal condition, reason, and witnesses.
-21. Keep the case, administrator board, recovery cartridge, Partition A, Partition B, WSS local audit, Chen records, and Sharma records as distinct objects.
+21. Keep the case, administrator board, recovery cartridge, Partition A, Partition B, WSS local audit, Hartwell local record, police record, Chen records, and Sharma records as distinct objects.
 22. Update both “what it proves” and “what it does not prove” whenever evidence changes.
 23. Never promote registered authority into physical human custody without separate evidence.
 24. Update the knowledge matrix whenever a character witnesses a screen, hears a record, decrypts content, receives evidence, learns a public claim, or appears in a private antagonist scene.
-25. Never invent the contents of incomplete, excluded, encrypted, or unavailable records.
+25. Never invent the contents of incomplete, excluded, encrypted, held, or unavailable records.
 
 ## Plot and series continuity
 
 26. Update the thread-disposition matrix after every accepted chapter.
 27. Resolve Book 1 obligations before using a series hook to defer them.
 28. Move resolved threads into a payoff record rather than deleting them.
-29. Update the recurring-character ledger whenever a returning character's status, knowledge, injury, relationship, legal exposure, location, or future function changes.
+29. Update the recurring-character ledger whenever a returning character’s status, knowledge, injury, relationship, legal exposure, location, or future function changes.
 30. Do not assign a future-book role as canon until the character survives and reaches an accepted Book 1 end state.
 31. High-level Act III architecture may guide word budget and sequence, but chapter functions become controlling only through individual chapter locks.
 32. Plans for unwritten chapters remain non-canon.
@@ -79,12 +79,14 @@
 47. Superseded status and planning states are preserved by Git history; do not keep duplicate active copies.
 48. Archive records must say what is historical, why it is non-controlling, and where the active replacement lives.
 
-## Current application record — accepted Chapter 13 and approved Chapter 14 mission lock
+## Current application record — accepted Chapter 14
 
-- Chapter 13 was promoted only after the acceptance gate changed to **ACCEPT**.
-- The Chapter 13 prose move, accepted inventory, project state, accepted count, endpoint, and affected controls were one intentional acceptance change.
-- The exact whitespace-delimited counter remains at `../../../tools/count_book1_words.py`.
-- Chapter 14's mission is approved in `28-chapter-14-mission-lock.md`.
-- The Chapter 14 mission lock is planning only and does not alter accepted prose, word count, endpoint, or canon.
-- Chapter 14 prose must be drafted under `../drafts/` and remain there until it passes the formal acceptance gate.
-- The approved Chapter 14 plan preserves unresolved human custody, K-17, encrypted content, Phase B, and reconstruction-purpose limits.
+- Chapter 14, **The Witness Line**, received an evidence-based **ACCEPT** verdict in `29-chapter-14-acceptance-review.md`.
+- Its final reviewed prose was unchanged at 5,763 whitespace-delimited Markdown words.
+- The promotion moves the single active prose file from `../drafts/chapter-14.md` to `../manuscript/chapters/chapter-14.md`; no duplicate draft remains.
+- The accepted inventory now contains the Prologue and Chapters 1–14, totaling 75,593 words.
+- The accepted endpoint is 07:49:32 EDT / 17:19:32 IST on garage level six beside shut-down PCF-27 under Metropolitan Police scene control.
+- Chapter 14 creates an MPD body-camera/dispatch record and a held Hartwell local record, but neither record identifies the physical presenter or proves the exact challenged serial without later examination.
+- Marcus and Elias retain physically separate primary evidence. No transfer receipt is complete at the endpoint.
+- Masking Window Two is active. Phase B, K-17 access, WSS-4 plaintext, the reconstruction-profile purpose, compact-case contents, and the Hartwell presenter remain unresolved.
+- Chapter 15 remains undrafted. The next gate is a dedicated Chapter 15 mission-lock session; no Chapter 15 prose may be produced before that lock is approved.

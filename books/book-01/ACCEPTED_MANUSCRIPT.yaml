@@ -3,17 +3,17 @@ book: 1
 title: null
 status: "Controlling accepted-manuscript inventory"
 last_verified: "2026-07-12"
-accepted_words: 69830
+accepted_words: 75593
 word_count_method:
   name: "UTF-8 Markdown whitespace-delimited token count"
   implementation: "For each accepted file, len(Path(path).read_text(encoding='utf-8').split()); sum the accepted inventory"
   utility: "tools/count_book1_words.py"
   note: "All visible Markdown tokens are counted consistently, including headings, datelines, and screen-field text"
 accepted_endpoint:
-  chapter: 13
-  eastern: "07:46:00 EDT"
-  india: "17:16:00 IST"
-  location: "Downtown Washington, public parking garage overlooking the Hartwell Executive Briefing Annex; PCF-27 on level six"
+  chapter: 14
+  eastern: "07:49:32 EDT"
+  india: "17:19:32 IST"
+  location: "Downtown Washington, public parking garage level six beside powered-down PCF-27 under Metropolitan Police scene control; no evidence transfer receipt complete"
 
 accepted_files:
   - sequence: 0
@@ -72,10 +72,14 @@ accepted_files:
     type: "chapter"
     title: "The Carrier Stream"
     path: "books/book-01/manuscript/chapters/chapter-13.md"
+  - sequence: 14
+    type: "chapter"
+    title: "The Witness Line"
+    path: "books/book-01/manuscript/chapters/chapter-14.md"
 
 excluded_from_canon:
   - path: "books/book-01/drafts/"
-    reason: "Unaccepted prose only; no active chapter draft at this gate"
+    reason: "Unaccepted prose only; no active Book 1 chapter draft after Chapter 14 promotion"
   - path: "archive/"
     reason: "Historical provenance only"
   - path: "docs/superpowers/"
