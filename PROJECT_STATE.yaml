@@ -40,7 +40,7 @@ active_book:
     acts:
       act_i: "complete"
       act_ii: "complete"
-      act_iii: "Chapter 13 accepted; Chapter 14 mission locked but not drafted; later Act III chapters not drafted"
+      act_iii: "Chapter 13 accepted; Chapter 14 draft complete but unaccepted; later Act III chapters not drafted"
     endpoint:
       chapter: 13
       eastern: "07:46:00 EDT"
@@ -58,12 +58,17 @@ active_book:
       physical_custodian_status: "unresolved"
 
   drafts:
-    active_chapter_drafts: []
-    chapter_14: "mission locked; prose not drafted"
+    active_chapter_drafts:
+      - chapter: 14
+        title: "The Witness Line"
+        path: "books/book-01/drafts/chapter-14.md"
+        words: 5763
+        status: "complete first draft; unaccepted and non-canon"
+    chapter_14: "draft complete; formal acceptance review pending; unaccepted and non-canon"
 
   future_prose:
-    chapter_14_and_later: "not drafted"
-    rule: "Draft Chapter 14 only under books/book-01/drafts/ from the approved Chapter 14 mission lock; no prose becomes canon before review and promotion"
+    chapter_14_and_later: "Chapter 14 draft complete but unaccepted; Chapter 15 and later prose not drafted"
+    rule: "Chapter 14 remains under books/book-01/drafts/ and cannot control later prose until review and promotion"
 
   planning_controls:
     ending_contract: "books/book-01/control/22-book-1-ending-contract.md"
@@ -122,9 +127,14 @@ critical_status:
     review: "books/book-01/control/27-chapter-13-acceptance-review.md"
   chapter_14_mission_lock:
     severity: "resolved planning gate"
-    status: "approved; planning only; prose remains undrafted"
+    status: "approved and used as the controlling draft specification"
     control: "books/book-01/control/28-chapter-14-mission-lock.md"
-    next_action: "Draft Chapter 14 under books/book-01/drafts/ from the approved mission lock; do not update accepted inventory or word counts"
+  chapter_14_draft:
+    severity: "active review gate"
+    status: "complete first draft; unaccepted and non-canon"
+    path: "books/book-01/drafts/chapter-14.md"
+    words: 5763
+    next_action: "Run the Chapter 14 acceptance, continuity, and revision review; do not draft Chapter 15"
 
 archive:
   legacy_source_policy: "archive/legacy-sources/README.md"
@@ -138,8 +148,8 @@ production_rules:
   - "Draft existence does not create canon."
   - "Promotion requires the same production pass to move prose into manuscript, update ACCEPTED_MANUSCRIPT.yaml, update PROJECT_STATE.yaml, and update every affected control ledger."
   - "Chapter 13 is accepted canon and controls the opening state for Chapter 14."
-  - "Chapter 14 has an approved mission lock but remains undrafted and non-canon."
-  - "Any Chapter 14 prose must be created under books/book-01/drafts/ and reviewed through the chapter acceptance gate."
+  - "Chapter 14 has a complete draft under books/book-01/drafts/ but remains unaccepted and non-canon."
+  - "Chapter 14 may not control Chapter 15 until it receives an explicit acceptance verdict and promotion commit."
   - "Registered authority never proves physical human custody without separate evidence."
   - "The physical custodian of SSO-NS-004 remains unresolved."
   - "High-level Act III architecture is production planning, not canon; chapter functions become controlling only through a chapter mission lock."
@@ -147,4 +157,4 @@ production_rules:
   - "The former Google Doc and uploaded Word snapshot are historical sources only and must not be edited as active manuscripts."
   - "No draft or revision may imitate or closely emulate the recognizable prose of a living author."
 
-next_recommended_action: "Draft Chapter 14 — working title The Witness Line — under books/book-01/drafts/ from books/book-01/control/28-chapter-14-mission-lock.md, then run the formal acceptance gate. Do not change accepted counts, endpoint, or ACCEPTED_MANUSCRIPT.yaml during drafting."
+next_recommended_action: "Run the formal Chapter 14 acceptance, continuity, and revision session against books/book-01/drafts/chapter-14.md and books/book-01/control/28-chapter-14-mission-lock.md. Do not begin Chapter 15."

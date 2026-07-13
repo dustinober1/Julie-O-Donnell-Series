@@ -105,16 +105,20 @@ The accepted-manuscript inventory in `../ACCEPTED_MANUSCRIPT.yaml` controls acce
 
 ## Chapter 14 — The Witness Line
 
-- **Status:** Mission locked; prose not drafted.
+- **Status:** Complete first draft; **unaccepted and non-canon**.
+- **Draft path:** `../drafts/chapter-14.md`.
+- **Exact draft word count:** 5,763 whitespace-delimited Markdown words.
 - **Mission lock:** `28-chapter-14-mission-lock.md`.
-- **Canon status:** Planning only. The working title and planned events are not accepted story facts.
-- **Controlling opening:** Exact Chapter 13 endpoint at 07:46:00 EDT / 17:16:00 IST.
-- **Dominant mission:** Convert the unseen Hartwell challenge into an independent, time-synchronized Metropolitan Police record tied to the carrier stream; narrow the possible presenter without naming one; preserve separated evidence through a forced custody transition.
-- **POV:** Julie-dominant close third; no secondary cutaway.
-- **Word range:** 5,700–6,400.
-- **Planned endpoint:** 07:49:20–07:49:40 EDT, garage level six, trio under Metropolitan Police scene control, originals still physically separated and untransferred, Masking Window Two active, Phase B state unknown.
-- **Next gate:** Draft one active Chapter 14 file under `../drafts/`, then run the formal chapter-acceptance gate.
-- **Prohibitions:** Do not add Chapter 14 to `../ACCEPTED_MANUSCRIPT.yaml`, do not update accepted word counts or endpoint, and do not create `../manuscript/chapters/chapter-14.md` during drafting.
+- **Controlling opening:** 07:46:00 EDT / 17:16:00 IST, exact Chapter 13 endpoint on garage level six.
+- **POV:** Julie-dominant close third throughout; no secondary cutaway.
+- **Dominant mission executed:** Julie time-binds the Hartwell challenge to the observed carrier stream in an independent MPD body-camera and dispatch record, narrows the possible presenter without naming one, and protects separated evidence through the transition to police scene control.
+- **Draft success state:** MPD records Julie's pre-event facts and limits; dispatch routes the preservation request; the dark-overcoat entrant is outside before the steady-green accepted/complete exterior state; Hartwell acknowledges the relevant record and hold before 07:48:30.
+- **Draft abort state:** The west route becomes physically blocked at 07:48:24; Julie terminates the observation mission, PCF-27 is shut down under police instruction, and no ramming, firearm escalation, civilian harm, or attack on an honest officer occurs.
+- **Draft endpoint:** 07:49:32 EDT / 17:19:32 IST, garage level six. MPD controls the scene and west gate; PCF-27 is off with the key visible; Marcus and Elias retain their separate evidence roles; no transfer receipt is complete.
+- **Still unresolved in draft:** Exact signer serial at Hartwell, physical presenter, compact-case contents, Phase B state, K-17 access, WSS-4 plaintext, Masking Window Two function, and reconstruction-profile purpose.
+- **Accepted manuscript impact:** None. Accepted scope remains Prologue and Chapters 1–13, accepted total remains 69,830, and accepted endpoint remains 07:46:00 EDT / 17:16:00 IST.
+- **Next gate:** Formal Chapter 14 acceptance, continuity, evidence-limit, injury, style, and revision review.
+- **Prohibitions:** Do not add Chapter 14 to `../ACCEPTED_MANUSCRIPT.yaml`, create `../manuscript/chapters/chapter-14.md`, update accepted word counts or endpoint, or draft Chapter 15 before an explicit acceptance verdict.
 
 ## Chapter 15 and later
 

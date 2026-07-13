@@ -4,17 +4,23 @@ This directory contains prose that may be complete, revised, or mission-locked b
 
 ## Current drafts
 
-No active Book 1 chapter draft is present. Chapter 13 was promoted to `../manuscript/chapters/chapter-13.md` after an ACCEPT verdict.
+### Chapter 14 — The Witness Line
 
-Chapter 14 has an approved planning lock in `../control/28-chapter-14-mission-lock.md`, but its prose remains undrafted.
+- **Path:** `chapter-14.md`
+- **Status:** Complete first draft; unaccepted and non-canon
+- **Exact draft word count:** **5763** whitespace-delimited Markdown words
+- **Mission lock:** `../control/28-chapter-14-mission-lock.md`
+- **Opening:** 07:46:00 EDT / 17:16:00 IST, garage level six overlooking Hartwell
+- **Draft endpoint:** 07:49:32 EDT / 17:19:32 IST, same garage level under Metropolitan Police scene control
+- **Accepted manuscript impact:** None. The accepted total remains **69,830**, and the accepted endpoint remains Chapter 13 at 07:46:00 EDT / 17:16:00 IST.
 
-## Next draft
+The draft creates no accepted story facts. Chapter 15 and later may not rely on its endpoint unless Chapter 14 passes the formal acceptance gate and is promoted in a dedicated same-pass commit.
 
-Create one active Chapter 14 draft at:
+## Next action
 
-`chapter-14.md`
+Run the Chapter 14 acceptance, continuity, evidence-limit, injury, style, and revision review. Use exactly one verdict: **ACCEPT**, **REVISE**, **HOLD**, or **REJECT**.
 
-Use the approved working title **The Witness Line** and the 5,700–6,400-word range. The file must remain here until the formal chapter-acceptance gate is complete.
+Do not draft Chapter 15 during that review.
 
 ## Rules
 
