@@ -1,0 +1,69 @@
+name: Apply Chapter 15 acceptance
+
+on:
+  push:
+    branches: [agent/chapter-15-acceptance-review]
+    paths:
+      - ".github/workflows/apply-chapter15-acceptance.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: agent/chapter-15-acceptance-review
+          fetch-depth: 0
+
+      - name: Materialize and apply acceptance update
+        shell: bash
+        run: |
+          python - <<'PYBOOT'
+          from pathlib import Path
+          import base64, gzip
+          chunks = sorted(Path('.github').glob('ch15-acceptance-payload-*.txt'))
+          if not chunks:
+              raise SystemExit('acceptance payload chunks missing')
+          payload = ''.join(path.read_text(encoding='utf-8').strip() for path in chunks)
+          data = gzip.decompress(base64.b64decode(payload))
+          target = Path('tools/apply_chapter15_acceptance.py')
+          target.parent.mkdir(parents=True, exist_ok=True)
+          target.write_bytes(data)
+          PYBOOT
+          python -m py_compile tools/apply_chapter15_acceptance.py
+          python tools/apply_chapter15_acceptance.py
+
+      - name: Verify accepted manuscript and repository state
+        shell: bash
+        run: |
+          python tools/count_book1_words.py --expect 81586
+          python - <<'PYVERIFY'
+          from pathlib import Path
+          import re
+          root = Path('.')
+          manifest = (root / 'books/book-01/ACCEPTED_MANUSCRIPT.yaml').read_text(encoding='utf-8')
+          project = (root / 'PROJECT_STATE.yaml').read_text(encoding='utf-8')
+          chapter = root / 'books/book-01/manuscript/chapters/chapter-15.md'
+          review = root / 'books/book-01/control/31-chapter-15-acceptance-review.md'
+          assert int(re.search(r'^accepted_words:\s*(\d+)$', manifest, re.M).group(1)) == 81586
+          assert int(re.search(r'^\s+accepted_words:\s*(\d+)$', project, re.M).group(1)) == 81586
+          assert chapter.is_file()
+          assert not (root / 'books/book-01/drafts/chapter-15.md').exists()
+          assert len(chapter.read_text(encoding='utf-8').split()) == 5993
+          assert review.is_file() and '**ACCEPT**' in review.read_text(encoding='utf-8')
+          assert not list((root / 'books/book-01').rglob('chapter-16.md'))
+          print('Chapter 15 acceptance bootstrap verified')
+          PYVERIFY
+          git diff --check
+
+      - name: Commit accepted Chapter 15
+        shell: bash
+        run: |
+          git config user.name "OpenAI Codex"
+          git config user.email "codex@openai.com"
+          git add -A
+          git commit -m "Accept Chapter 15 — The Split Record"
+          git push origin HEAD:agent/chapter-15-acceptance-review
