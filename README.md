@@ -1,6 +1,6 @@
-# Julie O’Donnell Series
+# Julie O'Donnell Series
 
-Repository for the Julie O’Donnell contemporary geopolitical techno-thriller / military-intelligence thriller series.
+Repository for the Julie O'Donnell contemporary geopolitical techno-thriller / military-intelligence thriller series.
 
 ## Current production state
 
@@ -15,8 +15,8 @@ Current snapshot:
 - Accepted-manuscript length: **69,830 words**
 - Accepted endpoint: **07:46:00 EDT / 17:16:00 IST**, in a public parking garage overlooking Hartwell
 - Chapter 13, **The Carrier Stream**: accepted
-- Chapter 14 and later prose: not drafted
-- Immediate production action: dedicated Chapter 14 mission-lock planning; do not draft Chapter 14 prose
+- Chapter 14, working title **The Witness Line**: mission locked; prose not drafted
+- Immediate production action: draft Chapter 14 under `books/book-01/drafts/` from the approved mission lock
 
 ## Source-of-truth hierarchy
 
@@ -60,7 +60,14 @@ Accepted prose outranks every summary, tracker, plan, and draft. Draft prose can
 - [Chapter acceptance gate](books/book-01/control/25-chapter-acceptance-gate.md)
 - [Repository governance repair record](books/book-01/control/26-repository-governance-repair-record.md)
 - [Chapter 13 acceptance review](books/book-01/control/27-chapter-13-acceptance-review.md)
+- [Chapter 14 mission lock](books/book-01/control/28-chapter-14-mission-lock.md)
 - [Series recurring-character ledger](series/recurring-character-ledger.md)
+
+## Chapter 14 production rule
+
+`books/book-01/control/28-chapter-14-mission-lock.md` is approved planning, not canon.
+
+Draft Chapter 14 only under `books/book-01/drafts/`. Do not add it to the accepted inventory, change accepted counts or endpoint, or create `books/book-01/manuscript/chapters/chapter-14.md` until the draft passes the formal acceptance gate.
 
 ## Permanent continuity repair
 
