@@ -79,21 +79,15 @@
 47. Superseded status and planning states are preserved by Git history; do not keep duplicate active copies.
 48. Archive records must say what is historical, why it is non-controlling, and where the active replacement lives.
 
-## Current application record — accepted Chapter 13 and approved Chapter 14 mission lock
+## Current application record — accepted Chapter 14 and approved Chapter 15 mission lock
 
-- Chapter 13 was promoted only after the acceptance gate changed to **ACCEPT**.
-- The Chapter 13 prose move, accepted inventory, project state, accepted count, endpoint, and affected controls were one intentional acceptance change.
-- The exact whitespace-delimited counter remains at `../../../tools/count_book1_words.py`.
-- Chapter 14's mission is approved in `28-chapter-14-mission-lock.md`.
-- The Chapter 14 mission lock is planning only and does not alter accepted prose, word count, endpoint, or canon.
-- Chapter 14 prose must be drafted under `../drafts/` and remain there until it passes the formal acceptance gate.
-- The approved Chapter 14 plan preserves unresolved human custody, K-17, encrypted content, Phase B, and reconstruction-purpose limits.
-
----
-## Current application record — accepted Chapter 14
 - `29-chapter-14-acceptance-review.md` records **ACCEPT** unchanged at 5,763 words.
-- The unchanged blob moves from draft to `../manuscript/chapters/chapter-14.md`; no duplicate draft remains.
-- Accepted inventory is Prologue and Chapters 1–14 at 75,593 words.
-- Endpoint is 07:49:32 EDT / 17:19:32 IST under MPD scene control.
-- Primary evidence remains separated and untransferred; presenter, exact serial, Phase B, K-17, plaintext, and reconstruction purpose remain unresolved.
-- Chapter 15 is undrafted; next gate is mission planning/locking only.
+- Accepted inventory remains Prologue and Chapters 1–14 at 75,593 words.
+- Accepted endpoint remains 07:49:32 EDT / 17:19:32 IST under MPD scene control.
+- Primary evidence remains separated and untransferred in accepted canon.
+- Presenter, exact serial, Phase B, K-17, plaintext, Masking Window Two consequence, and reconstruction purpose remain unresolved in accepted canon.
+- `30-chapter-15-mission-lock.md` is approved planning only.
+- The Chapter 15 plan does not alter accepted prose, count, endpoint, character state, evidence custody, or canon.
+- Chapter 15 prose must be drafted only under `../drafts/chapter-15.md`.
+- The planned interim MPD transfer, Sharma reconstruction cutaway, and 07:56:40 endpoint remain non-canon until accepted prose dramatizes them.
+- The next gate is Chapter 15 first-draft production followed by the formal acceptance gate.
