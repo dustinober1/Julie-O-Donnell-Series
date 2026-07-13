@@ -1,7 +1,6 @@
-
 # Book 1 Accepted-Manuscript Status
 
-**Authoritative production state:** [`../../../PROJECT_STATE.yaml`](../../../PROJECT_STATE.yaml)
+**Authoritative production state:** [`../../../PROJECT_STATE.yaml`](../../../PROJECT_STATE.yaml)  
 **Authoritative accepted inventory:** [`../ACCEPTED_MANUSCRIPT.yaml`](../ACCEPTED_MANUSCRIPT.yaml)
 
 ## Accepted
@@ -22,6 +21,14 @@
 
 Hartwell presenter and exact serial remain unresolved. WSS-4 remains encrypted. K-17 access remains unconfirmed. Phase B remains undefined. Book 1 is not publication-ready.
 
+## Approved planning
+
+Chapter 16 — **The Hold Order** — is mission locked at:
+
+[`../control/32-chapter-16-mission-lock.md`](../control/32-chapter-16-mission-lock.md)
+
+The lock is planning only and has no accepted-manuscript effect. It preserves the 81,586-word accepted total and the 07:56:40 EDT / 17:26:40 IST canon endpoint.
+
 ## Drafted but not accepted
 
 None.
@@ -30,6 +37,8 @@ Chapter 16 and later prose are not drafted.
 
 ## Next production action
 
-Run a dedicated Chapter 16 mission-planning and mission-lock session from the accepted Chapter 15 endpoint.
+Draft Chapter 16 only at:
 
-That session must not draft Chapter 16 and must not create a complete outline for the remainder of Act III.
+`../drafts/chapter-16.md`
+
+Use the accepted Chapter 15 prose and `../control/32-chapter-16-mission-lock.md` as the controlling opening and mission. Do not alter accepted prose or `../ACCEPTED_MANUSCRIPT.yaml`, draft Chapter 17, or create a complete remainder-of-Act-III outline.
