@@ -239,8 +239,8 @@
 
 ## Chapter 16 accepted update — 2026-07-13
 
-Chapter 16 — **The Hold Order** — is accepted unchanged at 6,024 words. The controlling prose now lives only at `../manuscript/chapters/chapter-16.md`; reviewed blob: `ff6fbaa66170a03502589309b3d1c2d74b50a289`.
+Chapter 16 — **The Hold Order** — is accepted after one surgical POV-firewall revision at 6,024 words. The controlling prose now lives only at `../manuscript/chapters/chapter-16.md`; reviewed blob: `dd5249f4b510a9da9ad19ab2902a95ce1e62a1d8`.
 
-Canon advances to 08:15:52 EDT / 17:45:52 IST. General William Hackett is the named federal preservation sponsor for MPD incident `187463`, but MPD retains physical custody. `MPD-901441` through `MPD-901447` remain separate, sealed, offline, unopened, unconnected, and uncombined. Marcus's six-years-ago correction is attributable and medically bounded. Sharma's restricted acknowledgment preserves record categories, custody, product-status caveats, and clock references without a merits finding.
+Canon advances to 08:15:52 EDT / 17:45:52 IST. General William Hackett is the named federal preservation sponsor for MPD incident `187463`, but MPD retains physical custody. `MPD-901441` through `MPD-901447` remain separate, sealed, offline, unopened, unconnected, and uncombined. Marcus's six-years-ago correction is attributable and medically bounded. Sharma's restricted acknowledgment preserves record categories, custody, product-status caveats, and clock references without a merits finding. Her cutaway now names only information that crossed the allied boundary; Washington, Hartwell, Payload 88, and MPD-specific details remain outside her viewpoint.
 
 No final federal receiver or technical examiner exists. Hartwell presenter/exact serial, WSS plaintext, Sterling's physical possession, K-17 access, Phase B, reconstruction truth, and public vindication remain unresolved.
