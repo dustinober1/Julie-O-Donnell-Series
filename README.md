@@ -15,7 +15,7 @@ The authoritative production status is [`PROJECT_STATE.yaml`](PROJECT_STATE.yaml
 - Chapter 13, **The Carrier Stream**: accepted
 - Chapter 14, **The Witness Line**: accepted
 - Chapter 15, **The Split Record**: accepted after one capitalization-only copyedit at **5,993 words**
-- Chapter 16, **The Hold Order**: accepted unchanged at **6,024 words**
+- Chapter 16, **The Hold Order**: accepted after one surgical POV-firewall revision at **6,024 words**
 - Immediate production action: Chapter 17 mission planning and mission locking only
 - Book 1: not publication-ready
 
@@ -38,8 +38,9 @@ Chapter 16 — **The Hold Order** — is accepted at [`books/book-01/manuscript/
 - Endpoint: **08:15:52 EDT / 17:45:52 IST**
 - POV: Julie, Marcus, Sharma, Julie
 - Verdict: **ACCEPT**
-- Prose changed during review: **No**
-- Reviewed blob: `ff6fbaa66170a03502589309b3d1c2d74b50a289`
+- Prose changed during review: **Yes**
+- Review revision: three equal-count passage repairs in the Sharma cutaway removed narrator-level Washington, Hartwell, Payload 88, and MPD knowledge that had not crossed the allied boundary.
+- Reviewed blob: `dd5249f4b510a9da9ad19ab2902a95ce1e62a1d8`
 - Mission lock: [`books/book-01/control/32-chapter-16-mission-lock.md`](books/book-01/control/32-chapter-16-mission-lock.md)
 - Acceptance review: [`books/book-01/control/33-chapter-16-acceptance-review.md`](books/book-01/control/33-chapter-16-acceptance-review.md)
 
