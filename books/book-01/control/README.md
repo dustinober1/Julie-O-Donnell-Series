@@ -1,8 +1,8 @@
-# Canon Control Pack v3.1
+# Canon Control Pack v3.2
 
 The accepted manuscript always outranks this control pack.
 
-Version 3.1 records Chapter 13 acceptance, the 69,830-word accepted total, the 07:46:00 EDT / 17:16:00 IST Hartwell endpoint, and the dedicated Chapter 14 mission-lock gate.
+Version 3.2 records the approved Chapter 14 mission lock, **The Witness Line**, while preserving the 69,830-word accepted total, the 07:46:00 EDT / 17:16:00 IST Hartwell endpoint, and Chapter 14's undrafted/non-canon status.
 
 - [Overview](00-overview.md)
 - [1. Document Purpose and Use](01-document-purpose-and-use.md)
@@ -32,5 +32,6 @@ Version 3.1 records Chapter 13 acceptance, the 69,830-word accepted total, the 0
 - [25. Chapter Acceptance Gate](25-chapter-acceptance-gate.md)
 - [26. Repository Governance Repair Record](26-repository-governance-repair-record.md)
 - [27. Chapter 13 Acceptance Review](27-chapter-13-acceptance-review.md)
+- [28. Chapter 14 Mission Lock](28-chapter-14-mission-lock.md)
 
 Cross-book character continuity is controlled separately in [`../../../series/recurring-character-ledger.md`](../../../series/recurring-character-ledger.md).

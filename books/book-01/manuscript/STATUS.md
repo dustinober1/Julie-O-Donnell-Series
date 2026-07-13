@@ -1,6 +1,6 @@
 # Book 1 Accepted-Manuscript Status
 
-**Authoritative production state:** [`../../../PROJECT_STATE.yaml`](../../../PROJECT_STATE.yaml)  
+**Authoritative production state:** [`../../../PROJECT_STATE.yaml`](../../../PROJECT_STATE.yaml)
 **Authoritative accepted inventory:** [`../ACCEPTED_MANUSCRIPT.yaml`](../ACCEPTED_MANUSCRIPT.yaml)
 
 ## Accepted
@@ -19,6 +19,12 @@
 - None
 - Chapter 14 and later prose remain undrafted
 
+## Approved planning
+
+- Chapter 14 working title: **The Witness Line**
+- Mission lock: [`../control/28-chapter-14-mission-lock.md`](../control/28-chapter-14-mission-lock.md)
+- Mission-lock status: approved planning; not canon
+
 ## Next production action
 
-Run a dedicated Chapter 14 mission-lock planning session from the accepted Chapter 13 endpoint. Do not draft Chapter 14 prose first.
+Draft Chapter 14 under `../drafts/` from the approved mission lock. Do not add it to the accepted inventory, change the 69,830-word accepted total or 07:46 endpoint, or create accepted Chapter 14 prose before review and promotion.

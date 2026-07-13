@@ -49,7 +49,7 @@
 26. Update the thread-disposition matrix after every accepted chapter.
 27. Resolve Book 1 obligations before using a series hook to defer them.
 28. Move resolved threads into a payoff record rather than deleting them.
-29. Update the recurring-character ledger whenever a returning character’s status, knowledge, injury, relationship, legal exposure, location, or future function changes.
+29. Update the recurring-character ledger whenever a returning character's status, knowledge, injury, relationship, legal exposure, location, or future function changes.
 30. Do not assign a future-book role as canon until the character survives and reaches an accepted Book 1 end state.
 31. High-level Act III architecture may guide word budget and sequence, but chapter functions become controlling only through individual chapter locks.
 32. Plans for unwritten chapters remain non-canon.
@@ -79,10 +79,12 @@
 47. Superseded status and planning states are preserved by Git history; do not keep duplicate active copies.
 48. Archive records must say what is historical, why it is non-controlling, and where the active replacement lives.
 
-## Current application record — accepted Chapter 13
+## Current application record — accepted Chapter 13 and approved Chapter 14 mission lock
 
 - Chapter 13 was promoted only after the acceptance gate changed to **ACCEPT**.
-- The prose move, accepted inventory, project state, accepted count, endpoint, and affected controls are one intentional acceptance change.
-- The exact whitespace-delimited counter is retained at `../../../tools/count_book1_words.py`.
-- Chapter 14 remains blocked until a dedicated mission lock is approved.
-- The accepted endpoint preserves unresolved human custody, K-17, encrypted content, Phase B, and reconstruction-purpose limits.
+- The Chapter 13 prose move, accepted inventory, project state, accepted count, endpoint, and affected controls were one intentional acceptance change.
+- The exact whitespace-delimited counter remains at `../../../tools/count_book1_words.py`.
+- Chapter 14's mission is approved in `28-chapter-14-mission-lock.md`.
+- The Chapter 14 mission lock is planning only and does not alter accepted prose, word count, endpoint, or canon.
+- Chapter 14 prose must be drafted under `../drafts/` and remain there until it passes the formal acceptance gate.
+- The approved Chapter 14 plan preserves unresolved human custody, K-17, encrypted content, Phase B, and reconstruction-purpose limits.
