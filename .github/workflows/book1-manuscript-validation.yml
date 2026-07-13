@@ -48,6 +48,7 @@ jobs:
         run: |
           python - <<'PYVALIDATE'
           from pathlib import Path
+          import hashlib
           import re
 
           root = Path('.')
@@ -57,6 +58,8 @@ jobs:
           chapter15 = root / 'books/book-01/manuscript/chapters/chapter-15.md'
           chapter15_draft = root / 'books/book-01/drafts/chapter-15.md'
           review = root / 'books/book-01/control/31-chapter-15-acceptance-review.md'
+          canon_locks = root / 'books/book-01/control/04-source-of-truth-canon-locks.md'
+          maintenance = root / 'books/book-01/control/20-control-pack-maintenance-rules.md'
 
           accepted = int(re.search(r'^accepted_words:\s*(\d+)$', manifest, re.M).group(1))
           project_total = int(re.search(r'^\s+accepted_words:\s*(\d+)$', project, re.M).group(1))
@@ -64,18 +67,33 @@ jobs:
           assert project_total == accepted, (project_total, accepted)
 
           assert chapter14.is_file()
-          assert len(chapter14.read_text(encoding='utf-8').split()) == 5763
+          chapter14_text = chapter14.read_text(encoding='utf-8')
+          chapter14_data = chapter14_text.encode('utf-8')
+          chapter14_blob = hashlib.sha1(
+              f"blob {len(chapter14_data)}\0".encode('ascii') + chapter14_data
+          ).hexdigest()
+          assert chapter14_blob == '78f7fff02cd271fecbc94f7daf7151dbebbd5c6d', chapter14_blob
+          assert len(chapter14_text.split()) == 5763
+          assert not (root / 'books/book-01/drafts/chapter-14.md').exists()
+
           assert chapter15.is_file()
           assert not chapter15_draft.exists()
           assert review.is_file()
 
           text = chapter15.read_text(encoding='utf-8')
           lines = text.splitlines()
+          data = text.encode('utf-8')
+          chapter15_blob = hashlib.sha1(
+              f"blob {len(data)}\0".encode('ascii') + data
+          ).hexdigest()
+          assert chapter15_blob == 'b8e7e2ae573a6c25ea096121c75acee867f3fad2', chapter15_blob
           assert len(text.split()) == 5993
           assert lines[0] == '07:49:32 EDT / 17:19:32 IST'
           assert lines[2] == '# Chapter 15 - The Split Record'
           assert 'At 07:56:40 EDT / 17:26:40 IST' in text
           assert 'Chapter 16' not in text
+          assert 'No camera guaranteed truth. Batteries failed. Angles missed hands. Files could later be challenged.' in text
+          assert 'Batteries failed. angles missed hands. files could later be challenged.' not in text
 
           required = [
               'one hundred thirty-six sealed files',
@@ -110,11 +128,30 @@ jobs:
 
           assert 'chapters: "1-15"' in project
           assert 'accepted_words: 81586' in project
-          assert 'Chapter 16 and later prose do not exist' in review.read_text(encoding='utf-8')
+          assert 'prose_changed_during_review: true' in project
+          assert 'b8e7e2ae573a6c25ea096121c75acee867f3fad2' in project
+
+          review_text = review.read_text(encoding='utf-8')
+          assert 'Chapter 16 and later prose do not exist' in review_text
+          assert 'one capitalization-only copyedit' in review_text
+          assert 'b8e7e2ae573a6c25ea096121c75acee867f3fad2' in review_text
+
+          canon_text = canon_locks.read_text(encoding='utf-8')
+          assert 'Chapter 15 — **The Split Record** — is accepted after one capitalization-only copyedit' in canon_text
+          assert 'Reviewed and accepted blob: `b8e7e2ae573a6c25ea096121c75acee867f3fad2`' in canon_text
+
+          maintenance_text = maintenance.read_text(encoding='utf-8')
+          assert '`31-chapter-15-acceptance-review.md` records **ACCEPT** after one capitalization-only copyedit at 5,993 words.' in maintenance_text
+          assert 'the corrected blob now lives only at `../manuscript/chapters/chapter-15.md`' in maintenance_text
+
           chapter16_files = list((root / 'books/book-01').rglob('chapter-16.md'))
           assert not chapter16_files, chapter16_files
+          assert not (root / 'tools/apply_chapter15_acceptance_copyedit.py').exists()
+          assert not (root / '.github/workflows/apply-chapter-15-acceptance-copyedit.yml').exists()
+
           print(f'validated accepted total: {accepted}')
-          print('validated Chapter 15 promotion, seven-package state, and Chapter 16 absence')
+          print(f'validated Chapter 15 blob: {chapter15_blob}')
+          print('validated copyedit, promotion, control wording, seven-package state, and Chapter 16 absence')
           PYVALIDATE
 
       - name: Check whitespace errors in pull-request diff

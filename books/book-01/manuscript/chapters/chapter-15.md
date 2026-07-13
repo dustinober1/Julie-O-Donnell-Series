@@ -366,7 +366,7 @@ Ortiz checked both body-camera indicators. Park’s showed red. His showed red.
 
 Dispatch acknowledged.
 
-No camera guaranteed truth. Batteries failed. angles missed hands. files could later be challenged. Two cameras and a dispatch instruction made an unexplained gap harder to pass off as ordinary.
+No camera guaranteed truth. Batteries failed. Angles missed hands. Files could later be challenged. Two cameras and a dispatch instruction made an unexplained gap harder to pass off as ordinary.
 
 Park laid out seven numbered seals in order. None touched an original.
 

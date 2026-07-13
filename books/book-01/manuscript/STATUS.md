@@ -16,7 +16,7 @@
 - Chapter 13: **The Carrier Stream**
 - Chapter 14: **The Witness Line**
 - Chapter 15: **The Split Record**
-- Chapter 15 verdict: **ACCEPT**, unchanged at 5,993 words
+- Chapter 15 verdict: **ACCEPT**, after one capitalization-only copyedit at 5,993 words
 - Chapter 15 accepted path: [`chapters/chapter-15.md`](chapters/chapter-15.md)
 - Chapter 15 review: [`../control/31-chapter-15-acceptance-review.md`](../control/31-chapter-15-acceptance-review.md)
 
