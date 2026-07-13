@@ -118,18 +118,22 @@ The accepted-manuscript inventory in `../ACCEPTED_MANUSCRIPT.yaml` controls acce
 
 ## Chapter 15 — The Split Record
 
-- **Status:** Mission locked; no prose; non-canon planning.
+- **Status:** Complete first draft; **unaccepted and non-canon**.
+- **Draft path:** `../drafts/chapter-15.md`.
 - **Mission lock:** `30-chapter-15-mission-lock.md`.
-- **Opening:** Exact accepted Chapter 14 endpoint, 07:49:32 EDT / 17:19:32 IST.
+- **Exact draft word count:** 5,993 whitespace-delimited Markdown words.
+- **Opening:** 07:49:32 EDT / 17:19:32 IST, the exact accepted Chapter 14 endpoint.
+- **Draft endpoint:** 07:56:40 EDT / 17:26:40 IST.
 - **Dominant function:** Preserve a linked counterrecord through lawful detention, medical separation, and interim MPD evidence transfer while Masking Window Two supersedes the allied source picture.
 - **POV:** Julie close third plus one bounded Sharma cutaway.
-- **Target:** 5,700–6,400 words.
-- **Planned endpoint:** 07:56:40 EDT / 17:26:40 IST.
-- **Canon effect:** None until drafted, reviewed, accepted, and promoted.
-- **Next gate:** Draft under `../drafts/chapter-15.md`.
+- **Draft result:** Interim MPD custody and the Sharma reconstruction conflict are dramatized only in unaccepted prose.
+- **Canon effect:** None. The accepted manuscript remains Prologue and Chapters 1–14 at 75,593 words and the 07:49:32 EDT / 17:19:32 IST endpoint.
+- **Next gate:** Formal Chapter 15 acceptance, continuity, evidence-limit, injury, style, and revision review.
+- **Rule:** Do not use the draft endpoint for Chapter 16 unless Chapter 15 receives an **ACCEPT** verdict and is promoted through the full same-pass acceptance procedure.
 
 ## Chapter 16 and later
 
 - **Status:** Not drafted and not individually mission locked.
 - **Planning:** High-level functions remain provisional in `23-word-budget-and-act-iii-architecture.md`.
 - **Rule:** No later chapter function is canon until separately locked, drafted, reviewed, and accepted.
+- **Immediate prohibition:** Chapter 16 must not be drafted from the unaccepted Chapter 15 endpoint.
