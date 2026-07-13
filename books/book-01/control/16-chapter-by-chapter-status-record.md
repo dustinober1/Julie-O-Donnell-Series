@@ -146,7 +146,8 @@ Chapter 15 — **The Split Record**
 - **Accepted path:** `../manuscript/chapters/chapter-15.md`.
 - **Mission lock:** `30-chapter-15-mission-lock.md`.
 - **Acceptance review:** `31-chapter-15-acceptance-review.md` — **ACCEPT**.
-- **Reviewed blob:** `73b387872d3c4937f6598b20d4bcc90d6c46f415`.
+- **Reviewed blob:** `b8e7e2ae573a6c25ea096121c75acee867f3fad2`.
+- **Review prose change:** One capitalization-only copyedit in the body-camera paragraph; word count unchanged.
 - **Exact word count:** 5,993 whitespace-delimited Markdown words.
 - **Time:** 07:49:32–07:56:40 EDT / 17:19:32–17:26:40 IST.
 - **POV:** Julie close third plus one bounded Sharma cutaway.

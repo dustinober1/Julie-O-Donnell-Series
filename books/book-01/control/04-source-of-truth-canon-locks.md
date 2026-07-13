@@ -226,7 +226,7 @@
 ## Accepted Chapter 15 canon locks
 
 - Chapter 15 — **The Split Record** — is accepted unchanged at **5,993** words at `books/book-01/manuscript/chapters/chapter-15.md`.
-- Reviewed and accepted blob: `73b387872d3c4937f6598b20d4bcc90d6c46f415`.
+- Reviewed and accepted blob: `b8e7e2ae573a6c25ea096121c75acee867f3fad2`.
 - Accepted endpoint: **07:56:40 EDT / 17:26:40 IST**.
 - MPD incident `187463` now holds seven separately sealed packages `MPD-901441` through `MPD-901447`; no package was opened, connected, combined, altered, or transferred to Apex.
 - Marcus and Elias no longer retain the transferred originals. Julie, Marcus, and Elias are in separate MPD/EMS transport and cannot communicate directly.

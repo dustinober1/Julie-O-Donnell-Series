@@ -1095,4 +1095,4 @@ This document contains planning, state definitions, conditions, and scene archit
 
 ## Fulfillment and acceptance record
 
-The locked mission was fully dramatized by `books/book-01/manuscript/chapters/chapter-15.md` and accepted unchanged at 5,993 words. Formal verdict: **ACCEPT** in `31-chapter-15-acceptance-review.md`. Accepted endpoint: 07:56:40 EDT / 17:26:40 IST. This lock remains the production provenance for Chapter 15 and is no longer the active next gate.
+The locked mission was fully dramatized by `books/book-01/manuscript/chapters/chapter-15.md` and accepted after one capitalization-only copyedit at 5,993 words. Formal verdict: **ACCEPT** in `31-chapter-15-acceptance-review.md`. Accepted endpoint: 07:56:40 EDT / 17:26:40 IST. This lock remains the production provenance for Chapter 15 and is no longer the active next gate.

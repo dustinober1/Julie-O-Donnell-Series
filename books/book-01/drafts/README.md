@@ -7,7 +7,7 @@ This directory contains prose that may be complete, revised, or mission-locked b
 
 None.
 
-Chapter 15 — **The Split Record** — was accepted unchanged and moved to:
+Chapter 15 — **The Split Record** — was accepted after one capitalization-only copyedit and moved to:
 
 `../manuscript/chapters/chapter-15.md`
 
@@ -23,7 +23,7 @@ No active Chapter 15 draft remains. Chapter 16 and later prose do not exist.
 - Accepted words: **81,586**
 - Accepted endpoint: **07:56:40 EDT / 17:26:40 IST**
 - Chapter 15 verdict: **ACCEPT**
-- Chapter 15 accepted blob: `73b387872d3c4937f6598b20d4bcc90d6c46f415`
+- Chapter 15 accepted blob: `b8e7e2ae573a6c25ea096121c75acee867f3fad2`
 
 ## Next action
 

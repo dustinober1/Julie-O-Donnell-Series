@@ -15,7 +15,7 @@ The authoritative production status is [`PROJECT_STATE.yaml`](PROJECT_STATE.yaml
 - Accepted endpoint: **07:56:40 EDT / 17:26:40 IST**
 - Chapter 13, **The Carrier Stream**: accepted
 - Chapter 14, **The Witness Line**: accepted
-- Chapter 15, **The Split Record**: accepted unchanged at **5,993 words**
+- Chapter 15, **The Split Record**: accepted after one capitalization-only copyedit at **5,993 words**
 - Chapter 15 review: [`books/book-01/control/31-chapter-15-acceptance-review.md`](books/book-01/control/31-chapter-15-acceptance-review.md)
 - Chapter 16 and later prose: not drafted
 - Immediate production action: Chapter 16 mission planning and mission locking only

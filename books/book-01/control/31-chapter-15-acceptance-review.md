@@ -5,9 +5,20 @@
 
 **ACCEPT**
 
-Chapter 15 — **The Split Record** — satisfies the approved mission lock, the Chapter 15 acceptance gate, accepted-manuscript continuity, evidence and knowledge limits, injury mechanics, institutional realism, Narrative House Style v2.2, and the Book 1 ending contract. No prose revision was required. The reviewed 5,993-word draft is promoted unchanged into the accepted manuscript.
+Chapter 15 — **The Split Record** — satisfies the approved mission lock, the Chapter 15 acceptance gate, accepted-manuscript continuity, evidence and knowledge limits, injury mechanics, institutional realism, Narrative House Style v2.2, and the Book 1 ending contract. One capitalization-only copyedit was required in the body-camera paragraph: `angles` and `files` were capitalized after periods. The reviewed 5,993-word draft is accepted with that word-count-neutral correction.
 
 Chapter 16 was not drafted. Chapter 16 and later prose do not exist.
+
+
+## Corrective acceptance addendum — 2026-07-13
+
+- Correction baseline on `main`: `b4f654aca10e9ce7e7ebdb6256ad25e210fd7633` (PR #31 had already accepted and promoted Chapter 15).
+- Drift handling: the prior acceptance work was preserved; this pass corrected its one missed mandatory copyedit rather than reverting or duplicating the promotion.
+- Pre-correction accepted blob: `73b387872d3c4937f6598b20d4bcc90d6c46f415`.
+- Final reviewed/accepted blob: `b8e7e2ae573a6c25ea096121c75acee867f3fad2`.
+- Exact prose change: `Batteries failed. angles missed hands. files could later be challenged.` became `Batteries failed. Angles missed hands. Files could later be challenged.`
+- Pre-correction and post-correction word counts: **5,993 / 5,993**.
+- Verdict remains **ACCEPT**; accepted scope, 81,586-word total, opening, endpoint, custody state, evidence limits, and Chapter 16 prohibition are unchanged.
 
 ## 1. Repository baseline and provenance
 
@@ -19,10 +30,10 @@ Chapter 16 was not drafted. Chapter 16 and later prose do not exist.
 - Draft provenance commit: `f46b33a9d082e9da7e537e21ad964f6966682de2`
 - Acceptance branch: `agent/chapter-15-acceptance-review`
 - Reviewed draft path: `books/book-01/drafts/chapter-15.md`
-- Reviewed and final accepted blob: `73b387872d3c4937f6598b20d4bcc90d6c46f415`
+- Reviewed and final accepted blob: `b8e7e2ae573a6c25ea096121c75acee867f3fad2`
 - Pre-review count: **5,993** whitespace-delimited Markdown words
 - Final accepted count: **5,993** whitespace-delimited Markdown words
-- Prose revisions: **none**
+- Prose revisions: **one capitalization-only copyedit**
 - Accepted prose before review: Prologue and Chapters 1–14, **75,593** words
 - Prior endpoint: **07:49:32 EDT / 17:19:32 IST**
 
@@ -152,8 +163,8 @@ Finding classification:
 
 - **Blocking:** none
 - **Significant:** none
-- **Optional polish:** none authorized
-- **No change:** complete chapter prose
+- **Required copyedit:** one capitalization-only correction in the body-camera paragraph
+- **No further change:** all other chapter prose
 
 ## 11. Ending-contract and word-budget implications
 
@@ -181,7 +192,7 @@ The 5,993-word chapter lies inside its 5,700–6,400 planning range. New accepte
 
 This ACCEPT verdict authorizes the same-pass promotion:
 
-1. Move the unchanged Chapter 15 blob to `books/book-01/manuscript/chapters/chapter-15.md`.
+1. Retain the corrected Chapter 15 blob at `books/book-01/manuscript/chapters/chapter-15.md`.
 2. Remove the active draft copy.
 3. Add Chapter 15 to `ACCEPTED_MANUSCRIPT.yaml`.
 4. Set the accepted total to **81,586**.
