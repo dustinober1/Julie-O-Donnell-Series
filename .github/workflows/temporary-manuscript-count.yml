@@ -29,7 +29,8 @@ jobs:
           echo start > publish-stage.txt
 
           cat .tmp/ch13-final-00 .tmp/ch13-final-01 .tmp/ch13-final-02 .tmp/ch13-final-03 \
-              .tmp/ch13-final-04 .tmp/ch13-final-05 .tmp/ch13-final-06 .tmp/ch13-final-07 \
+              .tmp/ch13-final-04 .tmp/ch13-final-05a .tmp/ch13-final-05b \
+              .tmp/ch13-final-06 .tmp/ch13-final-07 \
             | base64 --decode | gzip --decompress > /tmp/ch13-final.patch
           echo "${EXPECTED_PATCH}  /tmp/ch13-final.patch" | sha256sum --check
           echo patch-reconstructed-and-verified > publish-stage.txt
