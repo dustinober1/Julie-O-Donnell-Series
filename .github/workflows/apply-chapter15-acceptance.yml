@@ -1,6 +1,10 @@
 name: Apply Chapter 15 acceptance
 
 on:
+  pull_request:
+    branches: [main]
+    paths:
+      - ".github/workflows/apply-chapter15-acceptance.yml"
   push:
     branches: [agent/chapter-15-acceptance-review]
     paths:
