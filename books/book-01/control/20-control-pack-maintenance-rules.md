@@ -79,26 +79,27 @@
 47. Superseded status and planning states are preserved by Git history; do not keep duplicate active copies.
 48. Archive records must say what is historical, why it is non-controlling, and where the active replacement lives.
 
-## Current application record — accepted Chapter 14 and approved Chapter 15 mission lock
-
-- `29-chapter-14-acceptance-review.md` records **ACCEPT** unchanged at 5,763 words.
-- Accepted inventory remains Prologue and Chapters 1–14 at 75,593 words.
-- Accepted endpoint remains 07:49:32 EDT / 17:19:32 IST under MPD scene control.
-- Primary evidence remains separated and untransferred in accepted canon.
-- Presenter, exact serial, Phase B, K-17, plaintext, Masking Window Two consequence, and reconstruction purpose remain unresolved in accepted canon.
-- `30-chapter-15-mission-lock.md` is approved planning only.
-- The Chapter 15 plan does not alter accepted prose, count, endpoint, character state, evidence custody, or canon.
-- Chapter 15 prose must be drafted only under `../drafts/chapter-15.md`.
-- The planned interim MPD transfer, Sharma reconstruction cutaway, and 07:56:40 endpoint remain non-canon until accepted prose dramatizes them.
-- The next gate is Chapter 15 first-draft production followed by the formal acceptance gate.
-
 ## Current application record — accepted Chapter 15
 
 - `31-chapter-15-acceptance-review.md` records **ACCEPT** after one capitalization-only copyedit at 5,993 words.
 - Accepted inventory is Prologue and Chapters 1–15 at **81,586** words.
 - Accepted endpoint is **07:56:40 EDT / 17:26:40 IST**.
-- The Chapter 15 draft has been removed; the corrected blob now lives only at `../manuscript/chapters/chapter-15.md`.
+- The Chapter 15 draft has been removed; the corrected blob lives only at `../manuscript/chapters/chapter-15.md`.
 - Seven originals are separately sealed in MPD custody; no final federal/technical intake is established.
-- All affected status, timeline, character, relationship, evidence, knowledge, technology, authority, location, antagonist, public-narrative, thread, Act III, word-budget, recurring-character, manuscript, draft, root, and validation controls were synchronized in the promotion pass.
 - Book 1 remains not publication-ready.
-- The next gate is Chapter 16 mission planning and mission locking only.
+
+## Current application record — approved Chapter 16 mission lock
+
+- `32-chapter-16-mission-lock.md` is the approved pre-draft control for Chapter 16 — **The Hold Order**.
+- The lock opens exactly at the accepted Chapter 15 endpoint: **07:56:40 EDT / 17:26:40 IST**.
+- The accepted manuscript remains Prologue and Chapters 1–15 at **81,586** words.
+- `../ACCEPTED_MANUSCRIPT.yaml`, accepted prose, accepted count, and accepted endpoint are unchanged.
+- The lock’s dominant function is to force a named federal preservation authority behind the interim MPD chain while all seven packages remain separate, sealed, offline, and in MPD custody.
+- The planned POV is Julie primary, one bounded Marcus ambulance cutaway, one bounded Sharma cutaway, and a return to Julie.
+- The target range is **5,800–6,500 words**.
+- The maximum planned endpoint is **08:16:40 EDT / 17:46:40 IST**.
+- The lock requires Marcus’s attributable six-years-ago correction, Hackett’s named preservation choice, and a bounded allied preservation acknowledgment.
+- The lock prohibits resolution of Hartwell presenter/serial, WSS plaintext, K-17 access, Phase B, reconstruction truth/authorship/purpose, final federal custody, technical merits, and public vindication.
+- The mission lock is planning only and does not update timeline, character, relationship, evidence, knowledge, technology, organization, location, antagonist, public-narrative, or recurring-character canon.
+- Chapter 16 may be drafted only at `../drafts/chapter-16.md`.
+- Do not draft Chapter 17 or create a complete remainder-of-Act-III outline during Chapter 16 drafting.
