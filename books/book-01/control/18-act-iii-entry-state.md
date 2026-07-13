@@ -63,7 +63,7 @@ Officer Gabriel Ortiz, badge 4172, remains the interim receiving officer. Office
 - The locked chest has crossed the secure MPD intake threshold.
 - Every package remains separate, sealed, offline, unopened, unconnected, uncombined, and physically with MPD.
 - Hackett’s written and recorded hold is attached to the incident but is not inside any sealed package.
-- The generic federal claim remains pending because no one verified named officer has accepted all seven packages, all seal conditions, the interpretation limitation, and responsibility for the next location in one documented act.
+- The generic federal claim remains pending because no single verified named officer has accepted all seven packages, all seal conditions, the interpretation limitation, and responsibility for the next location in one documented act.
 - MPD receipt and intake records establish custody only; they do not authenticate technical meaning, establish original truth, determine ownership or classification, decide guilt or innocence, or exonerate the trio.
 
 ## Independently controlled records
