@@ -7,47 +7,46 @@ The authoritative production status is `../../../PROJECT_STATE.yaml`. The author
 | Item | Status |
 |---|---|
 | Prologue | Accepted |
-| Chapters 1–15 | Accepted |
+| Chapters 1–16 | Accepted |
 | Act I | Complete |
 | Act II | Complete |
-| Act III | Chapters 13–15 accepted; Chapter 16 mission locked, not drafted |
-| Accepted length | 81,586 words |
+| Act III | Chapters 13–16 accepted; Chapter 17 requires mission planning and mission locking only |
+| Accepted length | 87,610 words |
 | Planning target | 112,500 words |
 | Target range | 100,000–125,000 words |
-| Accepted endpoint | Chapter 15, 07:56:40 EDT / 17:26:40 IST |
-| Chapter 15 | Accepted, **The Split Record** |
-| Chapter 15 path | `../manuscript/chapters/chapter-15.md` |
-| Chapter 15 review | `31-chapter-15-acceptance-review.md` — ACCEPT |
-| Chapter 16 mission lock | `32-chapter-16-mission-lock.md` — approved planning |
-| Chapter 16 working title | **The Hold Order** |
-| Chapter 16 prose | Not drafted |
-| Immediate production gate | Draft Chapter 16 under `../drafts/chapter-16.md` from the approved mission lock |
+| Accepted endpoint | Chapter 16, 08:15:52 EDT / 17:45:52 IST |
+| Chapter 16 | Accepted, **The Hold Order** |
+| Chapter 16 path | `../manuscript/chapters/chapter-16.md` |
+| Chapter 16 review | `33-chapter-16-acceptance-review.md` — ACCEPT |
+| Chapter 16 reviewed blob | `dd5249f4b510a9da9ad19ab2902a95ce1e62a1d8` |
+| Chapter 17 prose | Not drafted |
+| Immediate production gate | Chapter 17 mission planning and mission locking only |
 
 ## Accepted endpoint
 
-At 07:56:40 EDT / 17:26:40 IST:
+At 08:15:52 EDT / 17:45:52 IST:
 
-- Julie is inside the rear of a marked MPD vehicle under injury-compatible front restraint.
-- Marcus is in guarded ambulance care at the west-gate staging route on oxygen, oriented, with saturation at 92–93 percent on support.
-- Elias is in separate guarded medical transport moving toward the opposite ramp.
-- MPD incident `187463` holds seven separately sealed packages `MPD-901441` through `MPD-901447`.
-- Officer Gabriel Ortiz is the interim receiving officer; Officer Hannah Park is the witness officer.
-- No package has been opened, connected, combined, altered, or transferred to Apex or a federal examiner.
-- No final federal receiver, independent technical intake, charge, warrant, or adjudication exists.
-- The MPD receipt establishes interim handling and custody only.
-- The superseding allied product has controlled the actionable picture since 07:54 EDT / 17:24 IST.
-- Sharma separately preserves the prior and superseding products, source-review photograph, local sensor references, abort, and no-fire records as one challenged incident set.
-- Julie does not know Sharma’s action or the no-fire outcome.
-- Hartwell presenter/exact serial, compact-case contents, WSS plaintext, K-17 access, Phase B, reconstruction authorship/purpose/truth, final custody, and public fracture remain unresolved.
+- Julie is restrained in the rear of marked MPD transport at the secure evidence-intake threshold.
+- Marcus is in guarded ambulance/medical custody on four liters of oxygen; EMS ended his statement at the medical boundary.
+- Elias is in separate guarded medical transport, without the board or module and without a new technical action.
+- MPD incident `187463` retains packages `MPD-901441` through `MPD-901447` separately sealed and offline.
+- Officer Gabriel Ortiz remains the interim receiving officer; Officer Hannah Park remains the witness officer.
+- General William Hackett is the named federal preservation sponsor/requesting authority.
+- No federal physical transfer occurs because no verified named officer accepts the complete seven-package incident, current seal conditions, interpretation limitation, and next location in one documented act.
+- No package is opened, connected, combined, altered, decrypted, imaged, or technically interpreted.
+- A restricted allied preservation acknowledgment is linked to the hold without disclosing local identity, the no-fire result, unrestricted sensor geography, or technical merits.
+- No final federal receiver, independent technical examiner, charge, warrant, adjudication, exoneration, or public vindication exists.
+- Hartwell presenter/exact serial, compact-case contents, WSS plaintext, K-17 access, Phase B, reconstruction authorship/purpose/truth, and the immediate field outcome remain unresolved.
 
 ## Current character state
 
-- **Julie:** Right wrist swollen, braced, and materially impaired; exhausted; publicly recognizable; no firearm; detained under MPD control; no original evidence.
-- **Marcus:** Severe rib, scalp, thigh, boot, balance, breathing, and mobility limitations; guarded ambulance care; oxygen support; no original evidence; formal six-years-ago correction still required.
-- **Elias:** Hip injury, bandaged/clumsy right index, dizziness, exhaustion, and tremor; separate guarded medical transport; no board or module custody.
-- **Ortiz/MPD:** Controls the seven sealed packages and interim custody without endorsing the trio’s interpretation.
-- **Apex/Mercer:** May assert classification or property claims but holds no original.
-- **Sharma/Qureshi:** Retain independently controlled product, anomaly, abort, and no-fire records; no contact with Julie.
+- **Julie:** Right wrist swollen, braced, and materially impaired; exhausted; publicly recognizable; unarmed; detained; without original evidence; knows only that a second record owner acknowledged preservation.
+- **Marcus:** Severe rib, scalp, thigh, boot, balance, breathing, and mobility limitations; on oxygen in guarded medical custody; no original evidence; his six-years-ago correction is attributable and professionally costly.
+- **Elias:** Hip injury, bandaged/clumsy right index, dizziness, exhaustion, and tremor; separate guarded medical transport; no board or module custody; voluntary agency preserved but legal status unresolved.
+- **Hackett:** Named preservation sponsor who accepts responsibility for federal routing and scope while MPD retains physical custody; not examiner, final receiver, or instant ally.
+- **Ortiz/MPD:** Controls physical custody and secure intake without endorsing the trio’s interpretation.
+- **Apex/Mercer/Chen:** May assert claims and control their own records but hold no original and make no final Chapter 16 choice.
+- **Sharma/Qureshi:** Retain independently controlled products, anomaly, abort, and no-fire records; provide only a bounded acknowledgment; have no contact with Julie.
 
 ## Evidence state
 
@@ -61,34 +60,30 @@ At 07:56:40 EDT / 17:26:40 IST:
 - `MPD-901446` — administrator-token board `EAT-0881147`
 - `MPD-901447` — dual-partition incident module `FEM-240673`
 
+All seven remain separately sealed, offline, unopened, unconnected, uncombined, and physically in MPD custody.
+
 ### Independently controlled records
 
-- MPD body cameras and dispatch cross-reference
+- MPD body cameras, dispatch, and secure-intake records
 - commercial-garage and traffic/private-loading records
 - Hartwell held local-challenge/access record
-- WSS-4 local audit
+- WSS-4 local audit, sponsor, controller, and external-chain records
 - Apex/Chen directives and incident records
 - Sharma/Qureshi challenged allied incident set
 
-MPD custody of the packages does not create possession or authentication of the external records.
+Hackett’s hold requests preservation and connects references; it does not transfer or authenticate these external records.
 
-## Approved Chapter 16 mission
+## Chapter 16 accepted advancement
 
-Chapter 16 — **The Hold Order** — must:
-
-- open exactly at 07:56:40 EDT / 17:26:40 IST;
-- force a named federal preservation authority behind the MPD chain without surrendering the packages to an unnamed claimant;
-- keep all seven packages separate, sealed, offline, and physically in MPD custody;
-- use Julie as primary POV, one bounded Marcus ambulance cutaway, one bounded Sharma cutaway, and a return to Julie;
-- make Marcus place his six-years-ago correction on an attributable record under EMS control;
-- require General Hackett to make a concrete named preservation choice without authenticating evidence or promising exoneration;
-- create a bounded allied preservation acknowledgment tied to Sharma’s challenged record without direct contact or a truth finding;
-- leave Hartwell presenter/serial, WSS plaintext, K-17 access, Phase B, reconstruction purpose, final federal custody, technical findings, and public fracture unresolved;
-- target 5,800–6,500 words; and
-- end no later than 08:16:40 EDT / 17:46:40 IST at a secure MPD evidence-intake threshold with no final technical receiver.
+- Independent counterrecord moved from mobile interim seizure to secure MPD intake under named preservation sponsorship.
+- Marcus’s private confession became an attributable correction with disciplinary and legal risk.
+- Hackett made the concrete institutional choice required by the Book 1 ending contract.
+- Sharma’s independent record became causally reachable through a bounded preservation acknowledgment.
+- The chapter preserved the distinction between custody, sponsorship, technical examination, and public narrative.
+- The public account did not fracture; the internal contradiction is only staged for later authenticated use.
 
 ## Immediate production action
 
-Read the accepted Prologue and Chapters 1–15, `32-chapter-16-mission-lock.md`, relevant active controls, and Narrative House Style v2.2 in full. Then draft Chapter 16 only under `../drafts/chapter-16.md`.
+Read accepted Chapters 13–16, `33-chapter-16-acceptance-review.md`, the ending contract, thread disposition matrix, active state/evidence/knowledge controls, and Narrative House Style v2.2 in full. Then create a dedicated **Chapter 17 mission lock only** from the accepted Chapter 16 endpoint.
 
-Do not modify accepted prose, `../ACCEPTED_MANUSCRIPT.yaml`, the accepted word count, or the accepted endpoint during drafting. Do not draft Chapter 17 or create a complete remainder-of-Act-III outline.
+Do not draft Chapter 17. Do not create a complete chapter-by-chapter outline for the remainder of Act III. Do not treat the provisional architecture as story canon.
