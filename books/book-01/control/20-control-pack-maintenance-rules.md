@@ -84,7 +84,7 @@
 - `31-chapter-15-acceptance-review.md` records **ACCEPT** after one capitalization-only copyedit at 5,993 words.
 - Accepted inventory is Prologue and Chapters 1–15 at **81,586** words.
 - Accepted endpoint is **07:56:40 EDT / 17:26:40 IST**.
-- The Chapter 15 draft has been removed; the corrected blob lives only at `../manuscript/chapters/chapter-15.md`.
+- The Chapter 15 draft has been removed; the corrected blob now lives only at `../manuscript/chapters/chapter-15.md`.
 - Seven originals are separately sealed in MPD custody; no final federal/technical intake is established.
 - Book 1 remains not publication-ready.
 
