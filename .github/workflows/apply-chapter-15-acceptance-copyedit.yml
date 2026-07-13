@@ -28,8 +28,7 @@ jobs:
         shell: bash
         run: |
           python tools/apply_chapter15_acceptance_copyedit.py
-          rm tools/apply_chapter15_acceptance_copyedit.py
-          rm .github/workflows/apply-chapter-15-acceptance-copyedit.yml
+          git checkout HEAD -- .github/workflows/book1-manuscript-validation.yml
 
       - name: Validate corrected acceptance state
         shell: bash
@@ -44,8 +43,6 @@ jobs:
           assert not Path('books/book-01/drafts/chapter-14.md').exists()
           assert not Path('books/book-01/drafts/chapter-15.md').exists()
           assert not list(Path('books/book-01').rglob('chapter-16.md'))
-          assert not Path('tools/apply_chapter15_acceptance_copyedit.py').exists()
-          assert not Path('.github/workflows/apply-chapter-15-acceptance-copyedit.yml').exists()
 
           text14 = chapter14.read_text(encoding='utf-8')
           text15 = chapter15.read_text(encoding='utf-8')
@@ -71,12 +68,15 @@ jobs:
           print('chapter15_blob=' + blob15)
           PY
           git diff --check
+          test -e tools/apply_chapter15_acceptance_copyedit.py
+          test -e .github/workflows/apply-chapter-15-acceptance-copyedit.yml
+          test -z "$(git diff --name-only -- .github/workflows)"
 
       - name: Commit corrected acceptance state
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A
+          git add PROJECT_STATE.yaml README.md books/book-01 series/recurring-character-ledger.md
           git commit -m "Correct Chapter 15 acceptance copyedit"
           git push origin HEAD:agent/chapter-15-acceptance-copyedit
