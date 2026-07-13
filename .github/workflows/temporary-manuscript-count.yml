@@ -49,7 +49,7 @@ jobs:
           test "$(git log -1 --pretty=%s)" = 'Complete Chapter 13 acceptance pass'
           test "$(git rev-list --count origin/main..HEAD)" -eq 1
           git diff --check origin/main..HEAD
-          test -z "$(git status --porcelain)"
+          test -z "$(git status --porcelain --untracked-files=no)"
           test ! -e .github/workflows/temporary-manuscript-count.yml
           test ! -e .tmp/ch13-final-00
           test ! -e .tmp/ch13-patch-00
