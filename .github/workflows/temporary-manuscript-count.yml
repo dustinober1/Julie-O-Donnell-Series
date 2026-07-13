@@ -6,7 +6,7 @@ on:
       - agent/chapter-13-acceptance-pass
   pull_request:
     branches:
-      - agent/chapter-13-workflow-base
+      - main
 
 permissions:
   contents: write
