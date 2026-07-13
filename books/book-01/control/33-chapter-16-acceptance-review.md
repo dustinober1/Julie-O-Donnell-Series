@@ -3,30 +3,45 @@
 **Chapter:** 16 — *The Hold Order*
 **Review date:** 2026-07-13
 **Repository:** `dustinober1/Julie-O-Donnell-Series`
-**Review branch:** `agent/chapter-16-acceptance-review`
+**Initial review branch:** `agent/chapter-16-acceptance-review`
+**Corrective review branch:** `agent/chapter-16-pov-firewall-repair`
 **Formal verdict:** **ACCEPT**
 
 ## 1. Repository baseline and drift
 
-- Expected and verified starting `main`: `392913484b3ecf97b5902350e3fd99ac7771dc78`.
-- Default branch: `main`.
-- PR #34 was merged at the verified baseline.
-- Intervening commits: none.
+- Expected initial review baseline: `392913484b3ecf97b5902350e3fd99ac7771dc78`.
+- Initial Chapter 16 acceptance PR: #35, squash-merged as `5f7c91a57c8c22ddceec57635e4b1b030f2565f2`.
+- Corrective review baseline: `5f7c91a57c8c22ddceec57635e4b1b030f2565f2`.
+- Drift handling: the accepted Chapter 16 promotion was preserved. This corrective pass repairs the accepted prose and reconciles active Chapter 16 status controls that still duplicated the superseded pre-acceptance state.
 - Chapter 14 protected blob: `78f7fff02cd271fecbc94f7daf7151dbebbd5c6d`.
 - Chapter 15 protected blob: `b8e7e2ae573a6c25ea096121c75acee867f3fad2`.
-- Accepted baseline before promotion: Prologue and Chapters 1–15, 81,586 words, ending at 07:56:40 EDT / 17:26:40 IST.
+- Accepted manuscript remains Prologue and Chapters 1–16 at 87,610 words.
 
-## 2. Reviewed text
+## 2. Reviewed text and revision record
 
-- Starting draft path: `books/book-01/drafts/chapter-16.md`.
-- Starting blob: `ff6fbaa66170a03502589309b3d1c2d74b50a289`.
+- Starting draft path at the initial review: `books/book-01/drafts/chapter-16.md`.
+- Accepted path: `books/book-01/manuscript/chapters/chapter-16.md`.
+- Starting accepted blob before the corrective pass: `ff6fbaa66170a03502589309b3d1c2d74b50a289`.
 - Original exact whitespace-delimited Markdown count: **6,024 words**.
 - Final reviewed count: **6,024 words**.
-- Words added: **0**.
-- Words removed: **0**.
-- Prose changed during review: **No**.
-- Final reviewed blob: `ff6fbaa66170a03502589309b3d1c2d74b50a289`.
-- Accepted path after promotion: `books/book-01/manuscript/chapters/chapter-16.md`.
+- Net words added: **0**.
+- Net words removed: **0**.
+- Passages revised: **3**, all inside the bounded Sharma cutaway.
+- Words rephrased: **123**, replaced with 123 words.
+- Prose changed during review: **Yes**.
+- Final reviewed blob: `dd5249f4b510a9da9ad19ab2902a95ce1e62a1d8`.
+
+### Surgical revision
+
+The initial accepted text used narrator-level contrast that named facts Sharma had not received:
+
+1. Julie O'Donnell, Metropolitan Police, seven packages, and Washington;
+2. the Hartwell office-device event and Payload 88; and
+3. Metropolitan Police's incident number as the route trigger.
+
+Those passages did not make Sharma act on the information, but they violated the locked close-third knowledge firewall by importing reader/Washington knowledge into her movement through narrator privilege. They were replaced with viewpoint-safe language limited to what Sharma can observe in the preservation envelope: an unnamed American subject, an unspecified police incident and package count, an unidentified triggering incident, product-status neutrality, unfamiliar incident references, and the bounded requesting channel.
+
+The replacements preserve the original word count, scene timing, request contents, character choices, evidence state, and chapter endpoint.
 
 ## 3. Opening, endpoint, and timeline
 
@@ -35,7 +50,7 @@
 - Live interval: **19 minutes 12 seconds**.
 - Maximum allowed endpoint: 08:16:40 EDT / 17:46:40 IST.
 - EDT/IST offset remains exactly 9 hours 30 minutes throughout.
-- Garage hold, recorded callback, ambulance statement, allied preservation routing, MPD convoy movement, and secure intake all fit the interval without impossible travel or processing.
+- Garage hold, recorded callback, ambulance statement, allied preservation routing, MPD convoy movement, and secure intake fit the interval without impossible travel or processing.
 
 ## 4. POV execution
 
@@ -46,23 +61,23 @@ The chapter uses exactly four bounded close-third movements:
 3. Sharma — Forward Post Arjun.
 4. Julie — secure MPD evidence intake.
 
-Julie remains dominant. There is no Elias POV, antagonist POV, omniscient explanation, or unavailable-knowledge leakage.
+Julie remains dominant. There is no Elias POV or antagonist POV. After the corrective revision, Sharma's movement contains no narrator-level Washington, Hartwell, Payload 88, MPD-specific, or seven-package knowledge that did not cross the allied boundary.
 
 ## 5. Mission-lock compliance
 
-The locked dominant function is fully executed. On the page:
+The locked dominant function is fully executed:
 
 - Julie's exact custody question exposes the missing receiving responsibility.
 - Ortiz remains neutral, procedural, and evidence-limited rather than becoming Julie's ally.
-- Marcus places the complete six-years-ago correction on an attributable, recorded government/MPD channel.
+- Marcus places the complete six-years-ago correction on an attributable government/MPD record.
 - Marcus accepts disciplinary and legal exposure without apology, forgiveness, or self-exoneration.
 - EMS controls the call and ends it immediately at the medical boundary; no one asks one more question.
 - Hackett states his name, office, and authority; identifies incident `187463`; and names all seven package references.
 - Hackett requires the seven packages to remain separate, sealed, offline, unopened, unconnected, and uncombined.
 - MPD retains physical custody.
-- No federal physical transfer may occur until one verified named officer accepts the entire incident, all seven packages, all seal conditions, the interpretation limitation, and the next location in one documented act.
-- Hackett's action is a preservation sponsorship and interagency hold request, not a transfer order, technical finding, ownership decision, or immunity promise.
-- Sharma receives only bounded identifiers and record categories, preserves both product status and caveats, and declares neither product true or false.
+- No federal physical transfer may occur until one verified named officer accepts the complete incident in one documented act.
+- Hackett's action remains preservation sponsorship, not a transfer order, technical finding, ownership decision, or immunity promise.
+- Sharma receives only bounded identifiers and record categories, preserves product status with caveats, and declares neither product true nor false.
 - Julie learns only that a restricted allied preservation acknowledgment exists.
 - All seven packages cross the secure MPD intake threshold intact.
 - No final federal receiver or technical examiner exists at the endpoint.
@@ -77,33 +92,25 @@ Marcus corrects the exact institutional failure established in the Prologue: Jul
 
 ## 7. Hackett choice assessment
 
-Hackett makes a named and reviewable institutional choice. His office sponsors preservation while MPD retains the property. He neither commands MPD evidence handling nor becomes the examiner or final receiver. His written instruction preserves the common incident and external record targets without deciding technical merits, guilt, innocence, ownership, admissibility, immunity, or exoneration.
+Hackett makes a named, reviewable institutional choice. His office sponsors preservation while MPD retains the property. He neither commands MPD evidence handling nor becomes the examiner or final receiver. His written instruction preserves the common incident and external record targets without deciding technical merits, guilt, innocence, ownership, admissibility, immunity, or exoneration.
 
 **Assessment:** institutionally plausible and fully compliant.
 
 ## 8. Sharma action assessment
 
-Sharma acts only on the bounded bilateral preservation request. She identifies local custody and preserved categories, records operational status together with caveats, protects unrestricted sensor geography, and refuses a merits conclusion that the request does not make. The outward acknowledgment exposes category, custody, caveats, and restriction—not the no-fire result or unrestricted operational content.
+Sharma acts only on the bounded bilateral preservation request. She identifies local custody and preserved categories, records operational status together with caveats, protects unrestricted sensor geography, and refuses a merits conclusion that the request does not make. The outward acknowledgment exposes category, custody, caveats, and restriction—not the no-fire result or unrestricted operational content. The corrected narration now remains fully inside what she can observe, know, and infer.
 
 **Assessment:** preserves agency, allied-boundary realism, and the knowledge firewall.
 
 ## 9. Evidence and custody findings
 
-All seven references remain distinct:
-
-- `MPD-901441`
-- `MPD-901442`
-- `MPD-901443`
-- `MPD-901444`
-- `MPD-901445`
-- `MPD-901446`
-- `MPD-901447`
+All seven references remain distinct: `MPD-901441` through `MPD-901447`.
 
 No package is opened, connected, imaged, mounted, decrypted, combined, or technically interpreted. WSS-4 remains encrypted. Sponsorship, physical custody, and technical authentication remain separate. Apex's claim remains logged but does not create custody. A later offer to accept only `MPD-901441` is correctly refused because it does not satisfy the complete-incident hold.
 
 ## 10. Knowledge-boundary findings
 
-Julie does not learn Sharma's identity, the Indian no-fire outcome, the allied record contents, K-17's physical outcome, or Phase B's meaning. Sharma does not learn Julie's identity, the complete Washington narrative, the seven MPD packages, or the trio's current location.
+Julie does not learn Sharma's identity, the Indian no-fire outcome, the allied record contents, K-17's physical outcome, or Phase B's meaning. Sharma does not learn Julie's identity, the complete Washington narrative, MPD incident `187463`, the seven MPD packages, Hartwell custody events, WSS-4 contents, or the trio's current location.
 
 The chapter does not establish the Hartwell presenter, exact challenged serial, compact black case contents, Sterling's physical possession of `SSO-NS-004`, Vance's personal keystrokes, Tariq's physical presence at a terminal, K-17 access, Phase B authorization or completion, or reconstruction authorship, purpose, or truth.
 
@@ -125,7 +132,7 @@ The hostile armed-insider account remains dominant. A news report describes the 
 
 ## 14. House-style findings
 
-The chapter remains close-third past tense, enters at the live custody problem, and ends at the transformed threshold. Dialogue carries authority, custody, correction, and record-making rather than generic banter. Exact wording appears where it creates evidence. Object geography, restraint mechanics, oxygen state, package movement, callback routing, and intake sequence remain legible. Repeated limitations are retained only when a new audience, overclaim, custody decision, or knowledge boundary makes them consequential. No legal-memorandum drift, melodrama, living-author imitation, or unjustified explanatory compression requires a prose edit.
+The chapter remains close-third past tense, enters at the live custody problem, and ends at the transformed threshold. Dialogue carries authority, custody, correction, and record-making rather than generic banter. Exact wording appears where it creates evidence. Object geography, restraint mechanics, oxygen state, package movement, callback routing, and intake sequence remain legible. The surgical revision removes narrator privilege from the Sharma movement without flattening dramatic irony or allied-boundary pressure. No other prose edit is required.
 
 ## 15. Findings by severity
 
@@ -135,7 +142,8 @@ None.
 
 ### Significant
 
-None.
+- **Corrected — prose:** Three passages in the Sharma cutaway named Washington/Hartwell/Payload 88/MPD details that had not crossed the allied boundary. This violated the approved close-third knowledge firewall through narrator privilege. The passages were replaced with equal-count viewpoint-safe language.
+- **Corrected — control synchronization:** Active Chapter 16 status controls still duplicated the superseded first-draft state after promotion. `00-overview.md`, `02-current-project-state.md`, `README.md`, `16-chapter-by-chapter-status-record.md`, `18-act-iii-entry-state.md`, `20-control-pack-maintenance-rules.md`, and `32-chapter-16-mission-lock.md` were reconciled so current status is singular and historical planning remains explicitly labeled as provenance.
 
 ### Moderate
 
@@ -147,7 +155,7 @@ None.
 
 ### No change
 
-The complete draft is already the strongest available execution. Every reviewed scene and paragraph remains unchanged. No problem was invented to justify revision.
+All prose outside the three corrected Sharma passages remains unchanged. No additional problem was invented to justify revision.
 
 ## 16. Threads advanced
 
@@ -173,12 +181,16 @@ The complete draft is already the strongest available execution. Every reviewed 
 - Reconstruction authorship, purpose, and truth.
 - Public vindication or public fracture of the hostile account.
 
-## 18. Formal verdict and accepted-manuscript effect
+## 18. Control synchronization
+
+Current status, accepted-path, reviewed-blob, revision-classification, and next-gate references are synchronized. Historical pre-acceptance records remain only where explicitly labeled as superseded provenance. The accepted manifest total and endpoint do not change because the prose revision is word-count neutral.
+
+## 19. Formal verdict and accepted-manuscript effect
 
 **ACCEPT**.
 
-Chapter 16 passes the mission lock and Chapter acceptance gate with no prose revision. Promotion moves the unchanged reviewed blob to the accepted manuscript, removes the draft copy, extends the accepted inventory through Chapter 16, increases the accepted total from 81,586 to **87,610 words**, and advances the canon endpoint to **08:15:52 EDT / 17:45:52 IST** at secure MPD evidence intake under Hackett's named preservation hold.
+Chapter 16 passes the mission lock and Chapter acceptance gate after one surgical POV-firewall revision. The corrected reviewed blob remains at the accepted manuscript path. The accepted inventory, 87,610-word total, opening, endpoint, custody state, and next production gate are unchanged.
 
-## 19. Next production gate
+## 20. Next production gate
 
 Conduct **Chapter 17 mission planning and mission locking only** from the accepted Chapter 16 endpoint. Do not draft Chapter 17. Do not create a complete chapter-by-chapter outline for the remainder of Act III.
