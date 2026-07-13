@@ -16,9 +16,23 @@ Its formal review is:
 
 Chapter 15 and later prose have not been drafted.
 
+## Approved Chapter 15 planning
+
+- Mission lock: `../control/30-chapter-15-mission-lock.md`
+- Working title: **The Split Record**
+- Opening: 07:49:32 EDT / 17:19:32 IST
+- Planned endpoint: 07:56:40 EDT / 17:26:40 IST
+- Target: 5,700–6,400 words
+- POV: Julie close third plus one bounded Sharma cutaway
+- Status: approved planning only; not story canon
+
 ## Next action
 
-Run a dedicated Chapter 15 mission-planning and mission-lock session. Do not draft Chapter 15 in that session.
+Draft Chapter 15 at:
+
+`chapter-15.md`
+
+The drafting session must read the accepted manuscript and the Chapter 15 mission lock in full before producing prose.
 
 ## Rules
 
@@ -28,4 +42,4 @@ Run a dedicated Chapter 15 mission-planning and mission-lock session. Do not dra
 4. Draft revisions stay here until the chapter acceptance gate is complete.
 5. Promotion must move prose into `../manuscript/`, update `../ACCEPTED_MANUSCRIPT.yaml`, update `../../../PROJECT_STATE.yaml`, and update every affected control in the same pass.
 6. Rejected or superseded drafts remain recoverable through Git history; do not create multiple active files with names such as `final`, `final2`, or `latest`.
-7. Do not create a Chapter 15 draft before its mission lock is approved.
+7. Chapter 15 must not be added to the accepted inventory or manuscript directory until formal acceptance.
