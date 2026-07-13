@@ -40,7 +40,7 @@ active_book:
     acts:
       act_i: "complete"
       act_ii: "complete"
-      act_iii: "Chapter 13 accepted; later Act III chapters not drafted"
+      act_iii: "Chapter 13 accepted; Chapter 14 mission locked but not drafted; later Act III chapters not drafted"
     endpoint:
       chapter: 13
       eastern: "07:46:00 EDT"
@@ -59,11 +59,11 @@ active_book:
 
   drafts:
     active_chapter_drafts: []
-    chapter_14: "not drafted"
+    chapter_14: "mission locked; prose not drafted"
 
   future_prose:
     chapter_14_and_later: "not drafted"
-    rule: "Do not draft Chapter 14 until a dedicated Chapter 14 mission lock is approved from the accepted Chapter 13 endpoint"
+    rule: "Draft Chapter 14 only under books/book-01/drafts/ from the approved Chapter 14 mission lock; no prose becomes canon before review and promotion"
 
   planning_controls:
     ending_contract: "books/book-01/control/22-book-1-ending-contract.md"
@@ -72,6 +72,7 @@ active_book:
     chapter_acceptance_gate: "books/book-01/control/25-chapter-acceptance-gate.md"
     governance_repair_record: "books/book-01/control/26-repository-governance-repair-record.md"
     chapter_13_review: "books/book-01/control/27-chapter-13-acceptance-review.md"
+    chapter_14_mission_lock: "books/book-01/control/28-chapter-14-mission-lock.md"
     series_character_ledger: "series/recurring-character-ledger.md"
 
   narrative_house_style:
@@ -120,9 +121,10 @@ critical_status:
     status: "ACCEPT"
     review: "books/book-01/control/27-chapter-13-acceptance-review.md"
   chapter_14_mission_lock:
-    severity: "current production gate"
-    status: "open"
-    next_action: "Run a dedicated Chapter 14 mission-lock planning session; do not draft prose"
+    severity: "resolved planning gate"
+    status: "approved; planning only; prose remains undrafted"
+    control: "books/book-01/control/28-chapter-14-mission-lock.md"
+    next_action: "Draft Chapter 14 under books/book-01/drafts/ from the approved mission lock; do not update accepted inventory or word counts"
 
 archive:
   legacy_source_policy: "archive/legacy-sources/README.md"
@@ -135,8 +137,9 @@ production_rules:
   - "No unaccepted chapter may live under books/book-01/manuscript/."
   - "Draft existence does not create canon."
   - "Promotion requires the same production pass to move prose into manuscript, update ACCEPTED_MANUSCRIPT.yaml, update PROJECT_STATE.yaml, and update every affected control ledger."
-  - "Chapter 13 is accepted canon and may be used as the opening source for Chapter 14 planning."
-  - "Chapter 14 prose remains prohibited until its dedicated mission lock is approved."
+  - "Chapter 13 is accepted canon and controls the opening state for Chapter 14."
+  - "Chapter 14 has an approved mission lock but remains undrafted and non-canon."
+  - "Any Chapter 14 prose must be created under books/book-01/drafts/ and reviewed through the chapter acceptance gate."
   - "Registered authority never proves physical human custody without separate evidence."
   - "The physical custodian of SSO-NS-004 remains unresolved."
   - "High-level Act III architecture is production planning, not canon; chapter functions become controlling only through a chapter mission lock."
@@ -144,4 +147,4 @@ production_rules:
   - "The former Google Doc and uploaded Word snapshot are historical sources only and must not be edited as active manuscripts."
   - "No draft or revision may imitate or closely emulate the recognizable prose of a living author."
 
-next_recommended_action: "Run a dedicated Chapter 14 mission-lock planning session from the accepted 07:46:00 EDT Hartwell endpoint; do not draft Chapter 14 prose."
+next_recommended_action: "Draft Chapter 14 — working title The Witness Line — under books/book-01/drafts/ from books/book-01/control/28-chapter-14-mission-lock.md, then run the formal acceptance gate. Do not change accepted counts, endpoint, or ACCEPTED_MANUSCRIPT.yaml during drafting."
