@@ -15,8 +15,8 @@ The authoritative production status is [`PROJECT_STATE.yaml`](PROJECT_STATE.yaml
 - Chapter 13, **The Carrier Stream**: accepted
 - Chapter 14, **The Witness Line**: accepted
 - Chapter 15, **The Split Record**: accepted after one capitalization-only copyedit at **5,993 words**
-- Chapter 16, **The Hold Order**: mission locked; prose not drafted
-- Immediate production action: draft Chapter 16 only under `books/book-01/drafts/chapter-16.md` from the approved mission lock
+- Chapter 16, **The Hold Order**: first draft complete at **6,024 words**; unaccepted and non-canon
+- Immediate production action: run the formal Chapter 16 acceptance and revision review
 - Book 1: not publication-ready
 
 ## Accepted Chapter 15 endpoint
@@ -28,13 +28,19 @@ The authoritative production status is [`PROJECT_STATE.yaml`](PROJECT_STATE.yaml
 - The superseding allied product became controlling at 07:54 EDT / 17:24 IST, while Sharma preserved prior, superseding, local anomaly, abort, and no-fire records as one challenged incident set.
 - Hartwell presenter/exact serial, WSS plaintext, K-17 access, Phase B, final federal custody, and public fracture remain unresolved.
 
-## Approved Chapter 16 mission
+## Chapter 16 first draft
 
-Chapter 16 — **The Hold Order** — is controlled by [`books/book-01/control/32-chapter-16-mission-lock.md`](books/book-01/control/32-chapter-16-mission-lock.md).
+Chapter 16 — **The Hold Order** — is controlled by [`books/book-01/control/32-chapter-16-mission-lock.md`](books/book-01/control/32-chapter-16-mission-lock.md) and drafted only at [`books/book-01/drafts/chapter-16.md`](books/book-01/drafts/chapter-16.md).
 
-Its dominant function is to force a named federal preservation authority behind the interim MPD chain while keeping all seven packages separate, sealed, offline, and in MPD custody. The lock uses Julie as primary POV with one bounded Marcus ambulance cutaway and one bounded Sharma cutaway. It plans a 5,800–6,500-word chapter opening at 07:56:40 EDT / 17:26:40 IST and ending no later than 08:16:40 EDT / 17:46:40 IST.
+- Draft words: **6,024**
+- Draft opening: **07:56:40 EDT / 17:26:40 IST**
+- Draft endpoint: **08:15:52 EDT / 17:45:52 IST**
+- POV: Julie opening and closing, one bounded Marcus ambulance cutaway, and one bounded Sharma cutaway
+- Draft result: Hackett becomes the named preservation sponsor, Marcus makes his attributable correction, MPD retains all seven packages separately sealed and offline, and an allied preservation acknowledgment is linked
+- Canon effect: **none**
+- Review status: formal acceptance and revision review not yet performed
 
-The mission lock is planning only. It does not change accepted prose, count, endpoint, evidence custody, character state, or canon.
+The draft does not change accepted prose, the 81,586-word accepted total, or the Chapter 15 canon endpoint. It does not authorize Chapter 17.
 
 ## Source-of-truth hierarchy
 
@@ -80,7 +86,7 @@ Accepted prose outranks every summary, tracker, plan, and draft. Draft prose can
 
 ## Chapter 16 rule
 
-Draft Chapter 16 only at `books/book-01/drafts/chapter-16.md` from the approved mission lock. Do not place it in the accepted manuscript, update the accepted inventory, change the 81,586-word accepted total or 07:56:40 EDT / 17:26:40 IST accepted endpoint, draft Chapter 17, or create a complete remainder-of-Act-III outline during that session.
+Review Chapter 16 only at `books/book-01/drafts/chapter-16.md` against the approved mission lock and acceptance gate. Do not place it in the accepted manuscript, update the accepted inventory, change the 81,586-word accepted total or 07:56:40 EDT / 17:26:40 IST accepted endpoint, draft Chapter 17, or create a complete remainder-of-Act-III outline unless and until Chapter 16 receives an explicit **ACCEPT** verdict and is promoted in a synchronized pass.
 
 ## Permanent continuity repair
 

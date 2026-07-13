@@ -88,18 +88,16 @@
 - Seven originals are separately sealed in MPD custody; no final federal/technical intake is established.
 - Book 1 remains not publication-ready.
 
-## Current application record — approved Chapter 16 mission lock
+## Current application record — Chapter 16 first draft
 
-- `32-chapter-16-mission-lock.md` is the approved pre-draft control for Chapter 16 — **The Hold Order**.
-- The lock opens exactly at the accepted Chapter 15 endpoint: **07:56:40 EDT / 17:26:40 IST**.
-- The accepted manuscript remains Prologue and Chapters 1–15 at **81,586** words.
-- `../ACCEPTED_MANUSCRIPT.yaml`, accepted prose, accepted count, and accepted endpoint are unchanged.
-- The lock’s dominant function is to force a named federal preservation authority behind the interim MPD chain while all seven packages remain separate, sealed, offline, and in MPD custody.
-- The planned POV is Julie primary, one bounded Marcus ambulance cutaway, one bounded Sharma cutaway, and a return to Julie.
-- The target range is **5,800–6,500 words**.
-- The maximum planned endpoint is **08:16:40 EDT / 17:46:40 IST**.
-- The lock requires Marcus’s attributable six-years-ago correction, Hackett’s named preservation choice, and a bounded allied preservation acknowledgment.
-- The lock prohibits resolution of Hartwell presenter/serial, WSS plaintext, K-17 access, Phase B, reconstruction truth/authorship/purpose, final federal custody, technical merits, and public vindication.
-- The mission lock is planning only and does not update timeline, character, relationship, evidence, knowledge, technology, organization, location, antagonist, public-narrative, or recurring-character canon.
-- Chapter 16 may be drafted only at `../drafts/chapter-16.md`.
-- Do not draft Chapter 17 or create a complete remainder-of-Act-III outline during Chapter 16 drafting.
+- `32-chapter-16-mission-lock.md` remains the controlling production plan for Chapter 16 — **The Hold Order**.
+- One active first draft exists only at `../drafts/chapter-16.md`.
+- Exact draft word count is **6,024**.
+- Draft opening is **07:56:40 EDT / 17:26:40 IST**.
+- Draft endpoint is **08:15:52 EDT / 17:45:52 IST**, inside the approved maximum.
+- The draft uses Julie primary, one bounded Marcus ambulance cutaway, one bounded Sharma cutaway, and a return to Julie.
+- The draft keeps all seven packages separate, sealed, offline, and in MPD custody; no accepted ledger is updated as though those drafted events occurred.
+- `../ACCEPTED_MANUSCRIPT.yaml`, accepted prose, the accepted count, and the accepted endpoint remain unchanged.
+- Chapter 16 remains unaccepted and non-canon until the formal acceptance gate issues **ACCEPT** and a synchronized promotion commit is completed.
+- The next gate is the formal Chapter 16 acceptance and revision review.
+- Chapter 17 and later prose do not exist. Do not draft them from the unaccepted Chapter 16 endpoint.

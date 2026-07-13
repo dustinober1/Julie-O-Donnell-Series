@@ -44,7 +44,7 @@ active_book:
     acts:
       act_i: "complete"
       act_ii: "complete"
-      act_iii: "Chapters 13-15 accepted; Chapter 16 mission locked and awaiting first-draft production"
+      act_iii: "Chapters 13-15 accepted; Chapter 16 first draft exists and awaits formal acceptance review"
     endpoint:
       chapter: 15
       eastern: "07:56:40 EDT"
@@ -78,14 +78,21 @@ active_book:
       masking_window_status: "superseding allied product became controlling at 07:54 EDT / 17:24 IST; prior and local records preserved as challenged incident set"
 
   drafts:
-    active_chapter_drafts: []
+    active_chapter_drafts:
+      - chapter: 16
+        title: "The Hold Order"
+        path: "books/book-01/drafts/chapter-16.md"
+        words: 6024
+        opening: "07:56:40 EDT / 17:26:40 IST"
+        endpoint: "08:15:52 EDT / 17:45:52 IST"
+        status: "first draft complete; unaccepted and non-canon"
     chapter_15: "accepted and promoted after one capitalization copyedit"
-    chapter_16: "not drafted; approved mission lock controls future drafting"
+    chapter_16: "first draft complete at books/book-01/drafts/chapter-16.md; unaccepted and awaiting formal review"
 
   future_prose:
-    chapter_16_and_later: "not drafted"
-    chapter_16_rule: "Chapter 16 may be drafted only under books/book-01/drafts/chapter-16.md from the approved mission lock. It remains non-canon until formal acceptance and promotion."
-    later_rule: "Do not draft Chapter 17 or create a complete remainder-of-Act-III outline during Chapter 16 production."
+    chapter_16_and_later: "Chapter 16 first draft exists but is unaccepted; Chapter 17 and later prose do not exist"
+    chapter_16_rule: "Chapter 16 remains under books/book-01/drafts/chapter-16.md and cannot become canon until formal acceptance and promotion."
+    later_rule: "Do not draft Chapter 17 or create a complete remainder-of-Act-III outline during Chapter 16 review."
 
   planning_controls:
     ending_contract: "books/book-01/control/22-book-1-ending-contract.md"
@@ -117,13 +124,16 @@ active_book:
 
   chapter_16_record:
     title: "The Hold Order"
-    status: "approved mission lock; planning only; prose not drafted"
+    status: "first draft complete; unaccepted and non-canon"
     mission_lock: "books/book-01/control/32-chapter-16-mission-lock.md"
+    draft_path: "books/book-01/drafts/chapter-16.md"
+    draft_words: 6024
     dominant_function: "Force a named federal preservation authority behind the interim MPD chain while keeping all seven packages separate, sealed, offline, and in MPD custody"
     mission_statement: "Before the seven MPD packages can be fragmented, opened, or absorbed into Apex's technical narrative, Julie must turn interim custody into a named interagency preservation hold by triggering Marcus's on-record correction and Hackett's formal choice, while a bounded allied request makes Sharma's independently preserved contradiction reachable without declaring either allied product true."
     opening: "07:56:40 EDT / 17:26:40 IST"
-    planned_endpoint: "08:16:40 EDT / 17:46:40 IST"
-    planned_endpoint_status: "Secure MPD evidence-intake threshold under a named Hackett preservation hold; seven packages remain separately sealed; allied preservation acknowledgment linked; no final federal or technical receiver"
+    draft_endpoint: "08:15:52 EDT / 17:45:52 IST"
+    planned_maximum_endpoint: "08:16:40 EDT / 17:46:40 IST"
+    draft_endpoint_status: "Secure MPD evidence-intake threshold under Hackett's named preservation hold; seven packages remain separately sealed; allied preservation acknowledgment linked; no final federal or technical receiver"
     pov: "Julie primary; one bounded Marcus ambulance cutaway; one bounded Sharma cutaway; return to Julie"
     target_words: "5800-6500"
     primary_thread: "Independent counterrecord / lawful custody"
@@ -132,7 +142,8 @@ active_book:
       - "Bounded allied activation of Sharma's independent record"
     prohibited_resolutions: "Hartwell presenter or serial, WSS plaintext, K-17 access, Phase B, reconstruction truth or authorship, final federal custody, technical finding, public vindication"
     canon_effect: "none"
-    next_gate: "Draft Chapter 16 only at books/book-01/drafts/chapter-16.md, then run the formal Chapter 16 acceptance review"
+    review_status: "formal Chapter 16 acceptance and revision review not yet performed"
+    next_gate: "Run the formal Chapter 16 acceptance and revision review; do not draft Chapter 17"
 
   narrative_house_style:
     version: "2.2"
@@ -191,16 +202,22 @@ critical_status:
     endpoint: "07:56:40 EDT / 17:26:40 IST"
   chapter_16_mission_lock:
     severity: "resolved planning gate"
-    status: "approved as The Hold Order; planning only; prose absent"
+    status: "approved as The Hold Order; fulfilled by an unaccepted first draft"
     path: "books/book-01/control/32-chapter-16-mission-lock.md"
     opening: "07:56:40 EDT / 17:26:40 IST"
     planned_endpoint: "08:16:40 EDT / 17:46:40 IST"
+  chapter_16_draft:
+    severity: "active review gate"
+    status: "first draft complete; unaccepted and non-canon"
+    path: "books/book-01/drafts/chapter-16.md"
+    words: 6024
+    endpoint: "08:15:52 EDT / 17:45:52 IST"
   status_drift:
     severity: "resolved"
     status: "active status, count, endpoint, accepted inventory, and control references synchronized"
   next_gate:
-    severity: "active drafting gate"
-    status: "Draft Chapter 16 under books/book-01/drafts/chapter-16.md from the approved mission lock. Do not modify accepted prose or draft Chapter 17."
+    severity: "active review gate"
+    status: "Run the formal Chapter 16 acceptance and revision review. Do not promote without an explicit ACCEPT verdict, and do not draft Chapter 17."
 
 archive:
   legacy_source_policy: "archive/legacy-sources/README.md"
@@ -215,8 +232,8 @@ production_rules:
   - "Promotion requires the same production pass to move prose into manuscript, update ACCEPTED_MANUSCRIPT.yaml, update PROJECT_STATE.yaml, and update every affected control ledger."
   - "Chapters 13, 14, and 15 are accepted Act III canon."
   - "Chapter 15 is accepted after one capitalization-only copyedit at 5993 words and lives only under the manuscript path."
-  - "Chapter 16 is mission locked as The Hold Order but remains unwritten and non-canon."
-  - "Chapter 16 prose may be created only at books/book-01/drafts/chapter-16.md from control 32."
+  - "Chapter 16 has one active first draft at books/book-01/drafts/chapter-16.md; it remains unaccepted and non-canon."
+  - "Formal Chapter 16 review is the next gate; Chapter 17 may not be drafted from the unaccepted endpoint."
   - "Registered authority never proves physical human custody without separate evidence."
   - "The physical presenter of SSO-NS-004 remains unresolved in accepted canon."
   - "The exterior green state does not prove the exact challenged serial."
@@ -225,4 +242,4 @@ production_rules:
   - "The former Google Doc and uploaded Word snapshot are historical sources only and must not be edited as active manuscripts."
   - "No draft or revision may imitate or closely emulate the recognizable prose of a living author."
 
-next_recommended_action: "Draft Chapter 16 — The Hold Order under books/book-01/drafts/chapter-16.md from books/book-01/control/32-chapter-16-mission-lock.md, then run the formal Chapter 16 acceptance review."
+next_recommended_action: "Run the formal Chapter 16 acceptance and revision review against books/book-01/drafts/chapter-16.md and control 32. Do not draft Chapter 17."

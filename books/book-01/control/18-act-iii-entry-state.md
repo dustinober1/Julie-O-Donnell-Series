@@ -14,8 +14,9 @@ Act III contains three accepted chapters:
 - **Primary Washington state:** Julie, Marcus, and Elias are in separate MPD/EMS transport after the completed interim MPD seizure.
 - **Authority:** MPD controls the seven evidence packages; EMS controls Marcus’s and Elias’s medical movement; no final federal or technical receiver exists.
 - **Accepted prose after this point:** None.
-- **Chapter 16 mission lock:** `32-chapter-16-mission-lock.md` — approved planning only.
-- **Immediate next gate:** Draft Chapter 16 under `../drafts/chapter-16.md` from the approved mission lock.
+- **Unaccepted prose after this point:** One Chapter 16 first draft at `../drafts/chapter-16.md`.
+- **Chapter 16 mission lock:** `32-chapter-16-mission-lock.md`.
+- **Immediate next gate:** Formal Chapter 16 acceptance and revision review. Do not draft Chapter 17.
 
 ## Physical state
 
@@ -34,7 +35,7 @@ Act III contains three accepted chapters:
 - Severe rib pain, impaired ventilation, scalp wound, swollen/unreliable thigh, damaged boot, dizziness, balance loss, and exhaustion remain active.
 - Cannot run, fight, drive, carry evidence, or perform ordinary tactical movement.
 - No longer possesses any original.
-- His B1-required on-record correction remains unpaid at the accepted endpoint.
+- His B1-required on-record correction remains unpaid in accepted canon.
 
 ### Elias
 
@@ -102,11 +103,11 @@ Naming these records in an MPD receipt does not give MPD physical possession or 
 - authenticated public-narrative fracture
 - medical, legal, relationship, and future-role aftermath
 
-No obligation is resolved merely because the packages survived interim seizure.
+No obligation is resolved in accepted canon merely because the packages survived interim seizure or because an unaccepted draft dramatizes later events.
 
 ## Approved Chapter 16 mission-lock state
 
-Chapter 16 — **The Hold Order** — is approved as planning only.
+Chapter 16 — **The Hold Order** — is approved as the controlling pre-draft plan.
 
 ### Dominant function
 
@@ -141,11 +142,22 @@ No later than **08:16:40 EDT / 17:46:40 IST**:
 - Marcus and Elias remain in separate medical custody.
 - All seven packages remain separately sealed and physically with MPD.
 - Hackett’s named preservation hold is active.
-- An allied preservation acknowledgment is linked to the hold.
+- An allied preservation acknowledgment is linked.
 - No final federal/technical receiver, merits finding, exoneration, public fracture, Hartwell identity, WSS plaintext, K-17 result, or Phase B definition exists.
+
+## Unaccepted Chapter 16 first-draft status
+
+- **Draft path:** `../drafts/chapter-16.md`
+- **Exact draft words:** 6,024
+- **Draft opening:** 07:56:40 EDT / 17:26:40 IST
+- **Draft endpoint:** 08:15:52 EDT / 17:45:52 IST
+- **POV execution:** Julie / Marcus / Sharma / Julie
+- **Drafted mission result:** Hackett’s named hold becomes active; Marcus’s correction is recorded under EMS control; all seven packages remain separately sealed and physically with MPD; a caveat-bearing allied acknowledgment is linked.
+- **Review status:** Formal acceptance and revision review not performed.
+- **Canon effect:** None. Every physical, evidence, knowledge, relationship, and institutional state above remains controlled by accepted Chapter 15 until an explicit ACCEPT verdict and synchronized promotion.
 
 ## Current production gate
 
-Draft Chapter 16 only at `../drafts/chapter-16.md` from `32-chapter-16-mission-lock.md`.
+Review the single Chapter 16 draft against `32-chapter-16-mission-lock.md` and `25-chapter-acceptance-gate.md`.
 
-Do not modify accepted prose, `../ACCEPTED_MANUSCRIPT.yaml`, the 81,586-word accepted total, or the accepted 07:56:40 EDT / 17:26:40 IST endpoint during drafting. Do not draft Chapter 17 or create a complete remainder-of-Act-III outline.
+Do not modify accepted prose, `../ACCEPTED_MANUSCRIPT.yaml`, the 81,586-word accepted total, or the accepted 07:56:40 EDT / 17:26:40 IST endpoint without an explicit ACCEPT verdict and same-pass promotion. Do not draft Chapter 17 or create a complete remainder-of-Act-III outline.
