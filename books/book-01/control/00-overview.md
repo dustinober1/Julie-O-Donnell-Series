@@ -1,38 +1,49 @@
 # 0. BOOK 1 CONTROL PACK OVERVIEW
 
-**Control-pack version:** 3.3
-**Accepted prose:** Prologue and Chapters 1–14
-**Accepted length:** 75,593 words
-**Accepted endpoint:** 07:49:32 EDT / 17:19:32 IST, public garage level six beside powered-down PCF-27 under MPD scene control
-**Chapter 13:** Accepted as **The Carrier Stream**
-**Chapter 14:** Accepted as **The Witness Line**
-**Chapter 15 mission lock:** Approved as **The Split Record**
-**Chapter 15 and later prose:** Not drafted
-**Next production gate:** Draft Chapter 15 under `books/book-01/drafts/chapter-15.md` from `30-chapter-15-mission-lock.md`
+**Control-pack version:** 3.4  
+**Accepted prose:** Prologue and Chapters 1–15  
+**Accepted length:** 81,586 words  
+**Accepted endpoint:** 07:56:40 EDT / 17:26:40 IST, separated MPD/EMS transport after interim MPD seizure under incident `187463`  
+**Chapter 13:** Accepted as **The Carrier Stream**  
+**Chapter 14:** Accepted as **The Witness Line**  
+**Chapter 15:** Accepted as **The Split Record**  
+**Chapter 16 mission lock:** Approved as **The Hold Order**  
+**Chapter 16 and later prose:** Not drafted  
+**Next production gate:** Draft Chapter 16 under `books/book-01/drafts/chapter-16.md` from `32-chapter-16-mission-lock.md`
 
 ## Authority
 
 1. Accepted prose listed in `../ACCEPTED_MANUSCRIPT.yaml` controls story facts.
-2. `../ACCEPTED_MANUSCRIPT.yaml` controls which prose is accepted.
+2. `../ACCEPTED_MANUSCRIPT.yaml` controls which prose files are accepted.
 3. This control pack controls continuity and approved production planning where it agrees with accepted prose.
 4. `../../../series/` controls cross-book tracking where it agrees with accepted prose.
 5. Drafts, archive material, the former Google Doc, and uploaded Word snapshots are non-canon provenance.
 
-## Current operational state
+## Current accepted operational state
 
-Julie, Marcus, and Elias are on public garage level six beside powered-down PCF-27 at 07:49:32 EDT / 17:19:32 IST. MPD controls the scene and west route. Marcus and Elias retain distinct primary originals. No transfer receipt is complete.
+At 07:56:40 EDT / 17:26:40 IST:
 
-The Hartwell challenge window and Phase B authorization deadline have passed without a disclosed result. Masking Window Two remains active until 07:54:00 EDT. Hartwell has acknowledged and held a relevant local-challenge/access record without disclosing its serial, presenter, receiver, or challenge fields.
+- Julie is detained in a marked MPD vehicle under an injury-compatible front restraint.
+- Marcus is in guarded ambulance care on oxygen.
+- Elias is in separate guarded medical transport.
+- MPD incident `187463` holds seven separately sealed packages `MPD-901441` through `MPD-901447`.
+- No final federal or independent technical receiver exists.
+- The superseding allied product controls the actionable picture from 07:54 EDT / 17:24 IST.
+- Sharma separately preserves the prior product, superseding product, source-review image, local references, abort, and no-fire records as one challenged incident set.
+- Hartwell presenter/exact serial, WSS plaintext, K-17 access, Phase B, reconstruction authorship/purpose/truth, final custody, and public fracture remain unresolved.
 
-## Approved Chapter 15 planning
+## Approved Chapter 16 planning
 
-`30-chapter-15-mission-lock.md` requires Chapter 15 to:
+`32-chapter-16-mission-lock.md` requires Chapter 16 to:
 
-- preserve one linked counterrecord through lawful detention, medical separation, and interim MPD evidence transfer;
-- keep every primary original separate, sealed, and precisely receipted;
-- use Julie close third plus one bounded Sharma cutaway;
-- make the remaining Masking Window Two consequential through a superseding allied reconstruction and preserved Indian local contradiction;
-- keep Phase B, K-17 access, Hartwell presenter, exact serial, and WSS plaintext unresolved; and
-- end at the planned 07:56:40 EDT / 17:26:40 IST separation state.
+- open exactly at 07:56:40 EDT / 17:26:40 IST;
+- remain dominated by custody escalation and a named institutional preservation choice;
+- use Julie as primary POV with one bounded Marcus ambulance cutaway and one bounded Sharma cutaway;
+- keep all seven MPD packages separate, sealed, offline, and physically in MPD custody;
+- make Marcus’s six-years-ago correction attributable and medically bounded;
+- require General Hackett to choose whether to place his name and authority on a preservation hold;
+- create a bounded allied preservation acknowledgment without Julie–Sharma contact or a truth finding;
+- leave Hartwell presenter/serial, WSS plaintext, K-17 access, Phase B, reconstruction purpose, final federal custody, independent technical findings, and public vindication unresolved; and
+- end no later than 08:16:40 EDT / 17:46:40 IST at a secure MPD evidence-intake threshold with no final technical receiver.
 
 The plan is not story canon until prose is drafted, accepted, and promoted.
