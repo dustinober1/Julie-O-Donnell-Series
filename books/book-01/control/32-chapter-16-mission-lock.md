@@ -2,9 +2,9 @@
 
 ## 1. Status and authority
 
-**Status:** Approved pre-draft production lock.  
-**Scope:** Chapter 16 only.  
-**Authority:** Accepted manuscript through Chapter 15, current Book 1 controls, the Book 1 ending contract, and Narrative House Style v2.0/v2.1/v2.2.  
+**Status:** Approved pre-draft production lock.
+**Scope:** Chapter 16 only.
+**Authority:** Accepted manuscript through Chapter 15, current Book 1 controls, the Book 1 ending contract, and Narrative House Style v2.0/v2.1/v2.2.
 **Canon effect:** None. This document plans Chapter 16. It does not create accepted story events, alter the accepted manuscript, or authorize any later-chapter fact.
 
 The accepted opening remains the final line and physical state of Chapter 15 at **07:56:40 EDT / 17:26:40 IST**. Chapter 16 prose must not be placed in the accepted manuscript until it is drafted under `books/book-01/drafts/`, reviewed, and promoted through the formal acceptance gate.
@@ -155,7 +155,7 @@ The chapter’s irreversible event is Hackett placing his name and authority on 
 
 ## 11. Exact opening time and location
 
-**07:56:40 EDT / 17:26:40 IST**  
+**07:56:40 EDT / 17:26:40 IST**
 **Primary location:** Public commercial garage level six west of Hartwell, inside the rear of a marked MPD vehicle under MPD scene control.
 
 The opening must continue directly from Chapter 15. The rear door has just closed. The evidence chest remains beside Ortiz’s vehicle. Marcus’s ambulance and Elias’s separate medical unit are beginning distinct guarded movements. PCF-27 remains powered down with its role finished for the moment.
@@ -636,7 +636,7 @@ This question identifies the next pressure without locking Chapter 17’s exact 
 
 ## 34. Word-count range
 
-**Target: 5,800–6,500 words.**  
+**Target: 5,800–6,500 words.**
 **Preferred center:** approximately 6,150 words.
 
 The range supports four tightly controlled POV movements, a consequential on-record correction, and a credible interagency/allied preservation sequence. It must not be expanded through evidence inventories, travel recap, repeated injury reminders, or a complete explanation of later Act III architecture.
