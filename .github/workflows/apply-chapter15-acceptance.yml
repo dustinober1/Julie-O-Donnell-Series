@@ -37,6 +37,16 @@ jobs:
           target = Path('tools/apply_chapter15_acceptance.py')
           target.parent.mkdir(parents=True, exist_ok=True)
           target.write_bytes(data)
+          script = target.read_text(encoding='utf-8')
+          script = script.replace(
+              'write(".github/workflows/book1-manuscript-validation.yml", workflow)',
+              '# Validation-workflow update is applied separately through the authenticated GitHub connector.'
+          )
+          script = script.replace(
+              'p(".github/workflows/apply-chapter15-acceptance.yml").unlink(missing_ok=True)',
+              '# Bootstrap-workflow cleanup is applied separately through the authenticated GitHub connector.'
+          )
+          target.write_text(script, encoding='utf-8')
           PYBOOT
           python -m py_compile tools/apply_chapter15_acceptance.py
           python tools/apply_chapter15_acceptance.py
@@ -60,6 +70,7 @@ jobs:
           assert len(chapter.read_text(encoding='utf-8').split()) == 5993
           assert review.is_file() and '**ACCEPT**' in review.read_text(encoding='utf-8')
           assert not list((root / 'books/book-01').rglob('chapter-16.md'))
+          assert not list((root / '.github').glob('ch15-acceptance-payload-*.txt'))
           print('Chapter 15 acceptance bootstrap verified')
           PYVERIFY
           git diff --check
