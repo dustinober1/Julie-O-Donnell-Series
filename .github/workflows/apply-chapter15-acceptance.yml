@@ -11,6 +11,7 @@ on:
       - ".github/workflows/apply-chapter15-acceptance.yml"
 
 permissions:
+  actions: write
   contents: write
 
 jobs:
