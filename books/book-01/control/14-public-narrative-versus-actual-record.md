@@ -32,3 +32,15 @@ The manuscript does not establish universal public belief. It establishes repeat
 - Julie’s Hartwell observation can resemble target fixation; Elias’s module handling can resemble sabotage; Marcus’s custody protection can resemble refusal to surrender stolen material; the running van can resemble preparation to flee; the preservation request can resemble manipulation.
 - The accepted record instead shows a bounded body-camera statement, an MPD dispatch request, independent observation of the exterior state, Hartwell’s hold acknowledgment, immediate hard abort, engine shutdown, and refusal of undocumented Apex custody.
 - No public vindication occurs. The armed-insider story remains dominant, but it is harder to rewrite because multiple separately controlled records now exist.
+
+## Accepted Chapter 15 public-record delta
+
+| Public / institutional appearance | Accepted actual record | Remaining limitation |
+|---|---|---|
+| Detention confirms guilt. | MPD lawfully detains the trio on the available alert and observable conduct. | Detention is not adjudication or technical authentication. |
+| Seven police packages confirm the conspiracy evidence. | Seven distinct originals receive documented interim seals and receipt references. | Receipt proves handling, not meaning, truth, guilt, or innocence. |
+| Marcus's medical collapse shows the fugitives were defeated. | EMS controls an urgent transport while Marcus remains oriented and the hard abort does not trigger. | No recovery, confession, or final custody jurisdiction follows. |
+| The superseding allied package corrects the earlier product. | A newer authenticated product becomes controlling and omits the K-17 anomalies. | Newer authentication is not automatic truth; prior/local records survive. |
+| Julie's insistence on cross-references is continued manipulation. | She creates a sequence that links separately controlled records without claiming possession or endorsement. | Public belief does not change during the chapter. |
+
+The armed-insider narrative remains hostile and may harden because lawful detention is visually simple. No visible public fracture or exoneration occurs.

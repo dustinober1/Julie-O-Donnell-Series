@@ -94,3 +94,12 @@ Permanent distinction: reader-visible office registration, hardware response, an
 - The trio still does not know the physical presenter, exact Hartwell serial, compact-case contents, WSS plaintext, K-17 access, Phase B action, reconstruction purpose, Sterling’s personal command, or Indian no-fire outcome.
 - Ortiz/MPD know only scene-level behavior, Julie’s explicit limitations, the exterior state, hold acknowledgment, distinct objects, and incomplete transfer; they do not endorse the full conspiracy.
 - Hartwell may know protected fields privately, but no other character gains them without lawful production, testimony, or accepted examination.
+
+## Accepted Chapter 15 knowledge update
+
+- **Julie/Marcus/Elias:** Know the MPD incident/package sequence and their own separation. They do not know Sharma's superseding-product event, Indian preservation decision, or no-fire record.
+- **Sharma:** Knows the superseding package, its omission of previously visible K-17 anomalies, and the conflict with her local/prior records. She does not know Julie, the MPD incident, the seven packages, Hartwell custody, or Washington transport.
+- **Ortiz/Park/MPD:** Know the scene-level object descriptions, custodians, transfer times, seal numbers, injuries, and explicit interpretive non-concession. They do not thereby know or endorse the technical conspiracy.
+- **Apex/Mercer:** Know MPD has taken interim custody; they do not possess the originals or Sharma's local record set.
+- **Public:** Continues to know the hostile armed-insider account and visible detention, not the technical meaning of the receipts or Sharma's contradiction.
+- **Permanent limits:** Presenter, exact Hartwell serial, compact-case contents, WSS plaintext, K-17 physical access, Phase B action, reconstruction authorship/purpose, Sterling's personal command, Vance's personal keystrokes, and Tariq's physical presence remain unproved.

@@ -133,3 +133,16 @@ Do not:
 - create accepted Chapter 15 prose without an **ACCEPT** verdict;
 - treat the draft endpoint as canon; or
 - draft Chapter 16 before Chapter 15 passes the formal acceptance gate and is promoted.
+
+## Accepted Act III state after Chapter 15
+
+Act III now contains three accepted chapters: 13 — **The Carrier Stream**, 14 — **The Witness Line**, and 15 — **The Split Record**.
+
+- **Accepted endpoint:** 07:56:40 EDT / 17:26:40 IST.
+- **Julie:** marked MPD transport, injury-compatible restraint, no original.
+- **Marcus:** guarded ambulance care; oxygen 92–93 percent; hard abort not triggered; no original.
+- **Elias:** separate guarded medical transport; no board/module custody.
+- **Evidence:** seven separately sealed MPD packages `MPD-901441`–`MPD-901447` under incident `187463`; final federal/technical receiver unresolved.
+- **Field record:** superseding allied package controls the actionable picture from 07:54 EDT / 17:24 IST; Sharma preserves prior, superseding, local anomaly, abort, and no-fire records as one challenged incident set.
+- **Still unresolved:** presenter, exact serial, WSS plaintext, K-17 access, Phase B, reconstruction authority/purpose, final custody, public fracture, and remaining ending-contract obligations.
+- **Next gate:** Dedicated Chapter 16 mission planning and mission locking only; do not draft Chapter 16 or create a complete outline for the remainder of Act III.

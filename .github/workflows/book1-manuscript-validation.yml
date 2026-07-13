@@ -31,23 +31,22 @@ jobs:
       - name: Count accepted manuscript
         shell: bash
         run: |
-          expected=$(python - <<'PY'
+          expected=$(python - <<'PYCOUNT'
           from pathlib import Path
           import re
-
           manifest = Path('books/book-01/ACCEPTED_MANUSCRIPT.yaml').read_text(encoding='utf-8')
           match = re.search(r'^accepted_words:\s*(\d+)$', manifest, re.M)
           if not match:
               raise SystemExit('accepted_words not found in manifest')
           print(match.group(1))
-          PY
+          PYCOUNT
           )
           python tools/count_book1_words.py --expect "$expected"
 
-      - name: Validate accepted total and Chapter 15 draft isolation
+      - name: Validate Chapter 15 acceptance and Chapter 16 absence
         shell: bash
         run: |
-          python - <<'PY'
+          python - <<'PYVALIDATE'
           from pathlib import Path
           import re
 
@@ -55,32 +54,28 @@ jobs:
           manifest = (root / 'books/book-01/ACCEPTED_MANUSCRIPT.yaml').read_text(encoding='utf-8')
           project = (root / 'PROJECT_STATE.yaml').read_text(encoding='utf-8')
           chapter14 = root / 'books/book-01/manuscript/chapters/chapter-14.md'
-          chapter14_draft = root / 'books/book-01/drafts/chapter-14.md'
+          chapter15 = root / 'books/book-01/manuscript/chapters/chapter-15.md'
           chapter15_draft = root / 'books/book-01/drafts/chapter-15.md'
-          chapter15_accepted = root / 'books/book-01/manuscript/chapters/chapter-15.md'
+          review = root / 'books/book-01/control/31-chapter-15-acceptance-review.md'
 
           accepted = int(re.search(r'^accepted_words:\s*(\d+)$', manifest, re.M).group(1))
           project_total = int(re.search(r'^\s+accepted_words:\s*(\d+)$', project, re.M).group(1))
-          assert accepted == 75593, accepted
+          assert accepted == 81586, accepted
           assert project_total == accepted, (project_total, accepted)
 
           assert chapter14.is_file()
-          assert not chapter14_draft.exists()
-          chapter14_text = chapter14.read_text(encoding='utf-8')
-          assert len(chapter14_text.split()) == 5763
-          assert chapter14_text.splitlines()[0] == '07:46:00 EDT / 17:16:00 IST'
-          assert chapter14_text.splitlines()[2] == '# Chapter 14 - The Witness Line'
-          assert '07:49:32 EDT / 17:19:32 IST' in chapter14_text
+          assert len(chapter14.read_text(encoding='utf-8').split()) == 5763
+          assert chapter15.is_file()
+          assert not chapter15_draft.exists()
+          assert review.is_file()
 
-          assert chapter15_draft.is_file()
-          assert not chapter15_accepted.exists()
-          chapter15_text = chapter15_draft.read_text(encoding='utf-8')
-          assert len(chapter15_text.split()) == 5993
-          chapter15_lines = chapter15_text.splitlines()
-          assert chapter15_lines[0] == '07:49:32 EDT / 17:19:32 IST'
-          assert chapter15_lines[2] == '# Chapter 15 - The Split Record'
-          assert 'At 07:56:40 EDT / 17:26:40 IST' in chapter15_text
-          assert 'Chapter 16' not in chapter15_text
+          text = chapter15.read_text(encoding='utf-8')
+          lines = text.splitlines()
+          assert len(text.split()) == 5993
+          assert lines[0] == '07:49:32 EDT / 17:19:32 IST'
+          assert lines[2] == '# Chapter 15 - The Split Record'
+          assert 'At 07:56:40 EDT / 17:26:40 IST' in text
+          assert 'Chapter 16' not in text
 
           required = [
               'one hundred thirty-six sealed files',
@@ -89,13 +84,19 @@ jobs:
               'partition a',
               'partition b',
               'wss-4 message blocks',
-              '07:55:11',
-              '07:55:22',
-              '07:55:31',
+              '07:54:48', '07:54:56', '07:55:02', '07:55:06',
+              '07:55:11', '07:55:22', '07:55:31',
+              'nine-zero-one-four-four-one',
+              'nine-zero-one-four-four-two',
+              'nine-zero-one-four-four-three',
+              'nine-zero-one-four-four-four',
+              'nine-zero-one-four-four-five',
+              'nine-zero-one-four-four-six',
+              'nine-zero-one-four-four-seven',
           ]
-          chapter15_lower = chapter15_text.lower()
+          lower = text.lower()
           for phrase in required:
-              assert phrase in chapter15_lower, phrase
+              assert phrase in lower, phrase
 
           forbidden = [
               'K-17 access was confirmed',
@@ -105,13 +106,16 @@ jobs:
               'Phase B was authorized',
           ]
           for phrase in forbidden:
-              assert phrase not in chapter15_text, phrase
+              assert phrase not in text, phrase
 
-          assert 'first draft complete; unaccepted; non-canon' in project
-          assert 'accepted_words: 75593' in project
+          assert 'chapters: "1-15"' in project
+          assert 'accepted_words: 81586' in project
+          assert 'Chapter 16 and later prose do not exist' in review.read_text(encoding='utf-8')
+          chapter16_files = list((root / 'books/book-01').rglob('chapter-16.md'))
+          assert not chapter16_files, chapter16_files
           print(f'validated accepted total: {accepted}')
-          print('validated Chapter 14 integrity and Chapter 15 draft isolation')
-          PY
+          print('validated Chapter 15 promotion, seven-package state, and Chapter 16 absence')
+          PYVALIDATE
 
       - name: Check whitespace errors in pull-request diff
         if: github.event_name == 'pull_request'

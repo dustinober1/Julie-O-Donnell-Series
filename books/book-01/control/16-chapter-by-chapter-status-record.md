@@ -137,3 +137,22 @@ The accepted-manuscript inventory in `../ACCEPTED_MANUSCRIPT.yaml` controls acce
 - **Planning:** High-level functions remain provisional in `23-word-budget-and-act-iii-architecture.md`.
 - **Rule:** No later chapter function is canon until separately locked, drafted, reviewed, and accepted.
 - **Immediate prohibition:** Chapter 16 must not be drafted from the unaccepted Chapter 15 endpoint.
+
+## Accepted Chapter 15 promotion update
+
+Chapter 15 — **The Split Record**
+
+- **Status:** Accepted canon.
+- **Accepted path:** `../manuscript/chapters/chapter-15.md`.
+- **Mission lock:** `30-chapter-15-mission-lock.md`.
+- **Acceptance review:** `31-chapter-15-acceptance-review.md` — **ACCEPT**.
+- **Reviewed blob:** `73b387872d3c4937f6598b20d4bcc90d6c46f415`.
+- **Exact word count:** 5,993 whitespace-delimited Markdown words.
+- **Time:** 07:49:32–07:56:40 EDT / 17:19:32–17:26:40 IST.
+- **POV:** Julie close third plus one bounded Sharma cutaway.
+- **Dominant function:** Complete separate interim MPD custody while preserving the superseding/prior allied-record contradiction.
+- **Endpoint:** Seven MPD packages sealed under incident `187463`; Marcus, Elias, and Julie transported separately; no final federal receiver.
+- **Accepted manuscript total:** 81,586 words.
+- **Next gate:** Chapter 16 mission planning and mission locking only. Chapter 16 prose remains prohibited until that lock is approved.
+
+The earlier unaccepted Chapter 15 status section is historical and superseded by this promotion update.

@@ -58,3 +58,13 @@
 - **Phase B / K-17 / Masking Window Two:** Unresolved; masking is active and the 07:49 deadline passed without observable answer.
 - **Public narrative fracture:** Payoff staged, not public or authenticated.
 - **Marcus correction, Chen/Mercer choices, WSS local record, Sharma consequence, final custody, climax, and resolution:** Still required.
+
+## Accepted Chapter 15 thread update
+
+- **Independent counterrecord / lawful custody:** Advanced substantially. Seven originals are separately sealed in MPD custody and cross-referenced to body-camera, dispatch, Hartwell, WSS, garage, Apex/Chen, and Indian records. Final technical/federal intake remains unresolved.
+- **Sharma / Indian no-fire consequence:** Advanced. Sharma preserves prior and superseding products with local anomaly, abort, and no-fire records; the Washington trio does not yet receive them.
+- **Masking Window Two / reconstruction:** Immediate record-level consequence dramatized. The actionable allied picture is superseded at 07:54, but purpose, author, relationship to Phase B, and field truth remain unresolved.
+- **Hartwell presenter / exact serial:** Unchanged in proof. Held record survives; no presenter or serial disclosed.
+- **K-17 / Phase B / WSS plaintext:** Unresolved and bounded.
+- **Marcus correction, Chen/Mercer choices, Hackett, Price, Vance consequence, Bell local-record fate, and public fracture:** Still required.
+- **Physical/emotional cost:** Advanced through medical separation and loss of direct team unity; no recovery or reconciliation by convenience.

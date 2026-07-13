@@ -1147,3 +1147,13 @@ This section supersedes earlier “current” location and knowledge fields wher
 - **Elias:** Hip, right-index, dizziness, exhaustion, and tremor remain active; retains board, Partitions A/B, and journal; module remains offline; events 010–013 prove local input only.
 - **Ortiz:** Lawful MPD scene officer and independent witness; records without endorsing, routes preservation, controls van/west gate, and begins documented intake. No recurring-series function is established.
 - **Mercer/Chen/Vance/Sterling/Tariq:** Remain within prior evidence and authority limits; no alliance, personal signer proof, K-17 confirmation, or Phase B definition is created.
+
+## Accepted Chapter 15 state update — controls over earlier current-state fields
+
+- **Julie:** At 07:56:40 EDT in a marked MPD vehicle with a padded front-positioned injury-compatible restraint. Her right wrist still has little useful grip and prevents ordinary rear cuffing, evidence handling, lifting, writing, fighting, or stabilizing Marcus/Elias. She has no original and does not know Sharma's cutaway.
+- **Marcus:** In ambulance care under MPD guard. Oxygen saturation moves from 90 to 92–93 percent on 4 L nasal cannula; orientation remains intact, so the locked hard abort does not trigger. Rib, scalp, thigh, boot, breathing, balance, standing, writing, carrying, driving, and fighting limits remain severe. He no longer holds primary originals.
+- **Elias:** In separate medically appropriate guarded transport. Left hip, dizziness, balance, exhaustion, tremor, and right-index limitations remain active. He no longer holds the board or module; his separate voluntary transfers are body-camera witnessed and receipt-linked.
+- **Major Ananya Sharma:** Most recent accepted appearance Chapter 15 at Forward Post Arjun. She receives an authenticated superseding allied product, refuses to treat newer authentication as automatic truth, and preserves prior product, superseding product, source-review image, sensor references, abort, and no-fire records as one challenged incident set. She still does not know Julie or the Washington custody event.
+- **Officer Ortiz:** Retains scene and evidence authority under MPD incident `187463`, receives all seven separate packages, and remains a lawful institutional witness rather than a technical ally.
+- **Officer Hannah Park:** Named witness officer, badge 5831, whose function is receipt witnessing and body-camera continuity. No recurring-series obligation is created.
+- **Mercer/Apex:** Remain outside evidence custody. Classification/property claims continue, but no original transfers to Apex.

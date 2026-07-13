@@ -139,3 +139,16 @@ At the end of the first full draft:
 - Accepted Act III subtotal: Chapter 13 (6,175) + Chapter 14 (5,763) = **11,938**.
 - Chapter 15 is mission locked as **The Split Record**, target 5,700–6,400 words.
 - The Chapter 15 lock is planning only and does not change the accepted count or endpoint.
+
+## Accepted Chapter 15 word-budget update
+
+| Measure | Words |
+|---|---:|
+| Accepted manuscript through Chapter 15 | 81,586 |
+| Chapter 15 accepted contribution | 5,993 |
+| Remaining to minimum 100,000 | 18,414 |
+| Remaining to planning target 112,500 | 30,914 |
+| Remaining before maximum 125,000 | 43,414 |
+| Accepted Act III subtotal, Chapters 13–15 | 17,931 |
+
+Chapter 15 lands inside its 5,700–6,400 range. The later Chapter 16–resolution functions remain provisional until individually mission locked. The immediate next gate is Chapter 16 mission planning and locking only; no Chapter 16 prose or full remaining-Act-III outline is authorized by this update.

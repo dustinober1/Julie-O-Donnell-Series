@@ -184,3 +184,11 @@
 - The west route remains viable until police vehicles close it at 07:48:24; Julie aborts immediately and shuts down PCF-27 before 07:48:30.
 - Endpoint: van off, key visible, MPD controls the level/west gate, evidence separated, no receipt complete.
 - Hartwell acknowledges a relevant held record but discloses no serial, certificate, presenter, receiver, challenge content, or briefing content.
+
+## Accepted Chapter 15 location update
+
+- **Public garage level six:** Remains the sole Washington scene through completion of the seven-package interim transfer. PCF-27 stays powered down and police-controlled. No escape route reopens.
+- **Ambulance/medical transport:** Marcus enters ambulance care under MPD guard; this is medical custody, not recovery or a new tactical platform.
+- **Separate Elias transport:** Elias is moved through a distinct medically appropriate guarded path; no shared transport or direct communication with Marcus/Julie.
+- **Marked MPD vehicle:** Julie is transported separately with front-positioned padded restraint compatible with her wrist injury.
+- **Forward Post Arjun:** Sharma's cutaway occurs in the existing command/record environment. No new K-17 or Hartwell geography is invented.

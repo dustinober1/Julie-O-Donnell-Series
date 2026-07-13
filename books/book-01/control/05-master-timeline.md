@@ -168,3 +168,22 @@
 - **07:49:00:** Phase B deadline passes without an observable answer.
 - **07:49:29:** Final cross-reference preservation request is entered.
 - **07:49:32 EDT / 17:19:32 IST:** Accepted endpoint on garage level six under MPD scene control; evidence remains separated; no receipt is complete; 4:28 remains in Masking Window Two.
+
+## Accepted Chapter 15 timeline update
+
+| EDT | IST | Event | Evidence / consequence |
+|---:|---:|---|---|
+| 07:49:32 | 17:19:32 | Chapter 15 opens at the exact Chapter 14 endpoint under MPD scene authority. | No original has transferred. |
+| 07:50:28 | 17:20:28 | Ortiz begins separate object entries under MPD incident `187463`. | One incident; distinct objects and custodians. |
+| 07:52:20 | 17:22:20 | Washington transfer pauses for the Sharma cutaway. | No original has transferred before the cutaway. |
+| 07:52:20–07:54:00 | 17:22:20–17:24:00 | Authenticated superseding allied package arrives; K-17 anomalies disappear from the actionable picture; Sharma preserves prior, superseding, and local records as a challenged incident set. | Counter-battery suspension and no-fire record remain. |
+| 07:54:00 | 17:24:00 | Superseding product becomes controlling. | Prior product is superseded, not erased. |
+| 07:54:48 | 17:24:48 | Recovery cartridge transfers to MPD package `MPD-901442`. | First completed original transfer. |
+| 07:54:56 | 17:24:56 | Paper log transfers to `MPD-901443`. | Minimum necessary receipt record preserved. |
+| 07:55:02 | 17:25:02 | Dead telematics module transfers to `MPD-901444`. | Ancillary item remains separate. |
+| 07:55:06 | 17:25:06 | Waterproof folder transfers to `MPD-901445`. | Folder/itemization remains separate. |
+| 07:55:11 | 17:25:11 | Aluminum case transfers to `MPD-901441`. | Closed; 136/47/311 exact. |
+| 07:55:22 | 17:25:22 | Administrator board transfers to `MPD-901446`. | Board remains separate and unconnected. |
+| 07:55:31 | 17:25:31 | Dual-partition module transfers to `MPD-901447`. | Partition A/B and journal distinctions preserved. |
+| 07:55:42 | 17:25:42 | Medical/person separation begins. | Direct physical unity ends. |
+| 07:56:40 | 17:26:40 | Chapter endpoint. | Marcus in guarded ambulance care; Elias in separate guarded medical transport; Julie in marked MPD transport; Ortiz retains seven packages. |

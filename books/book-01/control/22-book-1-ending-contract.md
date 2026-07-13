@@ -141,3 +141,7 @@ Before the final chapter is accepted, answer **yes** to all of the following:
 8. Does Julie choose a future rather than merely survive?
 9. Are deliberate series carryovers named and bounded?
 10. Could the book end here without requiring Book 2 to finish Book 1’s emergency?
+
+## Chapter 15 acceptance implication
+
+Accepted Chapter 15 advances the independent-custody and Sharma-record obligations without satisfying the ending contract prematurely. Seven separately sealed originals now survive in MPD custody outside Vance's exclusive control, and Sharma preserves an independently held contradiction between prior, superseding, and local records. The chapter does not resolve Hartwell presenter custody, Phase B, K-17, WSS plaintext, Marcus's on-record correction, Chen/Mercer final choices, Vance's consequence, or the public narrative fracture. All required Book 1 resolutions remain active and viable.

@@ -232,3 +232,11 @@ Tariq’s strategic objective may not require the same public outcome Sterling o
 - **Tariq:** No direct Chapter 14 action; K-17 access and Phase B remain unconfirmed.
 - **Chen:** Preserves capture, life, evidence, named custody, and Vance’s contradictory instructions without warning or releasing the trio.
 - **Mercer:** Remains adversarial, contests custody, obeys MPD scene authority, receives no evidence, and does not fire.
+
+## Accepted Chapter 15 antagonist-state update
+
+- Vance/Apex lose physical control of the seven originals to MPD but retain classification, property, public-narrative, and technical-interpretation pressure. No arrest, confession, or final defeat occurs.
+- Sterling's public narrative remains dominant and can absorb detention as apparent confirmation. No personal possession, presentation, command, or keystroke is proved.
+- Tariq receives no interiority or physical appearance. K-17 access and Phase B remain unconfirmed.
+- The superseding reconstruction removes K-17 anomalies from the actionable allied picture, strengthening the apparent completeness of the official record without proving who ordered it or whether the omitted events were true.
+- Sharma's preservation decision creates a future antagonist vulnerability: multiple products and independent local records survive together.

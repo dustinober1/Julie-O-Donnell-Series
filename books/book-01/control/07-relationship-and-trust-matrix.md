@@ -44,3 +44,13 @@
 - Julie and Ortiz establish procedural trust without belief; Ortiz is neither ally nor technical expert.
 - Mercer remains a professional adversary under MPD authority; Chen remains capture-oriented and evidence-sensitive; neither defects.
 - Hartwell is an external evidentiary contact only and discloses no protected substance.
+
+## Accepted Chapter 15 relationship update
+
+- Julie, Marcus, and Elias preserve operational trust through a deliberately complete custody sequence, but physical separation ends direct teamwork for the first time since Apex.
+- Julie protects Marcus by honoring the medical deadline and hard-abort rule rather than using his endurance as evidence of fitness.
+- Julie protects Elias's agency by preserving separate board/module descriptions and voluntary transfer records rather than collapsing him into the public hostage narrative.
+- Marcus and Elias each surrender originals to a lawful named officer without conceding technical interpretation.
+- Julie and Ortiz's procedural trust strengthens without belief, alliance, or technical endorsement.
+- Mercer remains an adversarial professional who respects MPD scene authority and receives no evidence.
+- Sharma remains thematically aligned with Julie but operationally separate; neither knows the other's event.

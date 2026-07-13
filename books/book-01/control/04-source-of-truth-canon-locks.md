@@ -222,3 +222,17 @@
 - The physical presenter of `SSO-NS-004`, exact Hartwell serial, compact black case contents, WSS-4 plaintext, K-17 access, Phase B action, Masking Window Two purpose, and reconstruction-profile purpose remain unresolved.
 - Marcus and Elias retain physically separated primary originals. MPD scene control, object inventory, and serial collection do not constitute a completed evidence transfer.
 - Chapter 15 and later prose do not exist. The next gate is Chapter 15 mission planning and mission locking only.
+
+## Accepted Chapter 15 canon locks
+
+- Chapter 15 — **The Split Record** — is accepted unchanged at **5,993** words at `books/book-01/manuscript/chapters/chapter-15.md`.
+- Reviewed and accepted blob: `73b387872d3c4937f6598b20d4bcc90d6c46f415`.
+- Accepted endpoint: **07:56:40 EDT / 17:26:40 IST**.
+- MPD incident `187463` now holds seven separately sealed packages `MPD-901441` through `MPD-901447`; no package was opened, connected, combined, altered, or transferred to Apex.
+- Marcus and Elias no longer retain the transferred originals. Julie, Marcus, and Elias are in separate MPD/EMS transport and cannot communicate directly.
+- Marcus's hard-abort threshold approached but did not trigger after oxygen improved saturation from 90 to 92–93 percent while orientation remained intact.
+- The allied superseding product became controlling at exactly **07:54:00 EDT / 17:24:00 IST**. This did not retroactively alter sealed originals or independent local records.
+- Sharma preserves the prior product, superseding product, local source-review image, sensor references, abort record, and no-fire record as one challenged incident set.
+- Hartwell presenter and exact serial remain unresolved; WSS-4 remains encrypted; Phase B remains undefined and unauthorized in accepted evidence; K-17 access remains unconfirmed.
+- Police receipt is interim custody documentation, not authentication, exoneration, final federal intake, guilt, or innocence.
+- Chapter 16 and later prose do not exist. The next gate is Chapter 16 mission planning and mission locking only.

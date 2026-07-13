@@ -815,3 +815,13 @@ The exact purpose must remain unresolved until dramatized or decrypted.
 - Hartwell’s own held local-challenge/access record—not Elias’s module—is the potential future source for the exact challenged serial, certificate, presenter, receiver, challenge content, and local access context.
 - The white-to-steady-green exterior change is a bounded physical indicator of accepted/complete local state only. It cannot identify a device serial or human hand.
 - The Module, Hartwell, MPD body camera, MPD dispatch, commercial-garage records, WSS-4 local audit, and Apex/Chen records remain technically and institutionally distinct sources requiring later authentication and clock reconciliation.
+
+## 10.44 Accepted Chapter 15 superseding-product and custody rules
+
+- The authenticated superseding package is a new allied product. It does not edit the primary case, board, dual-partition module, WSS local audit, MPD records, or Indian local records.
+- Newer authentication establishes a valid product state, not automatic truth.
+- The counter-battery suspension and no-fire state remain while the actionable source picture changes.
+- The K-17 anomalies disappear from the actionable allied product; their disappearance does not prove they were true or false.
+- The prior product becomes **superseded at 07:54:00 EDT / 17:24:00 IST**; it is not deleted from Sharma's preserved incident set.
+- MPD seals and receipts establish physical package handling, not cryptographic or analytic authentication.
+- Partition A, Partition B, and the handling journal remain separate logical/evidentiary states inside one sealed physical module.

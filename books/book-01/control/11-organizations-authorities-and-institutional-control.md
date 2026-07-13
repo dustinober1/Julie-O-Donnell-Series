@@ -55,3 +55,12 @@
 3. Apex may assert classification/property interests but cannot seize originals through MPD without documented authority and receipt.
 4. The trio retains physical custody of distinct originals until a valid transfer is complete.
 5. No institution gains universal control merely because it controls one site, channel, or classification claim.
+
+## Accepted Chapter 15 authority update
+
+1. MPD controls the public scene, searches/detains people, seizes and separately packages originals, documents receipt fields, and provides guards for transport.
+2. EMS controls the medical deadline and medically appropriate movement of Marcus and Elias.
+3. Apex may assert generic classified-material and property interests but receives no original and cannot displace MPD scene authority by assertion alone.
+4. Person custody, evidence/property custody, medical control, and later federal jurisdiction remain separate categories.
+5. No final charge, warrant, court order, federal receiving team, or final property-room technical intake exists at the endpoint.
+6. Hartwell retains its own held record; Northbridge retains or contests its local audit; Sharma/Indian channels retain their own records. MPD custody of seven packages does not create universal record possession.
