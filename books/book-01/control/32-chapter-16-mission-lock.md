@@ -2,12 +2,12 @@
 
 ## 1. Status and authority
 
-**Status:** Approved pre-draft production lock.
+**Status:** Fulfilled planning provenance; Chapter 16 is accepted after one surgical POV-firewall revision.
 **Scope:** Chapter 16 only.
-**Authority:** Accepted manuscript through Chapter 15, current Book 1 controls, the Book 1 ending contract, and Narrative House Style v2.0/v2.1/v2.2.
-**Canon effect:** None. This document plans Chapter 16. It does not create accepted story events, alter the accepted manuscript, or authorize any later-chapter fact.
+**Authority:** The pre-draft sections preserve the constraints used to produce and review Chapter 16. Current acceptance status is controlled by the disposition at the end of this file and `33-chapter-16-acceptance-review.md`.
+**Canon effect:** The planning sections did not create canon when written. Accepted Chapter 16 prose and its synchronized controls now govern the events dramatized within the locked boundaries.
 
-The accepted opening remains the final line and physical state of Chapter 15 at **07:56:40 EDT / 17:26:40 IST**. Chapter 16 prose must not be placed in the accepted manuscript until it is drafted under `books/book-01/drafts/`, reviewed, and promoted through the formal acceptance gate.
+The controlling pre-draft opening was the final line and physical state of Chapter 15 at **07:56:40 EDT / 17:26:40 IST**. Chapter 16 prose must not be placed in the accepted manuscript until it is drafted under `books/book-01/drafts/`, reviewed, and promoted through the formal acceptance gate.
 
 ## 2. Controlling accepted opening state
 
@@ -743,17 +743,17 @@ Before Chapter 16 can pass a drafting review, confirm:
 
 This document contains planning, state definitions, conditions, and scene architecture only. It is **not prose**, **not accepted canon**, **not an acceptance verdict**, and **not a complete outline for the remainder of Act III**.
 
-Approval of this lock authorizes a future drafting session to create one unaccepted Chapter 16 draft under `books/book-01/drafts/chapter-16.md`. The accepted manuscript remains Prologue and Chapters 1–15 at **81,586 words**, ending at **07:56:40 EDT / 17:26:40 IST**, until Chapter 16 is separately drafted, reviewed, and promoted through the acceptance gate.
+At the time this lock was approved, it authorized one unaccepted Chapter 16 draft under `books/book-01/drafts/chapter-16.md`; the accepted manuscript then remained Prologue and Chapters 1–15 at **81,586 words**, ending at **07:56:40 EDT / 17:26:40 IST**. That pre-acceptance state is superseded by the acceptance disposition below.
 
 ## Chapter 16 acceptance disposition — 2026-07-13
 
-The locked mission was fulfilled by the complete draft without prose revision. Formal review `33-chapter-16-acceptance-review.md` issued **ACCEPT** at 6,024 words.
+The locked mission was fulfilled after one surgical POV-firewall revision. Formal review `33-chapter-16-acceptance-review.md` issued **ACCEPT** at 6,024 words after correcting three Sharma-cutaway passages that named details not transmitted across the allied boundary.
 
-- Reviewed and accepted blob: `ff6fbaa66170a03502589309b3d1c2d74b50a289`.
+- Reviewed and accepted blob: `dd5249f4b510a9da9ad19ab2902a95ce1e62a1d8`.
 - Accepted path: `../manuscript/chapters/chapter-16.md`.
 - Opening: 07:56:40 EDT / 17:26:40 IST.
 - Endpoint: 08:15:52 EDT / 17:45:52 IST.
 - POV: Julie → Marcus → Sharma → Julie.
-- Prose changed during review: no.
+- Prose changed during review: yes — one significant knowledge-firewall finding corrected with three equal-count passage repairs.
 - All mission requirements passed; every prohibited resolution remains unresolved.
 - Next gate: Chapter 17 mission planning and mission locking only. Do not draft Chapter 17.
