@@ -1,15 +1,15 @@
 # 0. BOOK 1 CONTROL PACK OVERVIEW
 
-**Control-pack version:** 3.4
-**Accepted prose:** Prologue and Chapters 1–15
-**Accepted length:** 81,586 words
-**Accepted endpoint:** 07:56:40 EDT / 17:26:40 IST, separated MPD/EMS transport after interim MPD seizure under incident `187463`
+**Control-pack version:** 3.5
+**Accepted prose:** Prologue and Chapters 1–16
+**Accepted length:** 87,610 words
+**Accepted endpoint:** 08:15:52 EDT / 17:45:52 IST, secure MPD evidence intake under Hackett’s named preservation hold
 **Chapter 13:** Accepted as **The Carrier Stream**
 **Chapter 14:** Accepted as **The Witness Line**
 **Chapter 15:** Accepted as **The Split Record**
-**Chapter 16 mission lock:** Approved as **The Hold Order**
-**Chapter 16 and later prose:** Not drafted
-**Next production gate:** Draft Chapter 16 under `books/book-01/drafts/chapter-16.md` from `32-chapter-16-mission-lock.md`
+**Chapter 16:** Accepted as **The Hold Order** after one surgical POV-firewall revision
+**Chapter 17 and later prose:** Not drafted
+**Next production gate:** Chapter 17 mission planning and mission locking only
 
 ## Authority
 
@@ -21,29 +21,32 @@
 
 ## Current accepted operational state
 
-At 07:56:40 EDT / 17:26:40 IST:
+At 08:15:52 EDT / 17:45:52 IST:
 
-- Julie is detained in a marked MPD vehicle under an injury-compatible front restraint.
-- Marcus is in guarded ambulance care on oxygen.
-- Elias is in separate guarded medical transport.
-- MPD incident `187463` holds seven separately sealed packages `MPD-901441` through `MPD-901447`.
-- No final federal or independent technical receiver exists.
-- The superseding allied product controls the actionable picture from 07:54 EDT / 17:24 IST.
-- Sharma separately preserves the prior product, superseding product, source-review image, local references, abort, and no-fire records as one challenged incident set.
-- Hartwell presenter/exact serial, WSS plaintext, K-17 access, Phase B, reconstruction authorship/purpose/truth, final custody, and public fracture remain unresolved.
+- Julie remains restrained in marked MPD transport at the secure evidence-intake threshold.
+- Marcus remains in guarded ambulance/medical custody on four liters of oxygen after EMS ended his recorded statement.
+- Elias remains in separate guarded medical transport and performs no new technical action.
+- MPD incident `187463` holds seven separately sealed packages `MPD-901441` through `MPD-901447` inside the locked chest at secure intake.
+- General William Hackett is the named federal preservation sponsor; he is not the physical receiver, examiner, or technical authority over the contents.
+- No final federal receiver or independent technical examiner exists.
+- An allied challenged-set acknowledgment is linked to the hold through product identifiers, record categories, status caveats, local clock basis, and a disclosure restriction.
+- Julie does not know Sharma’s identity, the Indian no-fire outcome, the local record contents, K-17’s physical outcome, or Phase B’s meaning.
+- Sharma does not know Julie, MPD incident `187463`, the seven packages, Hartwell custody events, WSS-4 contents, or the trio’s current location.
+- Hartwell presenter/exact serial, compact-case contents, WSS plaintext, K-17 access, Phase B, reconstruction authorship/purpose/truth, final custody, and public fracture remain unresolved.
+- Sterling’s hostile armed-insider narrative remains publicly dominant.
 
-## Approved Chapter 16 planning
+## Chapter 16 accepted result
 
-`32-chapter-16-mission-lock.md` requires Chapter 16 to:
+`32-chapter-16-mission-lock.md` was fulfilled and `33-chapter-16-acceptance-review.md` records **ACCEPT**.
 
-- open exactly at 07:56:40 EDT / 17:26:40 IST;
-- remain dominated by custody escalation and a named institutional preservation choice;
-- use Julie as primary POV with one bounded Marcus ambulance cutaway and one bounded Sharma cutaway;
-- keep all seven MPD packages separate, sealed, offline, and physically in MPD custody;
-- make Marcus’s six-years-ago correction attributable and medically bounded;
-- require General Hackett to choose whether to place his name and authority on a preservation hold;
-- create a bounded allied preservation acknowledgment without Julie–Sharma contact or a truth finding;
-- leave Hartwell presenter/serial, WSS plaintext, K-17 access, Phase B, reconstruction purpose, final federal custody, independent technical findings, and public vindication unresolved; and
-- end no later than 08:16:40 EDT / 17:46:40 IST at a secure MPD evidence-intake threshold with no final technical receiver.
+- Opening: 07:56:40 EDT / 17:26:40 IST.
+- Endpoint: 08:15:52 EDT / 17:45:52 IST.
+- POV: Julie → Marcus → Sharma → Julie.
+- Reviewed blob: `dd5249f4b510a9da9ad19ab2902a95ce1e62a1d8`.
+- Exact count: 6,024 words.
+- Prose change: three equal-count passages in the Sharma cutaway were revised to remove narrator-level Washington, Hartwell, Payload 88, and MPD-specific knowledge that had not crossed the allied boundary.
+- Mission result: Marcus’s correction is recorded under EMS control; Hackett places his name behind preservation; MPD retains all seven packages separately sealed and offline; Sharma returns a bounded preservation acknowledgment; no final receiver or technical merits finding exists.
 
-The plan is not story canon until prose is drafted, accepted, and promoted.
+## Current gate
+
+Conduct **Chapter 17 mission planning and mission locking only** from the accepted Chapter 16 endpoint. Do not draft Chapter 17 or create a complete chapter-by-chapter outline for the remainder of Act III.
