@@ -16,7 +16,7 @@ Repository for the Julie O'Donnell contemporary geopolitical techno-thriller / m
 - Chapter 20 title: **The Custody Exception**
 - Chapter 20 draft state: **complete first draft; awaiting formal acceptance review; unaccepted; non-canon**
 - Chapter 20 exact draft words: **4,171**
-- Chapter 20 draft blob: `13ee716d0e4b93fe73141a0c9f85488af74ce7c8`
+- Chapter 20 draft blob: `d983f952caca56c41b9f7d1ef976a9ae1b281a78`
 - Chapter 20 opening: **10:44:12 EDT / 20:14:12 IST**, secure MPD evidence intake
 - Chapter 20 endpoint: **11:26:32 EDT / 20:56:32 IST**, secure MPD evidence intake
 - Chapter 21 prose or mission lock: not created
