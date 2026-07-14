@@ -93,7 +93,7 @@ No mission, scene, timeline, custody, medical, evidence, knowledge, or endpoint 
 - Exactly one Chapter 19 prose file exists after promotion, under the manuscript path.
 - No Chapter 19 draft remains.
 - No Chapter 20 prose, Chapter 20 mission lock, or complete remainder-of-Act-III outline exists.
-- Permanent validation and `git diff --check` are required before merge.
+- Permanent Book 1 validation passed on the final review branch, including the exact **103,369-word** accepted total, protected Chapter 14–19 blobs and counts, synchronized-control checks, stale-state exclusions, temporary-file exclusions, and `git diff --check`.
 
 ## Final verdict
 
