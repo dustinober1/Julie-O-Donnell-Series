@@ -1,8 +1,8 @@
-# Canon Control Pack v3.5
+# Canon Control Pack v3.6
 
 The accepted manuscript always outranks this control pack.
 
-Version 3.5 records accepted Chapter 16, **The Hold Order**, after one surgical POV-firewall revision. Accepted canon is Prologue and Chapters 1–16 at **87,610 words**, ending at **08:15:52 EDT / 17:45:52 IST** at secure MPD evidence intake under Hackett’s named preservation hold.
+Version 3.6 records the approved Chapter 17 mission lock, **The First Examination**. Accepted canon remains Prologue and Chapters 1–16 at **87,610 words**, ending at **08:15:52 EDT / 17:45:52 IST** at secure MPD evidence intake under Hackett's named preservation hold.
 
 - [Overview](00-overview.md)
 - [1. Document Purpose and Use](01-document-purpose-and-use.md)
@@ -38,9 +38,10 @@ Version 3.5 records accepted Chapter 16, **The Hold Order**, after one surgical 
 - [31. Chapter 15 Acceptance Review](31-chapter-15-acceptance-review.md)
 - [32. Chapter 16 Mission Lock](32-chapter-16-mission-lock.md)
 - [33. Chapter 16 Acceptance Review](33-chapter-16-acceptance-review.md)
+- [34. Chapter 17 Mission Lock](34-chapter-17-mission-lock.md)
 
 Cross-book character continuity is controlled separately in [`../../../series/recurring-character-ledger.md`](../../../series/recurring-character-ledger.md).
 
 ## Current gate
 
-Conduct **Chapter 17 mission planning and mission locking only** from the accepted Chapter 16 endpoint. Do not draft Chapter 17 or create a complete chapter-by-chapter outline for the remainder of Act III.
+Draft exactly one complete first version of Chapter 17 — **The First Examination** — at `../drafts/chapter-17.md` from `34-chapter-17-mission-lock.md`. Do not draft Chapter 18 or create a complete remainder-of-Act-III outline.
