@@ -1,16 +1,16 @@
-name: Kick Chapter 19 acceptance promotion
+name: Run Chapter 19 acceptance promotion
 
 on:
   pull_request:
     branches:
       - main
-    types: [opened, reopened]
+    types: [opened, reopened, synchronize]
 
 permissions:
   contents: write
 
 jobs:
-  kick:
+  promote:
     if: github.head_ref == 'agent/chapter-19-acceptance'
     runs-on: ubuntu-latest
     steps:
@@ -18,10 +18,36 @@ jobs:
         with:
           fetch-depth: 0
           ref: agent/chapter-19-acceptance
-      - name: Trigger promotion workflow
+
+      - name: Install YAML support
+        run: python -m pip install --quiet pyyaml
+
+      - name: Execute reviewed promotion script
         shell: bash
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit --allow-empty -m "Trigger Chapter 19 acceptance automation"
-          git push origin HEAD:agent/chapter-19-acceptance
+          python - <<'PY'
+          from pathlib import Path
+          import subprocess
+          import yaml
+
+          workflow = yaml.safe_load(Path('.github/workflows/chapter19-acceptance-promotion.yml').read_text(encoding='utf-8'))
+          steps = workflow['jobs']['promote']['steps']
+          selected = {
+              step['name']: step['run']
+              for step in steps
+              if step.get('name') in {
+                  'Review, repair, promote, and synchronize Chapter 19',
+                  'Commit synchronized promotion',
+              }
+          }
+          for name in (
+              'Review, repair, promote, and synchronize Chapter 19',
+              'Commit synchronized promotion',
+          ):
+              script = selected.get(name)
+              if not script:
+                  raise SystemExit(f'missing promotion step: {name}')
+              print(f'::group::{name}')
+              subprocess.run(['bash', '-euo', 'pipefail', '-c', script], check=True)
+              print('::endgroup::')
+          PY
