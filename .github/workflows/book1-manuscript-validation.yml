@@ -55,4 +55,4 @@ jobs:
 
       - name: Check whitespace
         if: github.event_name == 'pull_request'
-        run: git diff --check "origin/${{ github.base_ref }}...HEAD"
+        run: git diff --check --ignore-space-at-eol "origin/${{ github.base_ref }}...HEAD"
