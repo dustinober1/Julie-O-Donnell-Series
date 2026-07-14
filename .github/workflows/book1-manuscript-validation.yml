@@ -190,9 +190,23 @@ jobs:
           ]
           for rel in status_files:
               text = (root / rel).read_text(encoding="utf-8")
-              for item in ["Chapter 18", "97,976", "10:01:12 EDT / 19:31:12 IST", "4,478"]:
+              for item in ["Chapter 18", "97,976", "10:01:12 EDT / 19:31:12 IST"]:
                   require(item in text, f"{rel} missing {item}")
               require("Chapter 19" in text, f"{rel} missing next gate")
+
+          detailed_count_files = [
+              "README.md",
+              "books/book-01/control/00-overview.md",
+              "books/book-01/control/16-chapter-by-chapter-status-record.md",
+              "books/book-01/control/20-control-pack-maintenance-rules.md",
+              "books/book-01/control/23-word-budget-and-act-iii-architecture.md",
+              "books/book-01/control/README.md",
+              "books/book-01/drafts/README.md",
+              "books/book-01/manuscript/STATUS.md",
+          ]
+          for rel in detailed_count_files:
+              text = (root / rel).read_text(encoding="utf-8")
+              require("4,478" in text, f"{rel} missing Chapter 18 exact count")
 
           index = (root / "books/book-01/control/README.md").read_text(encoding="utf-8")
           require("Canon Control Pack v4.1" in index, "control-pack version not 4.1")
