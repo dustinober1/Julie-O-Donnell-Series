@@ -24,11 +24,12 @@ The authoritative production status is [`PROJECT_STATE.yaml`](PROJECT_STATE.yaml
 - MPD retains physical custody of all seven packages, `MPD-901441` through `MPD-901447`.
 - Every package remains separate, sealed, offline, unopened, unconnected, and uncombined in accepted canon.
 - Marcus's complete six-years-ago correction is attributable and its consequences remain unresolved.
-- No final federal receiver, public vindication, Hartwell presenter, exact challenged serial, WSS plaintext, K-17 result, or Phase B result exists in accepted canon.
+- A bounded allied preservation acknowledgment exists without giving Julie Sharma's identity, the no-fire outcome, or the allied contents.
+- No final federal receiver, accepted technical examiner, public vindication, Hartwell presenter, exact challenged serial, WSS plaintext, K-17 result, or Phase B result exists in accepted canon.
 
 ## Chapter 17 first draft
 
-The draft is controlled by [`books/book-01/control/34-chapter-17-mission-lock.md`](books/book-01/control/34-chapter-17-mission-lock.md) and lives only at [`books/book-01/drafts/chapter-17.md`](books/book-01/drafts/chapter-17.md).
+Chapter 17 is controlled by [`books/book-01/control/34-chapter-17-mission-lock.md`](books/book-01/control/34-chapter-17-mission-lock.md) and lives only at [`books/book-01/drafts/chapter-17.md`](books/book-01/drafts/chapter-17.md).
 
 - Working title: **The First Examination**
 - Exact draft length: **5,888 whitespace-delimited Markdown words**
@@ -45,13 +46,37 @@ The draft has not passed the formal acceptance gate. It is not listed in `ACCEPT
 
 ## Source-of-truth hierarchy
 
-1. [`books/book-01/ACCEPTED_MANUSCRIPT.yaml`](books/book-01/ACCEPTED_MANUSCRIPT.yaml) and accepted files it lists
+1. [`books/book-01/ACCEPTED_MANUSCRIPT.yaml`](books/book-01/ACCEPTED_MANUSCRIPT.yaml) and the accepted files it lists
 2. [`books/book-01/control/`](books/book-01/control/) for canon controls and approved production planning
-3. [`series/`](series/) for cross-book continuity
+3. [`series/`](series/) for cross-book continuity and recurring-character controls
 4. [`books/book-01/drafts/`](books/book-01/drafts/) for unaccepted prose
 5. [`PROJECT_STATE.yaml`](PROJECT_STATE.yaml) for production status and navigation
-6. [`archive/`](archive/) and Git history for non-controlling provenance
+6. [`archive/`](archive/) and Git history for superseded or external-source provenance
 
-## Next gate
+Accepted prose outranks every summary, tracker, plan, and draft. Draft prose cannot create canon until explicitly promoted through the acceptance gate.
 
-Conduct the formal Chapter 17 acceptance review. Do not draft Chapter 18 or create a complete remainder-of-Act-III outline in that review session.
+## Current production controls
+
+- [Book 1 ending contract](books/book-01/control/22-book-1-ending-contract.md)
+- [Word budget and provisional Act III architecture](books/book-01/control/23-word-budget-and-act-iii-architecture.md)
+- [Thread disposition matrix](books/book-01/control/24-thread-disposition-matrix.md)
+- [Chapter acceptance gate](books/book-01/control/25-chapter-acceptance-gate.md)
+- [Chapter 16 mission lock](books/book-01/control/32-chapter-16-mission-lock.md)
+- [Chapter 16 acceptance review](books/book-01/control/33-chapter-16-acceptance-review.md)
+- [Chapter 17 mission lock](books/book-01/control/34-chapter-17-mission-lock.md)
+- [Series recurring-character ledger](series/recurring-character-ledger.md)
+
+## Chapter 17 acceptance-review rule
+
+Conduct the formal Chapter 17 acceptance review against the draft, mission lock, accepted Chapter 16 endpoint, and Chapter 17 acceptance gate. Do not add the draft to the accepted manifest, do not place it under `manuscript/`, do not draft Chapter 18, and do not create a complete remainder-of-Act-III outline unless the review separately authorizes promotion.
+
+## Permanent continuity repair
+
+The Chapter 5-to-6 chronology, two-stage deadline, title, geography, and L3-7 handoff were repaired and integrated on July 12, 2026.
+
+- Chapter 5: **The Second Clock**
+- Chapter 7: **The Human Key**
+- 16:30 EDT / 02:00 IST: allied source certification
+- 05:00 EDT / 14:30 IST: executable counter-battery support commit and firing-decision point
+- Integration commit: `f6d49cbeae2b2f23daac55dc0bacfeb040428f5f`
+- Permanent record: `books/book-01/repairs/chapter-05-to-06-continuity-repair/`
