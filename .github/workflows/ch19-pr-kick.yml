@@ -1,0 +1,27 @@
+name: Kick Chapter 19 acceptance promotion
+
+on:
+  pull_request:
+    branches:
+      - main
+    types: [opened, reopened]
+
+permissions:
+  contents: write
+
+jobs:
+  kick:
+    if: github.head_ref == 'agent/chapter-19-acceptance'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: agent/chapter-19-acceptance
+      - name: Trigger promotion workflow
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit --allow-empty -m "Trigger Chapter 19 acceptance automation"
+          git push origin HEAD:agent/chapter-19-acceptance
