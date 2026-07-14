@@ -1,0 +1,24 @@
+name: Chapter 17 acceptance promotion
+
+on:
+  push:
+    branches:
+      - "agent/chapter-17-acceptance-review"
+    paths:
+      - "tools/promote_chapter17_acceptance.py"
+      - ".github/workflows/chapter17-acceptance-promotion.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  promote:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          show-progress: false
+          ref: "agent/chapter-17-acceptance-review"
+      - name: Run synchronized Chapter 17 promotion
+        run: python tools/promote_chapter17_acceptance.py
