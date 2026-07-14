@@ -14,6 +14,7 @@ This directory contains prose that may be complete, revised, or mission-locked b
 - Status: **first draft; unaccepted; non-canon**
 - Acceptance gate: not yet conducted
 - Accepted-manuscript effect: none
+- Production-file whitespace: clean under `git diff --check`
 
 ## Accepted manuscript
 
