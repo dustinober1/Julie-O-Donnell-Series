@@ -1,6 +1,6 @@
 # 0. BOOK 1 CONTROL PACK OVERVIEW
 
-**Control-pack version:** 4.2
+**Control-pack version:** 4.3
 
 **Accepted prose:** Prologue and Chapters 1–18
 
@@ -30,32 +30,35 @@
 - Dominant result: K-17 remained intact; Security Line One passed; `K17-PHASE-B` requested local source-record reconstruction/maintenance commit; final local authentication failed; local writes remained zero; the later superseding product omitted the local events
 - Evidence: `ARJ-K17-018`, `ARJ-K17-001`, `ARJ-K17-002`, `ARJ-K17-003`, and `ARJ-K17-ACK-01` remain bounded and separately controlled
 - Washington firewall: no automatic field-merits transfer to Julie, Marcus, Elias, or a named Washington recipient
-- MPD custody and trio medical state: unchanged offstage
-- Prohibited findings remain unresolved: human operators, personal keystrokes/possession, WSS plaintext, Hartwell presenter, reconstruction author/upstream command, final federal custody, guilt, innocence, admissibility, immunity, and public vindication
+- MPD custody and trio medical state: unchanged at the accepted endpoint
+- Prohibited findings remain unresolved in canon: human operators, personal keystrokes/possession, WSS plaintext, Hartwell presenter, reconstruction author/upstream command, final federal custody, guilt, innocence, admissibility, immunity, and public vindication
 
-## Approved Chapter 19 planning
+## Chapter 19 first-draft state — non-canon
 
 - Mission lock: `38-chapter-19-mission-lock.md`
-- Status: **mission locked; undrafted; non-canon**
-- Dominant mission: reconnect the bounded K-17 result to Washington through one named federal receiving act, then obtain Hartwell's exact `SSO-NS-004` serial and institutional physical-custody chain
-- Planned opening: **10:01:12 EDT / 19:31:12 IST**, secure MPD evidence intake
-- Planned endpoint: **10:44:12 EDT / 20:14:12 IST**, secure MPD evidence intake
+- Draft: `../drafts/chapter-19.md`
+- Working title: **The Name on the Record**
+- Status: **drafted; unaccepted; non-canon**
+- Exact draft words: **5,393**
+- Opening: **10:01:12 EDT / 19:31:12 IST**, secure MPD evidence intake
+- Endpoint: **10:44:12 EDT / 20:14:12 IST**, secure MPD evidence intake
 - POV: Julie primary with one bounded Special Agent Leila Grant Hartwell cutaway
-- Planned words: **5,200–5,900**
-- Package rule: no MPD package opened, connected, moved, combined, or transferred
-- Proof ceiling: office/device custody may be established; Sterling's personal possession, keystrokes, command, guilt, and admissibility may not
+- Dominant mission completed in draft form: named federal receiving responsibility, lawful field-result use, Hartwell exact serial, and office-to-Hartwell custody chain
+- Package rule satisfied in the draft: no MPD package opened, connected, moved, combined, or transferred
+- Proof ceiling preserved: Sterling's personal possession, operation, command, guilt, and admissibility remain unproved; current signer custody remains unknown
+- Acceptance review: not created
 - Accepted-manuscript effect: none
 
 ## Current production state
 
 - Acts I and II are complete.
 - Act III contains accepted Chapters 13–18.
-- No active chapter draft exists.
-- Chapter 19 prose does not exist.
+- One active chapter draft exists: Chapter 19 only.
 - Chapter 20 prose or mission lock does not exist.
 - No complete remainder-of-Act-III outline exists.
-- Book 1 remains below the 100,000-word minimum by 2,024 words and is not publication-ready.
+- Book 1 remains below the accepted 100,000-word minimum by 2,024 words because the Chapter 19 draft is not canon.
+- Book 1 is not publication-ready.
 
 ## Current gate
 
-Draft and integrate the complete first version of Chapter 19 under `38-chapter-19-mission-lock.md`. Keep it non-canon until formal acceptance. Do not begin Chapter 20 planning and do not create a complete remainder-of-Act-III outline.
+Perform the formal Chapter 19 acceptance review and synchronized promotion pass. Do not treat the draft endpoint as canon, begin Chapter 20 planning, or create a complete remainder-of-Act-III outline.
