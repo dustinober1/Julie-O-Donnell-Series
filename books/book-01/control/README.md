@@ -1,4 +1,4 @@
-# Canon Control Pack v4.4
+# Canon Control Pack v4.5
 
 The accepted manuscript always outranks this control pack.
 
@@ -11,7 +11,11 @@ The accepted manuscript always outranks this control pack.
 - **Reviewed blob:** `1c7cc22fc7c480cb247efa1f6a2c0d0b1e1b1baf`
 - **Chapter 19 review:** `39-chapter-19-acceptance-review.md` — **ACCEPT**
 - **Active chapter draft:** none
-- **Next authorized gate:** Chapter 20 mission-lock planning only
+- **Chapter 20:** mission locked, undrafted, non-canon
+- **Chapter 20 mission lock:** `40-chapter-20-mission-lock.md`
+- **Chapter 20 mission-lock blob:** `c074e4f6f9ec9cddcbc701e2923f34b3082ede5a`
+- **Chapter 21 prose or mission lock:** none
+- **Next authorized gate:** Chapter 20 first-draft production only
 
 ## Control documents
 
@@ -55,6 +59,7 @@ The accepted manuscript always outranks this control pack.
 - [37. Chapter 18 Acceptance Review](37-chapter-18-acceptance-review.md)
 - [38. Chapter 19 Mission Lock](38-chapter-19-mission-lock.md)
 - [39. Chapter 19 Acceptance Review](39-chapter-19-acceptance-review.md)
+- [40. Chapter 20 Mission Lock — The Custody Exception](40-chapter-20-mission-lock.md)
 
 Cross-book continuity is controlled separately in [`../../../series/recurring-character-ledger.md`](../../../series/recurring-character-ledger.md).
 
@@ -68,9 +73,22 @@ Cross-book continuity is controlled separately in [`../../../series/recurring-ch
 - **MPD custody:** all seven Washington packages remain separate and in MPD physical custody
 - **Hartwell custody:** Hartwell retains original `HWA-LCA-1187`; `HWA-CD-187463-01` is a certified derivative
 - **Indian custody:** Forward Post Arjun retains the originals; `ARJ-K17-ACK-01` remains a bounded external reference
-- **Signer result:** `SSO-NS-004` completed the 07:47:49 EDT challenge through the office-support/Hartwell chain; current physical custody is unknown
-- **Proof ceiling:** registered authority, physical possession, knowledge, and command remain separate
+- **Signer result:** `SSO-NS-004` completed the 07:47:49 EDT challenge through the office-support/Hartwell chain; current physical custody is unknown in accepted canon
+- **Proof ceiling:** registered authority, physical possession, authorization, knowledge, and command remain separate
+
+## Chapter 20 approved planning state
+
+- **Working title:** The Custody Exception
+- **Status:** mission locked, undrafted, non-canon
+- **Opening planned:** 10:44:12 EDT / 20:14:12 IST
+- **Intended endpoint:** 11:26:32 EDT / 20:56:32 IST
+- **Dominant function:** named no-use hold plus office/WSS responsibility-chain confrontation
+- **POV:** Julie primary with one bounded Grant Legislative Secure Services cutaway
+- **Word plan:** target 4,400; preferred 4,000–4,800; hard ceiling 5,200
+- **No-prose rule:** no `chapter-20.md` exists anywhere
+- **Next-chapter rule:** no Chapter 21 prose or mission lock exists or is authorized
+- **Outline rule:** no complete remainder-of-Act-III outline exists or is authorized
 
 ## Current production gate
 
-Prepare the Chapter 20 mission-lock planning pass only. Do not draft Chapter 20 until the lock is approved, and do not create a complete chapter-by-chapter remainder-of-Act-III outline.
+Draft and integrate the first non-canon version of Chapter 20 only from `40-chapter-20-mission-lock.md`. Do not alter accepted prose or the accepted manifest, draft Chapter 21, create a Chapter 21 mission lock, or create a complete chapter-by-chapter outline for the remainder of Act III.

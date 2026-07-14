@@ -59,16 +59,32 @@ No chapter receives words solely to satisfy the target. Every scene must advance
 - Establishes that the dark-overcoat entrant was not the direct challenge presenter at that moment and that current signer custody is unknown.
 - Does not identify Sterling’s personal possession, knowledge, operation, or command; Tariq’s personal operation; Vance’s personal keystrokes; WSS plaintext; remote-reconstruction authorship; guilt; exoneration; or public vindication.
 
+## Chapter 20 approved planning range
+
+- **Mission lock:** `40-chapter-20-mission-lock.md`
+- **Working title:** The Custody Exception
+- **Status:** mission locked, undrafted, non-canon
+- **Dominant function:** place `SSO-NS-004` under a named no-use physical hold and establish the office authorization exception while protecting the proof boundary between carrier, custodian, authorizer, office, and Sterling
+- **Planning target:** **4,400 words**
+- **Preferred range:** **4,000–4,800 words**
+- **Hard ceiling:** **5,200 words**
+- **Projected accepted total at target if later accepted:** **107,769 words**
+- **Remaining to planning target at target:** **4,731 words**
+- **Remaining before maximum at target:** **17,231 words**
+- **Opening planned:** **10:44:12 EDT / 20:14:12 IST**
+- **Intended endpoint:** **11:26:32 EDT / 20:56:32 IST**
+
+The range supports one Julie institutional-conflict line, one bounded Grant cutaway, one midpoint reversal, one consequential custody choice, one multi-record reconciliation, and one transformed endpoint. Do not inflate Chapter 20 with a broad office search, general evidence inventory, WSS decryption, hearing, arrest sequence, public vindication, or aftermath.
+
 ## Provisional later structure
 
-Chapter 20 and later remain **unwritten, individually unlocked, and non-controlling**. This document does not assign a complete chapter-by-chapter remainder-of-Act-III outline.
+Chapter 20 has one approved mission-locked path but remains unwritten and non-controlling as canon. Chapter 21 and later remain **unwritten, individually unlocked, and non-controlling**. This document does not assign a complete chapter-by-chapter remainder-of-Act-III outline.
 
-## Remaining high-level obligations
+## Remaining high-level obligations after the planned Chapter 20 function
 
 Later accepted prose must still provide sufficient space for:
 
-- current custody and authorization of `SSO-NS-004`;
-- office custody log and presenter/receiver records;
+- the instruction behind the office continuity exception and personal-command proof;
 - WSS plaintext or lawful equivalent where necessary;
 - alternative identity path and human responsibility;
 - Vance, Sterling, Tariq, Mercer, Bell, Price, Hackett, Chen, Marcus, Elias, and Sharma payoffs;
@@ -93,4 +109,4 @@ At the end of the complete manuscript:
 
 ## Current gate
 
-Prepare the Chapter 20 mission-lock planning pass only. Do not draft Chapter 20 until the lock is approved, and do not create a complete remainder-of-Act-III outline.
+Draft and integrate the first non-canon version of Chapter 20 only from `40-chapter-20-mission-lock.md`. Do not alter accepted prose or the accepted manifest, draft Chapter 21, create a Chapter 21 mission lock, or create a complete remainder-of-Act-III outline.

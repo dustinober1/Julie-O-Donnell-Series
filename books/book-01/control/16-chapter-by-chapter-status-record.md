@@ -58,12 +58,28 @@ Accepted total through Chapter 19: **103,369 words**.
 - **Custody result:** MPD retains all seven packages; Hartwell retains its original; Indian originals remain local; the Chapter 19 draft copy was removed
 - **Proof ceiling:** no personal Sterling possession/operation/command, Tariq personal operation, Vance personal keystrokes, WSS plaintext, reconstruction author, guilt, exoneration, final signer recovery, or public vindication
 
-## Chapter 20 and later
+## Chapter 20 — mission locked, undrafted, non-canon
+
+- **Working title:** The Custody Exception
+- **Mission lock:** `40-chapter-20-mission-lock.md`
+- **Mission-lock blob:** `c074e4f6f9ec9cddcbc701e2923f34b3082ede5a`
+- **Accepted prose:** none
+- **Draft prose:** none
+- **Opening planned:** **10:44:12 EDT / 20:14:12 IST**, secure MPD evidence intake
+- **Intended endpoint:** **11:26:32 EDT / 20:56:32 IST**, secure MPD evidence intake
+- **POV:** Julie primary; one bounded Grant Legislative Secure Services cutaway
+- **Dominant function:** place `SSO-NS-004` under a named no-use physical hold and establish the office authorization exception while preserving proof limits
+- **Target words:** 4,400
+- **Preferred range:** 4,000–4,800
+- **Hard ceiling:** 5,200
+- **Canon effect:** none until an explicit acceptance review promotes prose
+
+## Chapter 21 and later
 
 - **Status:** Not drafted and not individually mission locked
-- **Planning:** Chapter 20 requires a dedicated mission-lock planning pass before prose
-- **Rule:** No complete chapter-by-chapter remainder-of-Act-III outline has been created
+- **Rule:** No Chapter 21 prose or mission lock exists
+- **Planning:** No complete chapter-by-chapter remainder-of-Act-III outline has been created
 
 ## Current gate
 
-Prepare the Chapter 20 mission-lock planning pass only. Do not draft Chapter 20 until the lock is approved, and do not create a complete remainder-of-Act-III outline.
+Draft and integrate the first non-canon version of Chapter 20 only from `40-chapter-20-mission-lock.md`. Do not draft Chapter 21, create a Chapter 21 mission lock, alter accepted prose or the accepted manifest, or create a complete remainder outline.

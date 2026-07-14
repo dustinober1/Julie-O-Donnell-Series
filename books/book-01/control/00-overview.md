@@ -1,6 +1,6 @@
 # 0. BOOK 1 CONTROL PACK OVERVIEW
 
-**Control-pack version:** 4.4
+**Control-pack version:** 4.5
 
 ## Current accepted state
 
@@ -9,7 +9,10 @@
 - **Accepted Act III:** Chapters 13–19
 - **Accepted endpoint:** **10:44:12 EDT / 20:14:12 IST**, secure MPD evidence intake
 - **Active chapter draft:** none
-- **Chapter 20 prose or mission lock:** not created
+- **Chapter 20 mission lock:** `40-chapter-20-mission-lock.md`
+- **Chapter 20 planning state:** mission locked, undrafted, non-canon
+- **Chapter 20 prose:** not created
+- **Chapter 21 prose or mission lock:** not created
 - **Complete remainder-of-Act-III outline:** not created
 - **Book status:** not publication-ready
 
@@ -28,6 +31,21 @@
 - **Custody:** MPD retains all seven packages; Hartwell retains `HWA-LCA-1187`; Indian originals remain at Forward Post Arjun
 - **Public state:** Sterling’s account remains dominant and uncorrected
 
+## Chapter 20 approved planning state
+
+- **Working title:** The Custody Exception
+- **Mission lock:** `40-chapter-20-mission-lock.md`
+- **Mission-lock blob:** `c074e4f6f9ec9cddcbc701e2923f34b3082ede5a`
+- **Canon effect:** none
+- **Dominant function:** place `SSO-NS-004` under a named no-use physical hold and establish the office authorization exception that moved it through WSS-4 and Hartwell without converting office registration, carrier custody, or institutional responsibility into proof of Sterling’s personal command
+- **Opening:** **10:44:12 EDT / 20:14:12 IST**, secure MPD evidence intake
+- **Intended endpoint:** **11:26:32 EDT / 20:56:32 IST**, secure MPD evidence intake
+- **POV:** Julie primary; one bounded Special Agent Leila Grant Legislative Secure Services cutaway
+- **Target words:** 4,400
+- **Preferred range:** 4,000–4,800
+- **Hard ceiling:** 5,200
+- **Next objective after planned endpoint:** establish the instruction behind the office continuity exception through a lawfully obtainable record without treating office responsibility as Sterling’s personal command
+
 ## Authority
 
 1. `../ACCEPTED_MANUSCRIPT.yaml` controls the accepted prose inventory and count.
@@ -39,12 +57,12 @@
 ## Governing distinctions
 
 - Registered authority is not physical possession.
-- Physical possession is not knowledge.
-- Knowledge is not command.
+- Physical possession is not authorization.
+- Authorization is not knowledge or command.
 - A preservation record is not a verdict.
 - Federal receiving responsibility is distinct from MPD physical custody.
-- Hartwell’s original, Hartwell’s certified derivative, the Indian originals, the bounded external acknowledgment, and the Apex preservation index remain distinct records.
+- Hartwell’s original, Hartwell’s certified derivative, the WSS original and any derivative, office originals and derivatives, the Indian originals, the bounded external acknowledgment, the signer, and the MPD packages remain distinct records or objects.
 
 ## Current production gate
 
-Prepare the dedicated Chapter 20 mission-lock planning pass from the accepted Chapter 19 endpoint. Do not draft Chapter 20 until that lock is approved, and do not create a complete chapter-by-chapter outline for the remainder of Act III.
+Draft and integrate the first non-canon version of Chapter 20 only from `40-chapter-20-mission-lock.md`. Do not alter accepted prose or the accepted manifest, draft Chapter 21, create a Chapter 21 mission lock, or create a complete chapter-by-chapter outline for the remainder of Act III.

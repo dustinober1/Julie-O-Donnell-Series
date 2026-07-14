@@ -35,9 +35,9 @@ active_book:
     accepted_words_before_chapter_17: 87610
     chapter_17_words: 5888
     chapter_18_words: 4478
+    chapter_19_words: 5393
     accepted_act_iii_words: 39714
     count_method: UTF-8 Markdown whitespace-delimited tokens; tools/count_book1_words.py
-    chapter_19_words: 5393
   accepted_canon:
     manifest: books/book-01/ACCEPTED_MANUSCRIPT.yaml
     prologue: true
@@ -52,7 +52,7 @@ active_book:
       india: 20:14:12 IST
       location: secure MPD evidence intake
       status: Alvarez/DCIS is named federal receiver; MPD retains all seven packages; Hartwell retains its original; ARJ-K17-ACK-01 remains bounded;
-        SSO-NS-004 current custodian unknown; Sterling public account remains dominant
+        SSO-NS-004 current custodian unknown in accepted canon; Sterling public account remains dominant
     accepted_manuscript_words: 103369
     chapter_14:
       title: The Witness Line
@@ -120,14 +120,17 @@ active_book:
     chapter_17: accepted and promoted; no duplicate draft remains
     chapter_18: accepted and promoted; no duplicate draft remains
     chapter_19: accepted and promoted; no duplicate draft remains
+    chapter_20: not drafted
   future_prose:
     chapter_18: accepted at books/book-01/manuscript/chapters/chapter-18.md
     chapter_19: accepted at books/book-01/manuscript/chapters/chapter-19.md
-    chapter_20_and_later: not drafted and not individually mission locked
+    chapter_20: mission locked but undrafted and non-canon
+    chapter_21_and_later: not drafted and not individually mission locked
     chapter_18_rule: Accepted and complete
     chapter_19_rule: Accepted and complete
     architecture_rule: Do not create a complete chapter-by-chapter outline for the remainder of Act III
-    chapter_20_rule: Requires a dedicated mission-lock planning pass before prose
+    chapter_20_rule: Draft only from books/book-01/control/40-chapter-20-mission-lock.md; no accepted-manuscript effect until explicit review and promotion
+    chapter_21_rule: No prose or mission lock authorized
   planning_controls:
     ending_contract: books/book-01/control/22-book-1-ending-contract.md
     word_budget_and_architecture: books/book-01/control/23-word-budget-and-act-iii-architecture.md
@@ -140,6 +143,7 @@ active_book:
     chapter_18_review_path: books/book-01/control/37-chapter-18-acceptance-review.md
     chapter_19_mission_lock: books/book-01/control/38-chapter-19-mission-lock.md
     chapter_19_acceptance_review: books/book-01/control/39-chapter-19-acceptance-review.md
+    chapter_20_mission_lock: books/book-01/control/40-chapter-20-mission-lock.md
     series_character_ledger: series/recurring-character-ledger.md
   chapter_17_record:
     title: The First Examination
@@ -205,7 +209,27 @@ active_book:
     pov: Julie primary; one bounded Special Agent Leila Grant Hartwell cutaway
     result: Alvarez/DCIS accepts federal receiving responsibility; Julie lawfully learns the bounded no-fire/K-17 result; Hartwell establishes
       SSO-NS-004 and the office-to-Hartwell custody chain; current signer custody and Sterling’s personal role remain unproved
-    next_gate: Chapter 20 mission-lock planning pass only
+    next_gate: Chapter 20 first-draft production under the approved mission lock only
+  chapter_20_planning_record:
+    title: The Custody Exception
+    status: mission locked; undrafted; non-canon
+    mission_lock: books/book-01/control/40-chapter-20-mission-lock.md
+    mission_lock_blob_sha: c074e4f6f9ec9cddcbc701e2923f34b3082ede5a
+    draft_exists: false
+    accepted: false
+    accepted_manifest_changed: false
+    accepted_words_changed: false
+    canon_effect: none
+    dominant_function: Place SSO-NS-004 under a named no-use physical hold and establish the office authorization exception that moved it through
+      WSS-4 and Hartwell while preserving the distinction among office registration, carrier custody, authorization, knowledge, and personal command
+    opening: 10:44:12 EDT / 20:14:12 IST
+    intended_endpoint: 11:26:32 EDT / 20:56:32 IST
+    pov: Julie primary; one bounded Special Agent Leila Grant Legislative Secure Services cutaway
+    target_words: 4400
+    preferred_words: 4000-4800
+    hard_ceiling_words: 5200
+    projected_accepted_total_at_target: 107769
+    next_gate: Draft and integrate one non-canon Chapter 20 first version only; do not draft Chapter 21 or create a remainder outline
   narrative_house_style:
     version: '2.2'
     status: locked for new chapter production and revision passes
@@ -253,17 +277,21 @@ critical_status:
     severity: resolved
     status: ACCEPT; promoted at 4,478 words with no prose revision
     reviewed_blob_sha: 6f5873d6e975ec74646af152aad22ea84545fc01
-  status_drift:
-    severity: resolved
-    status: accepted inventory, count, endpoint, protected prose, Chapter 19 draft state, and validator synchronized
-  next_gate:
-    severity: planning
-    status: Prepare the Chapter 20 mission-lock planning pass from the accepted Chapter 19 endpoint; do not draft Chapter 20 until that lock is
-      approved
   chapter_19_acceptance:
     severity: resolved
     status: ACCEPT; promoted at 5,393 words after six line-level repairs
     reviewed_blob_sha: 1c7cc22fc7c480cb247efa1f6a2c0d0b1e1b1baf
+  chapter_20_planning:
+    severity: resolved
+    status: Mission lock approved at books/book-01/control/40-chapter-20-mission-lock.md; no Chapter 20 prose exists; accepted canon unchanged
+    mission_lock_blob_sha: c074e4f6f9ec9cddcbc701e2923f34b3082ede5a
+  status_drift:
+    severity: resolved
+    status: accepted inventory, count, endpoint, protected prose, Chapter 20 mission-lock-only state, and validator synchronized
+  next_gate:
+    severity: drafting
+    status: Draft and integrate the first non-canon Chapter 20 version from the approved mission lock only; do not draft Chapter 21 or create a
+      complete remainder outline
 archive:
   legacy_source_policy: archive/legacy-sources/README.md
   former_google_doc_active: false
@@ -276,14 +304,17 @@ production_rules:
 - Promotion requires the same production pass to move prose, update the manifest and project state, and update every affected control ledger.
 - Chapter 18 is accepted canon at 4,478 words; its reviewed blob is protected.
 - Registered authority never proves physical human custody without separate evidence.
+- Physical custody never proves authorization, knowledge, intent, or command without separate evidence.
 - The physical-board mismatch does not identify the alternative identity path or human actor.
-- The Hartwell original, WSS local audit, Indian originals, and MPD packages remain independently controlled in accepted canon.
+- The Hartwell original, WSS local audit, office originals, signer, Indian originals, and MPD packages remain independently controlled.
 - No draft or revision may imitate or closely emulate the recognizable prose of a living author.
 - Chapters 13 through 19 are accepted Act III canon.
 - Chapter 19 is accepted canon at 5,393 words; its reviewed blob is 1c7cc22fc7c480cb247efa1f6a2c0d0b1e1b1baf.
 - Chapter 19 promotion does not open, move, connect, combine, or transfer any MPD package.
-- Registered authority, physical possession, knowledge, and command remain separate proof categories.
-- No Chapter 20 prose or mission lock exists.
+- Registered authority, physical possession, authorization, knowledge, and command remain separate proof categories.
+- Chapter 20 is mission locked at books/book-01/control/40-chapter-20-mission-lock.md but remains undrafted and non-canon.
+- No Chapter 20 prose exists.
+- No Chapter 21 prose or mission lock exists.
 - No complete chapter-by-chapter remainder-of-Act-III outline exists or is authorized.
-next_recommended_action: Prepare the Chapter 20 mission-lock planning pass from the accepted Chapter 19 endpoint. Do not draft Chapter 20 until
-  the lock is approved and do not create a complete remainder-of-Act-III outline.
+next_recommended_action: Draft and integrate the first non-canon version of Chapter 20 from books/book-01/control/40-chapter-20-mission-lock.md.
+  Do not alter accepted prose or the accepted manifest, draft Chapter 21, create a Chapter 21 mission lock, or create a complete remainder outline.
