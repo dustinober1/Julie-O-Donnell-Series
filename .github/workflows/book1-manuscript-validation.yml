@@ -71,7 +71,7 @@ jobs:
           print("accepted baseline validated")
           PY
 
-      - name: Validate Chapter 18 inventory and exact 4600-word count
+      - name: Validate Chapter 18 inventory and exact 4478-word count
         shell: bash
         run: |
           python - <<'PY'
@@ -96,7 +96,7 @@ jobs:
 
           words = len(draft.read_text(encoding="utf-8").split())
           print(f"Chapter 18 repository count: {words}")
-          require(words == 4600, f"Chapter 18 count is {words}, expected 4600")
+          require(words == 4478, f"Chapter 18 count is {words}, expected 4478")
           require(4400 <= words <= 5200, f"Chapter 18 out of planned range: {words}")
           PY
 
@@ -192,7 +192,7 @@ jobs:
               "books/book-01/drafts/chapter-18.md",
               'status: "first draft exists; unaccepted; non-canon"',
               "draft_exists: true",
-              "draft_words: 4600",
+              "draft_words: 4478",
               "accepted_manifest_changed: false",
               "accepted_words_changed: false",
               "Conduct the formal Chapter 18 acceptance review",
@@ -213,7 +213,7 @@ jobs:
           ]
           for rel in status_files:
               text = (root / rel).read_text(encoding="utf-8")
-              for item in ["Chapter 18", "non-canon", "93,498", "09:12:52 EDT / 18:42:52 IST", "4,600"]:
+              for item in ["Chapter 18", "non-canon", "93,498", "09:12:52 EDT / 18:42:52 IST", "4,478"]:
                   require(item in text, f"{rel} missing {item}")
               require(
                   "formal Chapter 18 acceptance review" in text
