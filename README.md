@@ -33,7 +33,7 @@ The authoritative production status is [`PROJECT_STATE.yaml`](PROJECT_STATE.yaml
 - All seven packages remain in MPD physical custody; no final federal receiver exists.
 - Sterling's hostile public account remains dominant.
 - Elias is neither exonerated nor reduced to a simple hostage or saboteur.
-- Alternative identity path, human responsibility, Hartwell, WSS-4 plaintext, K-17, Phase B, guilt, immunity, admissibility, and public vindication remain unresolved in accepted canon.
+- Alternative identity path, human responsibility, Hartwell, WSS-4 plaintext, K-17, Phase B, field truth, guilt, immunity, admissibility, and public vindication remain unresolved in accepted canon.
 
 ## Approved Chapter 18 planning
 
