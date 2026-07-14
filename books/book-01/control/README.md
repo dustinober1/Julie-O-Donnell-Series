@@ -1,4 +1,4 @@
-# Canon Control Pack v4.5
+# Canon Control Pack v4.6
 
 The accepted manuscript always outranks this control pack.
 
@@ -9,13 +9,13 @@ The accepted manuscript always outranks this control pack.
 - **Accepted endpoint:** **10:44:12 EDT / 20:14:12 IST**, secure MPD evidence intake
 - **Chapter 19:** **The Name on the Record**, accepted at 5,393 words
 - **Reviewed blob:** `1c7cc22fc7c480cb247efa1f6a2c0d0b1e1b1baf`
-- **Chapter 19 review:** `39-chapter-19-acceptance-review.md` — **ACCEPT**
-- **Active chapter draft:** none
-- **Chapter 20:** mission locked, undrafted, non-canon
-- **Chapter 20 mission lock:** `40-chapter-20-mission-lock.md`
+- **Chapter 20 draft:** `../drafts/chapter-20.md`
+- **Chapter 20 draft status:** complete first draft; awaiting formal acceptance review; unaccepted; non-canon
+- **Chapter 20 draft words:** **4,171**
+- **Chapter 20 draft blob:** `13ee716d0e4b93fe73141a0c9f85488af74ce7c8`
 - **Chapter 20 mission-lock blob:** `c074e4f6f9ec9cddcbc701e2923f34b3082ede5a`
 - **Chapter 21 prose or mission lock:** none
-- **Next authorized gate:** Chapter 20 first-draft production only
+- **Next authorized gate:** Chapter 20 formal acceptance review only
 
 ## Control documents
 
@@ -63,32 +63,10 @@ The accepted manuscript always outranks this control pack.
 
 Cross-book continuity is controlled separately in [`../../../series/recurring-character-ledger.md`](../../../series/recurring-character-ledger.md).
 
-## Chapter 19 accepted state
+## Chapter 20 draft state
 
-- **Accepted path:** `../manuscript/chapters/chapter-19.md`
-- **Opening:** 10:01:12 EDT / 19:31:12 IST
-- **Endpoint:** 10:44:12 EDT / 20:14:12 IST
-- **POV:** Julie primary with one bounded Grant Hartwell cutaway
-- **Receiver:** Miriam Alvarez / DCIS under `DCIS-FR-187463-01`
-- **MPD custody:** all seven Washington packages remain separate and in MPD physical custody
-- **Hartwell custody:** Hartwell retains original `HWA-LCA-1187`; `HWA-CD-187463-01` is a certified derivative
-- **Indian custody:** Forward Post Arjun retains the originals; `ARJ-K17-ACK-01` remains a bounded external reference
-- **Signer result:** `SSO-NS-004` completed the 07:47:49 EDT challenge through the office-support/Hartwell chain; current physical custody is unknown in accepted canon
-- **Proof ceiling:** registered authority, physical possession, authorization, knowledge, and command remain separate
-
-## Chapter 20 approved planning state
-
-- **Working title:** The Custody Exception
-- **Status:** mission locked, undrafted, non-canon
-- **Opening planned:** 10:44:12 EDT / 20:14:12 IST
-- **Intended endpoint:** 11:26:32 EDT / 20:56:32 IST
-- **Dominant function:** named no-use hold plus office/WSS responsibility-chain confrontation
-- **POV:** Julie primary with one bounded Grant Legislative Secure Services cutaway
-- **Word plan:** target 4,400; preferred 4,000–4,800; hard ceiling 5,200
-- **No-prose rule:** no `chapter-20.md` exists anywhere
-- **Next-chapter rule:** no Chapter 21 prose or mission lock exists or is authorized
-- **Outline rule:** no complete remainder-of-Act-III outline exists or is authorized
+The one authorized draft is complete at `../drafts/chapter-20.md`. It opens at **10:44:12 EDT / 20:14:12 IST**, ends at **11:26:32 EDT / 20:56:32 IST**, uses Julie primary with one bounded Grant LSS cutaway, and remains outside the accepted manuscript. Draft facts have no canon effect before formal acceptance.
 
 ## Current production gate
 
-Draft and integrate the first non-canon version of Chapter 20 only from `40-chapter-20-mission-lock.md`. Do not alter accepted prose or the accepted manifest, draft Chapter 21, create a Chapter 21 mission lock, or create a complete chapter-by-chapter outline for the remainder of Act III.
+Conduct the formal Chapter 20 acceptance review against `40-chapter-20-mission-lock.md` and `25-chapter-acceptance-gate.md`. Do not draft Chapter 21, create a Chapter 21 mission lock, or create a complete chapter-by-chapter remainder outline.
