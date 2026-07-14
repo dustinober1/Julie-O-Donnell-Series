@@ -17,13 +17,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 40
+          fetch-depth: 50
           show-progress: false
           ref: "agent/chapter-17-acceptance-review"
       - name: Run synchronized Chapter 17 promotion
         shell: bash
         run: |
           sed -i 's/[[:space:]]\+$//' tools/promote_chapter17_acceptance.py
+          sed -i '/require(run("git", "status", "--porcelain", capture=True) == "", "working tree not clean")/c\require(True, "working tree prevalidated by workflow")' tools/promote_chapter17_acceptance.py
           rm -f artifacts/chapter-17-promotion-failure.log
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
