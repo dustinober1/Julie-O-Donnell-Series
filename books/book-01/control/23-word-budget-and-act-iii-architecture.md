@@ -15,6 +15,8 @@
 | Remaining to minimum | **6,502** |
 | Remaining to planning target | **19,002** |
 | Remaining before maximum | **31,502** |
+| Unaccepted Chapter 18 draft | **4,478** |
+| Working total if Chapter 18 were later accepted unchanged | **97,976** |
 
 Accepted contributions:
 
@@ -29,19 +31,11 @@ Accepted contributions:
 | Accepted Act III subtotal, Chapters 13–17 | **29,843** |
 | Accepted manuscript total | **93,498** |
 
-The exact count method is the UTF-8 Markdown whitespace-delimited method implemented by `tools/count_book1_words.py`.
+The exact count method is the UTF-8 Markdown whitespace-delimited method implemented by `tools/count_book1_words.py`. The 4,478-word Chapter 18 draft is excluded from all accepted totals.
 
 ## Planning principle
 
-No chapter receives words solely to satisfy the target. Every scene must advance at least one of:
-
-- threat;
-- evidence;
-- character decision;
-- relationship consequence;
-- institutional consequence;
-- geopolitical consequence; or
-- required series setup that does not replace Book 1 payoff.
+No chapter receives words solely to satisfy the target. Every scene must advance at least one of threat, evidence, character decision, relationship consequence, institutional consequence, geopolitical consequence, or required series setup that does not replace Book 1 payoff.
 
 ## Accepted Act III sequence
 
@@ -57,37 +51,35 @@ No chapter receives words solely to satisfy the target. Every scene must advance
 
 - Opens at **08:15:52 EDT / 17:45:52 IST**.
 - Ends at **09:12:52 EDT / 18:42:52 IST**.
-- Uses Julie primary plus one bounded Special Agent Leila Grant examination-room movement.
 - Opens only `MPD-901446`.
 - Keeps the other six packages sealed and unopened.
 - Keeps MPD physical custody throughout.
-- Uses isolated, read-only, non-Apex tooling.
-- Performs no biometric, private-key challenge, reset, counter increment, production operation, or second-package examination.
 - Establishes a bounded physical-board mismatch and later authenticated-event distinction.
 - Does not identify an alternative identity path, human operator, Hartwell presenter, WSS plaintext, K-17 outcome, Phase B outcome, guilt, innocence, immunity, admissibility, final receiver, or public vindication.
 
-## Approved Chapter 18 mission lock
+## Chapter 18 draft
 
-Chapter 18 is individually mission locked in `36-chapter-18-mission-lock.md`. The plan is non-canon until a draft is formally accepted.
+Chapter 18 remains controlled by `36-chapter-18-mission-lock.md` and is non-canon until formal review and promotion.
 
-| Item | Locked planning |
+| Item | Draft state |
 |---|---|
 | Title | **The Local Record** |
+| Path | `../drafts/chapter-18.md` |
+| Exact words | **4,478** |
 | Opening | **09:12:52 EDT / 18:42:52 IST** |
 | Endpoint | **10:01:12 EDT / 19:31:12 IST** |
 | POV | Major Ananya Sharma only |
 | Dominant mission | Resolve K-17/Phase B through the independently controlled local relay record |
-| Planned range | **4,400–5,200 words** |
 | Accepted-manuscript effect | None |
-| Active draft | None |
+| Next gate | Formal Chapter 18 acceptance review |
 
-At 5,200 planned words, the working manuscript would be approximately 98,698 words, leaving 1,302 words to the minimum, 13,802 words to the planning target, and 26,302 words before the maximum. The chapter must not be inflated to cross 100,000; the remaining Book 1 climax and aftermath require substantial space.
+At 4,478 words, later acceptance without revision would produce a 97,976-word manuscript, still 2,024 words below the minimum and 14,524 words below the planning target. The draft was not inflated to cross 100,000. The remaining climax and aftermath require substantial space.
 
 ## Provisional later structure
 
 Chapter 19 and later remain **unwritten, individually unlocked, and non-controlling**. This document does not assign a complete chapter-by-chapter remainder-of-Act-III outline.
 
-The remaining manuscript must add at least 6,502 accepted words to exceed the minimum and may add no more than 31,502 accepted words while remaining inside the approved range. The 19,002-word planning gap is a guide, not a quota.
+The accepted manuscript still requires at least 6,502 accepted words to exceed the minimum. Chapter 18's unaccepted words do not reduce that accepted gap.
 
 ## Remaining high-level obligations
 
@@ -110,23 +102,9 @@ The exact distribution across later chapters remains provisional and must be loc
 
 ## Expansion and compression controls
 
-### Expand when
+Expand when a crucial evidence distinction is not dramatized, a recurring character's decision lacks consequence, Washington and field events are not causally connected, public narrative fracture happens offstage, Marcus's corrective action lacks cost, or Julie's ending role is asserted rather than chosen.
 
-- a crucial evidence distinction is not dramatized;
-- a recurring character's decision lacks setup or consequence;
-- Washington and field events are not causally connected;
-- public narrative fracture happens offstage;
-- Marcus's corrective action lacks cost; or
-- Julie's ending role is asserted rather than chosen.
-
-### Compress when
-
-- characters repeat established evidence;
-- another chase reproduces an earlier escape without new consequence;
-- technical explanation does not alter a choice;
-- an antagonist scene states what the evidence already shows;
-- a series seed competes with Book 1 closure; or
-- a chapter develops more than one dominant mission.
+Compress when characters repeat established evidence, another chase reproduces an earlier escape without new consequence, technical explanation does not alter a choice, an antagonist scene states what the evidence already shows, a series seed competes with Book 1 closure, or a chapter develops more than one dominant mission.
 
 ## Final length review
 
@@ -140,4 +118,4 @@ At the end of the complete first draft:
 
 ## Current gate
 
-Draft exactly one first version of Chapter 18 from `36-chapter-18-mission-lock.md`. Accepted words remain 93,498 and the accepted endpoint remains 09:12:52 EDT / 18:42:52 IST. Do not create Chapter 19 prose or a complete remainder-of-Act-III outline.
+Conduct the formal Chapter 18 acceptance review. Accepted words remain 93,498 and the accepted endpoint remains 09:12:52 EDT / 18:42:52 IST. Do not create Chapter 19 prose or a complete remainder-of-Act-III outline.

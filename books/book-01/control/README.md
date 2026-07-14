@@ -1,8 +1,8 @@
-# Canon Control Pack v3.9
+# Canon Control Pack v4.0
 
 The accepted manuscript always outranks this control pack.
 
-Version 3.9 records Chapter 17 — **The First Examination** — as accepted canon at `../manuscript/chapters/chapter-17.md` and Chapter 18 — **The Local Record** — as mission locked, undrafted, and non-canon. Accepted canon remains the Prologue and Chapters 1–17 at **93,498 words**, ending at **09:12:52 EDT / 18:42:52 IST**.
+Version 4.0 records Chapter 17 — **The First Examination** — as accepted canon at `../manuscript/chapters/chapter-17.md` and Chapter 18 — **The Local Record** — as a complete first draft that remains unaccepted and non-canon. Accepted canon remains the Prologue and Chapters 1–17 at **93,498 words**, ending at **09:12:52 EDT / 18:42:52 IST**.
 
 ## Control documents
 
@@ -50,36 +50,31 @@ Cross-book character continuity is controlled separately in [`../../../series/re
 
 - **Title:** The First Examination
 - **Accepted path:** `../manuscript/chapters/chapter-17.md`
-- **Acceptance review:** `35-chapter-17-acceptance-review.md` — **ACCEPT**
 - **Exact words:** 5,888
 - **Reviewed blob:** `1c4022ebb8d27d8d448f98bcf74fbf09e6e560c1`
 - **Opening:** 08:15:52 EDT / 17:45:52 IST
 - **Endpoint:** 09:12:52 EDT / 18:42:52 IST
 - **Accepted manifest:** Prologue and Chapters 1–17
 - **Accepted total:** 93,498 words
-- **Active draft:** none
-- **Examiner:** Special Agent Leila Grant, Defense Criminal Investigative Service
-- **Package scope:** `MPD-901446` only; the other six packages remain sealed and unopened
 - **Custody:** all seven packages remain in MPD physical custody
-- **Seals:** former `MPD-SL-551804` retained; replacement `MPD-SL-551821` applied
-- **Technical result:** the examined board lacks the original attributed physical signing event; later gate and provenance-reconciliation events remain authenticated
+- **Final federal receiver:** none
 
-## Chapter 18 mission-lock state
+## Chapter 18 first-draft state
 
 - **Title:** The Local Record
 - **Mission lock:** `36-chapter-18-mission-lock.md`
-- **Status:** mission locked; undrafted; non-canon
-- **Planned opening:** 09:12:52 EDT / 18:42:52 IST
-- **Planned endpoint:** 10:01:12 EDT / 19:31:12 IST
+- **Draft path:** `../drafts/chapter-18.md`
+- **Status:** complete first draft; unaccepted; non-canon
+- **Exact draft words:** 4,478
+- **Opening:** 09:12:52 EDT / 18:42:52 IST
+- **Endpoint:** 10:01:12 EDT / 19:31:12 IST
 - **POV:** Major Ananya Sharma only
-- **Planned range:** 4,400–5,200 words
 - **Primary field reference:** `ARJ-K17-018`
-- **Draft exists:** no
-- **Accepted effect:** none
+- **Accepted-manuscript effect:** none
+- **Chapter 18 manuscript file:** none
+- **Chapter 19 prose or mission lock:** none
 - **Complete remainder-of-Act-III outline:** not created
 
 ## Current production gate
 
-Draft exactly one complete first version of Chapter 18 at `../drafts/chapter-18.md` from `36-chapter-18-mission-lock.md`. No Chapter 19 work is authorized.
-
-No complete remainder-of-Act-III outline has been created.
+Conduct the formal Chapter 18 acceptance review against `36-chapter-18-mission-lock.md` and `25-chapter-acceptance-gate.md`. Do not promote the draft unless the review issues an explicit ACCEPT verdict and synchronizes every affected accepted-canon control. Do not draft Chapter 19.
