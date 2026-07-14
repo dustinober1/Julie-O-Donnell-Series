@@ -5,7 +5,7 @@ last_updated: "2026-07-13"
 status_authority:
   file: "PROJECT_STATE.yaml"
   scope: "Production status and navigation only; not story canon"
-  rule: "Any duplicated status summary must be corrected to match this file in the same production pass"
+  rule: "Accepted prose and ACCEPTED_MANUSCRIPT.yaml control canon; all duplicated status summaries must match this file"
 
 story_authority:
   accepted_manifest: "books/book-01/ACCEPTED_MANUSCRIPT.yaml"
@@ -28,19 +28,12 @@ active_book:
     words_to_planning_target: 24890
     minimum_words_remaining: 12390
     maximum_words_remaining: 37390
-    accepted_words_before_chapter_13: 63655
-    chapter_13_words: 6175
-    accepted_words_before_chapter_14: 69830
-    chapter_14_words: 5763
-    accepted_words_before_chapter_15: 75593
-    chapter_15_words: 5993
-    accepted_words_before_chapter_16: 81586
-    chapter_16_words: 6024
     accepted_act_iii_words: 23955
+    chapter_17_draft_words: 5888
     chapter_17_planning_range: "5600-6300"
     chapter_17_preferred_center: 5950
     count_method: "UTF-8 Markdown whitespace-delimited tokens; tools/count_book1_words.py"
-    accepted_count_changed_by_chapter_17_lock: false
+    accepted_words_changed_by_chapter_17_draft: false
 
   accepted_canon:
     manifest: "books/book-01/ACCEPTED_MANUSCRIPT.yaml"
@@ -49,56 +42,46 @@ active_book:
     acts:
       act_i: "complete"
       act_ii: "complete"
-      act_iii: "Chapters 13-16 accepted; Chapter 17 mission locked but not drafted or accepted"
+      act_iii: "Chapters 13-16 accepted; Chapter 17 first draft exists but is unaccepted and non-canon"
     endpoint:
       chapter: 16
       eastern: "08:15:52 EDT"
       india: "17:45:52 IST"
       location: "Secure MPD evidence intake under Hackett's named preservation hold"
-      status: "Seven packages remain separately sealed and offline in MPD physical custody; allied preservation acknowledgment linked; no final federal receiver or technical examiner"
+      status: "Seven packages remain separately sealed and offline in MPD physical custody; allied preservation acknowledgment linked; no final federal receiver or accepted technical examiner"
     accepted_manuscript_words: 87610
-    chapter_13:
-      title: "The Carrier Stream"
-      path: "books/book-01/manuscript/chapters/chapter-13.md"
-      verdict: "ACCEPT"
-      accepted_words: 6175
     chapter_14:
       title: "The Witness Line"
-      path: "books/book-01/manuscript/chapters/chapter-14.md"
-      verdict: "ACCEPT"
       accepted_words: 5763
       reviewed_blob_sha: "78f7fff02cd271fecbc94f7daf7151dbebbd5c6d"
     chapter_15:
       title: "The Split Record"
-      path: "books/book-01/manuscript/chapters/chapter-15.md"
-      verdict: "ACCEPT"
       accepted_words: 5993
       reviewed_blob_sha: "b8e7e2ae573a6c25ea096121c75acee867f3fad2"
-      opening: "07:49:32 EDT / 17:19:32 IST"
-      endpoint: "07:56:40 EDT / 17:26:40 IST"
     chapter_16:
       title: "The Hold Order"
-      path: "books/book-01/manuscript/chapters/chapter-16.md"
-      verdict: "ACCEPT"
       accepted_words: 6024
-      prose_changed_during_review: true
       reviewed_blob_sha: "dd5249f4b510a9da9ad19ab2902a95ce1e62a1d8"
       opening: "07:56:40 EDT / 17:26:40 IST"
       endpoint: "08:15:52 EDT / 17:45:52 IST"
-      pov: "Julie, Marcus, Sharma, Julie"
-      custody_status: "seven separately sealed packages in MPD physical custody under incident 187463 and Hackett's named preservation hold"
-      federal_receiver_status: "none"
-      technical_examiner_status: "none"
+      verdict: "ACCEPT"
 
   drafts:
-    active_chapter_drafts: []
-    chapter_16: "accepted and promoted after one surgical POV-firewall revision"
-    chapter_17: "not drafted"
+    active_chapter_drafts:
+      - "books/book-01/drafts/chapter-17.md"
+    chapter_17:
+      title: "The First Examination"
+      path: "books/book-01/drafts/chapter-17.md"
+      status: "first draft exists; unaccepted; non-canon"
+      exact_words: 5888
+      opening: "08:15:52 EDT / 17:45:52 IST"
+      endpoint: "09:12:52 EDT / 18:42:52 IST"
+      accepted: false
+      acceptance_gate_passed: false
 
   future_prose:
-    chapter_17_and_later: "not drafted"
-    chapter_17_rule: "Draft exactly one Chapter 17 first version only after the approved mission lock, at books/book-01/drafts/chapter-17.md"
-    chapter_18_rule: "Do not plan or draft Chapter 18 during the Chapter 17 first-draft session"
+    chapter_18_and_later: "not drafted"
+    chapter_18_rule: "Do not draft Chapter 18 during the Chapter 17 acceptance-review session"
     architecture_rule: "Do not create a complete chapter-by-chapter outline for the remainder of Act III"
 
   planning_controls:
@@ -106,46 +89,28 @@ active_book:
     word_budget_and_architecture: "books/book-01/control/23-word-budget-and-act-iii-architecture.md"
     thread_disposition: "books/book-01/control/24-thread-disposition-matrix.md"
     chapter_acceptance_gate: "books/book-01/control/25-chapter-acceptance-gate.md"
-    chapter_15_review: "books/book-01/control/31-chapter-15-acceptance-review.md"
-    chapter_16_mission_lock: "books/book-01/control/32-chapter-16-mission-lock.md"
     chapter_16_review: "books/book-01/control/33-chapter-16-acceptance-review.md"
     chapter_17_mission_lock: "books/book-01/control/34-chapter-17-mission-lock.md"
+    chapter_17_review_path: "books/book-01/control/35-chapter-17-acceptance-review.md"
     series_character_ledger: "series/recurring-character-ledger.md"
-
-  chapter_16_record:
-    title: "The Hold Order"
-    status: "accepted after one surgical POV-firewall revision; canon"
-    mission_lock: "books/book-01/control/32-chapter-16-mission-lock.md"
-    review: "books/book-01/control/33-chapter-16-acceptance-review.md"
-    accepted_path: "books/book-01/manuscript/chapters/chapter-16.md"
-    accepted_words: 6024
-    reviewed_blob_sha: "dd5249f4b510a9da9ad19ab2902a95ce1e62a1d8"
-    opening: "07:56:40 EDT / 17:26:40 IST"
-    accepted_endpoint: "08:15:52 EDT / 17:45:52 IST"
-    verdict: "ACCEPT"
-    next_gate_completed: "Chapter 17 mission planning and mission locking"
 
   chapter_17_record:
     title: "The First Examination"
-    status: "mission locked; planning only; not drafted; non-canon"
+    status: "first draft exists; unaccepted; non-canon"
     mission_lock: "books/book-01/control/34-chapter-17-mission-lock.md"
     draft_path: "books/book-01/drafts/chapter-17.md"
-    draft_exists: false
+    draft_exists: true
+    draft_words: 5888
     accepted: false
     accepted_manifest_changed: false
     accepted_words_changed: false
-    dominant_function: "Conduct the first independent, MPD-controlled technical examination of one evidence package and create a signed, reproducible finding without fragmenting the seven-package incident or overstating what the board proves"
     opening: "08:15:52 EDT / 17:45:52 IST"
-    planned_maximum_endpoint: "09:12:52 EDT / 18:42:52 IST"
-    planned_duration_minutes: 57
+    draft_endpoint: "09:12:52 EDT / 18:42:52 IST"
     pov: "Julie primary; one bounded Special Agent Leila Grant examination-room movement"
     examiner: "Special Agent Leila Grant, Defense Criminal Investigative Service"
     package_scope: "MPD-901446 only; other six packages remain sealed and unopened"
-    planning_range_words: "5600-6300"
-    success: "Grant signs a bounded preliminary technical observation; MPD-901446 is resealed and returned to the common incident; MPD retains all seven packages"
-    failure: "No reproducible signed finding, custody fragmentation, Apex-controlled examination, unsupported broad authentication, another package opening, or board alteration"
-    hard_stop: "seal or serial mismatch; write-state or counter anomaly; biometric, private-key, network, Apex credential, or second-package requirement; witness interruption; custody ambiguity; contamination risk"
-    next_gate: "Draft exactly one complete first version of Chapter 17 at books/book-01/drafts/chapter-17.md, then run the formal acceptance review"
+    dominant_function: "Conduct the first independent, MPD-controlled technical examination of one evidence package and create a signed, reproducible finding without fragmenting the seven-package incident or overstating what the board proves"
+    next_gate: "Conduct the formal Chapter 17 acceptance review; do not draft Chapter 18"
 
   narrative_house_style:
     version: "2.2"
@@ -153,30 +118,6 @@ active_book:
     guide: "docs/Julie_ODonnell_Narrative_House_Style_v2_2.md"
     v2_1_supplement: "docs/Julie_ODonnell_Narrative_House_Style_v2_1.md"
     v2_base: "docs/Julie_ODonnell_Narrative_House_Style_v2.md"
-    authority: "Craft control only; accepted manuscript and Book 1 canon controls remain superior for facts and continuity"
-
-source_of_truth:
-  - rank: 1
-    path: "books/book-01/manuscript/"
-    role: "Controlling story facts for prose listed in the accepted-manuscript inventory"
-  - rank: 2
-    path: "books/book-01/ACCEPTED_MANUSCRIPT.yaml"
-    role: "Controlling inventory of accepted prose"
-  - rank: 3
-    path: "books/book-01/control/"
-    role: "Canon controls and approved production planning"
-  - rank: 4
-    path: "series/"
-    role: "Cross-book continuity and recurring-character controls"
-  - rank: 5
-    path: "books/book-01/drafts/"
-    role: "Unaccepted prose only"
-  - rank: 6
-    path: "archive/"
-    role: "Non-controlling legacy provenance"
-  - rank: 7
-    path: "README.md"
-    role: "Human navigation summary only"
 
 critical_status:
   chapter_5_6_continuity:
@@ -191,15 +132,12 @@ critical_status:
   chapter_16_acceptance:
     severity: "resolved"
     reviewed_blob_sha: "dd5249f4b510a9da9ad19ab2902a95ce1e62a1d8"
-  chapter_17_mission_lock:
-    severity: "approved planning gate"
-    status: "The First Examination locked; Chapter 17 remains undrafted and non-canon"
-  status_drift:
-    severity: "resolved"
-    status: "accepted inventory, counts, endpoint, draft isolation, mission lock, and validator synchronized through Chapter 17 planning"
+  chapter_17_first_draft:
+    severity: "active review gate"
+    status: "The First Examination first draft exists at 5888 words; unaccepted and non-canon"
   next_gate:
-    severity: "active drafting gate"
-    status: "Draft exactly one Chapter 17 first version from control/34; do not draft Chapter 18 or outline the complete remainder of Act III"
+    severity: "formal acceptance review"
+    status: "Review Chapter 17 against control/34 and the acceptance gate; do not draft Chapter 18"
 
 archive:
   legacy_source_policy: "archive/legacy-sources/README.md"
@@ -211,14 +149,10 @@ production_rules:
   - "Accepted manuscript prose outranks all summaries, plans, trackers, drafts, and external snapshots."
   - "No unaccepted chapter may live under books/book-01/manuscript/."
   - "Draft existence does not create canon."
-  - "Promotion requires the same production pass to move prose, update the manifest and project state, and update every affected control ledger."
-  - "Chapters 13 through 16 are accepted Act III canon."
-  - "Chapter 17 mission planning is approved but creates no story canon."
+  - "Promotion requires one synchronized acceptance commit updating prose, manifest, project state, and every affected accepted ledger."
+  - "Chapter 17 remains non-canon until an explicit ACCEPT verdict and synchronized promotion."
   - "Registered authority never proves physical human custody without separate evidence."
-  - "The Hartwell presenter and exact challenged serial remain unresolved."
-  - "WSS-4 remains encrypted."
-  - "K-17 access and Phase B remain unresolved."
-  - "No final federal receiver or accepted Chapter 17 technical examiner exists at the accepted Chapter 16 endpoint."
+  - "The Hartwell presenter, WSS-4 plaintext, K-17 access, and Phase B remain unresolved."
   - "No draft or revision may imitate or closely emulate the recognizable prose of a living author."
 
-next_recommended_action: "Draft exactly one complete first version of Chapter 17 — The First Examination — at books/book-01/drafts/chapter-17.md from books/book-01/control/34-chapter-17-mission-lock.md. Do not draft Chapter 18 or outline the complete remainder of Act III."
+next_recommended_action: "Conduct the formal Chapter 17 acceptance review from books/book-01/drafts/chapter-17.md and books/book-01/control/34-chapter-17-mission-lock.md. Do not draft Chapter 18."
