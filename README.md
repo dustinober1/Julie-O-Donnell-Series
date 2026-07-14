@@ -14,10 +14,11 @@ The authoritative production status is [`PROJECT_STATE.yaml`](PROJECT_STATE.yaml
 - Accepted endpoint: **09:12:52 EDT / 18:42:52 IST**
 - Chapter 17, **The First Examination**: accepted at **5,888 words**
 - Chapter 17 reviewed blob: `1c4022ebb8d27d8d448f98bcf74fbf09e6e560c1`
-- Chapter 18, **The Local Record**: mission locked, undrafted, and non-canon
+- Chapter 18, **The Local Record**: first draft exists, unaccepted, and non-canon
 - Chapter 18 mission lock: [`books/book-01/control/36-chapter-18-mission-lock.md`](books/book-01/control/36-chapter-18-mission-lock.md)
-- Planned Chapter 18 range: **4,400–5,200 words**
-- Active chapter drafts: none
+- Chapter 18 draft: [`books/book-01/drafts/chapter-18.md`](books/book-01/drafts/chapter-18.md)
+- Chapter 18 draft length: **4,600 words**
+- Active chapter drafts: Chapter 18 only
 - Book 1: not publication-ready
 - Complete remainder-of-Act-III outline: not created
 
@@ -32,20 +33,23 @@ The authoritative production status is [`PROJECT_STATE.yaml`](PROJECT_STATE.yaml
 - `MPD-901446` returned to the same common incident chest.
 - All seven packages remain in MPD physical custody; no final federal receiver exists.
 - Sterling's hostile public account remains dominant.
-- Elias is neither exonerated nor reduced to a simple hostage or saboteur.
 - Alternative identity path, human responsibility, Hartwell, WSS-4 plaintext, K-17, Phase B, field truth, guilt, immunity, admissibility, and public vindication remain unresolved in accepted canon.
 
-## Approved Chapter 18 planning
+## Chapter 18 first-draft state
 
-The selected mission returns to Major Ananya Sharma and the existing Point Kestrel patrol to preserve K-17's local record, determine whether authenticated relay access and the Phase B local commit completed, and document what the superseding reconstruction concealed. The planned chapter:
+The unaccepted draft returns to Major Ananya Sharma and the Point Kestrel patrol. It preserves K-17's original local cartridge, creates a verified read-only derivative, establishes that Security Line One was passed and a `K17-PHASE-B` local source-record reconstruction/maintenance commit was requested, and records that final local authentication failed and no local write occurred. It also compares the surviving local event chain with the later superseding allied product.
+
+The draft:
 
 - opens at **09:12:52 EDT / 18:42:52 IST**;
-- uses Sharma as the only close-third POV;
-- does not open another MPD package;
-- does not give Julie unearned field knowledge;
-- does not identify the physical human operator;
-- remains non-canon until formal review and promotion; and
-- does not create Chapter 19 planning or prose.
+- ends at **10:01:12 EDT / 19:31:12 IST**;
+- uses Major Ananya Sharma as the only close-third POV;
+- remains at `books/book-01/drafts/chapter-18.md`;
+- does not alter the accepted manifest, accepted total, or accepted endpoint;
+- does not give any Washington character the field result;
+- does not identify a physical human operator;
+- does not draft or mission-lock Chapter 19; and
+- remains non-canon until the formal Chapter 18 acceptance review issues a verdict and promotion is synchronized.
 
 ## Source-of-truth hierarchy
 
@@ -64,15 +68,13 @@ Accepted prose outranks every summary, tracker, plan, and draft.
 - [Word budget and provisional Act III architecture](books/book-01/control/23-word-budget-and-act-iii-architecture.md)
 - [Thread disposition matrix](books/book-01/control/24-thread-disposition-matrix.md)
 - [Chapter acceptance gate](books/book-01/control/25-chapter-acceptance-gate.md)
-- [Chapter 16 acceptance review](books/book-01/control/33-chapter-16-acceptance-review.md)
-- [Chapter 17 mission lock](books/book-01/control/34-chapter-17-mission-lock.md)
 - [Chapter 17 acceptance review](books/book-01/control/35-chapter-17-acceptance-review.md)
 - [Chapter 18 mission lock](books/book-01/control/36-chapter-18-mission-lock.md)
 - [Series recurring-character ledger](series/recurring-character-ledger.md)
 
 ## Current gate
 
-Draft exactly one complete first version of Chapter 18 — **The Local Record** — at `books/book-01/drafts/chapter-18.md` from the approved mission lock. Do not draft Chapter 19 and do not create a complete remainder-of-Act-III outline.
+Conduct the formal Chapter 18 acceptance review against the mission lock and chapter acceptance gate. Do not draft Chapter 19 and do not create a complete remainder-of-Act-III outline.
 
 ## Permanent continuity repair
 
