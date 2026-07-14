@@ -10,6 +10,8 @@ on:
 
 permissions:
   contents: write
+  issues: write
+  pull-requests: write
 
 jobs:
   promote:
@@ -22,6 +24,8 @@ jobs:
           ref: "agent/chapter-17-acceptance-review"
       - name: Run synchronized Chapter 17 promotion
         shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           sed -i 's/[[:space:]]\+$//' tools/promote_chapter17_acceptance.py
           sed -i '/require(run("git", "status", "--porcelain", capture=True) == "", "working tree not clean")/c\require(True, "working tree prevalidated by workflow")' tools/promote_chapter17_acceptance.py
@@ -37,12 +41,29 @@ jobs:
           set -e
           cat /tmp/ch17-promotion.log
           if [ "$code" -ne 0 ]; then
-            mkdir -p artifacts
-            cp /tmp/ch17-promotion.log artifacts/chapter-17-promotion-failure.log
-            git add artifacts/chapter-17-promotion-failure.log
-            git commit -m "Record Chapter 17 promotion failure"
-            git push origin HEAD:agent/chapter-17-acceptance-review
+            python - <<'PY'
+          import json
+          from pathlib import Path
+          import os
+          import urllib.request
+
+          log = Path('/tmp/ch17-promotion.log').read_text(encoding='utf-8', errors='replace')
+          body = 'Chapter 17 promotion diagnostic failure:\n\n```text\n' + log[-6000:] + '\n```'
+          req = urllib.request.Request(
+              'https://api.github.com/repos/dustinober1/Julie-O-Donnell-Series/issues/40/comments',
+              data=json.dumps({'body': body}).encode('utf-8'),
+              headers={
+                  'Authorization': 'Bearer ' + os.environ['GH_TOKEN'],
+                  'Accept': 'application/vnd.github+json',
+                  'X-GitHub-Api-Version': '2022-11-28',
+                  'Content-Type': 'application/json',
+              },
+              method='POST',
+          )
+          with urllib.request.urlopen(req) as response:
+              print(response.status)
+          PY
             exit "$code"
           fi
 
-# Diagnostic trigger; the workflow and failure artifact are removed by the successful promotion.
+# The workflow removes itself after a successful synchronized promotion.
