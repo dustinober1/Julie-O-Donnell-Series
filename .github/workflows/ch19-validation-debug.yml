@@ -17,76 +17,66 @@ jobs:
         with:
           ref: agent/chapter-19-acceptance
           fetch-depth: 0
-      - name: Find synchronized-control mismatches
+      - name: Scan synchronized controls for stale live state
         shell: bash
         run: |
           python - <<'PY'
           from pathlib import Path
+
           root = Path('.')
-          failures = []
-          project = (root / 'PROJECT_STATE.yaml').read_text(encoding='utf-8')
-          project_sentinels = [
-              'accepted_words: 103369',
-              'chapters: 1-19',
-              'accepted_manuscript_words: 103369',
-              'reviewed_blob_sha: 1c7cc22fc7c480cb247efa1f6a2c0d0b1e1b1baf',
-              'chapter_19_acceptance_review: books/book-01/control/39-chapter-19-acceptance-review.md',
-              'status: accepted and promoted; canon',
-              'next_gate: Chapter 20 mission-lock planning pass only',
+          files = [
+              'README.md',
+              'books/book-01/manuscript/STATUS.md',
+              'books/book-01/control/00-overview.md',
+              'books/book-01/control/02-current-project-state.md',
+              'books/book-01/control/04-source-of-truth-canon-locks.md',
+              'books/book-01/control/05-master-timeline.md',
+              'books/book-01/control/06-character-state-ledger.md',
+              'books/book-01/control/07-relationship-and-trust-matrix.md',
+              'books/book-01/control/08-evidence-and-chain-of-custody-ledger.md',
+              'books/book-01/control/09-knowledge-and-information-control-matrix.md',
+              'books/book-01/control/10-technology-and-system-rules.md',
+              'books/book-01/control/11-organizations-authorities-and-institutional-control.md',
+              'books/book-01/control/12-location-and-security-architecture.md',
+              'books/book-01/control/13-antagonist-objectives-and-conspiracy-model.md',
+              'books/book-01/control/14-public-narrative-versus-actual-record.md',
+              'books/book-01/control/15-open-plot-threads-and-payoff-matrix.md',
+              'books/book-01/control/16-chapter-by-chapter-status-record.md',
+              'books/book-01/control/18-act-iii-entry-state.md',
+              'books/book-01/control/20-control-pack-maintenance-rules.md',
+              'books/book-01/control/23-word-budget-and-act-iii-architecture.md',
+              'books/book-01/control/24-thread-disposition-matrix.md',
+              'books/book-01/control/README.md',
+              'books/book-01/drafts/README.md',
+              'series/recurring-character-ledger.md',
           ]
-          for item in project_sentinels:
-              if item not in project:
-                  failures.append(f'PROJECT_STATE missing: {item}')
-          synchronized = {
-              'README.md': ['Accepted canon: Prologue and Chapters 1–19', '103,369 words', 'Chapter 20 prose or mission lock: not created'],
-              'books/book-01/manuscript/STATUS.md': ['Prologue and Chapters 1–19', 'Accepted length: **103,369 words**', 'The Name on the Record'],
-              'books/book-01/control/00-overview.md': ['## Chapter 19 accepted state', '103,369 words'],
-              'books/book-01/control/02-current-project-state.md': ['## Chapter 19 accepted state', '103,369 words'],
-              'books/book-01/control/04-source-of-truth-canon-locks.md': ['## Chapter 19 canon locks', 'Registered authority is not physical possession'],
-              'books/book-01/control/05-master-timeline.md': ['## Accepted Chapter 19 timeline delta', '10:44:12 EDT / 20:14:12 IST'],
-              'books/book-01/control/06-character-state-ledger.md': ['## Chapter 19 accepted character-state delta'],
-              'books/book-01/control/07-relationship-and-trust-matrix.md': ['## Chapter 19 accepted relationship delta'],
-              'books/book-01/control/08-evidence-and-chain-of-custody-ledger.md': ['## Chapter 19 accepted evidence/custody delta'],
-              'books/book-01/control/09-knowledge-and-information-control-matrix.md': ['## Chapter 19 accepted knowledge delta'],
-              'books/book-01/control/10-technology-and-system-rules.md': ['## Chapter 19 accepted technology delta'],
-              'books/book-01/control/11-organizations-authorities-and-institutional-control.md': ['## Chapter 19 accepted authority delta'],
-              'books/book-01/control/12-location-and-security-architecture.md': ['## Chapter 19 accepted location/security delta'],
-              'books/book-01/control/13-antagonist-objectives-and-conspiracy-model.md': ['## Chapter 19 accepted antagonist-pressure delta'],
-              'books/book-01/control/14-public-narrative-versus-actual-record.md': ['## Chapter 19 accepted public/private record delta'],
-              'books/book-01/control/15-open-plot-threads-and-payoff-matrix.md': ['## Chapter 19 accepted thread delta'],
-              'books/book-01/control/16-chapter-by-chapter-status-record.md': ['## Chapter 19 — accepted', 'Reviewed blob: `1c7cc22fc7c480cb247efa1f6a2c0d0b1e1b1baf`'],
-              'books/book-01/control/18-act-iii-entry-state.md': ['## Accepted Act III state after Chapter 19'],
-              'books/book-01/control/20-control-pack-maintenance-rules.md': ['## Chapter 19 acceptance maintenance record'],
-              'books/book-01/control/23-word-budget-and-act-iii-architecture.md': ['## Chapter 19 accepted word-budget state', '**103,369 words**'],
-              'books/book-01/control/24-thread-disposition-matrix.md': ['## Chapter 19 accepted disposition update'],
-              'books/book-01/control/README.md': ['## Chapter 19 accepted state', '39. Chapter 19 Acceptance Review'],
-              'books/book-01/drafts/README.md': ['No active Book 1 chapter draft exists after Chapter 19 promotion'],
-              'series/recurring-character-ledger.md': ['## Chapter 19 accepted recurring-character delta'],
-          }
-          for rel, sentinels in synchronized.items():
+          phrases = [
+              '97,976',
+              'Prologue and Chapters 1–18',
+              'Chapters 13–18 accepted',
+              'Chapter 19 draft',
+              'Chapter 19 only',
+              'unaccepted',
+              'non-canon',
+              'Perform the formal Chapter 19 acceptance',
+              'Formal Chapter 19 acceptance review and promotion pass',
+              'accepted total through Chapter 18',
+          ]
+          findings = []
+          for rel in files:
               path = root / rel
               if not path.is_file():
-                  failures.append(f'missing file: {rel}')
+                  findings.append(f'MISSING {rel}')
                   continue
-              text = path.read_text(encoding='utf-8')
-              for item in sentinels:
-                  if item not in text:
-                      failures.append(f'{rel} missing: {item}')
-          stale = {
-              'books/book-01/control/00-overview.md': ['**Accepted prose:** Prologue and Chapters 1–18', '**Accepted length:** 97,976 words', 'One active chapter draft exists: Chapter 19 only.'],
-              'books/book-01/control/02-current-project-state.md': ['97,976', 'unaccepted', 'non-canon'],
-              'books/book-01/manuscript/STATUS.md': ['Chapter 19 first draft — non-canon'],
-              'books/book-01/drafts/README.md': ['Active chapter drafts: **Chapter 19 only**'],
-          }
-          for rel, phrases in stale.items():
-              text = (root / rel).read_text(encoding='utf-8')
-              for phrase in phrases:
-                  if phrase in text:
-                      failures.append(f'{rel} stale live-status phrase: {phrase}')
-          Path('.github/ch19-validation-debug.txt').write_text('\n'.join(failures) if failures else 'NO MISMATCHES', encoding='utf-8')
+              for number, line in enumerate(path.read_text(encoding='utf-8').splitlines(), 1):
+                  for phrase in phrases:
+                      if phrase.lower() in line.lower():
+                          findings.append(f'{rel}:{number}: {line}')
+                          break
+          Path('.github/ch19-validation-debug.txt').write_text('\n'.join(findings) if findings else 'NO STALE LIVE STATE', encoding='utf-8')
           PY
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .github/ch19-validation-debug.txt
-          git commit -m "Record Chapter 19 validation diagnostics"
+          git commit -m "Record Chapter 19 stale-state diagnostics"
           git push origin HEAD:agent/chapter-19-acceptance
