@@ -17,9 +17,11 @@ The authoritative production status is [`PROJECT_STATE.yaml`](PROJECT_STATE.yaml
 - Chapter 18 manuscript: [`books/book-01/manuscript/chapters/chapter-18.md`](books/book-01/manuscript/chapters/chapter-18.md)
 - Chapter 18 acceptance review: [`books/book-01/control/37-chapter-18-acceptance-review.md`](books/book-01/control/37-chapter-18-acceptance-review.md)
 - Chapter 19 mission lock: [`books/book-01/control/38-chapter-19-mission-lock.md`](books/book-01/control/38-chapter-19-mission-lock.md)
-- Active chapter drafts: none
-- Chapter 19 prose: not created
-- Chapter 19 canon status: mission locked, undrafted, and non-canon
+- Active chapter draft: [`books/book-01/drafts/chapter-19.md`](books/book-01/drafts/chapter-19.md)
+- Chapter 19 working title: **The Name on the Record**
+- Chapter 19 draft length: **5,393 words**
+- Chapter 19 canon status: drafted, unaccepted, and non-canon
+- Chapter 19 acceptance review: not created
 - Chapter 20 prose or mission lock: not created
 - Complete remainder-of-Act-III outline: not created
 - Book 1: not publication-ready
@@ -33,21 +35,23 @@ The authoritative production status is [`PROJECT_STATE.yaml`](PROJECT_STATE.yaml
 - Phase B requested local source-record reconstruction through a maintenance commit.
 - Final local authentication did not arrive; the commit did not execute; local source-record writes remained zero.
 - Original `ARJ-K17-001`, patrol record `ARJ-K17-002`, and derivative `ARJ-K17-003` remain separately resealed under Indian custody.
-- `ARJ-K17-ACK-01` entered the existing preservation route without transferring the original or granting the field result to Julie, Marcus, Elias, or a named Washington recipient.
+- `ARJ-K17-ACK-01` entered the preservation route without transferring the original or granting the field result to a named Washington recipient.
 - The later superseding allied product omitted the local events.
-- The MPD seven-package custody state and the trio's medical states remain unchanged offstage.
-- Field-team identities, Tariq's physical presence or keystrokes, reconstruction authorship, Washington human responsibility, final federal custody, and public vindication remain unresolved.
+- The MPD seven-package custody state and the trio's medical states remain unchanged at the accepted endpoint.
+- Field-team identities, Tariq's physical presence or keystrokes, reconstruction authorship, Washington human responsibility, final federal custody, and public vindication remain unresolved in accepted canon.
 
-## Approved Chapter 19 planning
+## Chapter 19 first draft — non-canon
 
-- Dominant mission: reconnect the bounded K-17 result to Washington through one named federal receiving act, then obtain Hartwell's exact `SSO-NS-004` serial and institutional physical-custody chain.
-- Planned opening: **10:01:12 EDT / 19:31:12 IST**, secure MPD evidence intake.
-- Planned endpoint: **10:44:12 EDT / 20:14:12 IST**, secure MPD evidence intake.
-- Planned POV: Julie primary with one bounded Special Agent Leila Grant Hartwell cutaway.
-- Planned word range: **5,200–5,900 words**.
-- Accepted-manuscript effect: none.
-- Evidence rule: no MPD package may be opened, connected, moved, combined, or transferred during Chapter 19.
-- Proof ceiling: the planned Hartwell result may establish office/device custody, not Sterling's personal possession, keystrokes, command, guilt, or admissibility.
+- Draft path: [`books/book-01/drafts/chapter-19.md`](books/book-01/drafts/chapter-19.md)
+- Working title: **The Name on the Record**
+- Exact draft words: **5,393**
+- Opening: **10:01:12 EDT / 19:31:12 IST**, secure MPD evidence intake
+- Endpoint: **10:44:12 EDT / 20:14:12 IST**, secure MPD evidence intake
+- POV: Julie primary with one bounded Special Agent Leila Grant Hartwell cutaway
+- Dominant mission: reconnect the bounded K-17 result to Washington through one named federal receiving act, then obtain Hartwell's exact `SSO-NS-004` serial and institutional physical-custody chain
+- Draft result: Alvarez/DCIS accepts federal receiving responsibility; the bounded no-fire/K-17 result reaches Julie; Hartwell establishes the exact serial and office-to-Hartwell custody chain; Sterling's personal hand and the signer's current custodian remain unproved
+- Evidence rule satisfied: no MPD package is opened, connected, moved, combined, or transferred
+- Accepted-manuscript effect: none
 
 ## Source-of-truth hierarchy
 
@@ -73,7 +77,7 @@ Accepted prose outranks every summary, tracker, plan, and draft.
 
 ## Current gate
 
-Draft and integrate the complete first version of Chapter 19 under the approved mission lock. The draft must remain non-canon until formal acceptance. Do not begin Chapter 20 planning and do not create a complete chapter-by-chapter outline for the remainder of Act III.
+Perform the formal Chapter 19 acceptance review and synchronized promotion pass. Until an explicit acceptance verdict and promotion are complete, Chapter 19 remains non-canon. Do not begin Chapter 20 planning and do not create a complete chapter-by-chapter outline for the remainder of Act III.
 
 ## Permanent continuity repair
 

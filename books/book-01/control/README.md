@@ -1,8 +1,8 @@
-# Canon Control Pack v4.2
+# Canon Control Pack v4.3
 
 The accepted manuscript always outranks this control pack.
 
-Version 4.2 preserves Chapter 18 — **The Local Record** — as accepted canon at `../manuscript/chapters/chapter-18.md` and adds the approved, non-canon Chapter 19 mission lock. Accepted canon remains the Prologue and Chapters 1–18 at **97,976 words**, ending at **10:01:12 EDT / 19:31:12 IST**.
+Version 4.3 preserves Chapter 18 — **The Local Record** — as accepted canon and records the single non-canon Chapter 19 first draft. Accepted canon remains the Prologue and Chapters 1–18 at **97,976 words**, ending at **10:01:12 EDT / 19:31:12 IST**.
 
 ## Control documents
 
@@ -46,7 +46,7 @@ Version 4.2 preserves Chapter 18 — **The Local Record** — as accepted canon 
 - [37. Chapter 18 Acceptance Review](37-chapter-18-acceptance-review.md)
 - [38. Chapter 19 Mission Lock](38-chapter-19-mission-lock.md)
 
-Cross-book character continuity is controlled separately in [`../../../series/recurring-character-ledger.md`](../../../series/recurring-character-ledger.md).
+Cross-book continuity is controlled separately in [`../../../series/recurring-character-ledger.md`](../../../series/recurring-character-ledger.md).
 
 ## Accepted Chapter 18 state
 
@@ -58,21 +58,24 @@ Cross-book character continuity is controlled separately in [`../../../series/re
 - **Endpoint:** 10:01:12 EDT / 19:31:12 IST
 - **Accepted manifest:** Prologue and Chapters 1–18
 - **Accepted total:** 97,976 words
-- **POV:** Major Ananya Sharma only
-- **MPD custody:** unchanged; all seven Washington packages remain in MPD physical custody
-- **Final federal receiver:** none in accepted canon
+- **MPD custody:** all seven Washington packages remain in MPD physical custody
+- **Final federal receiver in accepted canon:** none
 
-## Approved Chapter 19 planning
+## Chapter 19 draft state
 
-- **Status:** mission locked; undrafted; non-canon
-- **Dominant mission:** named federal receiving act and Washington–field reconnection, followed by Hartwell exact-serial and institutional custody payoff
-- **Planned opening:** 10:01:12 EDT / 19:31:12 IST
-- **Planned endpoint:** 10:44:12 EDT / 20:14:12 IST
-- **Planned POV:** Julie primary; one bounded Grant Hartwell cutaway
-- **Planned range:** 5,200–5,900 words
-- **Package scope:** no MPD package opened, connected, moved, combined, or transferred
+- **Mission lock:** `38-chapter-19-mission-lock.md`
+- **Draft path:** `../drafts/chapter-19.md`
+- **Working title:** The Name on the Record
+- **Exact draft words:** 5,393
+- **Opening:** 10:01:12 EDT / 19:31:12 IST
+- **Endpoint:** 10:44:12 EDT / 20:14:12 IST
+- **POV:** Julie primary; one bounded Grant Hartwell cutaway
+- **Status:** drafted, unaccepted, non-canon
+- **Acceptance review:** not created
 - **Accepted-manuscript effect:** none
+- **Package scope:** no MPD package opened, connected, moved, combined, or transferred
+- **Chapter 20 / complete remainder outline:** absent
 
 ## Current production gate
 
-Draft and integrate the complete first version of Chapter 19 under `38-chapter-19-mission-lock.md`. Keep it non-canon until formal acceptance. Do not begin Chapter 20 planning and do not create a complete remainder-of-Act-III outline.
+Perform the formal Chapter 19 acceptance review and synchronized promotion pass. Keep the draft non-canon unless an explicit verdict accepts it. Do not begin Chapter 20 planning and do not create a complete remainder-of-Act-III outline.

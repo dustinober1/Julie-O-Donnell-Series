@@ -29,7 +29,7 @@
 12. Update the master timeline whenever accepted prose adds an exact timestamp.
 13. Record EDT and IST together when the cross-border crisis is affected.
 14. Never hide a time conflict by changing only a summary.
-15. Update injuries after every meaningful action, treatment, rest period, symptom change, or elapsed-time change.
+15. Update injuries after every meaningful accepted action, treatment, rest period, symptom change, or elapsed-time change.
 16. Do not record recovery without treatment and elapsed time.
 17. Preserve the accepted Chapter 5-to-6 repair and L3-7 handoff unless an explicit repair package supersedes them.
 
@@ -59,7 +59,7 @@
 33. Recount accepted manuscript words whenever prose is promoted or revised.
 34. Record the accepted total in `PROJECT_STATE.yaml` and `../ACCEPTED_MANUSCRIPT.yaml` using the repository count utility.
 35. Word count never justifies a scene that does not advance threat, evidence, decision, relationship, institutional consequence, geopolitical consequence, or required aftermath.
-36. Book 1 must remain within 100,000–125,000 words; the planning target is 112,500.
+36. Book 1 must remain within 100,000–125,000 accepted words; the planning target is 112,500.
 37. Check the ending contract before accepting the climax, resolution, or epilogue.
 
 ## Revision and audit
@@ -82,22 +82,24 @@
 - Exact Chapter 18 prose lives at `../manuscript/chapters/chapter-18.md`; no duplicate draft remains.
 - Validator protects Chapters 14–18 by exact blob and word count.
 - K-17 original, patrol record, derivative, seals, and acknowledgment remain synchronized across accepted controls.
-- MPD custody and the trio's medical/knowledge state remain unchanged offstage at the accepted endpoint.
+- MPD custody and the trio's medical/knowledge state remain unchanged at the accepted endpoint.
 
-## Approved Chapter 19 maintenance record — planning only
+## Chapter 19 maintenance record — draft only
 
 - Mission lock: `38-chapter-19-mission-lock.md`.
-- Status: mission locked, undrafted, non-canon.
-- Planned opening: **10:01:12 EDT / 19:31:12 IST**.
-- Planned endpoint: **10:44:12 EDT / 20:14:12 IST**.
-- Planned range: **5,200–5,900 words**.
-- No Chapter 19 prose exists under `drafts/` or `manuscript/`.
+- Draft path: `../drafts/chapter-19.md`.
+- Working title: **The Name on the Record**.
+- Status: drafted, unaccepted, non-canon.
+- Exact draft words: **5,393**.
+- Opening: **10:01:12 EDT / 19:31:12 IST**.
+- Endpoint: **10:44:12 EDT / 20:14:12 IST**.
 - The accepted manifest, accepted total, accepted endpoint, and Chapter 18 protected blob remain unchanged.
-- No accepted canon ledger is updated as though the planned receiving act, Hartwell production, or field briefing occurred.
+- No accepted canon ledger is updated as though the draft receiving act, Hartwell production, or field briefing occurred.
+- No MPD package is opened, connected, moved, combined, or transferred in the draft.
 - No Chapter 19 acceptance review exists.
 - No Chapter 20 prose or mission lock exists.
 - No complete remainder-of-Act-III outline exists.
 
 ## Current maintenance gate
 
-Draft and integrate Chapter 19 under the approved mission lock as non-canon prose. Do not promote it without an explicit acceptance review. Do not begin Chapter 20 planning or create a complete remainder-of-Act-III outline.
+Perform the formal Chapter 19 acceptance review and synchronized promotion pass. Do not promote without an explicit acceptance verdict. Do not begin Chapter 20 planning or create a complete remainder-of-Act-III outline.

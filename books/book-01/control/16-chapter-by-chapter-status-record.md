@@ -53,18 +53,21 @@ Accepted total through Chapter 18: **97,976 words**.
 - **Custody result:** original, patrol record, derivative, and acknowledgment remain distinct; no Washington package or MPD custody state changed
 - **Proof ceiling:** no human operator, personal presence/keystrokes, WSS plaintext, Hartwell presenter, reconstruction author, upstream command, guilt, innocence, admissibility, immunity, final federal custody, or public vindication
 
-## Chapter 19 planning
+## Chapter 19 first draft — non-canon
 
-- **Status:** Mission locked; undrafted; non-canon
+- **Working title:** The Name on the Record
+- **Status:** Drafted; unaccepted; non-canon
 - **Mission lock:** `38-chapter-19-mission-lock.md`
-- **Dominant mission:** reconnect the bounded K-17 result to Washington through one named federal receiving act, then obtain Hartwell's exact `SSO-NS-004` serial and institutional physical-custody chain
-- **Planned opening:** 10:01:12 EDT / 19:31:12 IST
-- **Planned endpoint:** 10:44:12 EDT / 20:14:12 IST
-- **Planned POV:** Julie primary with one bounded Special Agent Leila Grant Hartwell cutaway
-- **Planned word range:** 5,200–5,900 words
+- **Draft path:** `../drafts/chapter-19.md`
+- **Exact words:** 5,393
+- **Opening:** 10:01:12 EDT / 19:31:12 IST
+- **Endpoint:** 10:44:12 EDT / 20:14:12 IST
+- **POV:** Julie primary with one bounded Special Agent Leila Grant Hartwell cutaway
+- **Dominant mission:** reconnect the bounded K-17 result through one named federal receiving act, then obtain Hartwell's exact `SSO-NS-004` serial and institutional physical-custody chain
+- **Draft result:** Alvarez/DCIS accepts responsibility while MPD retains the seven packages; Julie learns the bounded no-fire/K-17 result; Hartwell certifies the exact serial and office-to-Hartwell handoff; current signer custody and Sterling's personal role remain unproved
 - **Package scope:** no MPD package opened, connected, moved, combined, or transferred
 - **Accepted-manuscript effect:** none
-- **Proof ceiling:** no Sterling personal possession/command, WSS plaintext, Tariq physical operation, Vance personal keystrokes, alternative deployment operator, guilt, innocence, admissibility, or public vindication
+- **Acceptance review:** not created
 
 ## Chapter 20 and later
 
@@ -74,4 +77,4 @@ Accepted total through Chapter 18: **97,976 words**.
 
 ## Current gate
 
-Draft and integrate Chapter 19 under the approved mission lock. Keep the draft non-canon until formal acceptance. Do not begin Chapter 20 planning or create a complete remainder-of-Act-III outline.
+Perform the formal Chapter 19 acceptance review and synchronized promotion pass. Keep Chapter 19 non-canon unless the gate explicitly accepts and promotes it. Do not begin Chapter 20 planning or create a complete remainder-of-Act-III outline.
