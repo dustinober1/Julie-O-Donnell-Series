@@ -53,6 +53,8 @@ Repository for the Julie O'Donnell contemporary geopolitical techno-thriller / m
 
 Accepted prose outranks every summary, tracker, plan, and draft.
 
+Permanent validation protects the accepted manifest, Chapters 13–19, the Chapter 19 mission lock, and the Chapter 20 mission-lock-only state.
+
 ## Current gate
 
 Draft and integrate the first non-canon version of Chapter 20 only from the approved mission lock. Do not draft Chapter 21, create a Chapter 21 mission lock, alter accepted prose or the accepted manifest, or create a complete chapter-by-chapter outline for the remainder of Act III.
