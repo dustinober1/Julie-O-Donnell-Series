@@ -1,15 +1,15 @@
-name: Chapter 19 validation diagnostics
+name: Finalize Chapter 19 control synchronization
 
 on:
   pull_request:
     branches: [main]
-    types: [opened, reopened, synchronize]
+    types: [synchronize]
 
 permissions:
   contents: write
 
 jobs:
-  diagnose:
+  finalize:
     if: github.head_ref == 'agent/chapter-19-acceptance'
     runs-on: ubuntu-latest
     steps:
@@ -17,66 +17,38 @@ jobs:
         with:
           ref: agent/chapter-19-acceptance
           fetch-depth: 0
-      - name: Scan synchronized controls for stale live state
+      - name: Relabel superseded Chapter 18 status and remove diagnostics
         shell: bash
         run: |
           python - <<'PY'
           from pathlib import Path
 
-          root = Path('.')
-          files = [
-              'README.md',
-              'books/book-01/manuscript/STATUS.md',
-              'books/book-01/control/00-overview.md',
-              'books/book-01/control/02-current-project-state.md',
-              'books/book-01/control/04-source-of-truth-canon-locks.md',
-              'books/book-01/control/05-master-timeline.md',
-              'books/book-01/control/06-character-state-ledger.md',
-              'books/book-01/control/07-relationship-and-trust-matrix.md',
-              'books/book-01/control/08-evidence-and-chain-of-custody-ledger.md',
-              'books/book-01/control/09-knowledge-and-information-control-matrix.md',
-              'books/book-01/control/10-technology-and-system-rules.md',
-              'books/book-01/control/11-organizations-authorities-and-institutional-control.md',
-              'books/book-01/control/12-location-and-security-architecture.md',
-              'books/book-01/control/13-antagonist-objectives-and-conspiracy-model.md',
-              'books/book-01/control/14-public-narrative-versus-actual-record.md',
-              'books/book-01/control/15-open-plot-threads-and-payoff-matrix.md',
-              'books/book-01/control/16-chapter-by-chapter-status-record.md',
-              'books/book-01/control/18-act-iii-entry-state.md',
-              'books/book-01/control/20-control-pack-maintenance-rules.md',
-              'books/book-01/control/23-word-budget-and-act-iii-architecture.md',
-              'books/book-01/control/24-thread-disposition-matrix.md',
-              'books/book-01/control/README.md',
-              'books/book-01/drafts/README.md',
-              'series/recurring-character-ledger.md',
+          path = Path('books/book-01/control/04-source-of-truth-canon-locks.md')
+          text = path.read_text(encoding='utf-8')
+          replacements = [
+              (
+                  '## Accepted Chapter 18 canon lock — 2026-07-14',
+                  '## Historical Chapter 18 canon lock — superseded by Chapter 19 acceptance',
+              ),
+              (
+                  '- Accepted total: **97,976 words**.\n- Accepted endpoint: **10:01:12 EDT / 19:31:12 IST** at Forward Post Arjun.',
+                  '- This was the controlling endpoint before Chapter 19 acceptance.\n- Historical endpoint: **10:01:12 EDT / 19:31:12 IST** at Forward Post Arjun.',
+              ),
+              (
+                  '- No Chapter 19 prose or mission lock exists. The next gate is a dedicated Chapter 19 mission lock only.',
+                  '- This endpoint and production gate were superseded by the accepted Chapter 19 canon lock recorded at the top of this document.',
+              ),
           ]
-          phrases = [
-              '97,976',
-              'Prologue and Chapters 1–18',
-              'Chapters 13–18 accepted',
-              'Chapter 19 draft',
-              'Chapter 19 only',
-              'unaccepted',
-              'non-canon',
-              'Perform the formal Chapter 19 acceptance',
-              'Formal Chapter 19 acceptance review and promotion pass',
-              'accepted total through Chapter 18',
-          ]
-          findings = []
-          for rel in files:
-              path = root / rel
-              if not path.is_file():
-                  findings.append(f'MISSING {rel}')
-                  continue
-              for number, line in enumerate(path.read_text(encoding='utf-8').splitlines(), 1):
-                  for phrase in phrases:
-                      if phrase.lower() in line.lower():
-                          findings.append(f'{rel}:{number}: {line}')
-                          break
-          Path('.github/ch19-validation-debug.txt').write_text('\n'.join(findings) if findings else 'NO STALE LIVE STATE', encoding='utf-8')
+          for old, new in replacements:
+              if old not in text:
+                  raise SystemExit(f'missing expected canon-lock text: {old}')
+              text = text.replace(old, new, 1)
+          path.write_text(text, encoding='utf-8')
           PY
+          git rm .github/workflows/ch19-validation-debug.yml .github/ch19-validation-debug.txt
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add .github/ch19-validation-debug.txt
-          git commit -m "Record Chapter 19 stale-state diagnostics"
+          git add books/book-01/control/04-source-of-truth-canon-locks.md
+          git diff --cached --check
+          git commit -m "Finalize Chapter 19 control synchronization"
           git push origin HEAD:agent/chapter-19-acceptance
