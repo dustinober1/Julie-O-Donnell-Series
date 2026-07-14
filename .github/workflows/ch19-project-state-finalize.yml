@@ -1,0 +1,58 @@
+name: Finalize Chapter 19 project state
+
+on:
+  pull_request:
+    branches: [main]
+    types: [opened, reopened, synchronize]
+
+permissions:
+  contents: write
+
+jobs:
+  finalize:
+    if: github.head_ref == 'agent/chapter-19-acceptance'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: agent/chapter-19-acceptance
+          fetch-depth: 0
+      - name: Correct final Chapter 19 status and self-remove
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          path = Path('PROJECT_STATE.yaml')
+          text = path.read_text(encoding='utf-8')
+
+          old = 'status: ACCEPT; promoted at 5,393 words after five line-level repairs'
+          new = 'status: ACCEPT; promoted at 5,393 words after six line-level repairs'
+          if text.count(old) != 1:
+              raise SystemExit(f'expected one outdated repair count, found {text.count(old)}')
+          text = text.replace(old, new, 1)
+
+          obsolete = '- Chapters 13 through 18 are accepted Act III canon.\n'
+          if text.count(obsolete) != 1:
+              raise SystemExit(f'expected one obsolete Act III rule, found {text.count(obsolete)}')
+          text = text.replace(obsolete, '', 1)
+
+          duplicate_no_ch20 = '- No Chapter 20 prose or mission lock exists.\n'
+          if text.count(duplicate_no_ch20) != 2:
+              raise SystemExit(f'expected two Chapter 20 rules, found {text.count(duplicate_no_ch20)}')
+          text = text.replace(duplicate_no_ch20, '', 1)
+
+          duplicate_outline = '- No complete chapter-by-chapter remainder-of-Act-III outline exists or is authorized.\n'
+          if text.count(duplicate_outline) != 2:
+              raise SystemExit(f'expected two remainder-outline rules, found {text.count(duplicate_outline)}')
+          text = text.replace(duplicate_outline, '', 1)
+
+          path.write_text(text, encoding='utf-8')
+          PY
+          git rm .github/workflows/ch19-project-state-finalize.yml
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add PROJECT_STATE.yaml
+          git diff --cached --check
+          git commit -m "Finalize Chapter 19 project state"
+          git push origin HEAD:agent/chapter-19-acceptance
