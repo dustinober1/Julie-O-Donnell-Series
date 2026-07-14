@@ -58,6 +58,11 @@ jobs:
                   script = script.replace('revisions = [', extra, 1)
                   script = script.replace('Five line-level repairs were made', 'Six line-level repairs were made')
                   script = script.replace('Replaced three production-facing', 'Replaced four production-facing')
+                  script = script.replace(
+                      "require(ch18_entry in manifest, 'Chapter 18 manifest entry not found')\nmanifest = manifest.replace(ch18_entry, ch18_entry + ch19_entry, 1)",
+                      "ch18_path_line = '    path: \\\"books/book-01/manuscript/chapters/chapter-18.md\\\"\\n'\nrequire(ch18_path_line in manifest, 'Chapter 18 manifest path not found')\nmanifest = manifest.replace(ch18_path_line, ch18_path_line + ch19_entry, 1)",
+                      1,
+                  )
               result = subprocess.run(
                   ['bash', '-euo', 'pipefail', '-c', script],
                   text=True,
