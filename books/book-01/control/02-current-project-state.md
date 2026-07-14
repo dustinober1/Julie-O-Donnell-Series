@@ -15,9 +15,11 @@ The authoritative production status is `../../../PROJECT_STATE.yaml`. The author
 | Planning target | 112,500 words |
 | Target range | 100,000–125,000 words |
 | Accepted endpoint | **Chapter 18, 10:01:12 EDT / 19:31:12 IST** |
-| Active chapter drafts | None |
-| Chapter 19 | Mission locked; undrafted; non-canon |
+| Active chapter drafts | Chapter 19 only |
+| Chapter 19 | Drafted at 5,393 words; unaccepted; non-canon |
+| Chapter 19 draft | `../drafts/chapter-19.md` |
 | Chapter 19 mission lock | `38-chapter-19-mission-lock.md` |
+| Chapter 19 acceptance review | Not created |
 | Chapter 20 | No prose or mission lock |
 | Book status | Not publication-ready |
 
@@ -29,20 +31,23 @@ The authoritative production status is `../../../PROJECT_STATE.yaml`. The author
 - Security Line One passed; the Tariq-registered authority reached the local controller.
 - Phase B requested local source-record reconstruction/maintenance commit, but final local authentication failed and local writes remained zero.
 - The superseding allied product omitted the local events.
-- Washington's MPD package custody, medical separation, and knowledge firewall remain unchanged.
+- Washington's MPD package custody, medical separation, and knowledge firewall remain unchanged in accepted canon.
 - No final federal receiver, public vindication, human operator, personal keystroke, or reconstruction author is established in accepted canon.
 
-## Approved Chapter 19 mission
+## Chapter 19 first draft — non-canon
 
-Chapter 19 is planned to create one named federal receiving act for the complete MPD incident and bounded field acknowledgment, then obtain Hartwell's exact `SSO-NS-004` serial and office-to-Hartwell physical-custody chain. The plan does not establish Sterling's personal possession, keystrokes, command, guilt, or admissibility.
+The single draft at `../drafts/chapter-19.md` follows `38-chapter-19-mission-lock.md`.
 
-- Planned opening: **10:01:12 EDT / 19:31:12 IST**
-- Planned endpoint: **10:44:12 EDT / 20:14:12 IST**
-- Planned POV: Julie primary; one bounded Grant cutaway
-- Planned word range: **5,200–5,900 words**
+- Working title: **The Name on the Record**
+- Exact words: **5393**
+- Opening: **10:01:12 EDT / 19:31:12 IST**
+- Endpoint: **10:44:12 EDT / 20:14:12 IST**
+- POV: Julie primary; one bounded Grant Hartwell cutaway
+- Draft advancement: Alvarez/DCIS becomes named federal receiver; the bounded no-fire/K-17 result reaches Julie; Hartwell identifies `SSO-NS-004` and the institutional office-to-Hartwell custody sequence
+- Draft proof limits: Sterling's personal hand, the device's current custodian, WSS plaintext, alternative original-deployment actor, remote reconstruction author, guilt, innocence, immunity, admissibility, and public vindication remain unresolved
 - Evidence constraint: no MPD package opened, connected, moved, combined, or transferred
 - Canon effect: none until a later acceptance review and synchronized promotion
 
 ## Current production gate
 
-Draft and integrate the complete first version of Chapter 19 under the approved mission lock. Keep the draft non-canon until formal acceptance. Do not begin Chapter 20 planning and do not create a complete remainder-of-Act-III outline.
+Perform the formal Chapter 19 acceptance review and synchronized promotion pass. Keep the draft non-canon unless the gate issues an explicit acceptance verdict. Do not begin Chapter 20 planning and do not create a complete remainder-of-Act-III outline.
