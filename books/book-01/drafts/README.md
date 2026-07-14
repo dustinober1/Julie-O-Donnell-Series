@@ -1,18 +1,21 @@
 # Book 1 Drafts
 
-This directory contains prose that is **not accepted canon**. A draft may be complete, revised, or mission-locked and still remain non-canon until the formal acceptance gate and synchronized promotion are complete.
+This directory contains prose that is **not accepted canon**. A complete draft remains non-canon until the formal acceptance gate issues an explicit verdict and a synchronized promotion is completed.
 
 ## Current state
 
-- Active chapter drafts: **none**
-- Chapter 17 — **The First Examination** — has been accepted and moved to `../manuscript/chapters/chapter-17.md`.
-- Chapter 17 review: `../control/35-chapter-17-acceptance-review.md` — **ACCEPT**
-- Chapter 17 reviewed blob: `1c4022ebb8d27d8d448f98bcf74fbf09e6e560c1`
-- Chapter 18 — **The Local Record** — is mission locked in `../control/36-chapter-18-mission-lock.md`.
-- Chapter 18 prose: **not created**
-- Chapter 18 draft path when authorized: `chapter-18.md`
-- Chapter 19 prose or mission lock: **not created**
-- Complete remainder-of-Act-III outline: **not created**
+- Active chapter drafts:
+  - `chapter-18.md` — **The Local Record**
+- Chapter 18 status: **complete first draft; unaccepted; non-canon**
+- Chapter 18 exact words: **4,600**
+- Chapter 18 mission lock: `../control/36-chapter-18-mission-lock.md`
+- Opening: **09:12:52 EDT / 18:42:52 IST**
+- Endpoint: **10:01:12 EDT / 19:31:12 IST**
+- POV: **Major Ananya Sharma only**
+- Chapter 18 accepted path: none
+- Chapter 18 manuscript file: none
+- Chapter 19 prose or mission lock: not created
+- Complete remainder-of-Act-III outline: not created
 
 ## Accepted manuscript reference
 
@@ -21,26 +24,24 @@ This directory contains prose that is **not accepted canon**. A draft may be com
 - Accepted endpoint: **09:12:52 EDT / 18:42:52 IST**
 - Accepted manifest: `../ACCEPTED_MANUSCRIPT.yaml`
 
-## Chapter 18 drafting gate
+## Chapter 18 review gate
 
-The next authorized action is to create exactly one complete first version at `chapter-18.md` from `../control/36-chapter-18-mission-lock.md`.
+The next authorized action is the formal Chapter 18 acceptance review. Review `chapter-18.md` against `../control/36-chapter-18-mission-lock.md`, `../control/25-chapter-acceptance-gate.md`, accepted prose, and current canon controls.
 
-The draft must:
+The review must preserve:
 
-- remain non-canon;
-- use **The Local Record**;
-- open at 09:12:52 EDT / 18:42:52 IST;
-- use Major Ananya Sharma as the only close-third POV;
-- target 4,400–5,200 words;
-- create no Chapter 19 material; and
-- leave the accepted manifest, accepted total, and accepted endpoint unchanged.
+- one active Chapter 18 draft path;
+- no unaccepted prose under `../manuscript/`;
+- accepted words at 93,498;
+- accepted endpoint at 09:12:52 EDT / 18:42:52 IST;
+- Chapter 17 as the accepted endpoint;
+- no Chapter 19 work; and
+- no complete remainder-of-Act-III outline.
 
 ## Rules
 
 1. Draft prose never outranks accepted manuscript prose.
 2. Only one active draft path is permitted for a chapter.
-3. Promotion moves the exact reviewed prose into `../manuscript/` and removes the draft copy.
-4. Rejected or superseded drafts remain recoverable through Git history; do not create duplicate active versions.
-5. A later chapter may not treat an unaccepted draft endpoint as canon.
-
-No complete remainder-of-Act-III outline has been created.
+3. Promotion must move the exact reviewed prose into `../manuscript/` and remove the draft copy.
+4. Rejected or superseded drafts remain recoverable through Git history.
+5. A later chapter may not treat this unaccepted endpoint as canon.
