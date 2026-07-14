@@ -1,1 +1,28 @@
-NO MISMATCHES
+README.md:37: 4. [`books/book-01/drafts/`](books/book-01/drafts/) for unaccepted prose
+books/book-01/control/00-overview.md:37: 5. Drafts and archive material are non-canon provenance.
+books/book-01/control/04-source-of-truth-canon-locks.md:275: - Accepted total: **97,976 words**.
+books/book-01/control/16-chapter-by-chapter-status-record.md:58: - **Custody result:** MPD retains all seven packages; Hartwell retains its original; Indian originals remain local; the Chapter 19 draft copy was removed
+books/book-01/control/18-act-iii-entry-state.md:22: - **Accepted manuscript total:** 97,976 words
+books/book-01/control/18-act-iii-entry-state.md:28: - **Active chapter draft:** `../drafts/chapter-19.md` — non-canon
+books/book-01/control/18-act-iii-entry-state.md:73: Perform the formal Chapter 19 acceptance review and synchronized promotion pass. Do not use the draft endpoint as canon, begin Chapter 20 planning, or create a complete remainder-of-Act-III outline.
+books/book-01/control/20-control-pack-maintenance-rules.md:23: 3. Unaccepted prose lives under `../drafts/`.
+books/book-01/control/20-control-pack-maintenance-rules.md:31: 8. A draft remains non-canon until the formal acceptance gate issues an explicit verdict.
+books/book-01/control/20-control-pack-maintenance-rules.md:40: 10. Later chapters may not use an unaccepted endpoint as canon.
+books/book-01/control/20-control-pack-maintenance-rules.md:70: 31. Plans and drafts for unwritten or unaccepted chapters remain non-canon.
+books/book-01/control/20-control-pack-maintenance-rules.md:96: - Accepted total: **97,976 words**.
+books/book-01/control/20-control-pack-maintenance-rules.md:105: Perform the formal Chapter 19 acceptance review and synchronized promotion pass. Do not promote without an explicit acceptance verdict. Do not begin Chapter 20 planning or create a complete remainder-of-Act-III outline.
+books/book-01/control/23-word-budget-and-act-iii-architecture.md:29: | Accepted manuscript through Chapter 18 | **97,976** |
+books/book-01/control/23-word-budget-and-act-iii-architecture.md:33: | Chapter 19 non-canon draft | **5,393** |
+books/book-01/control/23-word-budget-and-act-iii-architecture.md:48: | Accepted manuscript total | **97,976** |
+books/book-01/control/23-word-budget-and-act-iii-architecture.md:112: Perform the formal Chapter 19 acceptance review and synchronized promotion pass. Accepted words remain 97,976 and the accepted endpoint remains 10:01:12 EDT / 19:31:12 IST until promotion. Do not begin Chapter 20 planning or create a complete remainder-of-Act-III outline.
+books/book-01/control/24-thread-disposition-matrix.md:14: **Approved production control.** Accepted prose controls actual thread state. Chapter-specific planning and draft results remain non-canon until a formal acceptance review and synchronized promotion.
+books/book-01/control/24-thread-disposition-matrix.md:18: - Accepted manuscript: Prologue and Chapters 1–18
+books/book-01/control/24-thread-disposition-matrix.md:19: - Accepted words: **97,976**
+books/book-01/control/24-thread-disposition-matrix.md:21: - Chapter 19: one **5,393-word** draft at `../drafts/chapter-19.md`; unaccepted and non-canon
+books/book-01/control/24-thread-disposition-matrix.md:100: Perform the formal Chapter 19 acceptance review and synchronized promotion pass. No Chapter 19 event is canon until that gate issues an explicit verdict. Do not begin Chapter 20 planning or create a complete remainder-of-Act-III outline.
+books/book-01/control/README.md:15: This section is the current accepted state and supersedes any older Chapter 19 draft-only status language retained below for historical context.
+books/book-01/control/README.md:20: Version 4.3 preserves Chapter 18 — **The Local Record** — as accepted canon and records the single non-canon Chapter 19 first draft. Accepted canon remains the Prologue and Chapters 1–18 at **97,976 words**, ending at **10:01:12 EDT / 19:31:12 IST**.
+books/book-01/control/README.md:74: - **Accepted manifest:** Prologue and Chapters 1–18
+books/book-01/control/README.md:75: - **Accepted total:** 97,976 words
+books/book-01/control/README.md:81: Perform the formal Chapter 19 acceptance review and synchronized promotion pass. Keep the draft non-canon unless an explicit verdict accepts it. Do not begin Chapter 20 planning and do not create a complete remainder-of-Act-III outline.
+books/book-01/drafts/README.md:6: - Do not recreate a Chapter 19 draft copy or alternate version.
