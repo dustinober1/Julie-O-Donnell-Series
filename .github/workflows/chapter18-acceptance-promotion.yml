@@ -7,6 +7,12 @@ on:
     paths:
       - ".github/ch18-promotion-parts/**"
       - ".github/workflows/chapter18-acceptance-promotion.yml"
+  pull_request:
+    branches:
+      - main
+    paths:
+      - ".github/ch18-promotion-parts/**"
+      - ".github/workflows/chapter18-acceptance-promotion.yml"
 
 permissions:
   contents: write
