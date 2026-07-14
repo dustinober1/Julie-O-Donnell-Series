@@ -36,79 +36,68 @@
 ## Evidence and knowledge
 
 18. Record every accepted evidence transfer with time, location, transferor, recipient, seal condition, reason, and witness.
-19. Keep the telemetry case, administrator board, recovery cartridge, Partition A, Partition B, WSS local audit, Chen records, Sharma records, K-17 local originals, and derivative examiner media distinct.
+19. Keep the telemetry case, administrator board, recovery cartridge, Partition A, Partition B, WSS local audit, Chen records, Sharma records, K-17 local originals, Hartwell original, and derivative examiner media distinct.
 20. Update both what evidence proves and what it does not prove.
 21. Registered authority never proves physical human custody without separate evidence.
 22. Never invent contents of incomplete, excluded, encrypted, unavailable, or unexamined records.
 23. Update the knowledge matrix whenever accepted prose gives a viewpoint character material information.
+24. A legal/federal receiving act and physical evidence custody are separate states and must be recorded separately.
+25. A certified derivative never replaces its independently controlled original.
 
 ## Plot and series continuity
 
-24. Update the thread-disposition matrix after every accepted chapter.
-25. Resolve Book 1 obligations before using a series hook to defer them.
-26. Update the recurring-character ledger whenever a returning character's accepted status, knowledge, injury, relationship, legal exposure, location, or future function changes.
-27. Do not assign a future-book role as canon until the character reaches an accepted Book 1 state.
-28. High-level architecture may guide word budget and sequence, but unwritten chapter functions become controlling only through individual mission locks.
-29. Plans and drafts for unwritten or unaccepted chapters remain non-canon.
+26. Update the thread-disposition matrix after every accepted chapter.
+27. Resolve Book 1 obligations before using a series hook to defer them.
+28. Update the recurring-character ledger whenever a returning character's accepted status, knowledge, injury, relationship, legal exposure, location, or future function changes.
+29. Do not assign a future-book role as canon until the character reaches an accepted Book 1 state.
+30. High-level architecture may guide word budget and sequence, but unwritten chapter functions become controlling only through individual mission locks.
+31. Plans and drafts for unwritten or unaccepted chapters remain non-canon.
+32. Do not create a complete chapter-by-chapter remainder-of-Act-III outline.
 
 ## Word count and ending control
 
-30. Recount accepted manuscript words whenever prose is promoted or revised.
-31. Record the accepted total in `PROJECT_STATE.yaml` and `../ACCEPTED_MANUSCRIPT.yaml` using the repository count utility.
-32. Word count never justifies a scene that does not advance threat, evidence, decision, relationship, institutional consequence, geopolitical consequence, or required aftermath.
-33. Book 1 must remain within 100,000–125,000 words; the planning target is 112,500.
-34. Check the ending contract before accepting the climax, resolution, or epilogue.
+33. Recount accepted manuscript words whenever prose is promoted or revised.
+34. Record the accepted total in `PROJECT_STATE.yaml` and `../ACCEPTED_MANUSCRIPT.yaml` using the repository count utility.
+35. Word count never justifies a scene that does not advance threat, evidence, decision, relationship, institutional consequence, geopolitical consequence, or required aftermath.
+36. Book 1 must remain within 100,000–125,000 words; the planning target is 112,500.
+37. Check the ending contract before accepting the climax, resolution, or epilogue.
 
 ## Revision and audit
 
-35. Narrative House Style v2.2 controls craft but cannot create or change canon.
-36. Run a discrepancy check before each new act or major phase.
-37. Run an evidence-limits check before investigation, arrest, testimony, publication, decryption, institutional-custody, or field-record chapters.
-38. Run a forward continuity audit before final revision and a reverse-order payoff audit after the ending exists.
-39. Before publication, audit exact times, EDT/IST conversion, titles, vehicles, security bypasses, certificate claims, evidence seals, injuries, knowledge, relationships, public narrative, and the official-record theme.
+38. Narrative House Style v2.2 controls craft but cannot create or change canon.
+39. Run a discrepancy check before each new act or major phase.
+40. Run an evidence-limits check before investigation, arrest, testimony, publication, decryption, institutional-custody, or field-record chapters.
+41. Run a forward continuity audit before final revision and a reverse-order payoff audit after the ending exists.
+42. Before publication, audit exact times, EDT/IST conversion, titles, vehicles, security bypasses, certificate claims, evidence seals, injuries, knowledge, relationships, public narrative, and the official-record theme.
 
-## Accepted maintenance record through Chapter 17
+## Accepted maintenance record through Chapter 18
 
+- Chapter 14 — **The Witness Line** — accepted at 5,763 words; reviewed blob `78f7fff02cd271fecbc94f7daf7151dbebbd5c6d`.
 - Chapter 15 — **The Split Record** — accepted at 5,993 words; reviewed blob `b8e7e2ae573a6c25ea096121c75acee867f3fad2`.
 - Chapter 16 — **The Hold Order** — accepted at 6,024 words; reviewed blob `dd5249f4b510a9da9ad19ab2902a95ce1e62a1d8`.
 - Chapter 17 — **The First Examination** — accepted at 5,888 words; reviewed blob `1c4022ebb8d27d8d448f98bcf74fbf09e6e560c1`.
-- Accepted total after Chapter 17: **93,498 words**.
-- Chapter 17 endpoint: **09:12:52 EDT / 18:42:52 IST**.
-- `MPD-901446` was the sole opened package, resealed under `MPD-SL-551821`, and returned to the common MPD chest.
-- All seven packages remain in MPD physical custody; no final federal receiver exists.
-- The validator protects Chapters 14–17 by exact blob and word count.
-
-## Chapter 18 first-draft maintenance record
-
-- `36-chapter-18-mission-lock.md` remains the controlling planning file.
-- Draft path: `../drafts/chapter-18.md`.
-- Exact draft words: **4,478**.
-- Status: first draft exists; unaccepted; non-canon.
-- Draft opening: **09:12:52 EDT / 18:42:52 IST**.
-- Draft endpoint: **10:01:12 EDT / 19:31:12 IST**.
-- Accepted total remains **93,498 words**.
-- Accepted endpoint remains **09:12:52 EDT / 18:42:52 IST**.
-- No Chapter 18 file exists under `manuscript/`.
-- No Chapter 19 prose or mission lock exists.
-- No complete remainder-of-Act-III outline exists.
-- Draft-only K-17 references remain non-canon until formal acceptance.
-- No accepted canon ledger is updated as though Chapter 18 events occurred.
-
-## Current maintenance gate
-
-Conduct the formal Chapter 18 acceptance review. Do not change the accepted manifest, accepted word count, accepted endpoint, or accepted canon ledgers unless an explicit **ACCEPT** verdict authorizes synchronized promotion. Do not draft Chapter 19.
-
-## Accepted maintenance record through Chapter 18 — 2026-07-14
-
 - Chapter 18 — **The Local Record** — accepted unchanged at 4,478 words; reviewed blob `6f5873d6e975ec74646af152aad22ea84545fc01`.
 - Accepted total: **97,976 words**.
 - Accepted endpoint: **10:01:12 EDT / 19:31:12 IST**.
-- Exact reviewed prose moved to `../manuscript/chapters/chapter-18.md`; draft copy removed.
-- Validator now protects Chapters 14–18 by exact blob and word count.
-- K-17 original, patrol record, derivative, seals, and acknowledgment are synchronized across evidence, timeline, knowledge, technology, institutional, character, and thread controls.
-- MPD custody and the trio's medical/knowledge state remain unchanged offstage.
-- No Chapter 19 prose or mission lock exists; no complete remainder-of-Act-III outline exists.
+- Exact Chapter 18 prose lives at `../manuscript/chapters/chapter-18.md`; no duplicate draft remains.
+- Validator protects Chapters 14–18 by exact blob and word count.
+- K-17 original, patrol record, derivative, seals, and acknowledgment remain synchronized across accepted controls.
+- MPD custody and the trio's medical/knowledge state remain unchanged offstage at the accepted endpoint.
 
-## Current maintenance gate after Chapter 18
+## Approved Chapter 19 maintenance record — planning only
 
-Create and approve a dedicated Chapter 19 mission lock before any Chapter 19 prose. Do not create a complete remainder-of-Act-III outline.
+- Mission lock: `38-chapter-19-mission-lock.md`.
+- Status: mission locked, undrafted, non-canon.
+- Planned opening: **10:01:12 EDT / 19:31:12 IST**.
+- Planned endpoint: **10:44:12 EDT / 20:14:12 IST**.
+- Planned range: **5,200–5,900 words**.
+- No Chapter 19 prose exists under `drafts/` or `manuscript/`.
+- The accepted manifest, accepted total, accepted endpoint, and Chapter 18 protected blob remain unchanged.
+- No accepted canon ledger is updated as though the planned receiving act, Hartwell production, or field briefing occurred.
+- No Chapter 19 acceptance review exists.
+- No Chapter 20 prose or mission lock exists.
+- No complete remainder-of-Act-III outline exists.
+
+## Current maintenance gate
+
+Draft and integrate Chapter 19 under the approved mission lock as non-canon prose. Do not promote it without an explicit acceptance review. Do not begin Chapter 20 planning or create a complete remainder-of-Act-III outline.

@@ -1,6 +1,6 @@
 # 0. BOOK 1 CONTROL PACK OVERVIEW
 
-**Control-pack version:** 4.1
+**Control-pack version:** 4.2
 
 **Accepted prose:** Prologue and Chapters 1–18
 
@@ -33,15 +33,29 @@
 - MPD custody and trio medical state: unchanged offstage
 - Prohibited findings remain unresolved: human operators, personal keystrokes/possession, WSS plaintext, Hartwell presenter, reconstruction author/upstream command, final federal custody, guilt, innocence, admissibility, immunity, and public vindication
 
+## Approved Chapter 19 planning
+
+- Mission lock: `38-chapter-19-mission-lock.md`
+- Status: **mission locked; undrafted; non-canon**
+- Dominant mission: reconnect the bounded K-17 result to Washington through one named federal receiving act, then obtain Hartwell's exact `SSO-NS-004` serial and institutional physical-custody chain
+- Planned opening: **10:01:12 EDT / 19:31:12 IST**, secure MPD evidence intake
+- Planned endpoint: **10:44:12 EDT / 20:14:12 IST**, secure MPD evidence intake
+- POV: Julie primary with one bounded Special Agent Leila Grant Hartwell cutaway
+- Planned words: **5,200–5,900**
+- Package rule: no MPD package opened, connected, moved, combined, or transferred
+- Proof ceiling: office/device custody may be established; Sterling's personal possession, keystrokes, command, guilt, and admissibility may not
+- Accepted-manuscript effect: none
+
 ## Current production state
 
 - Acts I and II are complete.
 - Act III contains accepted Chapters 13–18.
 - No active chapter draft exists.
-- Chapter 19 prose and mission lock do not exist.
+- Chapter 19 prose does not exist.
+- Chapter 20 prose or mission lock does not exist.
 - No complete remainder-of-Act-III outline exists.
 - Book 1 remains below the 100,000-word minimum by 2,024 words and is not publication-ready.
 
 ## Current gate
 
-Create and approve a dedicated Chapter 19 mission lock before any Chapter 19 prose. Do not create a complete remainder-of-Act-III outline.
+Draft and integrate the complete first version of Chapter 19 under `38-chapter-19-mission-lock.md`. Keep it non-canon until formal acceptance. Do not begin Chapter 20 planning and do not create a complete remainder-of-Act-III outline.

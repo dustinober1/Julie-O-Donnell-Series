@@ -16,7 +16,7 @@ Act III contains six accepted chapters:
 - **Accepted manuscript total:** 97,976 words
 - **Time:** 10:01:12 EDT / 19:31:12 IST
 - **Location:** Forward Post Arjun after the bounded K-17 local-record acknowledgment
-- **Washington authority:** MPD retains physical custody of all seven packages under incident `187463`; no final federal receiver exists
+- **Washington authority:** MPD retains physical custody of all seven packages under incident `187463`; no final federal receiver exists in accepted canon
 - **Indian/local authority:** Forward Post Arjun retains `ARJ-K17-001`, `ARJ-K17-002`, and `ARJ-K17-003` under separate reseals; `ARJ-K17-ACK-01` is accepted without transfer of the original
 - **Accepted prose after this point:** none
 - **Active chapter draft:** none
@@ -39,22 +39,33 @@ Act III contains six accepted chapters:
 - Sharma and Qureshi know the bounded local result.
 - The result enters the existing preservation route only as category, custody, caveat, and bounded event status.
 - Julie, Marcus, Elias, Grant, Hackett, and MPD do not automatically receive field merits.
-- Field-team identities, Tariq's physical presence or keystrokes, reconstruction authorship, Sterling/Vance personal acts, WSS plaintext, Hartwell presenter, alternative original-deployment identity path, guilt, innocence, immunity, admissibility, final federal custody, and public vindication remain unresolved.
+- Field-team identities, Tariq's physical presence or keystrokes, reconstruction authorship, Sterling/Vance personal acts, WSS plaintext, Hartwell presenter, alternative original-deployment identity path, guilt, innocence, immunity, admissibility, final federal custody, and public vindication remain unresolved in accepted canon.
 
 ## Physical and custody continuity
 
 Julie, Marcus, and Elias remain offstage in the exact separate custody/medical states established by Chapters 16–17. No Washington package is opened, moved, altered, or transferred in Chapter 18. No medical recovery or direct communication is created.
+
+## Approved Chapter 19 transition — planning only
+
+`38-chapter-19-mission-lock.md` is the controlling plan for the next draft. It does not change canon.
+
+- **Dominant mission:** Washington–field reconnection through one named federal receiving act, culminating in Hartwell's exact `SSO-NS-004` serial and institutional physical-custody payoff.
+- **Planned opening:** 10:01:12 EDT / 19:31:12 IST at secure MPD evidence intake.
+- **Planned endpoint:** 10:44:12 EDT / 20:14:12 IST at secure MPD evidence intake.
+- **Planned POV:** Julie primary with one bounded Grant Hartwell cutaway.
+- **Planned evidence effect:** no MPD package opened, connected, moved, combined, or transferred; Hartwell and Indian originals remain with their existing custodians.
+- **Planned proof ceiling:** office/device custody may be established; personal possession, keystrokes, command, guilt, and admissibility remain unproved.
+- **Planned word range:** 5,200–5,900 words.
 
 ## Remaining Book 1 obligations
 
 High-level obligations remain:
 
 - alternative identity path and human responsibility;
-- Hartwell presenter and exact challenged serial;
 - WSS-4 plaintext or lawful equivalent where necessary;
-- final federal custody and broader evidence examination where necessary;
+- current custody and authorization of `SSO-NS-004`;
 - consequences of Marcus's recorded correction;
-- consequential choices for Chen and Mercer;
+- consequential final choice for Mercer;
 - Bell local-record fate and Price disposition;
 - meaningful Vance and Sterling consequences;
 - authenticated public-narrative fracture;
@@ -65,4 +76,4 @@ This is an obligation inventory, not a complete chapter-by-chapter remainder out
 
 ## Current production gate
 
-Create and approve a dedicated Chapter 19 mission lock from the accepted Chapter 18 endpoint. Do not draft Chapter 19 before approval and do not create a complete remainder-of-Act-III outline.
+Draft and integrate the complete first version of Chapter 19 under `38-chapter-19-mission-lock.md`. Keep the draft non-canon until formal acceptance. Do not begin Chapter 20 planning and do not create a complete remainder-of-Act-III outline.
