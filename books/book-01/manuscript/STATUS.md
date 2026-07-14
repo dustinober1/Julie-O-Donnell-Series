@@ -31,14 +31,25 @@
 - Result: the examined board lacks the original attributed physical signing event; later gate and reconciliation events remain authenticated
 - Limit: no alternative identity path, human operator, innocence, guilt, immunity, admissibility, final receiver, Hartwell result, WSS plaintext, K-17 result, Phase B result, field truth, or public vindication was established
 
-## Current unresolved state
+## Chapter 18 planning
+
+- Title: **The Local Record**
+- Mission lock: [`../control/36-chapter-18-mission-lock.md`](../control/36-chapter-18-mission-lock.md)
+- Status: mission locked; undrafted; non-canon
+- Planned opening: 09:12:52 EDT / 18:42:52 IST
+- Planned endpoint: 10:01:12 EDT / 19:31:12 IST
+- POV: Major Ananya Sharma only
+- Planned range: 4,400–5,200 words
+- Draft exists: no
+- Manuscript file exists: no
+- Accepted-manuscript effect: none
+
+## Current unresolved accepted state
 
 Hartwell presenter and exact serial remain unresolved. WSS-4 plaintext remains unavailable. K-17 access remains unconfirmed. Phase B remains undefined. Sterling's hostile public account remains dominant. No final federal receiver exists.
 
-## Later prose
+The Chapter 18 mission lock plans a field payoff but does not change any of those accepted facts.
 
-Chapter 18 and later have not been drafted or individually mission locked. The remaining architecture is high-level and provisional only.
+## Current gate
 
-## Accepted Chapter 17 state — 2026-07-14
-
-The accepted manuscript now ends with the first independent bounded technical record in MPD custody. No duplicate Chapter 17 draft, Chapter 18 prose, Chapter 18 mission lock, or complete remainder-of-Act-III outline exists.
+Draft exactly one complete first version of Chapter 18 at `../drafts/chapter-18.md`. Do not place unaccepted prose under `manuscript/`, draft Chapter 19, or create a complete remainder-of-Act-III outline.
