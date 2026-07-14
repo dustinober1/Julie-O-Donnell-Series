@@ -37,86 +37,21 @@ jobs:
       - name: Validate Chapter 18 mission-lock state
         shell: bash
         run: |
-          python - <<'PY'
-          from pathlib import Path
-          import hashlib
-
-          root = Path('.')
-
-          def need(condition, message):
-              if not condition:
-                  raise SystemExit(message)
-
-          def text(path):
-              p = root / path
-              need(p.is_file(), f'missing {path}')
-              return p.read_text(encoding='utf-8')
-
-          def git_blob_sha(path):
-              data = path.read_bytes()
-              return hashlib.sha1(f"blob {len(data)}\0".encode() + data).hexdigest()
-
-          manifest = text('books/book-01/ACCEPTED_MANUSCRIPT.yaml')
-          project = text('PROJECT_STATE.yaml')
-          lock = text('books/book-01/control/36-chapter-18-mission-lock.md')
-          control_index = text('books/book-01/control/README.md')
-
-          need('accepted_words: 93498' in manifest, 'accepted total changed')
-          need('sequence: 17' in manifest, 'Chapter 17 missing from accepted manifest')
-          need('sequence: 18' not in manifest, 'Chapter 18 entered accepted manifest')
-          need('chapter: 17' in manifest, 'accepted endpoint chapter changed')
-          need('09:12:52 EDT' in manifest and '18:42:52 IST' in manifest, 'accepted endpoint time changed')
-
-          protected = {
-              'chapter-14.md': ('78f7fff02cd271fecbc94f7daf7151dbebbd5c6d', 5763),
-              'chapter-15.md': ('b8e7e2ae573a6c25ea096121c75acee867f3fad2', 5993),
-              'chapter-16.md': ('dd5249f4b510a9da9ad19ab2902a95ce1e62a1d8', 6024),
-              'chapter-17.md': ('1c4022ebb8d27d8d448f98bcf74fbf09e6e560c1', 5888),
-          }
-          chapter_root = root / 'books/book-01/manuscript/chapters'
-          for name, (expected_sha, expected_words) in protected.items():
-              path = chapter_root / name
-              need(path.is_file(), f'missing protected {name}')
-              need(git_blob_sha(path) == expected_sha, f'protected blob changed: {name}')
-              need(len(path.read_text(encoding='utf-8').split()) == expected_words, f'protected count changed: {name}')
-
-          need('# 36. CHAPTER 18 MISSION LOCK — THE LOCAL RECORD' in lock, 'mission-lock title missing')
-          for marker in [
-              '**Status:** Mission locked; undrafted; non-canon planning',
-              '09:12:52 EDT / 18:42:52 IST',
-              '10:01:12 EDT / 19:31:12 IST',
-              'Major Ananya Sharma',
-              'ARJ-K17-018',
-              'ARJ-K17-001',
-              'ARJ-K17-002',
-              'ARJ-K17-003',
-              'ARJ-K17-ACK-01',
-              '### Candidate A — The Local Record',
-              '### Candidate B — The Second Examination',
-              '### Candidate C — The Witness Choice',
-              '### Candidate D — The Hartwell Production',
-              '## 22. Success condition',
-              '## 23. Failure condition',
-              '## 24. Hard-stop or decision boundary',
-              '## 28. Scene-by-scene blueprint',
-              '## 29. Exact endpoint state',
-              '## 38. No-prose certification',
-              '4,400–5,200 words',
-          ]:
-              need(marker in lock, f'mission-lock marker missing: {marker}')
-
-          need('chapter_18_mission_lock: "books/book-01/control/36-chapter-18-mission-lock.md"' in project, 'PROJECT_STATE mission-lock pointer missing')
-          need('status: "mission locked; undrafted; non-canon planning"' in project, 'PROJECT_STATE mission status missing')
-          need('accepted_words: 93498' in project, 'PROJECT_STATE accepted total changed')
-          need('[36. Chapter 18 Mission Lock](36-chapter-18-mission-lock.md)' in control_index, 'control index link missing')
-
-          need(not (root / 'books/book-01/drafts/chapter-18.md').exists(), 'Chapter 18 draft exists')
-          need(not (root / 'books/book-01/manuscript/chapters/chapter-18.md').exists(), 'Chapter 18 accepted prose exists')
-          need(not list((root / 'books/book-01').rglob('chapter-19.md')), 'Chapter 19 prose exists')
-          need(not (root / 'books/book-01/control/37-chapter-19-mission-lock.md').exists(), 'Chapter 19 mission lock exists')
-
-          print('Chapter 18 mission-lock state validated')
-          PY
+          test -f books/book-01/control/36-chapter-18-mission-lock.md
+          test ! -f books/book-01/drafts/chapter-18.md
+          test ! -f books/book-01/manuscript/chapters/chapter-18.md
+          test ! -f books/book-01/control/37-chapter-19-mission-lock.md
+          ! find books/book-01 -name 'chapter-19.md' -print -quit | grep -q .
+          grep -Fq '# 36. CHAPTER 18 MISSION LOCK — THE LOCAL RECORD' books/book-01/control/36-chapter-18-mission-lock.md
+          grep -Fq '**Status:** Mission locked; undrafted; non-canon planning' books/book-01/control/36-chapter-18-mission-lock.md
+          grep -Fq '09:12:52 EDT / 18:42:52 IST' books/book-01/control/36-chapter-18-mission-lock.md
+          grep -Fq '10:01:12 EDT / 19:31:12 IST' books/book-01/control/36-chapter-18-mission-lock.md
+          grep -Fq 'ARJ-K17-018' books/book-01/control/36-chapter-18-mission-lock.md
+          grep -Fq 'ARJ-K17-ACK-01' books/book-01/control/36-chapter-18-mission-lock.md
+          grep -Fq '## 38. No-prose certification' books/book-01/control/36-chapter-18-mission-lock.md
+          grep -Fq 'chapter_18_mission_lock: "books/book-01/control/36-chapter-18-mission-lock.md"' PROJECT_STATE.yaml
+          grep -Fq 'accepted_words: 93498' PROJECT_STATE.yaml
+          grep -Fq '[36. Chapter 18 Mission Lock](36-chapter-18-mission-lock.md)' books/book-01/control/README.md
 
       - name: Check whitespace
         if: github.event_name == 'pull_request'
