@@ -5,14 +5,12 @@ on:
     branches:
       - agent/chapter-18-acceptance-review
     paths:
-      - ".github/ch18-promotion-parts/**"
-      - ".github/workflows/chapter18-acceptance-promotion.yml"
+      - ".github/ch18-promotion-ready"
   pull_request:
     branches:
       - main
     paths:
-      - ".github/ch18-promotion-parts/**"
-      - ".github/workflows/chapter18-acceptance-promotion.yml"
+      - ".github/ch18-promotion-ready"
 
 permissions:
   contents: write
@@ -32,7 +30,7 @@ jobs:
         run: |
           set -euo pipefail
           cat .github/ch18-promotion-parts/part*.b64 | base64 --decode | gzip --decompress > tools/promote_chapter18_acceptance.py
-          echo "11d8f860a194dd04a20116343995df68229dd746e57ffbb104bf4559229d5428  tools/promote_chapter18_acceptance.py" | sha256sum --check --strict
+          echo "264ad42a5e3f0b3df95a1cf534de9db794277077d3174669f79036a54e566d67  tools/promote_chapter18_acceptance.py" | sha256sum --check --strict
           python -m py_compile tools/promote_chapter18_acceptance.py
 
       - name: Apply and validate synchronized acceptance
