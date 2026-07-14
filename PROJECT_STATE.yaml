@@ -180,7 +180,7 @@ active_book:
     planning_range_words: "4400-5200"
     result: "K-17 remained physically intact; Security Line One passed; K17-PHASE-B requested local source-record reconstruction/maintenance commit; final local authentication failed; local writes remained zero; the original journal survived; the superseding allied product omitted the local events"
     next_gate_completed: "Chapter 18 acceptance and promotion"
-    next_gate: "Chapter 19 mission planning"
+    next_gate: "Chapter 19 first-draft production"
 
   chapter_19_record:
     title: null
