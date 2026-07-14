@@ -198,3 +198,12 @@
 Chapter 16 moves the evidence from public commercial-garage level six to a secure MPD evidence-intake vehicle bay. The route is a short controlled convoy; no evidence compartment or package is opened during movement.
 
 Endpoint geography at 08:15:52 EDT / 17:45:52 IST: the evidence transport has crossed the secure MPD intake threshold with the locked chest and all seven packages; Julie remains restrained in a parallel marked-police custody lane; Marcus remains in guarded ambulance care; Elias remains in separate guarded medical transport. The trio is not reunited.
+
+## Accepted Chapter 17 location update — 2026-07-14
+
+### Secure MPD evidence intake and digital-evidence room
+- Caged vehicle/intake lane, locked common incident chest, recorded package movement, and camera-covered examination corridor.
+- Isolated examination room with fixed steel evidence surface, continuous MPD camera, independent wall clock, antistatic mat, and logged access.
+- Network wall jack is physically disconnected and tagged; ordinary radios/wireless devices remain outside.
+- Observation alcove allows Julie to see custody movement while restrained without entering the technical work area.
+- The architecture separates physical custody, technical access, witness continuity, and public intake operations.

@@ -62,3 +62,11 @@
 - **Julie ↔ Ortiz / MPD:** Ortiz demonstrates procedural reliability by demanding a complete named receiver. He does not become Julie's ally or adopt her technical interpretation.
 - **Hackett ↔ Sharma / allied record:** the relationship is record-to-record only through a bounded preservation route. No direct personal trust or knowledge transfer is established.
 - **Julie ↔ Sharma:** no contact and no identity knowledge. The linked acknowledgment establishes a second record owner, not personal alliance.
+
+## Accepted Chapter 17 relationship update — 2026-07-14
+
+- **Julie ↔ Grant:** bounded professional respect begins. Grant trusts the reproducible method, not Julie's preferred theory; Julie accepts Grant's complete limited result.
+- **Julie ↔ Elias:** Julie protects Elias from a false original physical-token attribution without erasing his later voluntary choices or legal exposure.
+- **Julie ↔ Hackett:** Hackett's preservation sponsorship produces a bounded institutional result, but he remains neither receiver, adjudicator, immunity authority, nor uncomplicated ally.
+- **Julie ↔ MPD / Ortiz / Park:** procedural trust grows through custody discipline rather than personal allegiance.
+- **Grant ↔ Apex:** no trust relationship; Apex claims are logged but receive no equipment, observer, custody, or veto role.

@@ -74,3 +74,16 @@
 **Advanced / intermediate payoff:** independent counterrecord and lawful custody; Marcus's six-years-ago correction; Hackett's named institutional choice; complete-incident preservation; bounded activation of Sharma's separately held record; MPD secure-intake threshold.
 
 **Still open:** final federal receiver, independent technical examiner, technical merits, Hartwell presenter/exact serial, compact black case contents, WSS plaintext, Sterling physical possession, Vance personal keystrokes/upstream direction, Tariq physical presence, K-17 outcome, Phase B, reconstruction authorship/purpose/truth, and public fracture or vindication.
+
+## Accepted Chapter 17 thread update — 2026-07-14
+
+### Advanced
+- Independent technical examination: first named, reproducible single-package examination completed.
+- Independent counterrecord: Grant's signed observation now exists outside Apex's exclusive control.
+- Elias original-deployment attribution: physical-board claim materially weakened.
+- Elias later voluntary acts: independently authenticated and preserved with legal ambiguity.
+- Hackett: preservation sponsorship produces a bounded result without final custody or adjudication.
+- Public fracture: technically staged, not publicly triggered.
+
+### Still open
+Final receiver; alternative identity path; human operator; broader package authentication; Hartwell presenter and exact serial; compact black case; WSS plaintext; K-17; Phase B; reconstruction; Sterling/Vance/Tariq personal acts; Chen/Mercer/Bell/Price outcomes; Marcus consequences; legal/medical aftermath; public vindication.

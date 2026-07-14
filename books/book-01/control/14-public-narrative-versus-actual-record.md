@@ -50,3 +50,11 @@ The armed-insider narrative remains hostile and may harden because lawful detent
 The public account remains the hostile armed-insider/sabotage account. A news update describes the evidence movement as occurring under “federal coordination,” which makes the contested preservation chain sound like a completed federal transfer. No public source names Hackett's limitations or MPD's continued custody.
 
 The actual record is narrower: Hackett sponsors preservation, MPD holds the seven packages, no examiner has opened them, no federal officer has accepted final custody, and no public authority has cleared Julie, Marcus, or Elias. Internal preservation does not equal public vindication.
+
+## Accepted Chapter 17 public-versus-actual update — 2026-07-14
+
+### Public account
+Sterling's armed-insider account remains dominant. Public reporting treats detention and recovered classified material as support for the hostile story. No public correction, leak, press conference, or vindication occurs.
+
+### Actual nonpublic record
+Grant's signed preliminary observation independently establishes that the examined physical board lacks the original attributed physical signing event while later gate and reconciliation events remain authenticated. The record is bounded, nonpublic, and does not establish innocence, guilt, human responsibility, or the wider conspiracy.

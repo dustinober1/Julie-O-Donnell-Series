@@ -831,3 +831,13 @@ The exact purpose must remain unresolved until dramatized or decrypted.
 Chapter 16 performs no technical examination. No evidence package is opened, connected, mounted, imaged, decrypted, combined, or altered. WSS-4 remains encrypted; Partition A/Partition B and every earlier integrity limitation remain unchanged.
 
 Hackett's hold changes preservation and routing state only. Sharma's acknowledgment changes record-retention visibility only. Neither action authenticates content, adjudicates either allied product, proves K-17 access, defines Phase B, or identifies a human operator behind any prior credential or device event.
+
+## Accepted Chapter 17 technology update — 2026-07-14
+
+- A physical secure-element board records this board's signing history, not every use of a mirrored or replayed identity.
+- `EAT-0881147` exposes no physical private-key signing event, matching monotonic transition, or local release record for the original attributed deployment.
+- Later emergency gate and provenance-reconciliation events do expose internally consistent physical-board history.
+- The examination uses an isolated DCIS workstation, verified boot image, serialized write blocker and reader, passive evidence interface, and reference-card false-positive control.
+- No live network, Apex tool, Apex credential, biometric, private-key challenge, reset, counter increment, secure-element change, or production operation occurs.
+- Pre- and post-examination counter values match; final state records zero writes, zero private-key operations, and zero new monotonic transitions.
+- The result contradicts ordinary physical use of this board at the original attribution time but does not identify an alternative identity path or human actor.
