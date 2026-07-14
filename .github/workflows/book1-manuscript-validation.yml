@@ -90,6 +90,7 @@ jobs:
               'Reviewed/promoted prose blob:** `1c7cc22fc7c480cb247efa1f6a2c0d0b1e1b1baf`',
               'Exact final word count:** **5,393**',
               'New accepted-manuscript total: **103,369**',
+              'Six line-level repairs were made',
           ]:
               require(sentinel in review_text, f'acceptance review missing: {sentinel}')
 
@@ -161,7 +162,7 @@ jobs:
           synchronized = {
               'README.md': ['Accepted canon: Prologue and Chapters 1–19', '103,369 words', 'Chapter 20 prose or mission lock: not created'],
               'books/book-01/manuscript/STATUS.md': ['Prologue and Chapters 1–19', 'Accepted length: **103,369 words**', 'The Name on the Record'],
-              'books/book-01/control/00-overview.md': ['## Chapter 19 accepted state', '103,369 words'],
+              'books/book-01/control/00-overview.md': ['## Current accepted state', '103,369 words'],
               'books/book-01/control/02-current-project-state.md': ['## Chapter 19 accepted state', '103,369 words'],
               'books/book-01/control/04-source-of-truth-canon-locks.md': ['## Chapter 19 canon locks', 'Registered authority is not physical possession'],
               'books/book-01/control/05-master-timeline.md': ['## Accepted Chapter 19 timeline delta', '10:44:12 EDT / 20:14:12 IST'],
@@ -176,11 +177,11 @@ jobs:
               'books/book-01/control/14-public-narrative-versus-actual-record.md': ['## Chapter 19 accepted public/private record delta'],
               'books/book-01/control/15-open-plot-threads-and-payoff-matrix.md': ['## Chapter 19 accepted thread delta'],
               'books/book-01/control/16-chapter-by-chapter-status-record.md': ['## Chapter 19 — accepted', 'Reviewed blob: `1c7cc22fc7c480cb247efa1f6a2c0d0b1e1b1baf`'],
-              'books/book-01/control/18-act-iii-entry-state.md': ['## Accepted Act III state after Chapter 19'],
-              'books/book-01/control/20-control-pack-maintenance-rules.md': ['## Chapter 19 acceptance maintenance record'],
-              'books/book-01/control/23-word-budget-and-act-iii-architecture.md': ['## Chapter 19 accepted word-budget state', '**103,369 words**'],
-              'books/book-01/control/24-thread-disposition-matrix.md': ['## Chapter 19 accepted disposition update'],
-              'books/book-01/control/README.md': ['## Chapter 19 accepted state', '39. Chapter 19 Acceptance Review'],
+              'books/book-01/control/18-act-iii-entry-state.md': ['## Controlling accepted Act III state', '**103,369 words**'],
+              'books/book-01/control/20-control-pack-maintenance-rules.md': ['## Accepted maintenance record through Chapter 19', '**103,369 words**'],
+              'books/book-01/control/23-word-budget-and-act-iii-architecture.md': ['## Current word budget', 'Accepted manuscript through Chapter 19'],
+              'books/book-01/control/24-thread-disposition-matrix.md': ['## Current accepted baseline', 'Accepted words: **103,369**'],
+              'books/book-01/control/README.md': ['## Current accepted state', '39. Chapter 19 Acceptance Review'],
               'books/book-01/drafts/README.md': ['No active Book 1 chapter draft exists after Chapter 19 promotion'],
               'series/recurring-character-ledger.md': ['## Chapter 19 accepted recurring-character delta'],
           }
@@ -190,6 +191,40 @@ jobs:
               value = path.read_text(encoding='utf-8')
               absent = [item for item in sentinels if item not in value]
               require(not absent, f'{rel} missing accepted sentinel: {absent}')
+
+          stale_live_state = {
+              'books/book-01/control/00-overview.md': [
+                  'Prologue and Chapters 1–18', '97,976', 'One active chapter draft exists: Chapter 19 only',
+              ],
+              'books/book-01/control/02-current-project-state.md': [
+                  '97,976', 'Chapter 19: one', 'Perform the formal Chapter 19 acceptance',
+              ],
+              'books/book-01/control/04-source-of-truth-canon-locks.md': [
+                  'No Chapter 19 prose or mission lock exists',
+              ],
+              'books/book-01/control/16-chapter-by-chapter-status-record.md': [
+                  'Accepted total through Chapter 18', 'Perform the formal Chapter 19 acceptance',
+              ],
+              'books/book-01/control/18-act-iii-entry-state.md': [
+                  '97,976', '../drafts/chapter-19.md', 'Perform the formal Chapter 19 acceptance',
+              ],
+              'books/book-01/control/20-control-pack-maintenance-rules.md': [
+                  'Accepted maintenance record through Chapter 18', '97,976', 'Perform the formal Chapter 19 acceptance',
+              ],
+              'books/book-01/control/23-word-budget-and-act-iii-architecture.md': [
+                  'Accepted manuscript through Chapter 18', 'Chapter 19 non-canon draft', '97,976', 'Perform the formal Chapter 19 acceptance',
+              ],
+              'books/book-01/control/24-thread-disposition-matrix.md': [
+                  'Accepted manuscript: Prologue and Chapters 1–18', '../drafts/chapter-19.md', '97,976', 'Perform the formal Chapter 19 acceptance',
+              ],
+              'books/book-01/control/README.md': [
+                  'non-canon Chapter 19 first draft', '97,976', 'Perform the formal Chapter 19 acceptance',
+              ],
+          }
+          for rel, forbidden in stale_live_state.items():
+              value = (root / rel).read_text(encoding='utf-8')
+              found = [item for item in forbidden if item in value]
+              require(not found, f'{rel} retains stale live state: {found}')
 
           require(not list(book.rglob('chapter-20.md')), 'Chapter 20 prose exists')
           require(not list(control.glob('*chapter-20-mission-lock*.md')), 'Chapter 20 mission lock exists')
@@ -213,8 +248,10 @@ jobs:
           forbidden_helpers = [
               root / '.github/workflows/chapter19-acceptance-promotion.yml',
               root / '.github/workflows/ch19-pr-kick.yml',
+              root / '.github/workflows/ch19-validation-debug.yml',
               root / '.github/ch19-acceptance-trigger.txt',
               root / '.github/ch19-promotion-debug.log',
+              root / '.github/ch19-validation-debug.txt',
               root / 'tools/create_chapter19_mission_lock.py',
               root / '.github/workflows/chapter19-mission-lock.yml',
               root / 'tools/draft_chapter19.py',
