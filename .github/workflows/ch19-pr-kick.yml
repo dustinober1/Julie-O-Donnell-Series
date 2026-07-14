@@ -48,6 +48,16 @@ jobs:
               script = selected.get(name)
               if not script:
                   raise SystemExit(f'missing promotion step: {name}')
+              if name == 'Review, repair, promote, and synchronize Chapter 19':
+                  extra = """revisions = [
+              (
+                  'No movement after the Chapter 17 reseal.',
+                  'No movement after the witnessed board reseal.',
+                  'replace the remaining production shorthand with the witnessed custody event',
+              ),"""
+                  script = script.replace('revisions = [', extra, 1)
+                  script = script.replace('Five line-level repairs were made', 'Six line-level repairs were made')
+                  script = script.replace('Replaced three production-facing', 'Replaced four production-facing')
               result = subprocess.run(
                   ['bash', '-euo', 'pipefail', '-c', script],
                   text=True,
