@@ -1,23 +1,17 @@
 # Canon Control Pack v4.4
 
-<!-- CH19_ACCEPTED_STATE_START -->
-## Chapter 19 accepted state
-
-- **Accepted title:** The Name on the Record
-- **Accepted path:** `books/book-01/manuscript/chapters/chapter-19.md`
-- **Verdict:** ACCEPT
-- **Exact words:** 5,393
-- **Reviewed blob:** `1c7cc22fc7c480cb247efa1f6a2c0d0b1e1b1baf`
-- **Accepted manuscript:** Prologue and Chapters 1–19, **103,369 words**
-- **Accepted endpoint:** **10:44:12 EDT / 20:14:12 IST**, secure MPD evidence intake
-- **Next authorized gate:** Chapter 20 mission-lock planning only; no Chapter 20 prose is authorized.
-
-This section is the current accepted state and supersedes any older Chapter 19 draft-only status language retained below for historical context.
-<!-- CH19_ACCEPTED_STATE_END -->
-
 The accepted manuscript always outranks this control pack.
 
-Version 4.3 preserves Chapter 18 — **The Local Record** — as accepted canon and records the single non-canon Chapter 19 first draft. Accepted canon remains the Prologue and Chapters 1–18 at **97,976 words**, ending at **10:01:12 EDT / 19:31:12 IST**.
+## Current accepted state
+
+- **Accepted manuscript:** Prologue and Chapters 1–19
+- **Accepted total:** **103,369 words**
+- **Accepted endpoint:** **10:44:12 EDT / 20:14:12 IST**, secure MPD evidence intake
+- **Chapter 19:** **The Name on the Record**, accepted at 5,393 words
+- **Reviewed blob:** `1c7cc22fc7c480cb247efa1f6a2c0d0b1e1b1baf`
+- **Chapter 19 review:** `39-chapter-19-acceptance-review.md` — **ACCEPT**
+- **Active chapter draft:** none
+- **Next authorized gate:** Chapter 20 mission-lock planning only
 
 ## Control documents
 
@@ -60,24 +54,23 @@ Version 4.3 preserves Chapter 18 — **The Local Record** — as accepted canon 
 - [36. Chapter 18 Mission Lock](36-chapter-18-mission-lock.md)
 - [37. Chapter 18 Acceptance Review](37-chapter-18-acceptance-review.md)
 - [38. Chapter 19 Mission Lock](38-chapter-19-mission-lock.md)
+- [39. Chapter 19 Acceptance Review](39-chapter-19-acceptance-review.md)
 
 Cross-book continuity is controlled separately in [`../../../series/recurring-character-ledger.md`](../../../series/recurring-character-ledger.md).
 
-## Accepted Chapter 18 state
+## Chapter 19 accepted state
 
-- **Title:** The Local Record
-- **Accepted path:** `../manuscript/chapters/chapter-18.md`
-- **Exact words:** 4,478
-- **Reviewed blob:** `6f5873d6e975ec74646af152aad22ea84545fc01`
-- **Opening:** 09:12:52 EDT / 18:42:52 IST
-- **Endpoint:** 10:01:12 EDT / 19:31:12 IST
-- **Accepted manifest:** Prologue and Chapters 1–18
-- **Accepted total:** 97,976 words
-- **MPD custody:** all seven Washington packages remain in MPD physical custody
-- **Final federal receiver in accepted canon:** none
+- **Accepted path:** `../manuscript/chapters/chapter-19.md`
+- **Opening:** 10:01:12 EDT / 19:31:12 IST
+- **Endpoint:** 10:44:12 EDT / 20:14:12 IST
+- **POV:** Julie primary with one bounded Grant Hartwell cutaway
+- **Receiver:** Miriam Alvarez / DCIS under `DCIS-FR-187463-01`
+- **MPD custody:** all seven Washington packages remain separate and in MPD physical custody
+- **Hartwell custody:** Hartwell retains original `HWA-LCA-1187`; `HWA-CD-187463-01` is a certified derivative
+- **Indian custody:** Forward Post Arjun retains the originals; `ARJ-K17-ACK-01` remains a bounded external reference
+- **Signer result:** `SSO-NS-004` completed the 07:47:49 EDT challenge through the office-support/Hartwell chain; current physical custody is unknown
+- **Proof ceiling:** registered authority, physical possession, knowledge, and command remain separate
 
 ## Current production gate
 
-Perform the formal Chapter 19 acceptance review and synchronized promotion pass. Keep the draft non-canon unless an explicit verdict accepts it. Do not begin Chapter 20 planning and do not create a complete remainder-of-Act-III outline.
-
-- [39. Chapter 19 Acceptance Review](39-chapter-19-acceptance-review.md)
+Prepare the Chapter 20 mission-lock planning pass only. Do not draft Chapter 20 until the lock is approved, and do not create a complete chapter-by-chapter remainder-of-Act-III outline.
