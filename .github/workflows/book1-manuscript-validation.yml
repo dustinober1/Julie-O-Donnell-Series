@@ -166,18 +166,13 @@ jobs:
           print('Chapter 17 mission lock and prose absence validated')
           PYLOCK
 
-      - name: Validate synchronized Chapter 17 planning state
+      - name: Validate Chapter 17 status references
         shell: bash
         run: |
           python - <<'PYSTATUS'
           from pathlib import Path
 
           root = Path('.')
-
-          def require(condition, message):
-              if not condition:
-                  raise SystemExit(message)
-
           status_files = [
               root / 'README.md',
               root / 'books/book-01/control/00-overview.md',
@@ -192,20 +187,56 @@ jobs:
               root / 'books/book-01/manuscript/STATUS.md',
           ]
           for path in status_files:
-              require(path.is_file(), f'missing synchronized status file: {path}')
+              if not path.is_file():
+                  raise SystemExit(f'missing synchronized status file: {path}')
               text = path.read_text(encoding='utf-8')
-              require('Chapter 17' in text, f'Chapter 17 missing from {path}')
-              require(('mission lock' in text.lower() or 'mission locked' in text.lower()), f'mission-lock state missing from {path}')
+              if 'Chapter 17' not in text:
+                  raise SystemExit(f'Chapter 17 missing from {path}')
+              if 'mission lock' not in text.lower() and 'mission locked' not in text.lower():
+                  raise SystemExit(f'mission-lock state missing from {path}')
+          print('Chapter 17 status references validated')
+          PYSTATUS
 
-          core_status_files = [path for path in status_files if path.name != '24-thread-disposition-matrix.md']
+      - name: Validate accepted count and endpoint summaries
+        shell: bash
+        run: |
+          python - <<'PYSUMMARY'
+          from pathlib import Path
+
+          root = Path('.')
+          core_status_files = [
+              root / 'README.md',
+              root / 'books/book-01/control/00-overview.md',
+              root / 'books/book-01/control/02-current-project-state.md',
+              root / 'books/book-01/control/16-chapter-by-chapter-status-record.md',
+              root / 'books/book-01/control/18-act-iii-entry-state.md',
+              root / 'books/book-01/control/20-control-pack-maintenance-rules.md',
+              root / 'books/book-01/control/23-word-budget-and-act-iii-architecture.md',
+              root / 'books/book-01/control/README.md',
+              root / 'books/book-01/drafts/README.md',
+              root / 'books/book-01/manuscript/STATUS.md',
+          ]
           for path in core_status_files:
               text = path.read_text(encoding='utf-8')
-              require('87,610' in text, f'accepted total missing from {path}')
-              require('08:15:52 EDT / 17:45:52 IST' in text, f'accepted endpoint missing from {path}')
+              if '87,610' not in text:
+                  raise SystemExit(f'accepted total missing from {path}')
+              if '08:15:52 EDT / 17:45:52 IST' not in text:
+                  raise SystemExit(f'accepted endpoint missing from {path}')
+          print('accepted count and endpoint summaries validated')
+          PYSUMMARY
 
+      - name: Validate control index and temporary-file cleanup
+        shell: bash
+        run: |
+          python - <<'PYCLEAN'
+          from pathlib import Path
+
+          root = Path('.')
           control_readme = (root / 'books/book-01/control/README.md').read_text(encoding='utf-8')
-          require('Canon Control Pack v3.6' in control_readme, 'control-pack version not advanced')
-          require('[34. Chapter 17 Mission Lock](34-chapter-17-mission-lock.md)' in control_readme, 'control-pack index missing Chapter 17 lock')
+          if 'Canon Control Pack v3.6' not in control_readme:
+              raise SystemExit('control-pack version not advanced')
+          if '[34. Chapter 17 Mission Lock](34-chapter-17-mission-lock.md)' not in control_readme:
+              raise SystemExit('control-pack index missing Chapter 17 lock')
 
           temporary_paths = [
               root / 'tools/promote_chapter16_acceptance.py',
@@ -215,10 +246,10 @@ jobs:
               root / '.github/workflows/apply-chapter16-explicit-repair.yml',
           ]
           for path in temporary_paths:
-              require(not path.exists(), f'temporary file remains: {path}')
-
-          print('synchronized Chapter 17 planning state validated')
-          PYSTATUS
+              if path.exists():
+                  raise SystemExit(f'temporary file remains: {path}')
+          print('control index and temporary-file cleanup validated')
+          PYCLEAN
 
       - name: Check whitespace errors in pull-request diff
         if: github.event_name == 'pull_request'
