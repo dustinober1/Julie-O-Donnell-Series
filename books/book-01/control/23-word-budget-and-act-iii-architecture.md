@@ -8,13 +8,15 @@
 
 | Measure | Words |
 |---|---:|
-| Minimum finished length | 100,000 |
+| Minimum finished accepted length | 100,000 |
 | Planning target | 112,500 |
-| Maximum finished length | 125,000 |
+| Maximum finished accepted length | 125,000 |
 | Accepted manuscript through Chapter 18 | **97,976** |
 | Remaining to minimum | **2,024** |
 | Remaining to planning target | **14,524** |
 | Remaining before maximum | **27,024** |
+| Chapter 19 non-canon draft | **5,393** |
+| Projected total if the exact draft is later accepted | **103369** |
 
 Accepted contributions:
 
@@ -55,23 +57,24 @@ No chapter receives words solely to satisfy the target. Every scene must advance
 - Changes no Washington package custody, medical state, or merits knowledge.
 - Does not identify a human operator, Tariq's physical action, Hartwell presenter, WSS plaintext, remote reconstruction author, final receiver, guilt, innocence, admissibility, immunity, or public vindication.
 
-## Chapter 19 approved planning
+## Chapter 19 draft state — non-canon
 
-`38-chapter-19-mission-lock.md` controls the next draft. Its events are non-canon until formal review and promotion.
+`38-chapter-19-mission-lock.md` controls the single draft at `../drafts/chapter-19.md`.
 
-| Item | Planned state |
+| Item | Draft state |
 |---|---|
-| Dominant mission | Reconnect the bounded K-17 result to Washington through one named federal receiving act, then obtain Hartwell's exact `SSO-NS-004` serial and institutional physical-custody chain |
+| Working title | **The Name on the Record** |
+| Exact words | **5,393** |
+| Dominant mission | Reconnect the bounded K-17 result through one named federal receiving act, then obtain Hartwell's exact `SSO-NS-004` serial and institutional physical-custody chain |
 | Opening | **10:01:12 EDT / 19:31:12 IST** |
 | Endpoint | **10:44:12 EDT / 20:14:12 IST** |
 | POV | Julie primary; one bounded Grant Hartwell cutaway |
-| Target | **5,550 words** |
 | Preferred range | **5,200–5,900 words** |
-| Hard ceiling | **6,200 words** without documented structural need |
 | MPD package scope | No package opened, connected, moved, combined, or transferred |
 | Accepted-manuscript effect | None |
+| Next gate | Formal acceptance review and synchronized promotion |
 
-If a later accepted Chapter 19 falls within the preferred range, the manuscript would reach **103,176–103,876 words**. Crossing 100,000 is a consequence of completing the mission, not a reason to inflate the chapter.
+The exact draft would bring the accepted manuscript to **103,369 words** only if a later formal review accepts and promotes it. The accepted total remains **97,976** in this drafting pass.
 
 ## Provisional later structure
 
@@ -92,31 +95,22 @@ Later accepted prose must still provide sufficient space for:
 - Julie's final morally bounded leadership choice; and
 - a bounded series-facing ending that does not defer Book 1 resolution.
 
-The exact distribution across later chapters remains provisional and must be locked one chapter at a time.
+The exact distribution across later chapters remains provisional and must be locked one chapter at a time after Chapter 19 is accepted.
 
-## Expansion and compression controls
+## Chapter 19 production audit
 
-Expand when a crucial evidence distinction is not dramatized, a recurring character's decision lacks consequence, Washington and field events are not causally connected, public narrative fracture happens offstage, Marcus's corrective action lacks cost, or Julie's ending role is asserted rather than chosen.
-
-Compress when characters repeat established evidence, another chase reproduces an earlier escape without new consequence, technical explanation does not alter a choice, an antagonist scene states what the evidence already shows, a series seed competes with Book 1 closure, or a chapter develops more than one dominant mission.
-
-For Chapter 19 specifically:
-
-- expand the responsibility attached to the receiving act, Grant's narrow Hartwell production, Julie learning the no-fire result, and Julie's refusal to overclaim Sterling;
-- compress routine package inventory, ordinary interagency routing, repeated certificate limitations, and any legal explanation that does not change authority or custody;
-- do not open an MPD package merely to add technical spectacle;
-- do not add another pursuit, breach, or escape.
+The draft expands the responsibility attached to Alvarez's receiving act, Julie learning the no-fire result, Grant's narrow Hartwell production, and Julie's refusal to overclaim Sterling. It compresses routine routing and avoids a package examination, pursuit, breach, or escape.
 
 ## Final length review
 
-At the end of the complete first draft:
+At the end of the complete manuscript:
 
 1. Recount accepted words only.
 2. Audit each chapter's dominant function.
 3. Cut repeated explanation before cutting consequence.
 4. Add missing decision or aftermath scenes before adding procedural detail.
-5. Keep the final manuscript within 100,000–125,000 words.
+5. Keep the final accepted manuscript within 100,000–125,000 words.
 
 ## Current gate
 
-Draft and integrate Chapter 19 under the approved mission lock as non-canon prose. Accepted words remain 97,976 and the accepted endpoint remains 10:01:12 EDT / 19:31:12 IST. Do not begin Chapter 20 planning or create a complete remainder-of-Act-III outline.
+Perform the formal Chapter 19 acceptance review and synchronized promotion pass. Accepted words remain 97,976 and the accepted endpoint remains 10:01:12 EDT / 19:31:12 IST until promotion. Do not begin Chapter 20 planning or create a complete remainder-of-Act-III outline.
