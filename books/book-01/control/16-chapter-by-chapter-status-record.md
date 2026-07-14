@@ -61,7 +61,7 @@ Accepted total through Chapter 19: **103,369 words**.
 - **Mission lock:** `40-chapter-20-mission-lock.md`
 - **Mission-lock blob:** `c074e4f6f9ec9cddcbc701e2923f34b3082ede5a`
 - **Draft path:** `../drafts/chapter-20.md`
-- **Draft blob:** `13ee716d0e4b93fe73141a0c9f85488af74ce7c8`
+- **Draft blob:** `d983f952caca56c41b9f7d1ef976a9ae1b281a78`
 - **Exact words:** **4,171**
 - **Opening:** **10:44:12 EDT / 20:14:12 IST**, secure MPD evidence intake
 - **Endpoint:** **11:26:32 EDT / 20:56:32 IST**, secure MPD evidence intake
