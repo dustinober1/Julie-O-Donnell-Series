@@ -6,10 +6,6 @@ books/book-01/control/20-control-pack-maintenance-rules.md:7: 3. Unaccepted pros
 books/book-01/control/20-control-pack-maintenance-rules.md:15: 8. A draft remains non-canon until the formal acceptance gate issues an explicit verdict.
 books/book-01/control/20-control-pack-maintenance-rules.md:24: 10. Later chapters may not use an unaccepted endpoint as canon.
 books/book-01/control/20-control-pack-maintenance-rules.md:54: 31. Plans and drafts for unwritten or unaccepted chapters remain non-canon.
-books/book-01/control/23-word-budget-and-act-iii-architecture.md:29: | Accepted manuscript through Chapter 18 | **97,976** |
-books/book-01/control/23-word-budget-and-act-iii-architecture.md:33: | Chapter 19 non-canon draft | **5,393** |
-books/book-01/control/23-word-budget-and-act-iii-architecture.md:48: | Accepted manuscript total | **97,976** |
-books/book-01/control/23-word-budget-and-act-iii-architecture.md:112: Perform the formal Chapter 19 acceptance review and synchronized promotion pass. Accepted words remain 97,976 and the accepted endpoint remains 10:01:12 EDT / 19:31:12 IST until promotion. Do not begin Chapter 20 planning or create a complete remainder-of-Act-III outline.
 books/book-01/control/24-thread-disposition-matrix.md:14: **Approved production control.** Accepted prose controls actual thread state. Chapter-specific planning and draft results remain non-canon until a formal acceptance review and synchronized promotion.
 books/book-01/control/24-thread-disposition-matrix.md:18: - Accepted manuscript: Prologue and Chapters 1–18
 books/book-01/control/24-thread-disposition-matrix.md:19: - Accepted words: **97,976**
