@@ -185,7 +185,7 @@ jobs:
               "SSO-NS-004",
               "Miriam Alvarez",
               "5,200–5,900 words",
-              "no MPD package opened, connected, moved, combined, or transferred",
+              "No MPD package is opened, connected, moved, combined, or transferred.",
               "## 32. Chapter 20 handoff question only",
           ]
           missing = [item for item in required if item not in text]
