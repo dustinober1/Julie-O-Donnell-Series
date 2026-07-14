@@ -119,3 +119,16 @@ At the end of the complete first draft:
 ## Current gate
 
 Conduct the formal Chapter 18 acceptance review. Accepted words remain 93,498 and the accepted endpoint remains 09:12:52 EDT / 18:42:52 IST. Do not create Chapter 19 prose or a complete remainder-of-Act-III outline.
+
+## Accepted Chapter 18 word-budget update — 2026-07-14
+
+| Measure | Words |
+|---|---:|
+| Accepted manuscript through Chapter 18 | **97,976** |
+| Remaining to minimum | **2,024** |
+| Remaining to planning target | **14,524** |
+| Remaining before maximum | **27,024** |
+| Accepted Chapter 18 | **4,478** |
+| Accepted Act III subtotal, Chapters 13–18 | **34,321** |
+
+The repository count utility confirms 97,976 accepted words. Chapter 18 was not expanded merely to cross 100,000. Chapter 19 and later remain unwritten and individually unlocked. The next authorized step is a dedicated Chapter 19 mission lock, not a complete remainder-of-Act-III chapter outline.

@@ -151,3 +151,9 @@ Accepted Chapter 15 advances the independent-custody and Sharma-record obligatio
 Chapter 16 advances the required institutional-cost and evidence-survival obligations: Marcus accepts attributable professional/legal cost; Hackett places a named office behind preservation; the seven-object record survives into secure MPD intake; and Sharma's independently controlled record is linked without collapsing uncertainty.
 
 The ending contract is not fulfilled. The final receiver/examiner, technical merits, Hartwell physical chain, WSS plaintext, K-17, Phase B, reconstruction purpose/authorship, public narrative fracture, and final personal/institutional consequences remain open.
+
+## Chapter 18 accepted ending-contract progress — 2026-07-14
+
+Chapter 18 materially advances the Relay K-17, Phase B, Sharma, independent-counterrecord, and geopolitical-stabilization obligations. The immediate local field attempt is now bounded: K-17 remained intact at inspection, Security Line One passed, Phase B requested a local reconstruction/maintenance commit, final local authentication failed, no local write executed, and the superseding product omitted the failed local events. Sharma's original/derivative/acknowledgment chain survives independently.
+
+The ending contract remains incomplete. Human authorization and responsibility, Hartwell physical custody/exact serial, WSS plaintext or lawful equivalent, final receiver and broader examination, Chen/Mercer/Bell/Price outcomes, Vance/Sterling consequences, authenticated public fracture, and final medical/legal/relationship aftermath remain required.

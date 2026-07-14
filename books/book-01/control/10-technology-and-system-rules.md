@@ -841,3 +841,14 @@ Hackett's hold changes preservation and routing state only. Sharma's acknowledgm
 - No live network, Apex tool, Apex credential, biometric, private-key challenge, reset, counter increment, secure-element change, or production operation occurs.
 - Pre- and post-examination counter values match; final state records zero writes, zero private-key operations, and zero new monotonic transitions.
 - The result contradicts ordinary physical use of this board at the original attribution time but does not identify an alternative identity path or human actor.
+
+## Accepted Chapter 18 K-17 local-system rules — 2026-07-14
+
+- `K17-AC-44719` is the surviving original local event-journal cartridge; it is read through isolated reader `IRR-2041` in read-only mode.
+- `ARJ-K17-003` is a verified derivative, not a replacement original.
+- Security Line One can record an accepted controller challenge without proving the physical identity of the human operator.
+- `K17-PHASE-B` can request a local source-record reconstruction/maintenance commit; request arrival is distinct from final local authentication and execution.
+- The accepted Chapter 18 event order shows final local confirmation absent, authorization expired, commit not executed, and local source-record writes equal to zero.
+- No live relay write, unauthorized restoration, reconnect of the original, or replacement medium connection occurs.
+- The later superseding allied reconstruction is a remote product-level event distinct from the failed local K-17 commit.
+- A bounded acknowledgment can preserve record existence/custody and selected event state without releasing unrestricted sensor geography or transferring the original.

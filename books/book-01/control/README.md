@@ -1,8 +1,8 @@
-# Canon Control Pack v4.0
+# Canon Control Pack v4.1
 
 The accepted manuscript always outranks this control pack.
 
-Version 4.0 records Chapter 17 — **The First Examination** — as accepted canon at `../manuscript/chapters/chapter-17.md` and Chapter 18 — **The Local Record** — as a complete first draft that remains unaccepted and non-canon. Accepted canon remains the Prologue and Chapters 1–17 at **93,498 words**, ending at **09:12:52 EDT / 18:42:52 IST**.
+Version 4.1 records Chapter 18 — **The Local Record** — as accepted canon at `../manuscript/chapters/chapter-18.md`. Accepted canon is the Prologue and Chapters 1–18 at **97,976 words**, ending at **10:01:12 EDT / 19:31:12 IST**.
 
 ## Control documents
 
@@ -43,38 +43,24 @@ Version 4.0 records Chapter 17 — **The First Examination** — as accepted can
 - [34. Chapter 17 Mission Lock](34-chapter-17-mission-lock.md)
 - [35. Chapter 17 Acceptance Review](35-chapter-17-acceptance-review.md)
 - [36. Chapter 18 Mission Lock](36-chapter-18-mission-lock.md)
+- [37. Chapter 18 Acceptance Review](37-chapter-18-acceptance-review.md)
 
 Cross-book character continuity is controlled separately in [`../../../series/recurring-character-ledger.md`](../../../series/recurring-character-ledger.md).
 
-## Accepted Chapter 17 state
-
-- **Title:** The First Examination
-- **Accepted path:** `../manuscript/chapters/chapter-17.md`
-- **Exact words:** 5,888
-- **Reviewed blob:** `1c4022ebb8d27d8d448f98bcf74fbf09e6e560c1`
-- **Opening:** 08:15:52 EDT / 17:45:52 IST
-- **Endpoint:** 09:12:52 EDT / 18:42:52 IST
-- **Accepted manifest:** Prologue and Chapters 1–17
-- **Accepted total:** 93,498 words
-- **Custody:** all seven packages remain in MPD physical custody
-- **Final federal receiver:** none
-
-## Chapter 18 first-draft state
+## Accepted Chapter 18 state
 
 - **Title:** The Local Record
-- **Mission lock:** `36-chapter-18-mission-lock.md`
-- **Draft path:** `../drafts/chapter-18.md`
-- **Status:** complete first draft; unaccepted; non-canon
-- **Exact draft words:** 4,478
+- **Accepted path:** `../manuscript/chapters/chapter-18.md`
+- **Exact words:** 4,478
+- **Reviewed blob:** `6f5873d6e975ec74646af152aad22ea84545fc01`
 - **Opening:** 09:12:52 EDT / 18:42:52 IST
 - **Endpoint:** 10:01:12 EDT / 19:31:12 IST
+- **Accepted manifest:** Prologue and Chapters 1–18
+- **Accepted total:** 97,976 words
 - **POV:** Major Ananya Sharma only
-- **Primary field reference:** `ARJ-K17-018`
-- **Accepted-manuscript effect:** none
-- **Chapter 18 manuscript file:** none
-- **Chapter 19 prose or mission lock:** none
-- **Complete remainder-of-Act-III outline:** not created
+- **MPD custody:** unchanged; all seven Washington packages remain in MPD physical custody
+- **Final federal receiver:** none
 
 ## Current production gate
 
-Conduct the formal Chapter 18 acceptance review against `36-chapter-18-mission-lock.md` and `25-chapter-acceptance-gate.md`. Do not promote the draft unless the review issues an explicit ACCEPT verdict and synchronizes every affected accepted-canon control. Do not draft Chapter 19.
+Create and approve a dedicated Chapter 19 mission lock from the accepted Chapter 18 endpoint. Do not draft Chapter 19 before approval and do not create a complete remainder-of-Act-III outline.

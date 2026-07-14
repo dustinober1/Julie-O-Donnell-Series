@@ -207,3 +207,17 @@ Endpoint geography at 08:15:52 EDT / 17:45:52 IST: the evidence transport has cr
 - Network wall jack is physically disconnected and tagged; ordinary radios/wireless devices remain outside.
 - Observation alcove allows Julie to see custody movement while restrained without entering the technical work area.
 - The architecture separates physical custody, technical access, witness continuity, and public intake operations.
+
+## Accepted Chapter 18 K-17 location update — 2026-07-14
+
+### Forward Post Arjun record room / isolated examination space
+- Uses a disciplined wall clock, isolated reader `IRR-2041`, read-only handling, separate evidence positions, and recorded witnesses.
+- No live operational network path is created during examination.
+
+### Point Kestrel / Relay K-17 physical result
+- Patrol reaches the outer K-17 site and finds the relay physically intact.
+- No hostile occupant is found in the visible outer compound at inspection.
+- The inner security boundary is not crossed.
+- A lower-seam tamper or explosive hazard cannot be excluded.
+- Tracks are not pursued where hostile presence, explosive/tamper hazard, or a Line-of-Control crossing cannot be excluded.
+- Detailed interior geometry, field-team route beyond the hard stop, and human operator remain unestablished.

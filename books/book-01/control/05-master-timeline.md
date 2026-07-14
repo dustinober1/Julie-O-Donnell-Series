@@ -210,3 +210,17 @@ The complete Chapter 16 interval is 19 minutes 12 seconds and preserves the 9-ho
 - **09:05:30 EDT / 18:35:30 IST:** reseal begins.
 - **09:08:46 EDT / 18:38:46 IST:** Grant signs the preliminary observation.
 - **09:12:52 EDT / 18:42:52 IST:** `MPD-901446` is resealed under `MPD-SL-551821`, returned to the common chest, and MPD retains all seven packages.
+
+## Accepted Chapter 18 timeline — 2026-07-14
+
+| EDT | IST | Event | Evidence / consequence |
+|---:|---:|---|---|
+| 09:12:52 | 18:42:52 | Chapter opens at Forward Post Arjun in exact continuity with Chapter 17. | Washington custody remains offstage and unchanged. |
+| 18:44:31 IST | 09:14:31 EDT | Patrol return/custody intake begins under `ARJ-K17-018`. | Original `ARJ-K17-001`, patrol record `ARJ-K17-002`, and derivative path remain distinct. |
+| 19:03:26 IST | 09:33:26 EDT | Controlled patrol debrief reaches the physical/tamper hard stop and Pal's medical removal. | No inner-boundary crossing or unsafe pursuit; questioning stops. |
+| 19:12:08 IST | 09:42:08 EDT | Isolated read-only examination begins on `IRR-2041`. | Original remains read-only; no replacement medium connected to K-17. |
+| 19:18:44 IST | 09:48:44 EDT | Source-write result confirms zero local writes and unexecuted commit. | Original journal survives. |
+| 19:26:37 IST | 09:56:37 EDT | Comparison with the superseding allied product confirms omission of local events. | Failed local commit remains distinct from later remote reconstruction. |
+| 19:31:12 | 10:01:12 | `ARJ-K17-ACK-01` is accepted through the bounded preservation route. | Original remains on the mountain; no merits transfer to a named Washington recipient. |
+
+The Chapter 18 interval is **48 minutes 20 seconds** and preserves the 9-hour-30-minute EDT/IST offset.

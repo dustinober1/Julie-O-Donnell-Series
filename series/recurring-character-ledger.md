@@ -413,3 +413,25 @@ Remains injured and separated. The physical board no longer supports ordinary or
 
 ### Special Agent Leila Grant
 First accepted appearance. DCIS examiner who signs the first independent, reproducible board finding. No future-book or recurring role is assumed by Book 1 Chapter 17.
+
+## Accepted Book 1 Chapter 18 recurring-character update — 2026-07-14
+
+### Major Ananya Sharma
+- Most recent accepted appearance advances to Chapter 18.
+- Current accepted location: Forward Post Arjun at 19:31:12 IST.
+- Knows the bounded K-17 local result, zero-write failure, surviving journal, and superseding omission.
+- Preserves original, derivative, patrol record, and bounded acknowledgment without direct contact with Julie.
+- Series tier remains **RECURRING**; her future function as an independent international counterpart is strengthened but not converted into alliance.
+
+### Sameer Qureshi
+- Most recent accepted appearance advances to Chapter 18.
+- Receives and controls the local original, runs the isolated read-only examination, and witnesses resealing and acknowledgment.
+- Series tier remains **CONDITIONAL**; no direct Julie relationship or future-book guarantee is created.
+
+### Julie O'Donnell, Marcus Reed, and Elias Thorne
+- Most recent accepted appearance remains Chapter 17 because they are offstage in Chapter 18.
+- Their medical, legal, custody, relationship, and knowledge states do not change.
+
+### Captain Rao, Naib Subedar Vikram Sethi, and Lance Naik Suresh Pal
+- Book 1 field witnesses with no recurring tier assigned.
+- Any future return requires a new accepted function rather than automatic series promotion.
