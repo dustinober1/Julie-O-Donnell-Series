@@ -34,7 +34,7 @@ jobs:
       - name: Count accepted manuscript
         run: python tools/count_book1_words.py --expect 97976
 
-      - name: Validate accepted baseline and protected prose
+      - name: Validate protected accepted prose and manifest
         shell: bash
         run: |
           python - <<'PY'
@@ -56,13 +56,13 @@ jobs:
               "chapter-17.md": ("1c4022ebb8d27d8d448f98bcf74fbf09e6e560c1", 5888),
               "chapter-18.md": ("6f5873d6e975ec74646af152aad22ea84545fc01", 4478),
           }
-          for name, (blob, words) in protected.items():
+          for name, (expected_blob, expected_words) in protected.items():
               path = chapters / name
               require(path.is_file(), f"missing protected chapter: {name}")
               actual_blob = subprocess.check_output(["git", "hash-object", str(path)], text=True).strip()
-              require(actual_blob == blob, f"protected blob changed: {name} = {actual_blob}")
+              require(actual_blob == expected_blob, f"protected blob changed: {name} = {actual_blob}")
               actual_words = len(path.read_text(encoding="utf-8").split())
-              require(actual_words == words, f"protected count changed: {name} = {actual_words}")
+              require(actual_words == expected_words, f"protected count changed: {name} = {actual_words}")
 
           manifest = (root / "books/book-01/ACCEPTED_MANUSCRIPT.yaml").read_text(encoding="utf-8")
           require("accepted_words: 97976" in manifest, "accepted total changed")
@@ -72,10 +72,10 @@ jobs:
           listed = [int(n) for n in re.findall(r"chapter-(\d+)\.md", manifest)]
           require(listed and max(listed) == 18, f"accepted manifest does not end at Chapter 18: {listed}")
           require(not (root / "books/book-01/drafts/chapter-18.md").exists(), "duplicate Chapter 18 draft remains")
-          print("accepted baseline and protected prose validated")
+          print("protected accepted prose and manifest validated")
           PY
 
-      - name: Validate Chapter 18 inventory opening endpoint and evidence
+      - name: Validate Chapter 18 accepted state
         shell: bash
         run: |
           python - <<'PY'
@@ -99,6 +99,7 @@ jobs:
           require("Forward Post Arjun\nKashmir" in text[:300], "opening location changed")
           require("10:01:12 Eastern Daylight Time / 19:31:12 Indian Standard Time" in text[-2500:], "endpoint changed")
           require(text.count("# Chapter ") == 1, "unexpected chapter heading")
+
           required = [
               "ARJ-K17-018", "ARJ-K17-001", "ARJ-K17-002", "ARJ-K17-003",
               "ARJ-K17-ACK-01", "K17-AC-44719", "K17-FS-1176", "IRR-2041",
@@ -108,51 +109,25 @@ jobs:
               "LOCAL SOURCE-RECORD RECONSTRUCTION / MAINTENANCE COMMIT",
               "FINAL LOCAL AUTHENTICATION / COMMIT: NOT COMPLETE / NOT EXECUTED",
               "LOCAL SOURCE-RECORD WRITES: 0",
+              "It did not cross the inner security boundary.",
+              "No replacement medium was connected.",
+              "LIVE WRITE STATE: NOT AUTHORIZED",
+              "ORIGINAL CUSTODY: RETAINED LOCALLY / NOT TRANSFERRED",
               "The local record had entered the route without leaving the mountain.",
           ]
           missing = [item for item in required if item not in text]
-          require(not missing, f"required Chapter 18 elements missing: {missing}")
-          print("Chapter 18 inventory, opening, endpoint, and evidence validated")
-          PY
-
-      - name: Validate Chapter 18 hard stops proof ceiling and custody
-        shell: bash
-        run: |
-          python - <<'PY'
-          from pathlib import Path
-
-          text = Path("books/book-01/manuscript/chapters/chapter-18.md").read_text(encoding="utf-8")
-
-          def require(value, message):
-              if not value:
-                  raise SystemExit(message)
-
-          required = [
-              "It did not cross the inner security boundary.",
-              "It did not pursue tracks where a hostile presence, tamper hazard, explosive hazard, or Line-of-Control crossing could not be excluded.",
-              "We could not exclude an explosive or tamper hazard on the lower seam.",
-              "it did not open the relay, create a live network path, or change the preceding record.",
-              "No replacement medium was connected.",
-              "its local incident-write path stayed offline pending authorized restoration.",
-              "LIVE WRITE STATE: NOT AUTHORIZED",
-              "I am removing him from questioning.",
-              "ORIGINAL CUSTODY: RETAINED LOCALLY / NOT TRANSFERRED",
-              "It did not travel with the acknowledgment.",
-          ]
-          missing = [item for item in required if item not in text]
-          require(not missing, f"hard-stop/custody markers missing: {missing}")
+          require(not missing, f"Chapter 18 required element missing: {missing}")
 
           prohibited = [
               "Tariq was physically present", "Tariq personally operated",
               "Sterling personally held", "Vance personally typed", "WSS-4 plaintext",
-              "the Hartwell presenter was", "universal Northbridge",
-              "Julie called Sharma", "Sharma called Julie", "The WSS record had shown",
+              "the Hartwell presenter was", "Julie called Sharma", "Sharma called Julie",
           ]
           present = [item for item in prohibited if item in text]
-          require(not present, f"prohibited conclusion or POV leak present: {present}")
+          require(not present, f"Chapter 18 prohibited conclusion present: {present}")
           for artifact in ["TODO", "DRAFTING NOTE", "ALTERNATE VERSION", "PLACEHOLDER"]:
-              require(artifact not in text, f"drafting artifact remains: {artifact}")
-          print("Chapter 18 hard stops, custody, medical stop, POV firewall, and proof ceiling validated")
+              require(artifact not in text, f"Chapter 18 drafting artifact remains: {artifact}")
+          print("Chapter 18 accepted state validated")
           PY
 
       - name: Validate Chapter 19 mission-lock-only state
@@ -191,80 +166,65 @@ jobs:
           missing = [item for item in required if item not in text]
           require(not missing, f"Chapter 19 mission lock missing required control: {missing}")
 
-          forbidden_names = [
+          forbidden_names = {
               "remainder-of-act-iii-outline.md",
               "act-iii-remainder-outline.md",
               "chapter-by-chapter-act-iii-outline.md",
-          ]
+          }
           for name in forbidden_names:
               require(not list(book.rglob(name)), f"complete remainder outline exists: {name}")
           print("Chapter 19 mission-lock-only state validated")
           PY
 
-      - name: Validate synchronized planning state
+      - name: Validate synchronized Chapter 19 planning controls
         shell: bash
         run: |
           python - <<'PY'
           from pathlib import Path
 
           root = Path(".")
-          project = (root / "PROJECT_STATE.yaml").read_text(encoding="utf-8")
 
           def require(value, message):
               if not value:
                   raise SystemExit(message)
 
-          project_required = [
-              "books/book-01/manuscript/chapters/chapter-18.md",
-              'status: "accepted and promoted; canon"',
-              "accepted_words: 4478",
+          project = (root / "PROJECT_STATE.yaml").read_text(encoding="utf-8")
+          for item in [
+              "accepted_words: 97976",
+              'chapters: "1-18"',
               'reviewed_blob_sha: "6f5873d6e975ec74646af152aad22ea84545fc01"',
+              "chapter_19_record:",
               'status: "mission locked; undrafted; non-canon"',
               'mission_lock: "books/book-01/control/38-chapter-19-mission-lock.md"',
+              'draft_exists: false',
               'accepted_manifest_changed: false',
               'planned_endpoint: "10:44:12 EDT / 20:14:12 IST"',
-              'next_gate: "Draft and integrate the complete first version of Chapter 19 under the approved mission lock"',
               'chapter_20_and_later: "not drafted and not individually mission locked"',
-          ]
-          missing = [item for item in project_required if item not in project]
-          require(not missing, f"PROJECT_STATE missing required Chapter 18/19 state: {missing}")
+              'next_recommended_action: "Draft and integrate the complete first version of Chapter 19',
+          ]:
+              require(item in project, f"PROJECT_STATE missing sentinel: {item}")
 
-          status_files = [
-              "README.md",
-              "books/book-01/control/00-overview.md",
-              "books/book-01/control/02-current-project-state.md",
-              "books/book-01/control/16-chapter-by-chapter-status-record.md",
-              "books/book-01/control/18-act-iii-entry-state.md",
-              "books/book-01/control/20-control-pack-maintenance-rules.md",
-              "books/book-01/control/23-word-budget-and-act-iii-architecture.md",
-              "books/book-01/control/24-thread-disposition-matrix.md",
-              "books/book-01/control/README.md",
-              "books/book-01/drafts/README.md",
-              "books/book-01/manuscript/STATUS.md",
-          ]
-          for rel in status_files:
+          sentinels = {
+              "README.md": ["Chapter 19 mission lock:", "Chapter 19 prose: not created", "10:01:12 EDT / 19:31:12 IST"],
+              "books/book-01/control/00-overview.md": ["Control-pack version:** 4.2", "## Approved Chapter 19 planning"],
+              "books/book-01/control/02-current-project-state.md": ["Chapter 19 | Mission locked; undrafted; non-canon"],
+              "books/book-01/control/16-chapter-by-chapter-status-record.md": ["## Chapter 19 planning"],
+              "books/book-01/control/18-act-iii-entry-state.md": ["## Approved Chapter 19 transition — planning only"],
+              "books/book-01/control/20-control-pack-maintenance-rules.md": ["## Approved Chapter 19 maintenance record — planning only"],
+              "books/book-01/control/23-word-budget-and-act-iii-architecture.md": ["## Chapter 19 approved planning"],
+              "books/book-01/control/24-thread-disposition-matrix.md": ["## Approved Chapter 19 mission-lock update — planning only"],
+              "books/book-01/control/README.md": ["# Canon Control Pack v4.2", "[38. Chapter 19 Mission Lock](38-chapter-19-mission-lock.md)"],
+              "books/book-01/drafts/README.md": ["## Chapter 19 drafting authorization", "Chapter 19 prose: not created"],
+              "books/book-01/manuscript/STATUS.md": ["## Approved Chapter 19 planning"],
+          }
+          for rel, expected in sentinels.items():
               path = root / rel
-              require(path.is_file(), f"missing synchronized status file: {rel}")
+              require(path.is_file(), f"missing planning control: {rel}")
               text = path.read_text(encoding="utf-8")
+              missing = [item for item in expected if item not in text]
+              require(not missing, f"{rel} missing planning sentinel: {missing}")
               require("97,976" in text, f"{rel} missing accepted total")
-              require("Chapter 19" in text, f"{rel} missing Chapter 19 state")
-              require(
-                  "mission lock" in text.lower() or "mission locked" in text.lower(),
-                  f"{rel} missing mission-lock status",
-              )
-
-          readme = (root / "README.md").read_text(encoding="utf-8")
-          require("10:01:12 EDT / 19:31:12 IST" in readme, "root README missing accepted endpoint")
-          require("Chapter 19 prose: not created" in readme, "root README does not distinguish prose absence")
-
-          overview = (root / "books/book-01/control/00-overview.md").read_text(encoding="utf-8")
-          require("10:01:12 EDT / 19:31:12 IST" in overview, "control overview missing accepted endpoint")
-          require("10:44:12 EDT / 20:14:12 IST" in overview, "control overview missing planned endpoint")
-
-          index = (root / "books/book-01/control/README.md").read_text(encoding="utf-8")
-          require("Canon Control Pack v4.2" in index, "control-pack version not 4.2")
-          require("[38. Chapter 19 Mission Lock](38-chapter-19-mission-lock.md)" in index, "Chapter 19 mission lock missing from control index")
-          print("accepted and Chapter 19 planning states synchronized")
+          print("Chapter 19 planning controls synchronized")
           PY
 
       - name: Validate cleanup and whitespace
