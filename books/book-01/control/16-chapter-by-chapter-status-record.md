@@ -34,6 +34,7 @@ The accepted-manuscript inventory in `../ACCEPTED_MANUSCRIPT.yaml` controls acce
 
 Protected reviewed blobs:
 
+- Chapter 13: `e7d04921431e571aab434f2f4b808655e363d30c`
 - Chapter 14: `78f7fff02cd271fecbc94f7daf7151dbebbd5c6d`
 - Chapter 15: `b8e7e2ae573a6c25ea096121c75acee867f3fad2`
 - Chapter 16: `dd5249f4b510a9da9ad19ab2902a95ce1e62a1d8`
@@ -51,28 +52,25 @@ Accepted total through Chapter 19: **103,369 words**.
 - **Acceptance review:** `39-chapter-19-acceptance-review.md`
 - **Verdict:** ACCEPT
 - **Exact words:** 5,393
-- Reviewed blob: `1c7cc22fc7c480cb247efa1f6a2c0d0b1e1b1baf`
-- **POV:** Julie primary; one bounded Special Agent Leila Grant Hartwell cutaway
-- **Dominant function:** reconnect the bounded K-17 field result to Washington through one named federal receiving act, then obtain Hartwell’s exact `SSO-NS-004` serial and institutional physical-custody chain
-- **Result:** Alvarez/DCIS accepts the complete incident; Julie learns the bounded no-fire/K-17 result; Hartwell establishes `SSO-NS-004` and the office-support/Hartwell custody chain; current signer custody and personal human responsibility remain unresolved
-- **Custody result:** MPD retains all seven packages; Hartwell retains its original; Indian originals remain local; the Chapter 19 draft copy was removed
-- **Proof ceiling:** no personal Sterling possession/operation/command, Tariq personal operation, Vance personal keystrokes, WSS plaintext, reconstruction author, guilt, exoneration, final signer recovery, or public vindication
+- **Reviewed blob:** `1c7cc22fc7c480cb247efa1f6a2c0d0b1e1b1baf`
+- **Result:** Alvarez/DCIS accepts the complete incident; Hartwell establishes `SSO-NS-004` and the office-support/Hartwell custody chain; current signer custody and personal human responsibility remain unresolved in accepted canon.
 
-## Chapter 20 — mission locked, undrafted, non-canon
+## Chapter 20 — complete first draft, unaccepted, non-canon
 
-- **Working title:** The Custody Exception
+- **Title:** The Custody Exception
 - **Mission lock:** `40-chapter-20-mission-lock.md`
 - **Mission-lock blob:** `c074e4f6f9ec9cddcbc701e2923f34b3082ede5a`
-- **Accepted prose:** none
-- **Draft prose:** none
-- **Opening planned:** **10:44:12 EDT / 20:14:12 IST**, secure MPD evidence intake
-- **Intended endpoint:** **11:26:32 EDT / 20:56:32 IST**, secure MPD evidence intake
+- **Draft path:** `../drafts/chapter-20.md`
+- **Draft blob:** `13ee716d0e4b93fe73141a0c9f85488af74ce7c8`
+- **Exact words:** **4,171**
+- **Opening:** **10:44:12 EDT / 20:14:12 IST**, secure MPD evidence intake
+- **Endpoint:** **11:26:32 EDT / 20:56:32 IST**, secure MPD evidence intake
 - **POV:** Julie primary; one bounded Grant Legislative Secure Services cutaway
 - **Dominant function:** place `SSO-NS-004` under a named no-use physical hold and establish the office authorization exception while preserving proof limits
-- **Target words:** 4,400
-- **Preferred range:** 4,000–4,800
-- **Hard ceiling:** 5,200
-- **Canon effect:** none until an explicit acceptance review promotes prose
+- **Draft result:** source-limited `LSS-CD-187463-01` and `WSS4-CD-187463-01`; originals remain with lawful custodians; seven MPD packages remain sealed and stationary; carrier and authorizer remain distinct; Sterling personal command remains unproved
+- **Accepted prose:** none
+- **Acceptance review:** none
+- **Canon effect:** none until an explicit acceptance review and synchronized promotion
 
 ## Chapter 21 and later
 
@@ -82,4 +80,4 @@ Accepted total through Chapter 19: **103,369 words**.
 
 ## Current gate
 
-Draft and integrate the first non-canon version of Chapter 20 only from `40-chapter-20-mission-lock.md`. Do not draft Chapter 21, create a Chapter 21 mission lock, alter accepted prose or the accepted manifest, or create a complete remainder outline.
+Conduct the formal Chapter 20 acceptance review under `25-chapter-acceptance-gate.md`. Promote only after an explicit **ACCEPT** verdict and synchronized updates. Do not draft Chapter 21, create a Chapter 21 mission lock, or create a complete remainder outline.
