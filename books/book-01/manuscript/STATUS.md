@@ -12,23 +12,25 @@
 - Act III: Chapters 13–16 accepted
 - Accepted length: **87,610 words**
 - Canon endpoint: **08:15:52 EDT / 17:45:52 IST**
-- Endpoint state: secure MPD evidence intake under Hackett's named preservation hold; seven packages separately sealed and offline; MPD physical custody; no final federal receiver or technical examiner
+- Endpoint state: secure MPD evidence intake under Hackett's named preservation hold; seven packages separately sealed and offline; MPD physical custody; no final federal receiver or accepted technical examiner
 - Chapter 16: **The Hold Order**, accepted at 6,024 words
 
-Hartwell presenter and exact serial remain unresolved. WSS-4 remains encrypted. K-17 access remains unconfirmed. Phase B remains undefined. No public vindication or final technical finding exists. Book 1 is not publication-ready.
+Hartwell presenter and exact serial remain unresolved. WSS-4 remains encrypted. K-17 access remains unconfirmed. Phase B remains undefined. No public vindication or accepted Chapter 17 technical finding exists. Book 1 is not publication-ready.
 
 ## Drafted but not accepted
 
-None.
+Chapter 17 — **The First Examination** — exists only at [`../drafts/chapter-17.md`](../drafts/chapter-17.md).
 
-Chapter 17 and later prose do not exist.
+- Exact words: **5,888**
+- Draft opening: **08:15:52 EDT / 17:45:52 IST**
+- Draft endpoint: **09:12:52 EDT / 18:42:52 IST**
+- Status: **unaccepted and non-canon**
+- Acceptance gate: not yet conducted
+- Accepted manifest: unchanged
+- Accepted words and endpoint: unchanged
 
-## Approved planning
-
-Chapter 17 — **The First Examination** — is mission locked at [`../control/34-chapter-17-mission-lock.md`](../control/34-chapter-17-mission-lock.md).
-
-The lock plans one independent, MPD-controlled examination of `MPD-901446` by Special Agent Leila Grant. It creates no accepted event and does not change the accepted count or endpoint.
+No Chapter 17 prose exists under `manuscript/`.
 
 ## Next production action
 
-Draft exactly one complete Chapter 17 first version at `../drafts/chapter-17.md`. Do not add it to the accepted manifest, do not draft Chapter 18, and do not outline the complete remainder of Act III.
+Conduct the formal Chapter 17 acceptance review. Do not draft Chapter 18 or create a complete remainder-of-Act-III outline.
