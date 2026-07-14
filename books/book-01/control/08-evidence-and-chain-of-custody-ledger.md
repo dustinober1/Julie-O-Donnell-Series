@@ -1,5 +1,17 @@
 # 8. EVIDENCE AND CHAIN-OF-CUSTODY LEDGER
 
+<!-- CH19_ACCEPTED_STATE_START -->
+## Chapter 19 accepted evidence/custody delta
+
+- MPD retains `MPD-901441` through `MPD-901447` as seven separate, offline packages in the common chest; no package is opened, connected, mounted, examined, moved, combined, or transferred.
+- `MPD-901446` remains under replacement seal `MPD-SL-551821`; the former seal remains preserved.
+- Alvarez’s receiving instrument `DCIS-FR-187463-01` changes federal responsibility, not physical custody.
+- `ARJ-K17-ACK-01` is received as a bounded external reference; `ARJ-K17-001/002/003` remain under Indian custody.
+- Hartwell retains original `HWA-LCA-1187`; Hartwell creates certified derivative `HWA-CD-187463-01` and a custodian declaration under narrow scope.
+- `DCIS-LM-3106` remains an examiner-generated derivative; `APX-B3-IR-5521` remains an authenticated preservation index, not the underlying directives.
+- WSS-4 local audit and sponsor records receive preservation demands only; no plaintext or new incident export is obtained.
+<!-- CH19_ACCEPTED_STATE_END -->
+
 ## Integrated Chapter 5-to-6 custody handoff
 
 The repaired chronology preserves all accepted evidence states.

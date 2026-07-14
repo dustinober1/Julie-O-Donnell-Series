@@ -1,5 +1,16 @@
 # 10. TECHNOLOGY AND SYSTEM RULES
 
+<!-- CH19_ACCEPTED_STATE_START -->
+## Chapter 19 accepted technology delta
+
+- MPD systems handle administrative receipts and camera continuity only; sealed packages remain untouched.
+- The allied preservation route supplies a bounded acknowledgment without connecting to or transferring K-17 originals.
+- Hartwell’s original is read-only for the scoped examination; Hartwell’s controlled export creates `HWA-CD-187463-01` with source ID, custodian, clock basis, produced/withheld fields, seal, and proof limit.
+- Chen’s interface transmits only an authenticated preservation index/certification.
+- WSS-4 remains unexamined; no decryption, remote access, or sealed-media shortcut occurs.
+- Device certificate, badge, and registered authority remain machine/institution facts and cannot be treated as human intent.
+<!-- CH19_ACCEPTED_STATE_END -->
+
 ## Accepted two-stage release architecture
 
 ### Allied source certification — 16:30 EDT / 02:00 IST

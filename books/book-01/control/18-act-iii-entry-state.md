@@ -1,5 +1,11 @@
 # 18. ACT III ENTRY STATE
 
+<!-- CH19_ACCEPTED_STATE_START -->
+## Accepted Act III state after Chapter 19
+
+Act III accepted canon now comprises Chapters 13–19. The accepted manuscript is 103,369 words and ends at 10:44:12 EDT / 20:14:12 IST at secure MPD evidence intake. Washington and the bounded field record are lawfully reconnected under one named federal receiver. The exact signer and institutional custody path are established, but the signer’s current custodian, authorization chain, personal human responsibility, public correction, and aftermath remain open. The next authorized gate is Chapter 20 mission-lock planning only.
+<!-- CH19_ACCEPTED_STATE_END -->
+
 ## Controlling accepted Act III state
 
 Act III contains six accepted chapters:
@@ -44,20 +50,6 @@ Act III contains six accepted chapters:
 ## Physical and custody continuity
 
 Julie, Marcus, and Elias remain in the exact separate custody and medical states established by Chapters 16–17 at the accepted endpoint. No Washington package is opened, moved, altered, or transferred by accepted Chapter 18.
-
-## Chapter 19 first-draft transition — non-canon
-
-`38-chapter-19-mission-lock.md` controls the single draft at `../drafts/chapter-19.md`.
-
-- **Working title:** The Name on the Record
-- **Exact words:** 5,393
-- **Opening:** 10:01:12 EDT / 19:31:12 IST at secure MPD evidence intake
-- **Endpoint:** 10:44:12 EDT / 20:14:12 IST at secure MPD evidence intake
-- **POV:** Julie primary with one bounded Grant Hartwell cutaway
-- **Draft advancement:** Alvarez/DCIS receives responsibility; the bounded K-17/no-fire result reaches Julie; Hartwell establishes `SSO-NS-004` and the institutional office-to-Hartwell custody chain
-- **Evidence effect:** no MPD package opened, connected, moved, combined, or transferred; Hartwell and Indian originals remain with existing custodians
-- **Proof ceiling:** Sterling's personal possession, operation, command, guilt, and admissibility remain unproved; the signer's current custodian remains unknown
-- **Canon effect:** none until formal acceptance and promotion
 
 ## Remaining Book 1 obligations
 

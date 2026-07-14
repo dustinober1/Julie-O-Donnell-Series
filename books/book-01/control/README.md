@@ -1,4 +1,19 @@
-# Canon Control Pack v4.3
+# Canon Control Pack v4.4
+
+<!-- CH19_ACCEPTED_STATE_START -->
+## Chapter 19 accepted state
+
+- **Accepted title:** The Name on the Record
+- **Accepted path:** `books/book-01/manuscript/chapters/chapter-19.md`
+- **Verdict:** ACCEPT
+- **Exact words:** 5,393
+- **Reviewed blob:** `1c7cc22fc7c480cb247efa1f6a2c0d0b1e1b1baf`
+- **Accepted manuscript:** Prologue and Chapters 1–19, **103,369 words**
+- **Accepted endpoint:** **10:44:12 EDT / 20:14:12 IST**, secure MPD evidence intake
+- **Next authorized gate:** Chapter 20 mission-lock planning only; no Chapter 20 prose is authorized.
+
+This section is the current accepted state and supersedes any older Chapter 19 draft-only status language retained below for historical context.
+<!-- CH19_ACCEPTED_STATE_END -->
 
 The accepted manuscript always outranks this control pack.
 
@@ -61,21 +76,8 @@ Cross-book continuity is controlled separately in [`../../../series/recurring-ch
 - **MPD custody:** all seven Washington packages remain in MPD physical custody
 - **Final federal receiver in accepted canon:** none
 
-## Chapter 19 draft state
-
-- **Mission lock:** `38-chapter-19-mission-lock.md`
-- **Draft path:** `../drafts/chapter-19.md`
-- **Working title:** The Name on the Record
-- **Exact draft words:** 5,393
-- **Opening:** 10:01:12 EDT / 19:31:12 IST
-- **Endpoint:** 10:44:12 EDT / 20:14:12 IST
-- **POV:** Julie primary; one bounded Grant Hartwell cutaway
-- **Status:** drafted, unaccepted, non-canon
-- **Acceptance review:** not created
-- **Accepted-manuscript effect:** none
-- **Package scope:** no MPD package opened, connected, moved, combined, or transferred
-- **Chapter 20 / complete remainder outline:** absent
-
 ## Current production gate
 
 Perform the formal Chapter 19 acceptance review and synchronized promotion pass. Keep the draft non-canon unless an explicit verdict accepts it. Do not begin Chapter 20 planning and do not create a complete remainder-of-Act-III outline.
+
+- [39. Chapter 19 Acceptance Review](39-chapter-19-acceptance-review.md)

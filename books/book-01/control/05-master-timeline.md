@@ -1,5 +1,17 @@
 # 5. MASTER TIMELINE
 
+<!-- CH19_ACCEPTED_STATE_START -->
+## Accepted Chapter 19 timeline delta
+
+- **10:01:12 EDT / 19:31:12 IST:** Chapter opens at secure MPD evidence intake; `ARJ-K17-ACK-01` is route-accepted but has no named U.S. merits recipient.
+- **10:15:44 EDT:** Alvarez signs `DCIS-FR-187463-01`; DCIS receives the complete incident while MPD physical custody remains unchanged.
+- **10:22 EDT:** Hartwell accepts the limited production scope.
+- **10:29–10:35:52 EDT:** Grant verifies `HWA-LCA-1187`, the 07:47:49 challenge, exact serial `SSO-NS-004`, the office-support/Hartwell custody sequence, and current-custody absence.
+- **10:36–10:42 EDT:** Grant signs the bounded finding; Alvarez issues preservation/recovery demands.
+- **10:42:41 EDT:** Sterling begins the public statement early.
+- **10:44:12 EDT / 20:14:12 IST:** Chapter endpoint at secure MPD evidence intake; public account remains dominant.
+<!-- CH19_ACCEPTED_STATE_END -->
+
 ## Timeline conventions
 
 - The present-day calendar year and exact date are not stated.

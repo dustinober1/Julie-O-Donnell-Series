@@ -1,5 +1,22 @@
 # 16. CHAPTER-BY-CHAPTER STATUS RECORD
 
+<!-- CH19_ACCEPTED_STATE_START -->
+## Chapter 19 — accepted
+
+- **Title:** The Name on the Record
+- **Path:** `../manuscript/chapters/chapter-19.md`
+- **Mission lock:** `38-chapter-19-mission-lock.md`
+- **Acceptance review:** `39-chapter-19-acceptance-review.md`
+- **Verdict:** ACCEPT
+- **Exact words:** 5,393
+- **Reviewed blob:** `1c7cc22fc7c480cb247efa1f6a2c0d0b1e1b1baf`
+- **Opening:** 10:01:12 EDT / 19:31:12 IST
+- **Endpoint:** 10:44:12 EDT / 20:14:12 IST
+- **POV:** Julie primary; one bounded Grant Hartwell cutaway
+- **Result:** Alvarez/DCIS accepts the complete incident; Julie learns the bounded no-fire/K-17 result; Hartwell establishes `SSO-NS-004` and the institutional custody chain; current signer custody and personal human responsibility remain unresolved.
+- **Draft copy:** removed.
+<!-- CH19_ACCEPTED_STATE_END -->
+
 The accepted-manuscript inventory in `../ACCEPTED_MANUSCRIPT.yaml` controls acceptance status.
 
 ## Prologue through Chapter 12
@@ -52,22 +69,6 @@ Accepted total through Chapter 18: **97,976 words**.
 - **Bounded result:** Security Line One passed; the Tariq-registered authority reached the controller; Phase B requested local source-record reconstruction/maintenance commit; final local authentication failed; local writes remained zero; the original journal survived; the later superseding product omitted the events
 - **Custody result:** original, patrol record, derivative, and acknowledgment remain distinct; no Washington package or MPD custody state changed
 - **Proof ceiling:** no human operator, personal presence/keystrokes, WSS plaintext, Hartwell presenter, reconstruction author, upstream command, guilt, innocence, admissibility, immunity, final federal custody, or public vindication
-
-## Chapter 19 first draft — non-canon
-
-- **Working title:** The Name on the Record
-- **Status:** Drafted; unaccepted; non-canon
-- **Mission lock:** `38-chapter-19-mission-lock.md`
-- **Draft path:** `../drafts/chapter-19.md`
-- **Exact words:** 5,393
-- **Opening:** 10:01:12 EDT / 19:31:12 IST
-- **Endpoint:** 10:44:12 EDT / 20:14:12 IST
-- **POV:** Julie primary with one bounded Special Agent Leila Grant Hartwell cutaway
-- **Dominant mission:** reconnect the bounded K-17 result through one named federal receiving act, then obtain Hartwell's exact `SSO-NS-004` serial and institutional physical-custody chain
-- **Draft result:** Alvarez/DCIS accepts responsibility while MPD retains the seven packages; Julie learns the bounded no-fire/K-17 result; Hartwell certifies the exact serial and office-to-Hartwell handoff; current signer custody and Sterling's personal role remain unproved
-- **Package scope:** no MPD package opened, connected, moved, combined, or transferred
-- **Accepted-manuscript effect:** none
-- **Acceptance review:** not created
 
 ## Chapter 20 and later
 

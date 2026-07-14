@@ -15,7 +15,7 @@ The secure incident-control display showed the route state in a narrow green ban
 
 Julie O’Donnell sat in the camera-covered observation alcove with her left wrist attached to the fixed front harness and her right forearm padded against the brace. Swelling had pushed the elastic wrap tight around the base of her thumb. She could see the locked incident chest through two panes of reinforced glass. She could not reach it, touch a keyboard, or sign the document waiting on the control screen.
 
-Officer Gabriel Ortiz stood beside the chest with the key clipped inside his vest. Officer Hannah Park remained at the witness position, both body-camera and fixed-room indicator showing red. Special Agent Leila Grant occupied the adjacent incident-control desk. Her signed Chapter 17 observation lay open beside a secure terminal, physically separate from the derivative log medium labeled `DCIS-LM-3106`.
+Officer Gabriel Ortiz stood beside the chest with the key clipped inside his vest. Officer Hannah Park remained at the witness position, both body-camera and fixed-room indicator showing red. Special Agent Leila Grant occupied the adjacent incident-control desk. Her signed board observation lay open beside a secure terminal, physically separate from the derivative log medium labeled `DCIS-LM-3106`.
 
 On the wall display, Supervisory Special Agent Miriam Alvarez waited from the DCIS duty suite. General William Hackett appeared in a second authenticated window from his office. Apex counsel was present by voice only. Hartwell counsel had refused even that much until someone named the authority asking for production.
 
@@ -43,7 +43,7 @@ Ortiz did not turn toward the speaker. “They are already one MPD incident.”
 
 “No,” Ortiz said. “It creates seven things I am not handing to seven different claimants.”
 
-The locked chest sat between the statements, dull black steel under fixed light. Its seven packages had remained in the same recorded positions after `MPD-901446` returned under replacement seal `MPD-SL-551821`. The other six retained their intake seals. No latch had moved after Chapter 17. No cable had entered the chest. No person on any screen could truthfully claim possession of what MPD held.
+The locked chest sat between the statements, dull black steel under fixed light. Its seven packages had remained in the same recorded positions after `MPD-901446` returned under replacement seal `MPD-SL-551821`. The other six retained their intake seals. No latch had moved after the board reseal. No cable had entered the chest. No person on any screen could truthfully claim possession of what MPD held.
 
 Hartwell controlled its own original. Northbridge controlled or contested its local audit. Forward Post Arjun controlled the K-17 originals. Apex controlled its incident records. MPD controlled seven sealed packages. Hackett had sponsored preservation. Grant had examined one board.
 
@@ -111,7 +111,7 @@ Ortiz unlocked nothing. He opened the digital receipt summary Park had created f
 
 “MPD incident one-eight-seven-four-six-three. Seven separate packages. `MPD-901441`, aluminum case `IC-77194`, intake seal intact, latches closed, display last recorded green. `MPD-901442`, recovery cartridge, intake seal intact. `MPD-901443`, paper custody log, intake seal intact. `MPD-901444`, PCF-27 telematics module, intake seal intact. `MPD-901445`, waterproof folder and itemization, intake seal intact. `MPD-901446`, administrator board `EAT-0881147`, replacement seal `MPD-SL-551821`, former seal retained in labeled sleeve. `MPD-901447`, dual-partition module `FEM-240673`, intake seal intact.”
 
-Park confirmed each line against the witness copy. Her voice entered the fixed room record once, not seven times. “All positions unchanged in the common chest. No movement after the Chapter 17 reseal.”
+Park confirmed each line against the witness copy. Her voice entered the fixed room record once, not seven times. “All positions unchanged in the common chest. No movement after the witnessed board reseal.”
 
 Ortiz continued. “Physical custody stays MPD. No connection, opening, imaging, mounting, merging, or transfer without separate authority, separate scope, and a new witnessed event.”
 
@@ -123,7 +123,7 @@ Apex counsel objected to “classification position.”
 
 Alvarez left it in.
 
-Grant built the instrument on the secure terminal while everyone watched the fields populate. She did not ask Julie to dictate legal language. She used the existing MPD receipts, Hackett’s sponsorship request, the Chapter 17 technical-assistance authorization, and the allied route header. The document listed every package and current seal condition, then placed the external acknowledgment beneath a separate heading.
+Grant built the instrument on the secure terminal while everyone watched the fields populate. She did not ask Julie to dictate legal language. She used the existing MPD receipts, Hackett’s sponsorship request, the previously signed technical-assistance authorization, and the allied route header. The document listed every package and current seal condition, then placed the external acknowledgment beneath a separate heading.
 
 `EXTERNAL INCIDENT REFERENCE: ARJ-K17-ACK-01`
 `ORIGINAL MEDIA: RETAINED AT FORWARD POST ARJUN`
@@ -243,7 +243,7 @@ But somewhere on a mountain, a commander had reached the edge of an American cer
 
 Julie lowered her eyes until the white pressure mark left by the cuff came back into focus.
 
-Grant continued because the result was not an absolution and the chapter could not become one.
+Grant continued because the result was not an absolution. The rest of the record still mattered.
 
 Grant then read the caveats attached by the field custodian. The patrol had not crossed the inner security boundary. A lower-seam tamper or explosive hazard had not been excluded. The route beyond the hard stop had not been pursued where hostile presence, a Line-of-Control crossing, or explosive risk could not be ruled out. The acknowledgment did not certify the entire relay safe.
 
@@ -384,7 +384,7 @@ The challenge-ready state changed from white to accepted green.
 
 The exact serial was stronger than the exterior light Julie and Ortiz had seen.
 
-Grant asked for the challenge response itself. Monroe displayed the local event without exposing unrelated session content. The device certificate matched the legislative chain already captured at WSS-4. The hardware response arrived inside the accepted challenge interval. Hartwell’s controller marked the response complete and changed the exterior state to steady green.
+Grant asked for the challenge response itself. Monroe displayed the local event without exposing unrelated session content. The device certificate matched the Sterling-office authority identified in incident records. The hardware response arrived inside the accepted challenge interval. Hartwell’s controller marked the response complete and changed the exterior state to steady green.
 
 The field was technically decisive and personally silent.
 

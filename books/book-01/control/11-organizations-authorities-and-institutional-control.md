@@ -1,5 +1,18 @@
 # 11. ORGANIZATIONS, AUTHORITIES, AND INSTITUTIONAL CONTROL
 
+<!-- CH19_ACCEPTED_STATE_START -->
+## Chapter 19 accepted authority delta
+
+- **MPD:** retains physical custody, chest control, seals, cameras, and movement authority.
+- **DCIS / Alvarez:** accepts complete federal receiving responsibility and limited process under `DCIS-FR-187463-01`; does not adjudicate guilt, admissibility, privilege, immunity, or ownership.
+- **Grant:** controls the Hartwell method and bounded finding.
+- **Hackett:** remains allied/military preservation sponsor and supporting authority, not physical custodian.
+- **Hartwell:** controls `HWA-LCA-1187`, protects unrelated briefing content, and produces only the narrow certified derivative/declaration.
+- **Apex / Chen:** controls Apex records and objections; cannot control MPD, Hartwell, Indian originals, or Grant’s finding.
+- **Sterling office / legislative security:** may assert privilege and security; those claims do not erase independently held serial and custody facts.
+- **Indian authorities:** retain originals and disclosure control.
+<!-- CH19_ACCEPTED_STATE_END -->
+
 | Organization | Public role | Actual story role / systems | Authority and compromise | What remains lawful or innocent | Future simplification to avoid |
 |---|---|---|---|---|---|
 | Apex Defense Systems | Defense contractor and Argus developer/maintainer | Controls major ingestion, validation, Building Three, certified contractor profiles, and public response | Vance and privileged channels are compromised; exact breadth unknown | Many employees, technicians, security staff, and ordinary engineering functions remain legitimate | Do not make all Apex staff conspirators |

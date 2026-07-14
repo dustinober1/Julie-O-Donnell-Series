@@ -1,5 +1,21 @@
 # 20. CONTROL-PACK MAINTENANCE RULES
 
+<!-- CH19_ACCEPTED_STATE_START -->
+## Chapter 19 acceptance maintenance record
+
+- Review: `39-chapter-19-acceptance-review.md`
+- Verdict: ACCEPT
+- Promoted path: `../manuscript/chapters/chapter-19.md`
+- Exact words: 5,393
+- Reviewed blob: `1c7cc22fc7c480cb247efa1f6a2c0d0b1e1b1baf`
+- Accepted total: 103,369
+- Accepted endpoint: 10:44:12 EDT / 20:14:12 IST
+- Draft copy removed; no duplicate prose remains.
+- Chapter 19 mission lock remains protected at `7b69ff80ed9b0286a52c0a8428792489eb236ef3`.
+- Permanent validation must protect the reviewed Chapter 19 blob/count and all earlier protected blobs.
+- No temporary promotion helper or workflow may remain after the pass.
+<!-- CH19_ACCEPTED_STATE_END -->
+
 ## Authority and placement
 
 1. `../ACCEPTED_MANUSCRIPT.yaml` controls which prose files are canon.
@@ -83,22 +99,6 @@
 - Validator protects Chapters 14–18 by exact blob and word count.
 - K-17 original, patrol record, derivative, seals, and acknowledgment remain synchronized across accepted controls.
 - MPD custody and the trio's medical/knowledge state remain unchanged at the accepted endpoint.
-
-## Chapter 19 maintenance record — draft only
-
-- Mission lock: `38-chapter-19-mission-lock.md`.
-- Draft path: `../drafts/chapter-19.md`.
-- Working title: **The Name on the Record**.
-- Status: drafted, unaccepted, non-canon.
-- Exact draft words: **5,393**.
-- Opening: **10:01:12 EDT / 19:31:12 IST**.
-- Endpoint: **10:44:12 EDT / 20:14:12 IST**.
-- The accepted manifest, accepted total, accepted endpoint, and Chapter 18 protected blob remain unchanged.
-- No accepted canon ledger is updated as though the draft receiving act, Hartwell production, or field briefing occurred.
-- No MPD package is opened, connected, moved, combined, or transferred in the draft.
-- No Chapter 19 acceptance review exists.
-- No Chapter 20 prose or mission lock exists.
-- No complete remainder-of-Act-III outline exists.
 
 ## Current maintenance gate
 

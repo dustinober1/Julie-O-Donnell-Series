@@ -1,5 +1,15 @@
 # 9. KNOWLEDGE AND INFORMATION CONTROL MATRIX
 
+<!-- CH19_ACCEPTED_STATE_START -->
+## Chapter 19 accepted knowledge delta
+
+- After Alvarez’s receiving act, Julie, Grant, Alvarez, Hackett, Ortiz, and Park may know the bounded no-fire/K-17 result within role limits.
+- Julie and the authorized incident participants may know that `SSO-NS-004` completed the 07:47:49 Hartwell challenge and traveled through the office-support/Hartwell custody chain.
+- No one gains proof of Sterling’s personal possession, knowledge, operation, or command; Tariq’s physical role; Vance’s personal keystrokes; WSS plaintext; the alternate deployment actor; or remote-reconstruction authorship.
+- Forward Post Arjun receives no Julie identity, Washington package detail, or Hartwell result in this chapter.
+- The public knows only Sterling’s hostile account; the lawful contradiction remains nonpublic.
+<!-- CH19_ACCEPTED_STATE_END -->
+
 ## Legend
 
 - **K:** Knows or directly witnessed.

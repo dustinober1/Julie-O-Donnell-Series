@@ -1,5 +1,20 @@
 # 2. CURRENT PROJECT STATE
 
+<!-- CH19_ACCEPTED_STATE_START -->
+## Chapter 19 accepted state
+
+- **Accepted title:** The Name on the Record
+- **Accepted path:** `books/book-01/manuscript/chapters/chapter-19.md`
+- **Verdict:** ACCEPT
+- **Exact words:** 5,393
+- **Reviewed blob:** `1c7cc22fc7c480cb247efa1f6a2c0d0b1e1b1baf`
+- **Accepted manuscript:** Prologue and Chapters 1–19, **103,369 words**
+- **Accepted endpoint:** **10:44:12 EDT / 20:14:12 IST**, secure MPD evidence intake
+- **Next authorized gate:** Chapter 20 mission-lock planning only; no Chapter 20 prose is authorized.
+
+This section is the current accepted state and supersedes any older Chapter 19 draft-only status language retained below for historical context.
+<!-- CH19_ACCEPTED_STATE_END -->
+
 The authoritative production status is `../../../PROJECT_STATE.yaml`. The authoritative accepted inventory is `../ACCEPTED_MANUSCRIPT.yaml`.
 
 ## Production snapshot
@@ -33,20 +48,6 @@ The authoritative production status is `../../../PROJECT_STATE.yaml`. The author
 - The superseding allied product omitted the local events.
 - Washington's MPD package custody, medical separation, and knowledge firewall remain unchanged in accepted canon.
 - No final federal receiver, public vindication, human operator, personal keystroke, or reconstruction author is established in accepted canon.
-
-## Chapter 19 first draft — non-canon
-
-The single draft at `../drafts/chapter-19.md` follows `38-chapter-19-mission-lock.md`.
-
-- Working title: **The Name on the Record**
-- Exact words: **5393**
-- Opening: **10:01:12 EDT / 19:31:12 IST**
-- Endpoint: **10:44:12 EDT / 20:14:12 IST**
-- POV: Julie primary; one bounded Grant Hartwell cutaway
-- Draft advancement: Alvarez/DCIS becomes named federal receiver; the bounded no-fire/K-17 result reaches Julie; Hartwell identifies `SSO-NS-004` and the institutional office-to-Hartwell custody sequence
-- Draft proof limits: Sterling's personal hand, the device's current custodian, WSS plaintext, alternative original-deployment actor, remote reconstruction author, guilt, innocence, immunity, admissibility, and public vindication remain unresolved
-- Evidence constraint: no MPD package opened, connected, moved, combined, or transferred
-- Canon effect: none until a later acceptance review and synchronized promotion
 
 ## Current production gate
 

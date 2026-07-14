@@ -1,5 +1,15 @@
 # 12. LOCATION AND SECURITY ARCHITECTURE
 
+<!-- CH19_ACCEPTED_STATE_START -->
+## Chapter 19 accepted location/security delta
+
+- Primary location: secure MPD evidence intake, Julie’s camera-covered observation alcove and adjacent incident-control position.
+- The common incident chest remains locked and stationary under Ortiz/Park continuity.
+- Sole cutaway location: Hartwell communications-security records room, limited to the held original, fixed cameras, read-only terminal, controlled derivative station, and custodian/counsel presence.
+- No broader Hartwell, Senate, Northbridge, Apex, or field access is created.
+- Chapter ends at secure MPD evidence intake at 10:44:12 EDT / 20:14:12 IST.
+<!-- CH19_ACCEPTED_STATE_END -->
+
 ## Julie’s farm
 
 - **Function:** Refuge, moral baseline, physical cause-and-effect world.

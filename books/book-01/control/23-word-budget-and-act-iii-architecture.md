@@ -1,5 +1,20 @@
 # 23. WORD BUDGET AND PROVISIONAL ACT III ARCHITECTURE
 
+<!-- CH19_ACCEPTED_STATE_START -->
+## Chapter 19 accepted word-budget state
+
+| Measure | Current value |
+|---|---:|
+| Accepted manuscript | **103,369 words** |
+| Chapter 19 | **5,393 words** |
+| Accepted Act III (Chapters 13–19) | **39,714 words** |
+| Above 100,000-word minimum | **3,369 words** |
+| Remaining to 112,500 planning target | **9,131 words** |
+| Remaining to 125,000 maximum | **21,631 words** |
+
+The remaining climax and aftermath remain viable. This update does not create a Chapter 20 mission lock or a complete remainder outline.
+<!-- CH19_ACCEPTED_STATE_END -->
+
 ## Status
 
 **Approved production planning.** This document controls target length and sequence discipline. It is not story canon. Individual chapter functions become controlling only through chapter-specific mission locks and accepted prose.
@@ -56,25 +71,6 @@ No chapter receives words solely to satisfy the target. Every scene must advance
 - Establishes K-17 intact at inspection, Security Line One pass, a requested local reconstruction/maintenance commit, failed final authentication, zero local writes, surviving original, and superseding omission.
 - Changes no Washington package custody, medical state, or merits knowledge.
 - Does not identify a human operator, Tariq's physical action, Hartwell presenter, WSS plaintext, remote reconstruction author, final receiver, guilt, innocence, admissibility, immunity, or public vindication.
-
-## Chapter 19 draft state — non-canon
-
-`38-chapter-19-mission-lock.md` controls the single draft at `../drafts/chapter-19.md`.
-
-| Item | Draft state |
-|---|---|
-| Working title | **The Name on the Record** |
-| Exact words | **5,393** |
-| Dominant mission | Reconnect the bounded K-17 result through one named federal receiving act, then obtain Hartwell's exact `SSO-NS-004` serial and institutional physical-custody chain |
-| Opening | **10:01:12 EDT / 19:31:12 IST** |
-| Endpoint | **10:44:12 EDT / 20:14:12 IST** |
-| POV | Julie primary; one bounded Grant Hartwell cutaway |
-| Preferred range | **5,200–5,900 words** |
-| MPD package scope | No package opened, connected, moved, combined, or transferred |
-| Accepted-manuscript effect | None |
-| Next gate | Formal acceptance review and synchronized promotion |
-
-The exact draft would bring the accepted manuscript to **103,369 words** only if a later formal review accepts and promotes it. The accepted total remains **97,976** in this drafting pass.
 
 ## Provisional later structure
 

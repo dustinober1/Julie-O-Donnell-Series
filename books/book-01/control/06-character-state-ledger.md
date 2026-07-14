@@ -1,5 +1,18 @@
 # 6. CHARACTER STATE LEDGER
 
+<!-- CH19_ACCEPTED_STATE_START -->
+## Chapter 19 accepted character-state delta
+
+- **Julie:** remains detained; right wrist/forearm padded, braced, swollen, and materially unusable. She learns the bounded no-fire/K-17 result and the Hartwell serial/custody result through lawful receipt, leads through scope and questions, and refuses an unauthenticated public accusation.
+- **Marcus:** remains offstage in guarded medical care on four liters of oxygen at 92–93 percent saturation; no interview, call, evidence handling, or recovery occurs.
+- **Elias:** remains offstage in separate guarded medical custody; no board, module, biometric, remote guidance, or technical action occurs.
+- **Grant:** signs the bounded Hartwell finding and gains professional respect for Julie’s protection of the proof limit.
+- **Alvarez:** becomes the named federal receiver and accepts institutional exposure.
+- **Hackett:** remains preservation sponsor/supporting authority, not custodian or merits examiner.
+- **Chen:** authenticates preservation categories without becoming a covert ally.
+- **Ortiz/Park:** maintain unchanged MPD custody and camera continuity.
+<!-- CH19_ACCEPTED_STATE_END -->
+
 ## Integrated pre-Chapter-6 state
 
 The repaired Chapter 5 adds prolonged exposure, surveillance pressure, cold, wet clothing, hunger, and exhaustion, but no meaningful treatment, sleep, or physical recovery.

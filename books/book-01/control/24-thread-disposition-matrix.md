@@ -1,5 +1,14 @@
 # 24. THREAD DISPOSITION MATRIX
 
+<!-- CH19_ACCEPTED_STATE_START -->
+## Chapter 19 accepted disposition update
+
+- **Closed as immediate Chapter 19 objectives:** final named federal receiver; lawful bounded field-result receipt; Hartwell exact serial; Hartwell institutional custody chain.
+- **Converted into active physical-evidence objective:** locate and preserve `SSO-NS-004`, its office custody log, and presenter/receiver records.
+- **Advanced but not resolved:** Sterling-office operational implication, Chen’s preserved directive conflict, public-narrative fracture, WSS corroboration.
+- **Deferred:** personal command/knowledge, current signer custody, WSS plaintext, Vance/Tariq personal roles, alternate deployment actor, remote-reconstruction author, legal/medical/relationship aftermath, and public vindication.
+<!-- CH19_ACCEPTED_STATE_END -->
+
 ## Status
 
 **Approved production control.** Accepted prose controls actual thread state. Chapter-specific planning and draft results remain non-canon until a formal acceptance review and synchronized promotion.
@@ -85,22 +94,6 @@ Combines Marcus's testimony, the four-second delay, Hargrove, the six-years-ago 
 | Hackett | Preservation sponsor; not receiver or adjudicator | Concrete later choice after stronger proof |
 | Chen / Mercer / Bell / Price | No final payoff | Consequential choices and confirmed record/status |
 | Vance / Sterling | Operational evidence staged; no direct Chapter 18 consequence | Grounded Book 1 consequence and public fracture |
-
-## Chapter 19 draft-state update — non-canon
-
-The draft below is available for formal review. Its events do not change accepted thread state unless the exact reviewed prose is accepted and promoted.
-
-| Thread or group | Draft advancement | Proof ceiling preserved | Later obligation |
-|---|---|---|---|
-| Washington–field reconnection | Alvarez/DCIS signs `DCIS-FR-187463-01`, receiving responsibility for incident `187463`, all seven MPD references, and bounded `ARJ-K17-ACK-01`; MPD retains physical custody | Acknowledgment is not the original; no universal field access, admissibility, guilt, or innocence | Geopolitical and legal aftermath |
-| Hartwell/office custody chain | Hartwell derivative `HWA-CD-187463-01` and custodian declaration identify `SSO-NS-004`, the 07:47:49 local challenge, office-support delivery, Hartwell challenge custody, and return to office support | No proof Sterling personally held, presented, operated, or commanded the signer | Current device custody and authorization responsibility |
-| Independent counterrecord | Grant signs a bounded finding; Hartwell, field, board, and seven-package references are joined without merging custody; Chen supplies authenticated index `APX-B3-IR-5521` | No MPD package opening or record merger; preservation index does not prove every underlying event | Public use, broader examination, Bell/Mercer/Price payoffs |
-| Sharma / no-fire | Julie lawfully learns that no Indian round fired and the local commit failed with zero writes | No direct Julie–Sharma contact or unrestricted field disclosure | Sharma consequences and future institutional relationship |
-| Hackett / Alvarez | Their names own preservation and receiving responsibility | Neither becomes examiner, custodian, exonerating authority, or omniscient ally | Oversight and aftermath consequences |
-| Chen | Exact directive categories and vendor-watch record are preserved through an authenticated index | No defection, secret warning, or private knowledge expansion | Testimony and Vance consequence |
-| Public narrative | A signed nonpublic contradiction exists while Sterling's 10:45 account begins | No leak, press vindication, arrest, confession, or public reversal | Authenticated visible fracture |
-| Medical/team state | Julie leads analytically while restrained and braced; Marcus and Elias remain offstage and medically unavailable | No reunion, technical assistance, tactical action, or recovery | Medical/legal/relationship aftermath |
-| WSS plaintext / alternative identity / remote reconstruction | No substantive resolution | No decryption, universal access, or actor identification | Later responsibility payoff |
 
 ## Current gate
 

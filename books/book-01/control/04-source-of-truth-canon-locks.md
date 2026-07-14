@@ -1,5 +1,17 @@
 # 4. SOURCE-OF-TRUTH CANON LOCKS
 
+<!-- CH19_ACCEPTED_STATE_START -->
+## Chapter 19 canon locks
+
+1. Chapter 19 is accepted canon at 5,393 words; reviewed blob `1c7cc22fc7c480cb247efa1f6a2c0d0b1e1b1baf`.
+2. Alvarez/DCIS is the named federal receiver; MPD remains physical custodian of all seven separate packages.
+3. `ARJ-K17-ACK-01` is a bounded reference; Indian originals remain at Forward Post Arjun.
+4. Hartwell retains original `HWA-LCA-1187`; `HWA-CD-187463-01` is a certified derivative.
+5. `SSO-NS-004` is the challenged signer and moved through an office-support-to-Hartwell custody chain; current signer custody is unknown.
+6. Registered authority is not physical possession; possession is not knowledge; knowledge is not command.
+7. Sterling’s personal hand, Tariq’s personal operation, Vance’s personal keystrokes, WSS plaintext, remote-reconstruction authorship, guilt, exoneration, and public vindication remain unproved.
+<!-- CH19_ACCEPTED_STATE_END -->
+
 1. **The accepted Prologue and Chapters 1–13 are the highest authority.**
 
 2. **The current accepted endpoint is 07:46:00 EDT / 17:16:00 IST in a public parking garage overlooking Hartwell.**

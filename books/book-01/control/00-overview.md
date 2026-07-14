@@ -1,6 +1,21 @@
 # 0. BOOK 1 CONTROL PACK OVERVIEW
 
-**Control-pack version:** 4.3
+<!-- CH19_ACCEPTED_STATE_START -->
+## Chapter 19 accepted state
+
+- **Accepted title:** The Name on the Record
+- **Accepted path:** `books/book-01/manuscript/chapters/chapter-19.md`
+- **Verdict:** ACCEPT
+- **Exact words:** 5,393
+- **Reviewed blob:** `1c7cc22fc7c480cb247efa1f6a2c0d0b1e1b1baf`
+- **Accepted manuscript:** Prologue and Chapters 1–19, **103,369 words**
+- **Accepted endpoint:** **10:44:12 EDT / 20:14:12 IST**, secure MPD evidence intake
+- **Next authorized gate:** Chapter 20 mission-lock planning only; no Chapter 20 prose is authorized.
+
+This section is the current accepted state and supersedes any older Chapter 19 draft-only status language retained below for historical context.
+<!-- CH19_ACCEPTED_STATE_END -->
+
+**Control-pack version:** 4.4
 
 **Accepted prose:** Prologue and Chapters 1–18
 
@@ -32,22 +47,6 @@
 - Washington firewall: no automatic field-merits transfer to Julie, Marcus, Elias, or a named Washington recipient
 - MPD custody and trio medical state: unchanged at the accepted endpoint
 - Prohibited findings remain unresolved in canon: human operators, personal keystrokes/possession, WSS plaintext, Hartwell presenter, reconstruction author/upstream command, final federal custody, guilt, innocence, admissibility, immunity, and public vindication
-
-## Chapter 19 first-draft state — non-canon
-
-- Mission lock: `38-chapter-19-mission-lock.md`
-- Draft: `../drafts/chapter-19.md`
-- Working title: **The Name on the Record**
-- Status: **drafted; unaccepted; non-canon**
-- Exact draft words: **5,393**
-- Opening: **10:01:12 EDT / 19:31:12 IST**, secure MPD evidence intake
-- Endpoint: **10:44:12 EDT / 20:14:12 IST**, secure MPD evidence intake
-- POV: Julie primary with one bounded Special Agent Leila Grant Hartwell cutaway
-- Dominant mission completed in draft form: named federal receiving responsibility, lawful field-result use, Hartwell exact serial, and office-to-Hartwell custody chain
-- Package rule satisfied in the draft: no MPD package opened, connected, moved, combined, or transferred
-- Proof ceiling preserved: Sterling's personal possession, operation, command, guilt, and admissibility remain unproved; current signer custody remains unknown
-- Acceptance review: not created
-- Accepted-manuscript effect: none
 
 ## Current production state
 
