@@ -1,4 +1,1 @@
 books/book-01/control/16-chapter-by-chapter-status-record.md missing: Reviewed blob: `1c7cc22fc7c480cb247efa1f6a2c0d0b1e1b1baf`
-books/book-01/control/02-current-project-state.md stale live-status phrase: 97,976
-books/book-01/control/02-current-project-state.md stale live-status phrase: unaccepted
-books/book-01/control/02-current-project-state.md stale live-status phrase: non-canon
