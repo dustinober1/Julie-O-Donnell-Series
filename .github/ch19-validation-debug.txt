@@ -2,12 +2,10 @@ README.md:37: 4. [`books/book-01/drafts/`](books/book-01/drafts/) for unaccepted
 books/book-01/control/00-overview.md:37: 5. Drafts and archive material are non-canon provenance.
 books/book-01/control/04-source-of-truth-canon-locks.md:275: - Accepted total: **97,976 words**.
 books/book-01/control/16-chapter-by-chapter-status-record.md:58: - **Custody result:** MPD retains all seven packages; Hartwell retains its original; Indian originals remain local; the Chapter 19 draft copy was removed
-books/book-01/control/20-control-pack-maintenance-rules.md:23: 3. Unaccepted prose lives under `../drafts/`.
-books/book-01/control/20-control-pack-maintenance-rules.md:31: 8. A draft remains non-canon until the formal acceptance gate issues an explicit verdict.
-books/book-01/control/20-control-pack-maintenance-rules.md:40: 10. Later chapters may not use an unaccepted endpoint as canon.
-books/book-01/control/20-control-pack-maintenance-rules.md:70: 31. Plans and drafts for unwritten or unaccepted chapters remain non-canon.
-books/book-01/control/20-control-pack-maintenance-rules.md:96: - Accepted total: **97,976 words**.
-books/book-01/control/20-control-pack-maintenance-rules.md:105: Perform the formal Chapter 19 acceptance review and synchronized promotion pass. Do not promote without an explicit acceptance verdict. Do not begin Chapter 20 planning or create a complete remainder-of-Act-III outline.
+books/book-01/control/20-control-pack-maintenance-rules.md:7: 3. Unaccepted prose lives under `../drafts/`.
+books/book-01/control/20-control-pack-maintenance-rules.md:15: 8. A draft remains non-canon until the formal acceptance gate issues an explicit verdict.
+books/book-01/control/20-control-pack-maintenance-rules.md:24: 10. Later chapters may not use an unaccepted endpoint as canon.
+books/book-01/control/20-control-pack-maintenance-rules.md:54: 31. Plans and drafts for unwritten or unaccepted chapters remain non-canon.
 books/book-01/control/23-word-budget-and-act-iii-architecture.md:29: | Accepted manuscript through Chapter 18 | **97,976** |
 books/book-01/control/23-word-budget-and-act-iii-architecture.md:33: | Chapter 19 non-canon draft | **5,393** |
 books/book-01/control/23-word-budget-and-act-iii-architecture.md:48: | Accepted manuscript total | **97,976** |
