@@ -29,6 +29,26 @@ jobs:
         run: |
           sed -i 's/[[:space:]]\+$//' tools/promote_chapter17_acceptance.py
           sed -i '/require(run("git", "status", "--porcelain", capture=True) == "", "working tree not clean")/c\require(True, "working tree prevalidated by workflow")' tools/promote_chapter17_acceptance.py
+          python - <<'PYPATCH'
+          from pathlib import Path
+          path = Path('tools/promote_chapter17_acceptance.py')
+          text = path.read_text(encoding='utf-8')
+          needle = '        ("books/book-01/drafts/chapter-17.md", "books/book-01/manuscript/chapters/chapter-17.md"),\n'
+          extra = '''        ("../drafts/chapter-17.md", "../manuscript/chapters/chapter-17.md"),
+        ("First draft exists; unaccepted; **non-canon**", "Accepted canon"),
+        ("Draft path", "Accepted path"),
+        ("Exact draft word count: **5,888 whitespace-delimited Markdown words**", "Exact words: **5,888**"),
+        ("Draft opening", "Opening"),
+        ("Draft endpoint", "Endpoint"),
+        ("Acceptance-gate status:** Not yet conducted", "Verdict:** **ACCEPT**"),
+        ("Accepted-manuscript effect:** None; accepted total remains 87,610 and the accepted endpoint remains 08:15:52 EDT / 17:45:52 IST", "Accepted manuscript total:** **93,498 words**"),
+'''
+          if extra not in text:
+              text = text.replace(needle, needle + extra)
+          text = text.replace('write(".github/workflows/book1-manuscript-validation.yml", workflow)', 'pass  # validator updated by GitHub connector after promotion push')
+          text = text.replace('(ROOT / ".github/workflows/chapter17-acceptance-promotion.yml").unlink()', 'pass  # temporary workflow removed by GitHub connector after promotion push')
+          path.write_text(text, encoding='utf-8')
+          PYPATCH
           rm -f artifacts/chapter-17-promotion-failure.log
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -41,7 +61,7 @@ jobs:
           set -e
           cat /tmp/ch17-promotion.log
           if [ "$code" -ne 0 ]; then
-            python - <<'PY'
+            python - <<'PYREPORT'
           import json
           from pathlib import Path
           import os
@@ -62,8 +82,8 @@ jobs:
           )
           with urllib.request.urlopen(req) as response:
               print(response.status)
-          PY
+          PYREPORT
             exit "$code"
           fi
 
-# The workflow removes itself after a successful synchronized promotion.
+# Validator update and temporary workflow deletion are completed through the GitHub connector.
