@@ -156,7 +156,18 @@ jobs:
 
           control_readme = read('books/book-01/control/README.md')
           require('Canon Control Pack v3.8' in control_readme, 'control pack index version wrong')
+          require('Version 3.8 records Chapter 17' in control_readme, 'control pack current-state summary missing')
           require('[35. Chapter 17 Acceptance Review](35-chapter-17-acceptance-review.md)' in control_readme, 'review link missing')
+          require('**Acceptance review:** `35-chapter-17-acceptance-review.md` — **ACCEPT**' in control_readme, 'control pack verdict record wrong')
+          require('**Opening:** 08:15:52 EDT / 17:45:52 IST' in control_readme, 'control pack Chapter 17 opening wrong')
+          require('**Endpoint:** 09:12:52 EDT / 18:42:52 IST' in control_readme, 'control pack Chapter 17 endpoint wrong')
+          for stale in [
+              'Version 3.7 records the Chapter 17 accepted chapter',
+              '**Status:** unaccepted, non-canon',
+              '**Accepted manifest:** unchanged through Chapter 16',
+              '**Opening:** 09:12:52 EDT / 18:42:52 IST',
+          ]:
+              require(stale not in control_readme, f'stale control-pack Chapter 17 state remains: {stale}')
 
           required_ledger_markers = {
               'books/book-01/control/04-source-of-truth-canon-locks.md': 'Accepted Chapter 17 canon lock',
