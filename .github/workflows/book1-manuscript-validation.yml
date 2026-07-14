@@ -134,8 +134,8 @@ jobs:
               "its local incident-write path stayed offline pending authorized restoration.",
               "LIVE WRITE STATE: NOT AUTHORIZED",
               "I am removing him from questioning.",
-              "The original stays here.",
-              "The acknowledgment does not transfer it.",
+              "ORIGINAL CUSTODY: RETAINED LOCALLY / NOT TRANSFERRED",
+              "It did not travel with the acknowledgment.",
           ]
           missing = [item for item in required if item not in text]
           require(not missing, f"hard-stop/custody markers missing: {missing}")
