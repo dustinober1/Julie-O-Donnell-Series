@@ -1,6 +1,6 @@
 # 0. BOOK 1 CONTROL PACK OVERVIEW
 
-**Control-pack version:** 3.6
+**Control-pack version:** 3.7
 
 **Accepted prose:** Prologue and Chapters 1–16
 
@@ -8,13 +8,11 @@
 
 **Accepted endpoint:** 08:15:52 EDT / 17:45:52 IST, secure MPD evidence intake under Hackett's named preservation hold
 
-**Chapter 16:** Accepted as **The Hold Order**
+**Chapter 17:** First draft exists at `../drafts/chapter-17.md`; **unaccepted and non-canon**
 
-**Chapter 17 mission lock:** Approved as **The First Examination**
+**Chapter 17 exact draft length:** 5,888 words
 
-**Chapter 17 and later prose:** Not drafted
-
-**Next production gate:** Draft exactly one Chapter 17 first version from `34-chapter-17-mission-lock.md`
+**Next production gate:** Formal Chapter 17 acceptance review
 
 ## Authority
 
@@ -29,24 +27,27 @@
 At 08:15:52 EDT / 17:45:52 IST:
 
 - Julie remains restrained and injured at secure MPD evidence intake.
-- Marcus and Elias remain in separate guarded medical custody and cannot communicate directly with Julie.
+- Marcus and Elias remain in separate guarded medical custody.
 - MPD incident `187463` holds seven separately sealed, offline, unopened, unconnected, and uncombined packages.
 - Hackett is the named preservation sponsor, not the physical receiver, examiner, adjudicator, or immunity authority.
-- No final federal receiver or independent technical examiner exists in accepted canon.
 - Sterling's armed-insider account remains publicly dominant.
 - Hartwell presenter and serial, WSS plaintext, K-17 access, Phase B, reconstruction truth, and public vindication remain unresolved.
 
-## Approved Chapter 17 planning
+## Chapter 17 first-draft state
 
 - Title: **The First Examination**
+- Draft path: `../drafts/chapter-17.md`
+- Exact words: **5,888**
+- Draft opening: **08:15:52 EDT / 17:45:52 IST**
+- Draft endpoint: **09:12:52 EDT / 18:42:52 IST**
 - Dominant mission: a named independent examiner conducts one MPD-controlled, read-only examination without fragmenting the seven-package incident.
 - Examiner: Special Agent Leila Grant, Defense Criminal Investigative Service.
 - Package: `MPD-901446` only.
-- Other packages: remain sealed and unopened.
+- Other six packages: remain sealed and unopened.
 - POV: Julie primary; one bounded Grant movement.
-- Planned endpoint: 09:12:52 EDT / 18:42:52 IST.
-- Range: 5,600–6,300 words.
-- Planning path: `34-chapter-17-mission-lock.md`.
-- Draft path: `../drafts/chapter-17.md`.
+- Acceptance status: **not reviewed, not accepted, non-canon**.
+- Accepted inventory, total, and endpoint: unchanged.
 
-The mission lock creates no story canon and does not change the accepted inventory, total, or endpoint.
+## Current gate
+
+Conduct the formal Chapter 17 acceptance review against `34-chapter-17-mission-lock.md` and `25-chapter-acceptance-gate.md`. Do not draft Chapter 18 or outline the complete remainder of Act III.
