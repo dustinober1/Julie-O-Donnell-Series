@@ -1,6 +1,12 @@
 name: Chapter 17 acceptance promotion
 
 on:
+  push:
+    branches:
+      - "agent/chapter-17-acceptance-review"
+    paths:
+      - "tools/promote_chapter17_acceptance.py"
+      - ".github/workflows/chapter17-acceptance-promotion.yml"
   pull_request:
     branches:
       - main
@@ -10,8 +16,6 @@ on:
 
 permissions:
   contents: write
-  issues: write
-  pull-requests: write
 
 jobs:
   promote:
@@ -22,68 +26,20 @@ jobs:
           fetch-depth: 50
           show-progress: false
           ref: "agent/chapter-17-acceptance-review"
-      - name: Run synchronized Chapter 17 promotion
+      - name: Prepare and run synchronized promotion
         shell: bash
-        env:
-          GH_TOKEN: ${{ github.token }}
         run: |
           sed -i 's/[[:space:]]\+$//' tools/promote_chapter17_acceptance.py
           sed -i '/require(run("git", "status", "--porcelain", capture=True) == "", "working tree not clean")/c\require(True, "working tree prevalidated by workflow")' tools/promote_chapter17_acceptance.py
-          python - <<'PYPATCH'
-          from pathlib import Path
-          path = Path('tools/promote_chapter17_acceptance.py')
-          text = path.read_text(encoding='utf-8')
-          needle = '        ("books/book-01/drafts/chapter-17.md", "books/book-01/manuscript/chapters/chapter-17.md"),\n'
-          extra = '''        ("../drafts/chapter-17.md", "../manuscript/chapters/chapter-17.md"),
-        ("First draft exists; unaccepted; **non-canon**", "Accepted canon"),
-        ("Draft path", "Accepted path"),
-        ("Exact draft word count: **5,888 whitespace-delimited Markdown words**", "Exact words: **5,888**"),
-        ("Draft opening", "Opening"),
-        ("Draft endpoint", "Endpoint"),
-        ("Acceptance-gate status:** Not yet conducted", "Verdict:** **ACCEPT**"),
-        ("Accepted-manuscript effect:** None; accepted total remains 87,610 and the accepted endpoint remains 08:15:52 EDT / 17:45:52 IST", "Accepted manuscript total:** **93,498 words**"),
-'''
-          if extra not in text:
-              text = text.replace(needle, needle + extra)
-          text = text.replace('write(".github/workflows/book1-manuscript-validation.yml", workflow)', 'pass  # validator updated by GitHub connector after promotion push')
-          text = text.replace('(ROOT / ".github/workflows/chapter17-acceptance-promotion.yml").unlink()', 'pass  # temporary workflow removed by GitHub connector after promotion push')
-          path.write_text(text, encoding='utf-8')
-          PYPATCH
+          sed -i '/("books\/book-01\/drafts\/chapter-17.md", "books\/book-01\/manuscript\/chapters\/chapter-17.md"),/a\        ("..\/drafts\/chapter-17.md", "..\/manuscript\/chapters\/chapter-17.md"),\n        ("First draft exists; unaccepted; **non-canon**", "Accepted canon"),\n        ("Draft path", "Accepted path"),\n        ("Exact draft word count: **5,888 whitespace-delimited Markdown words**", "Exact words: **5,888**"),\n        ("Draft opening", "Opening"),\n        ("Draft endpoint", "Endpoint"),\n        ("Acceptance-gate status:** Not yet conducted", "Verdict:** **ACCEPT**"),' tools/promote_chapter17_acceptance.py
+          sed -i 's/write(".github\/workflows\/book1-manuscript-validation.yml", workflow)/pass  # connector updates validator/' tools/promote_chapter17_acceptance.py
+          sed -i 's/(ROOT \/ ".github\/workflows\/chapter17-acceptance-promotion.yml").unlink()/pass  # connector removes temporary workflow/' tools/promote_chapter17_acceptance.py
           rm -f artifacts/chapter-17-promotion-failure.log
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
           git commit -m "Prepare clean Chapter 17 promotion execution"
           test -z "$(git status --porcelain)"
-          set +e
-          python -B tools/promote_chapter17_acceptance.py > /tmp/ch17-promotion.log 2>&1
-          code=$?
-          set -e
-          cat /tmp/ch17-promotion.log
-          if [ "$code" -ne 0 ]; then
-            python - <<'PYREPORT'
-          import json
-          from pathlib import Path
-          import os
-          import urllib.request
+          python -B tools/promote_chapter17_acceptance.py
 
-          log = Path('/tmp/ch17-promotion.log').read_text(encoding='utf-8', errors='replace')
-          body = 'Chapter 17 promotion diagnostic failure:\n\n```text\n' + log[-6000:] + '\n```'
-          req = urllib.request.Request(
-              'https://api.github.com/repos/dustinober1/Julie-O-Donnell-Series/issues/40/comments',
-              data=json.dumps({'body': body}).encode('utf-8'),
-              headers={
-                  'Authorization': 'Bearer ' + os.environ['GH_TOKEN'],
-                  'Accept': 'application/vnd.github+json',
-                  'X-GitHub-Api-Version': '2022-11-28',
-                  'Content-Type': 'application/json',
-              },
-              method='POST',
-          )
-          with urllib.request.urlopen(req) as response:
-              print(response.status)
-          PYREPORT
-            exit "$code"
-          fi
-
-# Validator update and temporary workflow deletion are completed through the GitHub connector.
+# The connector updates the permanent validator and removes this workflow after promotion.
