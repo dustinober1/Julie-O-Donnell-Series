@@ -4,13 +4,17 @@ This directory contains prose that is **not accepted canon**. A complete draft r
 
 ## Current state
 
-- Active chapter drafts: **none**
-- Chapter 18 — **The Local Record** — was accepted and promoted unchanged at **4,478 words**.
-- Chapter 18 accepted path: `../manuscript/chapters/chapter-18.md`
-- Chapter 18 acceptance review: `../control/37-chapter-18-acceptance-review.md`
-- Chapter 19 mission lock: `../control/38-chapter-19-mission-lock.md`
-- Chapter 19 prose: not created
-- Chapter 19 status: mission locked, undrafted, non-canon
+- Active chapter drafts: **Chapter 19 only**
+- Chapter 19 draft: [`chapter-19.md`](chapter-19.md)
+- Working title: **The Name on the Record**
+- Exact words: **5,393**
+- Opening: **10:01:12 EDT / 19:31:12 IST**
+- Endpoint: **10:44:12 EDT / 20:14:12 IST**
+- POV: Julie primary with one bounded Special Agent Leila Grant Hartwell cutaway
+- Status: **drafted, unaccepted, non-canon**
+- Mission lock: [`../control/38-chapter-19-mission-lock.md`](../control/38-chapter-19-mission-lock.md)
+- Acceptance review: not created
+- Chapter 19 manuscript file: not created
 - Chapter 20 prose or mission lock: not created
 - Complete remainder-of-Act-III outline: not created
 
@@ -22,22 +26,15 @@ This directory contains prose that is **not accepted canon**. A complete draft r
 - Accepted manifest: `../ACCEPTED_MANUSCRIPT.yaml`
 - Protected Chapter 18 blob: `6f5873d6e975ec74646af152aad22ea84545fc01`
 
-## Chapter 19 drafting authorization
+## Chapter 19 draft result
 
-A single non-canon Chapter 19 draft may be created at `chapter-19.md` only under `../control/38-chapter-19-mission-lock.md`.
+The draft reconnects the bounded K-17 result to Washington through one named Alvarez/DCIS receiving act, lawfully briefs Julie on the no-fire and failed local-commit result, and obtains Hartwell's certified exact-serial and office-to-Hartwell custody chain. It preserves the proof ceiling that `SSO-NS-004` does not establish Sterling's personal possession, operation, or command.
 
-The approved plan requires:
-
-- opening at 10:01:12 EDT / 19:31:12 IST;
-- Julie primary with one bounded Grant Hartwell cutaway;
-- one dominant Washington–field reconnection mission;
-- no MPD package opened, connected, moved, combined, or transferred;
-- planned range 5,200–5,900 words; and
-- no accepted-manuscript effect until formal review and promotion.
+No MPD package is opened, connected, moved, combined, or transferred. Hartwell and Indian originals remain independently controlled. Marcus and Elias remain offstage and medically unavailable.
 
 ## Current gate
 
-Draft and integrate the complete first version of Chapter 19 as the sole active draft. Do not create an acceptance review in the same drafting pass. Do not begin Chapter 20 planning or create a complete remainder-of-Act-III outline.
+Perform the formal Chapter 19 acceptance review. If and only if the exact reviewed draft receives an explicit **ACCEPT** verdict, promote it to `../manuscript/chapters/chapter-19.md`, remove this draft copy, update the accepted manifest and all affected controls, and create the acceptance review. Do not begin Chapter 20 planning in the same pass.
 
 ## Rules
 
