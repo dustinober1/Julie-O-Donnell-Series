@@ -1,10 +1,12 @@
 project: Julie O'Donnell Series
-schema_version: 4
+schema_version: 5
 last_updated: '2026-07-14'
+
 status_authority:
   file: PROJECT_STATE.yaml
   scope: Production status and navigation only; not story canon
-  rule: Any duplicated status summary must be corrected to match this file in the same production pass
+  rule: Accepted prose and ACCEPTED_MANUSCRIPT.yaml control canon; a draft has no canon effect until formal acceptance and synchronized promotion.
+
 story_authority:
   accepted_manifest: books/book-01/ACCEPTED_MANUSCRIPT.yaml
   accepted_prose_root: books/book-01/manuscript/
@@ -12,6 +14,7 @@ story_authority:
   series_bible_root: series/
   draft_root: books/book-01/drafts/
   archive_root: archive/
+
 active_book:
   number: 1
   title: null
@@ -22,22 +25,10 @@ active_book:
     maximum: 125000
     accepted_words: 103369
     words_to_planning_target: 9131
-    minimum_words_remaining: 0
     maximum_words_remaining: 21631
-    accepted_words_before_chapter_13: 63655
-    chapter_13_words: 6175
-    accepted_words_before_chapter_14: 69830
-    chapter_14_words: 5763
-    accepted_words_before_chapter_15: 75593
-    chapter_15_words: 5993
-    accepted_words_before_chapter_16: 81586
-    chapter_16_words: 6024
-    accepted_words_before_chapter_17: 87610
-    chapter_17_words: 5888
-    chapter_18_words: 4478
-    chapter_19_words: 5393
     accepted_act_iii_words: 39714
     count_method: UTF-8 Markdown whitespace-delimited tokens; tools/count_book1_words.py
+
   accepted_canon:
     manifest: books/book-01/ACCEPTED_MANUSCRIPT.yaml
     prologue: true
@@ -46,275 +37,90 @@ active_book:
       act_i: complete
       act_ii: complete
       act_iii: Chapters 13-19 accepted
+    accepted_manuscript_words: 103369
     endpoint:
       chapter: 19
       eastern: 10:44:12 EDT
       india: 20:14:12 IST
       location: secure MPD evidence intake
-      status: Alvarez/DCIS is named federal receiver; MPD retains all seven packages; Hartwell retains its original; ARJ-K17-ACK-01 remains bounded;
-        SSO-NS-004 current custodian unknown in accepted canon; Sterling public account remains dominant
-    accepted_manuscript_words: 103369
-    chapter_14:
-      title: The Witness Line
-      path: books/book-01/manuscript/chapters/chapter-14.md
-      verdict: ACCEPT
-      accepted_words: 5763
-      reviewed_blob_sha: 78f7fff02cd271fecbc94f7daf7151dbebbd5c6d
-    chapter_15:
-      title: The Split Record
-      path: books/book-01/manuscript/chapters/chapter-15.md
-      verdict: ACCEPT
-      accepted_words: 5993
-      reviewed_blob_sha: b8e7e2ae573a6c25ea096121c75acee867f3fad2
-      opening: 07:49:32 EDT / 17:19:32 IST
-      endpoint: 07:56:40 EDT / 17:26:40 IST
-    chapter_16:
-      title: The Hold Order
-      path: books/book-01/manuscript/chapters/chapter-16.md
-      verdict: ACCEPT
-      accepted_words: 6024
-      prose_changed_during_review: true
-      reviewed_blob_sha: dd5249f4b510a9da9ad19ab2902a95ce1e62a1d8
-      opening: 07:56:40 EDT / 17:26:40 IST
-      endpoint: 08:15:52 EDT / 17:45:52 IST
-    chapter_17:
-      title: The First Examination
-      path: books/book-01/manuscript/chapters/chapter-17.md
-      verdict: ACCEPT
-      accepted_words: 5888
-      prose_changed_during_review: false
-      reviewed_blob_sha: 1c4022ebb8d27d8d448f98bcf74fbf09e6e560c1
-      opening: 08:15:52 EDT / 17:45:52 IST
-      endpoint: 09:12:52 EDT / 18:42:52 IST
-      examiner: Special Agent Leila Grant, Defense Criminal Investigative Service
-      custody_status: all seven packages remain in MPD physical custody; MPD-901446 opened once, resealed under MPD-SL-551821, and returned to
-        the common chest
-      federal_receiver_status: none
-    chapter_18:
-      title: The Local Record
-      path: books/book-01/manuscript/chapters/chapter-18.md
-      verdict: ACCEPT
-      accepted_words: 4478
-      prose_changed_during_review: false
-      reviewed_blob_sha: 6f5873d6e975ec74646af152aad22ea84545fc01
-      opening: 09:12:52 EDT / 18:42:52 IST
-      endpoint: 10:01:12 EDT / 19:31:12 IST
-      pov: Major Ananya Sharma only
-      custody_status: ARJ-K17-001, ARJ-K17-002, and ARJ-K17-003 separately resealed under Indian custody; ARJ-K17-ACK-01 accepted; MPD packages
-        unchanged
-      washington_knowledge_status: No automatic transfer of field merits to Julie, Marcus, Elias, or any named Washington recipient
+      status: Miriam Alvarez / DCIS is the named federal receiver; MPD retains all seven packages; Hartwell and Indian originals remain with their source custodians; SSO-NS-004 current custodian is unknown in accepted canon; Sterling's public account remains dominant.
     chapter_19:
       title: The Name on the Record
       path: books/book-01/manuscript/chapters/chapter-19.md
       verdict: ACCEPT
       accepted_words: 5393
-      prose_changed_during_review: true
       reviewed_blob_sha: 1c7cc22fc7c480cb247efa1f6a2c0d0b1e1b1baf
+      mission_lock: books/book-01/control/38-chapter-19-mission-lock.md
+      mission_lock_blob_sha: 7b69ff80ed9b0286a52c0a8428792489eb236ef3
+      acceptance_review: books/book-01/control/39-chapter-19-acceptance-review.md
       opening: 10:01:12 EDT / 19:31:12 IST
       endpoint: 10:44:12 EDT / 20:14:12 IST
-      pov: Julie primary; one bounded Special Agent Leila Grant Hartwell cutaway
-      custody_status: MPD retains all seven packages; Hartwell retains HWA-LCA-1187; Indian originals remain at Forward Post Arjun
-      receiver_status: Miriam Alvarez / DCIS named federal receiver under DCIS-FR-187463-01
+
   drafts:
-    active_chapter_drafts: []
-    chapter_17: accepted and promoted; no duplicate draft remains
-    chapter_18: accepted and promoted; no duplicate draft remains
-    chapter_19: accepted and promoted; no duplicate draft remains
-    chapter_20: not drafted
+    active_chapter_drafts:
+      - books/book-01/drafts/chapter-20.md
+    chapter_20:
+      title: The Custody Exception
+      path: books/book-01/drafts/chapter-20.md
+      status: complete first draft; awaiting formal acceptance review; unaccepted; non-canon
+      exact_words: 4171
+      blob_sha: 13ee716d0e4b93fe73141a0c9f85488af74ce7c8
+      mission_lock: books/book-01/control/40-chapter-20-mission-lock.md
+      mission_lock_blob_sha: c074e4f6f9ec9cddcbc701e2923f34b3082ede5a
+      opening: 10:44:12 EDT / 20:14:12 IST
+      endpoint: 11:26:32 EDT / 20:56:32 IST
+      location: secure MPD evidence intake
+      pov: Julie primary; one bounded Special Agent Leila Grant Legislative Secure Services cutaway
+      accepted: false
+      accepted_manifest_changed: false
+      accepted_words_changed: false
+      canon_effect: none
+      dominant_function: Place SSO-NS-004 under a named Legislative Secure Services no-use hold and establish the office continuity authority while preserving carrier, custodian, authorizer, knowledge, and command as separate proof categories.
+      draft_result_non_canon: The draft creates LSS-CD-187463-01 and WSS4-CD-187463-01 as source-limited derivatives, leaves every original with its lawful custodian, keeps all seven MPD packages sealed and stationary, and transforms the objective toward the instruction behind the office exception.
+      next_gate: Formal Chapter 20 acceptance review and, only upon an explicit ACCEPT verdict, synchronized promotion.
+
   future_prose:
-    chapter_18: accepted at books/book-01/manuscript/chapters/chapter-18.md
-    chapter_19: accepted at books/book-01/manuscript/chapters/chapter-19.md
-    chapter_20: mission locked but undrafted and non-canon
     chapter_21_and_later: not drafted and not individually mission locked
-    chapter_18_rule: Accepted and complete
-    chapter_19_rule: Accepted and complete
-    architecture_rule: Do not create a complete chapter-by-chapter outline for the remainder of Act III
-    chapter_20_rule: Draft only from books/book-01/control/40-chapter-20-mission-lock.md; no accepted-manuscript effect until explicit review and promotion
-    chapter_21_rule: No prose or mission lock authorized
-  planning_controls:
-    ending_contract: books/book-01/control/22-book-1-ending-contract.md
-    word_budget_and_architecture: books/book-01/control/23-word-budget-and-act-iii-architecture.md
-    thread_disposition: books/book-01/control/24-thread-disposition-matrix.md
-    chapter_acceptance_gate: books/book-01/control/25-chapter-acceptance-gate.md
-    chapter_16_review: books/book-01/control/33-chapter-16-acceptance-review.md
-    chapter_17_mission_lock: books/book-01/control/34-chapter-17-mission-lock.md
-    chapter_17_review: books/book-01/control/35-chapter-17-acceptance-review.md
-    chapter_18_mission_lock: books/book-01/control/36-chapter-18-mission-lock.md
-    chapter_18_review_path: books/book-01/control/37-chapter-18-acceptance-review.md
-    chapter_19_mission_lock: books/book-01/control/38-chapter-19-mission-lock.md
-    chapter_19_acceptance_review: books/book-01/control/39-chapter-19-acceptance-review.md
-    chapter_20_mission_lock: books/book-01/control/40-chapter-20-mission-lock.md
-    series_character_ledger: series/recurring-character-ledger.md
-  chapter_17_record:
-    title: The First Examination
-    status: accepted and promoted; canon
-    mission_lock: books/book-01/control/34-chapter-17-mission-lock.md
-    review: books/book-01/control/35-chapter-17-acceptance-review.md
-    accepted_path: books/book-01/manuscript/chapters/chapter-17.md
-    draft_exists: false
-    accepted: true
-    acceptance_gate_passed: true
-    accepted_manifest_changed: true
-    accepted_words_changed: true
-    accepted_words: 5888
-    reviewed_blob_sha: 1c4022ebb8d27d8d448f98bcf74fbf09e6e560c1
-    dominant_function: Conduct the first independent, MPD-controlled technical examination of one evidence package and create a signed, reproducible
-      finding without fragmenting the seven-package incident or overstating what the board proves
-    opening: 08:15:52 EDT / 17:45:52 IST
-    endpoint: 09:12:52 EDT / 18:42:52 IST
-    pov: Julie primary; one bounded Special Agent Leila Grant examination-room movement
-    result: The physical board contains no original attributed physical signing event; later gate and reconciliation events remain authenticated;
-      conclusion is signed and explicitly limited
-  chapter_18_record:
-    title: The Local Record
-    status: accepted and promoted; canon
-    mission_lock: books/book-01/control/36-chapter-18-mission-lock.md
-    review: books/book-01/control/37-chapter-18-acceptance-review.md
-    accepted_path: books/book-01/manuscript/chapters/chapter-18.md
-    draft_exists: false
-    accepted: true
-    acceptance_gate_passed: true
-    accepted_manifest_changed: true
-    accepted_words_changed: true
-    accepted_words: 4478
-    reviewed_blob_sha: 6f5873d6e975ec74646af152aad22ea84545fc01
-    dominant_function: Resolve the immediate K-17 and Phase B field question through Sharma's independently controlled local record while preserving
-      Washington knowledge firewalls
-    opening: 09:12:52 EDT / 18:42:52 IST
-    endpoint: 10:01:12 EDT / 19:31:12 IST
-    pov: Major Ananya Sharma only
-    primary_evidence_reference: ARJ-K17-018
-    derivative_reference: ARJ-K17-003
-    acknowledgment_reference: ARJ-K17-ACK-01
-    result: K-17 remained physically intact; Security Line One passed; K17-PHASE-B requested local source-record reconstruction/maintenance commit;
-      final local authentication failed; local writes remained zero; the original journal survived; the superseding allied product omitted the
-      local events
-  chapter_19_record:
-    title: The Name on the Record
-    status: accepted and promoted; canon
-    mission_lock: books/book-01/control/38-chapter-19-mission-lock.md
-    review: books/book-01/control/39-chapter-19-acceptance-review.md
-    accepted_path: books/book-01/manuscript/chapters/chapter-19.md
-    draft_exists: false
-    accepted: true
-    acceptance_gate_passed: true
-    accepted_manifest_changed: true
-    accepted_words_changed: true
-    accepted_words: 5393
-    reviewed_blob_sha: 1c7cc22fc7c480cb247efa1f6a2c0d0b1e1b1baf
-    dominant_function: Reconnect the bounded K-17 field result to Washington through one named federal receiving act, then obtain Hartwell’s exact
-      SSO-NS-004 serial and institutional physical-custody chain
-    opening: 10:01:12 EDT / 19:31:12 IST
-    endpoint: 10:44:12 EDT / 20:14:12 IST
-    pov: Julie primary; one bounded Special Agent Leila Grant Hartwell cutaway
-    result: Alvarez/DCIS accepts federal receiving responsibility; Julie lawfully learns the bounded no-fire/K-17 result; Hartwell establishes
-      SSO-NS-004 and the office-to-Hartwell custody chain; current signer custody and Sterling’s personal role remain unproved
-    next_gate: Chapter 20 first-draft production under the approved mission lock only
-  chapter_20_planning_record:
-    title: The Custody Exception
-    status: mission locked; undrafted; non-canon
-    mission_lock: books/book-01/control/40-chapter-20-mission-lock.md
-    mission_lock_blob_sha: c074e4f6f9ec9cddcbc701e2923f34b3082ede5a
-    draft_exists: false
-    accepted: false
-    accepted_manifest_changed: false
-    accepted_words_changed: false
-    canon_effect: none
-    dominant_function: Place SSO-NS-004 under a named no-use physical hold and establish the office authorization exception that moved it through
-      WSS-4 and Hartwell while preserving the distinction among office registration, carrier custody, authorization, knowledge, and personal command
-    opening: 10:44:12 EDT / 20:14:12 IST
-    intended_endpoint: 11:26:32 EDT / 20:56:32 IST
-    pov: Julie primary; one bounded Special Agent Leila Grant Legislative Secure Services cutaway
-    target_words: 4400
-    preferred_words: 4000-4800
-    hard_ceiling_words: 5200
-    projected_accepted_total_at_target: 107769
-    next_gate: Draft and integrate one non-canon Chapter 20 first version only; do not draft Chapter 21 or create a remainder outline
-  narrative_house_style:
-    version: '2.2'
-    status: locked for new chapter production and revision passes
-    guide: docs/Julie_ODonnell_Narrative_House_Style_v2_2.md
-    v2_1_supplement: docs/Julie_ODonnell_Narrative_House_Style_v2_1.md
-    v2_base: docs/Julie_ODonnell_Narrative_House_Style_v2.md
-    authority: Craft control only; accepted manuscript and Book 1 canon controls remain superior for facts and continuity
-source_of_truth:
-- rank: 1
-  path: books/book-01/manuscript/
-  role: Controlling story facts for prose listed in the accepted-manuscript inventory
-- rank: 2
-  path: books/book-01/ACCEPTED_MANUSCRIPT.yaml
-  role: Controlling inventory of accepted prose
-- rank: 3
-  path: books/book-01/control/
-  role: Canon controls and approved production planning
-- rank: 4
-  path: series/
-  role: Cross-book continuity and recurring-character controls
-- rank: 5
-  path: books/book-01/drafts/
-  role: Unaccepted prose only
-- rank: 6
-  path: archive/
-  role: Non-controlling legacy provenance
-- rank: 7
-  path: README.md
-  role: Human navigation summary only
-critical_status:
-  chapter_14_acceptance:
-    severity: resolved
-    reviewed_blob_sha: 78f7fff02cd271fecbc94f7daf7151dbebbd5c6d
-  chapter_15_acceptance:
-    severity: resolved
-    reviewed_blob_sha: b8e7e2ae573a6c25ea096121c75acee867f3fad2
-  chapter_16_acceptance:
-    severity: resolved
-    reviewed_blob_sha: dd5249f4b510a9da9ad19ab2902a95ce1e62a1d8
-  chapter_17_acceptance:
-    severity: resolved
-    status: ACCEPT; promoted at 5,888 words with no prose revision
-    reviewed_blob_sha: 1c4022ebb8d27d8d448f98bcf74fbf09e6e560c1
-  chapter_18_acceptance:
-    severity: resolved
-    status: ACCEPT; promoted at 4,478 words with no prose revision
-    reviewed_blob_sha: 6f5873d6e975ec74646af152aad22ea84545fc01
-  chapter_19_acceptance:
-    severity: resolved
-    status: ACCEPT; promoted at 5,393 words after six line-level repairs
-    reviewed_blob_sha: 1c7cc22fc7c480cb247efa1f6a2c0d0b1e1b1baf
-  chapter_20_planning:
-    severity: resolved
-    status: Mission lock approved at books/book-01/control/40-chapter-20-mission-lock.md; no Chapter 20 prose exists; accepted canon unchanged
-    mission_lock_blob_sha: c074e4f6f9ec9cddcbc701e2923f34b3082ede5a
-  status_drift:
-    severity: resolved
-    status: accepted inventory, count, endpoint, protected prose, Chapter 20 mission-lock-only state, and validator synchronized
-  next_gate:
-    severity: drafting
-    status: Draft and integrate the first non-canon Chapter 20 version from the approved mission lock only; do not draft Chapter 21 or create a
-      complete remainder outline
+    chapter_21_rule: No Chapter 21 prose or mission lock is authorized.
+    architecture_rule: Do not create a complete chapter-by-chapter outline for the remainder of Act III.
+
+planning_controls:
+  ending_contract: books/book-01/control/22-book-1-ending-contract.md
+  word_budget_and_architecture: books/book-01/control/23-word-budget-and-act-iii-architecture.md
+  thread_disposition: books/book-01/control/24-thread-disposition-matrix.md
+  chapter_acceptance_gate: books/book-01/control/25-chapter-acceptance-gate.md
+  chapter_19_mission_lock: books/book-01/control/38-chapter-19-mission-lock.md
+  chapter_19_acceptance_review: books/book-01/control/39-chapter-19-acceptance-review.md
+  chapter_20_mission_lock: books/book-01/control/40-chapter-20-mission-lock.md
+  series_character_ledger: series/recurring-character-ledger.md
+
+narrative_house_style:
+  version: '2.2'
+  status: locked for new chapter production and revision passes
+  guide: docs/Julie_ODonnell_Narrative_House_Style_v2_2.md
+  v2_1_supplement: docs/Julie_ODonnell_Narrative_House_Style_v2_1.md
+  v2_base: docs/Julie_ODonnell_Narrative_House_Style_v2.md
+  authority: Craft control only; accepted manuscript and canon controls remain superior for facts and continuity.
+
+production_rules:
+  - Accepted manuscript prose outranks every summary, plan, tracker, draft, and external snapshot.
+  - No unaccepted chapter may live under books/book-01/manuscript/.
+  - Draft existence does not create canon.
+  - Promotion requires an explicit formal acceptance verdict and synchronized prose, manifest, state, ledger, and validation changes.
+  - Accepted words remain 103369 and the accepted endpoint remains Chapter 19 until promotion.
+  - Protected Chapters 13-19 and the Chapter 20 mission lock must remain unchanged during the draft pass.
+  - Registered authority, physical possession, carrier custody, authorization, knowledge, intent, and command remain separate proof categories.
+  - A certified derivative never replaces its independently controlled original.
+  - A no-use hold preserves state and custody; it does not authenticate prior operation.
+  - The Chapter 20 draft exists only at books/book-01/drafts/chapter-20.md and remains non-canon.
+  - No Chapter 21 prose or mission lock exists.
+  - No complete chapter-by-chapter remainder-of-Act-III outline exists or is authorized.
+  - No draft or revision may imitate or closely emulate the recognizable prose of a living author.
+
 archive:
   legacy_source_policy: archive/legacy-sources/README.md
   former_google_doc_active: false
   uploaded_word_snapshot_active: false
-  superseded_status_snapshots: Preserved in Git history; not duplicated as active files
-production_rules:
-- Accepted manuscript prose outranks all summaries, plans, trackers, drafts, and external snapshots.
-- No unaccepted chapter may live under books/book-01/manuscript/.
-- Draft existence does not create canon.
-- Promotion requires the same production pass to move prose, update the manifest and project state, and update every affected control ledger.
-- Chapter 18 is accepted canon at 4,478 words; its reviewed blob is protected.
-- Registered authority never proves physical human custody without separate evidence.
-- Physical custody never proves authorization, knowledge, intent, or command without separate evidence.
-- The physical-board mismatch does not identify the alternative identity path or human actor.
-- The Hartwell original, WSS local audit, office originals, signer, Indian originals, and MPD packages remain independently controlled.
-- No draft or revision may imitate or closely emulate the recognizable prose of a living author.
-- Chapters 13 through 19 are accepted Act III canon.
-- Chapter 19 is accepted canon at 5,393 words; its reviewed blob is 1c7cc22fc7c480cb247efa1f6a2c0d0b1e1b1baf.
-- Chapter 19 promotion does not open, move, connect, combine, or transfer any MPD package.
-- Registered authority, physical possession, authorization, knowledge, and command remain separate proof categories.
-- Chapter 20 is mission locked at books/book-01/control/40-chapter-20-mission-lock.md but remains undrafted and non-canon.
-- No Chapter 20 prose exists.
-- No Chapter 21 prose or mission lock exists.
-- No complete chapter-by-chapter remainder-of-Act-III outline exists or is authorized.
-next_recommended_action: Draft and integrate the first non-canon version of Chapter 20 from books/book-01/control/40-chapter-20-mission-lock.md.
-  Do not alter accepted prose or the accepted manifest, draft Chapter 21, create a Chapter 21 mission lock, or create a complete remainder outline.
+  superseded_status_snapshots: Preserved in Git history; not duplicated as active files.
+
+next_recommended_action: Conduct the formal Chapter 20 acceptance review against books/book-01/control/40-chapter-20-mission-lock.md and books/book-01/control/25-chapter-acceptance-gate.md. Promote only after an explicit ACCEPT verdict; do not draft Chapter 21.
