@@ -16,8 +16,11 @@ The authoritative production status is [`PROJECT_STATE.yaml`](PROJECT_STATE.yaml
 - Chapter 18 reviewed blob: `6f5873d6e975ec74646af152aad22ea84545fc01`
 - Chapter 18 manuscript: [`books/book-01/manuscript/chapters/chapter-18.md`](books/book-01/manuscript/chapters/chapter-18.md)
 - Chapter 18 acceptance review: [`books/book-01/control/37-chapter-18-acceptance-review.md`](books/book-01/control/37-chapter-18-acceptance-review.md)
+- Chapter 19 mission lock: [`books/book-01/control/38-chapter-19-mission-lock.md`](books/book-01/control/38-chapter-19-mission-lock.md)
 - Active chapter drafts: none
-- Chapter 19 prose or mission lock: none
+- Chapter 19 prose: not created
+- Chapter 19 canon status: mission locked, undrafted, and non-canon
+- Chapter 20 prose or mission lock: not created
 - Complete remainder-of-Act-III outline: not created
 - Book 1: not publication-ready
 
@@ -34,6 +37,17 @@ The authoritative production status is [`PROJECT_STATE.yaml`](PROJECT_STATE.yaml
 - The later superseding allied product omitted the local events.
 - The MPD seven-package custody state and the trio's medical states remain unchanged offstage.
 - Field-team identities, Tariq's physical presence or keystrokes, reconstruction authorship, Washington human responsibility, final federal custody, and public vindication remain unresolved.
+
+## Approved Chapter 19 planning
+
+- Dominant mission: reconnect the bounded K-17 result to Washington through one named federal receiving act, then obtain Hartwell's exact `SSO-NS-004` serial and institutional physical-custody chain.
+- Planned opening: **10:01:12 EDT / 19:31:12 IST**, secure MPD evidence intake.
+- Planned endpoint: **10:44:12 EDT / 20:14:12 IST**, secure MPD evidence intake.
+- Planned POV: Julie primary with one bounded Special Agent Leila Grant Hartwell cutaway.
+- Planned word range: **5,200–5,900 words**.
+- Accepted-manuscript effect: none.
+- Evidence rule: no MPD package may be opened, connected, moved, combined, or transferred during Chapter 19.
+- Proof ceiling: the planned Hartwell result may establish office/device custody, not Sterling's personal possession, keystrokes, command, guilt, or admissibility.
 
 ## Source-of-truth hierarchy
 
@@ -54,11 +68,12 @@ Accepted prose outranks every summary, tracker, plan, and draft.
 - [Chapter acceptance gate](books/book-01/control/25-chapter-acceptance-gate.md)
 - [Chapter 18 mission lock](books/book-01/control/36-chapter-18-mission-lock.md)
 - [Chapter 18 acceptance review](books/book-01/control/37-chapter-18-acceptance-review.md)
+- [Chapter 19 mission lock](books/book-01/control/38-chapter-19-mission-lock.md)
 - [Series recurring-character ledger](series/recurring-character-ledger.md)
 
 ## Current gate
 
-Create and approve a dedicated Chapter 19 mission lock from the accepted Chapter 18 endpoint. Do not draft Chapter 19 before that lock and do not create a complete chapter-by-chapter outline for the remainder of Act III.
+Draft and integrate the complete first version of Chapter 19 under the approved mission lock. The draft must remain non-canon until formal acceptance. Do not begin Chapter 20 planning and do not create a complete chapter-by-chapter outline for the remainder of Act III.
 
 ## Permanent continuity repair
 
