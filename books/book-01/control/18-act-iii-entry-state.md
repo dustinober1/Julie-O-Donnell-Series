@@ -1,14 +1,8 @@
 # 18. ACT III ENTRY STATE
 
-<!-- CH19_ACCEPTED_STATE_START -->
-## Accepted Act III state after Chapter 19
-
-Act III accepted canon now comprises Chapters 13–19. The accepted manuscript is 103,369 words and ends at 10:44:12 EDT / 20:14:12 IST at secure MPD evidence intake. Washington and the bounded field record are lawfully reconnected under one named federal receiver. The exact signer and institutional custody path are established, but the signer’s current custodian, authorization chain, personal human responsibility, public correction, and aftermath remain open. The next authorized gate is Chapter 20 mission-lock planning only.
-<!-- CH19_ACCEPTED_STATE_END -->
-
 ## Controlling accepted Act III state
 
-Act III contains six accepted chapters:
+Act III accepted canon comprises Chapters 13–19:
 
 - Chapter 13 — **The Carrier Stream**
 - Chapter 14 — **The Witness Line**
@@ -16,52 +10,50 @@ Act III contains six accepted chapters:
 - Chapter 16 — **The Hold Order**
 - Chapter 17 — **The First Examination**
 - Chapter 18 — **The Local Record**
+- Chapter 19 — **The Name on the Record**
 
 ## Accepted endpoint
 
-- **Accepted manuscript total:** 97,976 words
-- **Time:** 10:01:12 EDT / 19:31:12 IST
-- **Location:** Forward Post Arjun after the bounded K-17 local-record acknowledgment
-- **Washington authority:** MPD retains physical custody of all seven packages under incident `187463`; no final federal receiver exists in accepted canon
-- **Indian/local authority:** Forward Post Arjun retains `ARJ-K17-001`, `ARJ-K17-002`, and `ARJ-K17-003` under separate reseals; `ARJ-K17-ACK-01` is accepted without transfer of the original
+- **Accepted manuscript total:** **103,369 words**
+- **Time:** **10:44:12 EDT / 20:14:12 IST**
+- **Location:** secure MPD evidence intake
+- **Federal receiving authority:** Miriam Alvarez / DCIS under `DCIS-FR-187463-01`
+- **Physical custody:** MPD retains all seven separate Washington packages; Hartwell retains `HWA-LCA-1187`; Forward Post Arjun retains the Indian originals
 - **Accepted prose after this point:** none
-- **Active chapter draft:** `../drafts/chapter-19.md` — non-canon
+- **Active chapter draft:** none
 
-## Chapter 18 accepted field result
+## Accepted Chapter 19 state
 
-- K-17 remained physically intact at patrol inspection.
-- The patrol did not cross the inner security boundary and did not pursue where hostile occupancy, explosive/tamper hazard, or a Line-of-Control crossing could not be excluded.
-- Security Line One recorded an accepted pass.
-- `K17-PHASE-B` reached the local controller under authority registered to `TARIQ, MAJOR / FORWARD LIAISON CELL`.
-- Phase B requested local source-record reconstruction through a maintenance commit.
-- Final local confirmation did not arrive; the commit expired and did not execute.
-- Local source-record writes remained zero.
-- Original `K17-AC-44719` and field seal `K17-FS-1176` survived.
-- The later superseding allied product omitted the local events.
-- The failed local commit is distinct from the later successful remote reconstruction.
+- The bounded field result reaches Washington only after one named federal receiving act.
+- No Indian rounds were fired.
+- K-17 was physically intact at inspection; Security Line One passed.
+- A Tariq-registered authority reached the controller; final local authentication failed; the maintenance commit did not execute; local writes remained zero.
+- The superseding allied product omitted the local events.
+- Hartwell establishes exact serial `SSO-NS-004`, the accepted 07:47:49 EDT challenge, and the credentialed office-support/Hartwell custody sequence.
+- The dark-overcoat entrant was not the direct challenge presenter at that moment.
+- The signer is no longer at Hartwell; current physical custody is unknown.
+- Sterling’s public account remains dominant and uncorrected.
 
 ## Knowledge and proof limits
 
-- Sharma and Qureshi know the bounded local result.
-- The result enters the preservation route only as category, custody, caveat, and bounded event status at the accepted endpoint.
-- Julie, Marcus, Elias, Grant, Hackett, and MPD do not automatically receive field merits in accepted canon.
-- Field-team identities, Tariq's physical presence or keystrokes, reconstruction authorship, Sterling/Vance personal acts, WSS plaintext, Hartwell presenter, alternative original-deployment identity path, guilt, innocence, immunity, admissibility, final federal custody, and public vindication remain unresolved in accepted canon.
+Accepted canon does not establish Sterling’s personal possession, presentation, operation, knowledge, command, or direction; courier or Hartwell-custodian conspiracy knowledge; Tariq’s physical presence or personal operation; Vance’s personal Payload 88 keystrokes; WSS plaintext; the alternative original-deployment actor; successful remote-reconstruction authorship; full compact-case contents; guilt, innocence, immunity, privilege resolution, admissibility, charge, conviction, exoneration, universal institutional complicity, final recovery of `SSO-NS-004`, or public vindication.
 
 ## Physical and custody continuity
 
-Julie, Marcus, and Elias remain in the exact separate custody and medical states established by Chapters 16–17 at the accepted endpoint. No Washington package is opened, moved, altered, or transferred by accepted Chapter 18.
+- Julie remains detained with her right wrist and forearm padded, braced, swollen, and materially unusable.
+- Marcus remains offstage in guarded medical care on four liters of oxygen at 92–93 percent saturation.
+- Elias remains offstage in separate guarded medical custody with no board, module, biometric, remote guidance, or technical action.
+- No Chapter 19 event opens, connects, mounts, examines, moves, combines, or transfers any MPD package.
 
 ## Remaining Book 1 obligations
 
 High-level obligations remain:
 
-- alternative identity path and human responsibility;
+- current custody, authorization, and recovery path for `SSO-NS-004`;
+- office custody log and presenter/receiver records;
 - WSS-4 plaintext or lawful equivalent where necessary;
-- current custody and authorization of `SSO-NS-004`;
-- consequences of Marcus's recorded correction;
-- consequential final choice for Mercer;
-- Bell local-record fate and Price disposition;
-- meaningful Vance and Sterling consequences;
+- alternative identity path and human responsibility;
+- Vance, Sterling, Tariq, Mercer, Bell, Price, Hackett, Chen, Marcus, Elias, and Sharma consequences;
 - authenticated public-narrative fracture;
 - medical, legal, relationship, geopolitical, and future-role aftermath; and
 - Book 1 climax, stabilization, and bounded series-facing resolution.
@@ -70,4 +62,4 @@ This is an obligation inventory, not a complete chapter-by-chapter remainder out
 
 ## Current production gate
 
-Perform the formal Chapter 19 acceptance review and synchronized promotion pass. Do not use the draft endpoint as canon, begin Chapter 20 planning, or create a complete remainder-of-Act-III outline.
+Prepare the Chapter 20 mission-lock planning pass only. Do not draft Chapter 20 until the lock is approved, and do not create a complete chapter-by-chapter outline for the remainder of Act III.
