@@ -262,7 +262,7 @@ critical_status:
       approved
   chapter_19_acceptance:
     severity: resolved
-    status: ACCEPT; promoted at 5,393 words after five line-level repairs
+    status: ACCEPT; promoted at 5,393 words after six line-level repairs
     reviewed_blob_sha: 1c7cc22fc7c480cb247efa1f6a2c0d0b1e1b1baf
 archive:
   legacy_source_policy: archive/legacy-sources/README.md
@@ -274,13 +274,10 @@ production_rules:
 - No unaccepted chapter may live under books/book-01/manuscript/.
 - Draft existence does not create canon.
 - Promotion requires the same production pass to move prose, update the manifest and project state, and update every affected control ledger.
-- Chapters 13 through 18 are accepted Act III canon.
 - Chapter 18 is accepted canon at 4,478 words; its reviewed blob is protected.
 - Registered authority never proves physical human custody without separate evidence.
 - The physical-board mismatch does not identify the alternative identity path or human actor.
 - The Hartwell original, WSS local audit, Indian originals, and MPD packages remain independently controlled in accepted canon.
-- No Chapter 20 prose or mission lock exists.
-- No complete chapter-by-chapter remainder-of-Act-III outline exists or is authorized.
 - No draft or revision may imitate or closely emulate the recognizable prose of a living author.
 - Chapters 13 through 19 are accepted Act III canon.
 - Chapter 19 is accepted canon at 5,393 words; its reviewed blob is 1c7cc22fc7c480cb247efa1f6a2c0d0b1e1b1baf.
