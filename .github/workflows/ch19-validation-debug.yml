@@ -3,7 +3,7 @@ name: Chapter 19 validation diagnostics
 on:
   pull_request:
     branches: [main]
-    types: [synchronize]
+    types: [opened, reopened, synchronize]
 
 permissions:
   contents: write
