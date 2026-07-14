@@ -11,6 +11,7 @@ Act III contains four accepted chapters:
 
 ### Accepted endpoint
 
+- **Accepted manuscript total:** 87,610 words
 - **Time:** 08:15:52 EDT / 17:45:52 IST
 - **Primary Washington state:** Julie remains restrained in marked MPD transport at the secure evidence-intake threshold; Marcus and Elias remain in separate guarded medical custody.
 - **Authority:** MPD retains physical custody of all seven packages under incident `187463`; General William Hackett is the named federal preservation sponsor; no final federal receiver or independent technical examiner exists.
