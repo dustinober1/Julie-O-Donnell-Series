@@ -29,6 +29,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          show-progress: false
 
       - name: Count accepted manuscript
         shell: bash
@@ -45,55 +46,77 @@ jobs:
           )
           python tools/count_book1_words.py --expect "$expected"
 
-      - name: Validate Chapter 17 mission lock and Chapter 17 prose absence
+      - name: Validate accepted baseline and protected prose
         shell: bash
         run: |
-          python - <<'PYVALIDATE'
+          python - <<'PYBASELINE'
           from pathlib import Path
           import hashlib
           import re
 
           root = Path('.')
-          manifest_path = root / 'books/book-01/ACCEPTED_MANUSCRIPT.yaml'
-          project_path = root / 'PROJECT_STATE.yaml'
-          manifest = manifest_path.read_text(encoding='utf-8')
-          project = project_path.read_text(encoding='utf-8')
+          manifest = (root / 'books/book-01/ACCEPTED_MANUSCRIPT.yaml').read_text(encoding='utf-8')
+          project = (root / 'PROJECT_STATE.yaml').read_text(encoding='utf-8')
 
-          chapter14 = root / 'books/book-01/manuscript/chapters/chapter-14.md'
-          chapter15 = root / 'books/book-01/manuscript/chapters/chapter-15.md'
-          chapter16 = root / 'books/book-01/manuscript/chapters/chapter-16.md'
-          mission17 = root / 'books/book-01/control/34-chapter-17-mission-lock.md'
-          draft17 = root / 'books/book-01/drafts/chapter-17.md'
-          manuscript17 = root / 'books/book-01/manuscript/chapters/chapter-17.md'
+          def require(condition, message):
+              if not condition:
+                  raise SystemExit(message)
 
           def blob(path):
               data = path.read_bytes()
               return hashlib.sha1(f"blob {len(data)}\0".encode('ascii') + data).hexdigest()
 
-          accepted = int(re.search(r'^accepted_words:\s*(\d+)$', manifest, re.M).group(1))
-          project_total = int(re.search(r'^\s+accepted_words:\s*(\d+)$', project, re.M).group(1))
-          assert accepted == 87610, accepted
-          assert project_total == accepted, (project_total, accepted)
-          assert 'sequence: 16' in manifest
-          assert 'sequence: 17' not in manifest
-          assert 'chapter: 16' in manifest
-          assert '08:15:52 EDT' in manifest
-          assert '17:45:52 IST' in manifest
-          assert 'Secure MPD evidence intake under Hackett' in manifest
+          accepted_match = re.search(r'^accepted_words:\s*(\d+)$', manifest, re.M)
+          project_match = re.search(r'^\s+accepted_words:\s*(\d+)$', project, re.M)
+          require(accepted_match is not None, 'manifest accepted_words missing')
+          require(project_match is not None, 'PROJECT_STATE accepted_words missing')
+          accepted = int(accepted_match.group(1))
+          project_total = int(project_match.group(1))
+          require(accepted == 87610, f'unexpected accepted total: {accepted}')
+          require(project_total == accepted, f'project total {project_total} != manifest {accepted}')
+          require('sequence: 16' in manifest and 'sequence: 17' not in manifest, 'accepted manifest must end at Chapter 16')
+          require('chapter: 16' in manifest, 'accepted endpoint chapter is not 16')
+          require('08:15:52 EDT' in manifest and '17:45:52 IST' in manifest, 'accepted endpoint time changed')
+          require('Secure MPD evidence intake under Hackett' in manifest, 'accepted endpoint location changed')
 
-          assert chapter14.is_file() and blob(chapter14) == '78f7fff02cd271fecbc94f7daf7151dbebbd5c6d'
-          assert len(chapter14.read_text(encoding='utf-8').split()) == 5763
-          assert chapter15.is_file() and blob(chapter15) == 'b8e7e2ae573a6c25ea096121c75acee867f3fad2'
-          assert len(chapter15.read_text(encoding='utf-8').split()) == 5993
-          assert chapter16.is_file() and blob(chapter16) == 'dd5249f4b510a9da9ad19ab2902a95ce1e62a1d8'
-          assert len(chapter16.read_text(encoding='utf-8').split()) == 6024
+          protected = [
+              ('chapter-14.md', '78f7fff02cd271fecbc94f7daf7151dbebbd5c6d', 5763),
+              ('chapter-15.md', 'b8e7e2ae573a6c25ea096121c75acee867f3fad2', 5993),
+              ('chapter-16.md', 'dd5249f4b510a9da9ad19ab2902a95ce1e62a1d8', 6024),
+          ]
+          chapter_root = root / 'books/book-01/manuscript/chapters'
+          for name, expected_blob, expected_words in protected:
+              path = chapter_root / name
+              require(path.is_file(), f'missing protected prose: {name}')
+              require(blob(path) == expected_blob, f'protected blob changed: {name}')
+              words = len(path.read_text(encoding='utf-8').split())
+              require(words == expected_words, f'protected word count changed: {name} = {words}')
 
+          chapter16 = chapter_root / 'chapter-16.md'
           chapter16_files = list((root / 'books/book-01').rglob('chapter-16.md'))
-          assert chapter16_files == [chapter16], chapter16_files
-          assert not (root / 'books/book-01/drafts/chapter-16.md').exists()
+          require(chapter16_files == [chapter16], f'duplicate Chapter 16 paths: {chapter16_files}')
+          require(not (root / 'books/book-01/drafts/chapter-16.md').exists(), 'Chapter 16 draft remains')
 
-          assert mission17.is_file()
+          print('accepted baseline and protected prose validated')
+          PYBASELINE
+
+      - name: Validate Chapter 17 mission lock and prose absence
+        shell: bash
+        run: |
+          python - <<'PYLOCK'
+          from pathlib import Path
+
+          root = Path('.')
+          mission17 = root / 'books/book-01/control/34-chapter-17-mission-lock.md'
+          project = (root / 'PROJECT_STATE.yaml').read_text(encoding='utf-8')
+
+          def require(condition, message):
+              if not condition:
+                  raise SystemExit(message)
+
+          require(mission17.is_file(), 'Chapter 17 mission lock missing')
           lock = mission17.read_text(encoding='utf-8')
+
           required_lock_phrases = [
               '# Chapter 17 Mission Lock — The First Examination',
               '**Status:** Approved production planning only.',
@@ -109,38 +132,51 @@ jobs:
               'Draft exactly one complete first version of Chapter 17',
           ]
           for phrase in required_lock_phrases:
-              assert phrase in lock, phrase
+              require(phrase in lock, f'mission lock missing required phrase: {phrase}')
 
           candidate_phrases = [
               'Candidate A — Independent technical intake',
               'Candidate B — Washington/field reconnection',
               'Candidate C — Institutional pressure and record attack',
-              'ACCEPT as Chapter 17\'s single dominant function',
+              "ACCEPT as Chapter 17's single dominant function",
               'REJECT as dominant. ACCEPT only as supporting pressure',
           ]
           for phrase in candidate_phrases:
-              assert phrase in lock, phrase
+              require(phrase in lock, f'candidate analysis missing: {phrase}')
 
-          lock_sections = [
+          for section in [
               'Accepted canon',
               'Approved Chapter 17 planning',
               'Unresolved evidence',
               'Strong inference only',
               'Prohibited invention',
               'Later Book 1 obligations',
-          ]
-          for section in lock_sections:
-              assert section in lock, section
+          ]:
+              require(section in lock, f'mission-lock classification missing: {section}')
 
-          assert not draft17.exists()
-          assert not manuscript17.exists()
-          assert not list((root / 'books/book-01').rglob('chapter-17.md'))
-          assert 'active_chapter_drafts: []' in project
-          assert 'chapter_17_mission_lock: "books/book-01/control/34-chapter-17-mission-lock.md"' in project
-          assert 'status: "mission locked; planning only; not drafted; non-canon"' in project
-          assert 'Draft exactly one complete first version of Chapter 17' in project
-          assert 'accepted_words_changed: false' in project
-          assert 'accepted_manifest_changed: false' in project
+          chapter17_paths = list((root / 'books/book-01').rglob('chapter-17.md'))
+          require(not chapter17_paths, f'Chapter 17 prose exists: {chapter17_paths}')
+          require('active_chapter_drafts: []' in project, 'active draft list changed')
+          require('chapter_17_mission_lock: "books/book-01/control/34-chapter-17-mission-lock.md"' in project, 'PROJECT_STATE mission-lock path missing')
+          require('status: "mission locked; planning only; not drafted; non-canon"' in project, 'PROJECT_STATE Chapter 17 status wrong')
+          require('Draft exactly one complete first version of Chapter 17' in project, 'next drafting gate missing')
+          require('accepted_words_changed: false' in project, 'accepted-word effect not locked false')
+          require('accepted_manifest_changed: false' in project, 'manifest effect not locked false')
+
+          print('Chapter 17 mission lock and prose absence validated')
+          PYLOCK
+
+      - name: Validate synchronized Chapter 17 planning state
+        shell: bash
+        run: |
+          python - <<'PYSTATUS'
+          from pathlib import Path
+
+          root = Path('.')
+
+          def require(condition, message):
+              if not condition:
+                  raise SystemExit(message)
 
           status_files = [
               root / 'README.md',
@@ -156,29 +192,20 @@ jobs:
               root / 'books/book-01/manuscript/STATUS.md',
           ]
           for path in status_files:
+              require(path.is_file(), f'missing synchronized status file: {path}')
               text = path.read_text(encoding='utf-8')
-              assert 'Chapter 17' in text, path
-              assert ('mission lock' in text.lower() or 'mission locked' in text.lower()), path
+              require('Chapter 17' in text, f'Chapter 17 missing from {path}')
+              require(('mission lock' in text.lower() or 'mission locked' in text.lower()), f'mission-lock state missing from {path}')
 
-          core_status_files = [
-              root / 'README.md',
-              root / 'books/book-01/control/00-overview.md',
-              root / 'books/book-01/control/02-current-project-state.md',
-              root / 'books/book-01/control/16-chapter-by-chapter-status-record.md',
-              root / 'books/book-01/control/18-act-iii-entry-state.md',
-              root / 'books/book-01/control/20-control-pack-maintenance-rules.md',
-              root / 'books/book-01/control/23-word-budget-and-act-iii-architecture.md',
-              root / 'books/book-01/control/README.md',
-              root / 'books/book-01/drafts/README.md',
-              root / 'books/book-01/manuscript/STATUS.md',
-          ]
+          core_status_files = [path for path in status_files if path.name != '24-thread-disposition-matrix.md']
           for path in core_status_files:
               text = path.read_text(encoding='utf-8')
-              assert '87,610' in text, path
-              assert '08:15:52 EDT / 17:45:52 IST' in text, path
+              require('87,610' in text, f'accepted total missing from {path}')
+              require('08:15:52 EDT / 17:45:52 IST' in text, f'accepted endpoint missing from {path}')
 
-          assert 'Canon Control Pack v3.6' in (root / 'books/book-01/control/README.md').read_text(encoding='utf-8')
-          assert '[34. Chapter 17 Mission Lock](34-chapter-17-mission-lock.md)' in (root / 'books/book-01/control/README.md').read_text(encoding='utf-8')
+          control_readme = (root / 'books/book-01/control/README.md').read_text(encoding='utf-8')
+          require('Canon Control Pack v3.6' in control_readme, 'control-pack version not advanced')
+          require('[34. Chapter 17 Mission Lock](34-chapter-17-mission-lock.md)' in control_readme, 'control-pack index missing Chapter 17 lock')
 
           temporary_paths = [
               root / 'tools/promote_chapter16_acceptance.py',
@@ -188,12 +215,10 @@ jobs:
               root / '.github/workflows/apply-chapter16-explicit-repair.yml',
           ]
           for path in temporary_paths:
-              assert not path.exists(), path
+              require(not path.exists(), f'temporary file remains: {path}')
 
-          print(f'validated accepted total: {accepted}')
-          print('validated protected Chapter 14, Chapter 15, and Chapter 16 blobs and counts')
-          print('validated Chapter 17 mission lock, synchronized planning state, and prose absence')
-          PYVALIDATE
+          print('synchronized Chapter 17 planning state validated')
+          PYSTATUS
 
       - name: Check whitespace errors in pull-request diff
         if: github.event_name == 'pull_request'
