@@ -12,7 +12,7 @@ The accepted manuscript always outranks this control pack.
 - **Chapter 20 draft:** `../drafts/chapter-20.md`
 - **Chapter 20 draft status:** complete first draft; awaiting formal acceptance review; unaccepted; non-canon
 - **Chapter 20 draft words:** **4,171**
-- **Chapter 20 draft blob:** `13ee716d0e4b93fe73141a0c9f85488af74ce7c8`
+- **Chapter 20 draft blob:** `d983f952caca56c41b9f7d1ef976a9ae1b281a78`
 - **Chapter 20 mission-lock blob:** `c074e4f6f9ec9cddcbc701e2923f34b3082ede5a`
 - **Chapter 21 prose or mission lock:** none
 - **Next authorized gate:** Chapter 20 formal acceptance review only
