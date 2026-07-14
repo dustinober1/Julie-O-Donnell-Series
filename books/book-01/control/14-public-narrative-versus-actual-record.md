@@ -1,5 +1,15 @@
 # 14. PUBLIC NARRATIVE VERSUS ACTUAL RECORD
 
+<!-- CH19_ACCEPTED_STATE_START -->
+## Chapter 19 accepted public/private record delta
+
+**Public narrative:** Sterling describes Julie, Marcus, and Elias as an expanding insider operation attacking national-security systems and uses classification/secrecy to demand institutional trust.
+
+**Lawful private record:** Alvarez/DCIS has accepted the complete incident; no Indian round fired; the K-17 local commit failed and wrote nothing; `SSO-NS-004` completed Hartwell’s challenge through a credentialed office-support/Hartwell custody chain; current signer custody and human command remain unknown.
+
+The private record is not released. Sterling’s version remains the only account the country can hear at the 10:44:12 endpoint.
+<!-- CH19_ACCEPTED_STATE_END -->
+
 | Public or official claim | Evidence-supported reality | Issuer | Genuine material used misleadingly | Why plausible | Evidence needed to overturn |
 |---|---|---|---|---|---|
 | Julie caused the Argus corruption | Payload 88 was active before Julie’s protected recovery session; she restored original labels | Apex, Sterling | Footage of Julie at recovery console | She lacks current clearance and manipulated a live system | Recovery cartridge, board, case, production logs |

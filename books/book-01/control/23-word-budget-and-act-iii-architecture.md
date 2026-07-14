@@ -11,12 +11,10 @@
 | Minimum finished accepted length | 100,000 |
 | Planning target | 112,500 |
 | Maximum finished accepted length | 125,000 |
-| Accepted manuscript through Chapter 18 | **97,976** |
-| Remaining to minimum | **2,024** |
-| Remaining to planning target | **14,524** |
-| Remaining before maximum | **27,024** |
-| Chapter 19 non-canon draft | **5,393** |
-| Projected total if the exact draft is later accepted | **103369** |
+| Accepted manuscript through Chapter 19 | **103,369** |
+| Above minimum | **3,369** |
+| Remaining to planning target | **9,131** |
+| Remaining before maximum | **21,631** |
 
 Accepted contributions:
 
@@ -29,8 +27,9 @@ Accepted contributions:
 | Chapter 16 — The Hold Order | 6,024 |
 | Chapter 17 — The First Examination | 5,888 |
 | Chapter 18 — The Local Record | 4,478 |
-| Accepted Act III subtotal, Chapters 13–18 | **34,321** |
-| Accepted manuscript total | **97,976** |
+| Chapter 19 — The Name on the Record | 5,393 |
+| Accepted Act III subtotal, Chapters 13–19 | **39,714** |
+| Accepted manuscript total | **103,369** |
 
 The exact count method is the UTF-8 Markdown whitespace-delimited method implemented by `tools/count_book1_words.py`.
 
@@ -48,33 +47,17 @@ No chapter receives words solely to satisfy the target. Every scene must advance
 | Chapter 16 | Preservation sponsorship, Marcus correction, and bounded allied acknowledgment | Accepted at 6,024 words |
 | Chapter 17 | First independent MPD-controlled single-package examination | Accepted at 5,888 words |
 | Chapter 18 | K-17 local original/derivative examination and bounded field outcome | Accepted at 4,478 words |
+| Chapter 19 | Named federal receiving act, bounded field-result receipt, Hartwell exact serial, and institutional custody chain | Accepted at 5,393 words |
 
-## Chapter 18 accepted boundaries
+## Chapter 19 accepted boundaries
 
-- Opens at **09:12:52 EDT / 18:42:52 IST**.
-- Ends at **10:01:12 EDT / 19:31:12 IST**.
-- Establishes K-17 intact at inspection, Security Line One pass, a requested local reconstruction/maintenance commit, failed final authentication, zero local writes, surviving original, and superseding omission.
-- Changes no Washington package custody, medical state, or merits knowledge.
-- Does not identify a human operator, Tariq's physical action, Hartwell presenter, WSS plaintext, remote reconstruction author, final receiver, guilt, innocence, admissibility, immunity, or public vindication.
-
-## Chapter 19 draft state — non-canon
-
-`38-chapter-19-mission-lock.md` controls the single draft at `../drafts/chapter-19.md`.
-
-| Item | Draft state |
-|---|---|
-| Working title | **The Name on the Record** |
-| Exact words | **5,393** |
-| Dominant mission | Reconnect the bounded K-17 result through one named federal receiving act, then obtain Hartwell's exact `SSO-NS-004` serial and institutional physical-custody chain |
-| Opening | **10:01:12 EDT / 19:31:12 IST** |
-| Endpoint | **10:44:12 EDT / 20:14:12 IST** |
-| POV | Julie primary; one bounded Grant Hartwell cutaway |
-| Preferred range | **5,200–5,900 words** |
-| MPD package scope | No package opened, connected, moved, combined, or transferred |
-| Accepted-manuscript effect | None |
-| Next gate | Formal acceptance review and synchronized promotion |
-
-The exact draft would bring the accepted manuscript to **103,369 words** only if a later formal review accepts and promotes it. The accepted total remains **97,976** in this drafting pass.
+- Opens at **10:01:12 EDT / 19:31:12 IST**.
+- Ends at **10:44:12 EDT / 20:14:12 IST**.
+- Establishes Alvarez/DCIS as named federal receiver while MPD retains physical custody.
+- Establishes the bounded no-fire/K-17 result without transferring Indian originals or unrestricted field geography.
+- Establishes `SSO-NS-004`, the 07:47:49 EDT accepted challenge, and the office-support/Hartwell custody sequence.
+- Establishes that the dark-overcoat entrant was not the direct challenge presenter at that moment and that current signer custody is unknown.
+- Does not identify Sterling’s personal possession, knowledge, operation, or command; Tariq’s personal operation; Vance’s personal keystrokes; WSS plaintext; remote-reconstruction authorship; guilt; exoneration; or public vindication.
 
 ## Provisional later structure
 
@@ -85,32 +68,29 @@ Chapter 20 and later remain **unwritten, individually unlocked, and non-controll
 Later accepted prose must still provide sufficient space for:
 
 - current custody and authorization of `SSO-NS-004`;
+- office custody log and presenter/receiver records;
 - WSS plaintext or lawful equivalent where necessary;
 - alternative identity path and human responsibility;
-- Vance, Sterling, Tariq, Mercer, Bell, and Price payoffs;
+- Vance, Sterling, Tariq, Mercer, Bell, Price, Hackett, Chen, Marcus, Elias, and Sharma payoffs;
 - authenticated public-narrative fracture;
-- consequences of Marcus's correction and Elias's voluntary record;
+- consequences of Marcus’s correction and Elias’s voluntary record;
 - medical, legal, relationship, and geopolitical aftermath;
 - meaningful antagonist consequences;
-- Julie's final morally bounded leadership choice; and
+- Julie’s final morally bounded leadership choice; and
 - a bounded series-facing ending that does not defer Book 1 resolution.
 
-The exact distribution across later chapters remains provisional and must be locked one chapter at a time after Chapter 19 is accepted.
-
-## Chapter 19 production audit
-
-The draft expands the responsibility attached to Alvarez's receiving act, Julie learning the no-fire result, Grant's narrow Hartwell production, and Julie's refusal to overclaim Sterling. It compresses routine routing and avoids a package examination, pursuit, breach, or escape.
+The exact distribution across later chapters remains provisional and must be locked one chapter at a time.
 
 ## Final length review
 
 At the end of the complete manuscript:
 
 1. Recount accepted words only.
-2. Audit each chapter's dominant function.
+2. Audit each chapter’s dominant function.
 3. Cut repeated explanation before cutting consequence.
 4. Add missing decision or aftermath scenes before adding procedural detail.
 5. Keep the final accepted manuscript within 100,000–125,000 words.
 
 ## Current gate
 
-Perform the formal Chapter 19 acceptance review and synchronized promotion pass. Accepted words remain 97,976 and the accepted endpoint remains 10:01:12 EDT / 19:31:12 IST until promotion. Do not begin Chapter 20 planning or create a complete remainder-of-Act-III outline.
+Prepare the Chapter 20 mission-lock planning pass only. Do not draft Chapter 20 until the lock is approved, and do not create a complete remainder-of-Act-III outline.

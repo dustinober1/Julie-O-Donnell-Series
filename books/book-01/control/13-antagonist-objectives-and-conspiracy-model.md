@@ -1,5 +1,15 @@
 # 13. ANTAGONIST OBJECTIVES AND CONSPIRACY MODEL
 
+<!-- CH19_ACCEPTED_STATE_START -->
+## Chapter 19 accepted antagonist-pressure delta
+
+- Sterling’s public objective remains control of the insider-attack narrative; his statement omits the no-fire result, failed local commit, and office-device chain.
+- The accepted record creates an office-level operational implication through `SSO-NS-004` without proving Sterling’s personal hand, knowledge, or command.
+- Vance/Apex pressure continues through classification, property, privilege, and generic-summary arguments; no new proof establishes Vance’s personal keystrokes or upstream direction.
+- Tariq remains a registered field authority only; physical presence, possession, and personal command remain unproved.
+- The conspiracy model now has a durable Washington–field cross-reference and a mobile physical evidence target, but human responsibility remains unresolved.
+<!-- CH19_ACCEPTED_STATE_END -->
+
 ## Arthur Vance
 
 ### Confirmed actions

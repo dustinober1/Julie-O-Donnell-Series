@@ -1,5 +1,16 @@
 # 7. RELATIONSHIP AND TRUST MATRIX
 
+<!-- CH19_ACCEPTED_STATE_START -->
+## Chapter 19 accepted relationship delta
+
+- **Julie ↔ Grant:** conditional procedural trust strengthens; Grant remains independent, and Julie protects the limit that weakens her own accusation.
+- **Julie ↔ Alvarez:** a bounded institutional relationship begins through named receiving responsibility, not personal allegiance.
+- **Julie ↔ Hackett:** cooperation remains conditional; he accepts corrections and supports preservation without becoming an uncomplicated ally.
+- **Julie ↔ Marcus / Elias:** no reunion or relationship-resolution scene; their prior records materially support the incident while they remain medically separated.
+- **Julie ↔ Chen:** no alliance; Chen’s preserved index creates an independently reviewable conflict record.
+- **Julie ↔ Sterling:** opposition sharpens through the collision between his dominant public account and the private lawful record; no private encounter occurs.
+<!-- CH19_ACCEPTED_STATE_END -->
+
 | Relationship | History | Current trust | Current tension | Asymmetric knowledge | What could change it |
 |---|---|---|---|---|---|
 | Julie ↔ Marcus | Six-years-ago colleagues; Marcus shaped testimony to protect access. | High operational; incomplete personal repair | His prior cowardice, her willingness to risk everything | Marcus knows the institutional limits from inside; Julie understands the source record more deeply | Marcus publicly or formally correcting the old record; surviving a decision where he chooses truth over self-protection |

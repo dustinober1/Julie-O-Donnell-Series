@@ -1,5 +1,15 @@
 # 15. OPEN PLOT THREADS AND PAYOFF MATRIX
 
+<!-- CH19_ACCEPTED_STATE_START -->
+## Chapter 19 accepted thread delta
+
+**Advanced/paid:** named federal receiver; Washington–field reconnection; no-fire consequence reaching Julie; Hartwell exact serial; office-to-Hartwell institutional custody chain; Chen’s exact preservation categories; preservation/recovery demand for `SSO-NS-004`.
+
+**Still open:** who authorized the signer’s departure; current physical custodian/location; office custody log and presenter/receiver identities; WSS-4 local-audit production and plaintext; Sterling’s personal role; Vance’s upstream direction/personal keystrokes; Tariq’s physical role; alternate deployment actor; remote-reconstruction author; public correction; legal and medical outcomes.
+
+**No-retcon rule:** office registration, physical custody, knowledge, and command remain separate proof steps.
+<!-- CH19_ACCEPTED_STATE_END -->
+
 | Thread | First appearance | Most recent development | Current status / reader knowledge | Julie’s knowledge | Unknown / likely payoff range | Risk if ignored |
 |---|---|---|---|---|---|---|
 | Who held SSO-NS-004 at WSS-4? | Ch. 10 metadata; explicit Ch. 12 | Chapter 13 preserves WSS-4 uncertainty while advancing the Hartwell carrier stream | Registered to Sterling’s office; WSS-4 holder unseen | Same | Address through the Hartwell custody chain; do not invent retroactive certainty | Evidence overclaim |

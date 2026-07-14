@@ -1,5 +1,17 @@
 # 4. SOURCE-OF-TRUTH CANON LOCKS
 
+<!-- CH19_ACCEPTED_STATE_START -->
+## Chapter 19 canon locks
+
+1. Chapter 19 is accepted canon at 5,393 words; reviewed blob `1c7cc22fc7c480cb247efa1f6a2c0d0b1e1b1baf`.
+2. Alvarez/DCIS is the named federal receiver; MPD remains physical custodian of all seven separate packages.
+3. `ARJ-K17-ACK-01` is a bounded reference; Indian originals remain at Forward Post Arjun.
+4. Hartwell retains original `HWA-LCA-1187`; `HWA-CD-187463-01` is a certified derivative.
+5. `SSO-NS-004` is the challenged signer and moved through an office-support-to-Hartwell custody chain; current signer custody is unknown.
+6. Registered authority is not physical possession; possession is not knowledge; knowledge is not command.
+7. Sterling’s personal hand, Tariq’s personal operation, Vance’s personal keystrokes, WSS plaintext, remote-reconstruction authorship, guilt, exoneration, and public vindication remain unproved.
+<!-- CH19_ACCEPTED_STATE_END -->
+
 1. **The accepted Prologue and Chapters 1–13 are the highest authority.**
 
 2. **The current accepted endpoint is 07:46:00 EDT / 17:16:00 IST in a public parking garage overlooking Hartwell.**
@@ -256,12 +268,12 @@ No final federal receiver or technical examiner exists. Hartwell presenter/exact
 - The board lacks the original attributed physical signing event while later gate and reconciliation events remain authenticated.
 - No alternative identity path, human operator, final receiver, innocence, guilt, immunity, admissibility, Hartwell result, WSS plaintext, K-17 result, Phase B result, field truth, or public vindication is established.
 
-## Accepted Chapter 18 canon lock — 2026-07-14
+## Historical Chapter 18 canon lock — superseded by Chapter 19 acceptance
 
 - Chapter 18 — **The Local Record** — is accepted unchanged at **4,478 words** at `books/book-01/manuscript/chapters/chapter-18.md`.
 - Reviewed/promoted blob: `6f5873d6e975ec74646af152aad22ea84545fc01`.
-- Accepted total: **97,976 words**.
-- Accepted endpoint: **10:01:12 EDT / 19:31:12 IST** at Forward Post Arjun.
+- This was the controlling endpoint before Chapter 19 acceptance.
+- Historical endpoint: **10:01:12 EDT / 19:31:12 IST** at Forward Post Arjun.
 - `ARJ-K17-018` is the Indian local custody umbrella; `ARJ-K17-001`, `ARJ-K17-002`, and `ARJ-K17-003` remain separate and resealed under `ARJ-SL-20471`, `ARJ-SL-20473`, and `ARJ-SL-20472` respectively.
 - `K17-AC-44719`, `K17-FS-1176`, `IRR-2041`, and `ARJ-K17-ACK-01` retain their accepted Chapter 18 meanings and proof limits.
 - K-17 remained physically intact at inspection; Security Line One passed; `K17-PHASE-B` reached the controller and requested local source-record reconstruction/maintenance commit; final local authentication failed; no local write executed; the original journal survived.
@@ -269,4 +281,4 @@ No final federal receiver or technical examiner exists. Hartwell presenter/exact
 - Registered Tariq authority does not prove Tariq's physical presence, possession, keystrokes, or personal command.
 - The outbound acknowledgment does not transfer the original, disclose unrestricted sensor geography, establish admissibility, or automatically give field merits to Julie, Marcus, Elias, Grant, Hackett, MPD, or any named Washington recipient.
 - MPD custody, Washington package state, and the trio's injuries/medical separation remain unchanged offstage.
-- No Chapter 19 prose or mission lock exists. The next gate is a dedicated Chapter 19 mission lock only.
+- This endpoint and production gate were superseded by the accepted Chapter 19 canon lock recorded at the top of this document.

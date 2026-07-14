@@ -1,5 +1,19 @@
 # SERIES RECURRING-CHARACTER LEDGER
 
+<!-- CH19_ACCEPTED_STATE_START -->
+## Chapter 19 accepted recurring-character delta
+
+- **Julie O’Donnell:** detained analytic/moral leader; protects proof limits even when they weaken her accusation; right wrist remains materially unusable; public reputation remains hostile.
+- **Leila Grant:** independent DCIS examiner; signs the Hartwell finding; professional respect for Julie increases without becoming advocacy.
+- **Miriam Alvarez:** named federal receiver for incident `187463`; accepts institutional exposure and scope responsibility.
+- **William Hackett:** preservation sponsor/supporting authority; remains bounded and correctable.
+- **Sarah Chen:** preserves exact record categories and force/directive conflicts; not a covert ally.
+- **Gabriel Ortiz / Hannah Park:** maintain MPD physical custody and witness/camera continuity.
+- **Marcus Reed:** offstage in guarded medical care; prior custody discipline remains materially useful.
+- **Elias Thorne:** offstage in separate guarded medical custody; authenticated voluntary record remains evidence, not a new action.
+- **Senator Sterling:** public antagonist pressure intensifies; office device is implicated institutionally, but personal possession, knowledge, and command remain unproved.
+<!-- CH19_ACCEPTED_STATE_END -->
+
 ## Status
 
 **Approved cross-book production control.** Accepted prose always controls. Future-book functions are planning labels, not promises of survival, alliance, or availability.
