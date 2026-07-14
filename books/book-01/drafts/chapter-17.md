@@ -1,8 +1,8 @@
 # Chapter 17 - The First Examination
 
-Secure MPD Evidence Intake  
-Washington, D.C.  
-08:15:52 Eastern Daylight Time  
+Secure MPD Evidence Intake
+Washington, D.C.
+08:15:52 Eastern Daylight Time
 17:45:52 Indian Standard Time
 
 “The question is smaller than the claim.”
@@ -245,8 +245,8 @@ Grant removed a sealed clean boot image. She photographed its label, broke the t
 
 The write blocker completed its internal self-test.
 
-READ-ONLY PATH: ENFORCED  
-SIGNING INTERFACE: DISABLED  
+READ-ONLY PATH: ENFORCED
+SIGNING INTERFACE: DISABLED
 NETWORK SERVICES: ABSENT
 
 Grant photographed the state.
@@ -285,8 +285,8 @@ The number matched.
 
 At 08:39:00, Ortiz placed MPD-901446 on the steel evidence surface.
 
-Secure MPD Digital Evidence Examination Room  
-08:39:00 Eastern Daylight Time  
+Secure MPD Digital Evidence Examination Room
+08:39:00 Eastern Daylight Time
 18:09:00 Indian Standard Time
 
 Leila Grant had learned to distrust people who arrived with perfectly shaped questions.
@@ -327,8 +327,8 @@ Then she seated the board.
 
 The reader detected power at the passive evidence interface. No authentication prompt appeared.
 
-DECLARED DEVICE MODE: EVIDENCE READ  
-PRIVATE-KEY OPERATIONS: UNAVAILABLE  
+DECLARED DEVICE MODE: EVIDENCE READ
+PRIVATE-KEY OPERATIONS: UNAVAILABLE
 MONOTONIC COUNTER: QUERY ONLY
 
 Grant stopped anyway.
@@ -403,9 +403,9 @@ She disconnected the board.
 
 The reader’s final screen showed:
 
-SOURCE DEVICE: DISCONNECTED  
-WRITE ATTEMPTS: 0  
-PRIVATE-KEY OPERATIONS: 0  
+SOURCE DEVICE: DISCONNECTED
+WRITE ATTEMPTS: 0
+PRIVATE-KEY OPERATIONS: 0
 MONOTONIC TRANSITIONS CREATED: 0
 
 Grant photographed it and had Park read the state into the witness record.
@@ -424,8 +424,8 @@ Ortiz’s expression tightened. “Admission by who?”
 
 She had corrected the first overclaim before leaving the room.
 
-Secure MPD Evidence Intake  
-08:56:30 Eastern Daylight Time  
+Secure MPD Evidence Intake
+08:56:30 Eastern Daylight Time
 18:26:30 Indian Standard Time
 
 Julie knew the result from Grant’s first sentence.
