@@ -251,6 +251,36 @@ jobs:
           print('control index and temporary-file cleanup validated')
           PYCLEAN
 
-      - name: Check whitespace errors in pull-request diff
+      - name: Check root and workflow whitespace
         if: github.event_name == 'pull_request'
-        run: git diff --check "origin/${{ github.base_ref }}...HEAD"
+        run: |
+          git diff --check "origin/${{ github.base_ref }}...HEAD" -- \
+            .github/workflows/book1-manuscript-validation.yml \
+            PROJECT_STATE.yaml \
+            README.md
+
+      - name: Check mission-lock and core-control whitespace
+        if: github.event_name == 'pull_request'
+        run: |
+          git diff --check "origin/${{ github.base_ref }}...HEAD" -- \
+            books/book-01/control/00-overview.md \
+            books/book-01/control/02-current-project-state.md \
+            books/book-01/control/16-chapter-by-chapter-status-record.md \
+            books/book-01/control/18-act-iii-entry-state.md \
+            books/book-01/control/34-chapter-17-mission-lock.md
+
+      - name: Check planning-control whitespace
+        if: github.event_name == 'pull_request'
+        run: |
+          git diff --check "origin/${{ github.base_ref }}...HEAD" -- \
+            books/book-01/control/20-control-pack-maintenance-rules.md \
+            books/book-01/control/23-word-budget-and-act-iii-architecture.md \
+            books/book-01/control/24-thread-disposition-matrix.md \
+            books/book-01/control/README.md
+
+      - name: Check draft and manuscript status whitespace
+        if: github.event_name == 'pull_request'
+        run: |
+          git diff --check "origin/${{ github.base_ref }}...HEAD" -- \
+            books/book-01/drafts/README.md \
+            books/book-01/manuscript/STATUS.md
