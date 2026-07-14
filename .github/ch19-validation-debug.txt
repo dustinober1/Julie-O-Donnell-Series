@@ -7,9 +7,4 @@ books/book-01/control/20-control-pack-maintenance-rules.md:15: 8. A draft remain
 books/book-01/control/20-control-pack-maintenance-rules.md:24: 10. Later chapters may not use an unaccepted endpoint as canon.
 books/book-01/control/20-control-pack-maintenance-rules.md:54: 31. Plans and drafts for unwritten or unaccepted chapters remain non-canon.
 books/book-01/control/24-thread-disposition-matrix.md:5: **Approved production control.** Accepted prose controls actual thread state. Chapter-specific planning and future draft results remain non-canon until a formal acceptance review and synchronized promotion.
-books/book-01/control/README.md:15: This section is the current accepted state and supersedes any older Chapter 19 draft-only status language retained below for historical context.
-books/book-01/control/README.md:20: Version 4.3 preserves Chapter 18 — **The Local Record** — as accepted canon and records the single non-canon Chapter 19 first draft. Accepted canon remains the Prologue and Chapters 1–18 at **97,976 words**, ending at **10:01:12 EDT / 19:31:12 IST**.
-books/book-01/control/README.md:74: - **Accepted manifest:** Prologue and Chapters 1–18
-books/book-01/control/README.md:75: - **Accepted total:** 97,976 words
-books/book-01/control/README.md:81: Perform the formal Chapter 19 acceptance review and synchronized promotion pass. Keep the draft non-canon unless an explicit verdict accepts it. Do not begin Chapter 20 planning and do not create a complete remainder-of-Act-III outline.
 books/book-01/drafts/README.md:6: - Do not recreate a Chapter 19 draft copy or alternate version.
