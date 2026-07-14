@@ -19,7 +19,7 @@ Act III contains six accepted chapters:
 - **Washington authority:** MPD retains physical custody of all seven packages under incident `187463`; no final federal receiver exists in accepted canon
 - **Indian/local authority:** Forward Post Arjun retains `ARJ-K17-001`, `ARJ-K17-002`, and `ARJ-K17-003` under separate reseals; `ARJ-K17-ACK-01` is accepted without transfer of the original
 - **Accepted prose after this point:** none
-- **Active chapter draft:** none
+- **Active chapter draft:** `../drafts/chapter-19.md` — non-canon
 
 ## Chapter 18 accepted field result
 
@@ -37,25 +37,27 @@ Act III contains six accepted chapters:
 ## Knowledge and proof limits
 
 - Sharma and Qureshi know the bounded local result.
-- The result enters the existing preservation route only as category, custody, caveat, and bounded event status.
-- Julie, Marcus, Elias, Grant, Hackett, and MPD do not automatically receive field merits.
+- The result enters the preservation route only as category, custody, caveat, and bounded event status at the accepted endpoint.
+- Julie, Marcus, Elias, Grant, Hackett, and MPD do not automatically receive field merits in accepted canon.
 - Field-team identities, Tariq's physical presence or keystrokes, reconstruction authorship, Sterling/Vance personal acts, WSS plaintext, Hartwell presenter, alternative original-deployment identity path, guilt, innocence, immunity, admissibility, final federal custody, and public vindication remain unresolved in accepted canon.
 
 ## Physical and custody continuity
 
-Julie, Marcus, and Elias remain offstage in the exact separate custody/medical states established by Chapters 16–17. No Washington package is opened, moved, altered, or transferred in Chapter 18. No medical recovery or direct communication is created.
+Julie, Marcus, and Elias remain in the exact separate custody and medical states established by Chapters 16–17 at the accepted endpoint. No Washington package is opened, moved, altered, or transferred by accepted Chapter 18.
 
-## Approved Chapter 19 transition — planning only
+## Chapter 19 first-draft transition — non-canon
 
-`38-chapter-19-mission-lock.md` is the controlling plan for the next draft. It does not change canon.
+`38-chapter-19-mission-lock.md` controls the single draft at `../drafts/chapter-19.md`.
 
-- **Dominant mission:** Washington–field reconnection through one named federal receiving act, culminating in Hartwell's exact `SSO-NS-004` serial and institutional physical-custody payoff.
-- **Planned opening:** 10:01:12 EDT / 19:31:12 IST at secure MPD evidence intake.
-- **Planned endpoint:** 10:44:12 EDT / 20:14:12 IST at secure MPD evidence intake.
-- **Planned POV:** Julie primary with one bounded Grant Hartwell cutaway.
-- **Planned evidence effect:** no MPD package opened, connected, moved, combined, or transferred; Hartwell and Indian originals remain with their existing custodians.
-- **Planned proof ceiling:** office/device custody may be established; personal possession, keystrokes, command, guilt, and admissibility remain unproved.
-- **Planned word range:** 5,200–5,900 words.
+- **Working title:** The Name on the Record
+- **Exact words:** 5,393
+- **Opening:** 10:01:12 EDT / 19:31:12 IST at secure MPD evidence intake
+- **Endpoint:** 10:44:12 EDT / 20:14:12 IST at secure MPD evidence intake
+- **POV:** Julie primary with one bounded Grant Hartwell cutaway
+- **Draft advancement:** Alvarez/DCIS receives responsibility; the bounded K-17/no-fire result reaches Julie; Hartwell establishes `SSO-NS-004` and the institutional office-to-Hartwell custody chain
+- **Evidence effect:** no MPD package opened, connected, moved, combined, or transferred; Hartwell and Indian originals remain with existing custodians
+- **Proof ceiling:** Sterling's personal possession, operation, command, guilt, and admissibility remain unproved; the signer's current custodian remains unknown
+- **Canon effect:** none until formal acceptance and promotion
 
 ## Remaining Book 1 obligations
 
@@ -76,4 +78,4 @@ This is an obligation inventory, not a complete chapter-by-chapter remainder out
 
 ## Current production gate
 
-Draft and integrate the complete first version of Chapter 19 under `38-chapter-19-mission-lock.md`. Keep the draft non-canon until formal acceptance. Do not begin Chapter 20 planning and do not create a complete remainder-of-Act-III outline.
+Perform the formal Chapter 19 acceptance review and synchronized promotion pass. Do not use the draft endpoint as canon, begin Chapter 20 planning, or create a complete remainder-of-Act-III outline.
