@@ -1,12 +1,19 @@
 # 0. BOOK 1 CONTROL PACK OVERVIEW
 
-**Control-pack version:** 3.6  
-**Accepted prose:** Prologue and Chapters 1–16  
-**Accepted length:** 87,610 words  
-**Accepted endpoint:** 08:15:52 EDT / 17:45:52 IST, secure MPD evidence intake under Hackett's named preservation hold  
-**Chapter 16:** Accepted as **The Hold Order**  
-**Chapter 17 mission lock:** Approved as **The First Examination**  
-**Chapter 17 and later prose:** Not drafted  
+**Control-pack version:** 3.6
+
+**Accepted prose:** Prologue and Chapters 1–16
+
+**Accepted length:** 87,610 words
+
+**Accepted endpoint:** 08:15:52 EDT / 17:45:52 IST, secure MPD evidence intake under Hackett's named preservation hold
+
+**Chapter 16:** Accepted as **The Hold Order**
+
+**Chapter 17 mission lock:** Approved as **The First Examination**
+
+**Chapter 17 and later prose:** Not drafted
+
 **Next production gate:** Draft exactly one Chapter 17 first version from `34-chapter-17-mission-lock.md`
 
 ## Authority
