@@ -84,3 +84,12 @@
 - Apex receives no observer, equipment, parser, credential, custody, or veto role.
 - No final federal receiver exists at the endpoint.
 - A later preservation request for identity-mirroring, executive-authority, tool-validation, and parser records is permitted; no responsive record arrives in Chapter 17.
+
+## Accepted Chapter 18 institutional update — 2026-07-14
+
+- **Forward Post Arjun:** controls `ARJ-K17-018`, the local original, patrol record, derivative, examination, reseals, and bounded acknowledgment.
+- **Indian medical authority:** ends Pal's questioning and removes him; operational urgency does not override the medical stop.
+- **Northern Command:** applies pressure and receives only the bounded route result available to it; it is not shown universally corrupt or in control of the original.
+- **Allied preservation route:** accepts `ARJ-K17-ACK-01` without transferring the K-17 original or granting unrestricted field merits to Washington.
+- **MPD/DCIS/Hackett:** retain their Chapter 17 roles and receive no automatic custody or technical expansion from the Chapter 18 acknowledgment.
+- **Tariq / Forward Liaison Cell:** registered field authority is evidenced at the controller level only; parent organization, physical operator, and personal command remain unproved.

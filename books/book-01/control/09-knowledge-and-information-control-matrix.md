@@ -125,3 +125,13 @@ The chapter establishes no Hartwell presenter, exact challenged serial, compact 
 - Marcus and Elias do not receive the result directly in Chapter 17.
 - The public does not learn the finding.
 - No character gains the alternative identity path, human operator, Vance keystrokes, Sterling possession, Tariq presence, complete Payload 88 history, WSS plaintext, K-17 result, Phase B result, or field truth.
+
+## Accepted Chapter 18 knowledge update — 2026-07-14
+
+- **Reader:** knows the bounded K-17 physical and controller result, zero-write failure, surviving journal, and omission from the superseding product.
+- **Sharma and Qureshi:** know the accepted local record and its limitations.
+- **Rao/Sethi/Pal:** know only the patrol, custody, testimony, and physical facts they directly witnessed; they do not gain Washington-side knowledge.
+- **Northern Command / allied route:** receives only bounded acknowledgment fields, custody/control status, caveats, and restricted event result according to channel permissions.
+- **Julie, Marcus, Elias, Grant, Hackett, Ortiz, Park, MPD, and the public:** receive no automatic Chapter 18 merits knowledge.
+- **Permanent firewall:** `ARJ-K17-ACK-01` establishes route acceptance, not direct Julie–Sharma contact, unrestricted sensor disclosure, final admissibility, or universal American knowledge.
+- **Tariq limitation:** command registration and accepted controller state do not establish personal physical operation.

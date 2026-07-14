@@ -29,6 +29,7 @@ The accepted-manuscript inventory in `../ACCEPTED_MANUSCRIPT.yaml` controls acce
 | 15 | The Split Record | 5,993 | 07:49:32 EDT / 17:19:32 IST | 07:56:40 EDT / 17:26:40 IST | Accepted |
 | 16 | The Hold Order | 6,024 | 07:56:40 EDT / 17:26:40 IST | 08:15:52 EDT / 17:45:52 IST | Accepted |
 | 17 | The First Examination | 5,888 | 08:15:52 EDT / 17:45:52 IST | 09:12:52 EDT / 18:42:52 IST | Accepted |
+| 18 | The Local Record | 4,478 | 09:12:52 EDT / 18:42:52 IST | 10:01:12 EDT / 19:31:12 IST | Accepted |
 
 Protected reviewed blobs:
 
@@ -36,24 +37,21 @@ Protected reviewed blobs:
 - Chapter 15: `b8e7e2ae573a6c25ea096121c75acee867f3fad2`
 - Chapter 16: `dd5249f4b510a9da9ad19ab2902a95ce1e62a1d8`
 - Chapter 17: `1c4022ebb8d27d8d448f98bcf74fbf09e6e560c1`
+- Chapter 18: `6f5873d6e975ec74646af152aad22ea84545fc01`
 
-Accepted total through Chapter 17: **93,498 words**.
+Accepted total through Chapter 18: **97,976 words**.
 
-## Chapter 18 — The Local Record
+## Chapter 18 acceptance
 
-- **Status:** First draft exists; unaccepted; non-canon
-- **Mission lock:** `36-chapter-18-mission-lock.md`
-- **Draft path:** `../drafts/chapter-18.md`
-- **Exact draft words:** 4,478
-- **Accepted path:** None
-- **Accepted-manuscript effect:** None
-- **Opening:** 09:12:52 EDT / 18:42:52 IST
-- **Endpoint:** 10:01:12 EDT / 19:31:12 IST
+- **Verdict:** ACCEPT
+- **Acceptance review:** `37-chapter-18-acceptance-review.md`
+- **Accepted path:** `../manuscript/chapters/chapter-18.md`
+- **Prose revisions during review:** none
 - **POV:** Major Ananya Sharma only
 - **Dominant function:** resolve the immediate K-17 and Phase B field outcome through the independently controlled local relay record
-- **Draft result:** original and derivative remain separate; Security Line One passed; the Tariq-registered field authority reached the local controller; Phase B requested local source-record reconstruction/maintenance commit; final local authentication failed; no local write occurred; the superseding product omitted those surviving events
-- **Required limit preserved:** no human operator, WSS plaintext, Hartwell presenter, public fracture, final receiver, Washington field knowledge, guilt, innocence, or final legal status
-- **Next gate:** formal Chapter 18 acceptance review
+- **Bounded result:** Security Line One passed; the Tariq-registered authority reached the controller; Phase B requested local source-record reconstruction/maintenance commit; final local authentication failed; local writes remained zero; the original journal survived; the later superseding product omitted the events
+- **Custody result:** original, patrol record, derivative, and acknowledgment remain distinct; no Washington package or MPD custody state changed
+- **Proof ceiling:** no human operator, personal presence/keystrokes, WSS plaintext, Hartwell presenter, reconstruction author, upstream command, guilt, innocence, admissibility, immunity, final federal custody, or public vindication
 
 ## Chapter 19 and later
 
@@ -61,8 +59,6 @@ Accepted total through Chapter 17: **93,498 words**.
 - **Planning:** High-level obligation inventory only
 - **Rule:** No complete chapter-by-chapter remainder-of-Act-III outline has been created
 
-## Current accepted state — 2026-07-14
+## Current gate
 
-The accepted manuscript remains the Prologue and Chapters 1–17 at **93,498 words**, ending at **09:12:52 EDT / 18:42:52 IST**. Chapter 18 exists only as an unaccepted 4,478-word draft at `../drafts/chapter-18.md`.
-
-Conduct the formal Chapter 18 acceptance review. Do not draft Chapter 19.
+Create and approve a dedicated Chapter 19 mission lock. Do not draft Chapter 19 before approval.

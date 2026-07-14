@@ -58,3 +58,11 @@ Sterling's armed-insider account remains dominant. Public reporting treats deten
 
 ### Actual nonpublic record
 Grant's signed preliminary observation independently establishes that the examined physical board lacks the original attributed physical signing event while later gate and reconciliation events remain authenticated. The record is bounded, nonpublic, and does not establish innocence, guilt, human responsibility, or the wider conspiracy.
+
+## Accepted Chapter 18 public-versus-actual update — 2026-07-14
+
+### Public account
+Sterling's hostile armed-insider account remains dominant and unchanged. No public source receives the K-17 local record, no official correction is broadcast, and no public vindication occurs.
+
+### Actual nonpublic record
+The independently controlled Indian local record establishes that K-17 remained intact at inspection, Security Line One passed, Phase B reached the controller, final local authentication failed, local writes remained zero, and the superseding allied product omitted those events. The bounded acknowledgment preserves route and custody without making the result public or granting it automatically to Washington.

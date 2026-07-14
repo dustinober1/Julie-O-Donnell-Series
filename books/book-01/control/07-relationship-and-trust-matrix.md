@@ -70,3 +70,11 @@
 - **Julie ↔ Hackett:** Hackett's preservation sponsorship produces a bounded institutional result, but he remains neither receiver, adjudicator, immunity authority, nor uncomplicated ally.
 - **Julie ↔ MPD / Ortiz / Park:** procedural trust grows through custody discipline rather than personal allegiance.
 - **Grant ↔ Apex:** no trust relationship; Apex claims are logged but receive no equipment, observer, custody, or veto role.
+
+## Accepted Chapter 18 relationship update — 2026-07-14
+
+- **Sharma ↔ Qureshi:** professional trust strengthens through exact custody, read-only verification, and willingness to preserve a bounded result without claiming more.
+- **Sharma ↔ Sethi/Rao/Pal:** command trust is procedural and humane; Sharma tests testimony against photographs and records, honors the patrol's hard stop, and allows medical authority to end questioning.
+- **Sharma ↔ Northern Command:** tension increases because her local record contradicts the completeness of the superseding allied product; no open rupture or disobedience beyond bounded preservation is created.
+- **Julie ↔ Sharma:** remains record-to-record only. No direct relationship, contact, mutual identity knowledge, or personal alliance is created.
+- **Washington trio ↔ field record:** no relationship movement occurs because the acknowledgment does not disclose merits to them.

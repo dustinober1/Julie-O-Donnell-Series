@@ -1037,3 +1037,34 @@ No package is opened, connected, imaged, mounted, decrypted, combined, or altere
 - `MPD-901446` returns to the same recorded position in the common chest.
 - DCIS log medium `DCIS-LM-3106` contains examiner-generated logs/screenshots only and is a derivative attachment, not a replacement original or separate case.
 - No package ownership transfer or final federal receiving act occurs.
+
+## Accepted Chapter 18 K-17 custody update — 2026-07-14
+
+### Indian umbrella and records
+
+| Reference | Object / function | Accepted custody state |
+|---|---|---|
+| `ARJ-K17-018` | Umbrella incident/custody reference | Forward Post Arjun local control |
+| `ARJ-K17-001` | Original K-17 event journal on `K17-AC-44719` | Sethi transfers to Qureshi; Rao and Sharma witness; resealed `ARJ-SL-20471` |
+| `ARJ-K17-002` | Patrol report and photographs | Separately sealed `ARJ-SL-20473` |
+| `ARJ-K17-003` | Verified read-only derivative | Separately sealed `ARJ-SL-20472` |
+| `ARJ-K17-ACK-01` | Bounded outbound acknowledgment | Accepted by route; does not transfer original or merits |
+| `K17-FS-1176` | Field seal from the local cartridge | Preserved in the original evidence pocket |
+| `IRR-2041` | Isolated read-only reader | Examination tool only; zero writes; no live path |
+
+The original and derivative remain distinct. Transferor, recipient, witnesses, serial, seal state, time basis, isolated reader, read-only mode, event order, zero-write result, and resealing are shown. No replacement medium is connected to K-17. No Washington package is opened, moved, combined, altered, or transferred.
+
+### What the accepted local record proves
+
+- K-17 remained physically intact at inspection.
+- Security Line One recorded an accepted pass.
+- `K17-PHASE-B` reached the controller under registered Tariq/Forward Liaison Cell authority.
+- Requested action class: local source-record reconstruction / maintenance commit.
+- Final local authentication and commit did not complete.
+- Local source-record writes remained zero.
+- The original journal survived.
+- The superseding allied product omitted the local events.
+
+### What it does not prove
+
+Physical field-team identities; Tariq's presence, possession, keystrokes, or personal command; reconstruction authorship or upstream order; WSS/Hartwell facts; guilt, innocence, immunity, admissibility, final federal custody, or public vindication.

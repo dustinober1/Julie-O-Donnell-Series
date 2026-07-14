@@ -250,3 +250,11 @@ Sterling's public utility from the hostile-insider narrative remains intact. Har
 ## Chapter 17 non-expansion note — 2026-07-14
 
 Chapter 17 adds no accepted antagonist act, motive, command, physical possession, or personal keystroke. The independent board mismatch strengthens preservation need but does not identify the alternative actor or expand the conspiracy model.
+
+## Accepted Chapter 18 antagonist-model update — 2026-07-14
+
+- The Tariq-registered authority reached K-17's controller and Security Line One passed.
+- The field operation requested a local source-record reconstruction/maintenance commit but did not complete final local authentication and produced zero local writes.
+- This advances the command-certificate link and immediate field outcome without proving Tariq's physical presence, keystrokes, field-team identity, or personal command.
+- The superseding product's omission of the failed local events strengthens the inference of concealment but does not identify the reconstruction author, upstream command, or exact coordination among Tariq, Vance, Sterling, and Northbridge.
+- No new Vance, Sterling, Chen, Mercer, Bell, or Price act is created in Chapter 18.

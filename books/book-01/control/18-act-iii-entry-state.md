@@ -2,113 +2,52 @@
 
 ## Controlling accepted Act III state
 
-Act III contains five accepted chapters:
+Act III contains six accepted chapters:
 
 - Chapter 13 — **The Carrier Stream**
 - Chapter 14 — **The Witness Line**
 - Chapter 15 — **The Split Record**
 - Chapter 16 — **The Hold Order**
 - Chapter 17 — **The First Examination**
-
-Chapter 18 — **The Local Record** — has one complete first draft at `../drafts/chapter-18.md`. The draft is unaccepted and non-canon.
+- Chapter 18 — **The Local Record**
 
 ## Accepted endpoint
 
-- **Accepted manuscript total:** 93,498 words
-- **Time:** 09:12:52 EDT / 18:42:52 IST
-- **Location:** secure MPD evidence intake after the first independent single-package examination
-- **Authority:** MPD retains physical custody of all seven packages under incident `187463`
-- **Independent examiner:** Special Agent Leila Grant, DCIS
-- **Federal receiver:** none
+- **Accepted manuscript total:** 97,976 words
+- **Time:** 10:01:12 EDT / 19:31:12 IST
+- **Location:** Forward Post Arjun after the bounded K-17 local-record acknowledgment
+- **Washington authority:** MPD retains physical custody of all seven packages under incident `187463`; no final federal receiver exists
+- **Indian/local authority:** Forward Post Arjun retains `ARJ-K17-001`, `ARJ-K17-002`, and `ARJ-K17-003` under separate reseals; `ARJ-K17-ACK-01` is accepted without transfer of the original
 - **Accepted prose after this point:** none
-- **Active chapter draft:** `../drafts/chapter-18.md`
+- **Active chapter draft:** none
 
-## Accepted physical state
+## Chapter 18 accepted field result
 
-### Julie O'Donnell
+- K-17 remained physically intact at patrol inspection.
+- The patrol did not cross the inner security boundary and did not pursue where hostile occupancy, explosive/tamper hazard, or a Line-of-Control crossing could not be excluded.
+- Security Line One recorded an accepted pass.
+- `K17-PHASE-B` reached the local controller under authority registered to `TARIQ, MAJOR / FORWARD LIAISON CELL`.
+- Phase B requested local source-record reconstruction through a maintenance commit.
+- Final local confirmation did not arrive; the commit expired and did not execute.
+- Local source-record writes remained zero.
+- Original `K17-AC-44719` and field seal `K17-FS-1176` survived.
+- The later superseding allied product omitted the local events.
+- The failed local commit is distinct from the later successful remote reconstruction.
 
-- Remains restrained at secure MPD evidence intake.
-- Right forearm remains padded, braced, swollen, and materially unusable.
-- Left-cuff transfer to the fixed front harness is recorded and gives no tactical freedom.
-- Knows Grant's bounded signed result but not the unresolved alternative identity path or wider field truth.
+## Knowledge and proof limits
 
-### Marcus Reed
+- Sharma and Qureshi know the bounded local result.
+- The result enters the existing preservation route only as category, custody, caveat, and bounded event status.
+- Julie, Marcus, Elias, Grant, Hackett, and MPD do not automatically receive field merits.
+- Field-team identities, Tariq's physical presence or keystrokes, reconstruction authorship, Sterling/Vance personal acts, WSS plaintext, Hartwell presenter, alternative original-deployment identity path, guilt, innocence, immunity, admissibility, final federal custody, and public vindication remain unresolved.
 
-- Remains in separate guarded medical care.
-- Continues on four liters of oxygen with 92–93 percent saturation.
-- Rib injury, impaired ventilation, scalp wound, thigh injury, damaged boot, dizziness, and exhaustion remain active.
-- His recorded correction and its legal, disciplinary, rank, and relationship consequences remain unresolved.
+## Physical and custody continuity
 
-### Elias Thorne
+Julie, Marcus, and Elias remain offstage in the exact separate custody/medical states established by Chapters 16–17. No Washington package is opened, moved, altered, or transferred in Chapter 18. No medical recovery or direct communication is created.
 
-- Remains injured and separated in guarded medical custody.
-- Hip injury, dizziness, exhaustion, tremor, and bandaged right index remain active.
-- The board examination weakens the original physical-token attribution while preserving his later voluntary authenticated acts and possible legal exposure.
+## Remaining Book 1 obligations
 
-## Accepted evidence and custody
-
-MPD incident `187463` retains seven separately sealed packages:
-
-1. `MPD-901441` — aluminum telemetry case `IC-77194`
-2. `MPD-901442` — recovery-record cartridge `RRC-11804`
-3. `MPD-901443` — paper custody log
-4. `MPD-901444` — dead PCF-27 telematics module `PCF-27-TM-4418`
-5. `MPD-901445` — waterproof folder and remaining PCF-27 documents
-6. `MPD-901446` — administrator-token board `EAT-0881147`
-7. `MPD-901447` — dual-partition incident module `FEM-240673`
-
-Chapter 17 changed only the handling state of `MPD-901446`. The other six packages remain separate, sealed, offline, unopened, unconnected, and uncombined. Grant's generated log medium is derivative evidence. No final federal receiving act occurred.
-
-## Independent technical record
-
-Grant's signed preliminary observation establishes only that:
-
-1. the examined board contains no physical private-key signing event, corresponding monotonic transition, or local release record for the original attributed deployment;
-2. later emergency gate-access and provenance-reconciliation events contain internally consistent physical-board history; and
-3. the original attribution cannot be explained as ordinary physical use of this board in the same manner as the later events.
-
-The result does not identify an alternative identity path, workstation, human operator, Vance keystrokes, Sterling possession, Tariq physical presence, complete Payload 88 history, all-seven-package authenticity, guilt, innocence, immunity, admissibility, or public truth.
-
-## Institutional and public state
-
-- Hackett's preservation sponsorship remains bounded.
-- DCIS authority, Hackett's request, and MPD consent remain separate instruments.
-- Apex receives no equipment, credential, parser, observer, custody, or veto role in the examination.
-- Sterling's hostile armed-insider account remains publicly dominant.
-- No leak, press conference, public correction, visible authenticated fracture, or vindication occurs.
-
-## Field and allied state in accepted canon
-
-- The superseding allied product remains controlling in the actionable picture.
-- Counter-battery suspension remains preserved.
-- K-17 physical access remains unconfirmed.
-- Phase B remains undefined and is not shown authorized or completed.
-- Reconstruction authorship, authority, purpose, and truth remain unresolved.
-- Julie still does not know Sharma's identity or the Indian no-fire outcome.
-- The earlier Point Kestrel patrol remains unresolved in accepted prose.
-
-## Chapter 18 first-draft state
-
-- **Mission lock:** `36-chapter-18-mission-lock.md`
-- **Title:** The Local Record
-- **Status:** first draft exists; unaccepted; non-canon
-- **Draft path:** `../drafts/chapter-18.md`
-- **Exact draft words:** 4,478
-- **Opening:** 09:12:52 EDT / 18:42:52 IST
-- **Endpoint:** 10:01:12 EDT / 19:31:12 IST
-- **POV:** Major Ananya Sharma only
-- **Primary umbrella:** `ARJ-K17-018`
-- **Original:** `ARJ-K17-001`
-- **Patrol report and photographs:** `ARJ-K17-002`
-- **Read-only derivative:** `ARJ-K17-003`
-- **Outbound acknowledgment:** `ARJ-K17-ACK-01`
-- **Draft result:** K-17 remains physically intact; Security Line One passed; `K17-PHASE-B` reached the relay; the requested action class was local source-record reconstruction/maintenance commit; final local authentication and commit failed; local writes remained zero; the later superseding product omitted those events
-- **Knowledge rule:** the bounded result enters the existing preservation route but does not automatically reach Julie
-- **Canon effect:** none until formal acceptance and promotion
-
-## Remaining Book 1 obligations after the Chapter 18 draft
-
-The obligation inventory remains high-level rather than a chapter-by-chapter outline:
+High-level obligations remain:
 
 - alternative identity path and human responsibility;
 - Hartwell presenter and exact challenged serial;
@@ -119,9 +58,11 @@ The obligation inventory remains high-level rather than a chapter-by-chapter out
 - Bell local-record fate and Price disposition;
 - meaningful Vance and Sterling consequences;
 - authenticated public-narrative fracture;
-- medical, legal, relationship, geopolitical, and future-role aftermath;
+- medical, legal, relationship, geopolitical, and future-role aftermath; and
 - Book 1 climax, stabilization, and bounded series-facing resolution.
+
+This is an obligation inventory, not a complete chapter-by-chapter remainder outline.
 
 ## Current production gate
 
-Conduct the formal Chapter 18 acceptance review against `36-chapter-18-mission-lock.md` and `25-chapter-acceptance-gate.md`. Do not draft Chapter 19 or create a complete remainder-of-Act-III outline.
+Create and approve a dedicated Chapter 19 mission lock from the accepted Chapter 18 endpoint. Do not draft Chapter 19 before approval and do not create a complete remainder-of-Act-III outline.

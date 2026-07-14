@@ -115,3 +115,19 @@ The entries below describe locked planning only. They do not change accepted thr
 - **Constraint:** No Washington package examination, no human-operator finding, no public fracture, and no complete remainder-of-Act-III outline.
 
 No planned Chapter 18 event is canon until accepted prose is promoted.
+
+## Accepted disposition through Chapter 18 — 2026-07-14
+
+| Controlling thread group | State after accepted Chapter 18 | Remaining obligation |
+|---|---|---|
+| Hartwell custody chain | Unchanged and unresolved | Lawful production, testimony, custody record, or equivalent proof |
+| Phase B / K-17 / masking | Immediate local field result substantially advanced: K-17 intact, Security Line One passed, local commit requested but unexecuted, zero writes, superseding omission | Human authorization, wider operation, and accountability |
+| Independent counterrecord | Indian local original/derivative/acknowledgment now survives beside MPD/DCIS/WSS/Hartwell records | Final institutional use, receiver, and visible fracture |
+| Original wound and series mystery | Unchanged in Chapter 18 | Marcus consequence and bounded relationship payoff |
+| Sharma / Indian no-fire | Independent action materially advanced and field result preserved | Join merits to the Book 1 counterrecord without breaking disclosure rules |
+| Public narrative fracture | Not advanced publicly | Authenticated visible contradiction remains required |
+| Elias voluntary role | Unchanged in Chapter 18 | Legal/public recognition without simplification |
+| Chen / Mercer / Bell / Price | No Chapter 18 payoff | Consequential choices and confirmed status |
+| Vance / Sterling | No direct Chapter 18 consequence | Grounded Book 1 consequence and public fracture |
+
+No thread is marked fully resolved merely because the local K-17 attempt failed. No Chapter 19 function is assigned here.

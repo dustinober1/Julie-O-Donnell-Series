@@ -1196,3 +1196,26 @@ This section supersedes earlier “current” location and knowledge fields wher
 - Introduced as a named DCIS examiner under Alvarez's authorization.
 - Skeptical, independent, method-driven, and limited to one package and one question.
 - Recurring-series status is not assumed.
+
+## Accepted Chapter 18 character-state update — 2026-07-14
+
+### Major Ananya Sharma
+- Most recent accepted appearance advances to Chapter 18 at Forward Post Arjun.
+- Remains physically uninjured but fatigued and under Northern Command pressure.
+- Personally controls the local examination sequence, refuses overclaim, preserves the original/derivative distinction, ends questioning at the medical stop, and sends only a bounded acknowledgment.
+- Now knows K-17's physical inspection state, the accepted Security Line One event, the Phase B requested action class, the absent final local confirmation, the zero-write result, and the superseding product's omission.
+- Still does not know Julie's identity, the seven MPD package details, WSS plaintext, Hartwell presenter, Washington human responsibility, or reconstruction authorship.
+
+### Lieutenant Sameer Qureshi
+- Most recent accepted appearance advances to Chapter 18.
+- Serves as named recipient/custody officer for `ARJ-K17-001` and controls the isolated read-only examination under Sharma's direction.
+- Gains the same bounded local technical knowledge; no Washington knowledge is added.
+
+### Captain Rao / Naib Subedar Vikram Sethi / Lance Naik Suresh Pal
+- Book 1 field witnesses introduced or advanced for the Point Kestrel/K-17 return.
+- Rao witnesses custody and patrol reporting; Sethi transfers the original; Pal provides bounded testimony until medical personnel remove him.
+- No recurring-series tier or future-book role is assigned by Chapter 18.
+
+### Julie, Marcus, Elias, Grant, Hackett, Ortiz, and Park
+- Remain offstage with no location, injury, custody, relationship, or knowledge change.
+- No Chapter 18 field result reaches them automatically.

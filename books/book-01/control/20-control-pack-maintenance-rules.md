@@ -97,3 +97,18 @@
 ## Current maintenance gate
 
 Conduct the formal Chapter 18 acceptance review. Do not change the accepted manifest, accepted word count, accepted endpoint, or accepted canon ledgers unless an explicit **ACCEPT** verdict authorizes synchronized promotion. Do not draft Chapter 19.
+
+## Accepted maintenance record through Chapter 18 — 2026-07-14
+
+- Chapter 18 — **The Local Record** — accepted unchanged at 4,478 words; reviewed blob `6f5873d6e975ec74646af152aad22ea84545fc01`.
+- Accepted total: **97,976 words**.
+- Accepted endpoint: **10:01:12 EDT / 19:31:12 IST**.
+- Exact reviewed prose moved to `../manuscript/chapters/chapter-18.md`; draft copy removed.
+- Validator now protects Chapters 14–18 by exact blob and word count.
+- K-17 original, patrol record, derivative, seals, and acknowledgment are synchronized across evidence, timeline, knowledge, technology, institutional, character, and thread controls.
+- MPD custody and the trio's medical/knowledge state remain unchanged offstage.
+- No Chapter 19 prose or mission lock exists; no complete remainder-of-Act-III outline exists.
+
+## Current maintenance gate after Chapter 18
+
+Create and approve a dedicated Chapter 19 mission lock before any Chapter 19 prose. Do not create a complete remainder-of-Act-III outline.

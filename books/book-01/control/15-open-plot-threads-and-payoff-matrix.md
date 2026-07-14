@@ -87,3 +87,15 @@
 
 ### Still open
 Final receiver; alternative identity path; human operator; broader package authentication; Hartwell presenter and exact serial; compact black case; WSS plaintext; K-17; Phase B; reconstruction; Sterling/Vance/Tariq personal acts; Chen/Mercer/Bell/Price outcomes; Marcus consequences; legal/medical aftermath; public vindication.
+
+## Accepted Chapter 18 thread update — 2026-07-14
+
+### Advanced / immediate payoff
+- **K-17 physical outcome:** intact at inspection; no confirmed capture; inner boundary remains unresolved.
+- **Phase B local action:** requested local source-record reconstruction/maintenance commit; final local authentication failed; no local write executed.
+- **Masking/reconstruction relationship:** the later superseding product omitted the failed local events, advancing the concealment theory without identifying author or upstream command.
+- **Sharma's independent role:** she creates a durable original/derivative/acknowledgment chain and protects proof limits.
+- **Washington-to-field reconnection:** the bounded route now carries the existence and limited result without direct contact or unrestricted disclosure.
+
+### Still open
+Human field actors; Tariq personal action; Hartwell presenter/exact serial; WSS plaintext; alternative deployment identity path and human actor; reconstruction author/upstream command; final receiver; Bell/Chen/Mercer/Price payoffs; Vance/Sterling consequences; medical/legal/relationship aftermath; and authenticated public narrative fracture.
