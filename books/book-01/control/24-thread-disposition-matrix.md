@@ -215,3 +215,26 @@ No other thread receives a controlling Chapter 16 payoff. The lock does not crea
 - **Sharma allied record:** bounded preservation acknowledgment linked; identity and no-fire contents remain undisclosed to Julie.
 - **Public narrative:** deliberately unresolved and still hostile.
 - **Hartwell, WSS, K-17, Phase B, reconstruction, final receiver/examiner:** deliberately unresolved.
+
+## Approved Chapter 17 mission-lock update — 2026-07-13
+
+The entries below are planning only and create no accepted thread payoff until Chapter 17 is drafted, reviewed, accepted, and promoted.
+
+| Thread or group | Accepted state after Chapter 16 | Chapter 17 locked advancement | Prohibited premature payoff | Later obligation |
+|---|---|---|---|---|
+| Independent counterrecord / technical examination | Seven packages preserved under MPD custody; no named examiner or technical result | Special Agent Leila Grant conducts one read-only examination of `MPD-901446` and signs a bounded preliminary observation | Authenticating all packages, final custody, exoneration, or whole-conspiracy proof | Wider examination, institutional/public use, final custody |
+| Elias voluntary role | Original board and later audit trail preserved; legal status unresolved | Independently reproduce the absence of an original physical-token signing event and presence of later authenticated emergency events | Innocence, immunity, or simple hostage/saboteur resolution | Legal/public recognition and disposition |
+| Hackett | Named preservation sponsor; not receiver or examiner | Organize and shield independent access while remaining skeptical and unable to dictate the result | Unquestioning alliance, technical adjudication, immunity, or seizure by title | Consequence of the finding and later institutional choice |
+| Vance/Apex consequence | Executive authority implicated; personal keystrokes unproved | Strengthen the basis for preserving identity-mirroring and executive-authority records | Naming Vance's hand or upstream direction | Grounded operational/legal consequence |
+| Public narrative fracture | Sterling's story remains dominant | Stage a nonpublic authenticated contradiction capable of later visible use | Public correction or vindication in Chapter 17 | Authenticated visible fracture later in Book 1 |
+| Phase B / K-17 / masking | Still unresolved | No substantive advancement in Chapter 17 | Reconnection by convenient transmission, K-17 confirmation, or Phase B definition | Immediate operational payoff before climax completion |
+| Hartwell / WSS | Presenter, serial, and plaintext unresolved | Preserve as later obligations only | Naming presenter, serial, case contents, or plaintext | Lawful production, testimony, decryption, or alternate proof |
+| Physical and emotional cost | Trio separated, restrained, and medically constrained | Julie leads without handling evidence; Marcus and Elias remain medically separate and inactive | Recovery, reunion, tactical action, or convenient technical help | Treatment, legal aftermath, and bounded end states |
+
+### Locked Chapter 17 thread selection
+
+- **Primary:** Independent technical examination / independent counterrecord.
+- **Secondary:** Hackett's bounded institutional role and Elias's voluntary-role distinction.
+- **Constraint/pressure:** Apex classification/proprietary claims, attempted custody fragmentation, hostile public narrative, and active medical limits.
+
+No Chen, Mercer, Bell, Price, Sharma, Hartwell, WSS, Phase B, K-17, or climax payoff is assigned to Chapter 17. The mission lock does not create Chapter 18 planning or a complete remainder-of-Act-III outline.

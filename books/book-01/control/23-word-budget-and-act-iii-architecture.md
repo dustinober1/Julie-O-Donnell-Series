@@ -42,40 +42,40 @@ The later rows below predate the Chapter 15 lock and remain high-level, provisio
 |---|---|---:|
 | Chapter 13 — accepted | Carrier-stream observation; custody distinction preserved; Hartwell challenge reached | 6,175 actual |
 | Chapter 14 — accepted | Independent MPD/Hartwell witness line; hard abort into scene control | 5,763 actual |
-| Chapter 15 — mission locked | Preserve a linked counterrecord through lawful detention, medical separation, and interim MPD evidence transfer; bounded Sharma reconstruction consequence | 5,700–6,400 |
-| Chapter 16 | Reconnect Washington evidence to Sharma, Tariq, and the live K-17 outcome | 5,500–6,500 |
-| Chapter 17 | Establish independent custody or witness protection while antagonists attack the chain | 5,500–6,500 |
-| Chapter 18 | Institutional fracture: Chen, Mercer, Hackett, Bell, Price, or another existing witness chooses | 5,500–6,500 |
-| Chapter 19 | Operational climax resolving the immediate Phase B/K-17/Hartwell threat | 6,500–8,000 |
-| Chapter 20 | Consequences, official record, Marcus’s public choice, Elias’s status, Julie’s future role | 4,500–6,000 |
-| Optional epilogue | Controlled series hook after Book 1 closure | 1,000–2,500 |
+| Chapter 15 — accepted | Preserve a linked counterrecord through lawful detention, medical separation, and interim MPD evidence transfer; bounded Sharma reconstruction consequence | 5,993 actual |
+| Chapter 16 — accepted | Named preservation sponsorship, Marcus correction, bounded allied acknowledgment | 6,024 actual |
+| Chapter 17 — mission locked | First independent MPD-controlled single-package technical examination | 5,600–6,300 |
+| Chapter 18 and later | Provisional only; no individual lock | Not controlling |
 
 ## Sequence rules
 
-1. Chapters 13 and 14 are accepted and control the 07:49:32 EDT / 17:19:32 IST opening state for Chapter 15.
-2. Chapter 15 is controlled by `30-chapter-15-mission-lock.md` and must be drafted under `../drafts/chapter-15.md`.
-3. The Chapter 15 lock advances Masking Window Two and source reconstruction without defining Phase B or confirming K-17 access.
+1. Chapters 13–16 are accepted and control the 08:15:52 EDT / 17:45:52 IST opening state for Chapter 17.
+2. Chapter 17 is controlled by `34-chapter-17-mission-lock.md` and may be drafted only under `../drafts/chapter-17.md`.
+3. The Chapter 17 lock advances independent technical examination without defining Phase B or confirming K-17 access.
 4. K-17 must return to the foreground before the climax.
 5. Independent evidence custody must develop before the final confrontation; it cannot appear as a convenient last-page solution.
-6. Marcus’s on-record correction must be prepared before the resolution chapter.
+6. Marcus’s on-record correction has occurred; consequences remain required.
 7. Chen and Mercer must remain institutionally grounded; neither becomes a secret ally by convenience.
 8. The climax must resolve the immediate operation, not merely expose another layer.
 9. The resolution chapter must spend enough time on legal, emotional, public, and series consequences.
 10. The epilogue is optional and must obey the anti-cliffhanger rule in the ending contract.
-11. Chapter 16 and later functions remain provisional until individually mission locked.
+11. Chapter 18 and later functions remain provisional until individually mission locked.
 
-## Locked Chapter 15 boundaries
+## Locked Chapter 17 boundaries
 
-- Open exactly at 07:49:32 EDT / 17:19:32 IST.
-- End at the planned 07:56:40 EDT / 17:26:40 IST state.
-- Keep lawful custody and record survival dominant.
-- Use Julie close third plus one bounded Sharma cutaway.
-- Do not fully define Phase B.
-- Do not confirm K-17 access.
+- Open exactly at 08:15:52 EDT / 17:45:52 IST.
+- Use Julie primary plus one bounded Special Agent Leila Grant examination-room movement.
+- Open only `MPD-901446`.
+- Keep the other six packages sealed and unopened.
+- Keep MPD physical custody throughout.
+- Use read-only independent tooling; no biometric, private-key signing act, live network, Apex credential, or second package.
+- Planned maximum endpoint: 09:12:52 EDT / 18:42:52 IST.
+- Target range: 5,600–6,300 words, preferred center approximately 5,950.
 - Do not identify the Hartwell presenter or exact serial.
 - Do not decrypt WSS-4.
-- Do not resolve final federal custody.
-- Do not draft the remainder of Act III inside Chapter 15.
+- Do not define Phase B or confirm K-17 access.
+- Do not resolve final federal custody, guilt, innocence, immunity, or public vindication.
+- Do not draft the remainder of Act III inside Chapter 17.
 
 ## Expansion and compression controls
 
@@ -106,10 +106,10 @@ The remaining Act III must still provide enough space for:
 - K-17 immediate outcome;
 - Hartwell exact-record payoff;
 - WSS local-audit fate;
-- independent technical examination;
+- independent technical examination beyond the first bounded result where necessary;
 - Chen and Mercer choices;
 - Hackett and Price payoffs;
-- Marcus's formal correction;
+- consequences of Marcus's formal correction;
 - meaningful Vance consequence;
 - public-narrative fracture;
 - climax and geopolitical stabilization;
@@ -130,56 +130,31 @@ At the end of the first full draft:
 
 ---
 
-## Current update
+## Historical Chapter 15 and Chapter 16 updates
 
-- Accepted manuscript through Chapter 14: **75,593** words.
-- Remaining to 100,000 minimum: **24,407**.
-- Remaining to 112,500 planning target: **36,907**.
-- Remaining before 125,000 maximum: **49,407**.
-- Accepted Act III subtotal: Chapter 13 (6,175) + Chapter 14 (5,763) = **11,938**.
-- Chapter 15 is mission locked as **The Split Record**, target 5,700–6,400 words.
-- The Chapter 15 lock is planning only and does not change the accepted count or endpoint.
+- Chapter 15 accepted contribution: **5,993** words.
+- Chapter 16 accepted contribution: **6,024** words.
+- Accepted Act III subtotal through Chapter 16: **23,955** words.
+- The Chapter 16 mission range was satisfied and the chapter was accepted after one surgical equal-count POV-firewall repair.
 
-## Accepted Chapter 15 word-budget update
+## Chapter 17 approved word-budget and architecture update — 2026-07-13
 
 | Measure | Words |
 |---|---:|
-| Accepted manuscript through Chapter 15 | 81,586 |
-| Chapter 15 accepted contribution | 5,993 |
-| Remaining to minimum 100,000 | 18,414 |
-| Remaining to planning target 112,500 | 30,914 |
-| Remaining before maximum 125,000 | 43,414 |
-| Accepted Act III subtotal, Chapters 13–15 | 17,931 |
+| Accepted manuscript through Chapter 16 | 87,610 |
+| Remaining to minimum 100,000 | 12,390 |
+| Remaining to planning target 112,500 | 24,890 |
+| Remaining before maximum 125,000 | 37,390 |
+| Accepted Act III subtotal, Chapters 13–16 | 23,955 |
+| Chapter 17 planning range | 5,600–6,300 |
+| Chapter 17 preferred center | approximately 5,950 |
 
-Chapter 15 lands inside its 5,700–6,400 range. The later Chapter 16–resolution functions remain provisional until individually mission locked. The immediate next gate is Chapter 16 mission planning and locking only; no Chapter 16 prose or full remaining-Act-III outline is authorized by this update.
+- Chapter 17 is mission locked as **The First Examination** at `34-chapter-17-mission-lock.md`.
+- Dominant function: first independent, MPD-controlled technical examination of `MPD-901446` while preserving the seven-package incident.
+- Planned POV: Julie primary; one bounded Special Agent Leila Grant examination-room movement.
+- Planned maximum endpoint: **09:12:52 EDT / 18:42:52 IST**.
+- The range leaves sufficient room for the immediate field outcome, Hartwell/WSS proof, institutional choices, public fracture, climax, and legal/emotional aftermath.
+- Accepted words, inventory, and endpoint do not change during the lock.
+- Chapter 18 and later functions remain provisional and are not individually expanded or locked by this update.
 
-## Approved Chapter 16 word-budget and architecture update
-
-This section supersedes only the earlier provisional Chapter 16 row and immediate-next-gate language. It does not replace or expand the later provisional rows.
-
-- Chapter 16 is mission locked as **The Hold Order** at `32-chapter-16-mission-lock.md`.
-- Accepted manuscript remains Prologue and Chapters 1–15 at **81,586** words.
-- Accepted endpoint remains **07:56:40 EDT / 17:26:40 IST**.
-- Remaining to 100,000 minimum remains **18,414** words.
-- Remaining to 112,500 planning target remains **30,914** words.
-- Remaining before 125,000 maximum remains **43,414** words.
-- Chapter 16 target range is **5,800–6,500 words**, preferred center approximately 6,150.
-- Dominant function: force a named federal preservation authority behind the interim MPD chain while keeping all seven packages separate, sealed, offline, and physically in MPD custody.
-- Supporting functions: Marcus’s attributable six-years-ago correction and a bounded allied preservation acknowledgment tied to Sharma’s challenged record.
-- Planned POV: Julie primary; one bounded Marcus ambulance cutaway; one bounded Sharma cutaway; return to Julie.
-- Planned maximum endpoint: **08:16:40 EDT / 17:46:40 IST**.
-- Chapter 16 must not resolve Hartwell presenter/serial, compact-case contents, WSS plaintext, K-17 access, Phase B, reconstruction authorship/purpose/truth, final federal custody, technical findings, public vindication, or the climax.
-- The Chapter 16 range leaves adequate space for immediate field outcome, independent technical examination, public-record fracture, institutional choices, climax, and legal/emotional aftermath.
-- Chapter 17 and later functions remain provisional and are not individually locked or expanded by this update.
-- Immediate next gate: draft exactly one Chapter 16 first version at `../drafts/chapter-16.md`, then run the formal acceptance review. Do not draft Chapter 17 or create a complete remainder-of-Act-III outline.
-
-## Chapter 16 accepted word-budget update — 2026-07-13
-
-- Chapter 16 accepted words: **6,024**.
-- Accepted total through Chapter 16: **87,610**.
-- Accepted Act III words (Chapters 13–16): **23,955**.
-- Words to 100,000 minimum: **12,390**.
-- Words to 112,500 planning target: **24,890**.
-- Words to 125,000 maximum: **37,390**.
-
-Chapter 16 remains inside its approved 5,800–6,500 range without revision. Future architecture remains planning only. The next gate is Chapter 17 mission planning and mission locking, not drafting or a complete remainder-of-Act-III outline.
+Immediate next gate: draft exactly one Chapter 17 first version at `../drafts/chapter-17.md`, then run the formal acceptance review. Do not draft Chapter 18 or create a complete remainder-of-Act-III outline.

@@ -142,10 +142,25 @@ The accepted-manuscript inventory in `../ACCEPTED_MANUSCRIPT.yaml` controls acce
 - **Endpoint:** **08:15:52 EDT / 17:45:52 IST**
 - **POV:** Julie → Marcus → Sharma → Julie
 - **Verdict:** **ACCEPT**
-- **Next gate:** Chapter 17 mission planning and mission locking only; do not draft Chapter 17.
+- **Accepted manuscript total:** **87,610 words**
 
-## Chapter 17 and later
+## Chapter 17 — The First Examination
+
+- **Status:** Mission locked; planning only; not drafted; non-canon.
+- **Mission lock:** `34-chapter-17-mission-lock.md`.
+- **Draft path:** `../drafts/chapter-17.md`.
+- **Accepted opening:** **08:15:52 EDT / 17:45:52 IST**.
+- **Planned maximum endpoint:** **09:12:52 EDT / 18:42:52 IST**.
+- **Dominant function:** Conduct the first independent, MPD-controlled technical examination of one evidence package and create a signed, reproducible finding without fragmenting the seven-package incident.
+- **Named examiner:** Special Agent Leila Grant, Defense Criminal Investigative Service.
+- **POV:** Julie primary; one bounded Grant examination-room movement.
+- **Package scope:** `MPD-901446` only; the other six packages remain sealed and unopened.
+- **Planning range:** **5,600–6,300 words**.
+- **Accepted-manuscript effect:** None; accepted total and endpoint remain unchanged.
+- **Next gate:** Draft exactly one first version at `../drafts/chapter-17.md`, then run the formal acceptance review.
+
+## Chapter 18 and later
 
 - **Status:** Not drafted and not individually mission locked.
 - **Planning:** High-level functions remain provisional in `23-word-budget-and-act-iii-architecture.md`.
-- **Rule:** Chapter 17 must begin from the accepted Chapter 16 endpoint but remains non-canon until separately mission locked, drafted, reviewed, and accepted. Do not draft Chapter 17 before its dedicated mission lock.
+- **Rule:** Do not draft Chapter 18 or create a complete remainder-of-Act-III outline during the Chapter 17 first-draft session.

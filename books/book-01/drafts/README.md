@@ -6,15 +6,11 @@ This directory contains prose that may be complete, revised, or mission-locked b
 
 No active Book 1 chapter draft exists.
 
-Chapter 16 — **The Hold Order** — passed formal review after one surgical POV-firewall revision and moved to:
+Chapter 17 — **The First Examination** — is mission locked at:
 
-`../manuscript/chapters/chapter-16.md`
+`../control/34-chapter-17-mission-lock.md`
 
-Its formal review is:
-
-`../control/33-chapter-16-acceptance-review.md`
-
-No active Chapter 16 draft remains. Chapter 17 and later prose do not exist.
+No Chapter 17 prose exists yet.
 
 ## Accepted manuscript
 
@@ -26,14 +22,18 @@ No active Chapter 16 draft remains. Chapter 17 and later prose do not exist.
 
 ## Next action
 
-Conduct Chapter 17 mission planning and mission locking only from the accepted Chapter 16 endpoint.
+Draft exactly one complete first version at:
 
-Do not draft Chapter 17. Do not create a complete chapter-by-chapter outline for the remainder of Act III.
+`chapter-17.md`
+
+Use `../control/34-chapter-17-mission-lock.md` as the controlling plan. Keep the draft non-canon and do not add it to the accepted manifest.
+
+Do not draft Chapter 18 or create a complete chapter-by-chapter outline for the remainder of Act III.
 
 ## Rules
 
 1. Draft prose never outranks accepted manuscript prose.
-2. Later chapters may rely on Chapter 16 only because it is listed in the accepted manifest and lives at the manuscript path.
-3. Chapter 17 prose may not be created until a dedicated Chapter 17 mission lock is approved.
-4. A future draft must remain under this directory until its formal acceptance gate issues **ACCEPT**.
+2. Chapter 17 must open from the accepted Chapter 16 endpoint.
+3. Only one active Chapter 17 draft path is allowed.
+4. A future draft remains here until the formal acceptance gate issues **ACCEPT**.
 5. Rejected or superseded drafts remain recoverable through Git history; do not create duplicate active files.

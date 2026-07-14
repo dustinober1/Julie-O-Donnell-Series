@@ -11,12 +11,13 @@ Act III contains four accepted chapters:
 
 ### Accepted endpoint
 
+- **Accepted manuscript total:** 87,610 words
 - **Time:** 08:15:52 EDT / 17:45:52 IST
 - **Primary Washington state:** Julie remains restrained in marked MPD transport at the secure evidence-intake threshold; Marcus and Elias remain in separate guarded medical custody.
 - **Authority:** MPD retains physical custody of all seven packages under incident `187463`; General William Hackett is the named federal preservation sponsor; no final federal receiver or independent technical examiner exists.
 - **Accepted prose after this point:** None.
 - **Unaccepted prose after this point:** None.
-- **Immediate next gate:** Chapter 17 mission planning and mission locking only. Do not draft Chapter 17 or create a complete chapter-by-chapter outline for the remainder of Act III.
+- **Immediate next gate:** Chapter 17 is mission locked; draft exactly one first version from `34-chapter-17-mission-lock.md`.
 
 ## Physical state
 
@@ -102,6 +103,19 @@ An allied routing receipt now links a challenged-set reference, preserved record
 - Apex, Hartwell, Northbridge, MPD, the allied chain, and Hackett’s office each retain bounded and nonuniversal authority.
 - Sterling’s hostile armed-insider account remains publicly dominant; no public vindication or visible authenticated fracture has occurred.
 
+## Approved Chapter 17 planning delta
+
+`34-chapter-17-mission-lock.md` approves **The First Examination** as planning only:
+
+- Julie primary POV and one bounded Special Agent Leila Grant examination-room POV.
+- `MPD-901446` is the sole package planned for opening.
+- MPD retains physical custody throughout.
+- The other six packages remain sealed and unopened.
+- The examination remains read-only and may establish only the physical-token signing-history mismatch and later authenticated-event distinction.
+- Planned maximum endpoint: **09:12:52 EDT / 18:42:52 IST**.
+- Planning range: **5,600–6,300 words**.
+- No accepted event, count change, endpoint change, final receiver, public vindication, K-17 result, or Phase B definition is created by the lock.
+
 ## Remaining Book 1 obligations after Chapter 16
 
 - Hartwell physical-custody chain and exact challenged serial
@@ -120,4 +134,4 @@ Chapter 16 resolves the mobile-custody survival problem and completes Marcus’s
 
 ## Current production gate
 
-Conduct **Chapter 17 mission planning and mission locking only** from this accepted endpoint. The mission lock must define the next chapter’s one dominant function without drafting prose or expanding the complete remainder of Act III.
+Draft exactly one complete Chapter 17 first version at `../drafts/chapter-17.md` from `34-chapter-17-mission-lock.md`. Do not draft Chapter 18 or create a complete chapter-by-chapter outline for the remainder of Act III.

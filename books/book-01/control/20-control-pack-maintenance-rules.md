@@ -93,21 +93,31 @@
 The entries below preserve the pre-acceptance audit state only. They are superseded by the Chapter 16 acceptance maintenance record that follows and do not describe current production status.
 
 - `32-chapter-16-mission-lock.md` remains the controlling production plan for Chapter 16 — **The Hold Order**.
-- One active first draft exists only at `../drafts/chapter-16.md`.
-- Exact draft word count is **6,024**.
-- Draft opening is **07:56:40 EDT / 17:26:40 IST**.
-- Draft endpoint is **08:15:52 EDT / 17:45:52 IST**, inside the approved maximum.
-- The draft uses Julie primary, one bounded Marcus ambulance cutaway, one bounded Sharma cutaway, and a return to Julie.
-- The draft keeps all seven packages separate, sealed, offline, and in MPD custody; no accepted ledger is updated as though those drafted events occurred.
-- `../ACCEPTED_MANUSCRIPT.yaml`, accepted prose, the accepted count, and the accepted endpoint remain unchanged.
-- Chapter 16 remains unaccepted and non-canon until the formal acceptance gate issues **ACCEPT** and a synchronized promotion commit is completed.
-- The next gate is the formal Chapter 16 acceptance and revision review.
-- Chapter 17 and later prose do not exist. Do not draft them from the unaccepted Chapter 16 endpoint.
+- One active first draft existed only at `../drafts/chapter-16.md`.
+- Exact draft word count was **6,024**.
+- Draft opening was **07:56:40 EDT / 17:26:40 IST**.
+- Draft endpoint was **08:15:52 EDT / 17:45:52 IST**, inside the approved maximum.
+- The draft used Julie primary, one bounded Marcus ambulance cutaway, one bounded Sharma cutaway, and a return to Julie.
+- The draft kept all seven packages separate, sealed, offline, and in MPD custody; no accepted ledger was updated as though those drafted events occurred.
+- Chapter 16 remained unaccepted and non-canon until the formal acceptance gate issued **ACCEPT** and a synchronized promotion commit was completed.
 
 ## Chapter 16 acceptance maintenance record — 2026-07-13
 
 `33-chapter-16-acceptance-review.md` records **ACCEPT** after one surgical POV-firewall revision at 6,024 words. The reviewed blob `dd5249f4b510a9da9ad19ab2902a95ce1e62a1d8` now lives only at `../manuscript/chapters/chapter-16.md`; the draft copy is removed. The revision removes narrator-level Washington, Hartwell, Payload 88, and MPD-specific knowledge from Sharma's bounded close-third movement without changing word count, events, or endpoint.
 
-The accepted manifest, project state, status files, affected canon ledgers, series character ledger, and validation workflow are synchronized to 87,610 words and the 08:15:52 EDT / 17:45:52 IST endpoint. The validator protects Chapters 14, 15, and 16; requires the Chapter 16 review; prohibits a Chapter 16 draft and Chapter 17 prose; and verifies the accepted total and endpoint.
+The accepted manifest, project state, status files, affected canon ledgers, series character ledger, and validation workflow are synchronized to 87,610 words and the 08:15:52 EDT / 17:45:52 IST endpoint. The validator protects Chapters 14, 15, and 16 and verifies the accepted total and endpoint.
 
-Next maintenance gate: Chapter 17 mission planning and mission locking only. No Chapter 17 prose or complete remainder-of-Act-III outline is authorized.
+## Chapter 17 mission-lock maintenance record — 2026-07-13
+
+- `34-chapter-17-mission-lock.md` approves **The First Examination** as planning only.
+- Accepted inventory remains Prologue and Chapters 1–16 at **87,610 words**.
+- Accepted endpoint remains **08:15:52 EDT / 17:45:52 IST**.
+- No Chapter 17 prose exists.
+- Special Agent Leila Grant is the named planned examiner; this does not create accepted character or event canon.
+- `MPD-901446` is the sole package planned for opening; the other six remain sealed and unopened.
+- MPD retains physical custody; no final federal receiver is planned.
+- Planned maximum endpoint is **09:12:52 EDT / 18:42:52 IST**.
+- Planning range is **5,600–6,300 words**.
+- The workflow requires the mission lock, protects Chapters 14–16, preserves the accepted count and endpoint, and prohibits Chapter 17 prose during this planning gate.
+
+Next maintenance gate: draft exactly one Chapter 17 first version at `../drafts/chapter-17.md`, then run the formal acceptance review. Do not draft Chapter 18 or create a complete remainder-of-Act-III outline.
