@@ -14,9 +14,12 @@ The authoritative production status is [`PROJECT_STATE.yaml`](PROJECT_STATE.yaml
 - Accepted endpoint: **09:12:52 EDT / 18:42:52 IST**
 - Chapter 17, **The First Examination**: accepted at **5,888 words**
 - Chapter 17 reviewed blob: `1c4022ebb8d27d8d448f98bcf74fbf09e6e560c1`
+- Chapter 18, **The Local Record**: mission locked, undrafted, and non-canon
+- Chapter 18 mission lock: [`books/book-01/control/36-chapter-18-mission-lock.md`](books/book-01/control/36-chapter-18-mission-lock.md)
+- Planned Chapter 18 range: **4,400–5,200 words**
 - Active chapter drafts: none
 - Book 1: not publication-ready
-- Chapter 18 work in this acceptance pass: none
+- Complete remainder-of-Act-III outline: not created
 
 ## Accepted Chapter 17 endpoint
 
@@ -30,7 +33,19 @@ The authoritative production status is [`PROJECT_STATE.yaml`](PROJECT_STATE.yaml
 - All seven packages remain in MPD physical custody; no final federal receiver exists.
 - Sterling's hostile public account remains dominant.
 - Elias is neither exonerated nor reduced to a simple hostage or saboteur.
-- Alternative identity path, human responsibility, Hartwell, WSS-4 plaintext, K-17, Phase B, field truth, guilt, immunity, admissibility, and public vindication remain unresolved.
+- Alternative identity path, human responsibility, Hartwell, WSS-4 plaintext, K-17, Phase B, guilt, immunity, admissibility, and public vindication remain unresolved in accepted canon.
+
+## Approved Chapter 18 planning
+
+The selected mission returns to Major Ananya Sharma and the existing Point Kestrel patrol to preserve K-17's local record, determine whether authenticated relay access and the Phase B local commit completed, and document what the superseding reconstruction concealed. The planned chapter:
+
+- opens at **09:12:52 EDT / 18:42:52 IST**;
+- uses Sharma as the only close-third POV;
+- does not open another MPD package;
+- does not give Julie unearned field knowledge;
+- does not identify the physical human operator;
+- remains non-canon until formal review and promotion; and
+- does not create Chapter 19 planning or prose.
 
 ## Source-of-truth hierarchy
 
@@ -52,7 +67,12 @@ Accepted prose outranks every summary, tracker, plan, and draft.
 - [Chapter 16 acceptance review](books/book-01/control/33-chapter-16-acceptance-review.md)
 - [Chapter 17 mission lock](books/book-01/control/34-chapter-17-mission-lock.md)
 - [Chapter 17 acceptance review](books/book-01/control/35-chapter-17-acceptance-review.md)
+- [Chapter 18 mission lock](books/book-01/control/36-chapter-18-mission-lock.md)
 - [Series recurring-character ledger](series/recurring-character-ledger.md)
+
+## Current gate
+
+Draft exactly one complete first version of Chapter 18 — **The Local Record** — at `books/book-01/drafts/chapter-18.md` from the approved mission lock. Do not draft Chapter 19 and do not create a complete remainder-of-Act-III outline.
 
 ## Permanent continuity repair
 
