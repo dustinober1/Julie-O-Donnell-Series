@@ -1,0 +1,49 @@
+name: Apply Chapter 19 draft
+
+on:
+  push:
+    branches:
+      - agent/chapter-19-first-draft
+
+permissions:
+  contents: write
+
+jobs:
+  assemble:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Assemble and commit Chapter 19 draft
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p books/book-01/drafts
+          cat \
+            .github/ch19-payload/chapter.part01.md \
+            .github/ch19-payload/chapter.part02.md \
+            .github/ch19-payload/chapter.part03.md \
+            .github/ch19-payload/chapter.part04.md \
+            > books/book-01/drafts/chapter-19.md
+
+          python - <<'PY'
+          from pathlib import Path
+          path = Path('books/book-01/drafts/chapter-19.md')
+          text = path.read_text(encoding='utf-8')
+          assert len(text.split()) == 5393, len(text.split())
+          assert text.startswith('10:01:12 EDT / 19:31:12 IST\n\n# Chapter 19 - The Name on the Record\n')
+          assert text.rstrip().endswith('one device whose current hand no one could yet name.')
+          PY
+
+          rm -rf .github/ch19-payload
+          rm -f .github/workflows/apply-chapter19-draft.yml
+
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git diff --cached --check
+          git commit -m 'Assemble Chapter 19 draft'
+          git push origin "HEAD:${GITHUB_REF_NAME}"
