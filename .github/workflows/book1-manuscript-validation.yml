@@ -221,14 +221,13 @@ jobs:
               'reviewed_blob_sha: "6f5873d6e975ec74646af152aad22ea84545fc01"',
               'status: "mission locked; undrafted; non-canon"',
               'mission_lock: "books/book-01/control/38-chapter-19-mission-lock.md"',
-              'draft_exists: false',
               'accepted_manifest_changed: false',
               'planned_endpoint: "10:44:12 EDT / 20:14:12 IST"',
               'next_gate: "Draft and integrate the complete first version of Chapter 19 under the approved mission lock"',
               'chapter_20_and_later: "not drafted and not individually mission locked"',
           ]
           missing = [item for item in project_required if item not in project]
-          require(not missing, f"PROJECT_STATE missing: {missing}")
+          require(not missing, f"PROJECT_STATE missing required Chapter 18/19 state: {missing}")
 
           status_files = [
               "README.md",
@@ -244,15 +243,27 @@ jobs:
               "books/book-01/manuscript/STATUS.md",
           ]
           for rel in status_files:
-              text = (root / rel).read_text(encoding="utf-8")
-              for item in ["Chapter 18", "97,976", "10:01:12 EDT / 19:31:12 IST", "Chapter 19"]:
-                  require(item in text, f"{rel} missing {item}")
-              require("mission lock" in text.lower() or "mission locked" in text.lower(), f"{rel} missing Chapter 19 planning state")
+              path = root / rel
+              require(path.is_file(), f"missing synchronized status file: {rel}")
+              text = path.read_text(encoding="utf-8")
+              require("97,976" in text, f"{rel} missing accepted total")
+              require("Chapter 19" in text, f"{rel} missing Chapter 19 state")
+              require(
+                  "mission lock" in text.lower() or "mission locked" in text.lower(),
+                  f"{rel} missing mission-lock status",
+              )
+
+          readme = (root / "README.md").read_text(encoding="utf-8")
+          require("10:01:12 EDT / 19:31:12 IST" in readme, "root README missing accepted endpoint")
+          require("Chapter 19 prose: not created" in readme, "root README does not distinguish prose absence")
+
+          overview = (root / "books/book-01/control/00-overview.md").read_text(encoding="utf-8")
+          require("10:01:12 EDT / 19:31:12 IST" in overview, "control overview missing accepted endpoint")
+          require("10:44:12 EDT / 20:14:12 IST" in overview, "control overview missing planned endpoint")
 
           index = (root / "books/book-01/control/README.md").read_text(encoding="utf-8")
           require("Canon Control Pack v4.2" in index, "control-pack version not 4.2")
           require("[38. Chapter 19 Mission Lock](38-chapter-19-mission-lock.md)" in index, "Chapter 19 mission lock missing from control index")
-          require("Chapter 19 prose" in (root / "README.md").read_text(encoding="utf-8"), "root README does not distinguish prose absence")
           print("accepted and Chapter 19 planning states synchronized")
           PY
 
