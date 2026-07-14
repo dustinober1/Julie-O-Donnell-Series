@@ -36,7 +36,7 @@
 ## Evidence and knowledge
 
 18. Record every evidence transfer with time, location, transferor, recipient, seal condition, reason, and witness.
-19. Keep the telemetry case, administrator board, recovery cartridge, Partition A, Partition B, WSS local audit, Chen records, Sharma records, and derivative examiner media distinct.
+19. Keep the telemetry case, administrator board, recovery cartridge, Partition A, Partition B, WSS local audit, Chen records, Sharma records, K-17 local originals, and derivative examiner media distinct.
 20. Update both what evidence proves and what it does not prove.
 21. Registered authority never proves physical human custody without separate evidence.
 22. Never invent contents of incomplete, excluded, encrypted, unavailable, or unexamined records.
@@ -63,7 +63,7 @@
 
 35. Narrative House Style v2.2 controls craft but cannot create or change canon.
 36. Run a discrepancy check before each new act or major phase.
-37. Run an evidence-limits check before investigation, arrest, testimony, publication, decryption, or institutional-custody chapters.
+37. Run an evidence-limits check before investigation, arrest, testimony, publication, decryption, institutional-custody, or field-record chapters.
 38. Run a forward continuity audit before final revision and a reverse-order payoff audit after the ending exists.
 39. Before publication, audit exact times, EDT/IST conversion, titles, vehicles, security bypasses, certificate claims, evidence seals, injuries, knowledge, relationships, public narrative, and the official-record theme.
 
@@ -79,8 +79,21 @@
 - `MPD-901446` was the sole opened package, resealed under `MPD-SL-551821`, and returned to the common MPD chest.
 - All seven packages remain in MPD physical custody; no final federal receiver exists.
 - The validator protects Chapters 14–17 by exact blob and word count.
-- No active chapter draft, Chapter 18 prose, Chapter 18 mission lock, or complete remainder-of-Act-III outline exists.
+
+## Chapter 18 mission-lock maintenance record
+
+- `36-chapter-18-mission-lock.md` is the controlling Chapter 18 planning file.
+- Working title: **The Local Record**.
+- Status: mission locked; undrafted; non-canon.
+- Accepted total remains **93,498 words**.
+- Accepted endpoint remains **09:12:52 EDT / 18:42:52 IST**.
+- No Chapter 18 file exists under `manuscript/`.
+- No active Chapter 18 draft exists.
+- No Chapter 19 prose or mission lock exists.
+- No complete remainder-of-Act-III outline exists.
+- Planned new K-17 references remain non-canon until accepted prose.
+- No accepted canon ledger is updated as though planned events occurred.
 
 ## Current maintenance gate
 
-Preserve the accepted Chapter 17 state until a later, separately authorized production task begins.
+Draft exactly one complete first version of Chapter 18 under `../drafts/chapter-18.md`. Do not change the accepted manifest, accepted word count, accepted endpoint, or accepted canon ledgers during the drafting pass unless the formal acceptance gate later authorizes promotion.

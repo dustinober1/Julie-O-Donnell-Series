@@ -66,11 +66,28 @@ No chapter receives words solely to satisfy the target. Every scene must advance
 - Establishes a bounded physical-board mismatch and later authenticated-event distinction.
 - Does not identify an alternative identity path, human operator, Hartwell presenter, WSS plaintext, K-17 outcome, Phase B outcome, guilt, innocence, immunity, admissibility, final receiver, or public vindication.
 
+## Approved Chapter 18 mission lock
+
+Chapter 18 is individually mission locked in `36-chapter-18-mission-lock.md`. The plan is non-canon until a draft is formally accepted.
+
+| Item | Locked planning |
+|---|---|
+| Title | **The Local Record** |
+| Opening | **09:12:52 EDT / 18:42:52 IST** |
+| Endpoint | **10:01:12 EDT / 19:31:12 IST** |
+| POV | Major Ananya Sharma only |
+| Dominant mission | Resolve K-17/Phase B through the independently controlled local relay record |
+| Planned range | **4,400–5,200 words** |
+| Accepted-manuscript effect | None |
+| Active draft | None |
+
+At 5,200 planned words, the working manuscript would be approximately 98,698 words, leaving 1,302 words to the minimum, 13,802 words to the planning target, and 26,302 words before the maximum. The chapter must not be inflated to cross 100,000; the remaining Book 1 climax and aftermath require substantial space.
+
 ## Provisional later structure
 
-Chapter 18 and later remain **unwritten, individually unlocked, and non-controlling**. This document does not assign a complete chapter-by-chapter remainder-of-Act-III outline.
+Chapter 19 and later remain **unwritten, individually unlocked, and non-controlling**. This document does not assign a complete chapter-by-chapter remainder-of-Act-III outline.
 
-The remaining manuscript must add at least 6,502 words to exceed the minimum and may add no more than 31,502 words while remaining inside the approved range. The 19,002-word planning gap is a guide, not a quota.
+The remaining manuscript must add at least 6,502 accepted words to exceed the minimum and may add no more than 31,502 accepted words while remaining inside the approved range. The 19,002-word planning gap is a guide, not a quota.
 
 ## Remaining high-level obligations
 
@@ -78,7 +95,6 @@ Later accepted prose must still provide sufficient space for:
 
 - alternative identity path and human responsibility;
 - Washington/field reconnection;
-- immediate K-17, Phase B, and reconstruction outcome;
 - Hartwell exact-record payoff;
 - WSS local-audit fate or lawful equivalent proof;
 - final custody and any broader technical examination required by the ending;
@@ -87,7 +103,7 @@ Later accepted prose must still provide sufficient space for:
 - Hackett, Bell, Price, Vance, and Sterling payoffs;
 - authenticated public-narrative fracture;
 - geopolitical stabilization;
-- character, legal, medical, and relationship aftermath; and
+- legal, medical, and relationship aftermath; and
 - a bounded series-facing ending that does not defer Book 1 resolution.
 
 The exact distribution across later chapters remains provisional and must be locked one chapter at a time.
@@ -124,4 +140,4 @@ At the end of the complete first draft:
 
 ## Current gate
 
-Preserve the accepted Chapter 17 state. No Chapter 18 prose, Chapter 18 mission lock, or complete remainder-of-Act-III outline was created in this pass.
+Draft exactly one first version of Chapter 18 from `36-chapter-18-mission-lock.md`. Accepted words remain 93,498 and the accepted endpoint remains 09:12:52 EDT / 18:42:52 IST. Do not create Chapter 19 prose or a complete remainder-of-Act-III outline.

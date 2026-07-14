@@ -10,12 +10,13 @@ The authoritative production status is `../../../PROJECT_STATE.yaml`. The author
 | Chapters 1–17 | Accepted |
 | Act I | Complete |
 | Act II | Complete |
-| Act III | Chapters 13–17 accepted; later prose not drafted |
+| Act III | Chapters 13–17 accepted; Chapter 18 mission locked but undrafted |
 | Accepted length | **93,498 words** |
 | Planning target | 112,500 words |
 | Target range | 100,000–125,000 words |
 | Accepted endpoint | **Chapter 17, 09:12:52 EDT / 18:42:52 IST** |
 | Active chapter drafts | None |
+| Chapter 18 | **The Local Record** — mission locked, non-canon |
 | Book status | Not publication-ready |
 
 ## Accepted endpoint
@@ -36,6 +37,21 @@ The independent examination establishes only that the physical board contains no
 
 The result weakens the claim that Elias's physical board performed the original deployment and strengthens the record that he voluntarily authenticated later acts. It does not establish innocence, guilt, immunity, admissibility, an alternative identity path, a human operator, Vance's keystrokes, Sterling's possession, Tariq's physical presence, complete Payload 88 history, WSS-4 plaintext, K-17 outcome, Phase B outcome, field truth, or public vindication.
 
+## Approved Chapter 18 mission
+
+- Mission lock: `36-chapter-18-mission-lock.md`
+- Working title: **The Local Record**
+- Status: mission locked; undrafted; non-canon
+- Opening: 09:12:52 EDT / 18:42:52 IST
+- Endpoint: 10:01:12 EDT / 19:31:12 IST
+- POV: Major Ananya Sharma only
+- Primary function: resolve the immediate K-17/Phase B field outcome through the local relay record and bounded allied preservation route
+- Planned words: 4,400–5,200
+- No MPD package is opened by the plan.
+- No Chapter 18 prose exists.
+- No Chapter 19 prose or mission lock exists.
+- No complete remainder-of-Act-III outline exists.
+
 ## Current production gate
 
-Preserve the accepted Chapter 17 state. Chapter 18 prose and mission lock have not been created, and no complete remainder-of-Act-III outline exists.
+Draft exactly one complete first version of Chapter 18 at `../drafts/chapter-18.md` from the approved mission lock. Preserve the accepted Chapter 17 endpoint and all accepted custody, medical, and knowledge boundaries.

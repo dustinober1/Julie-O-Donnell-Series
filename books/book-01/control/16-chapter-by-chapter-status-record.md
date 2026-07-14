@@ -84,13 +84,30 @@ The accepted-manuscript inventory in `../ACCEPTED_MANUSCRIPT.yaml` controls acce
 - **Technical result:** no original attributed physical signing event on the examined board; later gate and reconciliation events remained authenticated
 - **Limit:** no alternative identity path, human actor, innocence, guilt, immunity, admissibility, final receiver, Hartwell result, WSS plaintext, K-17 result, Phase B result, or public vindication was established
 
-## Chapter 18 and later
+## Chapter 18 — The Local Record
 
-- **Status:** Not drafted
-- **Mission lock:** None
-- **Planning:** High-level and provisional only in `23-word-budget-and-act-iii-architecture.md`
-- **Rule:** A later chapter becomes controlling only through its own mission lock, draft, formal acceptance review, and synchronized promotion
+- **Status:** Mission locked; undrafted; non-canon planning
+- **Mission lock:** `36-chapter-18-mission-lock.md`
+- **Draft path when created:** `../drafts/chapter-18.md`
+- **Draft exists:** No
+- **Accepted path:** None
+- **Accepted-manuscript effect:** None
+- **Planned opening:** 09:12:52 EDT / 18:42:52 IST
+- **Planned endpoint:** 10:01:12 EDT / 19:31:12 IST
+- **Planned POV:** Major Ananya Sharma only
+- **Planned words:** 4,400–5,200
+- **Dominant function:** resolve the immediate K-17 and Phase B field outcome through the independently controlled local relay record
+- **Required limit:** no human operator, WSS plaintext, Hartwell presenter, public fracture, final receiver, or Washington field knowledge is created by planning
+- **Next gate:** draft exactly one complete first version and no Chapter 19 work
 
-## Accepted Chapter 17 state — 2026-07-14
+## Chapter 19 and later
 
-The accepted manuscript now contains the Prologue and Chapters 1–17 at **93,498 words**, ending at **09:12:52 EDT / 18:42:52 IST**. No active chapter draft, Chapter 18 prose, Chapter 18 mission lock, or complete remainder-of-Act-III outline exists.
+- **Status:** Not drafted and not individually mission locked
+- **Planning:** High-level obligation inventory only
+- **Rule:** No complete chapter-by-chapter remainder-of-Act-III outline has been created
+
+## Current accepted state — 2026-07-14
+
+The accepted manuscript remains the Prologue and Chapters 1–17 at **93,498 words**, ending at **09:12:52 EDT / 18:42:52 IST**. Chapter 18 is mission locked only. No active draft or Chapter 18 prose exists.
+
+No complete remainder-of-Act-III outline has been created.

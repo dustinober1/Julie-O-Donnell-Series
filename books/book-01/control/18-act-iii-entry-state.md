@@ -10,6 +10,8 @@ Act III contains five accepted chapters:
 - Chapter 16 — **The Hold Order**
 - Chapter 17 — **The First Examination**
 
+Chapter 18 — **The Local Record** — is mission locked but undrafted and non-canon.
+
 ## Accepted endpoint
 
 - **Accepted manuscript total:** 93,498 words
@@ -95,22 +97,39 @@ The result does not identify an alternative identity path, workstation, human op
 - Phase B remains undefined and is not shown authorized or completed.
 - Reconstruction authorship, authority, purpose, and truth remain unresolved.
 - Julie still does not know Sharma's identity or the Indian no-fire outcome.
+- The earlier Point Kestrel patrol remains an accepted unresolved field asset: at 14:29 IST it had not reached observation ground, and no accepted later chapter reports its result.
 
-## Remaining Book 1 obligations
+## Approved Chapter 18 entry plan
 
-- Alternative identity path and human responsibility
-- Hartwell presenter and exact challenged serial
-- WSS-4 plaintext or lawful equivalent proof sufficient to define Phase B
-- Immediate K-17, Phase B, and reconstruction outcome
-- Final federal custody and broader evidence examination where necessary
-- Consequences of Marcus's recorded correction
-- Consequential choices for Chen and Mercer
-- Bell local-record fate and Price disposition
-- Meaningful Vance and Sterling consequences
-- Authenticated public-narrative fracture
-- Medical, legal, relationship, geopolitical, and future-role aftermath
-- Book 1 climax, stabilization, and bounded series-facing resolution
+- **Mission lock:** `36-chapter-18-mission-lock.md`
+- **Title:** The Local Record
+- **Status:** mission locked; undrafted; non-canon
+- **Opening:** 09:12:52 EDT / 18:42:52 IST
+- **Endpoint:** 10:01:12 EDT / 19:31:12 IST
+- **POV:** Major Ananya Sharma only
+- **Primary object:** K-17's locally isolated incident/access record under planned Indian reference `ARJ-K17-018`
+- **Dominant question:** Did the field operation complete authenticated K-17 access and the Phase B local commit, and what did the superseding reconstruction conceal?
+- **Medical rule:** the Washington trio remains separated and inactive offstage
+- **Knowledge rule:** the bounded field result may enter the preservation route but does not automatically reach Julie
+- **Public rule:** Sterling's public story remains dominant
+- **Canon effect:** none until formal acceptance and promotion
+
+## Remaining Book 1 obligations after the planned Chapter 18 mission
+
+The obligation inventory remains high-level rather than a chapter-by-chapter outline:
+
+- alternative identity path and human responsibility;
+- Hartwell presenter and exact challenged serial;
+- WSS-4 plaintext or lawful equivalent where necessary;
+- final federal custody and broader evidence examination where necessary;
+- consequences of Marcus's recorded correction;
+- consequential choices for Chen and Mercer;
+- Bell local-record fate and Price disposition;
+- meaningful Vance and Sterling consequences;
+- authenticated public-narrative fracture;
+- medical, legal, relationship, geopolitical, and future-role aftermath;
+- Book 1 climax, stabilization, and bounded series-facing resolution.
 
 ## Current production gate
 
-Preserve the accepted Chapter 17 state. Chapter 18 prose and mission lock have not been created, and the later Act III architecture remains high-level and provisional rather than a complete chapter-by-chapter outline.
+Draft exactly one complete first version of Chapter 18 at `../drafts/chapter-18.md` from the approved mission lock. Preserve the accepted Chapter 17 state. Do not draft Chapter 19 or create a complete remainder-of-Act-III outline.

@@ -1,8 +1,8 @@
-# Canon Control Pack v3.8
+# Canon Control Pack v3.9
 
 The accepted manuscript always outranks this control pack.
 
-Version 3.8 records Chapter 17 — **The First Examination** — as accepted canon at `../manuscript/chapters/chapter-17.md`. Accepted canon is the Prologue and Chapters 1–17 at **93,498 words**, ending at **09:12:52 EDT / 18:42:52 IST** at secure MPD evidence intake after the first independent single-package examination.
+Version 3.9 records Chapter 17 — **The First Examination** — as accepted canon at `../manuscript/chapters/chapter-17.md` and Chapter 18 — **The Local Record** — as mission locked, undrafted, and non-canon. Accepted canon remains the Prologue and Chapters 1–17 at **93,498 words**, ending at **09:12:52 EDT / 18:42:52 IST**.
 
 ## Control documents
 
@@ -42,6 +42,7 @@ Version 3.8 records Chapter 17 — **The First Examination** — as accepted can
 - [33. Chapter 16 Acceptance Review](33-chapter-16-acceptance-review.md)
 - [34. Chapter 17 Mission Lock](34-chapter-17-mission-lock.md)
 - [35. Chapter 17 Acceptance Review](35-chapter-17-acceptance-review.md)
+- [36. Chapter 18 Mission Lock](36-chapter-18-mission-lock.md)
 
 Cross-book character continuity is controlled separately in [`../../../series/recurring-character-ledger.md`](../../../series/recurring-character-ledger.md).
 
@@ -56,14 +57,29 @@ Cross-book character continuity is controlled separately in [`../../../series/re
 - **Endpoint:** 09:12:52 EDT / 18:42:52 IST
 - **Accepted manifest:** Prologue and Chapters 1–17
 - **Accepted total:** 93,498 words
-- **Active Chapter 17 draft:** none
+- **Active draft:** none
 - **Examiner:** Special Agent Leila Grant, Defense Criminal Investigative Service
 - **Package scope:** `MPD-901446` only; the other six packages remain sealed and unopened
 - **Custody:** all seven packages remain in MPD physical custody
 - **Seals:** former `MPD-SL-551804` retained; replacement `MPD-SL-551821` applied
 - **Technical result:** the examined board lacks the original attributed physical signing event; later gate and provenance-reconciliation events remain authenticated
-- **Limits:** no alternative identity path, human operator, final receiver, innocence, guilt, immunity, admissibility, Hartwell result, WSS-4 plaintext, K-17 result, Phase B result, field truth, or public vindication is established
+
+## Chapter 18 mission-lock state
+
+- **Title:** The Local Record
+- **Mission lock:** `36-chapter-18-mission-lock.md`
+- **Status:** mission locked; undrafted; non-canon
+- **Planned opening:** 09:12:52 EDT / 18:42:52 IST
+- **Planned endpoint:** 10:01:12 EDT / 19:31:12 IST
+- **POV:** Major Ananya Sharma only
+- **Planned range:** 4,400–5,200 words
+- **Primary field reference:** `ARJ-K17-018`
+- **Draft exists:** no
+- **Accepted effect:** none
+- **Complete remainder-of-Act-III outline:** not created
 
 ## Current production gate
 
-Preserve the accepted Chapter 17 state. No Chapter 18 prose, Chapter 18 mission lock, or complete remainder-of-Act-III outline was created during this acceptance pass. Book 1 remains not publication-ready.
+Draft exactly one complete first version of Chapter 18 at `../drafts/chapter-18.md` from `36-chapter-18-mission-lock.md`. No Chapter 19 work is authorized.
+
+No complete remainder-of-Act-III outline has been created.
