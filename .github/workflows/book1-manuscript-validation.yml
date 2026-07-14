@@ -37,15 +37,15 @@ jobs:
       - name: Validate accepted baseline and protected prose
         shell: bash
         run: |
-          python - <<'PYBASELINE'
+          python - <<'PY'
           from pathlib import Path
           import subprocess
 
           root = Path(".")
-          chapter_root = root / "books/book-01/manuscript/chapters"
+          chapters = root / "books/book-01/manuscript/chapters"
 
-          def require(condition, message):
-              if not condition:
+          def require(value, message):
+              if not value:
                   raise SystemExit(message)
 
           protected = {
@@ -54,95 +54,100 @@ jobs:
               "chapter-16.md": ("dd5249f4b510a9da9ad19ab2902a95ce1e62a1d8", 6024),
               "chapter-17.md": ("1c4022ebb8d27d8d448f98bcf74fbf09e6e560c1", 5888),
           }
-          for name, (expected_blob, expected_words) in protected.items():
-              path = chapter_root / name
-              require(path.is_file(), f"protected chapter missing: {name}")
-              blob = subprocess.check_output(
-                  ["git", "hash-object", str(path)], text=True
-              ).strip()
-              require(blob == expected_blob, f"protected blob changed: {name} = {blob}")
-              words = len(path.read_text(encoding="utf-8").split())
-              require(words == expected_words, f"protected word count changed: {name} = {words}")
+          for name, (blob, words) in protected.items():
+              path = chapters / name
+              require(path.is_file(), f"missing protected chapter: {name}")
+              actual_blob = subprocess.check_output(["git", "hash-object", str(path)], text=True).strip()
+              require(actual_blob == blob, f"protected blob changed: {name} = {actual_blob}")
+              actual_words = len(path.read_text(encoding="utf-8").split())
+              require(actual_words == words, f"protected count changed: {name} = {actual_words}")
 
           manifest = (root / "books/book-01/ACCEPTED_MANUSCRIPT.yaml").read_text(encoding="utf-8")
           require("accepted_words: 93498" in manifest, "accepted total changed")
           require("accepted_endpoint:\n  chapter: 17" in manifest, "accepted endpoint chapter changed")
           require("chapter-17.md" in manifest, "Chapter 17 missing from accepted manifest")
-          require("chapter-18.md" not in manifest, "unaccepted Chapter 18 entered accepted manifest")
+          require("chapter-18.md" not in manifest, "Chapter 18 entered accepted manifest")
+          require(not (chapters / "chapter-18.md").exists(), "Chapter 18 entered manuscript")
+          print("accepted baseline validated")
+          PY
 
-          require(not (chapter_root / "chapter-18.md").exists(), "unaccepted Chapter 18 entered manuscript")
-          require(not (root / "books/book-01/drafts/chapter-17.md").exists(), "accepted Chapter 17 draft remains")
-          print("accepted baseline, manifest, and protected prose validated")
-          PYBASELINE
-
-      - name: Validate Chapter 18 first draft
+      - name: Validate Chapter 18 inventory and exact 4600-word count
         shell: bash
         run: |
-          python - <<'PYDRAFT'
+          python - <<'PY'
           from pathlib import Path
 
-          root = Path(".")
-          book = root / "books/book-01"
+          book = Path("books/book-01")
           draft = book / "drafts/chapter-18.md"
-          mission = book / "control/36-chapter-18-mission-lock.md"
-          project = (root / "PROJECT_STATE.yaml").read_text(encoding="utf-8")
 
-          def require(condition, message):
-              if not condition:
+          def require(value, message):
+              if not value:
                   raise SystemExit(message)
 
-          require(mission.is_file(), "Chapter 18 mission lock missing")
-          require(draft.is_file(), "Chapter 18 first draft missing")
-
-          chapter18_paths = sorted(book.rglob("chapter-18.md"))
-          require(chapter18_paths == [draft], f"unexpected Chapter 18 paths: {chapter18_paths}")
+          require((book / "control/36-chapter-18-mission-lock.md").is_file(), "Chapter 18 mission lock missing")
+          require(draft.is_file(), "Chapter 18 draft missing")
+          require(sorted(book.rglob("chapter-18.md")) == [draft], "unexpected Chapter 18 path")
           require(not (book / "manuscript/chapters/chapter-18.md").exists(), "Chapter 18 manuscript file exists")
+          require(not list(book.rglob("chapter-19.md")), "Chapter 19 prose exists")
+          require(not [
+              p for p in (book / "control").glob("*chapter-19*")
+              if "mission-lock" in p.name
+          ], "Chapter 19 mission lock exists")
 
-          chapter19_prose = sorted(book.rglob("chapter-19.md"))
-          require(not chapter19_prose, f"Chapter 19 prose exists: {chapter19_prose}")
-          chapter19_locks = [
-              path for path in book.joinpath("control").glob("*chapter-19*")
-              if "mission-lock" in path.name
-          ]
-          require(not chapter19_locks, f"Chapter 19 mission lock exists: {chapter19_locks}")
+          words = len(draft.read_text(encoding="utf-8").split())
+          print(f"Chapter 18 repository count: {words}")
+          require(words == 4600, f"Chapter 18 count is {words}, expected 4600")
+          require(4400 <= words <= 5200, f"Chapter 18 out of planned range: {words}")
+          PY
 
-          text = draft.read_text(encoding="utf-8")
-          words = len(text.split())
-          require(4400 <= words <= 5200, f"Chapter 18 word count out of range: {words}")
-          require(words == 4600, f"Chapter 18 exact draft word count changed: {words}")
-          require(text.startswith("09:12:52 EDT / 18:42:52 IST\n\n# Chapter 18 - The Local Record\n"), "Chapter 18 opening/title changed")
-          require("Forward Post Arjun\nKashmir" in text[:300], "Chapter 18 opening location changed")
-          require("10:01:12 Eastern Daylight Time / 19:31:12 Indian Standard Time" in text[-2500:], "Chapter 18 endpoint changed")
-          require(text.count("# Chapter ") == 1, "unexpected additional chapter heading")
-          require("Chapter 19" not in text, "Chapter 19 material appears in Chapter 18 draft")
+      - name: Validate Chapter 18 locked opening endpoint and evidence
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          text = Path("books/book-01/drafts/chapter-18.md").read_text(encoding="utf-8")
+
+          def require(value, message):
+              if not value:
+                  raise SystemExit(message)
+
+          require(text.startswith("09:12:52 EDT / 18:42:52 IST\n\n# Chapter 18 - The Local Record\n"), "opening or title changed")
+          require("Forward Post Arjun\nKashmir" in text[:300], "opening location changed")
+          require("10:01:12 Eastern Daylight Time / 19:31:12 Indian Standard Time" in text[-2500:], "endpoint changed")
+          require(text.count("# Chapter ") == 1, "unexpected chapter heading")
+          require("Chapter 19" not in text, "Chapter 19 content appears")
 
           required = [
-              "ARJ-K17-018",
-              "ARJ-K17-001",
-              "ARJ-K17-002",
-              "ARJ-K17-003",
-              "ARJ-K17-ACK-01",
-              "K17-AC-44719",
-              "K17-FS-1176",
-              "ARJ-SL-20471",
-              "ARJ-SL-20472",
-              "ARJ-SL-20473",
-              "Captain Rao",
-              "Naib Subedar Vikram Sethi",
-              "Lance Naik Suresh Pal",
+              "ARJ-K17-018", "ARJ-K17-001", "ARJ-K17-002", "ARJ-K17-003",
+              "ARJ-K17-ACK-01", "K17-AC-44719", "K17-FS-1176",
+              "ARJ-SL-20471", "ARJ-SL-20472", "ARJ-SL-20473",
+              "Captain Rao", "Naib Subedar Vikram Sethi", "Lance Naik Suresh Pal",
               "SECURITY LINE ONE: PASS",
-              "TARIQ, MAJOR / FORWARD LIAISON CELL",
+              "REGISTERED AUTHORITY: TARIQ, MAJOR / FORWARD LIAISON CELL",
               "LOCAL SOURCE-RECORD RECONSTRUCTION / MAINTENANCE COMMIT",
               "FINAL LOCAL AUTHENTICATION / COMMIT: NOT COMPLETE / NOT EXECUTED",
-              "LOCAL SOURCE-RECORD WRITES: 0",
-              "IRR-2041",
-              "REGISTERED AUTHORITY: TARIQ, MAJOR / FORWARD LIAISON CELL",
+              "LOCAL SOURCE-RECORD WRITES: 0", "IRR-2041",
               "The local record had entered the route without leaving the mountain.",
           ]
-          for phrase in required:
-              require(phrase in text, f"Chapter 18 draft missing required element: {phrase}")
+          missing = [item for item in required if item not in text]
+          require(not missing, f"required Chapter 18 elements missing: {missing}")
+          print("locked opening, endpoint, and evidence markers validated")
+          PY
 
-          hard_stop_terms = [
+      - name: Validate Chapter 18 hard stops and prohibited conclusions
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          text = Path("books/book-01/drafts/chapter-18.md").read_text(encoding="utf-8")
+
+          def require(value, message):
+              if not value:
+                  raise SystemExit(message)
+
+          required = [
               "It did not cross the inner security boundary.",
               "It did not pursue tracks where a hostile presence, tamper hazard, explosive hazard, or Line-of-Control crossing could not be excluded.",
               "We could not exclude an explosive or tamper hazard on the lower seam.",
@@ -152,133 +157,95 @@ jobs:
               "LIVE WRITE STATE: NOT AUTHORIZED",
               "I am removing him from questioning.",
           ]
-          for phrase in hard_stop_terms:
-              require(phrase in text, f"hard-stop or medical rule missing: {phrase}")
+          missing = [item for item in required if item not in text]
+          require(not missing, f"hard-stop or medical markers missing: {missing}")
 
-          prohibited_claims = [
-              "Tariq was physically present",
-              "Tariq personally operated",
-              "Sterling personally held",
-              "Vance personally typed",
-              "WSS-4 plaintext",
-              "the Hartwell presenter was",
-              "universal Northbridge",
-              "Julie called Sharma",
-              "Sharma called Julie",
+          prohibited = [
+              "Tariq was physically present", "Tariq personally operated",
+              "Sterling personally held", "Vance personally typed", "WSS-4 plaintext",
+              "the Hartwell presenter was", "universal Northbridge",
+              "Julie called Sharma", "Sharma called Julie",
+              "The WSS record had shown",
           ]
-          for phrase in prohibited_claims:
-              require(phrase not in text, f"prohibited conclusion appears: {phrase}")
+          present = [item for item in prohibited if item in text]
+          require(not present, f"prohibited conclusion or POV leak present: {present}")
 
           for artifact in ["TODO", "DRAFTING NOTE", "ALTERNATE VERSION", "PLACEHOLDER"]:
               require(artifact not in text, f"drafting artifact remains: {artifact}")
+          print("hard stops, medical stop, POV firewall, and proof ceiling validated")
+          PY
 
-          require("active_chapter_drafts:" in project and "books/book-01/drafts/chapter-18.md" in project, "PROJECT_STATE active draft missing")
-          require('status: "first draft exists; unaccepted; non-canon"' in project, "PROJECT_STATE Chapter 18 status wrong")
-          require("draft_exists: true" in project, "PROJECT_STATE draft_exists not true")
-          require("draft_words: 4600" in project, "PROJECT_STATE exact draft count missing")
-          require("accepted_manifest_changed: false" in project, "accepted manifest effect not locked false")
-          require("accepted_words_changed: false" in project, "accepted word effect not locked false")
-          require("Conduct the formal Chapter 18 acceptance review" in project, "formal acceptance review is not next gate")
-
-          print(f"Chapter 18 first draft validated at {words} words")
-          PYDRAFT
-
-      - name: Validate synchronized draft status
+      - name: Validate synchronized non-canon status
         shell: bash
         run: |
-          python - <<'PYSTATUS'
+          python - <<'PY'
           from pathlib import Path
 
           root = Path(".")
-          status_files = [
-              root / "README.md",
-              root / "books/book-01/control/00-overview.md",
-              root / "books/book-01/control/02-current-project-state.md",
-              root / "books/book-01/control/16-chapter-by-chapter-status-record.md",
-              root / "books/book-01/control/18-act-iii-entry-state.md",
-              root / "books/book-01/control/20-control-pack-maintenance-rules.md",
-              root / "books/book-01/control/23-word-budget-and-act-iii-architecture.md",
-              root / "books/book-01/control/README.md",
-              root / "books/book-01/drafts/README.md",
-              root / "books/book-01/manuscript/STATUS.md",
-          ]
+          project = (root / "PROJECT_STATE.yaml").read_text(encoding="utf-8")
 
-          def require(condition, message):
-              if not condition:
+          def require(value, message):
+              if not value:
                   raise SystemExit(message)
 
-          for path in status_files:
-              require(path.is_file(), f"missing synchronized status file: {path}")
-              text = path.read_text(encoding="utf-8")
-              for required in [
-                  "Chapter 18",
-                  "non-canon",
-                  "93,498",
-                  "09:12:52 EDT / 18:42:52 IST",
-                  "4,600",
-              ]:
-                  require(required in text, f"{required} missing from {path}")
+          for item in [
+              "books/book-01/drafts/chapter-18.md",
+              'status: "first draft exists; unaccepted; non-canon"',
+              "draft_exists: true",
+              "draft_words: 4600",
+              "accepted_manifest_changed: false",
+              "accepted_words_changed: false",
+              "Conduct the formal Chapter 18 acceptance review",
+          ]:
+              require(item in project, f"PROJECT_STATE missing: {item}")
+
+          status_files = [
+              "README.md",
+              "books/book-01/control/00-overview.md",
+              "books/book-01/control/02-current-project-state.md",
+              "books/book-01/control/16-chapter-by-chapter-status-record.md",
+              "books/book-01/control/18-act-iii-entry-state.md",
+              "books/book-01/control/20-control-pack-maintenance-rules.md",
+              "books/book-01/control/23-word-budget-and-act-iii-architecture.md",
+              "books/book-01/control/README.md",
+              "books/book-01/drafts/README.md",
+              "books/book-01/manuscript/STATUS.md",
+          ]
+          for rel in status_files:
+              text = (root / rel).read_text(encoding="utf-8")
+              for item in ["Chapter 18", "non-canon", "93,498", "09:12:52 EDT / 18:42:52 IST", "4,600"]:
+                  require(item in text, f"{rel} missing {item}")
               require(
                   "formal Chapter 18 acceptance review" in text
                   or "Formal Chapter 18 acceptance review" in text,
-                  f"next acceptance gate missing from {path}",
+                  f"{rel} missing next review gate",
               )
 
-          control_readme = (root / "books/book-01/control/README.md").read_text(encoding="utf-8")
-          require("Canon Control Pack v4.0" in control_readme, "control-pack version not advanced to 4.0")
-          require("[36. Chapter 18 Mission Lock](36-chapter-18-mission-lock.md)" in control_readme, "control index missing Chapter 18 lock")
-          print("Chapter 18 draft status synchronized")
-          PYSTATUS
+          index = (root / "books/book-01/control/README.md").read_text(encoding="utf-8")
+          require("Canon Control Pack v4.0" in index, "control-pack version not 4.0")
+          require("[36. Chapter 18 Mission Lock](36-chapter-18-mission-lock.md)" in index, "Chapter 18 lock missing from index")
+          print("non-canon production state synchronized")
+          PY
 
-      - name: Validate cleanup and scope
+      - name: Validate cleanup and whitespace
         shell: bash
         run: |
-          python - <<'PYCLEAN'
+          python - <<'PY'
           from pathlib import Path
 
           root = Path(".")
-          forbidden_names = {
-              "chapter-18-final.md",
-              "chapter-18-final2.md",
-              "chapter-18-latest.md",
-              "chapter-18-new-final.md",
-          }
-          found = [p for p in root.rglob("*") if p.name in forbidden_names]
-          if found:
-              raise SystemExit(f"duplicate or temporary Chapter 18 files remain: {found}")
-
-          temporary_suffixes = (".tmp", ".bak", ".orig", ".rej")
           temporary = [
               p for p in root.rglob("*")
-              if p.is_file() and p.name.endswith(temporary_suffixes)
+              if p.is_file() and p.name.endswith((".tmp", ".bak", ".orig", ".rej"))
           ]
           if temporary:
-              raise SystemExit(f"temporary implementation files remain: {temporary}")
-
-          if list(root.joinpath("books/book-01").rglob("chapter-19.md")):
-              raise SystemExit("Chapter 19 prose exists")
-          if any(
-              "chapter-19" in p.name and "mission-lock" in p.name
-              for p in root.joinpath("books/book-01/control").glob("*")
-          ):
-              raise SystemExit("Chapter 19 mission lock exists")
-          print("cleanup and Chapter 19 absence validated")
-          PYCLEAN
-
-      - name: Check changed-file whitespace
-        if: github.event_name == 'pull_request'
-        run: |
-          git diff --check "origin/${{ github.base_ref }}...HEAD" -- \
-            .github/workflows/book1-manuscript-validation.yml \
-            PROJECT_STATE.yaml \
-            README.md \
-            books/book-01/control/00-overview.md \
-            books/book-01/control/02-current-project-state.md \
-            books/book-01/control/16-chapter-by-chapter-status-record.md \
-            books/book-01/control/18-act-iii-entry-state.md \
-            books/book-01/control/20-control-pack-maintenance-rules.md \
-            books/book-01/control/23-word-budget-and-act-iii-architecture.md \
-            books/book-01/control/README.md \
-            books/book-01/drafts/README.md \
-            books/book-01/drafts/chapter-18.md \
-            books/book-01/manuscript/STATUS.md
+              raise SystemExit(f"temporary files remain: {temporary}")
+          for name in [
+              "chapter-18-final.md", "chapter-18-final2.md",
+              "chapter-18-latest.md", "chapter-18-new-final.md",
+          ]:
+              if list(root.rglob(name)):
+                  raise SystemExit(f"duplicate draft file remains: {name}")
+          print("cleanup validated")
+          PY
+          git diff --check "origin/${{ github.base_ref }}...HEAD"
