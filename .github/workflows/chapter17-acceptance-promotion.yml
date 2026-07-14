@@ -7,6 +7,12 @@ on:
     paths:
       - "tools/promote_chapter17_acceptance.py"
       - ".github/workflows/chapter17-acceptance-promotion.yml"
+  pull_request:
+    branches:
+      - main
+    paths:
+      - "tools/promote_chapter17_acceptance.py"
+      - ".github/workflows/chapter17-acceptance-promotion.yml"
 
 permissions:
   contents: write
