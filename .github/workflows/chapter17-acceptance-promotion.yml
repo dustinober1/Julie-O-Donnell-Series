@@ -23,7 +23,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 10
           show-progress: false
           ref: "agent/chapter-17-acceptance-review"
       - name: Run synchronized Chapter 17 promotion
