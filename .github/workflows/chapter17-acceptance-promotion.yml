@@ -27,6 +27,9 @@ jobs:
           show-progress: false
           ref: "agent/chapter-17-acceptance-review"
       - name: Run synchronized Chapter 17 promotion
-        run: python tools/promote_chapter17_acceptance.py
+        shell: bash
+        run: |
+          sed -i 's/[[:space:]]\+$//' tools/promote_chapter17_acceptance.py
+          python tools/promote_chapter17_acceptance.py
 
 # Trigger after workflow registration.
