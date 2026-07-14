@@ -418,7 +418,7 @@ Grant looked at the open package, the removed seal in its sleeve, and the board 
 
 “A preliminary contradiction,” she said. “And a later admission by the hardware.”
 
-Ortiz’s expression tightened. “Admission by who?”
+Ortiz’s expression tightened. “Admission by whom?”
 
 “The hardware,” Grant repeated. “Not the man.”
 
@@ -638,7 +638,7 @@ Ortiz applied replacement seal MPD-SL-551821 across the package seam. He pressed
 
 Park repeated the new number and signed as witness.
 
-Grant signed the preliminary technical observation at 09:08:46. Ortiz signed the custody and reseal record. Park signed the witness record. The DCIS generated-log medium received its own seal and became a derivative attachment to incident 187463 and the DCIS preliminary inquiry. It did not replace the board, the package, or any of the other six originals.
+Grant signed the preliminary technical observation at 09:08:46. Ortiz signed the custody and reseal record. Park signed the witness record. The DCIS-generated log medium received its own seal and became a derivative attachment to incident 187463 and the DCIS preliminary inquiry. It did not replace the board, the package, or any of the other six originals.
 
 Ortiz carried MPD-901446 back through the corridor.
 
