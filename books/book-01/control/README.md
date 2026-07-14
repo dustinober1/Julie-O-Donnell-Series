@@ -1,8 +1,8 @@
-# Canon Control Pack v4.1
+# Canon Control Pack v4.2
 
 The accepted manuscript always outranks this control pack.
 
-Version 4.1 records Chapter 18 — **The Local Record** — as accepted canon at `../manuscript/chapters/chapter-18.md`. Accepted canon is the Prologue and Chapters 1–18 at **97,976 words**, ending at **10:01:12 EDT / 19:31:12 IST**.
+Version 4.2 preserves Chapter 18 — **The Local Record** — as accepted canon at `../manuscript/chapters/chapter-18.md` and adds the approved, non-canon Chapter 19 mission lock. Accepted canon remains the Prologue and Chapters 1–18 at **97,976 words**, ending at **10:01:12 EDT / 19:31:12 IST**.
 
 ## Control documents
 
@@ -44,6 +44,7 @@ Version 4.1 records Chapter 18 — **The Local Record** — as accepted canon at
 - [35. Chapter 17 Acceptance Review](35-chapter-17-acceptance-review.md)
 - [36. Chapter 18 Mission Lock](36-chapter-18-mission-lock.md)
 - [37. Chapter 18 Acceptance Review](37-chapter-18-acceptance-review.md)
+- [38. Chapter 19 Mission Lock](38-chapter-19-mission-lock.md)
 
 Cross-book character continuity is controlled separately in [`../../../series/recurring-character-ledger.md`](../../../series/recurring-character-ledger.md).
 
@@ -59,8 +60,19 @@ Cross-book character continuity is controlled separately in [`../../../series/re
 - **Accepted total:** 97,976 words
 - **POV:** Major Ananya Sharma only
 - **MPD custody:** unchanged; all seven Washington packages remain in MPD physical custody
-- **Final federal receiver:** none
+- **Final federal receiver:** none in accepted canon
+
+## Approved Chapter 19 planning
+
+- **Status:** mission locked; undrafted; non-canon
+- **Dominant mission:** named federal receiving act and Washington–field reconnection, followed by Hartwell exact-serial and institutional custody payoff
+- **Planned opening:** 10:01:12 EDT / 19:31:12 IST
+- **Planned endpoint:** 10:44:12 EDT / 20:14:12 IST
+- **Planned POV:** Julie primary; one bounded Grant Hartwell cutaway
+- **Planned range:** 5,200–5,900 words
+- **Package scope:** no MPD package opened, connected, moved, combined, or transferred
+- **Accepted-manuscript effect:** none
 
 ## Current production gate
 
-Create and approve a dedicated Chapter 19 mission lock from the accepted Chapter 18 endpoint. Do not draft Chapter 19 before approval and do not create a complete remainder-of-Act-III outline.
+Draft and integrate the complete first version of Chapter 19 under `38-chapter-19-mission-lock.md`. Keep it non-canon until formal acceptance. Do not begin Chapter 20 planning and do not create a complete remainder-of-Act-III outline.
