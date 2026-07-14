@@ -12,7 +12,7 @@
 - Act III: Chapters 13–18 accepted
 - Accepted length: **97,976 words**
 - Canon endpoint: **10:01:12 EDT / 19:31:12 IST**
-- Active chapter draft: none
+- Active chapter draft: [`../drafts/chapter-19.md`](../drafts/chapter-19.md)
 - Book 1 status: not publication-ready
 
 ## Accepted Chapter 18
@@ -24,27 +24,29 @@
 - Acceptance review: [`../control/37-chapter-18-acceptance-review.md`](../control/37-chapter-18-acceptance-review.md)
 - Opening: **09:12:52 EDT / 18:42:52 IST**
 - Endpoint: **10:01:12 EDT / 19:31:12 IST**
-- POV: Major Ananya Sharma only
 - Result: K-17 remained intact; Security Line One passed; Phase B reached the controller and requested a local reconstruction/maintenance commit; final local authentication failed; local writes remained zero; local originals survived; the superseding product omitted the local events
-- Custody: Indian local original, patrol record/photographs, and derivative remain separate; MPD's seven Washington packages are unchanged
+- Custody: Indian records remain separate; MPD's seven Washington packages remain unchanged
 - Limit: no physical human operator, personal keystrokes/possession, WSS plaintext, Hartwell presenter, reconstruction author, guilt, innocence, immunity, admissibility, final federal receiver, or public vindication was established
 
-## Approved Chapter 19 planning
+## Chapter 19 first draft — non-canon
 
 - Mission lock: [`../control/38-chapter-19-mission-lock.md`](../control/38-chapter-19-mission-lock.md)
-- Status: mission locked, undrafted, and non-canon
-- Dominant mission: reconnect the bounded K-17 result to Washington through one named federal receiving act, then obtain Hartwell's exact `SSO-NS-004` serial and institutional physical-custody chain
-- Planned opening: **10:01:12 EDT / 19:31:12 IST**
-- Planned endpoint: **10:44:12 EDT / 20:14:12 IST**
-- Planned POV: Julie primary with one bounded Grant Hartwell cutaway
-- Planned range: **5,200–5,900 words**
-- Evidence limit: no MPD package opened, connected, moved, combined, or transferred
+- Draft: [`../drafts/chapter-19.md`](../drafts/chapter-19.md)
+- Working title: **The Name on the Record**
+- Exact words: **5,393**
+- Opening: **10:01:12 EDT / 19:31:12 IST**
+- Endpoint: **10:44:12 EDT / 20:14:12 IST**
+- POV: Julie primary with one bounded Grant Hartwell cutaway
+- Status: drafted, unaccepted, non-canon
+- Acceptance review: not created
 - Accepted-manuscript effect: none
+- Evidence limit: no MPD package opened, connected, moved, combined, or transferred
+- Proof limit: the draft establishes office/device custody but does not establish Sterling's personal possession, operation, or command
 
 ## Current unresolved accepted state
 
-Hartwell presenter and exact serial remain unresolved in accepted canon. WSS-4 plaintext remains unavailable. The Chapter 18 local field outcome is accepted, but human authorization, alternative identity path, upstream responsibility, final federal custody, and public narrative fracture remain open. The Chapter 19 mission lock plans specific advancement but does not make any planned result canon.
+Hartwell presenter and exact serial remain unresolved in **accepted canon** because Chapter 19 has not been accepted. WSS-4 plaintext, alternative identity path, upstream responsibility, final federal custody, and public narrative fracture remain open. The draft may not control later prose until formal acceptance and promotion.
 
 ## Current gate
 
-Draft and integrate the complete first version of Chapter 19 under the approved mission lock. Keep the draft non-canon until formal acceptance. Do not begin Chapter 20 planning or create a complete remainder-of-Act-III outline.
+Perform the formal Chapter 19 acceptance review and synchronized promotion pass. Keep Chapter 19 non-canon unless the review explicitly accepts it. Do not begin Chapter 20 planning or create a complete remainder-of-Act-III outline.
