@@ -20,7 +20,10 @@ The authoritative production status is `../../../PROJECT_STATE.yaml`. The author
 | Chapter 19 manuscript | `../manuscript/chapters/chapter-19.md` |
 | Chapter 19 mission lock | `38-chapter-19-mission-lock.md` |
 | Chapter 19 acceptance review | `39-chapter-19-acceptance-review.md` — **ACCEPT** |
-| Chapter 20 | No prose or mission lock |
+| Chapter 20 mission lock | `40-chapter-20-mission-lock.md` |
+| Chapter 20 | Mission locked; undrafted; non-canon |
+| Chapter 20 prose | Not created |
+| Chapter 21 prose or mission lock | Not created |
 | Complete remainder outline | Not created |
 | Book status | Not publication-ready |
 
@@ -36,10 +39,26 @@ The authoritative production status is `../../../PROJECT_STATE.yaml`. The author
 - **Hartwell result:** exact serial `SSO-NS-004`; accepted challenge at 07:47:49 EDT; credentialed office-support/Hartwell custody sequence; dark-overcoat entrant excluded as direct challenge presenter at that moment; current signer custody unknown
 - **Public state:** Sterling’s account remains dominant and uncorrected
 
+## Chapter 20 mission-lock state
+
+- **Working title:** The Custody Exception
+- **Mission-lock blob:** `c074e4f6f9ec9cddcbc701e2923f34b3082ede5a`
+- **Dominant function:** use the Chapter 19 preservation demands to place `SSO-NS-004` under a named no-use physical hold and establish the office authorization exception that moved it through WSS-4 and Hartwell while preserving the separation among office registration, carrier custody, authorization, knowledge, and personal command
+- **Opening:** **10:44:12 EDT / 20:14:12 IST**, secure MPD evidence intake
+- **Intended endpoint:** **11:26:32 EDT / 20:56:32 IST**, secure MPD evidence intake
+- **POV:** Julie primary with one bounded Grant Legislative Secure Services cutaway
+- **Midpoint reversal:** the physical carrier is not the authorizer; the signer enters a legitimate legislative-security compromise-control process; the stronger proof is the office continuity exception, not immediate federal possession
+- **Target:** 4,400 words
+- **Preferred range:** 4,000–4,800 words
+- **Hard ceiling:** 5,200 words
+- **Canon effect:** none until reviewed prose receives an explicit ACCEPT verdict and synchronized promotion
+
 ## Proof ceilings still active
 
 Accepted canon does not establish Sterling’s personal possession, presentation, operation, knowledge, command, or direction; courier or Hartwell-custodian conspiracy knowledge; Tariq’s physical presence or personal operation; Vance’s personal Payload 88 keystrokes; WSS plaintext; the alternative deployment actor; successful remote-reconstruction authorship; full compact-case contents; guilt, innocence, immunity, privilege resolution, admissibility, charge, conviction, exoneration, universal institutional complicity, final recovery of `SSO-NS-004`, or public vindication.
 
+The Chapter 20 mission lock may plan bounded future facts. It does not add them to accepted canon.
+
 ## Current production gate
 
-Prepare the Chapter 20 mission-lock planning pass only. Do not draft Chapter 20 until the lock is approved, and do not create a complete chapter-by-chapter outline for the remainder of Act III.
+Draft the first non-canon version of Chapter 20 only from `40-chapter-20-mission-lock.md`. Do not alter accepted prose or the accepted manifest, draft Chapter 21, create a Chapter 21 mission lock, or create a complete chapter-by-chapter outline for the remainder of Act III.

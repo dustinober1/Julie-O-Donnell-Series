@@ -29,6 +29,19 @@
 - Result: named federal receiving authority, lawful bounded field result, exact `SSO-NS-004` serial, and office-to-Hartwell institutional custody chain
 - Proof limit: current signer custody and personal human responsibility remain unresolved; public narrative remains uncorrected
 
+## Chapter 20 planning state
+
+- Mission lock: [`../control/40-chapter-20-mission-lock.md`](../control/40-chapter-20-mission-lock.md)
+- Working title: **The Custody Exception**
+- Status: mission locked, undrafted, and non-canon
+- Accepted-manuscript effect: none
+- Planned opening: **10:44:12 EDT / 20:14:12 IST**, secure MPD evidence intake
+- Intended endpoint: **11:26:32 EDT / 20:56:32 IST**, secure MPD evidence intake
+- Planning range: **4,000–4,800 words**, target **4,400**, hard ceiling **5,200**
+- Chapter 20 prose file: absent
+- Chapter 21 prose or mission lock: absent
+- Complete remainder outline: absent
+
 ## Current gate
 
-Prepare the Chapter 20 mission-lock planning pass only. No Chapter 20 prose or complete remainder outline is authorized.
+Draft the first non-canon version of Chapter 20 only from the approved mission lock. Do not alter accepted prose or the accepted manifest, draft Chapter 21, create a Chapter 21 mission lock, or create a complete remainder outline.

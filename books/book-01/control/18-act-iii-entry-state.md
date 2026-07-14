@@ -31,7 +31,7 @@ Act III accepted canon comprises Chapters 13–19:
 - The superseding allied product omitted the local events.
 - Hartwell establishes exact serial `SSO-NS-004`, the accepted 07:47:49 EDT challenge, and the credentialed office-support/Hartwell custody sequence.
 - The dark-overcoat entrant was not the direct challenge presenter at that moment.
-- The signer is no longer at Hartwell; current physical custody is unknown.
+- The signer is no longer at Hartwell; current physical custody is unknown in accepted canon.
 - Sterling’s public account remains dominant and uncorrected.
 
 ## Knowledge and proof limits
@@ -45,12 +45,27 @@ Accepted canon does not establish Sterling’s personal possession, presentation
 - Elias remains offstage in separate guarded medical custody with no board, module, biometric, remote guidance, or technical action.
 - No Chapter 19 event opens, connects, mounts, examines, moves, combines, or transfers any MPD package.
 
+## Chapter 20 approved planning state
+
+- **Mission lock:** `40-chapter-20-mission-lock.md`
+- **Mission-lock blob:** `c074e4f6f9ec9cddcbc701e2923f34b3082ede5a`
+- **Working title:** The Custody Exception
+- **Status:** mission locked, undrafted, and non-canon
+- **Opening planned:** **10:44:12 EDT / 20:14:12 IST**, secure MPD evidence intake
+- **Intended endpoint:** **11:26:32 EDT / 20:56:32 IST**, secure MPD evidence intake
+- **POV:** Julie primary; one bounded Grant Legislative Secure Services cutaway
+- **Dominant function:** place `SSO-NS-004` under a named no-use physical hold and establish the office authorization exception that moved it through WSS-4 and Hartwell while preserving the separation among registration, physical custody, authorization, knowledge, and personal command
+- **Midpoint reversal:** the physical carrier is not the authorizer; the signer enters a legitimate legislative-security compromise-control process; the stronger proof is the office continuity exception rather than federal possession of the device
+- **Target words:** 4,400
+- **Preferred range:** 4,000–4,800
+- **Hard ceiling:** 5,200
+- **Canon effect:** none until a later explicit acceptance and synchronized promotion
+
 ## Remaining Book 1 obligations
 
 High-level obligations remain:
 
-- current custody, authorization, and recovery path for `SSO-NS-004`;
-- office custody log and presenter/receiver records;
+- the instruction behind the planned office continuity exception and the personal-command proof ceiling;
 - WSS-4 plaintext or lawful equivalent where necessary;
 - alternative identity path and human responsibility;
 - Vance, Sterling, Tariq, Mercer, Bell, Price, Hackett, Chen, Marcus, Elias, and Sharma consequences;
@@ -62,4 +77,4 @@ This is an obligation inventory, not a complete chapter-by-chapter remainder out
 
 ## Current production gate
 
-Prepare the Chapter 20 mission-lock planning pass only. Do not draft Chapter 20 until the lock is approved, and do not create a complete chapter-by-chapter outline for the remainder of Act III.
+Draft and integrate the first non-canon version of Chapter 20 only from `40-chapter-20-mission-lock.md`. Do not draft Chapter 21, create a Chapter 21 mission lock, alter accepted prose or the accepted manifest, or create a complete chapter-by-chapter outline for the remainder of Act III.

@@ -36,39 +36,41 @@
 ## Evidence and knowledge
 
 18. Record every accepted evidence transfer with time, location, transferor, recipient, seal condition, reason, and witness.
-19. Keep the telemetry case, administrator board, recovery cartridge, Partition A, Partition B, WSS local audit, Chen records, Sharma records, K-17 local originals, Hartwell original, and derivative examiner media distinct.
+19. Keep the telemetry case, administrator board, recovery cartridge, Partition A, Partition B, WSS local audit, Chen records, Sharma records, K-17 local originals, Hartwell original, office originals, Legislative Secure Services records, `SSO-NS-004`, and derivative examiner media distinct.
 20. Update both what evidence proves and what it does not prove.
 21. Registered authority never proves physical human custody without separate evidence.
-22. Never invent contents of incomplete, excluded, encrypted, unavailable, or unexamined records.
-23. Update the knowledge matrix whenever accepted prose gives a viewpoint character material information.
-24. A legal/federal receiving act and physical evidence custody are separate states and must be recorded separately.
-25. A certified derivative never replaces its independently controlled original.
+22. Physical custody never proves authorization, knowledge, intent, or command without separate evidence.
+23. Never invent contents of incomplete, excluded, encrypted, unavailable, or unexamined records.
+24. Update the knowledge matrix whenever accepted prose gives a viewpoint character material information.
+25. A legal/federal receiving act and physical evidence custody are separate states and must be recorded separately.
+26. A certified derivative never replaces its independently controlled original.
+27. A no-use hold preserves state and custody; it does not authenticate prior operation.
 
 ## Plot and series continuity
 
-26. Update the thread-disposition matrix after every accepted chapter.
-27. Resolve Book 1 obligations before using a series hook to defer them.
-28. Update the recurring-character ledger whenever a returning character’s accepted status, knowledge, injury, relationship, legal exposure, location, or future function changes.
-29. Do not assign a future-book role as canon until the character reaches an accepted Book 1 state.
-30. High-level architecture may guide word budget and sequence, but unwritten chapter functions become controlling only through individual mission locks.
-31. Plans and drafts for unwritten or unaccepted chapters remain non-canon.
-32. Do not create a complete chapter-by-chapter remainder-of-Act-III outline.
+28. Update the thread-disposition matrix after every accepted chapter.
+29. Resolve Book 1 obligations before using a series hook to defer them.
+30. Update the recurring-character ledger whenever a returning character’s accepted status, knowledge, injury, relationship, legal exposure, location, or future function changes.
+31. Do not assign a future-book role as canon until the character reaches an accepted Book 1 state.
+32. High-level architecture may guide word budget and sequence, but unwritten chapter functions become controlling only through individual mission locks.
+33. Plans and drafts for unwritten or unaccepted chapters remain non-canon.
+34. Do not create a complete chapter-by-chapter remainder-of-Act-III outline.
 
 ## Word count and ending control
 
-33. Recount accepted manuscript words whenever prose is promoted or revised.
-34. Record the accepted total in `PROJECT_STATE.yaml` and `../ACCEPTED_MANUSCRIPT.yaml` using the repository count utility.
-35. Word count never justifies a scene that does not advance threat, evidence, decision, relationship, institutional consequence, geopolitical consequence, or required aftermath.
-36. Book 1 must remain within 100,000–125,000 accepted words; the planning target is 112,500.
-37. Check the ending contract before accepting the climax, resolution, or epilogue.
+35. Recount accepted manuscript words whenever prose is promoted or revised.
+36. Record the accepted total in `PROJECT_STATE.yaml` and `../ACCEPTED_MANUSCRIPT.yaml` using the repository count utility.
+37. Word count never justifies a scene that does not advance threat, evidence, decision, relationship, institutional consequence, geopolitical consequence, or required aftermath.
+38. Book 1 must remain within 100,000–125,000 accepted words; the planning target is 112,500.
+39. Check the ending contract before accepting the climax, resolution, or epilogue.
 
 ## Revision and audit
 
-38. Narrative House Style v2.2 controls craft but cannot create or change canon.
-39. Run a discrepancy check before each new act or major phase.
-40. Run an evidence-limits check before investigation, arrest, testimony, publication, decryption, institutional-custody, or field-record chapters.
-41. Run a forward continuity audit before final revision and a reverse-order payoff audit after the ending exists.
-42. Before publication, audit exact times, EDT/IST conversion, titles, vehicles, security bypasses, certificate claims, evidence seals, injuries, knowledge, relationships, public narrative, and the official-record theme.
+40. Narrative House Style v2.2 controls craft but cannot create or change canon.
+41. Run a discrepancy check before each new act or major phase.
+42. Run an evidence-limits check before investigation, arrest, testimony, publication, decryption, institutional-custody, or field-record chapters.
+43. Run a forward continuity audit before final revision and a reverse-order payoff audit after the ending exists.
+44. Before publication, audit exact times, EDT/IST conversion, titles, vehicles, security bypasses, certificate claims, evidence seals, injuries, knowledge, relationships, public narrative, and the official-record theme.
 
 ## Accepted maintenance record through Chapter 19
 
@@ -85,6 +87,23 @@
 - Chapter 19 mission lock remains protected at `7b69ff80ed9b0286a52c0a8428792489eb236ef3`.
 - No temporary acceptance helper, debug file, or workflow may remain after the pass.
 
+## Chapter 20 mission-lock maintenance record
+
+- Mission lock: `40-chapter-20-mission-lock.md`
+- Mission-lock blob: `c074e4f6f9ec9cddcbc701e2923f34b3082ede5a`
+- Working title: **The Custody Exception**
+- Status: mission locked, undrafted, non-canon
+- Opening planned: **10:44:12 EDT / 20:14:12 IST**
+- Intended endpoint: **11:26:32 EDT / 20:56:32 IST**
+- Planning target: **4,400 words**
+- Preferred range: **4,000–4,800 words**
+- Hard ceiling: **5,200 words**
+- Exactly one Chapter 20 mission lock is authorized.
+- No Chapter 20 prose exists.
+- No Chapter 21 prose or mission lock exists.
+- No complete remainder-of-Act-III outline exists.
+- The Chapter 20 mission lock has no canon effect.
+
 ## Current maintenance gate
 
-Prepare the Chapter 20 mission-lock planning pass only. Do not draft Chapter 20 until the lock is approved, and do not create a complete remainder-of-Act-III outline.
+Draft and integrate the first non-canon version of Chapter 20 only from `40-chapter-20-mission-lock.md`. Do not alter accepted prose or the accepted manifest, draft Chapter 21, create a Chapter 21 mission lock, or create a complete remainder-of-Act-III outline.
