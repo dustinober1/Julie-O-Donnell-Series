@@ -53,7 +53,20 @@ Accepted total through Chapter 18: **97,976 words**.
 - **Custody result:** original, patrol record, derivative, and acknowledgment remain distinct; no Washington package or MPD custody state changed
 - **Proof ceiling:** no human operator, personal presence/keystrokes, WSS plaintext, Hartwell presenter, reconstruction author, upstream command, guilt, innocence, admissibility, immunity, final federal custody, or public vindication
 
-## Chapter 19 and later
+## Chapter 19 planning
+
+- **Status:** Mission locked; undrafted; non-canon
+- **Mission lock:** `38-chapter-19-mission-lock.md`
+- **Dominant mission:** reconnect the bounded K-17 result to Washington through one named federal receiving act, then obtain Hartwell's exact `SSO-NS-004` serial and institutional physical-custody chain
+- **Planned opening:** 10:01:12 EDT / 19:31:12 IST
+- **Planned endpoint:** 10:44:12 EDT / 20:14:12 IST
+- **Planned POV:** Julie primary with one bounded Special Agent Leila Grant Hartwell cutaway
+- **Planned word range:** 5,200–5,900 words
+- **Package scope:** no MPD package opened, connected, moved, combined, or transferred
+- **Accepted-manuscript effect:** none
+- **Proof ceiling:** no Sterling personal possession/command, WSS plaintext, Tariq physical operation, Vance personal keystrokes, alternative deployment operator, guilt, innocence, admissibility, or public vindication
+
+## Chapter 20 and later
 
 - **Status:** Not drafted and not individually mission locked
 - **Planning:** High-level obligation inventory only
@@ -61,4 +74,4 @@ Accepted total through Chapter 18: **97,976 words**.
 
 ## Current gate
 
-Create and approve a dedicated Chapter 19 mission lock. Do not draft Chapter 19 before approval.
+Draft and integrate Chapter 19 under the approved mission lock. Keep the draft non-canon until formal acceptance. Do not begin Chapter 20 planning or create a complete remainder-of-Act-III outline.
