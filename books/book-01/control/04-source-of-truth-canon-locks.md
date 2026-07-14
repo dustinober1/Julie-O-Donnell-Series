@@ -268,12 +268,12 @@ No final federal receiver or technical examiner exists. Hartwell presenter/exact
 - The board lacks the original attributed physical signing event while later gate and reconciliation events remain authenticated.
 - No alternative identity path, human operator, final receiver, innocence, guilt, immunity, admissibility, Hartwell result, WSS plaintext, K-17 result, Phase B result, field truth, or public vindication is established.
 
-## Accepted Chapter 18 canon lock — 2026-07-14
+## Historical Chapter 18 canon lock — superseded by Chapter 19 acceptance
 
 - Chapter 18 — **The Local Record** — is accepted unchanged at **4,478 words** at `books/book-01/manuscript/chapters/chapter-18.md`.
 - Reviewed/promoted blob: `6f5873d6e975ec74646af152aad22ea84545fc01`.
-- Accepted total: **97,976 words**.
-- Accepted endpoint: **10:01:12 EDT / 19:31:12 IST** at Forward Post Arjun.
+- This was the controlling endpoint before Chapter 19 acceptance.
+- Historical endpoint: **10:01:12 EDT / 19:31:12 IST** at Forward Post Arjun.
 - `ARJ-K17-018` is the Indian local custody umbrella; `ARJ-K17-001`, `ARJ-K17-002`, and `ARJ-K17-003` remain separate and resealed under `ARJ-SL-20471`, `ARJ-SL-20473`, and `ARJ-SL-20472` respectively.
 - `K17-AC-44719`, `K17-FS-1176`, `IRR-2041`, and `ARJ-K17-ACK-01` retain their accepted Chapter 18 meanings and proof limits.
 - K-17 remained physically intact at inspection; Security Line One passed; `K17-PHASE-B` reached the controller and requested local source-record reconstruction/maintenance commit; final local authentication failed; no local write executed; the original journal survived.
@@ -281,4 +281,4 @@ No final federal receiver or technical examiner exists. Hartwell presenter/exact
 - Registered Tariq authority does not prove Tariq's physical presence, possession, keystrokes, or personal command.
 - The outbound acknowledgment does not transfer the original, disclose unrestricted sensor geography, establish admissibility, or automatically give field merits to Julie, Marcus, Elias, Grant, Hackett, MPD, or any named Washington recipient.
 - MPD custody, Washington package state, and the trio's injuries/medical separation remain unchanged offstage.
-- No Chapter 19 prose or mission lock exists. The next gate is a dedicated Chapter 19 mission lock only.
+- This endpoint and production gate were superseded by the accepted Chapter 19 canon lock recorded at the top of this document.
