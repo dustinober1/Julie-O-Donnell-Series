@@ -1,9 +1,7 @@
 name: Chapter 18 one-shot fixup
 
 on:
-  push:
-    branches:
-      - agent/chapter-18-first-draft
+  pull_request:
     paths:
       - ".github/workflows/chapter18-fixup.yml"
 
@@ -12,6 +10,7 @@ permissions:
 
 jobs:
   fix:
+    if: github.head_ref == 'agent/chapter-18-first-draft'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
