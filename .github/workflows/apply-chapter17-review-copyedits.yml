@@ -1,0 +1,46 @@
+name: Apply Chapter 17 review copyedits
+
+on:
+  push:
+    branches: [agent/chapter-17-first-draft]
+    paths:
+      - ".github/workflows/apply-chapter17-review-copyedits.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: agent/chapter-17-first-draft
+          fetch-depth: 0
+          show-progress: false
+
+      - name: Apply copyedits and remove temporary workflow
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          path = Path('books/book-01/drafts/chapter-17.md')
+          text = path.read_text(encoding='utf-8')
+          replacements = {
+              'Ortiz’s expression tightened. “Admission by who?”': 'Ortiz’s expression tightened. “Admission by whom?”',
+              'The DCIS generated-log medium received its own seal': 'The DCIS-generated log medium received its own seal',
+          }
+          for old, new in replacements.items():
+              if text.count(old) != 1:
+                  raise SystemExit(f'expected one occurrence: {old!r}')
+              text = text.replace(old, new)
+          path.write_text(text, encoding='utf-8')
+          PY
+          rm .github/workflows/apply-chapter17-review-copyedits.yml
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --check
+          git commit -m "Apply Chapter 17 review copyedits"
+          git push origin HEAD:agent/chapter-17-first-draft
