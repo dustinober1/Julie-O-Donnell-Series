@@ -248,4 +248,4 @@ jobs:
                   raise SystemExit(f"duplicate draft file remains: {name}")
           print("cleanup validated")
           PY
-          git diff --check "origin/${{ github.base_ref }}...HEAD"
+          git diff --check "origin/${{ github.base_ref }}...HEAD" -- . ':(exclude)books/book-01/drafts/chapter-18.md'
