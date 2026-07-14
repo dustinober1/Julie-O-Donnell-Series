@@ -8,8 +8,11 @@ This directory contains prose that is **not accepted canon**. A draft may be com
 - Chapter 17 — **The First Examination** — has been accepted and moved to `../manuscript/chapters/chapter-17.md`.
 - Chapter 17 review: `../control/35-chapter-17-acceptance-review.md` — **ACCEPT**
 - Chapter 17 reviewed blob: `1c4022ebb8d27d8d448f98bcf74fbf09e6e560c1`
-- Chapter 18 prose: not created
-- Chapter 18 mission lock: not created
+- Chapter 18 — **The Local Record** — is mission locked in `../control/36-chapter-18-mission-lock.md`.
+- Chapter 18 prose: **not created**
+- Chapter 18 draft path when authorized: `chapter-18.md`
+- Chapter 19 prose or mission lock: **not created**
+- Complete remainder-of-Act-III outline: **not created**
 
 ## Accepted manuscript reference
 
@@ -17,6 +20,20 @@ This directory contains prose that is **not accepted canon**. A draft may be com
 - Accepted words: **93,498**
 - Accepted endpoint: **09:12:52 EDT / 18:42:52 IST**
 - Accepted manifest: `../ACCEPTED_MANUSCRIPT.yaml`
+
+## Chapter 18 drafting gate
+
+The next authorized action is to create exactly one complete first version at `chapter-18.md` from `../control/36-chapter-18-mission-lock.md`.
+
+The draft must:
+
+- remain non-canon;
+- use **The Local Record**;
+- open at 09:12:52 EDT / 18:42:52 IST;
+- use Major Ananya Sharma as the only close-third POV;
+- target 4,400–5,200 words;
+- create no Chapter 19 material; and
+- leave the accepted manifest, accepted total, and accepted endpoint unchanged.
 
 ## Rules
 
@@ -26,10 +43,4 @@ This directory contains prose that is **not accepted canon**. A draft may be com
 4. Rejected or superseded drafts remain recoverable through Git history; do not create duplicate active versions.
 5. A later chapter may not treat an unaccepted draft endpoint as canon.
 
-## Current gate
-
-Preserve the accepted Chapter 17 state. No complete remainder-of-Act-III outline was created during the Chapter 17 acceptance pass.
-
-## Accepted Chapter 17 state — 2026-07-14
-
-Chapter 17 is accepted at **5,888 words**, ending at **09:12:52 EDT / 18:42:52 IST**. `MPD-901446` was the sole opened package, was resealed under `MPD-SL-551821`, and returned to the common MPD chest. All seven packages remain in MPD custody, and no final federal receiver exists.
+No complete remainder-of-Act-III outline has been created.
