@@ -40,6 +40,7 @@ jobs:
                   'Commit synchronized promotion',
               }
           }
+          log = []
           for name in (
               'Review, repair, promote, and synchronize Chapter 19',
               'Commit synchronized promotion',
@@ -47,7 +48,19 @@ jobs:
               script = selected.get(name)
               if not script:
                   raise SystemExit(f'missing promotion step: {name}')
-              print(f'::group::{name}')
-              subprocess.run(['bash', '-euo', 'pipefail', '-c', script], check=True)
-              print('::endgroup::')
+              result = subprocess.run(
+                  ['bash', '-euo', 'pipefail', '-c', script],
+                  text=True,
+                  stdout=subprocess.PIPE,
+                  stderr=subprocess.STDOUT,
+              )
+              log.append(f'## {name}\nexit={result.returncode}\n{result.stdout}')
+              if result.returncode:
+                  Path('.github/ch19-promotion-debug.log').write_text('\n\n'.join(log), encoding='utf-8')
+                  subprocess.run(['git', 'config', 'user.name', 'github-actions[bot]'], check=True)
+                  subprocess.run(['git', 'config', 'user.email', '41898282+github-actions[bot]@users.noreply.github.com'], check=True)
+                  subprocess.run(['git', 'add', '.github/ch19-promotion-debug.log'], check=True)
+                  subprocess.run(['git', 'commit', '-m', 'Record Chapter 19 promotion failure'], check=True)
+                  subprocess.run(['git', 'push', 'origin', 'HEAD:agent/chapter-19-acceptance'], check=True)
+                  raise SystemExit(result.returncode)
           PY
