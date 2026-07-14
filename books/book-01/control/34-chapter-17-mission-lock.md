@@ -2,15 +2,24 @@
 
 ## Status and authority
 
-**Status:** Approved production planning only.  
-**Chapter:** 17  
-**Working title:** **The First Examination**  
-**Accepted opening authority:** Prologue and Chapters 1–16 only  
-**Accepted manuscript total:** **87,610 words**  
-**Accepted opening time:** **08:15:52 EDT / 17:45:52 IST**  
-**Accepted opening location:** Secure Metropolitan Police evidence intake under General William Hackett's named preservation hold  
-**Planned maximum endpoint:** **09:12:52 EDT / 18:42:52 IST**  
-**Planned live duration:** **57 minutes**  
+**Status:** Approved production planning only.
+
+**Chapter:** 17
+
+**Working title:** **The First Examination**
+
+**Accepted opening authority:** Prologue and Chapters 1–16 only
+
+**Accepted manuscript total:** **87,610 words**
+
+**Accepted opening time:** **08:15:52 EDT / 17:45:52 IST**
+
+**Accepted opening location:** Secure Metropolitan Police evidence intake under General William Hackett's named preservation hold
+
+**Planned maximum endpoint:** **09:12:52 EDT / 18:42:52 IST**
+
+**Planned live duration:** **57 minutes**
+
 **Planning range:** **5,600–6,300 words**, preferred center approximately **5,950**
 
 This document controls Chapter 17 drafting only where it agrees with accepted prose and current canon controls. It creates no Chapter 17 canon. Only a completed draft that passes the formal acceptance gate and is promoted into the accepted manuscript can establish Chapter 17 events.
@@ -21,7 +30,7 @@ No Chapter 17 prose is authorized inside this file.
 
 ## 1. Accepted Chapter 16 canon at the opening
 
-### Time, people, and location
+### Time, location, and separation
 
 At **08:15:52 EDT / 17:45:52 IST**:
 
@@ -61,9 +70,28 @@ Officer Gabriel Ortiz, badge 4172, remains the interim receiving officer and pac
 
 General William Hackett is the named federal preservation sponsor. He is not the physical receiver, technical examiner, evidence custodian, adjudicator, immunity authority, or uncomplicated ally. No verified named federal officer has accepted the complete seven-package incident in one documented transfer.
 
-### Allied and knowledge state
+### Allied record and knowledge state
 
-A restricted acknowledgment establishes that an independently controlled challenged allied incident set exists. Julie does not know Sharma's identity, the Indian no-fire result, the detailed allied records, K-17's physical state, Phase B's meaning, or which product reflects ground truth. Sharma does not know Julie's identity, MPD incident `187463`, the seven package references, the Washington custody sequence, WSS-4 contents, or the trio's location.
+A restricted acknowledgment establishes that an independently controlled challenged allied incident set exists.
+
+Julie does not know:
+
+- Sharma's identity;
+- the Indian no-fire result;
+- the detailed allied records;
+- K-17's current physical state;
+- Phase B's meaning; or
+- which product reflects ground truth.
+
+Sharma does not know:
+
+- Julie's identity;
+- the complete Washington narrative;
+- MPD incident `187463`;
+- the seven package references;
+- Hartwell's custody event;
+- WSS-4 contents; or
+- the trio's current location.
 
 ### Public and legal state
 
@@ -97,6 +125,7 @@ A restricted acknowledgment establishes that an independently controlled challen
 - Apex-controlled equipment or observers would compromise independence.
 - Opening multiple packages would turn one chapter into a full forensic campaign.
 - A conclusive innocence or authorship finding would prematurely resolve Elias, Vance, and the larger conspiracy.
+- Grant must have a credible Washington-area duty origin and travel path; the draft may not teleport her into the room.
 
 **Accepted evidence supporting it:**
 
@@ -116,7 +145,7 @@ A named independent examiner using independently controlled read-only hardware u
 - independent counterrecord;
 - Hackett's response to stronger evidence;
 - Elias's voluntary-role distinction;
-- public-narrative fracture staging;
+- public-narrative fracture staging; and
 - later Vance consequence.
 
 **Premature resolutions to prohibit:**
@@ -127,7 +156,7 @@ A named independent examiner using independently controlled read-only hardware u
 - Vance's personal keystrokes;
 - Sterling's physical possession or command;
 - WSS plaintext;
-- K-17 or Phase B outcome;
+- K-17 or Phase B outcome; and
 - public vindication.
 
 **Equal-mission assessment:** One dominant mission is sustainable if institutional attack exists only as pressure against the examination.
@@ -156,7 +185,7 @@ A named independent examiner using independently controlled read-only hardware u
 
 **Required new information source:** A separately authenticated allied production, testimony, or field record with lawful authority and disclosure scope.
 
-**Book 1 obligations advanced:** Phase B, K-17, Sharma, reconstruction, geopolitical resolution.
+**Book 1 obligations advanced:** Phase B, K-17, Sharma, reconstruction, and geopolitical resolution.
 
 **Premature resolutions risked:** All of the above if the new source arrives without sufficient setup and authentication.
 
@@ -185,9 +214,9 @@ A named independent examiner using independently controlled read-only hardware u
 
 **Required new information source:** None beyond reviewable institutional demands and the named examination authorization.
 
-**Book 1 obligations advanced:** Hackett, independent counterrecord, public-fracture staging, Vance/Apex institutional consequence.
+**Book 1 obligations advanced:** Hackett, independent counterrecord, public-fracture staging, and Vance/Apex institutional consequence.
 
-**Premature resolutions risked:** Chen/Mercer/Bell/Price arcs if forced into the chapter; public vindication if the institutional dispute becomes public proof.
+**Premature resolutions risked:** Chen, Mercer, Bell, and Price arcs if forced into the chapter; public vindication if the institutional dispute becomes public proof.
 
 **Equal-mission assessment:** It becomes a second mission unless every pressure beat changes the scope, timing, independence, or survival of the examination.
 
@@ -197,7 +226,7 @@ A named independent examiner using independently controlled read-only hardware u
 
 ## 3. Locked Chapter 17 mission
 
-### Working title and rationale
+### Working title and title rationale
 
 **The First Examination**
 
@@ -223,7 +252,7 @@ The supporting objective exists only because it increases pressure on the primar
 
 ---
 
-## 4. Named examiner, authority, and independence
+## 4. Named examiner, authority structure, and independence
 
 ### Examiner
 
@@ -250,7 +279,7 @@ Hackett is:
 
 - organizer of the independent examination;
 - named preservation sponsor;
-- institutional shield against an unnamed or Apex-controlled technical transfer;
+- institutional shield against an unnamed or Apex-controlled technical transfer; and
 - skeptical authority who requires a reproducible finding before supporting broader action.
 
 Hackett is not:
@@ -284,7 +313,7 @@ Julie carries:
 - the opening intake and authority conflict;
 - the definition of the one defensible question;
 - the moral decision not to demand a broader result;
-- the recognition that the same board evidence protects and endangers Elias;
+- the recognition that the same board evidence protects and endangers Elias; and
 - the endpoint receipt of Grant's bounded finding.
 
 Julie does not touch evidence, operate equipment, enter technical commands, or gain new knowledge beyond what Grant states or the shared examination record shows.
@@ -297,7 +326,7 @@ Grant's POV is necessary because:
 
 - Julie cannot observe every screen, contact, or tool state from her restrained intake position;
 - Elias cannot perform a convenient operation from medical custody;
-- the reader must see that the examiner is independent of both Julie and Apex;
+- the reader must see that the examiner is independent of both Julie and Apex; and
 - the method, false-positive controls, and finding limits must be dramatized from the person who owns them.
 
 Grant's scene may add only the examination result and immediate institutional pressure she personally observes. It may not add private conspiracy knowledge, field knowledge, or conclusions beyond the board.
@@ -323,7 +352,7 @@ Marcus, Elias, Hackett, Apex counsel, or other institutions may appear only thro
 
 ---
 
-## 6. Characters and scene presence
+## 6. Characters and channels by movement
 
 ### Movement 1 — secure intake authority line
 
@@ -338,7 +367,7 @@ Remote or document channel:
 
 - General William Hackett
 - Special Agent Leila Grant before arrival
-- Apex counsel or classification claimant through a logged call or written demand
+- Apex counsel or a classification claimant through a logged call or written demand
 
 Not physically present:
 
@@ -392,22 +421,22 @@ Marcus and Elias remain in separate medical custody and do not directly communic
 
 ### Julie
 
-- Left wrist remains double-locked to the transport belt until MPD deliberately repositions her for secure intake.
-- Right forearm remains in the padded medical restraint; the brace remains on.
-- No normal right-hand grip, writing, lifting, evidence handling, stabilization, fighting, or technical operation.
+- Her left wrist remains double-locked to the transport belt until MPD deliberately repositions her for secure intake.
+- Her right forearm remains in the padded medical restraint; the brace remains on.
+- She has no normal right-hand grip, writing, lifting, evidence handling, stabilization, fighting, or technical-operation capacity.
 - She may stand, sit, or move only under custody direction and without an unexplained physical reset.
 - Her leadership is verbal, analytical, and moral.
 
 ### Marcus
 
-- Remains on four liters of oxygen with saturation at 92–93 percent unless a later accepted medical update changes it.
+- He remains on four liters of oxygen with saturation at 92–93 percent unless a later accepted medical update changes it.
 - Severe rib pain, impaired ventilation, scalp-bleeding concerns, thigh instability, damaged boot, dizziness, exhaustion, and no tactical mobility remain active.
 - He performs no new tactical, evidentiary, or technical act.
 - Administrative consequences of his correction may begin through a documented notice, but that notice must not become a second chapter mission.
 
 ### Elias
 
-- Remains in separate guarded medical transport or intake.
+- He remains in separate guarded medical transport or intake.
 - Hip injury, dizziness, exhaustion, tremor, and bandaged or clumsy right index remain active.
 - He performs no technical operation, provides no live biometric, and handles no evidence.
 - He receives no immunity, exoneration, or simple hostage/saboteur classification.
@@ -448,11 +477,11 @@ No second package is required to determine whether this physical secure element 
 
 They remain separate, sealed, offline, unopened, unconnected, and uncombined.
 
-### Scene-boundary custody
+### Custody at every scene boundary
 
 1. **Opening:** All seven packages are inside the locked MPD chest under Ortiz's custody.
 2. **Movement to examination room:** Ortiz carries only `MPD-901446` in a documented, camera-covered transfer. The other six remain in the locked chest under continuous MPD control.
-3. **Seal opening:** Ortiz reads and photographs the existing seal; Park witnesses; Grant confirms she has not yet touched the package; the removed seal is retained in a labeled evidence sleeve.
+3. **Seal opening:** Ortiz reads and photographs the existing seal. Park witnesses. Grant confirms she has not yet touched the package. The removed seal is retained in a labeled evidence sleeve.
 4. **Technical examination:** The board remains physically on the MPD examination surface. Grant touches it only for the authorized read-only procedure. Ortiz remains the custodian and may stop the examination.
 5. **Completion:** Grant disconnects and records tool state. Ortiz photographs the board and packaging, returns it to the package, applies a new numbered MPD seal, and cross-references the former seal and examination record.
 6. **Endpoint:** The newly resealed `MPD-901446` returns to the same locked incident chest. All seven remain under incident `187463` in MPD custody.
@@ -483,7 +512,7 @@ A secure MPD digital-evidence examination room adjoining the intake area.
 - Park's body camera records package movement and seal events where policy permits;
 - independent wall clock visible in the record;
 - no remote screen sharing;
-- no Apex connection;
+- no Apex connection; and
 - no connection to any of the other six packages.
 
 ### Equipment
@@ -509,7 +538,7 @@ The destination medium receives only examiner-generated logs and images. It does
 - any operation that changes the board;
 - any attempt to reset or alter the monotonic counter;
 - any connection to `MPD-901441`, `MPD-901442`, or `MPD-901447`;
-- any WSS-4 decryption attempt;
+- any WSS-4 decryption attempt; and
 - any broad extraction outside the written scope.
 
 ### Witness record
@@ -547,7 +576,7 @@ Within `MPD-901446` only, Grant may compare:
 - later emergency gate and reconciliation signing events; and
 - the device's declared read-only evidence metadata.
 
-### Midpoint reversal / change in understanding
+### Midpoint reversal or change in understanding
 
 The same independent examination that fails to find a physical-token signing event for the original deployment does find internally consistent later authenticated events associated with Elias's emergency gate access and provenance reconciliation.
 
@@ -635,21 +664,35 @@ It does not prove:
 
 ---
 
-## 11. Legal and institutional realism
+## 11. Technology rules
 
-- The examination is preliminary and investigative, not adjudicative.
-- Grant's signed observation is not a final lab report, charging decision, admissibility ruling, immunity agreement, or exoneration.
-- MPD may lawfully retain the evidence while allowing a named federal examiner access under written authority.
-- Hackett's request cannot compel Grant's conclusion.
-- Apex may assert classification, property, proprietary tooling, and technical-necessity claims. Those claims are logged and denied any physical or observer role unless MPD and Grant separately find one legally necessary. This lock does not permit such a finding.
-- No one treats classification as ownership or ownership as custody.
-- No one treats a preliminary technical contradiction as proof of the entire conspiracy.
-- No charge, warrant, subpoena return, court order, or immunity promise is invented.
-- The chapter may show a new preservation request for Apex administrative-mirror, executive-authority, or tool-validation records after Grant signs the observation. Such a request preserves records; it does not seize, authenticate, or reveal them.
+- The board's secure-element history is evidence of this physical token's signing events, not a universal history of every identity use.
+- Absence of a local signing event can contradict ordinary physical-token use without identifying the alternative identity path.
+- Later authenticated events can remain valid even when the original deployment attribution is challenged.
+- No system produces plaintext, intent, or a human name merely because the board is connected to a reader.
+- The examination must not increment the monotonic counter or create a new signing event.
+- A read-only tool log is derivative examiner work, not a replacement original.
+- Proprietary Apex interpretation is not required merely because Apex built the system; if the interface cannot be examined independently and safely, the hard stop controls.
 
 ---
 
-## 12. Public-narrative and antagonist pressure
+## 12. Legal and institutional realism
+
+- The examination is preliminary and investigative, not adjudicative.
+- Grant's signed observation is not a final lab report, charging decision, admissibility ruling, immunity agreement, or exoneration.
+- MPD may retain the evidence while allowing a named federal examiner access under written authority.
+- Hackett's request cannot compel Grant's conclusion.
+- Apex may assert classification, property, proprietary tooling, and technical-necessity claims.
+- Those claims are logged and denied any physical or observer role unless MPD and Grant separately find one legally necessary. This lock does not permit such a finding.
+- No one treats classification as ownership or ownership as custody.
+- No one treats a preliminary technical contradiction as proof of the entire conspiracy.
+- No charge, warrant, subpoena return, court order, or immunity promise is invented.
+- The chapter may show a new preservation request for Apex administrative-mirror, executive-authority, or tool-validation records after Grant signs the observation.
+- Such a request preserves records. It does not seize, authenticate, or reveal them.
+
+---
+
+## 13. Public-narrative and antagonist pressure
 
 ### Public pressure
 
@@ -678,7 +721,7 @@ Vance, Sterling, and Tariq receive no private POV and no new private act. Chen, 
 
 ---
 
-## 13. Success, failure, and hard-stop conditions
+## 14. Success, failure, and hard-stop conditions
 
 ### Measurable success condition
 
@@ -706,7 +749,7 @@ The chapter fails if:
 - the board is altered; or
 - the result is stated as innocence, authorship, or complete conspiracy proof.
 
-### Hard-abort / hard-stop condition
+### Hard-abort or hard-stop condition
 
 Grant or Ortiz must stop immediately if any of the following occurs:
 
@@ -716,7 +759,7 @@ Grant or Ortiz must stop immediately if any of the following occurs:
 - write-blocker or read-only-mode failure;
 - any prompt requiring a live biometric, private-key signature, network validation, Apex credential, or production connection;
 - any need to open or connect another package;
-- interruption or failure of the continuous witness/camera record;
+- interruption or failure of the continuous witness or camera record;
 - ambiguity over who holds physical custody;
 - equipment self-test anomaly;
 - evidence contamination risk; or
@@ -726,7 +769,7 @@ A hard stop preserves the board and incident even if it prevents the chapter's s
 
 ---
 
-## 14. Exact clock architecture
+## 15. Exact clock architecture and scene-by-scene blueprint
 
 ### 08:15:52–08:25:30 EDT / 17:45:52–17:55:30 IST
 
@@ -736,6 +779,7 @@ A hard stop preserves the board and incident even if it prevents the chapter's s
 - Secure intake logs the seven packages and Hackett's hold.
 - Julie remains restrained and separated from Marcus and Elias.
 - A written DCIS technical-assistance route names Grant.
+- The draft must establish Grant's credible duty location and dispatch path before she arrives.
 - Apex or another claimant presses for electronic-only transfer, proprietary tooling, or observer status.
 - Julie identifies the narrow question that can be answered from one package and states what it cannot prove.
 - Ortiz refuses any movement that fragments the incident.
@@ -786,7 +830,7 @@ A hard stop preserves the board and incident even if it prevents the chapter's s
 - Ortiz retains the former seal, applies the replacement seal, and returns `MPD-901446` to the common chest.
 - All seven packages remain under MPD incident `187463`.
 - The report is linked to MPD and DCIS records.
-- Hackett may sponsor a new preservation demand for the identity-mirroring and executive-authority records, but no new records arrive and no merits conclusion follows.
+- Hackett may sponsor a new preservation demand for identity-mirroring and executive-authority records, but no new records arrive and no merits conclusion follows.
 - Julie remains detained and does not reunite with Marcus or Elias.
 - The public account remains unchanged.
 
@@ -794,7 +838,7 @@ A hard stop preserves the board and incident even if it prevents the chapter's s
 
 ---
 
-## 15. Exact endpoint state
+## 16. Exact endpoint state
 
 At **09:12:52 EDT / 18:42:52 IST**:
 
@@ -805,7 +849,7 @@ At **09:12:52 EDT / 18:42:52 IST**:
 - `MPD-901446` has been opened once under the locked procedure, examined by Grant, and resealed under a new numbered MPD seal with the former seal retained.
 - The other six packages remain sealed, offline, unopened, unconnected, and uncombined.
 - Grant's signed preliminary technical observation exists in the MPD incident record and DCIS preliminary inquiry.
-- An independent examiner exists; a final federal receiver does not.
+- An independent examiner exists. A final federal receiver does not.
 - The finding independently reproduces the physical-token mismatch and the later authenticated-event distinction.
 - No one has identified the original human operator or identity-mirroring actor.
 - No public vindication or visible public narrative fracture has occurred.
@@ -821,7 +865,7 @@ At **09:12:52 EDT / 18:42:52 IST**:
 
 ---
 
-## 16. Thread advancement and deliberate non-payoffs
+## 17. Thread advancement and deliberate non-payoffs
 
 ### Threads advanced
 
@@ -830,7 +874,7 @@ At **09:12:52 EDT / 18:42:52 IST**:
 - **Hackett:** his preservation choice becomes a bounded technical-assistance choice without making him an adjudicator.
 - **Elias's voluntary role:** the board's later authenticated events receive independent confirmation while the original deployment attribution weakens.
 - **Public narrative fracture:** a technically authenticated contradiction is staged for later institutional or public use but remains nonpublic.
-- **Vance/Apex consequence:** a preservation basis for mirror-service and executive-authority records becomes stronger without proving personal action.
+- **Vance and Apex consequence:** a preservation basis for mirror-service and executive-authority records becomes stronger without proving personal action.
 - **Julie:** leads by protecting the question's limits and refusing to use a broader unsupported conclusion.
 
 ### Threads deliberately not paid off
@@ -857,7 +901,7 @@ At **09:12:52 EDT / 18:42:52 IST**:
 
 ---
 
-## 17. Ending-contract contribution
+## 18. Ending-contract contribution
 
 Chapter 17 contributes to the Book 1 ending contract by:
 
@@ -868,11 +912,28 @@ Chapter 17 contributes to the Book 1 ending contract by:
 - showing Julie lead without physical dominance, revenge, or overclaim; and
 - creating a future basis for visible fracture of Sterling's public account.
 
-It does not fulfill the ending contract. The immediate Phase B/K-17 crisis, Hartwell custody chain, public fracture, Vance consequence, Chen/Mercer choices, Bell record, Price disposition, legal aftermath, and Julie's future-role decision remain active Book 1 obligations.
+It does not fulfill the ending contract. The immediate Phase B and K-17 crisis, Hartwell custody chain, public fracture, Vance consequence, Chen and Mercer choices, Bell record, Price disposition, legal aftermath, and Julie's future-role decision remain active Book 1 obligations.
 
 ---
 
-## 18. Drafting instructions
+## 19. Word budget
+
+The accepted manuscript is **87,610 words**.
+
+- Remaining to the 100,000-word minimum: **12,390 words**.
+- Remaining to the 112,500-word planning target: **24,890 words**.
+- Remaining before the 125,000-word maximum: **37,390 words**.
+- Accepted Act III subtotal through Chapter 16: **23,955 words**.
+- Chapter 17 planning range: **5,600–6,300 words**.
+- Preferred center: approximately **5,950 words**.
+
+The range is based on dramatic completeness, not arithmetic. It preserves sufficient later space for the immediate field outcome, Hartwell and WSS proof, institutional choices, public fracture, climax, and legal, medical, emotional, and series aftermath.
+
+This lock does not distribute the remaining obligations chapter by chapter.
+
+---
+
+## 20. Drafting instructions
 
 1. Open exactly at **08:15:52 EDT / 17:45:52 IST**.
 2. Use close-third past tense.
@@ -895,14 +956,15 @@ It does not fulfill the ending contract. The immediate Phase B/K-17 crisis, Hart
 19. Use screen text only when it establishes tool state, hardware history, authority, seal, or a hard stop.
 20. State the limitation that changes the next decision; do not reteach the complete technology architecture.
 21. Keep quiet-scene paragraphs denser than the prior breach chapters while preserving short beats for seal opening, finding, hard-stop risk, and signature.
-22. End at **09:12:52 EDT / 18:42:52 IST** with the signed observation and resealed package, not with Chapter 18 planning.
-23. Target **5,600–6,300 words**, preferred center approximately **5,950**.
-24. Place the first draft only at `books/book-01/drafts/chapter-17.md`.
-25. Do not update `books/book-01/ACCEPTED_MANUSCRIPT.yaml` during drafting.
+22. Establish Grant's credible duty origin and travel time rather than placing her at MPD by convenience.
+23. End at **09:12:52 EDT / 18:42:52 IST** with the signed observation and resealed package, not with Chapter 18 planning.
+24. Target **5,600–6,300 words**, preferred center approximately **5,950**.
+25. Place the first draft only at `books/book-01/drafts/chapter-17.md`.
+26. Do not update `books/book-01/ACCEPTED_MANUSCRIPT.yaml` during drafting.
 
 ---
 
-## 19. Canon locks
+## 21. Canon locks and classification
 
 ### Accepted canon
 
@@ -914,12 +976,12 @@ The following are approved for drafting but remain non-canon until accepted pros
 
 - working title **The First Examination**;
 - Special Agent Leila Grant as the named examiner;
-- the DCIS/MPD/Hackett authority structure;
+- the DCIS, MPD, and Hackett authority structure;
 - `MPD-901446` as the sole package opened;
 - the read-only physical-token examination;
 - the physical-token mismatch and later-event midpoint;
 - exact clock architecture through **09:12:52 EDT / 18:42:52 IST**;
-- signed preliminary observation;
+- signed preliminary observation; and
 - reseal and return to the common MPD incident chest.
 
 ### Unresolved evidence
@@ -932,14 +994,14 @@ The following are approved for drafting but remain non-canon until accepted pros
 - WSS plaintext;
 - compact black case contents;
 - K-17 and Phase B;
-- reconstruction truth and authorship;
+- reconstruction truth and authorship; and
 - Sterling, Vance, and Tariq personal actions.
 
 ### Strong inference only
 
-- the original deployment identity was mirrored, replayed, or otherwise created through a path that did not use the physical board in the same manner as the later authenticated events;
-- Apex has an institutional interest in requiring proprietary interpretation;
-- the independent mismatch could later materially fracture the hostile-insider account.
+- The original deployment identity was mirrored, replayed, or otherwise created through a path that did not use the physical board in the same manner as the later authenticated events.
+- Apex has an institutional interest in requiring proprietary interpretation.
+- The independent mismatch could later materially fracture the hostile-insider account.
 
 These remain inferences until accepted evidence supports a stronger statement.
 
@@ -963,14 +1025,14 @@ Chapter 17 may not invent or assume:
 - complete technical authentication;
 - public vindication;
 - guilt, innocence, immunity, or admissibility;
-- instant injury recovery;
+- instant injury recovery; or
 - a secret alliance with Hackett, Grant, MPD, Chen, Mercer, Bell, or another institution.
 
 ### Later Book 1 obligations
 
 The later manuscript must still address, without this lock distributing them chapter by chapter:
 
-- immediate Phase B/K-17/reconstruction outcome;
+- immediate Phase B, K-17, and reconstruction outcome;
 - Hartwell physical-custody chain and exact challenged serial;
 - WSS plaintext or alternate lawful proof sufficient to define Phase B;
 - Chen and Mercer's consequential choices;
@@ -985,7 +1047,7 @@ The later manuscript must still address, without this lock distributing them cha
 
 ---
 
-## 20. No-prose certification
+## 22. No-prose certification
 
 This mission lock contains no Chapter 17 narrative prose, dialogue, sample opening, chapter-ending line, or drafted scene. It does not create Chapter 18 planning or a complete chapter-by-chapter outline for the remainder of Act III.
 
