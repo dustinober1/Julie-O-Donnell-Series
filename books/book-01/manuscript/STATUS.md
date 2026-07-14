@@ -32,7 +32,7 @@
 - Title: **The Custody Exception**
 - Status: **complete first draft; awaiting formal acceptance review; unaccepted; non-canon**
 - Exact draft words: **4,171**
-- Draft blob: `13ee716d0e4b93fe73141a0c9f85488af74ce7c8`
+- Draft blob: `d983f952caca56c41b9f7d1ef976a9ae1b281a78`
 - Accepted-manuscript effect: none
 - Opening: **10:44:12 EDT / 20:14:12 IST**, secure MPD evidence intake
 - Endpoint: **11:26:32 EDT / 20:56:32 IST**, secure MPD evidence intake
