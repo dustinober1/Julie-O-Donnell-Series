@@ -115,3 +115,13 @@ Permanent distinction: reader-visible office registration, hardware response, an
 **Sharma does not learn:** Julie's identity, the Washington narrative, the seven MPD package references, or the trio's location.
 
 The chapter establishes no Hartwell presenter, exact challenged serial, compact black case contents, Sterling physical possession, Vance personal keystrokes, Tariq physical presence, K-17 access, Phase B authorization/completion, or reconstruction authorship/purpose/truth.
+
+## Accepted Chapter 17 knowledge update — 2026-07-14
+
+- Grant knows only the independently exposed physical-board history and the written scope/authority around the examination.
+- Ortiz and Park know the witnessed package, seal, tool-state, finding, and reseal record.
+- Julie learns Grant's bounded conclusion through the on-record explanation and signed observation.
+- Hackett receives the signed observation through the DCIS/MPD preservation channel.
+- Marcus and Elias do not receive the result directly in Chapter 17.
+- The public does not learn the finding.
+- No character gains the alternative identity path, human operator, Vance keystrokes, Sterling possession, Tariq presence, complete Payload 88 history, WSS plaintext, K-17 result, Phase B result, or field truth.

@@ -238,3 +238,15 @@ The entries below are planning only and create no accepted thread payoff until C
 - **Constraint/pressure:** Apex classification/proprietary claims, attempted custody fragmentation, hostile public narrative, and active medical limits.
 
 No Chen, Mercer, Bell, Price, Sharma, Hartwell, WSS, Phase B, K-17, or climax payoff is assigned to Chapter 17. The mission lock does not create Chapter 18 planning or a complete remainder-of-Act-III outline.
+
+## Accepted Chapter 17 disposition update — 2026-07-14
+
+| Thread | Chapter 17 disposition | Remaining obligation |
+|---|---|---|
+| First independent examination | Completed for `MPD-901446` only | Broader examination remains optional and bounded by later evidence needs |
+| Physical-token deployment attribution | Materially contradicted | Identify alternative identity path and human responsibility |
+| Elias later voluntary acts | Independently authenticated | Resolve legal meaning without hostage/saboteur simplification |
+| Independent counterrecord | Signed and preserved | Determine institutional/public use |
+| Hackett preservation role | Advanced | Final receiver and broader institutional choice unresolved |
+| Sterling public account | Unchanged publicly | Authenticated public fracture remains required |
+| Hartwell / WSS-4 / K-17 / Phase B | Not advanced beyond limitations | All remain active Book 1 obligations |

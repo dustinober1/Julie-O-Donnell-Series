@@ -73,3 +73,14 @@
 - **Apex:** continues classification/property and technical-necessity claims through counsel; those claims remain logged and unresolved and confer no observer or custody right.
 - **Allied preservation path:** carries bounded identifiers, categories, caveats, custody, and restriction—not an operational order or merits finding.
 - **EMS:** retains medical authority over Marcus and ends his statement without negotiation.
+
+## Accepted Chapter 17 institutional update — 2026-07-14
+
+- DCIS opens a preliminary inquiry limited to preservation and independent technical assistance.
+- Supervisory Special Agent Miriam Alvarez authorizes Special Agent Leila Grant in writing.
+- Hackett's assistance request, DCIS authority, and MPD consent remain separate instruments.
+- MPD retains the package and controls room access, movement, opening, witness record, and reseal.
+- Grant controls technical method and report language.
+- Apex receives no observer, equipment, parser, credential, custody, or veto role.
+- No final federal receiver exists at the endpoint.
+- A later preservation request for identity-mirroring, executive-authority, tool-validation, and parser records is permitted; no responsive record arrives in Chapter 17.

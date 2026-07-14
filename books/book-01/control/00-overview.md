@@ -1,53 +1,46 @@
 # 0. BOOK 1 CONTROL PACK OVERVIEW
 
-**Control-pack version:** 3.7
+**Control-pack version:** 3.8
 
-**Accepted prose:** Prologue and Chapters 1–16
+**Accepted prose:** Prologue and Chapters 1–17
 
-**Accepted length:** 87,610 words
+**Accepted length:** 93,498 words
 
-**Accepted endpoint:** 08:15:52 EDT / 17:45:52 IST, secure MPD evidence intake under Hackett's named preservation hold
-
-**Chapter 17:** First draft exists at `../drafts/chapter-17.md`; **unaccepted and non-canon**
-
-**Chapter 17 exact draft length:** 5,888 words
-
-**Next production gate:** Formal Chapter 17 acceptance review
+**Accepted endpoint:** 09:12:52 EDT / 18:42:52 IST, secure MPD evidence intake after the first independent single-package examination
 
 ## Authority
 
-1. Accepted prose listed in `../ACCEPTED_MANUSCRIPT.yaml` controls story facts.
-2. The accepted manifest controls which prose files are canon.
-3. This control pack controls continuity and approved production planning where it agrees with accepted prose.
-4. `../../../series/` controls cross-book tracking where it agrees with accepted prose.
-5. Drafts, archive material, the former Google Doc, and uploaded snapshots are non-canon provenance.
+1. `../ACCEPTED_MANUSCRIPT.yaml` controls the accepted prose inventory.
+2. Accepted prose under `../manuscript/` controls story facts.
+3. This control pack governs continuity and approved planning where it agrees with accepted prose.
+4. `../../../series/` governs cross-book tracking where it agrees with accepted prose.
+5. Drafts, archive material, the former Google Doc, and external snapshots are non-canon provenance.
 
-## Accepted opening state for Chapter 17
-
-At 08:15:52 EDT / 17:45:52 IST:
-
-- Julie remains restrained and injured at secure MPD evidence intake.
-- Marcus and Elias remain in separate guarded medical custody.
-- MPD incident `187463` holds seven separately sealed, offline, unopened, unconnected, and uncombined packages.
-- Hackett is the named preservation sponsor, not the physical receiver, examiner, adjudicator, or immunity authority.
-- Sterling's armed-insider account remains publicly dominant.
-- Hartwell presenter and serial, WSS plaintext, K-17 access, Phase B, reconstruction truth, and public vindication remain unresolved.
-
-## Chapter 17 first-draft state
+## Accepted Chapter 17 state
 
 - Title: **The First Examination**
-- Draft path: `../drafts/chapter-17.md`
+- Accepted path: `../manuscript/chapters/chapter-17.md`
+- Acceptance review: `35-chapter-17-acceptance-review.md` — **ACCEPT**
 - Exact words: **5,888**
-- Draft opening: **08:15:52 EDT / 17:45:52 IST**
-- Draft endpoint: **09:12:52 EDT / 18:42:52 IST**
-- Dominant mission: a named independent examiner conducts one MPD-controlled, read-only examination without fragmenting the seven-package incident.
-- Examiner: Special Agent Leila Grant, Defense Criminal Investigative Service.
-- Package: `MPD-901446` only.
-- Other six packages: remain sealed and unopened.
-- POV: Julie primary; one bounded Grant movement.
-- Acceptance status: **not reviewed, not accepted, non-canon**.
-- Accepted inventory, total, and endpoint: unchanged.
+- Reviewed blob: `1c4022ebb8d27d8d448f98bcf74fbf09e6e560c1`
+- Opening: **08:15:52 EDT / 17:45:52 IST**
+- Endpoint: **09:12:52 EDT / 18:42:52 IST**
+- POV: Julie primary; one bounded Special Agent Leila Grant examination-room movement
+- Scope: only `MPD-901446` was opened; the other six packages remained sealed and unopened
+- Custody: MPD retained physical custody throughout
+- Seals: former `MPD-SL-551804` retained; replacement `MPD-SL-551821` applied
+- Result: the examined physical board lacks the original attributed physical signing event; later gate and reconciliation events remain authenticated
+- Limits: no alternative identity path, human actor, innocence, guilt, immunity, admissibility, final receiver, Hartwell result, WSS plaintext, K-17 result, Phase B result, field truth, or public vindication was established
+
+## Current production state
+
+- Acts I and II are complete.
+- Act III contains accepted Chapters 13–17.
+- No active Book 1 chapter draft exists.
+- Chapter 18 prose and mission lock do not exist.
+- The later Act III architecture remains high-level and provisional.
+- Book 1 is not publication-ready.
 
 ## Current gate
 
-Conduct the formal Chapter 17 acceptance review against `34-chapter-17-mission-lock.md` and `25-chapter-acceptance-gate.md`. Do not draft Chapter 18 or outline the complete remainder of Act III.
+Preserve the accepted Chapter 17 state. No Chapter 18 prose, Chapter 18 mission lock, or complete remainder-of-Act-III outline was created during this acceptance pass.

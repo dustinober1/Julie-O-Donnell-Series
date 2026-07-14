@@ -1171,3 +1171,28 @@ This section supersedes earlier “current” location and knowledge fields wher
 **Gabriel Ortiz:** remains neutral and procedure-driven. He retains interim physical responsibility, rejects fragmented or unnamed transfer, and carries the complete incident into secure MPD intake.
 
 **Ananya Sharma:** preserves prior and superseding product records, caveats, abort/no-fire categories, and clock references while withholding unrestricted geography and making no truth determination.
+
+## Accepted Chapter 17 character-state update — 2026-07-14
+
+### Julie O'Donnell
+- Remains detained at secure MPD evidence intake.
+- Right forearm remains padded, braced, swollen, and materially unusable.
+- Left restraint is deliberately transferred to a fixed front harness without tactical freedom.
+- Performs no evidence handling or technical operation.
+- Leads by narrowing the question, protecting custody, and accepting the part of the result that exposes Elias's later voluntary acts.
+
+### Marcus Reed
+- Remains in separate guarded medical care on four liters of oxygen at 92–93 percent.
+- Performs no new tactical, technical, evidentiary, or communication act in Chapter 17.
+- Institutional consequences of his correction remain unresolved.
+
+### Elias Thorne
+- Remains injured and in separate guarded medical custody.
+- Provides no biometric and performs no technical or evidentiary act.
+- The independent board examination weakens the physical-token deployment attribution while authenticating later gate and reconciliation acts.
+- He is neither exonerated nor reduced to a simple hostage or saboteur.
+
+### Special Agent Leila Grant
+- Introduced as a named DCIS examiner under Alvarez's authorization.
+- Skeptical, independent, method-driven, and limited to one package and one question.
+- Recurring-series status is not assumed.

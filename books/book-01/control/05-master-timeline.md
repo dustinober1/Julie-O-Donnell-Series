@@ -197,3 +197,16 @@
 - **08:15:52 EDT / 17:45:52 IST:** all seven packages cross the secure MPD intake threshold separately sealed and offline. No package has been opened, no final federal receiver or technical examiner exists, and no public statement has changed.
 
 The complete Chapter 16 interval is 19 minutes 12 seconds and preserves the 9-hour-30-minute EDT/IST offset.
+
+## Accepted Chapter 17 timeline — 2026-07-14
+
+- **08:15:52 EDT / 17:45:52 IST:** Chapter opens at secure MPD evidence intake with Julie restrained and seven packages in the common chest.
+- **08:03 EDT:** Grant departs the DCIS Alexandria duty office under oral designation.
+- **08:11 EDT:** Alvarez signs the written DCIS preliminary-inquiry and technical-assistance authorization.
+- **08:28:17 EDT / 17:58:17 IST:** Grant arrives at MPD intake.
+- **08:39:00 EDT / 18:09:00 IST:** `MPD-901446` enters the isolated examination room and its existing seal is recorded.
+- **08:52:41 EDT / 18:22:41 IST:** the authorized read is complete; no counter or signing-state change has occurred.
+- **09:01:14 EDT / 18:31:14 IST:** Grant reads the bounded preliminary observation aloud.
+- **09:05:30 EDT / 18:35:30 IST:** reseal begins.
+- **09:08:46 EDT / 18:38:46 IST:** Grant signs the preliminary observation.
+- **09:12:52 EDT / 18:42:52 IST:** `MPD-901446` is resealed under `MPD-SL-551821`, returned to the common chest, and MPD retains all seven packages.

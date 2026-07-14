@@ -244,3 +244,14 @@ Chapter 16 — **The Hold Order** — is accepted after one surgical POV-firewal
 Canon advances to 08:15:52 EDT / 17:45:52 IST. General William Hackett is the named federal preservation sponsor for MPD incident `187463`, but MPD retains physical custody. `MPD-901441` through `MPD-901447` remain separate, sealed, offline, unopened, unconnected, and uncombined. Marcus's six-years-ago correction is attributable and medically bounded. Sharma's restricted acknowledgment preserves record categories, custody, product-status caveats, and clock references without a merits finding. Her cutaway now names only information that crossed the allied boundary; Washington, Hartwell, Payload 88, and MPD-specific details remain outside her viewpoint.
 
 No final federal receiver or technical examiner exists. Hartwell presenter/exact serial, WSS plaintext, Sterling's physical possession, K-17 access, Phase B, reconstruction truth, and public vindication remain unresolved.
+
+## Accepted Chapter 17 canon lock — 2026-07-14
+
+- Accepted prose now includes Chapter 17 — **The First Examination** — at `books/book-01/manuscript/chapters/chapter-17.md`.
+- Reviewed blob: `1c4022ebb8d27d8d448f98bcf74fbf09e6e560c1`; exact count: **5,888**.
+- Accepted total: **93,498 words**.
+- Accepted endpoint: **09:12:52 EDT / 18:42:52 IST**.
+- Grant is the named independent DCIS examiner.
+- One package, `MPD-901446`, was examined; all seven remain in MPD physical custody.
+- The board lacks the original attributed physical signing event while later gate and reconciliation events remain authenticated.
+- No alternative identity path, human operator, final receiver, innocence, guilt, immunity, admissibility, Hartwell result, WSS plaintext, K-17 result, Phase B result, field truth, or public vindication is established.

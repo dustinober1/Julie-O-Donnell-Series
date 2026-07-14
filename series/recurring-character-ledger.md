@@ -399,3 +399,17 @@ Unknown fields must remain **not established** rather than being filled by conve
 **Gabriel Ortiz:** remains a neutral, procedure-driven MPD officer whose insistence on one complete named receiver protects the chain without adopting Julie's conclusions.
 
 **Ananya Sharma:** preserves the challenged allied record with caveats and disclosure limits, maintaining her independent command responsibility and knowledge boundary.
+
+## Accepted Book 1 Chapter 17 update — 2026-07-14
+
+### Julie O'Donnell
+Accepted end state advances to 09:12:52 EDT at secure MPD evidence intake. She remains detained, right-hand impaired, separated from Marcus and Elias, and committed to bounded truth over exonerating simplification.
+
+### Marcus Reed
+Remains in guarded medical care on four liters of oxygen; his prior correction and its institutional consequences remain active. No Chapter 17 action or recovery is added.
+
+### Elias Thorne
+Remains injured and separated. The physical board no longer supports ordinary original physical-token use but independently supports his later voluntary gate and reconciliation acts. Legal status and future series role remain unresolved.
+
+### Special Agent Leila Grant
+First accepted appearance. DCIS examiner who signs the first independent, reproducible board finding. No future-book or recurring role is assumed by Book 1 Chapter 17.

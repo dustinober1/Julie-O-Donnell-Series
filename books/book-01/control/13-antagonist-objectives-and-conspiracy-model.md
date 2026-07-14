@@ -246,3 +246,7 @@ Tariq’s strategic objective may not require the same public outcome Sterling o
 No new antagonist POV, private motive, or authorship fact is created. Apex's operational interest remains control of evidence handling and interpretation; its counsel continues to assert classification, property, technical necessity, and observer claims. The named hold limits immediate fragmentation without proving who directed the larger operation.
 
 Sterling's public utility from the hostile-insider narrative remains intact. Hartwell custody, compact black case contents, K-17, Phase B, and any reconstruction purpose or authorship remain unresolved.
+
+## Chapter 17 non-expansion note — 2026-07-14
+
+Chapter 17 adds no accepted antagonist act, motive, command, physical possession, or personal keystroke. The independent board mismatch strengthens preservation need but does not identify the alternative actor or expand the conspiracy model.

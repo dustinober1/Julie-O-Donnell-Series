@@ -1022,3 +1022,18 @@ MPD incident `187463` remains the common custody umbrella. `MPD-901441`, `MPD-90
 General William Hackett's office sponsors preservation and routing; MPD retains physical custody. No federal transfer may occur until one verified named officer accepts the complete incident, all seven references, each seal condition, the interpretation limitation, the separate/offline requirement, and the next location in one documented act. A later offer to accept only `MPD-901441` is logged and refused as incomplete.
 
 No package is opened, connected, imaged, mounted, decrypted, combined, or altered. The WSS-4 module remains encrypted. The allied acknowledgment is a restricted external reference, not a package, technical conclusion, or transfer of the underlying allied records.
+
+## Accepted Chapter 17 evidence and custody update — 2026-07-14
+
+- Common incident: MPD `187463`.
+- Sole opened package: `MPD-901446`.
+- Examined original: administrator-token board `EAT-0881147`.
+- Physical custodian: Officer Gabriel Ortiz, badge 4172.
+- Witness officer: Officer Hannah Park, badge 5831.
+- Former seal: `MPD-SL-551804`, photographed and retained in a labeled evidence sleeve.
+- Replacement seal: `MPD-SL-551821`, applied under camera and cross-referenced.
+- Grant receives technical access only; physical custody remains MPD.
+- The other six packages remain separate, sealed, offline, unopened, unconnected, and uncombined.
+- `MPD-901446` returns to the same recorded position in the common chest.
+- DCIS log medium `DCIS-LM-3106` contains examiner-generated logs/screenshots only and is a derivative attachment, not a replacement original or separate case.
+- No package ownership transfer or final federal receiving act occurs.

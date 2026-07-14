@@ -1,39 +1,35 @@
 # Book 1 Drafts
 
-This directory contains prose that may be complete, revised, or mission-locked but is **not accepted canon**.
+This directory contains prose that is **not accepted canon**. A draft may be complete, revised, or mission-locked and still remain non-canon until the formal acceptance gate and synchronized promotion are complete.
 
-## Current draft
+## Current state
 
-### Chapter 17 — The First Examination
+- Active chapter drafts: **none**
+- Chapter 17 — **The First Examination** — has been accepted and moved to `../manuscript/chapters/chapter-17.md`.
+- Chapter 17 review: `../control/35-chapter-17-acceptance-review.md` — **ACCEPT**
+- Chapter 17 reviewed blob: `1c4022ebb8d27d8d448f98bcf74fbf09e6e560c1`
+- Chapter 18 prose: not created
+- Chapter 18 mission lock: not created
 
-- Path: `chapter-17.md`
-- Mission lock: `../control/34-chapter-17-mission-lock.md`
-- Exact words: **5,888**
-- Opening: **08:15:52 EDT / 17:45:52 IST**
-- Endpoint: **09:12:52 EDT / 18:42:52 IST**
-- Status: **first draft; unaccepted; non-canon**
-- Acceptance gate: not yet conducted
-- Accepted-manuscript effect: none
-- Production-file whitespace: clean under `git diff --check`
-- Automated review findings: two copyedits addressed; word count and meaning unchanged
+## Accepted manuscript reference
 
-## Accepted manuscript
-
-- Accepted inventory: Prologue and Chapters 1–16
-- Accepted words: **87,610**
-- Accepted endpoint: **08:15:52 EDT / 17:45:52 IST**
-- Chapter 16 verdict: **ACCEPT**
-- Chapter 16 accepted blob: `dd5249f4b510a9da9ad19ab2902a95ce1e62a1d8`
-
-## Next action
-
-Conduct the formal Chapter 17 acceptance review using `../control/25-chapter-acceptance-gate.md` and `../control/34-chapter-17-mission-lock.md`.
-
-Do not move the draft to `manuscript/`, add it to `ACCEPTED_MANUSCRIPT.yaml`, draft Chapter 18, or create a complete remainder-of-Act-III outline unless and until the review issues the required verdict and an accepted promotion is separately authorized.
+- Accepted inventory: Prologue and Chapters 1–17
+- Accepted words: **93,498**
+- Accepted endpoint: **09:12:52 EDT / 18:42:52 IST**
+- Accepted manifest: `../ACCEPTED_MANUSCRIPT.yaml`
 
 ## Rules
 
 1. Draft prose never outranks accepted manuscript prose.
-2. Only one active Chapter 17 draft path is allowed.
-3. A complete draft remains non-canon until an explicit **ACCEPT** verdict and synchronized promotion commit.
-4. Rejected or superseded drafts remain recoverable through Git history; do not create duplicate active files.
+2. Only one active draft path is permitted for a chapter.
+3. Promotion moves the exact reviewed prose into `../manuscript/` and removes the draft copy.
+4. Rejected or superseded drafts remain recoverable through Git history; do not create duplicate active versions.
+5. A later chapter may not treat an unaccepted draft endpoint as canon.
+
+## Current gate
+
+Preserve the accepted Chapter 17 state. No complete remainder-of-Act-III outline was created during the Chapter 17 acceptance pass.
+
+## Accepted Chapter 17 state — 2026-07-14
+
+Chapter 17 is accepted at **5,888 words**, ending at **09:12:52 EDT / 18:42:52 IST**. `MPD-901446` was the sole opened package, was resealed under `MPD-SL-551821`, and returned to the common MPD chest. All seven packages remain in MPD custody, and no final federal receiver exists.
