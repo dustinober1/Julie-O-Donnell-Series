@@ -37,7 +37,6 @@ jobs:
           for item in project_sentinels:
               if item not in project:
                   failures.append(f'PROJECT_STATE missing: {item}')
-
           synchronized = {
               'README.md': ['Accepted canon: Prologue and Chapters 1–19', '103,369 words', 'Chapter 20 prose or mission lock: not created'],
               'books/book-01/manuscript/STATUS.md': ['Prologue and Chapters 1–19', 'Accepted length: **103,369 words**', 'The Name on the Record'],
@@ -73,7 +72,6 @@ jobs:
               for item in sentinels:
                   if item not in text:
                       failures.append(f'{rel} missing: {item}')
-
           stale = {
               'books/book-01/control/00-overview.md': ['**Accepted prose:** Prologue and Chapters 1–18', '**Accepted length:** 97,976 words', 'One active chapter draft exists: Chapter 19 only.'],
               'books/book-01/control/02-current-project-state.md': ['97,976', 'unaccepted', 'non-canon'],
@@ -85,11 +83,10 @@ jobs:
               for phrase in phrases:
                   if phrase in text:
                       failures.append(f'{rel} stale live-status phrase: {phrase}')
-
-          Path('.github/ch19-validation-debug.log').write_text('\n'.join(failures) if failures else 'NO MISMATCHES', encoding='utf-8')
+          Path('.github/ch19-validation-debug.txt').write_text('\n'.join(failures) if failures else 'NO MISMATCHES', encoding='utf-8')
           PY
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add .github/ch19-validation-debug.log
+          git add .github/ch19-validation-debug.txt
           git commit -m "Record Chapter 19 validation diagnostics"
           git push origin HEAD:agent/chapter-19-acceptance
