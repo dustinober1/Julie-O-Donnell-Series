@@ -1,21 +1,5 @@
 # 20. CONTROL-PACK MAINTENANCE RULES
 
-<!-- CH19_ACCEPTED_STATE_START -->
-## Chapter 19 acceptance maintenance record
-
-- Review: `39-chapter-19-acceptance-review.md`
-- Verdict: ACCEPT
-- Promoted path: `../manuscript/chapters/chapter-19.md`
-- Exact words: 5,393
-- Reviewed blob: `1c7cc22fc7c480cb247efa1f6a2c0d0b1e1b1baf`
-- Accepted total: 103,369
-- Accepted endpoint: 10:44:12 EDT / 20:14:12 IST
-- Draft copy removed; no duplicate prose remains.
-- Chapter 19 mission lock remains protected at `7b69ff80ed9b0286a52c0a8428792489eb236ef3`.
-- Permanent validation must protect the reviewed Chapter 19 blob/count and all earlier protected blobs.
-- No temporary promotion helper or workflow may remain after the pass.
-<!-- CH19_ACCEPTED_STATE_END -->
-
 ## Authority and placement
 
 1. `../ACCEPTED_MANUSCRIPT.yaml` controls which prose files are canon.
@@ -23,7 +7,7 @@
 3. Unaccepted prose lives under `../drafts/`.
 4. `../../../PROJECT_STATE.yaml` controls production status and navigation.
 5. `../../../series/recurring-character-ledger.md` controls cross-book tracking where it agrees with accepted prose.
-6. Archive files, the former Google Doc, and external snapshots are historical provenance only.
+6. Archive files and external snapshots are historical provenance only.
 
 ## Promotion and acceptance
 
@@ -64,7 +48,7 @@
 
 26. Update the thread-disposition matrix after every accepted chapter.
 27. Resolve Book 1 obligations before using a series hook to defer them.
-28. Update the recurring-character ledger whenever a returning character's accepted status, knowledge, injury, relationship, legal exposure, location, or future function changes.
+28. Update the recurring-character ledger whenever a returning character’s accepted status, knowledge, injury, relationship, legal exposure, location, or future function changes.
 29. Do not assign a future-book role as canon until the character reaches an accepted Book 1 state.
 30. High-level architecture may guide word budget and sequence, but unwritten chapter functions become controlling only through individual mission locks.
 31. Plans and drafts for unwritten or unaccepted chapters remain non-canon.
@@ -86,20 +70,21 @@
 41. Run a forward continuity audit before final revision and a reverse-order payoff audit after the ending exists.
 42. Before publication, audit exact times, EDT/IST conversion, titles, vehicles, security bypasses, certificate claims, evidence seals, injuries, knowledge, relationships, public narrative, and the official-record theme.
 
-## Accepted maintenance record through Chapter 18
+## Accepted maintenance record through Chapter 19
 
 - Chapter 14 — **The Witness Line** — accepted at 5,763 words; reviewed blob `78f7fff02cd271fecbc94f7daf7151dbebbd5c6d`.
 - Chapter 15 — **The Split Record** — accepted at 5,993 words; reviewed blob `b8e7e2ae573a6c25ea096121c75acee867f3fad2`.
 - Chapter 16 — **The Hold Order** — accepted at 6,024 words; reviewed blob `dd5249f4b510a9da9ad19ab2902a95ce1e62a1d8`.
 - Chapter 17 — **The First Examination** — accepted at 5,888 words; reviewed blob `1c4022ebb8d27d8d448f98bcf74fbf09e6e560c1`.
 - Chapter 18 — **The Local Record** — accepted unchanged at 4,478 words; reviewed blob `6f5873d6e975ec74646af152aad22ea84545fc01`.
-- Accepted total: **97,976 words**.
-- Accepted endpoint: **10:01:12 EDT / 19:31:12 IST**.
-- Exact Chapter 18 prose lives at `../manuscript/chapters/chapter-18.md`; no duplicate draft remains.
-- Validator protects Chapters 14–18 by exact blob and word count.
-- K-17 original, patrol record, derivative, seals, and acknowledgment remain synchronized across accepted controls.
-- MPD custody and the trio's medical/knowledge state remain unchanged at the accepted endpoint.
+- Chapter 19 — **The Name on the Record** — accepted after six line-level repairs at 5,393 words; reviewed blob `1c7cc22fc7c480cb247efa1f6a2c0d0b1e1b1baf`.
+- Accepted total: **103,369 words**.
+- Accepted endpoint: **10:44:12 EDT / 20:14:12 IST**.
+- Exact Chapter 19 prose lives only at `../manuscript/chapters/chapter-19.md`; no duplicate draft remains.
+- Validator protects Chapters 14–19 by exact blob and word count.
+- Chapter 19 mission lock remains protected at `7b69ff80ed9b0286a52c0a8428792489eb236ef3`.
+- No temporary acceptance helper, debug file, or workflow may remain after the pass.
 
 ## Current maintenance gate
 
-Perform the formal Chapter 19 acceptance review and synchronized promotion pass. Do not promote without an explicit acceptance verdict. Do not begin Chapter 20 planning or create a complete remainder-of-Act-III outline.
+Prepare the Chapter 20 mission-lock planning pass only. Do not draft Chapter 20 until the lock is approved, and do not create a complete remainder-of-Act-III outline.
