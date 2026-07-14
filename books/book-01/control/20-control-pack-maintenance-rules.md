@@ -107,17 +107,28 @@ The entries below preserve the pre-acceptance audit state only. They are superse
 
 The accepted manifest, project state, status files, affected canon ledgers, series character ledger, and validation workflow are synchronized to 87,610 words and the 08:15:52 EDT / 17:45:52 IST endpoint. The validator protects Chapters 14, 15, and 16 and verifies the accepted total and endpoint.
 
-## Chapter 17 mission-lock maintenance record — 2026-07-13
+## Historical Chapter 17 mission-lock maintenance record — 2026-07-13
 
-- `34-chapter-17-mission-lock.md` approves **The First Examination** as planning only.
+- `34-chapter-17-mission-lock.md` approved **The First Examination** as planning only.
+- Accepted inventory remained Prologue and Chapters 1–16 at **87,610 words**.
+- Accepted endpoint remained **08:15:52 EDT / 17:45:52 IST**.
+- No Chapter 17 prose existed at that gate.
+- Special Agent Leila Grant was the named planned examiner without creating accepted character or event canon.
+- `MPD-901446` was the sole package planned for opening; the other six remained sealed and unopened.
+- MPD physical custody and the 09:12:52 EDT / 18:42:52 IST maximum endpoint were locked.
+
+## Chapter 17 first-draft maintenance record — 2026-07-13
+
+- One active first draft now exists only at `../drafts/chapter-17.md`.
+- Exact draft word count is **5,888**.
+- Draft opening is **08:15:52 EDT / 17:45:52 IST**.
+- Draft endpoint is **09:12:52 EDT / 18:42:52 IST**.
+- The draft uses Julie primary and one bounded Special Agent Leila Grant examination-room movement.
+- The draft opens only `MPD-901446`; the other six packages remain sealed and unopened.
+- The draft remains **unaccepted and non-canon**.
 - Accepted inventory remains Prologue and Chapters 1–16 at **87,610 words**.
 - Accepted endpoint remains **08:15:52 EDT / 17:45:52 IST**.
-- No Chapter 17 prose exists.
-- Special Agent Leila Grant is the named planned examiner; this does not create accepted character or event canon.
-- `MPD-901446` is the sole package planned for opening; the other six remain sealed and unopened.
-- MPD retains physical custody; no final federal receiver is planned.
-- Planned maximum endpoint is **09:12:52 EDT / 18:42:52 IST**.
-- Planning range is **5,600–6,300 words**.
-- The workflow requires the mission lock, protects Chapters 14–16, preserves the accepted count and endpoint, and prohibits Chapter 17 prose during this planning gate.
+- `ACCEPTED_MANUSCRIPT.yaml` and all accepted story ledgers remain unchanged.
+- Chapter 18 and later prose do not exist.
 
-Next maintenance gate: draft exactly one Chapter 17 first version at `../drafts/chapter-17.md`, then run the formal acceptance review. Do not draft Chapter 18 or create a complete remainder-of-Act-III outline.
+Next maintenance gate: conduct the formal Chapter 17 acceptance review. Do not draft Chapter 18 or create a complete remainder-of-Act-III outline.

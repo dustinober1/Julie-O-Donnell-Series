@@ -14,10 +14,10 @@ Act III contains four accepted chapters:
 - **Accepted manuscript total:** 87,610 words
 - **Time:** 08:15:52 EDT / 17:45:52 IST
 - **Primary Washington state:** Julie remains restrained in marked MPD transport at the secure evidence-intake threshold; Marcus and Elias remain in separate guarded medical custody.
-- **Authority:** MPD retains physical custody of all seven packages under incident `187463`; General William Hackett is the named federal preservation sponsor; no final federal receiver or independent technical examiner exists.
+- **Authority:** MPD retains physical custody of all seven packages under incident `187463`; General William Hackett is the named federal preservation sponsor; no final federal receiver or accepted independent technical examiner exists.
 - **Accepted prose after this point:** None.
-- **Unaccepted prose after this point:** None.
-- **Immediate next gate:** Chapter 17 is mission locked; draft exactly one first version from `34-chapter-17-mission-lock.md`.
+- **Unaccepted prose after this point:** Chapter 17 first draft at `../drafts/chapter-17.md`.
+- **Immediate next gate:** Formal Chapter 17 acceptance review.
 
 ## Physical state
 
@@ -103,18 +103,20 @@ An allied routing receipt now links a challenged-set reference, preserved record
 - Apex, Hartwell, Northbridge, MPD, the allied chain, and Hackett’s office each retain bounded and nonuniversal authority.
 - Sterling’s hostile armed-insider account remains publicly dominant; no public vindication or visible authenticated fracture has occurred.
 
-## Approved Chapter 17 planning delta
+## Chapter 17 first-draft delta
 
-`34-chapter-17-mission-lock.md` approves **The First Examination** as planning only:
+`34-chapter-17-mission-lock.md` controls **The First Examination**, and one unaccepted draft now exists at `../drafts/chapter-17.md`:
 
+- Exact draft length: **5,888 words**.
+- Draft opening: **08:15:52 EDT / 17:45:52 IST**.
+- Draft endpoint: **09:12:52 EDT / 18:42:52 IST**.
 - Julie primary POV and one bounded Special Agent Leila Grant examination-room POV.
-- `MPD-901446` is the sole package planned for opening.
-- MPD retains physical custody throughout.
+- `MPD-901446` is the sole package opened in drafted events.
+- MPD retains physical custody throughout drafted events.
 - The other six packages remain sealed and unopened.
-- The examination remains read-only and may establish only the physical-token signing-history mismatch and later authenticated-event distinction.
-- Planned maximum endpoint: **09:12:52 EDT / 18:42:52 IST**.
-- Planning range: **5,600–6,300 words**.
-- No accepted event, count change, endpoint change, final receiver, public vindication, K-17 result, or Phase B definition is created by the lock.
+- The examination remains read-only and establishes only the physical-token signing-history mismatch and later authenticated-event distinction.
+- The draft does not create an accepted event, count change, endpoint change, final receiver, public vindication, K-17 result, Phase B definition, or accepted technical finding.
+- Acceptance gate has not been conducted; the draft remains **non-canon**.
 
 ## Remaining Book 1 obligations after Chapter 16
 
@@ -130,8 +132,8 @@ An allied routing receipt now links a challenged-set reference, preserved record
 - authenticated public-narrative fracture
 - medical, legal, relationship, and future-role aftermath
 
-Chapter 16 resolves the mobile-custody survival problem and completes Marcus’s required on-record act. It does not resolve the technical merits, immediate geopolitical operation, final receiver, or public account.
+Chapter 16 resolves the mobile-custody survival problem and completes Marcus’s required on-record act. The Chapter 17 draft explores the first bounded technical examination but cannot resolve or update accepted state until formal acceptance and synchronized promotion.
 
 ## Current production gate
 
-Draft exactly one complete Chapter 17 first version at `../drafts/chapter-17.md` from `34-chapter-17-mission-lock.md`. Do not draft Chapter 18 or create a complete chapter-by-chapter outline for the remainder of Act III.
+Conduct the formal Chapter 17 acceptance review against `34-chapter-17-mission-lock.md` and `25-chapter-acceptance-gate.md`. Do not draft Chapter 18 or create a complete chapter-by-chapter outline for the remainder of Act III.

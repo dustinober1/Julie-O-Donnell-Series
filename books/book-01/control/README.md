@@ -1,8 +1,8 @@
-# Canon Control Pack v3.6
+# Canon Control Pack v3.7
 
 The accepted manuscript always outranks this control pack.
 
-Version 3.6 records the approved Chapter 17 mission lock, **The First Examination**. Accepted canon remains Prologue and Chapters 1–16 at **87,610 words**, ending at **08:15:52 EDT / 17:45:52 IST** at secure MPD evidence intake under Hackett's named preservation hold.
+Version 3.7 records the Chapter 17 first draft, **The First Examination**, at `../drafts/chapter-17.md`. Accepted canon remains Prologue and Chapters 1–16 at **87,610 words**, ending at **08:15:52 EDT / 17:45:52 IST** at secure MPD evidence intake under Hackett's named preservation hold.
 
 - [Overview](00-overview.md)
 - [1. Document Purpose and Use](01-document-purpose-and-use.md)
@@ -42,6 +42,17 @@ Version 3.6 records the approved Chapter 17 mission lock, **The First Examinatio
 
 Cross-book character continuity is controlled separately in [`../../../series/recurring-character-ledger.md`](../../../series/recurring-character-ledger.md).
 
+## Chapter 17 first-draft status
+
+- Draft path: `../drafts/chapter-17.md`
+- Exact words: **5,888**
+- Opening: **08:15:52 EDT / 17:45:52 IST**
+- Endpoint: **09:12:52 EDT / 18:42:52 IST**
+- Status: **unaccepted, non-canon, acceptance gate not yet run**
+- Accepted manifest: unchanged through Chapter 16
+- Accepted total: **87,610 words**
+- Accepted endpoint: **08:15:52 EDT / 17:45:52 IST**
+
 ## Current gate
 
-Draft exactly one complete first version of Chapter 17 — **The First Examination** — at `../drafts/chapter-17.md` from `34-chapter-17-mission-lock.md`. Do not draft Chapter 18 or create a complete remainder-of-Act-III outline.
+Conduct the formal Chapter 17 acceptance review. Do not draft Chapter 18 or create a complete remainder-of-Act-III outline.
