@@ -104,7 +104,7 @@ jobs:
               '`MPD-901446` — administrator-token board `EAT-0881147`',
               '**5,600–6,300 words**',
               'MPD retains physical custody of all seven packages',
-              'The other six packages remain sealed and unopened',
+              'The other six packages remain closed and unchanged.',
               'No-prose certification',
               'Draft exactly one complete first version of Chapter 17',
           ]
@@ -157,10 +157,25 @@ jobs:
           ]
           for path in status_files:
               text = path.read_text(encoding='utf-8')
-              assert '87,610' in text, path
-              assert '08:15:52 EDT / 17:45:52 IST' in text, path
               assert 'Chapter 17' in text, path
               assert ('mission lock' in text.lower() or 'mission locked' in text.lower()), path
+
+          core_status_files = [
+              root / 'README.md',
+              root / 'books/book-01/control/00-overview.md',
+              root / 'books/book-01/control/02-current-project-state.md',
+              root / 'books/book-01/control/16-chapter-by-chapter-status-record.md',
+              root / 'books/book-01/control/18-act-iii-entry-state.md',
+              root / 'books/book-01/control/20-control-pack-maintenance-rules.md',
+              root / 'books/book-01/control/23-word-budget-and-act-iii-architecture.md',
+              root / 'books/book-01/control/README.md',
+              root / 'books/book-01/drafts/README.md',
+              root / 'books/book-01/manuscript/STATUS.md',
+          ]
+          for path in core_status_files:
+              text = path.read_text(encoding='utf-8')
+              assert '87,610' in text, path
+              assert '08:15:52 EDT / 17:45:52 IST' in text, path
 
           assert 'Canon Control Pack v3.6' in (root / 'books/book-01/control/README.md').read_text(encoding='utf-8')
           assert '[34. Chapter 17 Mission Lock](34-chapter-17-mission-lock.md)' in (root / 'books/book-01/control/README.md').read_text(encoding='utf-8')
