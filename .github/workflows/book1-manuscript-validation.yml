@@ -66,7 +66,7 @@ jobs:
 
           manifest = (root / "books/book-01/ACCEPTED_MANUSCRIPT.yaml").read_text(encoding="utf-8")
           require("accepted_words: 93498" in manifest, "accepted total changed")
-          require('last_accepted_chapter: 17' in manifest, "accepted endpoint chapter changed")
+          require("accepted_endpoint:\n  chapter: 17" in manifest, "accepted endpoint chapter changed")
           require("chapter-17.md" in manifest, "Chapter 17 missing from accepted manifest")
           require("chapter-18.md" not in manifest, "unaccepted Chapter 18 entered accepted manifest")
 
