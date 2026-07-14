@@ -285,7 +285,7 @@ The room changed around the name.
 
 A registered certificate was not a man standing at the relay. It did not place Major Tariq on the mountain, put a device in his hand, or identify any of the approach marks outside. It established that an authority registered to his liaison cell had been accepted by K-17’s local controller.
 
-The WSS record had shown the same authority as an accepted field endpoint. Sharma did not have that record. She had only the challenged allied set and the local references within it. The local cartridge gave her the field-side event without importing any unavailable message.
+The challenged allied set carried a reference to the same accepted field authority. Sharma did not possess the remote session. She had only the category and local references preserved within her chain. The local cartridge gave her the field-side event without importing any unavailable message.
 
 Qureshi did not say Tariq had been there.
 
