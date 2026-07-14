@@ -15,6 +15,7 @@ This directory contains prose that may be complete, revised, or mission-locked b
 - Acceptance gate: not yet conducted
 - Accepted-manuscript effect: none
 - Production-file whitespace: clean under `git diff --check`
+- Automated review findings: two copyedits addressed; word count and meaning unchanged
 
 ## Accepted manuscript
 
