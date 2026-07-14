@@ -1,0 +1,85 @@
+name: Chapter 18 one-shot fixup
+
+on:
+  push:
+    branches:
+      - agent/chapter-18-first-draft
+    paths:
+      - ".github/workflows/chapter18-fixup.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: agent/chapter-18-first-draft
+          fetch-depth: 0
+      - name: Apply exact count and typography correction
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          draft = Path('books/book-01/drafts/chapter-18.md')
+          text = draft.read_text(encoding='utf-8')
+          old = "K-17's ordinary sensor forwarding"
+          new = "K-17’s ordinary sensor forwarding"
+          if text.count(old) != 1:
+              raise SystemExit(f'expected one typography target, found {text.count(old)}')
+          text = text.replace(old, new)
+          if len(text.split()) != 4478:
+              raise SystemExit(f'unexpected Chapter 18 count after correction: {len(text.split())}')
+          draft.write_text(text, encoding='utf-8')
+
+          replacements = {
+              '.github/workflows/book1-manuscript-validation.yml': [
+                  ('exact 4600-word count', 'exact 4478-word count'),
+                  ('words == 4600', 'words == 4478'),
+                  ('expected 4600', 'expected 4478'),
+                  ('draft_words: 4600', 'draft_words: 4478'),
+              ],
+              'PROJECT_STATE.yaml': [
+                  ('chapter_18_draft_words: 4600', 'chapter_18_draft_words: 4478'),
+                  ('draft_words: 4600', 'draft_words: 4478'),
+                  ('The Local Record exists at 4,600 words', 'The Local Record exists at 4,478 words'),
+              ],
+              'README.md': [('4,600', '4,478')],
+              'books/book-01/control/00-overview.md': [('4,600', '4,478')],
+              'books/book-01/control/02-current-project-state.md': [('4,600', '4,478')],
+              'books/book-01/control/16-chapter-by-chapter-status-record.md': [('4,600', '4,478')],
+              'books/book-01/control/18-act-iii-entry-state.md': [('4,600', '4,478')],
+              'books/book-01/control/20-control-pack-maintenance-rules.md': [('4,600', '4,478')],
+              'books/book-01/control/README.md': [('4,600', '4,478')],
+              'books/book-01/drafts/README.md': [('4,600', '4,478')],
+              'books/book-01/manuscript/STATUS.md': [('4,600', '4,478')],
+              'books/book-01/control/23-word-budget-and-act-iii-architecture.md': [
+                  ('4,600', '4,478'),
+                  ('98,102', '97,976'),
+                  ('1,898', '2,024'),
+                  ('14,398', '14,524'),
+              ],
+          }
+
+          for rel, pairs in replacements.items():
+              path = Path(rel)
+              value = path.read_text(encoding='utf-8')
+              for old_value, new_value in pairs:
+                  if old_value not in value:
+                      raise SystemExit(f'missing replacement target in {rel}: {old_value}')
+                  value = value.replace(old_value, new_value)
+              path.write_text(value, encoding='utf-8')
+
+          Path('.github/workflows/chapter18-diagnostic.yml').unlink()
+          Path('.github/workflows/chapter18-fixup.yml').unlink()
+          PY
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --check
+          git commit -m "Correct Chapter 18 count and typography"
+          git push origin HEAD:agent/chapter-18-first-draft
