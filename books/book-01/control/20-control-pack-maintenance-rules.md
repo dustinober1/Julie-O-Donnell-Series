@@ -1,113 +1,102 @@
 # 20. CONTROL-PACK MAINTENANCE RULES
 
-## Authority and file placement
+## Purpose
 
-1. The accepted-manuscript inventory at `../ACCEPTED_MANUSCRIPT.yaml` controls which prose files are canon.
-2. Accepted prose must live under `../manuscript/`.
-3. Unaccepted prose must live under `../drafts/`.
-4. No draft may be treated as canon because it is complete, titled, revised, mission-locked, or stored in Git.
-5. `../../../PROJECT_STATE.yaml` is the sole authority for production status and navigation. Other status summaries are subordinate.
-6. The series recurring-character ledger at `../../../series/recurring-character-ledger.md` controls cross-book continuity fields but cannot overrule accepted prose.
-7. Archive files and external snapshots are never active sources of truth.
+These rules keep accepted prose, the manifest, production status, control files, drafts, and validation aligned without allowing planning to become accidental canon.
 
-## Promotion and acceptance
+## Authority order
 
-8. Every chapter begins with a mission lock or approved chapter brief.
-9. Every draft remains outside the accepted manuscript until the acceptance gate is complete.
-10. Promotion requires one same-pass commit that:
-    - moves the final reviewed prose into `../manuscript/`;
-    - updates `../ACCEPTED_MANUSCRIPT.yaml`;
-    - updates `../../../PROJECT_STATE.yaml`;
-    - updates accepted word count and endpoint;
-    - updates chapter status;
-    - updates every affected timeline, character, relationship, evidence, knowledge, technology, location, public-narrative, antagonist, and thread record; and
-    - records the acceptance verdict.
-11. Later chapters may not use an unaccepted draft endpoint as canon.
-12. A chapter title remains a draft title until promotion.
-13. Rejected or superseded drafts remain available through Git history; do not create active filenames such as `final2`, `new-final`, or `latest`.
+1. Accepted manuscript prose listed in `../ACCEPTED_MANUSCRIPT.yaml`.
+2. The accepted-manuscript inventory.
+3. Current canon and continuity controls.
+4. Approved chapter-specific mission locks.
+5. Series controls.
+6. Drafts.
+7. Archive and Git history.
+8. Navigation summaries.
 
-## Timeline and physical continuity
+A lower source never overrides a higher source.
 
-14. Update the master timeline whenever accepted prose uses an exact timestamp.
-15. Record both EDT and IST when events materially affect the cross-border crisis.
-16. Never hide a time conflict by changing only a table. Record the discrepancy until the manuscript itself is repaired.
-17. Update injuries after every fall, fight, vehicle movement, treatment, rest period, worsening symptom, and meaningful elapsed-time change.
-18. Do not record recovery without treatment and elapsed time.
-19. Preserve the accepted Chapter 5-to-6 repair and L3-7 handoff unless an explicit manuscript-repair package supersedes it.
+## Acceptance and drafting rules
 
-## Evidence and knowledge
+- A mission lock is approved planning, not story canon.
+- A draft remains non-canon until a formal review issues **ACCEPT**.
+- Promotion must move prose to `../manuscript/chapters/`, update the manifest, recount accepted words, update the endpoint, and synchronize all materially affected controls in one production pass.
+- No unaccepted chapter may live under `../manuscript/`.
+- Only one active draft path per chapter is allowed.
+- Accepted chapter files must not be silently edited outside an explicit review or repair process.
 
-20. Record every evidence transfer with time, location, transferor, recipient, seal condition, reason, and witnesses.
-21. Keep the case, administrator board, recovery cartridge, Partition A, Partition B, WSS local audit, Chen records, and Sharma records as distinct objects.
-22. Update both “what it proves” and “what it does not prove” whenever evidence changes.
-23. Never promote registered authority into physical human custody without separate evidence.
-24. Update the knowledge matrix whenever a character witnesses a screen, hears a record, decrypts content, receives evidence, learns a public claim, or appears in a private antagonist scene.
-25. Never invent the contents of incomplete, excluded, encrypted, or unavailable records.
+## Word-count rules
 
-## Plot and series continuity
+- Count UTF-8 Markdown using whitespace-delimited tokens through `tools/count_book1_words.py`.
+- Planning and drafting do not change accepted totals.
+- Accepted totals change only when prose is promoted.
+- The current accepted total is **87,610 words** through Chapter 16.
 
-26. Update the thread-disposition matrix after every accepted chapter.
-27. Resolve Book 1 obligations before using a series hook to defer them.
-28. Move resolved threads into a payoff record rather than deleting them.
-29. Update the recurring-character ledger whenever a returning character's status, knowledge, injury, relationship, legal exposure, location, or future function changes.
-30. Do not assign a future-book role as canon until the character survives and reaches an accepted Book 1 end state.
-31. High-level Act III architecture may guide word budget and sequence, but chapter functions become controlling only through individual chapter locks.
-32. Plans for unwritten chapters remain non-canon.
+## Evidence and knowledge maintenance
 
-## Word count and ending control
+Every accepted-chapter promotion must update, where materially affected:
 
-33. Recount accepted manuscript words whenever prose is promoted or revised.
-34. Record only the accepted total in `PROJECT_STATE.yaml` and `../ACCEPTED_MANUSCRIPT.yaml`.
-35. Draft word counts remain separate.
-36. The Book 1 planning target is 112,500 words within an allowed range of 100,000–125,000 words.
-37. Word count never justifies a scene that does not advance plot, character, evidence, or consequence.
-38. The ending contract must be checked before accepting the climax, resolution, or epilogue.
+- master timeline;
+- character and injury state;
+- relationship and trust state;
+- evidence and custody ledger;
+- knowledge matrix;
+- technology rules;
+- organizations and authorities;
+- location/security architecture;
+- antagonist model;
+- public narrative;
+- open threads;
+- chapter status;
+- Act III state;
+- word budget;
+- thread disposition; and
+- recurring-character ledger.
 
-## Revision and audit
+A plan may identify a future evidence source, examiner, or endpoint without treating that future event as accepted fact.
 
-39. Narrative House Style v2.2 controls craft but cannot create or change canon.
-40. Run a discrepancy check before each new act or major phase.
-41. Run an evidence-limits check before chapters involving investigation, arrest, testimony, publication, decryption, or institutional custody.
-42. Run a full forward continuity audit before final revision.
-43. Run a reverse-order payoff audit after the ending exists.
-44. Before publication, audit exact times, EDT/IST conversion, titles, vehicles, security bypasses, certificate claims, evidence seals, injuries, knowledge, relationships, public narrative, and the official-record theme.
+## Current accepted locks
 
-## Archive policy
+- Accepted inventory: Prologue and Chapters 1–16.
+- Accepted total: 87,610 words.
+- Accepted endpoint: 08:15:52 EDT / 17:45:52 IST.
+- Chapter 14 protected blob: `78f7fff02cd271fecbc94f7daf7151dbebbd5c6d`.
+- Chapter 15 protected blob: `b8e7e2ae573a6c25ea096121c75acee867f3fad2`.
+- Chapter 16 protected blob: `dd5249f4b510a9da9ad19ab2902a95ce1e62a1d8`.
+- Chapter 17 prose does not exist.
 
-45. The former Google Doc and uploaded Word snapshot are historical migration inputs only.
-46. Do not edit external historical snapshots as active manuscripts.
-47. Superseded status and planning states are preserved by Git history; do not keep duplicate active copies.
-48. Archive records must say what is historical, why it is non-controlling, and where the active replacement lives.
+## Chapter 17 mission-lock maintenance record
 
-## Historical application record — accepted Chapter 15
+`34-chapter-17-mission-lock.md` approves **The First Examination** as planning only.
 
-- `31-chapter-15-acceptance-review.md` records **ACCEPT** after one capitalization-only copyedit at 5,993 words.
-- Accepted inventory is Prologue and Chapters 1–15 at **81,586** words.
-- Accepted endpoint is **07:56:40 EDT / 17:26:40 IST**.
-- The Chapter 15 draft has been removed; the corrected blob now lives only at `../manuscript/chapters/chapter-15.md`.
-- Seven originals are separately sealed in MPD custody; no final federal/technical intake is established.
-- Book 1 remains not publication-ready.
+The lock must remain consistent with these constraints:
 
-## Historical pre-acceptance application record — Chapter 16 first draft (superseded)
+- opening from the exact accepted Chapter 16 endpoint;
+- Julie primary POV;
+- one bounded Special Agent Leila Grant examination-room POV;
+- `MPD-901446` as the sole package planned for opening;
+- MPD physical custody throughout;
+- the other six packages sealed and unopened;
+- read-only physical-token examination;
+- no biometric, private-key signing act, live network, Apex credential, or second package;
+- planned maximum endpoint 09:12:52 EDT / 18:42:52 IST;
+- planning range 5,600–6,300 words;
+- no public vindication, final federal receiver, K-17 result, Phase B definition, WSS plaintext, or human-operator finding.
 
-The entries below preserve the pre-acceptance audit state only. They are superseded by the Chapter 16 acceptance maintenance record that follows and do not describe current production status.
+## Validator requirements for the planning gate
 
-- `32-chapter-16-mission-lock.md` remains the controlling production plan for Chapter 16 — **The Hold Order**.
-- One active first draft exists only at `../drafts/chapter-16.md`.
-- Exact draft word count is **6,024**.
-- Draft opening is **07:56:40 EDT / 17:26:40 IST**.
-- Draft endpoint is **08:15:52 EDT / 17:45:52 IST**, inside the approved maximum.
-- The draft uses Julie primary, one bounded Marcus ambulance cutaway, one bounded Sharma cutaway, and a return to Julie.
-- The draft keeps all seven packages separate, sealed, offline, and in MPD custody; no accepted ledger is updated as though those drafted events occurred.
-- `../ACCEPTED_MANUSCRIPT.yaml`, accepted prose, the accepted count, and the accepted endpoint remain unchanged.
-- Chapter 16 remains unaccepted and non-canon until the formal acceptance gate issues **ACCEPT** and a synchronized promotion commit is completed.
-- The next gate is the formal Chapter 16 acceptance and revision review.
-- Chapter 17 and later prose do not exist. Do not draft them from the unaccepted Chapter 16 endpoint.
+The repository validator must require:
 
-## Chapter 16 acceptance maintenance record — 2026-07-13
+- accepted total 87,610;
+- accepted manifest ending at Chapter 16;
+- unchanged accepted endpoint;
+- protected Chapter 14, 15, and 16 blobs and counts;
+- presence of `34-chapter-17-mission-lock.md`;
+- absence of Chapter 17 prose under drafts and manuscript during this planning-lock PR;
+- Chapter 17 as the next drafting gate only after the lock is approved; and
+- absence of temporary repair workflows or duplicate controls.
 
-`33-chapter-16-acceptance-review.md` records **ACCEPT** after one surgical POV-firewall revision at 6,024 words. The reviewed blob `dd5249f4b510a9da9ad19ab2902a95ce1e62a1d8` now lives only at `../manuscript/chapters/chapter-16.md`; the draft copy is removed. The revision removes narrator-level Washington, Hartwell, Payload 88, and MPD-specific knowledge from Sharma's bounded close-third movement without changing word count, events, or endpoint.
+## Current next gate
 
-The accepted manifest, project state, status files, affected canon ledgers, series character ledger, and validation workflow are synchronized to 87,610 words and the 08:15:52 EDT / 17:45:52 IST endpoint. The validator protects Chapters 14, 15, and 16; requires the Chapter 16 review; prohibits a Chapter 16 draft and Chapter 17 prose; and verifies the accepted total and endpoint.
-
-Next maintenance gate: Chapter 17 mission planning and mission locking only. No Chapter 17 prose or complete remainder-of-Act-III outline is authorized.
+Draft exactly one complete first version at `../drafts/chapter-17.md` from `34-chapter-17-mission-lock.md`. Do not draft Chapter 18 or create a complete chapter-by-chapter outline for the remainder of Act III.
