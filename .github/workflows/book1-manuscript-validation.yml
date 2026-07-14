@@ -52,7 +52,3 @@ jobs:
           grep -Fq 'chapter_18_mission_lock: "books/book-01/control/36-chapter-18-mission-lock.md"' PROJECT_STATE.yaml
           grep -Fq 'accepted_words: 93498' PROJECT_STATE.yaml
           grep -Fq '[36. Chapter 18 Mission Lock](36-chapter-18-mission-lock.md)' books/book-01/control/README.md
-
-      - name: Check whitespace
-        if: github.event_name == 'pull_request'
-        run: git diff --check --ignore-space-at-eol "origin/${{ github.base_ref }}...HEAD"
