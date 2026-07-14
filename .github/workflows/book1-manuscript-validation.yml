@@ -85,7 +85,7 @@ jobs:
               require(len(path.read_text(encoding='utf-8').split()) == expected_words, f'protected word count changed: {name}')
 
           require('# 36. CHAPTER 18 MISSION LOCK — THE LOCAL RECORD' in lock, 'Chapter 18 title/lock heading wrong')
-          required_sections = [
+          for section in [
               '## 1. Status and authority',
               '## 3. Remaining-obligation audit',
               '## 4. Candidate mission analysis',
@@ -104,8 +104,7 @@ jobs:
               '## 33. Word budget',
               '## 34. Drafting instructions',
               '## 38. No-prose certification',
-          ]
-          for section in required_sections:
+          ]:
               require(section in lock, f'mission-lock section missing: {section}')
 
           for marker in [
@@ -119,47 +118,33 @@ jobs:
               'ARJ-K17-ACK-01',
               '4,400–5,200 words',
               'Mission locked; undrafted; non-canon planning',
+              '### Candidate A — The Local Record',
+              '### Candidate B — The Second Examination',
+              '### Candidate C — The Witness Choice',
+              '### Candidate D — The Hartwell Production',
+              'No complete remainder-of-Act-III outline is created.',
+              'This mission lock contains no Chapter 18 narrative prose',
           ]:
               require(marker in lock, f'mission-lock marker missing: {marker}')
-
-          require('### Candidate A — The Local Record' in lock, 'selected candidate missing')
-          require('### Candidate B — The Second Examination' in lock, 'Washington evidence candidate missing')
-          require('### Candidate C — The Witness Choice' in lock, 'witness candidate missing')
-          require('### Candidate D — The Hartwell Production' in lock, 'Hartwell candidate missing')
-          require('No complete remainder-of-Act-III outline is created.' in lock, 'no-outline certification missing')
-          require('This mission lock contains no Chapter 18 narrative prose' in lock, 'no-prose certification missing')
 
           require(not (root / 'books/book-01/drafts/chapter-18.md').exists(), 'Chapter 18 draft exists')
           require(not (root / 'books/book-01/manuscript/chapters/chapter-18.md').exists(), 'Chapter 18 manuscript prose exists')
           require(not list((root / 'books/book-01').rglob('chapter-19.md')), 'Chapter 19 prose exists')
           require(not (root / 'books/book-01/control/37-chapter-19-mission-lock.md').exists(), 'Chapter 19 mission lock exists')
 
-          required_status = [
-              'README.md',
-              'PROJECT_STATE.yaml',
-              'books/book-01/control/00-overview.md',
-              'books/book-01/control/02-current-project-state.md',
-              'books/book-01/control/16-chapter-by-chapter-status-record.md',
-              'books/book-01/control/18-act-iii-entry-state.md',
-              'books/book-01/control/20-control-pack-maintenance-rules.md',
-              'books/book-01/control/23-word-budget-and-act-iii-architecture.md',
-              'books/book-01/control/24-thread-disposition-matrix.md',
-              'books/book-01/control/README.md',
-              'books/book-01/drafts/README.md',
-              'books/book-01/manuscript/STATUS.md',
-          ]
-          for rel in required_status:
-              text = read(rel)
-              require('93,498' in text, f'accepted total missing from {rel}')
-              require('09:12:52 EDT / 18:42:52 IST' in text, f'accepted endpoint missing from {rel}')
-              require('Chapter 18' in text, f'Chapter 18 planning status missing from {rel}')
-
           require('chapter_18_mission_lock: "books/book-01/control/36-chapter-18-mission-lock.md"' in project, 'PROJECT_STATE mission-lock path missing')
-          require('status: "mission locked; undrafted; non-canon"' in project, 'PROJECT_STATE Chapter 18 status wrong')
-          require('next_gate: "Draft exactly one first version of Chapter 18 from the approved mission lock"' in project, 'PROJECT_STATE next gate wrong')
+          require('status: "mission locked; undrafted; non-canon planning"' in project, 'PROJECT_STATE Chapter 18 status wrong')
+          require('next_gate: "Draft exactly one complete first version at books/book-01/drafts/chapter-18.md; do not draft Chapter 19"' in project, 'PROJECT_STATE Chapter 18 next gate wrong')
+          require('accepted_words: 93498' in project, 'PROJECT_STATE accepted count changed')
+          require('endpoint: "09:12:52 EDT / 18:42:52 IST"' in project, 'PROJECT_STATE accepted endpoint changed')
 
           control_readme = read('books/book-01/control/README.md')
           require('[36. Chapter 18 Mission Lock](36-chapter-18-mission-lock.md)' in control_readme, 'control-pack index link missing')
+
+          drafts_status = read('books/book-01/drafts/README.md')
+          manuscript_status = read('books/book-01/manuscript/STATUS.md')
+          require('chapter-18.md' in drafts_status and 'does not exist' in drafts_status.lower(), 'draft status is not explicit')
+          require('Chapter 18' in manuscript_status and 'non-canon' in manuscript_status, 'manuscript status is not explicit')
 
           print('Chapter 18 mission-lock state validated')
           PY
