@@ -94,6 +94,7 @@ The remaining manuscript must add at least 6,502 accepted words to exceed the mi
 Later accepted prose must still provide sufficient space for:
 
 - alternative identity path and human responsibility;
+- Washington/field reconnection;
 - Hartwell exact-record payoff;
 - WSS local-audit fate or lawful equivalent proof;
 - final custody and any broader technical examination required by the ending;
@@ -101,6 +102,7 @@ Later accepted prose must still provide sufficient space for:
 - consequential choices for Chen and Mercer;
 - Hackett, Bell, Price, Vance, and Sterling payoffs;
 - authenticated public-narrative fracture;
+- geopolitical stabilization;
 - legal, medical, and relationship aftermath; and
 - a bounded series-facing ending that does not defer Book 1 resolution.
 
