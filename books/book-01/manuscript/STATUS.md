@@ -29,10 +29,22 @@
 - Custody: Indian local original, patrol record/photographs, and derivative remain separate; MPD's seven Washington packages are unchanged
 - Limit: no physical human operator, personal keystrokes/possession, WSS plaintext, Hartwell presenter, reconstruction author, guilt, innocence, immunity, admissibility, final federal receiver, or public vindication was established
 
+## Approved Chapter 19 planning
+
+- Mission lock: [`../control/38-chapter-19-mission-lock.md`](../control/38-chapter-19-mission-lock.md)
+- Status: mission locked, undrafted, and non-canon
+- Dominant mission: reconnect the bounded K-17 result to Washington through one named federal receiving act, then obtain Hartwell's exact `SSO-NS-004` serial and institutional physical-custody chain
+- Planned opening: **10:01:12 EDT / 19:31:12 IST**
+- Planned endpoint: **10:44:12 EDT / 20:14:12 IST**
+- Planned POV: Julie primary with one bounded Grant Hartwell cutaway
+- Planned range: **5,200–5,900 words**
+- Evidence limit: no MPD package opened, connected, moved, combined, or transferred
+- Accepted-manuscript effect: none
+
 ## Current unresolved accepted state
 
-Hartwell presenter and exact serial remain unresolved. WSS-4 plaintext remains unavailable. The Chapter 18 local field outcome is accepted, but human authorization, alternative identity path, upstream responsibility, final federal custody, and public narrative fracture remain open.
+Hartwell presenter and exact serial remain unresolved in accepted canon. WSS-4 plaintext remains unavailable. The Chapter 18 local field outcome is accepted, but human authorization, alternative identity path, upstream responsibility, final federal custody, and public narrative fracture remain open. The Chapter 19 mission lock plans specific advancement but does not make any planned result canon.
 
 ## Current gate
 
-Create and approve a dedicated Chapter 19 mission lock. Do not draft Chapter 19 before approval or create a complete remainder-of-Act-III outline.
+Draft and integrate the complete first version of Chapter 19 under the approved mission lock. Keep the draft non-canon until formal acceptance. Do not begin Chapter 20 planning or create a complete remainder-of-Act-III outline.
