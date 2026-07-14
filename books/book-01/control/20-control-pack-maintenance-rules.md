@@ -82,7 +82,7 @@
 
 - `36-chapter-18-mission-lock.md` remains the controlling planning file.
 - Draft path: `../drafts/chapter-18.md`.
-- Exact draft words: **4,600**.
+- Exact draft words: **4,478**.
 - Status: first draft exists; unaccepted; non-canon.
 - Draft opening: **09:12:52 EDT / 18:42:52 IST**.
 - Draft endpoint: **10:01:12 EDT / 19:31:12 IST**.

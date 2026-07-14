@@ -15,8 +15,8 @@
 | Remaining to minimum | **6,502** |
 | Remaining to planning target | **19,002** |
 | Remaining before maximum | **31,502** |
-| Unaccepted Chapter 18 draft | **4,600** |
-| Working total if Chapter 18 were later accepted unchanged | **98,102** |
+| Unaccepted Chapter 18 draft | **4,478** |
+| Working total if Chapter 18 were later accepted unchanged | **97,976** |
 
 Accepted contributions:
 
@@ -31,7 +31,7 @@ Accepted contributions:
 | Accepted Act III subtotal, Chapters 13–17 | **29,843** |
 | Accepted manuscript total | **93,498** |
 
-The exact count method is the UTF-8 Markdown whitespace-delimited method implemented by `tools/count_book1_words.py`. The 4,600-word Chapter 18 draft is excluded from all accepted totals.
+The exact count method is the UTF-8 Markdown whitespace-delimited method implemented by `tools/count_book1_words.py`. The 4,478-word Chapter 18 draft is excluded from all accepted totals.
 
 ## Planning principle
 
@@ -65,7 +65,7 @@ Chapter 18 remains controlled by `36-chapter-18-mission-lock.md` and is non-cano
 |---|---|
 | Title | **The Local Record** |
 | Path | `../drafts/chapter-18.md` |
-| Exact words | **4,600** |
+| Exact words | **4,478** |
 | Opening | **09:12:52 EDT / 18:42:52 IST** |
 | Endpoint | **10:01:12 EDT / 19:31:12 IST** |
 | POV | Major Ananya Sharma only |
@@ -73,7 +73,7 @@ Chapter 18 remains controlled by `36-chapter-18-mission-lock.md` and is non-cano
 | Accepted-manuscript effect | None |
 | Next gate | Formal Chapter 18 acceptance review |
 
-At 4,600 words, later acceptance without revision would produce a 98,102-word manuscript, still 1,898 words below the minimum and 14,398 words below the planning target. The draft was not inflated to cross 100,000. The remaining climax and aftermath require substantial space.
+At 4,478 words, later acceptance without revision would produce a 97,976-word manuscript, still 2,024 words below the minimum and 14,524 words below the planning target. The draft was not inflated to cross 100,000. The remaining climax and aftermath require substantial space.
 
 ## Provisional later structure
 

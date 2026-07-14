@@ -7,7 +7,7 @@ This directory contains prose that is **not accepted canon**. A complete draft r
 - Active chapter drafts:
   - `chapter-18.md` — **The Local Record**
 - Chapter 18 status: **complete first draft; unaccepted; non-canon**
-- Chapter 18 exact words: **4,600**
+- Chapter 18 exact words: **4,478**
 - Chapter 18 mission lock: `../control/36-chapter-18-mission-lock.md`
 - Opening: **09:12:52 EDT / 18:42:52 IST**
 - Endpoint: **10:01:12 EDT / 19:31:12 IST**

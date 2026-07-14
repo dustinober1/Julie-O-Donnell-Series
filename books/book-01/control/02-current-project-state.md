@@ -16,7 +16,7 @@ The authoritative production status is `../../../PROJECT_STATE.yaml`. The author
 | Target range | 100,000–125,000 words |
 | Accepted endpoint | **Chapter 17, 09:12:52 EDT / 18:42:52 IST** |
 | Active chapter drafts | `../drafts/chapter-18.md` only |
-| Chapter 18 | **The Local Record** — 4,600-word first draft; non-canon |
+| Chapter 18 | **The Local Record** — 4,478-word first draft; non-canon |
 | Book status | Not publication-ready |
 
 ## Accepted endpoint
@@ -42,7 +42,7 @@ It does not establish innocence, guilt, immunity, admissibility, an alternative 
 - Mission lock: `36-chapter-18-mission-lock.md`
 - Draft path: `../drafts/chapter-18.md`
 - Status: first draft exists; unaccepted; non-canon
-- Exact words: 4,600
+- Exact words: 4,478
 - Opening: 09:12:52 EDT / 18:42:52 IST
 - Endpoint: 10:01:12 EDT / 19:31:12 IST
 - POV: Major Ananya Sharma only

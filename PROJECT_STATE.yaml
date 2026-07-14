@@ -39,7 +39,7 @@ active_book:
     accepted_words_before_chapter_17: 87610
     chapter_17_words: 5888
     accepted_act_iii_words: 29843
-    chapter_18_draft_words: 4600
+    chapter_18_draft_words: 4478
     count_method: "UTF-8 Markdown whitespace-delimited tokens; tools/count_book1_words.py"
     accepted_count_changed_by_chapter_18_draft: false
 
@@ -148,7 +148,7 @@ active_book:
     mission_lock: "books/book-01/control/36-chapter-18-mission-lock.md"
     draft_path: "books/book-01/drafts/chapter-18.md"
     draft_exists: true
-    draft_words: 4600
+    draft_words: 4478
     accepted: false
     acceptance_gate_passed: false
     accepted_manifest_changed: false
@@ -213,7 +213,7 @@ critical_status:
     reviewed_blob_sha: "1c4022ebb8d27d8d448f98bcf74fbf09e6e560c1"
   chapter_18_first_draft:
     severity: "active review gate"
-    status: "The Local Record exists at 4,600 words; unaccepted and non-canon"
+    status: "The Local Record exists at 4,478 words; unaccepted and non-canon"
     mission_lock: "books/book-01/control/36-chapter-18-mission-lock.md"
   status_drift:
     severity: "resolved"

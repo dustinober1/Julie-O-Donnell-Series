@@ -133,7 +133,7 @@ Sethi pointed to a smaller armored drawer visible outside the inner boundary in 
 
 “Did you connect anything else to the relay?”
 
-“The empty cassette was capped and mechanically isolated. No replacement medium was connected. K-17's ordinary sensor forwarding remained physically intact, but its local incident-write path stayed offline pending authorized restoration.”
+“The empty cassette was capped and mechanically isolated. No replacement medium was connected. K-17’s ordinary sensor forwarding remained physically intact, but its local incident-write path stayed offline pending authorized restoration.”
 
 Sharma looked at Rao. “Photographs?”
 

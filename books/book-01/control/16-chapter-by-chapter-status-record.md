@@ -44,7 +44,7 @@ Accepted total through Chapter 17: **93,498 words**.
 - **Status:** First draft exists; unaccepted; non-canon
 - **Mission lock:** `36-chapter-18-mission-lock.md`
 - **Draft path:** `../drafts/chapter-18.md`
-- **Exact draft words:** 4,600
+- **Exact draft words:** 4,478
 - **Accepted path:** None
 - **Accepted-manuscript effect:** None
 - **Opening:** 09:12:52 EDT / 18:42:52 IST
@@ -63,6 +63,6 @@ Accepted total through Chapter 17: **93,498 words**.
 
 ## Current accepted state — 2026-07-14
 
-The accepted manuscript remains the Prologue and Chapters 1–17 at **93,498 words**, ending at **09:12:52 EDT / 18:42:52 IST**. Chapter 18 exists only as an unaccepted 4,600-word draft at `../drafts/chapter-18.md`.
+The accepted manuscript remains the Prologue and Chapters 1–17 at **93,498 words**, ending at **09:12:52 EDT / 18:42:52 IST**. Chapter 18 exists only as an unaccepted 4,478-word draft at `../drafts/chapter-18.md`.
 
 Conduct the formal Chapter 18 acceptance review. Do not draft Chapter 19.

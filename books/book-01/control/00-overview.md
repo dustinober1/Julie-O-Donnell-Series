@@ -37,7 +37,7 @@
 - Mission lock: `36-chapter-18-mission-lock.md`
 - Draft: `../drafts/chapter-18.md`
 - Status: **first draft exists; unaccepted; non-canon**
-- Exact draft words: **4,600**
+- Exact draft words: **4,478**
 - Opening: **09:12:52 EDT / 18:42:52 IST**
 - Endpoint: **10:01:12 EDT / 19:31:12 IST**
 - POV: **Major Ananya Sharma only**

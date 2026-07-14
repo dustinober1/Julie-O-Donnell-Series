@@ -93,7 +93,7 @@ The result does not identify an alternative identity path, workstation, human op
 - **Title:** The Local Record
 - **Status:** first draft exists; unaccepted; non-canon
 - **Draft path:** `../drafts/chapter-18.md`
-- **Exact draft words:** 4,600
+- **Exact draft words:** 4,478
 - **Opening:** 09:12:52 EDT / 18:42:52 IST
 - **Endpoint:** 10:01:12 EDT / 19:31:12 IST
 - **POV:** Major Ananya Sharma only

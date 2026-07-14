@@ -17,7 +17,7 @@ The authoritative production status is [`PROJECT_STATE.yaml`](PROJECT_STATE.yaml
 - Chapter 18, **The Local Record**: first draft exists, unaccepted, and non-canon
 - Chapter 18 mission lock: [`books/book-01/control/36-chapter-18-mission-lock.md`](books/book-01/control/36-chapter-18-mission-lock.md)
 - Chapter 18 draft: [`books/book-01/drafts/chapter-18.md`](books/book-01/drafts/chapter-18.md)
-- Chapter 18 draft length: **4,600 words**
+- Chapter 18 draft length: **4,478 words**
 - Active chapter drafts: Chapter 18 only
 - Book 1: not publication-ready
 - Complete remainder-of-Act-III outline: not created
