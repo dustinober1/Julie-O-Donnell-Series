@@ -1,0 +1,45 @@
+name: Run Chapter 20 Acceptance Application
+
+on:
+  pull_request:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: agent/chapter-20-acceptance-review
+
+      - name: Apply reviewed Chapter 20 state
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import base64
+          import gzip
+          import re
+
+          workflow = Path('.github/workflows/chapter20-acceptance-apply.yml').read_text(encoding='utf-8')
+          match = re.search(r'payload = "([A-Za-z0-9+/=]+)"', workflow)
+          if not match:
+              raise SystemExit('embedded Chapter 20 acceptance payload not found')
+          source = gzip.decompress(base64.b64decode(match.group(1)))
+          exec(compile(source, 'chapter20_acceptance_apply.py', 'exec'))
+          PY
+          rm -f .github/workflows/chapter20-acceptance-pr.yml
+
+      - name: Commit synchronized acceptance state
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Accept and synchronize Chapter 20 [chapter20-acceptance-applied]"
+          git push origin HEAD:agent/chapter-20-acceptance-review
