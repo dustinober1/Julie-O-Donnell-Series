@@ -47,8 +47,8 @@ jobs:
       - name: Count accepted manuscript
         run: python tools/count_book1_words.py --expect 112091
 
-      - name: Validate accepted Chapter 21 state
-        run: python tools/validate_book1_chapter21.py
+      - name: Validate accepted Chapter 21 state and Chapter 22 mission lock
+        run: python tools/validate_book1_chapter22.py
 
       - name: Diff hygiene
         run: git diff --check "$BOOK1_DIFF_BASE" --
