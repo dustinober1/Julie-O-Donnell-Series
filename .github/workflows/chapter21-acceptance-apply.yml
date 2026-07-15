@@ -33,6 +33,21 @@ jobs:
             | base64 --decode \
             | gzip --decompress \
             > /tmp/chapter21_acceptance_apply.py
+          python - <<'PY'
+          from pathlib import Path
+          path = Path('/tmp/chapter21_acceptance_apply.py')
+          source = path.read_text(encoding='utf-8')
+          start = source.find('validator =')
+          following = source.find('old_validator = ROOT', start)
+          end = source.rfind("'''", start, following) + 3
+          if start < 0 or following < 0 or end < 3:
+              raise SystemExit('validator generator markers not found')
+          block = source[start:end]
+          repaired = block.replace('\\n', '\\\\n')
+          if repaired == block:
+              raise SystemExit('validator generator escape repair not applied')
+          path.write_text(source[:start] + repaired + source[end:], encoding='utf-8')
+          PY
           python -m py_compile /tmp/chapter21_acceptance_apply.py
           python /tmp/chapter21_acceptance_apply.py > /tmp/chapter21_acceptance_apply.log 2>&1
       - name: Upload apply diagnostic
