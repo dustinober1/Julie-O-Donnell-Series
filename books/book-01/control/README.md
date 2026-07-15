@@ -26,7 +26,7 @@ Price is alive, represented, and under bounded DIA administrative review. His au
 - **Mission-lock blob:** `9bd255ac7b09a1490dc70be4506ba29183756788`
 - **Draft:** [`../drafts/chapter-22.md`](../drafts/chapter-22.md)
 - **Draft blob:** `034ab496794594427d8409d03e7c6659d41b6a91`
-- **Draft words:** **4,641**
+- **Draft words:** **4,716**
 - **Status:** First draft complete; non-canon; formal acceptance review pending
 - **Opening:** **12:18:04 EDT / 21:48:04 IST**, secure MPD evidence intake
 - **Endpoint:** **13:12:44 EDT / 22:42:44 IST**, secure MPD evidence intake
