@@ -6,7 +6,7 @@
 - Accepted words: **107,676**
 - Accepted endpoint: **11:26:32 EDT / 20:56:32 IST**
 - Chapter 20: accepted at **4,307 words**, review `41-chapter-20-acceptance-review.md`
-- Chapter 21 and later: not drafted and not individually mission locked
+- Chapter 21: mission locked, undrafted, non-canon; Chapter 22 and later remain undrafted and individually mission unlocked
 - No complete remainder-of-Act-III outline exists
 
 Disposition labels: **B1-REQUIRED**, **B1-PARTIAL / SERIES**, **SERIES**, **MERGED**, **OPTIONAL**.
