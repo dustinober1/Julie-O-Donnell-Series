@@ -56,7 +56,7 @@
 - Title: **The Release Record**.
 - Exactly one draft exists at `../drafts/chapter-22.md`.
 - Exact draft blob: `034ab496794594427d8409d03e7c6659d41b6a91`.
-- Exact draft word count: **4,641**.
+- Exact draft word count: **4,716**.
 - Opening: **12:18:04 EDT / 21:48:04 IST**.
 - Endpoint: **13:12:44 EDT / 22:42:44 IST**.
 - POV: Julie primary with exactly one bounded Sarah Chen cutaway.
