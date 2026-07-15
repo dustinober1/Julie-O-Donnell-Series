@@ -46,18 +46,23 @@ The accepted-manuscript inventory in `../ACCEPTED_MANUSCRIPT.yaml` controls acce
 - Result: constructed identity path established; constructor remains unproved.
 - No duplicate draft remains.
 
-## Chapter 22 — mission locked, undrafted, non-canon
+## Chapter 22 — first draft complete, non-canon
 
-- Working title: **The Release Record**.
+- Title: **The Release Record**.
 - Mission lock: `44-chapter-22-mission-lock.md`.
 - Exact mission-lock blob: `9bd255ac7b09a1490dc70be4506ba29183756788`.
-- Planned opening: **12:18:04 EDT / 21:48:04 IST**, secure MPD evidence intake.
-- Intended endpoint: **13:12:44 EDT / 22:42:44 IST**, secure MPD evidence intake.
+- Draft path: `../drafts/chapter-22.md`.
+- Exact draft blob: `034ab496794594427d8409d03e7c6659d41b6a91`.
+- Exact draft words: **4,641**.
+- Opening: **12:18:04 EDT / 21:48:04 IST**, secure MPD evidence intake.
+- Endpoint: **13:12:44 EDT / 22:42:44 IST**, secure MPD evidence intake.
 - Dominant function: relate Price's borrowed identity, Elias's framed identity, the failed K-17 local commit, and the later successful remote reconstruction at the mechanism and authority-binding levels; establish a separately corroborated later release act and meaningful Vance consequence without proving the original deployment hand or Sterling personal command.
-- POV: Julie primary with one bounded Sarah Chen cutaway.
-- Target: **5,000 words**; preferred **4,600–5,400**; hard ceiling **5,800**.
-- Chapter 22 prose: not created.
+- POV: Julie primary with exactly one bounded Sarah Chen cutaway.
+- Structure: exactly six causal scenes.
+- Word target: **5,000**; preferred **4,600–5,400**; hard ceiling **5,800**; actual **4,641**.
 - Accepted effect: none.
+- Acceptance review: not created.
+- Promotion: not authorized.
 
 ## Chapter 23 and later
 
@@ -65,4 +70,4 @@ At least one later chapter remains necessary under the Book 1 ending contract, b
 
 ## Current gate
 
-A fresh, separately authorized session may draft only the first non-canon version of Chapter 22 from `44-chapter-22-mission-lock.md` after verifying the merged repository state. It may not draft or plan Chapter 23 or create a complete remainder outline.
+A fresh, separately authorized session may perform only the formal Chapter 22 acceptance review against the exact draft and mission lock. It may not draft or plan Chapter 23, create a complete remainder outline, alter accepted prose, or promote Chapter 22 without an explicit acceptance verdict.
