@@ -46,7 +46,7 @@
 - Accepted endpoint: **11:26:32 EDT / 20:56:32 IST**.
 - Chapter 20 prose exists only at `../manuscript/chapters/chapter-20.md`; no draft remains.
 - Chapter 20 mission lock remains `c074e4f6f9ec9cddcbc701e2923f34b3082ede5a`.
-- Permanent validation protects Chapters 13–20, the review, total, endpoint, custody/proof sentinels, and absence of Chapter 21 artifacts.
+- The Chapter 20 acceptance commit installed validation for Chapters 13–20, the review, total, endpoint, custody/proof sentinels, and the then-required absence of Chapter 21 artifacts.
 - No temporary helper, debug file, trigger, alternate prose, or one-time workflow remains.
 
 ## Chapter 21 planning maintenance delta
