@@ -352,9 +352,18 @@ def validate_absence_and_hygiene() -> None:
     require(not suspicious, f"temporary/alternate Chapter 21 artifact exists: {suspicious}")
 
     forbidden_paths = [
+        ROOT / ".github/workflows/chapter20-acceptance-apply.yml",
+        ROOT / ".github/workflows/chapter20-acceptance-pr.yml",
+        ROOT / "chapter20-validator-final.yml",
+        ROOT / ".chapter20-acceptance-py",
+        ROOT / ".chapter20-acceptance",
+        ROOT / ".github/workflows/chapter21-mission-lock-apply.yml",
+        ROOT / ".github/workflows/chapter21-mission-lock-pr.yml",
+        ROOT / "chapter21-validator-final.yml",
+        ROOT / ".chapter21-mission-lock-py",
+        ROOT / ".chapter21-mission-lock",
         ROOT / ".github/workflows/chapter21-draft-apply.yml",
         ROOT / ".github/workflows/chapter21-draft-pr.yml",
-        ROOT / "chapter21-validator-final.yml",
         ROOT / ".chapter21-draft-py",
         ROOT / ".chapter21-draft",
     ]
