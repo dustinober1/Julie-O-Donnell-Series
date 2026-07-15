@@ -73,7 +73,8 @@ def validate_protected_prose() -> None:
     }
     for name, (expected_blob, expected_words) in protected.items():
         path = CHAPTERS / name
-        require(blob(path) == expected_blob, f'protected blob changed: {name} = {blob(path)}')
+        actual_blob = blob(path)
+        require(actual_blob == expected_blob, f'protected blob changed: {name} = {actual_blob}')
         actual_words = word_count(path)
         require(actual_words == expected_words, f'protected count changed: {name} = {actual_words}')
     print('protected accepted prose: OK')
@@ -102,8 +103,7 @@ def validate_manifest_and_accepted_controls() -> None:
         require(actual == expected, f'protected accepted control changed: {path} = {actual}')
 
     for review_path in (REVIEW20, REVIEW21):
-        review = review_path.read_text(encoding='utf-8')
-        require('# ACCEPT' in review, f'explicit ACCEPT missing: {review_path}')
+        require('# ACCEPT' in review_path.read_text(encoding='utf-8'), f'explicit ACCEPT missing: {review_path}')
 
     review21 = REVIEW21.read_text(encoding='utf-8')
     for sentinel in [
@@ -167,51 +167,35 @@ def validate_chapter22_mission_lock() -> None:
         '**Secure MPD evidence intake, Washington, D.C.**',
         '## 6. Dominant dramatic function',
         'Decisive control-plane attribution and antagonist consequence.',
-        '## 7. Mission statement',
-        '## 8. Central dramatic question',
-        '## 9. Primary objective',
-        '## 10. Secondary objective',
-        '## 11. Success condition',
-        '## 12. Failure condition',
+        '## 7. Mission statement', '## 8. Central dramatic question',
+        '## 9. Primary objective', '## 10. Secondary objective',
+        '## 11. Success condition', '## 12. Failure condition',
         '## 13. Concrete abort, stop, and narrowing conditions',
-        '## 14. POV structure',
-        '**Julie O’Donnell**',
-        'Exactly **one** bounded **Sarah Chen**',
-        '## 16. Prohibited POVs',
+        '## 14. POV structure', '**Julie O’Donnell**',
+        'Exactly **one** bounded **Sarah Chen**', '## 16. Prohibited POVs',
         '## 17. Causal scene architecture',
         'Scene 1 — The preservation response is not the record',
         'Scene 3 — Midpoint cutaway: the later release had a human act',
         'Scene 6 — Endpoint: the private record is ready to become public',
-        '## 18. Early complication',
-        '## 19. Midpoint reversal',
-        '## 20. Julie’s consequential decision',
-        '## 21. Visible cost of Julie’s decision',
-        '## 22. Character functions',
-        '## 23. Medical and mobility constraints',
+        '## 18. Early complication', '## 19. Midpoint reversal',
+        '## 20. Julie’s consequential decision', '## 21. Visible cost of Julie’s decision',
+        '## 22. Character functions', '## 23. Medical and mobility constraints',
         '## 24. Antagonist and institutional pressure',
-        '## 25. Evidence available at the opening',
-        '## 26. Evidence still required',
-        '## 27. Source-original and derivative rules',
-        '## 28. Custody and seal rules',
-        '## 29. Technology and authentication rules',
-        '## 30. Attribution and proof ceilings',
-        '## 31. Knowledge-firewall rules',
-        '## 32. Public-versus-private record state',
+        '## 25. Evidence available at the opening', '## 26. Evidence still required',
+        '## 27. Source-original and derivative rules', '## 28. Custody and seal rules',
+        '## 29. Technology and authentication rules', '## 30. Attribution and proof ceilings',
+        '## 31. Knowledge-firewall rules', '## 32. Public-versus-private record state',
         '## 33. Facts Chapter 22 may establish',
         '## 34. Conclusions Chapter 22 must not establish',
-        '## 35. Book 1 ending-contract obligations advanced',
-        '## 36. Thread disposition',
-        '## 37. Intended endpoint',
-        '**13:12:44 EDT / 22:42:44 IST**',
+        '## 35. Book 1 ending-contract obligations advanced', '## 36. Thread disposition',
+        '## 37. Intended endpoint', '**13:12:44 EDT / 22:42:44 IST**',
         '## 38. Exact unresolved question carried forward',
         '## 39. Word-budget target, preferred range, and hard ceiling',
         'Chapter 22 target:** **5,000 words**',
         'Preferred range:** **4,600–5,400 words**',
         'Hard ceiling:** **5,800 words**',
-        '## 40. House-style requirements',
-        '## 41. Drafting instructions',
-        '## 42. Acceptance-gate requirements',
-        '## 43. Explicit production prohibitions',
+        '## 40. House-style requirements', '## 41. Drafting instructions',
+        '## 42. Acceptance-gate requirements', '## 43. Explicit production prohibitions',
         '## 44. Chapter 23 and remainder-outline prohibition',
         'same mechanism proves the same human actor',
         'At least one later chapter is therefore necessary.',
@@ -230,15 +214,14 @@ def validate_chapter22_mission_lock() -> None:
     require(text.count('Scene-ending turn') >= 5 and 'Scene-ending turn / midpoint reversal' in text,
             'causal scene-ending turns incomplete')
 
-    prohibited_claims = [
+    conclusions_section = text.split('## 34. Conclusions Chapter 22 must not establish', 1)[1]
+    for claim in [
         'Vance personally performed the original 02:14 deployment.',
         'Sterling personally commanded the operation.',
         'Price is completely innocent',
         'Elias is fully exonerated',
-        'WSS plaintext was decrypted',
-    ]
-    conclusions_section = text.split('## 34. Conclusions Chapter 22 must not establish', 1)[1]
-    for claim in prohibited_claims:
+        'WSS plaintext.',
+    ]:
         require(claim in conclusions_section, f'proof-ceiling prohibition missing: {claim}')
 
     for artifact in ['TODO', 'TBD', 'ALTERNATE VERSION', 'SAMPLE PROSE', 'DRAFT CHAPTER 22']:
@@ -251,26 +234,27 @@ def validate_planning_state_synchronization() -> None:
             'recurring-character ledger changed for planned Chapter 22 events')
 
     synchronized = [
-        ROOT / 'PROJECT_STATE.yaml',
-        ROOT / 'README.md',
-        BOOK / 'manuscript/STATUS.md',
-        DRAFTS / 'README.md',
-        CONTROL / 'README.md',
-        CONTROL / '00-overview.md',
-        CONTROL / '02-current-project-state.md',
-        CONTROL / '15-open-plot-threads-and-payoff-matrix.md',
-        CONTROL / '16-chapter-by-chapter-status-record.md',
-        CONTROL / '20-control-pack-maintenance-rules.md',
-        CONTROL / '22-book-1-ending-contract.md',
-        CONTROL / '23-word-budget-and-act-iii-architecture.md',
+        ROOT / 'PROJECT_STATE.yaml', ROOT / 'README.md', BOOK / 'manuscript/STATUS.md',
+        DRAFTS / 'README.md', CONTROL / 'README.md', CONTROL / '00-overview.md',
+        CONTROL / '02-current-project-state.md', CONTROL / '15-open-plot-threads-and-payoff-matrix.md',
+        CONTROL / '16-chapter-by-chapter-status-record.md', CONTROL / '20-control-pack-maintenance-rules.md',
+        CONTROL / '22-book-1-ending-contract.md', CONTROL / '23-word-budget-and-act-iii-architecture.md',
         CONTROL / '24-thread-disposition-matrix.md',
     ]
     for path in synchronized:
+        require('Chapter 22' in path.read_text(encoding='utf-8'), f'Chapter 22 planning state missing in {path}')
+
+    primary_status = [
+        ROOT / 'PROJECT_STATE.yaml', ROOT / 'README.md', BOOK / 'manuscript/STATUS.md',
+        DRAFTS / 'README.md', CONTROL / 'README.md', CONTROL / '00-overview.md',
+        CONTROL / '02-current-project-state.md', CONTROL / '16-chapter-by-chapter-status-record.md',
+        CONTROL / '20-control-pack-maintenance-rules.md', CONTROL / '23-word-budget-and-act-iii-architecture.md',
+        CONTROL / '24-thread-disposition-matrix.md',
+    ]
+    for path in primary_status:
         text = path.read_text(encoding='utf-8')
-        require('Chapter 22' in text, f'Chapter 22 planning state missing in {path}')
         require('112,091' in text or '112091' in text, f'accepted total missing in {path}')
-        require('44-chapter-22-mission-lock.md' in text or path == CONTROL / '22-book-1-ending-contract.md',
-                f'Chapter 22 mission-lock path missing in {path}')
+        require('44-chapter-22-mission-lock.md' in text, f'Chapter 22 mission-lock path missing in {path}')
 
     project = (ROOT / 'PROJECT_STATE.yaml').read_text(encoding='utf-8')
     for sentinel in [
@@ -290,10 +274,10 @@ def validate_planning_state_synchronization() -> None:
 
 
 def validate_absence_and_hygiene() -> None:
-    ch22_artifacts = [
+    ch22_artifacts = sorted(
         path for path in BOOK.rglob('*') if path.is_file()
         and any(token in path.name.lower() for token in ('chapter-22', 'chapter_22', 'chapter22'))
-    ]
+    )
     require(ch22_artifacts == [MISSION22], f'unexpected Chapter 22 artifact: {ch22_artifacts}')
 
     ch23_artifacts = [
@@ -381,11 +365,8 @@ def validate_changed_file_scope() -> None:
         changed_paths.add(fields[-1])
 
     allowed = {
-        '.github/workflows/book1-manuscript-validation.yml',
-        'PROJECT_STATE.yaml',
-        'README.md',
-        'books/book-01/control/README.md',
-        'books/book-01/control/00-overview.md',
+        '.github/workflows/book1-manuscript-validation.yml', 'PROJECT_STATE.yaml', 'README.md',
+        'books/book-01/control/README.md', 'books/book-01/control/00-overview.md',
         'books/book-01/control/02-current-project-state.md',
         'books/book-01/control/15-open-plot-threads-and-payoff-matrix.md',
         'books/book-01/control/16-chapter-by-chapter-status-record.md',
@@ -394,10 +375,8 @@ def validate_changed_file_scope() -> None:
         'books/book-01/control/23-word-budget-and-act-iii-architecture.md',
         'books/book-01/control/24-thread-disposition-matrix.md',
         'books/book-01/control/44-chapter-22-mission-lock.md',
-        'books/book-01/drafts/README.md',
-        'books/book-01/manuscript/STATUS.md',
-        'tools/validate_book1_chapter21.py',
-        'tools/validate_book1_chapter22.py',
+        'books/book-01/drafts/README.md', 'books/book-01/manuscript/STATUS.md',
+        'tools/validate_book1_chapter21.py', 'tools/validate_book1_chapter22.py',
     }
     unexpected = sorted(changed_paths - allowed)
     require(not unexpected, f'changed file outside Chapter 22 mission-lock scope: {unexpected}')
@@ -405,9 +384,7 @@ def validate_changed_file_scope() -> None:
             'Chapter 22 mission lock missing from diff')
     require('tools/validate_book1_chapter22.py' in changed_paths, 'Chapter 22 validator missing from diff')
     require('tools/validate_book1_chapter21.py' in changed_paths, 'superseded Chapter 21 validator deletion missing')
-
-    protected_prefixes = ('books/book-01/manuscript/chapters/',)
-    require(not any(path.startswith(protected_prefixes) for path in changed_paths),
+    require(not any(path.startswith('books/book-01/manuscript/chapters/') for path in changed_paths),
             'accepted manuscript prose changed')
     require('books/book-01/ACCEPTED_MANUSCRIPT.yaml' not in changed_paths, 'accepted manifest changed in diff')
     require('series/recurring-character-ledger.md' not in changed_paths,
