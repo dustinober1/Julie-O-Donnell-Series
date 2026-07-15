@@ -1,5 +1,5 @@
 project: Julie O'Donnell Series
-schema_version: 6
+schema_version: 7
 last_updated: '2026-07-14'
 
 status_authority:
@@ -60,9 +60,20 @@ active_book:
   drafts:
     active_chapter_drafts: []
   future_prose:
-    chapter_21_and_later: not drafted and not individually mission locked
-    chapter_21_rule: No Chapter 21 prose or mission lock exists.
-    architecture_rule: Do not create a complete chapter-by-chapter outline for the remainder of Act III.
+    chapter_21:
+      status: mission locked, undrafted, non-canon
+      working_title: The Borrowed Name
+      mission_lock: books/book-01/control/42-chapter-21-mission-lock.md
+      mission_lock_blob_sha: 6c92a5764e5c74d88a8325511ae2b0a86b30b356
+      opening: 11:26:32 EDT / 20:56:32 IST at secure MPD evidence intake
+      intended_endpoint: 12:18:04 EDT / 21:48:04 IST at secure MPD evidence intake
+      dominant_function: Authenticate the initiating continuity request and determine whether Leland Price created it or whether his suspended identity was borrowed.
+      planning_target_words: 4650
+      preferred_range_words: 4300-5100
+      hard_ceiling_words: 5400
+      accepted_manuscript_effect: none
+    chapter_22_and_later: undrafted and individually mission unlocked
+    architecture_rule: No complete chapter-by-chapter outline for the remainder of Act III exists or is authorized.
 
 planning_controls:
   ending_contract: books/book-01/control/22-book-1-ending-contract.md
@@ -71,6 +82,7 @@ planning_controls:
   chapter_acceptance_gate: books/book-01/control/25-chapter-acceptance-gate.md
   chapter_20_mission_lock: books/book-01/control/40-chapter-20-mission-lock.md
   chapter_20_acceptance_review: books/book-01/control/41-chapter-20-acceptance-review.md
+  chapter_21_mission_lock: books/book-01/control/42-chapter-21-mission-lock.md
   series_character_ledger: series/recurring-character-ledger.md
 
 narrative_house_style:
@@ -85,11 +97,13 @@ production_rules:
   - Accepted manuscript prose outranks every summary, plan, tracker, draft, and external snapshot.
   - No unaccepted chapter may live under books/book-01/manuscript/.
   - Promotion requires an explicit formal acceptance verdict and synchronized prose, manifest, state, ledger, and validation changes.
-  - Protected Chapters 13-19 and the Chapter 20 mission lock remain unchanged.
-  - Registered authority, physical possession, carrier custody, authorization, knowledge, intent, and command remain separate proof categories.
+  - Protected accepted Chapters 13-20, the Chapter 20 mission lock, the Chapter 20 acceptance review, and the accepted manifest remain unchanged.
+  - Chapter 21 mission lock blob 6c92a5764e5c74d88a8325511ae2b0a86b30b356 is the approved non-canon planning control.
+  - Registered authority, physical possession, carrier custody, authorization, knowledge, intent, request identity, physical act, and command remain separate proof categories.
   - A certified derivative never replaces its independently controlled original.
   - A no-use hold preserves state and custody; it does not authenticate prior operation.
-  - No Chapter 21 prose or mission lock exists.
+  - Chapter 21 prose does not exist and is not accepted canon.
+  - Chapter 22 and later prose and mission locks do not exist.
   - No complete chapter-by-chapter remainder-of-Act-III outline exists or is authorized.
   - No draft or revision may imitate or closely emulate the recognizable prose of a living author.
 
@@ -99,4 +113,4 @@ archive:
   uploaded_word_snapshot_active: false
   superseded_status_snapshots: Preserved in Git history; not duplicated as active files.
 
-next_recommended_action: Conduct a separate Chapter 21 mission-lock session from the accepted Chapter 20 endpoint; do not draft Chapter 21 until that lock is approved.
+next_recommended_action: Draft the first non-canon Chapter 21 version from books/book-01/control/42-chapter-21-mission-lock.md only; do not create an acceptance review, Chapter 22 artifact, or complete remainder outline in that session.
