@@ -40,12 +40,12 @@ The chapter uses **4,415 words** to authenticate Price's limited original reques
 - **Mission-lock blob:** `9bd255ac7b09a1490dc70be4506ba29183756788`
 - **Draft:** `../drafts/chapter-22.md`
 - **Draft blob:** `034ab496794594427d8409d03e7c6659d41b6a91`
-- **Actual draft words:** **4,641**
+- **Actual draft words:** **4,716**
 - **Target:** **5,000 words**
 - **Preferred range:** **4,600–5,400 words**
 - **Hard ceiling:** **5,800 words**
-- **Projected accepted total if promoted unchanged:** **116,732 words**
-- **Projected remaining before maximum if promoted unchanged:** **8,268 words**
+- **Projected accepted total if promoted unchanged:** **116,807 words**
+- **Projected remaining before maximum if promoted unchanged:** **8,193 words**
 - **Status:** inside preferred range; non-canon; no promotion authorized
 
 The draft uses the budget for one final major proof-acquisition movement:
