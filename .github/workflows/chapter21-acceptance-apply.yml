@@ -67,7 +67,9 @@ jobs:
         run: |
           set +e
           {
-            git checkout HEAD -- .github/workflows/chapter21-acceptance-apply.yml
+            git checkout HEAD -- \
+              .github/workflows/chapter21-acceptance-apply.yml \
+              .github/workflows/book1-manuscript-validation.yml
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add -A
