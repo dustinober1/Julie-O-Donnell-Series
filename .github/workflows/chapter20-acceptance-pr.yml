@@ -19,6 +19,7 @@ jobs:
         run: |
           rm -rf ./* ./.git
           git clone -q --branch agent/chapter-20-acceptance-review --single-branch "https://x-access-token:${GH_TOKEN}@github.com/dustinober1/Julie-O-Donnell-Series.git" .
+          git fetch -q origin main:refs/remotes/origin/main
 
       - name: Apply reviewed Chapter 20 state
         shell: bash
