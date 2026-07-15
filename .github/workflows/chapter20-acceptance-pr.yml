@@ -24,6 +24,10 @@ jobs:
       - name: Apply reviewed Chapter 20 state
         shell: bash
         run: |
+          if [ -f books/book-01/manuscript/chapters/chapter-20.md ]; then
+            echo "Chapter 20 accepted state already applied."
+            exit 0
+          fi
           set +e
           python - <<'PY' > chapter20-application.log 2>&1
           from pathlib import Path
@@ -40,8 +44,17 @@ jobs:
           if [ "$status" -ne 0 ]; then
             exit "$status"
           fi
+
+          cp .github/workflows/book1-manuscript-validation.yml chapter20-validator-final.yml
+          git checkout HEAD -- .github/workflows/book1-manuscript-validation.yml
+          git checkout HEAD -- .github/workflows/chapter20-acceptance-apply.yml
+          git checkout HEAD -- .github/workflows/chapter20-acceptance-pr.yml
           rm -rf .chapter20-acceptance-py .chapter20-acceptance
-          rm -f .github/workflows/chapter20-acceptance-pr.yml
+          git diff --quiet -- .github/workflows || {
+            echo "Unexpected workflow diff remains before content push."
+            git diff -- .github/workflows
+            exit 1
+          }
 
       - name: Commit synchronized acceptance state
         shell: bash
@@ -51,10 +64,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
+          if git diff --cached --quiet; then
+            echo "No content changes to commit."
+            exit 0
+          fi
           git commit -q -m "Accept and synchronize Chapter 20 [chapter20-acceptance-applied]"
-          set +e
-          git push origin HEAD:agent/chapter-20-acceptance-review > chapter20-push.log 2>&1
-          status=$?
-          cat chapter20-push.log
-          rm -f chapter20-push.log
-          exit "$status"
+          git push -q origin HEAD:agent/chapter-20-acceptance-review
