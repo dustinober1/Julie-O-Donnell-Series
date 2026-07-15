@@ -1,5 +1,25 @@
 # 0. BOOK 1 CONTROL PACK OVERVIEW
 
+<!-- CH22_PLANNING_STATE_START -->
+## Chapter 22 approved planning state
+
+This non-canon planning block controls any lower historical future-production summary in this file. It does not alter the accepted manuscript.
+
+- **Accepted baseline remains:** Prologue and Chapters 1–21, **112,091 words**
+- **Accepted endpoint remains:** **12:18:04 EDT / 21:48:04 IST**, secure MPD evidence intake
+- **Working title:** **The Release Record**
+- **Mission lock:** `44-chapter-22-mission-lock.md`
+- **Mission-lock blob:** `9bd255ac7b09a1490dc70be4506ba29183756788`
+- **Planning status:** mission locked, undrafted, non-canon
+- **Planned opening:** **12:18:04 EDT / 21:48:04 IST**, secure MPD evidence intake
+- **Intended endpoint:** **13:12:44 EDT / 22:42:44 IST**, secure MPD evidence intake
+- **Dominant function:** relate the Price borrowed identity, Elias framed identity, failed K-17 local commit, and successful remote reconstruction at mechanism and authority-binding levels; establish a separately corroborated later release act and meaningful Vance consequence without proving the original deployment hand or Sterling personal command
+- **POV:** Julie primary; one bounded Sarah Chen cutaway
+- **Word plan:** target **5,000**; preferred **4,600–5,400**; hard ceiling **5,800**
+- **Accepted effect:** none; no Chapter 22 prose exists
+- **Later state:** at least one later chapter remains necessary, but no Chapter 23 mission lock or complete remainder outline exists
+<!-- CH22_PLANNING_STATE_END -->
+
 <!-- CH21_ACCEPTED_STATE_START -->
 ## Chapter 21 accepted state
 
@@ -14,7 +34,7 @@ This Chapter 21 accepted-state block controls any lower historical “current”
 - **Custody state:** `SSO-NS-004`, all seven MPD packages, and every source original remain untouched and separately controlled
 - **Proof ceiling:** Sterling personal command, Price complete innocence, alternative deployment actor, remote-reconstruction author, and one actor behind every identity path remain unproved
 - **Public state:** Sterling's hostile account remains dominant
-- **Future state:** no Chapter 22 prose, Chapter 22 mission lock, or complete remainder outline exists
+- **Future state:** no Chapter 22 prose or complete remainder outline exists
 <!-- CH21_ACCEPTED_STATE_END -->
 
 <!-- CH20_ACCEPTED_STATE_START -->
@@ -33,19 +53,22 @@ This Chapter 20 accepted-state block controls any lower historical “current”
 - **Public state:** Sterling’s hostile account remains dominant
 - **Future state:** no Chapter 21 prose, mission lock, or complete remainder outline exists
 <!-- CH20_ACCEPTED_STATE_END -->
-**Control-pack version:** 4.5
 
-## Current accepted state
+**Control-pack version:** 5.1
 
-- **Accepted prose:** Prologue and Chapters 1–19
+## Historical accepted state snapshot
+
+The blocks above supersede this preserved historical snapshot where a lower entry uses “current.”
+
+- **Accepted prose at that snapshot:** Prologue and Chapters 1–19
 - **Accepted length:** **103,369 words**
 - **Accepted Act III:** Chapters 13–19
 - **Accepted endpoint:** **10:44:12 EDT / 20:14:12 IST**, secure MPD evidence intake
 - **Active chapter draft:** none
 - **Chapter 20 mission lock:** `40-chapter-20-mission-lock.md`
-- **Chapter 20 planning state:** mission locked, undrafted, non-canon
-- **Chapter 20 prose:** not created
-- **Chapter 21 prose or mission lock:** not created
+- **Chapter 20 planning state at that snapshot:** mission locked, undrafted, non-canon
+- **Chapter 20 prose at that snapshot:** not created
+- **Chapter 21 prose or mission lock at that snapshot:** not created
 - **Complete remainder-of-Act-III outline:** not created
 - **Book status:** not publication-ready
 
@@ -64,12 +87,12 @@ This Chapter 20 accepted-state block controls any lower historical “current”
 - **Custody:** MPD retains all seven packages; Hartwell retains `HWA-LCA-1187`; Indian originals remain at Forward Post Arjun
 - **Public state:** Sterling’s account remains dominant and uncorrected
 
-## Chapter 20 approved planning state
+## Historical Chapter 20 approved planning state
 
 - **Working title:** The Custody Exception
 - **Mission lock:** `40-chapter-20-mission-lock.md`
 - **Mission-lock blob:** `c074e4f6f9ec9cddcbc701e2923f34b3082ede5a`
-- **Canon effect:** none
+- **Canon effect:** none at that planning gate
 - **Dominant function:** place `SSO-NS-004` under a named no-use physical hold and establish the office authorization exception that moved it through WSS-4 and Hartwell without converting office registration, carrier custody, or institutional responsibility into proof of Sterling’s personal command
 - **Opening:** **10:44:12 EDT / 20:14:12 IST**, secure MPD evidence intake
 - **Intended endpoint:** **11:26:32 EDT / 20:56:32 IST**, secure MPD evidence intake
@@ -92,10 +115,11 @@ This Chapter 20 accepted-state block controls any lower historical “current”
 - Registered authority is not physical possession.
 - Physical possession is not authorization.
 - Authorization is not knowledge or command.
+- Request identity, construction mechanism, release act, and human operator remain separate proof categories.
 - A preservation record is not a verdict.
 - Federal receiving responsibility is distinct from MPD physical custody.
 - Hartwell’s original, Hartwell’s certified derivative, the WSS original and any derivative, office originals and derivatives, the Indian originals, the bounded external acknowledgment, the signer, and the MPD packages remain distinct records or objects.
 
 ## Current production gate
 
-Draft and integrate the first non-canon version of Chapter 20 only from `40-chapter-20-mission-lock.md`. Do not alter accepted prose or the accepted manifest, draft Chapter 21, create a Chapter 21 mission lock, or create a complete chapter-by-chapter outline for the remainder of Act III.
+Draft only the first non-canon version of Chapter 22 from `44-chapter-22-mission-lock.md` in a fresh, separately authorized session after verifying the merged repository state. Do not alter accepted prose or the accepted manifest, draft or plan Chapter 23, or create a complete chapter-by-chapter remainder-of-Act-III outline.
