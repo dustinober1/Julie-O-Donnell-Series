@@ -5,6 +5,7 @@
 **Approved production planning.** Accepted prose controls actual story state; future chapter functions require individual mission locks.
 
 - **Accepted endpoint:** **12:18:04 EDT / 21:48:04 IST**, secure MPD evidence intake
+- **Chapter 22 draft:** first draft complete, non-canon, formal acceptance review pending
 
 ## Current word budget
 
@@ -32,20 +33,22 @@ The count method is `len(Path(path).read_text(encoding='utf-8').split())`, imple
 
 The chapter uses **4,415 words** to authenticate Price's limited original request, reverse the apparent authorship implied by his name, establish a constructed identity path without naming the constructor, preserve complete source records, and transform the objective toward the relationship among Price's borrowed identity, Elias's framed deployment identity, and the successful remote reconstruction. It is inside the preferred 4,300–5,100-word range and below the 5,400-word hard ceiling.
 
-## Chapter 22 approved planning budget
+## Chapter 22 non-canon draft budget
 
-- **Working title:** **The Release Record**
+- **Title:** **The Release Record**
 - **Mission lock:** `44-chapter-22-mission-lock.md`
 - **Mission-lock blob:** `9bd255ac7b09a1490dc70be4506ba29183756788`
+- **Draft:** `../drafts/chapter-22.md`
+- **Draft blob:** `034ab496794594427d8409d03e7c6659d41b6a91`
+- **Actual draft words:** **4,716**
 - **Target:** **5,000 words**
 - **Preferred range:** **4,600–5,400 words**
 - **Hard ceiling:** **5,800 words**
-- **Projected accepted total at target:** **117,091 words**
-- **Projected remaining before maximum at target:** **7,909 words**
-- **Projected accepted total at hard ceiling:** **117,891 words**
-- **Projected remaining before maximum at hard ceiling:** **7,109 words**
+- **Projected accepted total if promoted unchanged:** **116,807 words**
+- **Projected remaining before maximum if promoted unchanged:** **8,193 words**
+- **Status:** inside preferred range; non-canon; no promotion authorized
 
-The budget supports one final major proof-acquisition movement:
+The draft uses the budget for one final major proof-acquisition movement:
 
 - Julie primary institutional line;
 - one bounded Sarah Chen cutaway;
@@ -57,9 +60,9 @@ The budget supports one final major proof-acquisition movement:
 - Vance removal from operational control;
 - endpoint with an authenticated counterrecord ready for later public fracture.
 
-Chapter 22 is not planned as the final chapter. The hard ceiling leaves sufficient room for at least one later chapter to complete authenticated public fracture, bounded legal/medical/relationship stabilization, and Julie's future choice. This file does not decide the number, title, POV, scene plan, word count, or endpoint of any later chapter.
+Chapter 22 is not the final chapter. The draft leaves sufficient room for at least one later chapter to complete authenticated public fracture, bounded legal/medical/relationship stabilization, and Julie's future choice. This file does not decide the number, title, POV, scene plan, word count, or endpoint of any later chapter.
 
-## Remaining high-level obligations after the planned Chapter 22 endpoint
+## Remaining high-level obligations after the Chapter 22 draft endpoint
 
 - authenticated visible contradiction of Sterling's public account;
 - bounded office-level or Sterling consequence without false personal-command proof;
@@ -68,8 +71,8 @@ Chapter 22 is not planned as the final chapter. The hard ceiling leaves sufficie
 - Julie's deliberate future-role choice;
 - bounded series-facing ending and deliberate carryovers.
 
-No complete chapter-by-chapter remainder outline is created here. Chapter 22 prose does not exist. Chapter 23 prose and mission lock do not exist.
+No complete chapter-by-chapter remainder outline is created here. Chapter 22 manuscript prose and acceptance review do not exist. Chapter 23 prose and mission lock do not exist.
 
 ## Current gate
 
-A fresh, separately authorized session may draft only the first non-canon version of Chapter 22 from `44-chapter-22-mission-lock.md` after verifying the merged repository state. Do not draft or plan Chapter 23 and do not create a complete remainder outline.
+A fresh, separately authorized session may perform only the formal Chapter 22 acceptance review against `../drafts/chapter-22.md` and `44-chapter-22-mission-lock.md`. Do not draft or plan Chapter 23, create a complete remainder outline, or promote Chapter 22 without an explicit acceptance verdict.
