@@ -34,7 +34,15 @@ jobs:
             | gzip --decompress \
             > /tmp/chapter21_acceptance_apply.py
           python -m py_compile /tmp/chapter21_acceptance_apply.py
-          python /tmp/chapter21_acceptance_apply.py
+          python /tmp/chapter21_acceptance_apply.py > /tmp/chapter21_acceptance_apply.log 2>&1
+      - name: Upload apply diagnostic
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: chapter21-acceptance-apply-diagnostic
+          path: /tmp/chapter21_acceptance_apply.log
+          if-no-files-found: error
+          retention-days: 1
       - name: Commit accepted Chapter 21 state
         shell: bash
         run: |
