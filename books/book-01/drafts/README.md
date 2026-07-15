@@ -8,7 +8,7 @@ Exactly one active Book 1 chapter draft exists.
 - Canonical draft path: `books/book-01/drafts/chapter-22.md`
 - Path: [`chapter-22.md`](chapter-22.md)
 - Exact blob: `034ab496794594427d8409d03e7c6659d41b6a91`
-- Exact words: **4,641**
+- Exact words: **4,716**
 - Opening: **12:18:04 EDT / 21:48:04 IST**, secure MPD evidence intake
 - Endpoint: **13:12:44 EDT / 22:42:44 IST**, secure MPD evidence intake
 - POV: Julie primary with exactly one bounded Sarah Chen cutaway
