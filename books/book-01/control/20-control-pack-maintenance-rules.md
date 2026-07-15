@@ -49,22 +49,26 @@
 - Chapter 21 mission lock remains `6c92a5764e5c74d88a8325511ae2b0a86b30b356`.
 - Chapter 21 acceptance review is `43-chapter-21-acceptance-review.md` with explicit **ACCEPT**.
 
-## Chapter 22 planning maintenance record
+## Chapter 22 non-canon draft maintenance record
 
 - Chapter 22 mission lock exists only at `44-chapter-22-mission-lock.md`.
 - Exact mission-lock blob: `9bd255ac7b09a1490dc70be4506ba29183756788`.
-- Working title: **The Release Record**.
-- Planning opening: **12:18:04 EDT / 21:48:04 IST**.
-- Intended endpoint: **13:12:44 EDT / 22:42:44 IST**.
-- Word target: **5,000**; preferred **4,600–5,400**; hard ceiling **5,800**.
-- Planning status: mission locked, undrafted, non-canon.
+- Title: **The Release Record**.
+- Exactly one draft exists at `../drafts/chapter-22.md`.
+- Exact draft blob: `034ab496794594427d8409d03e7c6659d41b6a91`.
+- Exact draft word count: **4,641**.
+- Opening: **12:18:04 EDT / 21:48:04 IST**.
+- Endpoint: **13:12:44 EDT / 22:42:44 IST**.
+- POV: Julie primary with exactly one bounded Sarah Chen cutaway.
+- Structure: exactly six causal scenes.
+- Draft status: first draft complete, non-canon, formal acceptance review pending.
 - Accepted manuscript, manifest, total, endpoint, character state, and recurring-character ledger remain unchanged.
-- Chapter 22 prose and draft do not exist.
+- Chapter 22 manuscript prose and acceptance review do not exist.
 - Chapter 23 prose and mission lock do not exist.
 - No complete chapter-by-chapter remainder outline exists.
 
-Permanent validation protects exact accepted Chapters 13–21 blobs/counts, exact total and endpoint, exact accepted-manifest blob, Chapter 20 and Chapter 21 mission locks/reviews, exactly one Chapter 22 mission lock at the exact protected blob, no Chapter 22 prose or draft, no Chapter 23 prose or mission lock, no complete remainder outline, the complete historical forbidden-temporary-path list, synchronized non-canon planning state, and full base-to-head `git diff --check`.
+Permanent validation protects exact accepted Chapters 13–21 blobs/counts, exact total and endpoint, exact accepted-manifest blob, Chapter 20 and Chapter 21 mission locks/reviews, the exact Chapter 22 mission lock, exactly one Chapter 22 draft at the exact blob and count, no Chapter 22 manuscript prose or acceptance review, no Chapter 23 prose or mission lock, no complete remainder outline, the complete historical forbidden-temporary-path list, unchanged recurring-character ledger, synchronized non-canon draft state, and full base-to-head `git diff --check`.
 
 ## Current maintenance gate
 
-In a fresh, separately authorized session, draft only the first non-canon version of Chapter 22 from `44-chapter-22-mission-lock.md` after verifying the merged repository state. Do not draft or plan Chapter 23 and do not create a complete remainder outline.
+In a fresh, separately authorized session, perform only the formal Chapter 22 acceptance review against `../drafts/chapter-22.md` and `44-chapter-22-mission-lock.md`. Do not draft or plan Chapter 23, create a complete remainder outline, or promote Chapter 22 without an explicit acceptance verdict.
