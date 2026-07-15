@@ -1,5 +1,14 @@
 # 12. LOCATION AND SECURITY ARCHITECTURE
 
+<!-- CH20_ACCEPTED_STATE_START -->
+## Accepted Chapter 20 location/security delta
+
+- **Primary location:** secure MPD evidence intake, observation alcove, locked common chest, incident-control display.
+- **Sole cutaway:** Legislative Secure Services compromise-control intake with fixed cameras, wall clock, transfer surface, glass control partition, and locker C-7.
+- **Signer location at endpoint:** LSS compromise-control storage under two-person access and seal `LSS-SL-90418`.
+- No broader Senate-office, Hartwell, WSS, Apex, or field geography is opened.
+- Endpoint remains secure MPD evidence intake at 11:26:32 EDT / 20:56:32 IST.
+<!-- CH20_ACCEPTED_STATE_END -->
 <!-- CH19_ACCEPTED_STATE_START -->
 ## Chapter 19 accepted location/security delta
 

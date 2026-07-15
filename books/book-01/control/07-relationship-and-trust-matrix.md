@@ -1,5 +1,15 @@
 # 7. RELATIONSHIP AND TRUST MATRIX
 
+<!-- CH20_ACCEPTED_STATE_START -->
+## Accepted Chapter 20 relationship delta
+
+- **Julie ↔ Grant:** bounded professional trust strengthens through an independent correction and a shared insistence on the first-line proof ceiling.
+- **Julie ↔ Alvarez:** trust becomes operational and accountable; Alvarez makes the final custody choice under her own authority.
+- **Julie ↔ Hackett:** productive institutional tension; he accepts correction without becoming passive or villainous.
+- **Julie ↔ Drennan/Kessler:** evidence relationship only; Julie refuses to convert proximity, employment, or assignment into command.
+- **Grant ↔ LSS/Vega/Vann:** cooperative but source-limited institutional relationship.
+- No reunion, forgiveness, alliance, or cross-book relationship status is created for Marcus, Elias, Chen, Mercer, Bell, Vann, Vega, Drennan, or Kessler.
+<!-- CH20_ACCEPTED_STATE_END -->
 <!-- CH19_ACCEPTED_STATE_START -->
 ## Chapter 19 accepted relationship delta
 

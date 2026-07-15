@@ -1,5 +1,15 @@
 # 9. KNOWLEDGE AND INFORMATION CONTROL MATRIX
 
+<!-- CH20_ACCEPTED_STATE_START -->
+## Accepted Chapter 20 knowledge delta
+
+- Julie, Grant, Alvarez, Hackett, Ortiz, and Park know the bounded LSS hold and office/WSS/Hartwell reconciliation within role limits.
+- Drennan knows his own custody interval and transfer facts; the record does not establish operational knowledge.
+- Kessler is identified as office continuity authority; her instruction source and full knowledge remain unknown.
+- Bell/WSS knows its local sponsor/session record and the produced derivative; Bell is not shown to know the larger operation.
+- The public learns none of the lawful contradiction.
+- No actor gains WSS plaintext, Sterling personal command, Tariq physical operation, Vance keystrokes, alternate deployment actor, or remote-reconstruction authorship.
+<!-- CH20_ACCEPTED_STATE_END -->
 <!-- CH19_ACCEPTED_STATE_START -->
 ## Chapter 19 accepted knowledge delta
 

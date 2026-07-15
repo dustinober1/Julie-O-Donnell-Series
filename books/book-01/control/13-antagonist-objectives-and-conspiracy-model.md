@@ -1,5 +1,13 @@
 # 13. ANTAGONIST OBJECTIVES AND CONSPIRACY MODEL
 
+<!-- CH20_ACCEPTED_STATE_START -->
+## Accepted Chapter 20 antagonist-pressure delta
+
+- Sterling’s public account remains dominant and omits the LSS hold, Drennan, Kessler, and the instruction-source gap.
+- Office-level responsibility strengthens through the continuity exception, but Sterling’s personal possession, knowledge, operation, and command remain unproved.
+- Vance/Apex, Tariq, Northbridge, Bell, Chen, and Mercer receive no new personal-act expansion.
+- The antagonist pressure shifts from a moving device to the initiating instruction and the institutions capable of preserving or withholding it.
+<!-- CH20_ACCEPTED_STATE_END -->
 <!-- CH19_ACCEPTED_STATE_START -->
 ## Chapter 19 accepted antagonist-pressure delta
 

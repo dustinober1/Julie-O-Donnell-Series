@@ -1,3 +1,24 @@
+# Chapter 20 Acceptance Review — The Custody Exception
+
+# ACCEPT
+
+## Review identity
+
+- **Reviewed starting draft:** `books/book-01/drafts/chapter-20.md`
+- **Starting draft blob:** `d983f952caca56c41b9f7d1ef976a9ae1b281a78`
+- **Exact starting word count:** **4,171**
+- **Mission lock:** `books/book-01/control/40-chapter-20-mission-lock.md`
+- **Mission-lock blob:** `c074e4f6f9ec9cddcbc701e2923f34b3082ede5a`
+- **Reviewed/promoted prose:** `books/book-01/manuscript/chapters/chapter-20.md`
+- **Reviewed/promoted prose blob:** `0bd12f43beeef48d5e897ee1fa78a333bd23099b`
+- **Exact final word count:** **4,307**
+- **New accepted-manuscript total:** **107,676**
+
+## Acceptance-gate analysis
+
+### Dramatic mission and architecture
+
+The chapter completes the locked mission. It begins with Legislative Secure Services refusing immediate federal transfer, converts that refusal into a named no-use physical hold, establishes the office continuity exception, separates carrier from authorizer, reconciles source-limited derivatives without merging originals, and ends with the transformed question of who instructed the exception. Julie remains the dominant viewpoint. The single Grant cutaway supplies pressure and physical custody facts Julie cannot observe; it does not become a second competing chapter.
 ### Opening and endpoint continuity
 
 The opening continues directly from Chapter 19 at **10:44:12 EDT / 20:14:12 IST** in secure MPD evidence intake. The accepted endpoint is **11:26:32 EDT / 20:56:32 IST**, also in secure MPD evidence intake. No elapsed-time, location, or POV contradiction was found.
@@ -51,11 +72,6 @@ The repairs are bounded line- and paragraph-level changes. They do not redesign 
 
 ## Promotion authorization
 
-The final reviewed prose is authorized for promotion to `books/book-01/manuscript/chapters/chapter-20.md`. The draft copy must be removed, the accepted manifest and all affected controls must be synchronized to **{accepted_total:,} words** and the Chapter 20 endpoint, and permanent validation must protect the exact final blob and word count.
+The final reviewed prose is authorized for promotion to `books/book-01/manuscript/chapters/chapter-20.md`. The draft copy must be removed, the accepted manifest and all affected controls must be synchronized to **107,676 words** and the Chapter 20 endpoint, and permanent validation must protect the exact final blob and word count.
 
 No Chapter 21 prose, Chapter 21 mission lock, or complete chapter-by-chapter remainder-of-Act-III outline was created during this pass.
-'''
-write(CONTROL / '41-chapter-20-acceptance-review.md', review)
-
-manifest = (BOOK / 'ACCEPTED_MANUSCRIPT.yaml').read_text(encoding='utf-8')
-manifest = replace_once(manifest, 'accepted_words: 103369', f'accepted_words: {accepted_total}', 'manifest total')

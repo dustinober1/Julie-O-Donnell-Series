@@ -340,6 +340,16 @@ Hackett’s jaw moved once. “You are protecting the distinction very aggressiv
 
 “I am protecting the part that survives counsel.”
 
+Hackett said, “Then seize it now. We have the carrier.”
+
+Grant answered before Julie could. “Legislative Secure Services can preserve or transfer. A transfer before the office production is complete changes custody while leaving the exception record behind.”
+
+Alvarez looked toward Julie’s window. “What does immediate possession add?”
+
+“An easier defendant,” Julie said. “Drennan carried a closed case under an assignment Kessler authorized. Take the signer now and every institution can point at him while the instruction behind the exception disappears into a custody fight.”
+
+Alvarez made the authority choice herself. “The LSS no-use hold remains. No transfer to DCIS or MPD. Produce the office and WSS records first.”
+
 Grant said, “The physical carrier was Samuel Drennan. His assignment began at 06:54 and remained active through WSS-4 and Hartwell. He surrendered the closed pouch when the preservation demand triggered LSS compromise control.”
 
 “Did he present at WSS?” Alvarez asked.
@@ -358,7 +368,7 @@ She offered one certified derivative from the WSS local audit and sponsor record
 
 `WSS4-CD-187463-01`
 
-The derivative identified the WSS original source, Bell’s sponsor event, local controller clock basis, session identifier `NB-WSS4-0708-2217`, device serial `SSO-NS-004`, office continuity assignment credential presented at landlord and tenant control, carrier credential belonging to Samuel Drennan, full signer-state completion time, encrypted-block status, fields withheld, production authority, local seal reference, and proof ceiling.
+The derivative identified the WSS original source, Bell’s sponsor event, the false service identities recorded at landlord and tenant control, local controller clock basis, session identifier `NB-WSS4-0708-2217`, device serial `SSO-NS-004`, full signer-state completion time, encrypted-block status, fields withheld, production authority, local seal reference, and proof ceiling. It did not identify Samuel Drennan as the WSS carrier.
 
 It did not produce the encrypted message blocks.
 
@@ -390,15 +400,13 @@ The Arjun acknowledgment remained on IST and supplied no new Washington event ti
 
 Only after every source retained its own clock basis did Alvarez allow the event order onto one comparison page.
 
-The records overlapped on four fields.
+The records aligned without sharing identical fields.
 
-`SSO-NS-004`.
+WSS fixed `SSO-NS-004` inside the 07:08 session under Bell’s sponsor record.
 
-Samuel Drennan’s carrier credential.
+Hartwell fixed the closed compact case inside the later 07:47:49 challenge-and-return path.
 
-The continuity-assignment interval beginning at 06:54.
-
-The office authorizing authority: Diane Kessler.
+The office and LSS records fixed Samuel Drennan’s assignment and Diane Kessler’s authorization across an interval that covered both events.
 
 WSS established the session-side use. Hartwell established the later challenge and return. LSS established present physical custody and the no-use hold. The office certificate established who had authorized the exception that placed the device in Drennan’s custody across the entire interval.
 
@@ -474,7 +482,7 @@ DCIS owned responsibility for the received incident and the new derivatives. It 
 
 At 11:18:22, Sterling’s statement ended.
 
-The television returned to a studio panel discussing the danger of insider access. None of the speakers knew that the office signer had been placed under a no-use hold. None knew the name Diane Kessler. None knew that Samuel Drennan’s credential appeared at both WSS-4 and Hartwell under one continuity interval.
+The television returned to a studio panel discussing the danger of insider access. None of the speakers knew that the office signer had been placed under a no-use hold. None knew the name Diane Kessler. None knew that Samuel Drennan’s assignment interval covered both WSS-4 and Hartwell.
 
 The public account had not weakened.
 
