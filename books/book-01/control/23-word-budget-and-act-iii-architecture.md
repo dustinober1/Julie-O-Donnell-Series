@@ -4,6 +4,8 @@
 
 **Approved production planning.** Accepted prose controls actual story state; future chapter functions require individual mission locks.
 
+- **Accepted endpoint:** **11:26:32 EDT / 20:56:32 IST**, secure MPD evidence intake
+
 ## Current word budget
 
 | Measure | Words |
