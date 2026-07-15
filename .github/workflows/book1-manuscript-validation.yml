@@ -26,10 +26,18 @@ jobs:
   validate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 1
-          show-progress: false
+      - name: Checkout validation target
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR_HEAD_REF: ${{ github.head_ref }}
+        run: |
+          rm -rf ./* ./.git
+          ref_name="$GITHUB_REF_NAME"
+          if [ "$GITHUB_EVENT_NAME" = "pull_request" ]; then
+            ref_name="$PR_HEAD_REF"
+          fi
+          git clone -q --depth 1 --branch "$ref_name" "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" .
 
       - name: Count accepted manuscript
         run: python tools/count_book1_words.py --expect 107676
