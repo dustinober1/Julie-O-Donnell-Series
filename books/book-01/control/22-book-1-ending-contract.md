@@ -162,4 +162,18 @@ The ending contract remains incomplete. Human authorization and responsibility, 
 
 Chapter 21 materially advances the independent-counterrecord, Leland Price, alternative-identity-path, and Julie leadership obligations. Price appears alive, represented, and under bounded administrative review; his authentic source-review request and complete statement survive separately from the later office request; the later request inherits his identity/reference after his authority ended and adds operational routing without a matching authenticated Price act. Julie preserves uncertainty and adverse material rather than manufacturing a defendant, innocence, or public leak.
 
-The ending contract remains incomplete. The request constructor and relationship among Price's borrowed identity, Elias's framed deployment identity, and the successful remote reconstruction remain open. WSS plaintext or lawful equivalent, alternative deployment actor, Vance/Sterling/Tariq personal responsibility and consequences, Chen/Mercer/Bell final choices, public narrative fracture, legal/medical/relationship aftermath, and Julie's final future choice remain required. Chapter 21 creates no Chapter 22 plan and no complete remainder outline.
+The ending contract remains incomplete. The request constructor and relationship among Price's borrowed identity, Elias's framed deployment identity, and the successful remote reconstruction remain open. WSS plaintext or lawful equivalent, alternative deployment actor, Vance/Sterling/Tariq personal responsibility and consequences, Chen/Mercer/Bell final choices, public narrative fracture, legal/medical/relationship aftermath, and Julie's final future choice remain required.
+
+## Chapter 22 approved planning contribution — 2026-07-15
+
+The non-canon Chapter 22 mission lock, `44-chapter-22-mission-lock.md`, plans the final major proof-acquisition movement rather than the final chapter. It is designed to:
+
+- establish the mechanism-level relationship among Price's borrowed request identity, Elias's framed deployment identity, the failed K-17 local commit, and the later successful remote reconstruction;
+- separate a reusable identity-construction mechanism from the human release act that made the later reconstruction operational;
+- permit a personal Vance finding only for a separately corroborated later release event;
+- preserve the original 02:14 deployment operator and Sterling personal-command boundaries;
+- force Chen and Mercer into consequential, character-consistent source-record choices;
+- remove Vance from operational control and place relevant Apex originals under an independent hold; and
+- create an authenticated counterrecord ready for later public fracture.
+
+The planned Chapter 22 endpoint does not satisfy the ending contract by itself. Sterling's public narrative remains dominant, Julie remains detained, Marcus and Elias remain medically separated, and public/legal/medical/relationship/future-role resolution remains open. At least one later chapter is necessary, but this control does not create a Chapter 23 mission lock or a complete remainder outline.

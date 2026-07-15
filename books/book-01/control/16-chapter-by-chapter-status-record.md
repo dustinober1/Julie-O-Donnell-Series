@@ -46,10 +46,23 @@ The accepted-manuscript inventory in `../ACCEPTED_MANUSCRIPT.yaml` controls acce
 - Result: constructed identity path established; constructor remains unproved.
 - No duplicate draft remains.
 
-## Chapter 22 and later
+## Chapter 22 — mission locked, undrafted, non-canon
 
-Chapter 22 prose and mission lock do not exist. Chapter 22 and later remain undrafted and individually mission unlocked. No complete chapter-by-chapter remainder-of-Act-III outline exists.
+- Working title: **The Release Record**.
+- Mission lock: `44-chapter-22-mission-lock.md`.
+- Exact mission-lock blob: `9bd255ac7b09a1490dc70be4506ba29183756788`.
+- Planned opening: **12:18:04 EDT / 21:48:04 IST**, secure MPD evidence intake.
+- Intended endpoint: **13:12:44 EDT / 22:42:44 IST**, secure MPD evidence intake.
+- Dominant function: relate Price's borrowed identity, Elias's framed identity, the failed K-17 local commit, and the later successful remote reconstruction at the mechanism and authority-binding levels; establish a separately corroborated later release act and meaningful Vance consequence without proving the original deployment hand or Sterling personal command.
+- POV: Julie primary with one bounded Sarah Chen cutaway.
+- Target: **5,000 words**; preferred **4,600–5,400**; hard ceiling **5,800**.
+- Chapter 22 prose: not created.
+- Accepted effect: none.
+
+## Chapter 23 and later
+
+At least one later chapter remains necessary under the Book 1 ending contract, but Chapter 23 and later remain undrafted and individually mission unlocked. No Chapter 23 mission lock, Chapter 23 prose, or complete chapter-by-chapter remainder-of-Act-III outline exists.
 
 ## Current gate
 
-A fresh, separately authorized session may create only the Chapter 22 mission lock. It may not draft Chapter 22 or create a complete remainder outline.
+A fresh, separately authorized session may draft only the first non-canon version of Chapter 22 from `44-chapter-22-mission-lock.md` after verifying the merged repository state. It may not draft or plan Chapter 23 or create a complete remainder outline.

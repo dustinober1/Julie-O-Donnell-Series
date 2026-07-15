@@ -1,5 +1,17 @@
 # 15. OPEN PLOT THREADS AND PAYOFF MATRIX
 
+<!-- CH22_PLANNING_STATE_START -->
+## Chapter 22 approved thread plan — non-canon
+
+**Planned dominant payoff:** establish the mechanism-level relationship among Price's borrowed request identity, Elias's framed deployment identity, the failed K-17 local commit, and the later successful remote reconstruction; separate construction from operational release; cross the personal Vance ceiling only for a separately corroborated later release act; remove Vance from operational control while preserving the original-deployment and Sterling-command limits.
+
+**Planned final choices:** Chen preserves the source-native release record rather than a consolidated Apex narrative; Mercer attests only to direct observation or contemporaneous command; Julie chooses a narrower durable Vance finding over a broader unsupported accusation.
+
+**Still deliberately open after the planned endpoint:** authenticated public fracture; Sterling personal command and final consequence; the original 02:14 human operator if still unavailable; Price, Marcus, Elias, legal, medical, relationship, and Julie future-role aftermath.
+
+**No-retcon rule:** common identity-construction architecture does not prove a common human actor. A personally corroborated later Vance release act does not prove his original deployment keystrokes or Sterling's command. This planning block creates no canon.
+<!-- CH22_PLANNING_STATE_END -->
+
 <!-- CH21_ACCEPTED_STATE_START -->
 ## Accepted Chapter 21 thread delta
 
@@ -19,6 +31,7 @@
 
 **No-retcon rule:** WSS session facts, Hartwell case/challenge facts, and office/LSS assignment facts align by serial and interval but remain independently sourced.
 <!-- CH20_ACCEPTED_STATE_END -->
+
 <!-- CH19_ACCEPTED_STATE_START -->
 ## Chapter 19 accepted thread delta
 
@@ -81,7 +94,9 @@
 | Elias’s voluntary record | **Advanced.** Voluntary technical participation and bounded claims continue. | Preserve public/legal proof of agency. |
 
 ---
+
 ## Accepted Chapter 14 thread update
+
 - **Hartwell presenter / exact serial:** Advanced but unresolved; a held record exists, while the exterior state and dark-overcoat position do not identify the presenter.
 - **Independent counterrecord:** Payoff staged through MPD body camera/dispatch, Ortiz observation, Hartwell hold, garage records, WSS, Chen/Mercer, and separate originals.
 - **Phase B / K-17 / Masking Window Two:** Unresolved; masking is active and the 07:49 deadline passed without observable answer.
@@ -107,6 +122,7 @@
 ## Accepted Chapter 17 thread update — 2026-07-14
 
 ### Advanced
+
 - Independent technical examination: first named, reproducible single-package examination completed.
 - Independent counterrecord: Grant's signed observation now exists outside Apex's exclusive control.
 - Elias original-deployment attribution: physical-board claim materially weakened.
@@ -115,11 +131,13 @@
 - Public fracture: technically staged, not publicly triggered.
 
 ### Still open
+
 Final receiver; alternative identity path; human operator; broader package authentication; Hartwell presenter and exact serial; compact black case; WSS plaintext; K-17; Phase B; reconstruction; Sterling/Vance/Tariq personal acts; Chen/Mercer/Bell/Price outcomes; Marcus consequences; legal/medical aftermath; public vindication.
 
 ## Accepted Chapter 18 thread update — 2026-07-14
 
 ### Advanced / immediate payoff
+
 - **K-17 physical outcome:** intact at inspection; no confirmed capture; inner boundary remains unresolved.
 - **Phase B local action:** requested local source-record reconstruction/maintenance commit; final local authentication failed; no local write executed.
 - **Masking/reconstruction relationship:** the later superseding product omitted the failed local events, advancing the concealment theory without identifying author or upstream command.
@@ -127,4 +145,5 @@ Final receiver; alternative identity path; human operator; broader package authe
 - **Washington-to-field reconnection:** the bounded route now carries the existence and limited result without direct contact or unrestricted disclosure.
 
 ### Still open
+
 Human field actors; Tariq personal action; Hartwell presenter/exact serial; WSS plaintext; alternative deployment identity path and human actor; reconstruction author/upstream command; final receiver; Bell/Chen/Mercer/Price payoffs; Vance/Sterling consequences; medical/legal/relationship aftermath; and authenticated public narrative fracture.

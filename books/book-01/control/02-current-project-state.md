@@ -1,5 +1,25 @@
 # 2. CURRENT PROJECT STATE
 
+<!-- CH22_PLANNING_STATE_START -->
+## Chapter 22 approved planning state
+
+This non-canon planning block controls any lower historical future-production summary in this file. The authoritative accepted inventory remains `../ACCEPTED_MANUSCRIPT.yaml`.
+
+- **Accepted baseline remains:** Prologue and Chapters 1–21, **112,091 words**
+- **Accepted endpoint remains:** **12:18:04 EDT / 21:48:04 IST**, secure MPD evidence intake
+- **Working title:** **The Release Record**
+- **Mission lock:** `44-chapter-22-mission-lock.md`
+- **Mission-lock blob:** `9bd255ac7b09a1490dc70be4506ba29183756788`
+- **Planning status:** mission locked, undrafted, non-canon
+- **Planned opening:** **12:18:04 EDT / 21:48:04 IST**, secure MPD evidence intake
+- **Intended endpoint:** **13:12:44 EDT / 22:42:44 IST**, secure MPD evidence intake
+- **Dominant function:** relate Price's borrowed identity, Elias's framed identity, the failed K-17 local commit, and the successful remote reconstruction at mechanism and authority-binding levels; establish a separately corroborated later release act and meaningful Vance consequence without proving the original deployment hand or Sterling personal command
+- **POV:** Julie primary; one bounded Sarah Chen cutaway
+- **Word plan:** target **5,000**; preferred **4,600–5,400**; hard ceiling **5,800**
+- **Chapter 22 prose:** not created
+- **Chapter 23 and later:** individually mission unlocked; at least one later chapter remains necessary, but no Chapter 23 mission lock or complete remainder outline exists
+<!-- CH22_PLANNING_STATE_END -->
+
 <!-- CH21_ACCEPTED_STATE_START -->
 ## Chapter 21 accepted state
 
@@ -14,7 +34,7 @@ This Chapter 21 accepted-state block controls any lower historical “current”
 - **Custody state:** `SSO-NS-004`, all seven MPD packages, and every source original remain untouched and separately controlled
 - **Proof ceiling:** Sterling personal command, Price complete innocence, alternative deployment actor, remote-reconstruction author, and one actor behind every identity path remain unproved
 - **Public state:** Sterling's hostile account remains dominant
-- **Future state:** no Chapter 22 prose, Chapter 22 mission lock, or complete remainder outline exists
+- **Future state:** no Chapter 22 prose or complete remainder outline exists
 <!-- CH21_ACCEPTED_STATE_END -->
 
 <!-- CH20_ACCEPTED_STATE_START -->
@@ -33,11 +53,14 @@ This Chapter 20 accepted-state block controls any lower historical “current”
 - **Public state:** Sterling’s hostile account remains dominant
 - **Future state:** no Chapter 21 prose, mission lock, or complete remainder outline exists
 <!-- CH20_ACCEPTED_STATE_END -->
+
 The authoritative production status is `../../../PROJECT_STATE.yaml`. The authoritative accepted inventory is `../ACCEPTED_MANUSCRIPT.yaml`.
 
-## Production snapshot
+## Historical production snapshot
 
-| Item | Status |
+The planning and accepted-state blocks above supersede this preserved historical snapshot where a lower entry uses “current.”
+
+| Item | Status at the preserved Chapter 19/20 planning snapshot |
 |---|---|
 | Prologue | Accepted |
 | Chapters 1–19 | Accepted |
@@ -54,9 +77,9 @@ The authoritative production status is `../../../PROJECT_STATE.yaml`. The author
 | Chapter 19 mission lock | `38-chapter-19-mission-lock.md` |
 | Chapter 19 acceptance review | `39-chapter-19-acceptance-review.md` — **ACCEPT** |
 | Chapter 20 mission lock | `40-chapter-20-mission-lock.md` |
-| Chapter 20 | Mission locked; undrafted; non-canon |
-| Chapter 20 prose | Not created |
-| Chapter 21 prose or mission lock | Not created |
+| Chapter 20 | Mission locked; undrafted; non-canon at that snapshot |
+| Chapter 20 prose | Not created at that snapshot |
+| Chapter 21 prose or mission lock | Not created at that snapshot |
 | Complete remainder outline | Not created |
 | Book status | Not publication-ready |
 
@@ -72,7 +95,7 @@ The authoritative production status is `../../../PROJECT_STATE.yaml`. The author
 - **Hartwell result:** exact serial `SSO-NS-004`; accepted challenge at 07:47:49 EDT; credentialed office-support/Hartwell custody sequence; dark-overcoat entrant excluded as direct challenge presenter at that moment; current signer custody unknown
 - **Public state:** Sterling’s account remains dominant and uncorrected
 
-## Chapter 20 mission-lock state
+## Historical Chapter 20 mission-lock state
 
 - **Working title:** The Custody Exception
 - **Mission-lock blob:** `c074e4f6f9ec9cddcbc701e2923f34b3082ede5a`
@@ -84,14 +107,14 @@ The authoritative production status is `../../../PROJECT_STATE.yaml`. The author
 - **Target:** 4,400 words
 - **Preferred range:** 4,000–4,800 words
 - **Hard ceiling:** 5,200 words
-- **Canon effect:** none until reviewed prose receives an explicit ACCEPT verdict and synchronized promotion
+- **Canon effect at that gate:** none until reviewed prose received an explicit ACCEPT verdict and synchronized promotion
 
 ## Proof ceilings still active
 
-Accepted canon does not establish Sterling’s personal possession, presentation, operation, knowledge, command, or direction; courier or Hartwell-custodian conspiracy knowledge; Tariq’s physical presence or personal operation; Vance’s personal Payload 88 keystrokes; WSS plaintext; the alternative deployment actor; successful remote-reconstruction authorship; full compact-case contents; guilt, innocence, immunity, privilege resolution, admissibility, charge, conviction, exoneration, universal institutional complicity, final recovery of `SSO-NS-004`, or public vindication.
+Accepted canon does not establish Sterling’s personal possession, presentation, operation, knowledge, command, or direction; courier or Hartwell-custodian conspiracy knowledge; Tariq’s physical presence or personal operation; Vance’s personal Payload 88 keystrokes; WSS plaintext; the alternative deployment actor; successful remote-reconstruction authorship; full compact-case contents; guilt, innocence, immunity, privilege resolution, admissibility, charge, conviction, exoneration, universal institutional complicity, or public vindication.
 
-The Chapter 20 mission lock may plan bounded future facts. It does not add them to accepted canon.
+The Chapter 22 mission lock may plan bounded future facts. It does not add them to accepted canon.
 
 ## Current production gate
 
-Draft the first non-canon version of Chapter 20 only from `40-chapter-20-mission-lock.md`. Do not alter accepted prose or the accepted manifest, draft Chapter 21, create a Chapter 21 mission lock, or create a complete chapter-by-chapter outline for the remainder of Act III.
+Draft only the first non-canon version of Chapter 22 from `44-chapter-22-mission-lock.md` in a fresh, separately authorized session after verifying the merged repository state. Do not alter accepted prose or the accepted manifest, draft or plan Chapter 23, or create a complete chapter-by-chapter remainder-of-Act-III outline.
