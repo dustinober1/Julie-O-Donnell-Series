@@ -31,7 +31,7 @@ Price is alive, represented, and under bounded DIA administrative review. His au
 - **POV:** Julie primary; one bounded Sarah Chen cutaway
 - **Target:** **5,000 words**; preferred **4,600–5,400**; hard ceiling **5,800**
 - **Accepted effect:** None
-- **Chapter 22 prose:** Not created
+- **Chapter 22 prose:** not created
 - **Later architecture:** At least one later chapter is required by the ending contract, but no Chapter 23 mission lock or complete remainder outline exists
 
 ## Control documents
