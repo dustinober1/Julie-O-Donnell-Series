@@ -14,7 +14,7 @@ Repository for the Julie O'Donnell contemporary geopolitical techno-thriller / m
 - Chapter 22, **The Release Record**: **ACCEPT**, **4,716 words**
 - Chapter 22 reviewed prose: [`books/book-01/manuscript/chapters/chapter-22.md`](books/book-01/manuscript/chapters/chapter-22.md), blob `034ab496794594427d8409d03e7c6659d41b6a91`
 - Mission lock: [`books/book-01/control/44-chapter-22-mission-lock.md`](books/book-01/control/44-chapter-22-mission-lock.md), blob `9bd255ac7b09a1490dc70be4506ba29183756788`
-- Acceptance review: [`books/book-01/control/45-chapter-22-acceptance-review.md`](books/book-01/control/45-chapter-22-acceptance-review.md) — **ACCEPT**, blob `9de6c47b5984875339e8c6244ffca25f49394d9c`
+- Acceptance review: [`books/book-01/control/45-chapter-22-acceptance-review.md`](books/book-01/control/45-chapter-22-acceptance-review.md) — **ACCEPT**, blob `f0261e728600b58a4efada77b39874977f347ade`
 - Active Book 1 chapter drafts: none
 - Chapter 23 prose or mission lock: none
 - Complete remainder-of-Act-III outline: none

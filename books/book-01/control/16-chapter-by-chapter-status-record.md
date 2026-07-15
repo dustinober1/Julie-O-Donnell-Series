@@ -39,7 +39,7 @@ The accepted-manuscript inventory in `../ACCEPTED_MANUSCRIPT.yaml` controls acce
 ## Chapter 22 acceptance record
 
 - Mission lock: `44-chapter-22-mission-lock.md` — blob `9bd255ac7b09a1490dc70be4506ba29183756788`.
-- Acceptance review: `45-chapter-22-acceptance-review.md` — **ACCEPT** — blob `9de6c47b5984875339e8c6244ffca25f49394d9c`.
+- Acceptance review: `45-chapter-22-acceptance-review.md` — **ACCEPT** — blob `f0261e728600b58a4efada77b39874977f347ade`.
 - Accepted path: `../manuscript/chapters/chapter-22.md`.
 - Exact words: **4,716**.
 - No prose repair was made and no duplicate draft remains.

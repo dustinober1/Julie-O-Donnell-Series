@@ -11,7 +11,7 @@ BASE = "3ed760050f7e74ad152d0f46ede7db16164030b0"
 EXPECTED_TOTAL = 116807
 EXPECTED_ACT_III = 53152
 EXPECTED_MANIFEST_BLOB = "faae57d468a4a599dc14ee753c74b5257e946ec8"
-EXPECTED_REVIEW_BLOB = "9de6c47b5984875339e8c6244ffca25f49394d9c"
+EXPECTED_REVIEW_BLOB = "f0261e728600b58a4efada77b39874977f347ade"
 EXPECTED_LOCK_BLOB = "9bd255ac7b09a1490dc70be4506ba29183756788"
 CH22_BLOB = "034ab496794594427d8409d03e7c6659d41b6a91"
 EXPECTED_CHAPTERS = {
@@ -100,6 +100,8 @@ if blob(LOCK) != EXPECTED_LOCK_BLOB:
 review = (ROOT / REVIEW).read_text(encoding="utf-8")
 if "## 25. Explicit verdict\n\n**ACCEPT**" not in review:
     fail("explicit ACCEPT verdict missing")
+if "`ARGUS-CD-187463-01` supplies the source-limited government Argus product-registry derivative." not in review:
+    fail("government product-registry derivative missing from formal review")
 for phrase in ("basically accepted", "provisionally canon", "accepted pending cleanup", "mostly ready"):
     if phrase in review.lower():
         fail(f"ambiguous verdict phrase present: {phrase}")
@@ -158,7 +160,7 @@ for path in STATE_FILES:
             fail(f"{path} retains stale state: {phrase}")
 
 project_state = (ROOT / "PROJECT_STATE.yaml").read_text(encoding="utf-8")
-for required in ("chapters: 1-22", "accepted_words: 116807", "maximum_words_remaining: 8193", "active_chapter_drafts: []"):
+for required in ("chapters: 1-22", "accepted_words: 116807", "maximum_words_remaining: 8193", "active_chapter_drafts: []", "f0261e728600b58a4efada77b39874977f347ade"):
     if required not in project_state:
         fail(f"PROJECT_STATE.yaml missing: {required}")
 
