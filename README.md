@@ -18,7 +18,7 @@ Repository for the Julie O'Donnell contemporary geopolitical techno-thriller / m
 - Chapter 21 mission-lock blob: `6c92a5764e5c74d88a8325511ae2b0a86b30b356`
 - Chapter 21 first draft: [`books/book-01/drafts/chapter-21.md`](books/book-01/drafts/chapter-21.md)
 - Chapter 21 draft words: **4,415**
-- Chapter 21 draft blob: `280e032f15cbee165a48f51d44b2c9017cef8eef`
+- Chapter 21 draft blob: `866d4210b7fc808aef48144a91a58280f38fc99c`
 - Chapter 21 status: **non-canon and pending a separate acceptance review**
 - Accepted-manuscript effect: **none**
 - Chapter 22 and later: undrafted and individually mission unlocked
