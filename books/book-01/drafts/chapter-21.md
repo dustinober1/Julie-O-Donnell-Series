@@ -39,11 +39,11 @@ At 11:31:46, the records custodian created `SO-CD-187463-02`, a source-limited d
 
 Grant did not import the file into a composite record. She opened the derivative in its own read-only pane.
 
-OFFICE ORIGINAL: SO-NS-REQ-6540  
-RECORD CLASS: NSB-EMERGENCY CONTINUITY REQUEST  
-CREATED: 06:41:18 EDT — OFFICE WORKFLOW CLOCK  
-APPARENT REQUESTOR: PRICE, LELAND / DIA SYSTEMS AUDIT  
-INHERITED REQUEST REFERENCE: DIA-SAR-PRICE-01  
+OFFICE ORIGINAL: SO-NS-REQ-6540
+RECORD CLASS: NSB-EMERGENCY CONTINUITY REQUEST
+CREATED: 06:41:18 EDT — OFFICE WORKFLOW CLOCK
+APPARENT REQUESTOR: PRICE, LELAND / DIA SYSTEMS AUDIT
+INHERITED REQUEST REFERENCE: DIA-SAR-PRICE-01
 AUTHORIZATION RECIPIENT: KESSLER, DIANE
 
 Below those fields, the derivative listed withheld narrative, protected source description, and unrelated office communications. It also listed the operational fields the office had agreed were part of the request’s routing structure: `SSO-NS-004`, `WSS-4`, Hartwell, `K17-PHASE-B`, and a source-reconstruction continuity category.
@@ -364,11 +364,11 @@ Ortiz and Park confirmed that MPD-901441 through MPD-901447 remained sealed, sep
 
 Grant completed DCIS-CD-187463-PRICE-01 at 12:14:37. The derivative identified the office and DIA source originals, the creators of each produced component, creation times, clock bases, produced and withheld fields, integrity methods, custody states, and proof ceilings. Her signed finding occupied six lines.
 
-PRICE ORIGINAL: AUTHENTICATED / RAW-SOURCE AND SOURCE-INTEGRITY REVIEW ONLY  
-PRICE ACTIVE AUTHORITY: ENDED BEFORE LATER OFFICE REQUEST  
-LATER REQUEST: PRICE IDENTITY / REQUEST REFERENCE INHERITED  
-OPERATIONAL ROUTING: ADDED AFTER ORIGINAL  
-MATCHING AUTHENTICATED PRICE ACT: NOT ESTABLISHED IN AUTHORIZED EVENT RANGE  
+PRICE ORIGINAL: AUTHENTICATED / RAW-SOURCE AND SOURCE-INTEGRITY REVIEW ONLY
+PRICE ACTIVE AUTHORITY: ENDED BEFORE LATER OFFICE REQUEST
+LATER REQUEST: PRICE IDENTITY / REQUEST REFERENCE INHERITED
+OPERATIONAL ROUTING: ADDED AFTER ORIGINAL
+MATCHING AUTHENTICATED PRICE ACT: NOT ESTABLISHED IN AUTHORIZED EVENT RANGE
 REQUEST CONSTRUCTOR: UNPROVED
 
 Alvarez accepted the derivative into incident 187463 without merging it with any original. The office and DIA source records remained where they had been created. Price remained in administrative review. No immunity, charge, exoneration, or privilege ruling followed.
