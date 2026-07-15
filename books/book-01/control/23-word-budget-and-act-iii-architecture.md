@@ -44,7 +44,7 @@ Chapter 21 — **The Borrowed Name** — is mission locked by `42-chapter-21-mis
 
 - Draft path: `../drafts/chapter-21.md`
 - Exact draft words: **4,415**
-- Exact draft blob: `280e032f15cbee165a48f51d44b2c9017cef8eef`
+- Exact draft blob: `866d4210b7fc808aef48144a91a58280f38fc99c`
 - Status: first draft exists, non-canon, pending a separate acceptance review
 - Planning target: **4,650 words**
 - Preferred range: **4,300–5,100 words**

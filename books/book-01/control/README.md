@@ -19,7 +19,7 @@ The accepted manuscript always outranks this control pack.
 - **Exact lock blob:** `6c92a5764e5c74d88a8325511ae2b0a86b30b356`
 - **Draft:** [`../drafts/chapter-21.md`](../drafts/chapter-21.md)
 - **Exact draft words:** **4,415**
-- **Exact draft blob:** `280e032f15cbee165a48f51d44b2c9017cef8eef`
+- **Exact draft blob:** `866d4210b7fc808aef48144a91a58280f38fc99c`
 - **Status:** first draft exists, non-canon, pending a separate acceptance review
 - **Accepted-manuscript effect:** none
 - **Draft opening:** **11:26:32 EDT / 20:56:32 IST**, secure MPD evidence intake

@@ -5,7 +5,7 @@ One active Book 1 chapter draft exists:
 - Chapter 21 — **The Borrowed Name**
 - Path: [`chapter-21.md`](chapter-21.md)
 - Exact words: **4,415**
-- Exact blob: `280e032f15cbee165a48f51d44b2c9017cef8eef`
+- Exact blob: `866d4210b7fc808aef48144a91a58280f38fc99c`
 - Mission lock: [`../control/42-chapter-21-mission-lock.md`](../control/42-chapter-21-mission-lock.md)
 - Mission-lock blob: `6c92a5764e5c74d88a8325511ae2b0a86b30b356`
 - Status: **first draft, non-canon, pending a separate acceptance review**

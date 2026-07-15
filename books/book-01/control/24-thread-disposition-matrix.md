@@ -6,7 +6,7 @@
 - Accepted words: **107,676**
 - Accepted endpoint: **11:26:32 EDT / 20:56:32 IST**
 - Chapter 20: accepted at **4,307 words**, review `41-chapter-20-acceptance-review.md`
-- Chapter 21 — **The Borrowed Name**: mission lock `42-chapter-21-mission-lock.md`, blob `6c92a5764e5c74d88a8325511ae2b0a86b30b356`; one first draft exists at `../drafts/chapter-21.md`, **4,415 words**, blob `280e032f15cbee165a48f51d44b2c9017cef8eef`; non-canon and pending a separate acceptance review
+- Chapter 21 — **The Borrowed Name**: mission lock `42-chapter-21-mission-lock.md`, blob `6c92a5764e5c74d88a8325511ae2b0a86b30b356`; one first draft exists at `../drafts/chapter-21.md`, **4,415 words**, blob `866d4210b7fc808aef48144a91a58280f38fc99c`; non-canon and pending a separate acceptance review
 - Chapter 22 and later: undrafted and individually mission unlocked
 - No complete remainder-of-Act-III outline exists
 
