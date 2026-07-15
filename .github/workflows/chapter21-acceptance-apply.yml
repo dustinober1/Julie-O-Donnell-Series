@@ -1,6 +1,12 @@
 name: Apply Chapter 21 acceptance
 
 on:
+  pull_request:
+    branches:
+      - main
+    paths:
+      - "tools/.chapter21_acceptance_payload_*.b64"
+      - ".github/workflows/chapter21-acceptance-apply.yml"
   push:
     branches:
       - agent/chapter-21-acceptance
