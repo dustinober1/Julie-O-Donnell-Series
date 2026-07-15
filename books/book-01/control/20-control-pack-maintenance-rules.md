@@ -46,26 +46,27 @@
 - Accepted endpoint: **11:26:32 EDT / 20:56:32 IST**.
 - Chapter 20 prose exists only at `../manuscript/chapters/chapter-20.md`; no draft remains.
 - Chapter 20 mission lock remains `c074e4f6f9ec9cddcbc701e2923f34b3082ede5a`.
-- The Chapter 20 acceptance commit installed validation for Chapters 13–20, the review, total, endpoint, custody/proof sentinels, and the then-required absence of Chapter 21 artifacts.
-- No temporary helper, debug file, trigger, alternate prose, or one-time workflow remains.
+- No accepted prose, accepted count, accepted endpoint, or accepted-manifest field changes during Chapter 21 drafting.
 
-## Chapter 21 planning maintenance delta
+## Chapter 21 draft maintenance delta
 
-A mission lock changes planning state only. It does not alter accepted prose, accepted words, accepted endpoint, manifest inventory, evidence custody, character state, or public record.
+A first draft changes production navigation only. It does not alter accepted prose, accepted words, accepted endpoint, manifest inventory, evidence custody, character state, recurring-character tiers, or public record.
 
 - Chapter 21 working title: **The Borrowed Name**.
 - Mission lock: `42-chapter-21-mission-lock.md`.
-- Exact blob: `6c92a5764e5c74d88a8325511ae2b0a86b30b356`.
-- Status: mission locked, undrafted, non-canon, with no accepted-manuscript effect.
-- Planned opening: **11:26:32 EDT / 20:56:32 IST**.
-- Intended endpoint: **12:18:04 EDT / 21:48:04 IST**.
-- Planning target: **4,650 words**; preferred range **4,300–5,100**; hard ceiling **5,400**.
+- Exact lock blob: `6c92a5764e5c74d88a8325511ae2b0a86b30b356`.
+- Authorized draft path: `../drafts/chapter-21.md`.
+- Exact draft words: **4,415**.
+- Exact draft blob: `280e032f15cbee165a48f51d44b2c9017cef8eef`.
+- Status: first draft exists, non-canon, pending a separate acceptance review.
+- Draft opening: **11:26:32 EDT / 20:56:32 IST**.
+- Draft endpoint: **12:18:04 EDT / 21:48:04 IST**.
 - Request identity, physical act, authorizer, carrier, knowledge, intent, and command remain separate proof categories.
 - Chapter 22 and later remain undrafted and individually mission unlocked.
-- The recurring-character ledger remains intentionally unchanged because a non-canon mission lock creates no accepted recurring role or tier change.
+- The recurring-character ledger remains intentionally unchanged because a non-canon draft creates no accepted recurring role or tier change.
 
-Permanent validation now additionally protects the unchanged accepted-manifest blob, the exact Chapter 21 mission-lock blob and single-lock count, no Chapter 21 prose or acceptance review, no Chapter 22 artifact, no remainder outline, no temporary Chapter 21 helper artifact, and the full base-to-head `git diff --check` result.
+Permanent validation protects the unchanged accepted-manifest blob, protected accepted Chapters 13–20, the Chapter 20 mission lock and acceptance review, the exact Chapter 21 mission-lock blob, exactly one authorized Chapter 21 draft at the exact blob/count, no accepted Chapter 21 prose, no Chapter 21 acceptance review, no Chapter 22 artifact, no remainder outline, no temporary helper/debug/payload/runner or alternate-prose artifact, synchronized non-canon draft status, and full base-to-head `git diff --check`.
 
 ## Current maintenance gate
 
-Draft one first non-canon Chapter 21 version from the exact approved lock. Do not perform Chapter 21 acceptance review, Chapter 22 work, or complete remainder outlining in that gate.
+Conduct a separate Chapter 21 acceptance-review session. Do not perform Chapter 22 work or complete remainder outlining in that gate.

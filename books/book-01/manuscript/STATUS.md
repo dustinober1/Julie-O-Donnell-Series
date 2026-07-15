@@ -28,22 +28,29 @@
 - Result: named LSS no-use hold; Samuel Drennan physical carrier; Diane Kessler office continuity authority; originals and derivatives remain separate
 - Proof limit: instruction source and Sterling personal command remain unproved; public narrative remains uncorrected
 
-## Chapter 21 planning state
+## Chapter 21 non-canon draft state
 
 - Working title: **The Borrowed Name**
 - Mission lock: [`../control/42-chapter-21-mission-lock.md`](../control/42-chapter-21-mission-lock.md)
 - Mission-lock blob: `6c92a5764e5c74d88a8325511ae2b0a86b30b356`
-- Status: **mission locked, undrafted, non-canon**
+- Draft: [`../drafts/chapter-21.md`](../drafts/chapter-21.md)
+- Exact draft words: **4,415**
+- Exact draft blob: `280e032f15cbee165a48f51d44b2c9017cef8eef`
+- Status: **first draft, non-canon, pending a separate acceptance review**
 - Accepted-manuscript effect: **none**
-- Planned opening: **11:26:32 EDT / 20:56:32 IST**, secure MPD evidence intake
-- Intended endpoint: **12:18:04 EDT / 21:48:04 IST**, secure MPD evidence intake
+- Draft opening: **11:26:32 EDT / 20:56:32 IST**, secure MPD evidence intake
+- Draft endpoint: **12:18:04 EDT / 21:48:04 IST**, secure MPD evidence intake
 - Dominant mission: authenticate the initiating continuity request and determine whether Leland Price created it or whether his suspended identity was borrowed
-- Planning target: **4,650 words**; preferred range **4,300–5,100**; hard ceiling **5,400**
+- Result: constructed identity path established; constructor and wider authorship remain unproved
 
-## Draft state
+## Accepted inventory protection
 
-No active Book 1 chapter draft exists. No duplicate Chapter 20 prose copy remains. No Chapter 21 prose or Chapter 21 acceptance review exists. Chapter 22 and later remain undrafted and individually mission unlocked. No complete chapter-by-chapter remainder-of-Act-III outline exists.
+No Chapter 21 prose exists under `manuscript/chapters/`. `ACCEPTED_MANUSCRIPT.yaml`, accepted words, the Chapter 20 endpoint, and accepted Chapters 1–20 remain unchanged.
+
+## Chapter 22 and later
+
+Chapter 22 and later remain undrafted and individually mission unlocked. No complete chapter-by-chapter remainder-of-Act-III outline exists.
 
 ## Current gate
 
-Draft the first non-canon Chapter 21 version from `42-chapter-21-mission-lock.md` only. Place it under `../drafts/`. Do not create an acceptance review, Chapter 22 artifact, or complete remainder outline in that drafting session.
+Conduct a separate Chapter 21 acceptance review against the approved mission lock and the one authorized draft. Do not create Chapter 22 prose or a Chapter 22 mission lock in that review session.

@@ -6,7 +6,8 @@
 - Accepted words: **107,676**
 - Accepted endpoint: **11:26:32 EDT / 20:56:32 IST**
 - Chapter 20: accepted at **4,307 words**, review `41-chapter-20-acceptance-review.md`
-- Chapter 21: mission locked, undrafted, non-canon; Chapter 22 and later remain undrafted and individually mission unlocked
+- Chapter 21 — **The Borrowed Name**: mission lock `42-chapter-21-mission-lock.md`, blob `6c92a5764e5c74d88a8325511ae2b0a86b30b356`; one first draft exists at `../drafts/chapter-21.md`, **4,415 words**, blob `280e032f15cbee165a48f51d44b2c9017cef8eef`; non-canon and pending a separate acceptance review
+- Chapter 22 and later: undrafted and individually mission unlocked
 - No complete remainder-of-Act-III outline exists
 
 Disposition labels: **B1-REQUIRED**, **B1-PARTIAL / SERIES**, **SERIES**, **MERGED**, **OPTIONAL**.
@@ -30,27 +31,25 @@ Disposition labels: **B1-REQUIRED**, **B1-PARTIAL / SERIES**, **SERIES**, **MERG
 | Six-years-ago Argus link / four-second delay | SERIES / B1-PARTIAL | Open and bounded | Acknowledge without false proof |
 | Medical/legal/relationship aftermath | B1-REQUIRED | Injuries and separation continue | No convenient recovery or total exoneration |
 
-## Chapter 21 planning delta
+## Chapter 21 non-canon draft delta
 
-Chapter 21 — **The Borrowed Name** — is mission locked by `42-chapter-21-mission-lock.md`, exact blob `6c92a5764e5c74d88a8325511ae2b0a86b30b356`. It remains undrafted, non-canon, and has no accepted-manuscript effect.
+The first draft advances these threads only as proposed prose; none becomes accepted canon before a formal acceptance verdict:
 
-The planning control advances these threads without converting them into accepted facts:
+- **Instruction behind continuity exception:** Price's original source-review request is authenticated; his active authority ends before the later office request; the later request inherits his identity/reference and adds operational routing.
+- **Leland Price:** appears as a bounded witness with counsel, administrative-review exposure, a voluntary statement, and no convenient alliance, confession, immunity, or omniscience.
+- **Alternative identity path:** the draft establishes a second identity label without a matching authenticated physical act; the constructor remains open.
+- **Independent counterrecord:** separate office and DIA originals/derivatives survive without creating a composite master original.
+- **Sterling personal command:** remains explicitly unproved.
+- **Chen / Mercer / Bell / Price:** Price receives the bounded draft payoff; Chen receives only a preservation-category demand; other final choices remain deferred.
+- **Public narrative fracture:** no public release occurs; Sterling's public account remains dominant.
+- **Medical/legal/relationship aftermath:** Julie's restraint/injury and Marcus/Elias medical separation remain active.
 
-- **Instruction behind continuity exception:** authenticate the initiating request and determine whether Price created it or his suspended identity/request reference was borrowed.
-- **Leland Price:** return him as a bounded witness through his real source-review request, access-review chronology, and voluntary statement, without convenient alliance or omniscience.
-- **Alternative identity path:** planned midpoint shows a second identity label that does not match an authenticated physical act; the human constructor remains open.
-- **Independent counterrecord:** add separate office and DIA originals/derivatives without creating a composite master file.
-- **Sterling personal command:** preserve explicit uncertainty; no command inference from office ownership, identity fields, certificates, employment, privilege, or request references.
-- **Chen / Mercer / Bell / Price:** Price receives the bounded Chapter 21 payoff; Chen may receive a preservation demand; the other final choices remain deferred.
-- **Public narrative fracture:** no Chapter 21 public release; an authenticated visible contradiction remains required later.
-- **Medical/legal/relationship aftermath:** Julie’s restraint/injury and Marcus/Elias medical separation remain active.
-
-The planned endpoint transforms the next question to:
+The draft endpoint transforms the proof question to:
 
 > Who constructed and submitted the `NSB-EMERGENCY` continuity request after Price’s authority ended, and does that construction path connect the false identity placed on Elias’s original deployment to the successful remote Argus reconstruction?
 
-This planning delta does not defer any required Book 1 payoff into series carryover. Chapter 22 and later remain undrafted and individually mission unlocked. No complete remainder outline exists.
+This non-canon draft does not defer any required Book 1 payoff into series carryover. Chapter 22 and later remain undrafted and individually mission unlocked. No complete remainder outline exists.
 
 ## Current gate
 
-Draft one first non-canon Chapter 21 version from `42-chapter-21-mission-lock.md`. Do not create a Chapter 21 acceptance review, Chapter 22 artifact, or complete remainder outline in that drafting session.
+Conduct a separate Chapter 21 acceptance review. Do not create Chapter 22 prose, a Chapter 22 mission lock, or a complete remainder outline in that session.

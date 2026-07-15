@@ -40,18 +40,22 @@ The accepted-manuscript inventory in `../ACCEPTED_MANUSCRIPT.yaml` controls acce
 - Result: named LSS no-use hold, Drennan carrier, Kessler office continuity authority, and a transformed objective focused on the instruction source.
 - No duplicate draft remains.
 
-## Chapter 21 planning control
+## Chapter 21 — first draft, non-canon
 
 - Working title: **The Borrowed Name**.
 - Mission lock: `42-chapter-21-mission-lock.md`.
-- Exact blob: `6c92a5764e5c74d88a8325511ae2b0a86b30b356`.
-- Status: mission locked, undrafted, non-canon, with no accepted-manuscript effect.
+- Exact lock blob: `6c92a5764e5c74d88a8325511ae2b0a86b30b356`.
+- Draft path: `../drafts/chapter-21.md`.
+- Exact draft words: **4,415**.
+- Exact draft blob: `280e032f15cbee165a48f51d44b2c9017cef8eef`.
+- Status: **first draft exists, non-canon, pending a separate acceptance review**.
+- Accepted-manuscript effect: **none**.
 - Opening: **11:26:32 EDT / 20:56:32 IST**, secure MPD evidence intake.
-- Intended endpoint: **12:18:04 EDT / 21:48:04 IST**, secure MPD evidence intake.
-- Dominant mission: authenticate the initiating continuity request and determine whether Leland Price created it or whether his suspended identity was borrowed.
-- Planning target: **4,650 words**; preferred range **4,300–5,100**; hard ceiling **5,400**.
-
-The planned midpoint establishes only that Price’s original is a raw-source/source-integrity request while the later office request reuses his identity or request reference after his active authority ended and adds operational routing absent from his original. The later author, Sterling’s personal command, the alternative original-deployment actor, and the remote-reconstruction author remain unproved.
+- Draft endpoint: **12:18:04 EDT / 21:48:04 IST**, secure MPD evidence intake.
+- Midpoint: Price's source-review request is authentic and limited; the later office request inherits his identity/reference after his authority ended and adds operational routing without a matching authenticated Price act.
+- Decision: Julie preserves Price's complete record and refuses a premature accusation or leak.
+- Result: a constructed identity path is established; the constructor remains unproved.
+- Acceptance review: not created.
 
 ## Chapter 22 and later
 
@@ -59,4 +63,4 @@ Chapter 22 and later remain undrafted and individually mission unlocked. No comp
 
 ## Current gate
 
-Draft one first non-canon Chapter 21 version from `42-chapter-21-mission-lock.md`. Do not create a Chapter 21 acceptance review, Chapter 22 artifact, or complete remainder outline in that drafting session.
+Conduct a separate Chapter 21 acceptance review. Do not create Chapter 22 prose, a Chapter 22 mission lock, or a complete remainder outline in that session.

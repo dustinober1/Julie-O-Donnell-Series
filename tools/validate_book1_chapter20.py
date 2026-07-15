@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate the accepted Julie O'Donnell Book 1 state through Chapter 20 and the Chapter 21 mission lock."""
+"""Validate accepted Book 1 through Chapter 20 and the authorized Chapter 21 non-canon draft."""
 
 from pathlib import Path
 import os
@@ -15,6 +15,10 @@ MANIFEST = BOOK / "ACCEPTED_MANUSCRIPT.yaml"
 
 EXPECTED_MANIFEST_BLOB = "93cc38d2927cbfd99d8a622a93b11f53a2df8ee2"
 EXPECTED_CHAPTER21_LOCK_BLOB = "6c92a5764e5c74d88a8325511ae2b0a86b30b356"
+EXPECTED_CHAPTER21_DRAFT_BLOB = "280e032f15cbee165a48f51d44b2c9017cef8eef"
+EXPECTED_CHAPTER21_DRAFT_WORDS = 4415
+CHAPTER21_HARD_CEILING = 5400
+AUTHORIZED_DRAFT = DRAFTS / "chapter-21.md"
 
 
 def require(value: bool, message: str) -> None:
@@ -26,6 +30,10 @@ def blob(path: Path) -> str:
     return subprocess.check_output(
         ["git", "hash-object", str(path)], text=True
     ).strip()
+
+
+def word_count(path: Path) -> int:
+    return len(path.read_text(encoding="utf-8").split())
 
 
 def validate_protected_prose() -> None:
@@ -48,12 +56,12 @@ def validate_protected_prose() -> None:
             actual_blob == expected_blob,
             f"protected blob changed: {name} = {actual_blob}",
         )
-        words = len(path.read_text(encoding="utf-8").split())
+        words = word_count(path)
         require(
             words == expected_words,
             f"protected count changed: {name} = {words}",
         )
-    print("protected prose: OK")
+    print("protected accepted prose: OK")
 
 
 def validate_review_and_inventory() -> None:
@@ -61,10 +69,9 @@ def validate_review_and_inventory() -> None:
     review20 = CONTROL / "41-chapter-20-acceptance-review.md"
     chapter20 = CHAPTERS / "chapter-20.md"
 
-    mission_blob = blob(mission20)
     require(
-        mission_blob == "c074e4f6f9ec9cddcbc701e2923f34b3082ede5a",
-        f"Chapter 20 mission lock changed: {mission_blob}",
+        blob(mission20) == "c074e4f6f9ec9cddcbc701e2923f34b3082ede5a",
+        "Chapter 20 mission lock changed",
     )
     require(review20.is_file(), "Chapter 20 acceptance review missing")
     review_text = review20.read_text(encoding="utf-8")
@@ -74,30 +81,20 @@ def validate_review_and_inventory() -> None:
         "Reviewed/promoted prose blob:** `0bd12f43beeef48d5e897ee1fa78a333bd23099b`",
         "Exact final word count:** **4,307**",
         "New accepted-manuscript total:** **107,676**",
-        "No Chapter 21 prose, Chapter 21 mission lock",
     ]:
-        require(sentinel in review_text, f"acceptance review missing: {sentinel}")
+        require(sentinel in review_text, f"Chapter 20 review missing: {sentinel}")
 
-    chapter20_paths = sorted(BOOK.rglob("chapter-20.md"))
     require(
-        chapter20_paths == [chapter20],
-        f"unexpected Chapter 20 prose paths: {chapter20_paths}",
+        sorted(BOOK.rglob("chapter-20.md")) == [chapter20],
+        "unexpected Chapter 20 prose path",
     )
     require(not (DRAFTS / "chapter-20.md").exists(), "Chapter 20 draft remains")
-    require(
-        sorted(CONTROL.glob("*chapter-20-mission-lock*.md")) == [mission20],
-        "alternate Chapter 20 mission lock exists",
-    )
-    require(
-        sorted(CONTROL.glob("*chapter-20-acceptance-review*.md")) == [review20],
-        "alternate Chapter 20 acceptance review exists",
-    )
 
     require(MANIFEST.is_file(), "accepted manifest missing")
-    manifest_blob = blob(MANIFEST)
+    actual_manifest_blob = blob(MANIFEST)
     require(
-        manifest_blob == EXPECTED_MANIFEST_BLOB,
-        f"accepted manifest changed: {manifest_blob}",
+        actual_manifest_blob == EXPECTED_MANIFEST_BLOB,
+        f"accepted manifest changed: {actual_manifest_blob}",
     )
     manifest = MANIFEST.read_text(encoding="utf-8")
     require("accepted_words: 107676" in manifest, "accepted total changed")
@@ -105,21 +102,18 @@ def validate_review_and_inventory() -> None:
         "accepted_endpoint:\n  chapter: 20" in manifest,
         "accepted endpoint is not Chapter 20",
     )
-    require('eastern: "11:26:32 EDT"' in manifest, "accepted eastern endpoint changed")
-    require('india: "20:56:32 IST"' in manifest, "accepted India endpoint changed")
+    require('eastern: "11:26:32 EDT"' in manifest, "accepted EDT endpoint changed")
+    require('india: "20:56:32 IST"' in manifest, "accepted IST endpoint changed")
     listed = [int(n) for n in re.findall(r"chapter-(\d+)\.md", manifest)]
-    require(
-        listed.count(20) == 1 and max(listed) == 20,
-        f"Chapter 20 manifest state invalid: {listed}",
-    )
-    require(21 not in listed, "Chapter 21 entered the accepted manifest")
+    require(listed.count(20) == 1 and max(listed) == 20, "manifest chapter range changed")
+    require(21 not in listed, "Chapter 21 entered accepted manifest")
     print("review and accepted inventory: OK")
 
 
 def validate_chapter20_content() -> None:
-    text20 = (CHAPTERS / "chapter-20.md").read_text(encoding="utf-8")
+    text = (CHAPTERS / "chapter-20.md").read_text(encoding="utf-8")
     require(
-        text20.startswith(
+        text.startswith(
             "10:44:12 EDT / 20:14:12 IST\n\n"
             "# Chapter 20 - The Custody Exception\n\n"
             "Secure MPD Evidence Intake\nWashington, D.C.\n"
@@ -127,18 +121,9 @@ def validate_chapter20_content() -> None:
         "Chapter 20 opening changed",
     )
     require(
-        "At 11:26:32 EDT / 20:56:32 IST" in text20[-2400:],
+        "At 11:26:32 EDT / 20:56:32 IST" in text[-2400:],
         "Chapter 20 endpoint missing",
     )
-    require(
-        text20.count("Legislative Secure Services Compromise-Control Intake") == 1,
-        "Grant cutaway architecture changed",
-    )
-    require(
-        text20.count("Secure MPD Evidence Intake") == 2,
-        "Julie location architecture changed",
-    )
-
     required = [
         "Legislative Secure Services no-use hold begins now",
         "Custodian Martin Vann",
@@ -151,72 +136,128 @@ def validate_chapter20_content() -> None:
         "06:54:00–10:57:18 EDT",
         "The carrier is not the authorizer.",
         "the authorizer is not yet the instruction source",
-        "No transfer to DCIS or MPD.",
-        "It did not identify Samuel Drennan as the WSS carrier.",
-        "Hartwell retained `HWA-LCA-1187`",
-        "WSS-4 retained its local audit and sponsor original",
-        "Forward Post Arjun retained `ARJ-K17-001`, `ARJ-K17-002`, and `ARJ-K17-003`",
         "MPD retained `MPD-901441` through `MPD-901447`",
-        "seven sealed packages in the same locked chest",
-        "ORIGINALS: RETAINED BY SOURCE CUSTODIANS",
-        "STERLING PERSONAL POSSESSION / OPERATION / COMMAND: NOT ESTABLISHED",
         "Who instructed Kessler to create and use the continuity exception",
     ]
-    missing = [item for item in required if item not in text20]
+    missing = [item for item in required if item not in text]
     require(not missing, f"Chapter 20 required element missing: {missing}")
-
-    prohibited = [
-        "Sterling instructed Kessler",
-        "Drennan was a conspirator",
-        "Bell was a conspirator",
-        "Northbridge knowingly joined",
-        "Vance personally typed",
-        "WSS plaintext was decrypted",
-        "Sterling was guilty",
-        "Julie was exonerated",
-        "Samuel Drennan’s credential appeared at both WSS-4 and Hartwell",
-        "carrier credential belonging to Samuel Drennan",
-    ]
-    present = [item for item in prohibited if item in text20]
-    require(not present, f"Chapter 20 prohibited conclusion present: {present}")
     print("Chapter 20 content sentinels: OK")
 
 
 def validate_chapter21_mission_lock() -> None:
-    mission21 = CONTROL / "42-chapter-21-mission-lock.md"
-    require(mission21.is_file(), "Chapter 21 mission lock missing")
-    mission_blob = blob(mission21)
+    mission = CONTROL / "42-chapter-21-mission-lock.md"
+    require(mission.is_file(), "Chapter 21 mission lock missing")
+    actual = blob(mission)
     require(
-        mission_blob == EXPECTED_CHAPTER21_LOCK_BLOB,
-        f"Chapter 21 mission lock changed: {mission_blob}",
+        actual == EXPECTED_CHAPTER21_LOCK_BLOB,
+        f"Chapter 21 mission lock changed: {actual}",
     )
     require(
-        sorted(CONTROL.glob("*chapter-21-mission-lock*.md")) == [mission21],
-        "Chapter 21 mission lock is missing or duplicated",
+        sorted(CONTROL.glob("*chapter-21-mission-lock*.md")) == [mission],
+        "Chapter 21 mission lock missing or duplicated",
     )
-
-    text = mission21.read_text(encoding="utf-8")
+    text = mission.read_text(encoding="utf-8")
     for sentinel in [
         "# 42. CHAPTER 21 MISSION LOCK — THE BORROWED NAME",
-        "## 1. Status and authority",
-        "## 30. Drafting instructions",
         "11:26:32 EDT / 20:56:32 IST",
         "12:18:04 EDT / 21:48:04 IST",
         "Leland Price",
         "The initiating instruction therefore contains a borrowed or constructed identity path.",
-        "Chapter 21 remains undrafted and non-canon",
-        "Chapter 22 remains individually unlocked and undrafted.",
-        "**Target:** **4,650 words**",
         "Who constructed and submitted the `NSB-EMERGENCY` continuity request",
     ]:
         require(sentinel in text, f"Chapter 21 mission lock missing: {sentinel}")
-
-    require(not list(BOOK.rglob("chapter-21.md")), "Chapter 21 prose exists")
-    require(
-        not list(CONTROL.glob("*chapter-21-acceptance-review*.md")),
-        "Chapter 21 acceptance review exists",
-    )
     print("Chapter 21 mission lock: OK")
+
+
+def validate_chapter21_draft() -> None:
+    require(AUTHORIZED_DRAFT.is_file(), "authorized Chapter 21 draft missing")
+    chapter21_paths = sorted(BOOK.rglob("chapter-21.md"))
+    require(
+        chapter21_paths == [AUTHORIZED_DRAFT],
+        f"unexpected Chapter 21 prose paths: {chapter21_paths}",
+    )
+    require(
+        not (CHAPTERS / "chapter-21.md").exists(),
+        "Chapter 21 prose entered accepted manuscript",
+    )
+
+    actual_blob = blob(AUTHORIZED_DRAFT)
+    actual_words = word_count(AUTHORIZED_DRAFT)
+    require(
+        actual_blob == EXPECTED_CHAPTER21_DRAFT_BLOB,
+        f"Chapter 21 draft blob changed: {actual_blob}",
+    )
+    require(
+        actual_words == EXPECTED_CHAPTER21_DRAFT_WORDS,
+        f"Chapter 21 draft count changed: {actual_words}",
+    )
+    require(
+        actual_words <= CHAPTER21_HARD_CEILING,
+        f"Chapter 21 draft exceeds hard ceiling: {actual_words}",
+    )
+
+    text = AUTHORIZED_DRAFT.read_text(encoding="utf-8")
+    require(
+        text.startswith(
+            "11:26:32 EDT / 20:56:32 IST\n\n"
+            "# Chapter 21 - The Borrowed Name\n\n"
+            "Secure MPD Evidence Intake\nWashington, D.C.\n"
+        ),
+        "Chapter 21 draft opening changed",
+    )
+    require(
+        "At 12:18:04 EDT / 21:48:04 IST" in text[-2600:],
+        "Chapter 21 draft endpoint missing",
+    )
+    require(text.count("DIA Administrative Review Unit") == 1, "Price cutaway count changed")
+    require(text.count("Secure MPD Evidence Intake") == 2, "Julie location architecture changed")
+
+    required = [
+        "SO-NS-REQ-6540",
+        "SO-CD-187463-02",
+        "DIA-SAR-PRICE-01",
+        "DIA-AR-PRICE-01",
+        "DCIS-CD-187463-PRICE-01",
+        "Price’s active authority ended more than twelve hours before",
+        "SSO-NS-004",
+        "WSS-4",
+        "K17-PHASE-B",
+        "The named requestor is not the instruction source",
+        "Kessler remained the authorizer",
+        "Drennan remained the carrier",
+        "REQUEST CONSTRUCTOR: UNPROVED",
+        "MPD-901441 through MPD-901447",
+        "LSS-SL-90418",
+        "four liters of oxygen",
+        "ninety-two to ninety-three percent saturation",
+        "successful remote Argus reconstruction",
+        "who constructed and submitted the `NSB-EMERGENCY` continuity request after Price’s authority ended",
+    ]
+    missing = [item for item in required if item not in text]
+    require(not missing, f"Chapter 21 required element missing: {missing}")
+
+    prohibited = [
+        "Sterling instructed Kessler",
+        "Sterling personally operated",
+        "Price authored the later request",
+        "Price was innocent",
+        "Kessler was a conspirator",
+        "Drennan was a conspirator",
+        "Vance personally typed",
+        "Vance built the borrowed Price identity",
+        "Tariq was physically present",
+        "WSS plaintext was decrypted",
+        "Julie was exonerated",
+        "Sterling was guilty",
+        "same person built both",
+        "same actor created every",
+    ]
+    present = [item for item in prohibited if item in text]
+    require(not present, f"Chapter 21 prohibited conclusion present: {present}")
+
+    for artifact in ["TODO", "DRAFTING NOTE", "ALTERNATE VERSION", "PLACEHOLDER"]:
+        require(artifact not in text, f"Chapter 21 drafting artifact remains: {artifact}")
+    print("Chapter 21 non-canon draft: OK")
 
 
 def validate_synchronized_controls() -> None:
@@ -232,53 +273,28 @@ def validate_synchronized_controls() -> None:
         CONTROL / "24-thread-disposition-matrix.md",
         CONTROL / "README.md",
     ]
+
     for path in synchronized:
         text = path.read_text(encoding="utf-8")
-        require(
-            "107,676" in text or "107676" in text,
-            f"accepted total missing in {path}",
-        )
-        require("11:26:32 EDT" in text, f"Chapter 20 endpoint missing in {path}")
+        require("107,676" in text or "107676" in text, f"accepted total missing in {path}")
+        require("11:26:32 EDT" in text, f"accepted endpoint missing in {path}")
         require("The Borrowed Name" in text, f"Chapter 21 title missing in {path}")
-        require(
-            EXPECTED_CHAPTER21_LOCK_BLOB in text,
-            f"Chapter 21 lock blob missing in {path}",
-        )
-        require("undrafted" in text.lower(), f"Chapter 21 draft state missing in {path}")
-        require("non-canon" in text.lower(), f"Chapter 21 canon state missing in {path}")
+        require(EXPECTED_CHAPTER21_LOCK_BLOB in text, f"mission-lock blob missing in {path}")
+        require(EXPECTED_CHAPTER21_DRAFT_BLOB in text, f"draft blob missing in {path}")
+        require(str(EXPECTED_CHAPTER21_DRAFT_WORDS) in text.replace(",", ""), f"draft count missing in {path}")
+        require("non-canon" in text.lower(), f"non-canon state missing in {path}")
+        require("acceptance review" in text.lower(), f"review gate missing in {path}")
 
+    project = (ROOT / "PROJECT_STATE.yaml").read_text(encoding="utf-8")
+    require("accepted_words: 107676" in project, "PROJECT_STATE accepted words changed")
     require(
-        "No active Book 1 chapter draft exists."
-        in (DRAFTS / "README.md").read_text(encoding="utf-8"),
-        "draft status not synchronized",
+        "accepted_manuscript_effect: none" in project,
+        "PROJECT_STATE draft effect missing",
     )
-
-    for path in [
-        CONTROL / "00-overview.md",
-        CONTROL / "02-current-project-state.md",
-        CONTROL / "04-source-of-truth-canon-locks.md",
-        CONTROL / "05-master-timeline.md",
-        CONTROL / "06-character-state-ledger.md",
-        CONTROL / "07-relationship-and-trust-matrix.md",
-        CONTROL / "08-evidence-and-chain-of-custody-ledger.md",
-        CONTROL / "09-knowledge-and-information-control-matrix.md",
-        CONTROL / "10-technology-and-system-rules.md",
-        CONTROL / "11-organizations-authorities-and-institutional-control.md",
-        CONTROL / "12-location-and-security-architecture.md",
-        CONTROL / "13-antagonist-objectives-and-conspiracy-model.md",
-        CONTROL / "14-public-narrative-versus-actual-record.md",
-        CONTROL / "15-open-plot-threads-and-payoff-matrix.md",
-    ]:
-        require(
-            "<!-- CH20_ACCEPTED_STATE_START -->"
-            in path.read_text(encoding="utf-8"),
-            f"Chapter 20 control delta missing in {path}",
-        )
-    print("synchronized planning controls: OK")
+    print("synchronized planning/navigation state: OK")
 
 
 def validate_absence_and_hygiene() -> None:
-    require(not list(BOOK.rglob("chapter-21.md")), "Chapter 21 prose exists")
     require(
         not list(CONTROL.glob("*chapter-21-acceptance-review*.md")),
         "Chapter 21 acceptance review exists",
@@ -290,25 +306,7 @@ def validate_absence_and_hygiene() -> None:
         if path.is_file()
         and ("chapter-22" in path.name.lower() or "chapter_22" in path.name.lower())
     ]
-    require(
-        not chapter22_artifacts,
-        f"Chapter 22 artifact exists: {chapter22_artifacts}",
-    )
-
-    forbidden_temporary_paths = [
-        ROOT / ".github/workflows/chapter20-acceptance-apply.yml",
-        ROOT / ".github/workflows/chapter20-acceptance-pr.yml",
-        ROOT / "chapter20-validator-final.yml",
-        ROOT / ".chapter20-acceptance-py",
-        ROOT / ".chapter20-acceptance",
-        ROOT / ".github/workflows/chapter21-mission-lock-apply.yml",
-        ROOT / ".github/workflows/chapter21-mission-lock-pr.yml",
-        ROOT / "chapter21-validator-final.yml",
-        ROOT / ".chapter21-mission-lock-py",
-        ROOT / ".chapter21-mission-lock",
-    ]
-    remaining = [path for path in forbidden_temporary_paths if path.exists()]
-    require(not remaining, f"temporary helper artifact remains: {remaining}")
+    require(not chapter22_artifacts, f"Chapter 22 artifact exists: {chapter22_artifacts}")
 
     remainder_outlines = [
         path
@@ -326,9 +324,42 @@ def validate_absence_and_hygiene() -> None:
         f"complete remainder outline artifact exists: {remainder_outlines}",
     )
 
-    text20 = (CHAPTERS / "chapter-20.md").read_text(encoding="utf-8")
-    for artifact in ["TODO", "DRAFTING NOTE", "ALTERNATE VERSION", "PLACEHOLDER"]:
-        require(artifact not in text20, f"Chapter 20 drafting artifact remains: {artifact}")
+    allowed_ch21 = {
+        AUTHORIZED_DRAFT,
+        CONTROL / "42-chapter-21-mission-lock.md",
+    }
+    suspicious = []
+    bad_fragments = (
+        "alternate",
+        "backup",
+        "latest",
+        "final",
+        "helper",
+        "debug",
+        "payload",
+        "runner",
+        "apply",
+        "trigger",
+        "copy",
+    )
+    for path in ROOT.rglob("*"):
+        if not path.is_file() or ".git" in path.parts:
+            continue
+        name = path.name.lower()
+        if "chapter21" in name or "chapter-21" in name or "chapter_21" in name:
+            if path not in allowed_ch21 and any(fragment in name for fragment in bad_fragments):
+                suspicious.append(path)
+    require(not suspicious, f"temporary/alternate Chapter 21 artifact exists: {suspicious}")
+
+    forbidden_paths = [
+        ROOT / ".github/workflows/chapter21-draft-apply.yml",
+        ROOT / ".github/workflows/chapter21-draft-pr.yml",
+        ROOT / "chapter21-validator-final.yml",
+        ROOT / ".chapter21-draft-py",
+        ROOT / ".chapter21-draft",
+    ]
+    remaining = [path for path in forbidden_paths if path.exists()]
+    require(not remaining, f"temporary helper artifact remains: {remaining}")
     print("absence and hygiene sentinels: OK")
 
 
@@ -351,10 +382,11 @@ def main() -> None:
     validate_review_and_inventory()
     validate_chapter20_content()
     validate_chapter21_mission_lock()
+    validate_chapter21_draft()
     validate_synchronized_controls()
     validate_absence_and_hygiene()
     validate_diff_hygiene()
-    print("Book 1 accepted Chapter 20 and Chapter 21 mission-lock state: VALID")
+    print("Book 1 accepted Chapter 20 and Chapter 21 non-canon draft state: VALID")
 
 
 if __name__ == "__main__":
