@@ -277,11 +277,14 @@ def validate_draft_state_synchronization() -> None:
     ]
     for path in synchronized:
         text = path.read_text(encoding='utf-8')
-        draft_path_sentinel = 'books/book-01/drafts/chapter-22.md' if path == ROOT / 'PROJECT_STATE.yaml' else 'drafts/chapter-22.md'
+        is_project_state = path == ROOT / 'PROJECT_STATE.yaml'
+        draft_path_sentinel = 'books/book-01/drafts/chapter-22.md' if is_project_state else 'drafts/chapter-22.md'
+        accepted_total_sentinel = str(EXPECTED_TOTAL) if is_project_state else f'{EXPECTED_TOTAL:,}'
         for sentinel in [
-            'Chapter 22', '112,091', '44-chapter-22-mission-lock.md',
+            'Chapter 22', accepted_total_sentinel, '44-chapter-22-mission-lock.md',
             draft_path_sentinel, EXPECTED_CHAPTER22_DRAFT_BLOB,
-            f'{EXPECTED_CHAPTER22_DRAFT_WORDS:,}', 'non-canon',
+            f'{EXPECTED_CHAPTER22_DRAFT_WORDS:,}' if not is_project_state else str(EXPECTED_CHAPTER22_DRAFT_WORDS),
+            'non-canon',
         ]:
             require(sentinel in text, f'Chapter 22 draft state missing in {path}: {sentinel}')
         require('acceptance review' in text.lower(), f'acceptance-review state missing in {path}')
