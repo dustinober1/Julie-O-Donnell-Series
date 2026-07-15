@@ -7,7 +7,7 @@
 - Accepted endpoint: **12:18:04 EDT / 21:48:04 IST**
 - Chapter 21 — **The Borrowed Name**: accepted at **4,415 words**, blob `866d4210b7fc808aef48144a91a58280f38fc99c`, review `43-chapter-21-acceptance-review.md` — **ACCEPT**
 - Chapter 22 mission lock: `44-chapter-22-mission-lock.md`, blob `9bd255ac7b09a1490dc70be4506ba29183756788`
-- Chapter 22 non-canon draft: `../drafts/chapter-22.md`, blob `034ab496794594427d8409d03e7c6659d41b6a91`, **4,641 words**
+- Chapter 22 non-canon draft: `../drafts/chapter-22.md`, blob `034ab496794594427d8409d03e7c6659d41b6a91`, **4,716 words**
 - Chapter 22 acceptance review: not created
 - No Chapter 23 prose or mission lock exists
 - No complete remainder-of-Act-III outline exists
