@@ -6,7 +6,8 @@
 - Accepted words: **112,091**
 - Accepted endpoint: **12:18:04 EDT / 21:48:04 IST**
 - Chapter 21 — **The Borrowed Name**: accepted at **4,415 words**, blob `866d4210b7fc808aef48144a91a58280f38fc99c`, review `43-chapter-21-acceptance-review.md` — **ACCEPT**
-- Chapter 22 prose and mission lock: not created
+- Chapter 22 mission lock: `44-chapter-22-mission-lock.md`, blob `9bd255ac7b09a1490dc70be4506ba29183756788`; no Chapter 22 prose exists
+- No Chapter 23 prose or mission lock exists
 - No complete remainder-of-Act-III outline exists
 
 Disposition labels: **B1-REQUIRED**, **B1-PARTIAL / SERIES**, **SERIES**, **MERGED**, **OPTIONAL**.
@@ -33,6 +34,37 @@ Disposition labels: **B1-REQUIRED**, **B1-PARTIAL / SERIES**, **SERIES**, **MERG
 | Six-years-ago Argus link / four-second delay | SERIES / B1-PARTIAL | Chapter 21 ending asks about identity-path relationship; no proof created | Acknowledge without false proof |
 | Medical/legal/relationship aftermath | B1-REQUIRED | Injuries, detention, Price exposure, and separation continue | No convenient recovery or total exoneration |
 
+## Chapter 22 approved planning disposition — non-canon
+
+### Planned resolution or material payoff
+
+- **Borrowed Price identity / initiating request:** establish the continuity-broker or equivalent construction path and exact inherited versus added fields without naming a human constructor from a service field.
+- **Relationship to Elias framed identity / reconstruction:** establish a common Apex-linked identity-construction family or authority-binding path while refusing the same-mechanism-equals-same-actor inference.
+- **Phase B / K-17 / reconstruction:** preserve the accepted failed local commit/zero-write result and establish that the later successful remote reconstruction was distinct and required a separate release act.
+- **Remote-reconstruction responsibility:** cross the personal Vance ceiling only for the later release if source-native operator state and independent camera/witness corroboration align.
+- **Vance consequence:** remove Vance from operational control and place relevant Apex originals under an independent hold.
+- **Chen / Mercer:** require source-accurate preservation and direct-observation choices without converting either into Julie's ally.
+- **Independent counterrecord:** produce a signed, source-separated private record ready for later authenticated public use.
+
+### Planned bounded deferral
+
+- original 02:14 human operator if no separate personally corroborated source exists;
+- Sterling personal command and final consequence;
+- WSS plaintext unless a lawful equivalent is unnecessary after the release record;
+- Tariq physical role;
+- Price final disposition;
+- public narrative fracture itself;
+- medical/legal/relationship aftermath;
+- Julie's final future choice.
+
+### No-retcon rules
+
+- The planned Vance finding applies only to the later remote release event actually corroborated.
+- It does not prove Vance's original deployment keystrokes.
+- It does not prove Sterling's command.
+- Common architecture does not prove common human authorship.
+- No planned fact becomes canon until accepted prose is reviewed and promoted.
+
 ## Current gate
 
-A fresh, separately authorized session may create only the Chapter 22 mission lock. Chapter 22 prose remains unauthorized. No complete remainder outline is authorized.
+A fresh, separately authorized session may draft only the first non-canon version of Chapter 22 from `44-chapter-22-mission-lock.md` after verifying the merged repository state. Chapter 23 prose or planning and a complete remainder outline remain unauthorized.
