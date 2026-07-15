@@ -1,0 +1,70 @@
+- **William Hackett:** remains supporting authority; urgency does not displace Alvarez’s authority or Julie’s proof limits.
+- **Martin Vann:** named LSS compromise-control custodian; no future series function established.
+- **Marisol Vega:** deputy LSS authority for the hold; no future series function established.
+- **Samuel Drennan:** physical carrier under office continuity assignment; knowledge and intent unproved.
+- **Diane Kessler:** office continuity authority; instruction source and operational knowledge unproved.
+- **Marcus Reed / Elias Thorne:** remain offstage in separate guarded medical custody; no recovery or new action.'''
+upsert_marker(CONTROL / '06-character-state-ledger.md', 'CH20_ACCEPTED_STATE', 'Accepted Chapter 20 character-state delta', character_block)
+
+relationship_block = '''- **Julie ↔ Grant:** bounded professional trust strengthens through an independent correction and a shared insistence on the first-line proof ceiling.
+- **Julie ↔ Alvarez:** trust becomes operational and accountable; Alvarez makes the final custody choice under her own authority.
+- **Julie ↔ Hackett:** productive institutional tension; he accepts correction without becoming passive or villainous.
+- **Julie ↔ Drennan/Kessler:** evidence relationship only; Julie refuses to convert proximity, employment, or assignment into command.
+- **Grant ↔ LSS/Vega/Vann:** cooperative but source-limited institutional relationship.
+- No reunion, forgiveness, alliance, or cross-book relationship status is created for Marcus, Elias, Chen, Mercer, Bell, Vann, Vega, Drennan, or Kessler.'''
+upsert_marker(CONTROL / '07-relationship-and-trust-matrix.md', 'CH20_ACCEPTED_STATE', 'Accepted Chapter 20 relationship delta', relationship_block)
+
+evidence_block = '''- `SSO-NS-004` remains closed inside pouch `LSS-P-44091`, secondary container, and seal `LSS-SL-90418` under Martin Vann / Marisol Vega. Exterior-only verification; no operation or transfer.
+- `LSS-CD-187463-01`: narrow office/LSS derivative naming device, exterior state, carrier, assignment interval, Kessler authority, custodians, withheld fields, and proof ceiling.
+- `WSS4-CD-187463-01`: narrow WSS derivative from the local audit/sponsor original; proves the WSS session, serial, sponsor/controller events, signer-state completion, encrypted-block status, and source limits. It does **not** prove Drennan’s physical presence at WSS.
+- Hartwell retains `HWA-LCA-1187`; `HWA-CD-187463-01` remains derivative.
+- Office retains original authorization/assignment materials under legal hold; LSS retains intake/hold original; WSS retains local original; Indian originals remain local; MPD keeps `MPD-901441`–`MPD-901447` sealed and stationary.
+- Drennan carrier custody, Kessler authorization, and the missing instruction source remain separate evidentiary categories.'''
+upsert_marker(CONTROL / '08-evidence-and-chain-of-custody-ledger.md', 'CH20_ACCEPTED_STATE', 'Accepted Chapter 20 evidence/custody delta', evidence_block)
+
+knowledge_block = '''- Julie, Grant, Alvarez, Hackett, Ortiz, and Park know the bounded LSS hold and office/WSS/Hartwell reconciliation within role limits.
+- Drennan knows his own custody interval and transfer facts; the record does not establish operational knowledge.
+- Kessler is identified as office continuity authority; her instruction source and full knowledge remain unknown.
+- Bell/WSS knows its local sponsor/session record and the produced derivative; Bell is not shown to know the larger operation.
+- The public learns none of the lawful contradiction.
+- No actor gains WSS plaintext, Sterling personal command, Tariq physical operation, Vance keystrokes, alternate deployment actor, or remote-reconstruction authorship.'''
+upsert_marker(CONTROL / '09-knowledge-and-information-control-matrix.md', 'CH20_ACCEPTED_STATE', 'Accepted Chapter 20 knowledge delta', knowledge_block)
+
+tech_block = '''- A no-use hold is physical compromise control, not authentication of prior operation.
+- Exterior-only inspection may confirm pouch/case identifiers and closure condition; it may not reveal internal signer state.
+- Prohibited actions remain activation, challenge, connection, mounting, opening, imaging, decryption, rekeying, zeroization, operation, or transfer to MPD/DCIS.
+- Office, LSS, WSS, Hartwell, MPD/DCIS, and Arjun retain separate clock bases and original records.
+- WSS records the remote signer/session and sponsor/controller path; office/LSS records supply the assignment/carrier/authorizer facts. No universal merged file exists.'''
+upsert_marker(CONTROL / '10-technology-and-system-rules.md', 'CH20_ACCEPTED_STATE', 'Accepted Chapter 20 technology delta', tech_block)
+
+authority_block = '''- **LSS / Vega / Vann:** physical custody and no-use control of the closed signer.
+- **DCIS / Alvarez:** receiving responsibility and derivative reconciliation; no physical possession of the signer.
+- **MPD / Ortiz / Park:** continued chest custody, movement control, seals, and camera continuity.
+- **Grant:** examination method and bounded finding.
+- **Hartwell, WSS, Sterling office, Forward Post Arjun:** retain source originals and disclosure limits.
+- **Hackett:** supporting urgency and military/intelligence authority, not custody controller.
+- Privilege/classification claims may delay production but cannot make preserved initiating materials nonexistent.'''
+upsert_marker(CONTROL / '11-organizations-authorities-and-institutional-control.md', 'CH20_ACCEPTED_STATE', 'Accepted Chapter 20 authority delta', authority_block)
+
+location_block = '''- **Primary location:** secure MPD evidence intake, observation alcove, locked common chest, incident-control display.
+- **Sole cutaway:** Legislative Secure Services compromise-control intake with fixed cameras, wall clock, transfer surface, glass control partition, and locker C-7.
+- **Signer location at endpoint:** LSS compromise-control storage under two-person access and seal `LSS-SL-90418`.
+- No broader Senate-office, Hartwell, WSS, Apex, or field geography is opened.
+- Endpoint remains secure MPD evidence intake at 11:26:32 EDT / 20:56:32 IST.'''
+upsert_marker(CONTROL / '12-location-and-security-architecture.md', 'CH20_ACCEPTED_STATE', 'Accepted Chapter 20 location/security delta', location_block)
+
+antagonist_block = '''- Sterling’s public account remains dominant and omits the LSS hold, Drennan, Kessler, and the instruction-source gap.
+- Office-level responsibility strengthens through the continuity exception, but Sterling’s personal possession, knowledge, operation, and command remain unproved.
+- Vance/Apex, Tariq, Northbridge, Bell, Chen, and Mercer receive no new personal-act expansion.
+- The antagonist pressure shifts from a moving device to the initiating instruction and the institutions capable of preserving or withholding it.'''
+upsert_marker(CONTROL / '13-antagonist-objectives-and-conspiracy-model.md', 'CH20_ACCEPTED_STATE', 'Accepted Chapter 20 antagonist-pressure delta', antagonist_block)
+
+public_block = '''**Public narrative:** Sterling’s hostile insider-attack account remains the only public story.
+
+**Lawful private record:** `SSO-NS-004` is under named LSS no-use hold; Drennan carried it under a Kessler-authorized continuity exception; separate WSS, Hartwell, office/LSS, MPD/DCIS, and Indian records survive; the instruction source and Sterling personal command remain unproved.
+
+The private contradiction becomes more durable but is not released, leaked, or adjudicated.'''
+upsert_marker(CONTROL / '14-public-narrative-versus-actual-record.md', 'CH20_ACCEPTED_STATE', 'Accepted Chapter 20 public/private record delta', public_block)
+
+thread_block = '''**Paid off / materially advanced:** current physical custody of `SSO-NS-004`; named no-use hold; Drennan as carrier; Kessler as office continuity authority; assignment interval; fate of the WSS local record; separate office/LSS and WSS derivatives; durable multi-institution counterrecord.
+
