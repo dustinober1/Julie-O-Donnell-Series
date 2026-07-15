@@ -19,20 +19,24 @@ Price is alive, represented, and under bounded DIA administrative review. His au
 
 `SSO-NS-004` remains closed under LSS no-use hold. The seven MPD packages and all source originals remain separately controlled. Julie remains detained and injured; Marcus and Elias remain in separate guarded medical custody. Sterling's hostile account remains dominant.
 
-## Chapter 22 approved planning state
+## Chapter 22 non-canon draft state
 
-- **Working title:** **The Release Record**
+- **Title:** **The Release Record**
 - **Mission lock:** [`44-chapter-22-mission-lock.md`](44-chapter-22-mission-lock.md)
 - **Mission-lock blob:** `9bd255ac7b09a1490dc70be4506ba29183756788`
-- **Status:** Mission locked, undrafted, non-canon
+- **Draft:** [`../drafts/chapter-22.md`](../drafts/chapter-22.md)
+- **Draft blob:** `034ab496794594427d8409d03e7c6659d41b6a91`
+- **Draft words:** **4,641**
+- **Status:** First draft complete; non-canon; formal acceptance review pending
 - **Opening:** **12:18:04 EDT / 21:48:04 IST**, secure MPD evidence intake
-- **Intended endpoint:** **13:12:44 EDT / 22:42:44 IST**, secure MPD evidence intake
-- **Dominant function:** Relate the Price borrowed identity, Elias framed identity, failed K-17 local commit, and successful remote reconstruction at the mechanism and authority-binding levels; establish a separately corroborated later release act and meaningful Vance consequence without proving the original deployment hand or Sterling personal command
-- **POV:** Julie primary; one bounded Sarah Chen cutaway
-- **Target:** **5,000 words**; preferred **4,600–5,400**; hard ceiling **5,800**
-- **Accepted effect:** None
-- **Chapter 22 prose:** not created
-- **Later architecture:** At least one later chapter is required by the ending contract, but no Chapter 23 mission lock or complete remainder outline exists
+- **Endpoint:** **13:12:44 EDT / 22:42:44 IST**, secure MPD evidence intake
+- **POV:** Julie primary; exactly one bounded Sarah Chen cutaway
+- **Structure:** exactly six causal scenes
+- **Accepted effect:** none
+- **Acceptance review:** not created
+- **Later state:** at least one later chapter remains necessary, but no Chapter 23 mission lock or complete remainder outline exists
+
+The draft establishes only draft-state facts. It may not change the accepted manifest, accepted total, accepted endpoint, accepted ledgers, or canon until a separate formal acceptance review issues an explicit verdict and authorizes exact promotion.
 
 ## Control documents
 
@@ -46,8 +50,8 @@ Files `00` through `44` in this directory remain the Book 1 control pack. The ne
 - [43. Chapter 21 Acceptance Review — The Borrowed Name](43-chapter-21-acceptance-review.md)
 - [44. Chapter 22 Mission Lock — The Release Record](44-chapter-22-mission-lock.md)
 
-Cross-book continuity is controlled separately in [`../../../series/recurring-character-ledger.md`](../../../series/recurring-character-ledger.md). No planned Chapter 22 event has been added to that accepted-state ledger.
+Cross-book continuity is controlled separately in [`../../../series/recurring-character-ledger.md`](../../../series/recurring-character-ledger.md). No draft-only Chapter 22 event has been added to that accepted-state ledger.
 
 ## Current production gate
 
-The next separately authorized session may draft only the first non-canon version of Chapter 22 from `44-chapter-22-mission-lock.md` after verifying the merged repository state. Do not draft or plan Chapter 23 and do not create a complete chapter-by-chapter remainder outline.
+The next separately authorized session may perform only the formal Chapter 22 acceptance review against the exact draft and mission lock. Do not draft or plan Chapter 23, create a complete remainder outline, or promote Chapter 22 without an explicit acceptance verdict.
