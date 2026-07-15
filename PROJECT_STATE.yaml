@@ -1,5 +1,5 @@
 project: Julie O'Donnell Series
-schema_version: 9
+schema_version: 10
 last_updated: '2026-07-15'
 
 status_authority:
@@ -61,10 +61,20 @@ active_book:
     active_chapter_drafts: []
   future_prose:
     chapter_22:
-      status: no prose and no mission lock
+      status: mission locked; undrafted; non-canon
+      working_title: The Release Record
+      mission_lock: books/book-01/control/44-chapter-22-mission-lock.md
+      mission_lock_blob_sha: 9bd255ac7b09a1490dc70be4506ba29183756788
+      opening: 12:18:04 EDT / 21:48:04 IST
+      intended_endpoint: 13:12:44 EDT / 22:42:44 IST
+      dominant_function: Relate the Price borrowed identity, Elias framed identity, and successful remote reconstruction at mechanism and authority-binding levels; establish a separately corroborated later release act and meaningful Vance consequence without proving the original deployment hand or Sterling personal command.
+      target_words: 5000
+      preferred_range: 4600-5400
+      hard_ceiling: 5800
       accepted_manuscript_effect: none
+      prose: none
     chapter_23_and_later: undrafted and individually mission unlocked
-    architecture_rule: No complete chapter-by-chapter outline for the remainder of Act III exists or is authorized.
+    architecture_rule: At least one later chapter is required by the ending contract, but no Chapter 23 mission lock or complete chapter-by-chapter remainder-of-Act-III outline exists or is authorized.
 
 planning_controls:
   ending_contract: books/book-01/control/22-book-1-ending-contract.md
@@ -75,6 +85,7 @@ planning_controls:
   chapter_20_acceptance_review: books/book-01/control/41-chapter-20-acceptance-review.md
   chapter_21_mission_lock: books/book-01/control/42-chapter-21-mission-lock.md
   chapter_21_acceptance_review: books/book-01/control/43-chapter-21-acceptance-review.md
+  chapter_22_mission_lock: books/book-01/control/44-chapter-22-mission-lock.md
   series_character_ledger: series/recurring-character-ledger.md
 
 narrative_house_style:
@@ -90,10 +101,11 @@ production_rules:
   - No unaccepted chapter may live under books/book-01/manuscript/.
   - Promotion requires an explicit formal acceptance verdict and synchronized prose, manifest, state, ledger, and validation changes.
   - Protected accepted Chapters 13-21, the Chapter 20 and Chapter 21 mission locks and acceptance reviews, and the accepted manifest remain exact.
-  - Registered authority, request identity, physical possession, physical act, carrier custody, authorization, knowledge, intent, and command remain separate proof categories.
+  - Registered authority, request identity, construction mechanism, physical act, physical custody, carrier assignment, authorization, knowledge, intent, and command remain separate proof categories.
   - A certified derivative never replaces its independently controlled original.
   - A no-use hold preserves state and custody; it does not authenticate prior operation.
-  - Chapter 22 prose and mission lock do not exist.
+  - Chapter 22 mission lock exists only at books/book-01/control/44-chapter-22-mission-lock.md; Chapter 22 prose does not exist.
+  - Chapter 23 prose and mission lock do not exist.
   - No complete chapter-by-chapter remainder-of-Act-III outline exists or is authorized.
   - No draft or revision may imitate or closely emulate the recognizable prose of a living author.
 
@@ -103,4 +115,4 @@ archive:
   uploaded_word_snapshot_active: false
   superseded_status_snapshots: Preserved in Git history; not duplicated as active files.
 
-next_recommended_action: In a fresh, separately authorized session, create only the Chapter 22 mission lock from the accepted Chapter 21 endpoint; do not draft Chapter 22 or create a complete remainder outline.
+next_recommended_action: In a fresh, separately authorized session, draft only the first non-canon version of Chapter 22 from books/book-01/control/44-chapter-22-mission-lock.md after verifying the merged repository state. Do not draft Chapter 23 or create a complete remainder outline.
