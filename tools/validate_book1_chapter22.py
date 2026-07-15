@@ -239,7 +239,7 @@ def validate_chapter22_draft() -> None:
         'MPD-901441` through `MPD-901447',
         'sealed, separate, offline, stationary',
         '`SSO-NS-004` remained closed and unused',
-        'all seven MPD packages remained sealed and stationary',
+        'All seven MPD packages remained sealed and stationary',
         'WSS kept its encrypted message blocks',
         'The later reconstruction',
         'Same mechanism',
