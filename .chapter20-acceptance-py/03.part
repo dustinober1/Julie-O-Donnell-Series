@@ -1,0 +1,111 @@
+`SSO-NS-004` is under a named Legislative Secure Services no-use hold: custodian Martin Vann, deputy authority Marisol Vega, seal `LSS-SL-90418`. Samuel Drennan is the physical carrier and Diane Kessler the office continuity authority for **06:54:00–10:57:18 EDT**. The records do not establish Sterling's personal possession, operation, knowledge, or command, Kessler's instruction source, Drennan's operational knowledge, or WSS plaintext. MPD retains all seven sealed packages; Hartwell, WSS, the office, LSS, and Forward Post Arjun retain their independently controlled originals. Sterling's hostile public account remains dominant.
+
+## Source-of-truth hierarchy
+
+1. [`books/book-01/ACCEPTED_MANUSCRIPT.yaml`](books/book-01/ACCEPTED_MANUSCRIPT.yaml) and the accepted files it lists
+2. [`books/book-01/control/`](books/book-01/control/) for canon controls and approved production planning
+3. [`series/`](series/) for cross-book continuity and recurring-character controls
+4. [`books/book-01/drafts/`](books/book-01/drafts/) for unaccepted prose
+5. [`PROJECT_STATE.yaml`](PROJECT_STATE.yaml) for production status and navigation
+6. [`archive/`](archive/) and Git history for superseded provenance
+
+Permanent validation protects Chapters 13–20, the Chapter 20 mission lock, the Chapter 20 acceptance review, the accepted total and endpoint, and the absence of a duplicate draft or Chapter 21 artifact.
+
+## Current gate
+
+The next authorized production gate is a separate Chapter 21 mission-lock session from the accepted Chapter 20 endpoint. Do not draft Chapter 21 or create a complete remainder outline until that gate is completed.
+'''
+write(ROOT / 'README.md', root_readme)
+
+status = f'''# Book 1 Accepted-Manuscript Status
+
+**Authoritative production state:** [`../../../PROJECT_STATE.yaml`](../../../PROJECT_STATE.yaml)
+
+**Authoritative accepted inventory:** [`../ACCEPTED_MANUSCRIPT.yaml`](../ACCEPTED_MANUSCRIPT.yaml)
+
+## Accepted manuscript
+
+- Prologue and Chapters 1–20
+- Acts I and II complete
+- Act III: Chapters 13–20 accepted
+- Accepted length: **{accepted_total:,} words**
+- Canon endpoint: **11:26:32 EDT / 20:56:32 IST**, secure MPD evidence intake
+- Book 1 status: not publication-ready
+
+## Accepted Chapter 20
+
+- Title: **The Custody Exception**
+- Path: [`chapters/chapter-20.md`](chapters/chapter-20.md)
+- Exact words: **{final_words:,}**
+- Reviewed blob: `{final_blob}`
+- Mission lock: [`../control/40-chapter-20-mission-lock.md`](../control/40-chapter-20-mission-lock.md)
+- Acceptance review: [`../control/41-chapter-20-acceptance-review.md`](../control/41-chapter-20-acceptance-review.md)
+- Verdict: **ACCEPT**
+- Opening: **10:44:12 EDT / 20:14:12 IST**, secure MPD evidence intake
+- Endpoint: **11:26:32 EDT / 20:56:32 IST**, secure MPD evidence intake
+- POV: Julie primary with one bounded Special Agent Leila Grant Legislative Secure Services cutaway
+- Result: named LSS no-use hold; Samuel Drennan physical carrier; Diane Kessler office continuity authority; originals and derivatives remain separate
+- Proof limit: instruction source and Sterling personal command remain unproved; public narrative remains uncorrected
+
+## Draft state
+
+No active Book 1 chapter draft exists. No duplicate Chapter 20 prose copy remains.
+
+## Current gate
+
+Conduct a separate Chapter 21 mission-lock session from the accepted Chapter 20 endpoint. Do not draft Chapter 21 or create a complete remainder outline in advance of that gate.
+'''
+write(BOOK / 'manuscript/STATUS.md', status)
+
+drafts_readme = '''# Book 1 Drafts
+
+No active Book 1 chapter draft exists.
+
+Chapter 20 — **The Custody Exception** — was promoted to `../manuscript/chapters/chapter-20.md` after an explicit **ACCEPT** verdict recorded in `../control/41-chapter-20-acceptance-review.md`.
+
+Do not create a duplicate Chapter 20 copy, alternate/final/latest backup, Chapter 21 prose, Chapter 21 mission lock, or complete chapter-by-chapter remainder-of-Act-III outline outside the next authorized production gate.
+'''
+write(DRAFTS / 'README.md', drafts_readme)
+
+common_state = f'''This Chapter 20 accepted-state block controls any lower historical “current” summary in this file.
+
+- **Accepted canon:** Prologue and Chapters 1–20
+- **Accepted total:** **{accepted_total:,} words**
+- **Accepted Chapter 20:** **The Custody Exception**, {final_words:,} words, blob `{final_blob}`
+- **Accepted endpoint:** **11:26:32 EDT / 20:56:32 IST**, secure MPD evidence intake
+- **Physical signer state:** `SSO-NS-004` under LSS no-use hold; custodian Martin Vann; deputy authority Marisol Vega; seal `LSS-SL-90418`
+- **Responsibility state:** Samuel Drennan is the carrier; Diane Kessler authorized the office continuity exception for **06:54:00–10:57:18 EDT**; instruction source remains unresolved
+- **Custody state:** MPD retains seven sealed stationary packages; Hartwell, WSS-4, the Sterling office, LSS, and Forward Post Arjun retain their originals; derivatives remain source-limited
+- **Proof ceiling:** Sterling personal possession, operation, knowledge, and command remain unproved; WSS plaintext and wider authorship remain unresolved
+- **Public state:** Sterling’s hostile account remains dominant
+- **Future state:** no Chapter 21 prose, mission lock, or complete remainder outline exists'''
+
+upsert_marker(CONTROL / '00-overview.md', 'CH20_ACCEPTED_STATE', 'Chapter 20 accepted overview', common_state)
+upsert_marker(CONTROL / '02-current-project-state.md', 'CH20_ACCEPTED_STATE', 'Chapter 20 accepted project state', common_state)
+
+canon_block = common_state + '''
+
+### Chapter 20 hard canon locks
+
+1. `SSO-NS-004` is physically held by Legislative Secure Services without use or transfer.
+2. Exterior-only verification does not establish internal signer state or prior operation.
+3. Drennan’s carrier custody is distinct from Kessler’s authorization and from the missing instruction source.
+4. `LSS-CD-187463-01`, `WSS4-CD-187463-01`, and `HWA-CD-187463-01` are narrow derivatives and never replace their originals.
+5. WSS establishes the 07:08 remote signer event and sponsor/controller record; it does not independently establish Drennan as the physical WSS carrier.
+6. No Chapter 20 fact proves Sterling’s personal command.'''
+upsert_marker(CONTROL / '04-source-of-truth-canon-locks.md', 'CH20_ACCEPTED_STATE', 'Chapter 20 accepted canon locks', canon_block)
+
+timeline_block = f'''- **10:44:12 EDT / 20:14:12 IST:** Chapter 20 opens at secure MPD evidence intake with LSS refusing federal transfer but reporting the signer located.
+- **10:47:03 EDT:** Alvarez authorizes exterior-only verification and named LSS no-use custody.
+- **10:54:26 EDT:** the closed pouch/case arrives at LSS compromise-control intake.
+- **10:57:18 EDT:** Martin Vann accepts physical custody under Marisol Vega; no-use hold begins.
+- **06:54:00–10:57:18 EDT:** office continuity assignment interval naming Samuel Drennan and Diane Kessler.
+- **11:08:41 EDT:** Grant reports the LSS hold and office derivative to MPD/DCIS.
+- **11:11:06 EDT:** Bell/WSS produces the narrow local-audit derivative while retaining its original.
+- **11:25:48 EDT:** Alvarez records the final custody/proof state.
+- **11:26:32 EDT / 20:56:32 IST:** accepted endpoint at secure MPD evidence intake; signer stationary, instruction source unresolved.'''
+upsert_marker(CONTROL / '05-master-timeline.md', 'CH20_ACCEPTED_STATE', 'Accepted Chapter 20 timeline delta', timeline_block)
+
+character_block = '''- **Julie O’Donnell:** remains detained at secure MPD intake; right wrist/forearm remains braced, swollen, and materially unusable. She protects carrier/authorizer/instruction-source limits and chooses the responsibility chain over immediate possession.
+- **Leila Grant:** conducts the sole LSS cutaway, verifies exterior custody, preserves source limits, and returns the carrier/authorizer reversal to the main line.
+- **Miriam Alvarez:** independently owns the no-use-hold decision and the complete received-incident responsibility.
