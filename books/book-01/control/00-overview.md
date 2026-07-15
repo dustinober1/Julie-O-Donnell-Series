@@ -1,24 +1,29 @@
 # 0. BOOK 1 CONTROL PACK OVERVIEW
 
-<!-- CH22_PLANNING_STATE_START -->
-## Chapter 22 approved planning state
+<!-- CH22_DRAFT_STATE_START -->
+## Chapter 22 non-canon draft state
 
-This non-canon planning block controls any lower historical future-production summary in this file. It does not alter the accepted manuscript.
+This non-canon draft block controls any lower historical future-production summary in this file. It does not alter the accepted manuscript.
 
 - **Accepted baseline remains:** Prologue and Chapters 1–21, **112,091 words**
 - **Accepted endpoint remains:** **12:18:04 EDT / 21:48:04 IST**, secure MPD evidence intake
-- **Working title:** **The Release Record**
+- **Title:** **The Release Record**
 - **Mission lock:** `44-chapter-22-mission-lock.md`
 - **Mission-lock blob:** `9bd255ac7b09a1490dc70be4506ba29183756788`
-- **Planning status:** mission locked, undrafted, non-canon
-- **Planned opening:** **12:18:04 EDT / 21:48:04 IST**, secure MPD evidence intake
-- **Intended endpoint:** **13:12:44 EDT / 22:42:44 IST**, secure MPD evidence intake
+- **Draft:** `../drafts/chapter-22.md`
+- **Draft blob:** `034ab496794594427d8409d03e7c6659d41b6a91`
+- **Draft words:** **4,641**
+- **Draft status:** first draft complete, non-canon, formal acceptance review pending
+- **Opening:** **12:18:04 EDT / 21:48:04 IST**, secure MPD evidence intake
+- **Endpoint:** **13:12:44 EDT / 22:42:44 IST**, secure MPD evidence intake
 - **Dominant function:** relate the Price borrowed identity, Elias framed identity, failed K-17 local commit, and successful remote reconstruction at mechanism and authority-binding levels; establish a separately corroborated later release act and meaningful Vance consequence without proving the original deployment hand or Sterling personal command
-- **POV:** Julie primary; one bounded Sarah Chen cutaway
-- **Word plan:** target **5,000**; preferred **4,600–5,400**; hard ceiling **5,800**
-- **Accepted effect:** none; no Chapter 22 prose exists
+- **POV:** Julie primary; exactly one bounded Sarah Chen cutaway
+- **Structure:** exactly six causal scenes
+- **Word state:** target **5,000**; preferred **4,600–5,400**; hard ceiling **5,800**; actual **4,641**
+- **Accepted effect:** none
+- **Acceptance review:** not created
 - **Later state:** at least one later chapter remains necessary, but no Chapter 23 mission lock or complete remainder outline exists
-<!-- CH22_PLANNING_STATE_END -->
+<!-- CH22_DRAFT_STATE_END -->
 
 <!-- CH21_ACCEPTED_STATE_START -->
 ## Chapter 21 accepted state
@@ -31,10 +36,10 @@ This Chapter 21 accepted-state block controls any lower historical “current”
 - **Accepted endpoint:** **12:18:04 EDT / 21:48:04 IST**, secure MPD evidence intake
 - **Request state:** Price's authentic request was limited to raw-source/source-integrity review; his active authority ended before the later office request; that request inherited his identity/reference and added operational routing without a matching authenticated Price act
 - **Identity state:** a constructed or borrowed identity path is established; the constructor remains unproved
-- **Custody state:** `SSO-NS-004`, all seven MPD packages, and every source original remain untouched and separately controlled
-- **Proof ceiling:** Sterling personal command, Price complete innocence, alternative deployment actor, remote-reconstruction author, and one actor behind every identity path remain unproved
+- **Custody state:** `SSO-NS-004`, all seven MPD packages, and every source original remain untouched and separately controlled in accepted canon
+- **Proof ceiling:** Sterling personal command, Price complete innocence, alternative deployment actor, remote-reconstruction author, and one actor behind every identity path remain unproved in accepted canon
 - **Public state:** Sterling's hostile account remains dominant
-- **Future state:** no Chapter 22 prose or complete remainder outline exists
+- **Future state at acceptance:** Chapter 22 had not yet been drafted; the current non-canon draft is governed by the block above
 <!-- CH21_ACCEPTED_STATE_END -->
 
 <!-- CH20_ACCEPTED_STATE_START -->
@@ -51,7 +56,7 @@ This Chapter 20 accepted-state block controls any lower historical “current”
 - **Custody state:** MPD retains seven sealed stationary packages; Hartwell, WSS-4, the Sterling office, LSS, and Forward Post Arjun retain their originals; derivatives remain source-limited
 - **Proof ceiling:** Sterling personal possession, operation, knowledge, and command remain unproved; WSS plaintext and wider authorship remain unresolved
 - **Public state:** Sterling’s hostile account remains dominant
-- **Future state:** no Chapter 21 prose, mission lock, or complete remainder outline exists
+- **Future state at that snapshot:** no Chapter 21 prose, mission lock, or complete remainder outline existed
 <!-- CH20_ACCEPTED_STATE_END -->
 
 **Control-pack version:** 5.1
@@ -122,4 +127,4 @@ The blocks above supersede this preserved historical snapshot where a lower entr
 
 ## Current production gate
 
-Draft only the first non-canon version of Chapter 22 from `44-chapter-22-mission-lock.md` in a fresh, separately authorized session after verifying the merged repository state. Do not alter accepted prose or the accepted manifest, draft or plan Chapter 23, or create a complete chapter-by-chapter remainder-of-Act-III outline.
+Perform only the formal Chapter 22 acceptance review against `../drafts/chapter-22.md` and `44-chapter-22-mission-lock.md`. Do not alter accepted prose or the accepted manifest, draft or plan Chapter 23, create a complete remainder outline, or promote Chapter 22 without an explicit acceptance verdict.
