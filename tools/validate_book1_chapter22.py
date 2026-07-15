@@ -362,7 +362,7 @@ def validate_changed_file_scope() -> None:
     for line in changed_lines:
         fields = line.split('\t')
         require(len(fields) >= 2, f'unparseable changed-file line: {line}')
-        changed_paths.add(fields[-1])
+        changed_paths.update(fields[1:])
 
     allowed = {
         '.github/workflows/book1-manuscript-validation.yml', 'PROJECT_STATE.yaml', 'README.md',
