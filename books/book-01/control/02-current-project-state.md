@@ -12,14 +12,14 @@ This non-canon draft block controls any lower historical future-production summa
 - **Mission-lock blob:** `9bd255ac7b09a1490dc70be4506ba29183756788`
 - **Draft:** `../drafts/chapter-22.md`
 - **Draft blob:** `034ab496794594427d8409d03e7c6659d41b6a91`
-- **Draft words:** **4,641**
+- **Draft words:** **4,716**
 - **Status:** first draft complete, non-canon, formal acceptance review pending
 - **Opening:** **12:18:04 EDT / 21:48:04 IST**, secure MPD evidence intake
 - **Endpoint:** **13:12:44 EDT / 22:42:44 IST**, secure MPD evidence intake
 - **Dominant function:** relate Price's borrowed identity, Elias's framed identity, the failed K-17 local commit, and the successful remote reconstruction at mechanism and authority-binding levels; establish a separately corroborated later release act and meaningful Vance consequence without proving the original deployment hand or Sterling personal command
 - **POV:** Julie primary; exactly one bounded Sarah Chen cutaway
 - **Structure:** exactly six causal scenes
-- **Word state:** target **5,000**; preferred **4,600–5,400**; hard ceiling **5,800**; actual **4,641**
+- **Word state:** target **5,000**; preferred **4,600–5,400**; hard ceiling **5,800**; actual **4,716**
 - **Accepted effect:** none
 - **Acceptance review:** not created
 - **Chapter 23 and later:** individually mission unlocked; at least one later chapter remains necessary, but no Chapter 23 mission lock or complete remainder outline exists
