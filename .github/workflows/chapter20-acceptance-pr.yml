@@ -20,7 +20,8 @@ jobs:
       - name: Apply reviewed Chapter 20 state
         shell: bash
         run: |
-          python - <<'PY'
+          set +e
+          python - <<'PY' > chapter20-application.log 2>&1
           from pathlib import Path
           import base64
           import gzip
@@ -33,6 +34,12 @@ jobs:
           source = gzip.decompress(base64.b64decode(match.group(1)))
           exec(compile(source, 'chapter20_acceptance_apply.py', 'exec'))
           PY
+          status=$?
+          tail -n 100 chapter20-application.log
+          rm -f chapter20-application.log
+          if [ "$status" -ne 0 ]; then
+            exit "$status"
+          fi
           rm -f .github/workflows/chapter20-acceptance-pr.yml
 
       - name: Commit synchronized acceptance state
