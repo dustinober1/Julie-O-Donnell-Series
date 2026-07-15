@@ -1,5 +1,17 @@
 # 8. EVIDENCE AND CHAIN-OF-CUSTODY LEDGER
 
+<!-- CH21_ACCEPTED_STATE_START -->
+## Accepted Chapter 21 evidence/custody delta
+
+- `SO-NS-REQ-6540`: Sterling-office initiating-request original; remains with the office under preservation/legal hold.
+- `SO-CD-187463-02`: narrow office derivative; preserves request identity/reference, routing fields, clock basis, withheld fields, integrity method, and proof ceiling without replacing the original.
+- `DIA-SAR-PRICE-01`: Price's complete independently retained source-review request original; remains under DIA/subject-controlled retention as established in the chapter.
+- `DIA-AR-PRICE-01`: Price's complete voluntary statement/administrative-review record; includes rejected access and retention history; remains separately controlled.
+- `DCIS-CD-187463-PRICE-01`: Grant/DCIS comparison derivative; preserves the bounded office/DIA comparison and complete authorized event-range result without becoming a master original.
+- Price's request contains no signer, WSS-4, Hartwell, K-17, Phase B, or reconstruction direction; the later office request adds those fields after his authority ended and without a matching authenticated Price act.
+- `SSO-NS-004` remains closed under LSS seal `LSS-SL-90418`; `MPD-901441` through `MPD-901447` remain sealed and stationary; all previously established originals and derivatives remain distinct.
+<!-- CH21_ACCEPTED_STATE_END -->
+
 <!-- CH20_ACCEPTED_STATE_START -->
 ## Accepted Chapter 20 evidence/custody delta
 

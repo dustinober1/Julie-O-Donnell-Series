@@ -1,5 +1,18 @@
 # 9. KNOWLEDGE AND INFORMATION CONTROL MATRIX
 
+<!-- CH21_ACCEPTED_STATE_START -->
+## Accepted Chapter 21 knowledge delta
+
+- **Julie / Grant / Alvarez:** know the bounded office/DIA comparison, Price's authentic request and authority chronology, the inherited identity/reference, later-added routing, and the absence of a matching authenticated Price act in the complete authorized range.
+- **Hackett:** receives only the support-level facts necessary for preservation and authority coordination.
+- **Ortiz / Park:** retain physical-custody knowledge; they do not automatically receive every protected office or DIA field.
+- **Price:** knows his own request, suspension chronology, statement, rejected access attempt, and the bounded existence of a later request using his identity/reference.
+- **Kessler:** knows only the request presented to her and her authorization process. **Drennan:** knows only assignment/carrier acts.
+- **Chen:** may receive preservation categories but not Price's source record. **Mercer / Bell:** receive no automatic Chapter 21 knowledge.
+- **Marcus / Elias:** receive no Chapter 21 briefing. **Public:** learns nothing new.
+- No actor gains Sterling personal command, request constructor identity, WSS plaintext, alternate deployment actor, remote-reconstruction author, or universal innocence/guilt.
+<!-- CH21_ACCEPTED_STATE_END -->
+
 <!-- CH20_ACCEPTED_STATE_START -->
 ## Accepted Chapter 20 knowledge delta
 

@@ -45,10 +45,10 @@ jobs:
           echo "BOOK1_DIFF_BASE=$BASE_SHA" >> "$GITHUB_ENV"
 
       - name: Count accepted manuscript
-        run: python tools/count_book1_words.py --expect 107676
+        run: python tools/count_book1_words.py --expect 112091
 
-      - name: Validate accepted Chapter 20 and Chapter 21 non-canon draft state
-        run: python tools/validate_book1_chapter20.py
+      - name: Validate accepted Chapter 21 state
+        run: python tools/validate_book1_chapter21.py
 
       - name: Diff hygiene
         run: git diff --check "$BOOK1_DIFF_BASE" --

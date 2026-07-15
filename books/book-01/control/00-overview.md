@@ -1,5 +1,22 @@
 # 0. BOOK 1 CONTROL PACK OVERVIEW
 
+<!-- CH21_ACCEPTED_STATE_START -->
+## Chapter 21 accepted state
+
+This Chapter 21 accepted-state block controls any lower historical “current” summary in this file.
+
+- **Accepted canon:** Prologue and Chapters 1–21
+- **Accepted total:** **112,091 words**
+- **Accepted Chapter 21:** **The Borrowed Name**, 4,415 words, blob `866d4210b7fc808aef48144a91a58280f38fc99c`
+- **Accepted endpoint:** **12:18:04 EDT / 21:48:04 IST**, secure MPD evidence intake
+- **Request state:** Price's authentic request was limited to raw-source/source-integrity review; his active authority ended before the later office request; that request inherited his identity/reference and added operational routing without a matching authenticated Price act
+- **Identity state:** a constructed or borrowed identity path is established; the constructor remains unproved
+- **Custody state:** `SSO-NS-004`, all seven MPD packages, and every source original remain untouched and separately controlled
+- **Proof ceiling:** Sterling personal command, Price complete innocence, alternative deployment actor, remote-reconstruction author, and one actor behind every identity path remain unproved
+- **Public state:** Sterling's hostile account remains dominant
+- **Future state:** no Chapter 22 prose, Chapter 22 mission lock, or complete remainder outline exists
+<!-- CH21_ACCEPTED_STATE_END -->
+
 <!-- CH20_ACCEPTED_STATE_START -->
 ## Chapter 20 accepted overview
 

@@ -1,5 +1,15 @@
 # 13. ANTAGONIST OBJECTIVES AND CONSPIRACY MODEL
 
+<!-- CH21_ACCEPTED_STATE_START -->
+## Accepted Chapter 21 antagonist-pressure delta
+
+- Sterling's public account remains dominant while the private record gains a constructed request-identity mechanism.
+- Office-level responsibility remains real, but Price's name no longer supplies a convenient human author and Sterling's personal command remains unproved.
+- The continuity request inherited Price's identity/reference after his authority ended and added operational routing; the constructor remains unknown.
+- Vance, Tariq, Kessler, Drennan, Bell, Northbridge, Chen, and Mercer receive no new private-act or conspiracy expansion.
+- Antagonist pressure shifts toward preservation of continuity-broker, identity-mapping, request-construction, source-inheritance, authority-binding, release-event, and remote-reconstruction records.
+<!-- CH21_ACCEPTED_STATE_END -->
+
 <!-- CH20_ACCEPTED_STATE_START -->
 ## Accepted Chapter 20 antagonist-pressure delta
 

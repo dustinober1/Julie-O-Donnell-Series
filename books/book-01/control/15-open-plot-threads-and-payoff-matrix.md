@@ -1,5 +1,15 @@
 # 15. OPEN PLOT THREADS AND PAYOFF MATRIX
 
+<!-- CH21_ACCEPTED_STATE_START -->
+## Accepted Chapter 21 thread delta
+
+**Paid or materially advanced:** Leland Price's disappearance/status; authentic source-review request; end of active authority; borrowed/inherited request identity; later-added operational routing; no matching authenticated Price act; complete Price statement and rejected-access/retention history; lawful independent office/DIA comparison; constructed identity path.
+
+**Still open:** request constructor; whether the Price path connects to Elias's framed deployment identity and the successful remote reconstruction; WSS plaintext or lawful equivalent; Sterling/Vance/Tariq personal acts; alternative original-deployment actor; remote-reconstruction author; Bell/Chen/Mercer outcomes; Vance consequence; public fracture; legal/medical/relationship aftermath; final Book 1 resolution.
+
+**No-retcon rule:** Price's authentic request, the later office request, the subject statement, and the DCIS comparison remain independently controlled records. A name/reference match is not a human act. No future chapter may convert Price into a universal innocent, conspirator, or trusted ally without new accepted evidence.
+<!-- CH21_ACCEPTED_STATE_END -->
+
 <!-- CH20_ACCEPTED_STATE_START -->
 ## Accepted Chapter 20 thread delta
 

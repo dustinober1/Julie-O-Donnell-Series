@@ -1,5 +1,19 @@
 # 6. CHARACTER STATE LEDGER
 
+<!-- CH21_ACCEPTED_STATE_START -->
+## Accepted Chapter 21 character-state delta
+
+- **Julie O'Donnell:** remains detained, restrained, and materially unable to use her right wrist/forearm. She refuses the easy defendant, preserves Price's complete adverse and favorable record, and treats the Price/Elias/reconstruction relationship as a question rather than a conclusion.
+- **Leland Price:** first accepted on-page appearance; alive, represented, frightened, professionally exposed, and in bounded DIA administrative review. His original source-review request is authenticated; his active authority ended before the later office request; no matching later act is found. He is neither cleared nor converted into Julie's ally.
+- **Leila Grant:** independently controls the office/DIA comparison method and proof language.
+- **Miriam Alvarez:** issues named preservation demands and owns the receiving decision.
+- **William Hackett:** remains supporting authority; receives only role-limited information and no power to erase Alvarez's or Grant's boundaries.
+- **Diane Kessler / Samuel Drennan:** remain authorizer and carrier respectively; no new knowledge, intent, or conspiracy finding.
+- **Marcus Reed / Elias Thorne:** remain offstage in separate guarded medical custody with no recovery, briefing, or new action.
+- **Sarah Chen:** receives preservation categories only, not Price's source record; no alliance or defection.
+- **Senator Sterling:** public/network antagonist state continues; his hostile account remains dominant and personal command remains unproved.
+<!-- CH21_ACCEPTED_STATE_END -->
+
 <!-- CH20_ACCEPTED_STATE_START -->
 ## Accepted Chapter 20 character-state delta
 
