@@ -1,5 +1,17 @@
 # 10. TECHNOLOGY AND SYSTEM RULES
 
+<!-- CH21_ACCEPTED_STATE_START -->
+## Accepted Chapter 21 technology/attribution delta
+
+- A requestor-name field or inherited identity reference does not prove human authorship.
+- A request reference does not prove the operational instruction contained in a later object.
+- A continuity service may inherit an identity without proving who invoked the service.
+- Absence of a matching event matters only because the complete authorized event range is established and authenticated.
+- Price's active authority ended before the later office request; that chronology narrows attribution without identifying the constructor.
+- Registered authority, physical possession, carrier custody, authorization, knowledge, and command remain separate.
+- `SSO-NS-004` is not operated; no sealed media is opened; no WSS plaintext is decrypted; no generic hacking, omniscient database, or universal clock is introduced.
+<!-- CH21_ACCEPTED_STATE_END -->
+
 <!-- CH20_ACCEPTED_STATE_START -->
 ## Accepted Chapter 20 technology delta
 

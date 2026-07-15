@@ -1,5 +1,18 @@
 # 11. ORGANIZATIONS, AUTHORITIES, AND INSTITUTIONAL CONTROL
 
+<!-- CH21_ACCEPTED_STATE_START -->
+## Accepted Chapter 21 authority delta
+
+- **DCIS / Alvarez:** receiving responsibility and preservation authority; owns the named demands and does not adjudicate guilt or innocence.
+- **Grant:** controls the comparison method and bounded finding.
+- **Sterling office:** retains its initiating-request original and may assert privilege/classification; those claims do not erase preservation or the independently authenticated comparison.
+- **DIA / Price administrative-review custodians:** retain Price's original request and statement under bounded review/counsel conditions.
+- **MPD / Ortiz / Park:** retain physical chest custody, seals, movement control, and camera continuity.
+- **LSS / Vann / Vega:** retain closed signer custody and no-use control.
+- **Hackett:** supporting authority only; no universal control over evidence, Price, or the verdict.
+- No institution is treated as universally corrupt, and no privilege or automated service is treated as guilt.
+<!-- CH21_ACCEPTED_STATE_END -->
+
 <!-- CH20_ACCEPTED_STATE_START -->
 ## Accepted Chapter 20 authority delta
 

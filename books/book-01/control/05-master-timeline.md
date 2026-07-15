@@ -1,5 +1,16 @@
 # 5. MASTER TIMELINE
 
+<!-- CH21_ACCEPTED_STATE_START -->
+## Accepted Chapter 21 timeline delta
+
+- **11:26:32 EDT / 20:56:32 IST:** Chapter opens at secure MPD evidence intake with Julie detained, the signer under LSS no-use hold, and all seven MPD packages stationary.
+- **During the office production sequence:** `SO-NS-REQ-6540` and office derivative `SO-CD-187463-02` isolate the initiating request and its later operational fields without moving an original.
+- **During the sole Price cutaway:** Price, represented and under bounded administrative review, voluntarily authenticates his complete source-review request and statement; DIA retains `DIA-SAR-PRICE-01` and `DIA-AR-PRICE-01`.
+- **During the office/DIA comparison:** Price's active authority is shown to end before the later office request; the later request inherits his identity/reference and adds WSS-4, Hartwell, K-17, Phase B, and reconstruction routing absent from his original; no matching authenticated Price act appears in the complete authorized range.
+- **Before endpoint:** Alvarez issues named preservation demands for continuity-broker, identity-mapping, request-construction, source-inheritance, authority-binding, release-event, and related records. Julie refuses signer operation, public leak, premature accusation, or manufactured innocence.
+- **12:18:04 EDT / 21:48:04 IST:** accepted endpoint at secure MPD evidence intake; constructed identity path established; constructor unproved; Sterling public account unchanged.
+<!-- CH21_ACCEPTED_STATE_END -->
+
 <!-- CH20_ACCEPTED_STATE_START -->
 ## Accepted Chapter 20 timeline delta
 

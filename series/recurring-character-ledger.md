@@ -1,5 +1,20 @@
 # SERIES RECURRING-CHARACTER LEDGER
 
+<!-- CH21_ACCEPTED_STATE_START -->
+## Chapter 21 accepted recurring-character delta
+
+- **Julie O'Donnell — CORE:** most recent accepted appearance advances to Chapter 21 at **12:18:04 EDT** in secure MPD evidence intake. She remains detained and physically limited, protects complete adverse/favorable source records, refuses a convenient defendant or manufactured innocence, and leads through bounded uncertainty. Tier and future function remain unchanged.
+- **Leland Price — RECURRING:** first accepted on-page appearance and most recent accepted appearance advance to Chapter 21. He is alive, represented, frightened, professionally exposed, and under bounded DIA administrative review. His authentic raw-source/source-integrity request and complete statement are preserved; his active authority ended before the later office request; no matching later act is authenticated. He is not cleared, immunized, declared a whistleblower, or made Julie's trusted ally. Tier remains **RECURRING**.
+- **Leila Grant:** independent examiner role advances through the office/DIA comparison. No automatic future-book tier or advocacy role is created.
+- **Miriam Alvarez:** named receiver/preservation authority issues the Chapter 21 demands. No universal jurisdiction or adjudicative role is created.
+- **William Hackett — RECURRING:** remains supporting and correctable; receives no unrestricted Price source record and no exonerating authority.
+- **Marcus Reed / Elias Thorne — CORE:** remain offstage in separate guarded medical custody; no recovery, briefing, or new agency event occurs. Elias's framed original identity and voluntary later acts remain distinct.
+- **Diane Kessler / Samuel Drennan:** remain bounded Book 1 authorizer/carrier figures; no recurring tier, new knowledge, or conspiracy finding is created.
+- **Sarah Chen — RECURRING:** receives only preservation-category pressure; no Price record, warning, alliance, or final choice.
+- **Senator Sterling — NETWORK:** public/network antagonist pressure continues; his account remains dominant and personal command remains unproved.
+- **Daniel Mercer / Nora Bell:** no accepted Chapter 21 action or knowledge expansion.
+<!-- CH21_ACCEPTED_STATE_END -->
+
 <!-- CH19_ACCEPTED_STATE_START -->
 ## Chapter 19 accepted recurring-character delta
 

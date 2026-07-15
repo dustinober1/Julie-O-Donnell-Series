@@ -1,18 +1,9 @@
 # Book 1 Drafts
 
-One active Book 1 chapter draft exists:
+No active Book 1 chapter draft exists.
 
-- Chapter 21 — **The Borrowed Name**
-- Path: [`chapter-21.md`](chapter-21.md)
-- Exact words: **4,415**
-- Exact blob: `866d4210b7fc808aef48144a91a58280f38fc99c`
-- Mission lock: [`../control/42-chapter-21-mission-lock.md`](../control/42-chapter-21-mission-lock.md)
-- Mission-lock blob: `6c92a5764e5c74d88a8325511ae2b0a86b30b356`
-- Status: **first draft, non-canon, pending a separate acceptance review**
-- Accepted-manuscript effect: **none**
+Chapter 21 — **The Borrowed Name** — was accepted without prose repair and promoted only to [`../manuscript/chapters/chapter-21.md`](../manuscript/chapters/chapter-21.md). Its exact accepted blob is `866d4210b7fc808aef48144a91a58280f38fc99c` and its exact accepted word count is **4,415**. The controlling acceptance review is [`../control/43-chapter-21-acceptance-review.md`](../control/43-chapter-21-acceptance-review.md) — **ACCEPT**.
 
-Accepted canon remains the Prologue and Chapters 1–20 at **107,676 words**, ending at **11:26:32 EDT / 20:56:32 IST** in secure MPD evidence intake. Chapter 20 — **The Custody Exception** — remains accepted only at `../manuscript/chapters/chapter-20.md`.
+Accepted canon is the Prologue and Chapters 1–21 at **112,091 words**, ending at **12:18:04 EDT / 21:48:04 IST** in secure MPD evidence intake.
 
-No alternate, final, latest, backup, or duplicate Chapter 21 prose is authorized. No Chapter 21 acceptance review exists. Chapter 22 and later remain undrafted and individually mission unlocked. No complete chapter-by-chapter remainder-of-Act-III outline exists.
-
-The next gate is a separate Chapter 21 acceptance-review session.
+No alternate, final, latest, backup, duplicate, or draft Chapter 21 prose is authorized. Chapter 22 prose and mission lock do not exist. Chapter 22 and later remain individually mission unlocked. No complete chapter-by-chapter remainder-of-Act-III outline exists.

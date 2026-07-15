@@ -1,5 +1,17 @@
 # 7. RELATIONSHIP AND TRUST MATRIX
 
+<!-- CH21_ACCEPTED_STATE_START -->
+## Accepted Chapter 21 relationship delta
+
+- **Julie ↔ Price:** first direct contact is a bounded evidentiary interview, not trust, alliance, forgiveness, immunity, or recruitment. Julie protects both the record adverse to Price and the limit that prevents accusation from a name field.
+- **Julie ↔ Grant:** professional trust strengthens through independent method and willingness to preserve an inconvenient proof ceiling.
+- **Julie ↔ Alvarez:** operational trust remains accountable; Alvarez independently owns preservation demands.
+- **Julie ↔ Hackett:** bounded institutional tension continues; urgency does not transfer authority or proof language.
+- **Price ↔ DIA/counsel:** represented, administratively exposed, and dependent on a complete retained record rather than a convenient whistleblower label.
+- **Julie ↔ Marcus / Elias:** no reunion or new communication; their prior records shape the final question while they remain medically separated.
+- No uncomplicated alliance, romantic movement, forgiveness, or future-book guarantee is created.
+<!-- CH21_ACCEPTED_STATE_END -->
+
 <!-- CH20_ACCEPTED_STATE_START -->
 ## Accepted Chapter 20 relationship delta
 

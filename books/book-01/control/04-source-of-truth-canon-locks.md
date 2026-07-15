@@ -1,5 +1,24 @@
 # 4. SOURCE-OF-TRUTH CANON LOCKS
 
+<!-- CH21_ACCEPTED_STATE_START -->
+## Chapter 21 accepted canon locks
+
+This block controls any lower historical “current” summary in this file.
+
+1. Chapter 21 — **The Borrowed Name** — is accepted canon at 4,415 words, blob `866d4210b7fc808aef48144a91a58280f38fc99c`.
+2. Price is alive, represented, and in bounded DIA administrative review; Julie had not met him before this chapter.
+3. Price's authenticated original concerns raw-source/source-integrity review and contains no signer assignment, WSS-4 instruction, Hartwell authentication, K-17 action, Phase B authorization, or reconstruction direction.
+4. Price's active authority ended before the later office request.
+5. The later request inherited or reused Price's identity/request reference and added operational routing.
+6. The complete authorized event range contains no matching authenticated Price act.
+7. The record establishes a constructed identity path, not the constructor.
+8. Kessler remains the authorizer; Drennan remains the carrier; neither role becomes the initiating source.
+9. Price's complete original, complete statement, rejected access attempt, and expedited-retention state remain preserved, including material adverse to him.
+10. `SSO-NS-004` and `MPD-901441` through `MPD-901447` remain closed, unused, sealed, separate, offline, and stationary.
+11. Request identity, physical act, registered authority, carrier custody, authorization, knowledge, intent, and command remain separate proof categories.
+12. Sterling personal command, Price universal innocence, Vance construction, WSS plaintext, alternate deployment actor, remote-reconstruction author, and a complete six-years-ago/current link remain unproved.
+<!-- CH21_ACCEPTED_STATE_END -->
+
 <!-- CH20_ACCEPTED_STATE_START -->
 ## Chapter 20 accepted canon locks
 

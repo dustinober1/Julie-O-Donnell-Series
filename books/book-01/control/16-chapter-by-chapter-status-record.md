@@ -4,9 +4,9 @@ The accepted-manuscript inventory in `../ACCEPTED_MANUSCRIPT.yaml` controls acce
 
 ## Accepted inventory
 
-- Prologue and Chapters 1–20 are accepted.
-- Accepted total: **107,676 words**.
-- Accepted endpoint: **11:26:32 EDT / 20:56:32 IST**, secure MPD evidence intake.
+- Prologue and Chapters 1–21 are accepted.
+- Accepted total: **112,091 words**.
+- Accepted endpoint: **12:18:04 EDT / 21:48:04 IST**, secure MPD evidence intake.
 
 ## Accepted Act III
 
@@ -20,6 +20,7 @@ The accepted-manuscript inventory in `../ACCEPTED_MANUSCRIPT.yaml` controls acce
 | 18 | The Local Record | 4,478 | 09:12:52 EDT / 18:42:52 IST | 10:01:12 EDT / 19:31:12 IST | Accepted |
 | 19 | The Name on the Record | 5,393 | 10:01:12 EDT / 19:31:12 IST | 10:44:12 EDT / 20:14:12 IST | Accepted |
 | 20 | The Custody Exception | 4,307 | 10:44:12 EDT / 20:14:12 IST | 11:26:32 EDT / 20:56:32 IST | Accepted |
+| 21 | The Borrowed Name | 4,415 | 11:26:32 EDT / 20:56:32 IST | 12:18:04 EDT / 21:48:04 IST | Accepted |
 
 ## Protected reviewed blobs
 
@@ -31,36 +32,24 @@ The accepted-manuscript inventory in `../ACCEPTED_MANUSCRIPT.yaml` controls acce
 - Chapter 18: `6f5873d6e975ec74646af152aad22ea84545fc01`
 - Chapter 19: `1c7cc22fc7c480cb247efa1f6a2c0d0b1e1b1baf`
 - Chapter 20: `0bd12f43beeef48d5e897ee1fa78a333bd23099b`
+- Chapter 21: `866d4210b7fc808aef48144a91a58280f38fc99c`
 
-## Chapter 20 — accepted
+## Chapter 21 — accepted
 
-- Mission lock: `40-chapter-20-mission-lock.md`
-- Acceptance review: `41-chapter-20-acceptance-review.md`
-- Verdict: **ACCEPT**
-- Result: named LSS no-use hold, Drennan carrier, Kessler office continuity authority, and a transformed objective focused on the instruction source.
-- No duplicate draft remains.
-
-## Chapter 21 — first draft, non-canon
-
-- Working title: **The Borrowed Name**.
-- Mission lock: `42-chapter-21-mission-lock.md`.
-- Exact lock blob: `6c92a5764e5c74d88a8325511ae2b0a86b30b356`.
-- Draft path: `../drafts/chapter-21.md`.
-- Exact draft words: **4,415**.
-- Exact draft blob: `866d4210b7fc808aef48144a91a58280f38fc99c`.
-- Status: **first draft exists, non-canon, pending a separate acceptance review**.
-- Accepted-manuscript effect: **none**.
-- Opening: **11:26:32 EDT / 20:56:32 IST**, secure MPD evidence intake.
-- Draft endpoint: **12:18:04 EDT / 21:48:04 IST**, secure MPD evidence intake.
+- Mission lock: `42-chapter-21-mission-lock.md` — blob `6c92a5764e5c74d88a8325511ae2b0a86b30b356`.
+- Acceptance review: `43-chapter-21-acceptance-review.md` — **ACCEPT**.
+- Accepted path: `../manuscript/chapters/chapter-21.md`.
+- Exact words: **4,415**.
+- Exact reviewed blob: `866d4210b7fc808aef48144a91a58280f38fc99c`.
 - Midpoint: Price's source-review request is authentic and limited; the later office request inherits his identity/reference after his authority ended and adds operational routing without a matching authenticated Price act.
-- Decision: Julie preserves Price's complete record and refuses a premature accusation or leak.
-- Result: a constructed identity path is established; the constructor remains unproved.
-- Acceptance review: not created.
+- Decision: Julie preserves Price's complete record, refuses accusation from a name field, refuses manufactured innocence, refuses signer operation, and refuses an unauthenticated leak.
+- Result: constructed identity path established; constructor remains unproved.
+- No duplicate draft remains.
 
 ## Chapter 22 and later
 
-Chapter 22 and later remain undrafted and individually mission unlocked. No complete chapter-by-chapter remainder-of-Act-III outline exists.
+Chapter 22 prose and mission lock do not exist. Chapter 22 and later remain undrafted and individually mission unlocked. No complete chapter-by-chapter remainder-of-Act-III outline exists.
 
 ## Current gate
 
-Conduct a separate Chapter 21 acceptance review. Do not create Chapter 22 prose, a Chapter 22 mission lock, or a complete remainder outline in that session.
+A fresh, separately authorized session may create only the Chapter 22 mission lock. It may not draft Chapter 22 or create a complete remainder outline.

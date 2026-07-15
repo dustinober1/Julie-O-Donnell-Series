@@ -1,5 +1,15 @@
 # 14. PUBLIC NARRATIVE VERSUS ACTUAL RECORD
 
+<!-- CH21_ACCEPTED_STATE_START -->
+## Accepted Chapter 21 public/private record delta
+
+**Public narrative:** Sterling's hostile insider-attack account remains the only public story. No Chapter 21 leak, press statement, charge, exoneration, or public correction occurs.
+
+**Lawful private record:** Price's complete authentic source-review request and statement survive separately from the later office request. His authority ended before the later request, which inherited his identity/reference and added operational routing without a matching authenticated Price act. The record establishes a constructed identity path but not its constructor.
+
+The private contradiction becomes more durable and more difficult to reduce to one named defendant. It does not establish Price's complete innocence or Sterling's personal command.
+<!-- CH21_ACCEPTED_STATE_END -->
+
 <!-- CH20_ACCEPTED_STATE_START -->
 ## Accepted Chapter 20 public/private record delta
 

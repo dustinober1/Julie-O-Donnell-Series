@@ -1,5 +1,15 @@
 # 12. LOCATION AND SECURITY ARCHITECTURE
 
+<!-- CH21_ACCEPTED_STATE_START -->
+## Accepted Chapter 21 location/security delta
+
+- **Primary location:** secure MPD evidence intake, Julie's fixed-restraint position, camera-covered intake area, locked common chest, and incident-control displays.
+- **Sole cutaway:** bounded DIA Administrative Review Unit setting used for Price's represented voluntary authentication; no unrestricted DIA, Apex, WSS, Hartwell, Senate-office, or field access is created.
+- **Signer location:** unchanged under LSS no-use hold and seal `LSS-SL-90418`.
+- **Package location:** `MPD-901441` through `MPD-901447` remain in the locked common chest.
+- **Endpoint:** secure MPD evidence intake at **12:18:04 EDT / 21:48:04 IST**.
+<!-- CH21_ACCEPTED_STATE_END -->
+
 <!-- CH20_ACCEPTED_STATE_START -->
 ## Accepted Chapter 20 location/security delta
 

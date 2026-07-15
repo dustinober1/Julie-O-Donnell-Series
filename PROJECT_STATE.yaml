@@ -1,6 +1,6 @@
 project: Julie O'Donnell Series
-schema_version: 8
-last_updated: '2026-07-14'
+schema_version: 9
+last_updated: '2026-07-15'
 
 status_authority:
   file: PROJECT_STATE.yaml
@@ -23,66 +23,47 @@ active_book:
     minimum: 100000
     planning_target: 112500
     maximum: 125000
-    accepted_words: 107676
-    words_to_planning_target: 4824
-    maximum_words_remaining: 17324
-    accepted_act_iii_words: 44021
+    accepted_words: 112091
+    words_to_planning_target: 409
+    maximum_words_remaining: 12909
+    accepted_act_iii_words: 48436
     count_method: UTF-8 Markdown whitespace-delimited tokens; tools/count_book1_words.py
   accepted_canon:
     manifest: books/book-01/ACCEPTED_MANUSCRIPT.yaml
     prologue: true
-    chapters: 1-20
+    chapters: 1-21
     acts:
       act_i: complete
       act_ii: complete
-      act_iii: Chapters 13-20 accepted
-    accepted_manuscript_words: 107676
+      act_iii: Chapters 13-21 accepted
+    accepted_manuscript_words: 112091
     endpoint:
-      chapter: 20
-      eastern: 11:26:32 EDT
-      india: 20:56:32 IST
+      chapter: 21
+      eastern: 12:18:04 EDT
+      india: 21:48:04 IST
       location: secure MPD evidence intake
-      status: SSO-NS-004 is under LSS no-use hold with Martin Vann under Marisol Vega; MPD retains all seven packages; Hartwell, WSS, office, LSS, and Indian originals remain with source custodians; Sterling's public account remains dominant.
-    chapter_20:
-      title: The Custody Exception
-      path: books/book-01/manuscript/chapters/chapter-20.md
-      verdict: ACCEPT
-      accepted_words: 4307
-      reviewed_blob_sha: 0bd12f43beeef48d5e897ee1fa78a333bd23099b
-      mission_lock: books/book-01/control/40-chapter-20-mission-lock.md
-      mission_lock_blob_sha: c074e4f6f9ec9cddcbc701e2923f34b3082ede5a
-      acceptance_review: books/book-01/control/41-chapter-20-acceptance-review.md
-      opening: 10:44:12 EDT / 20:14:12 IST
-      endpoint: 11:26:32 EDT / 20:56:32 IST
-      pov: Julie primary; one bounded Special Agent Leila Grant Legislative Secure Services cutaway
-      established: Named LSS no-use hold; Samuel Drennan carrier; Diane Kessler office continuity authority; 06:54:00-10:57:18 EDT assignment interval; separate office/LSS, WSS, Hartwell, MPD, and Indian originals.
-      deferred: Instruction behind the continuity exception; Sterling personal command; WSS plaintext; alternative deployment actor; remote-reconstruction author; legal/public resolution.
-  drafts:
-    active_chapter_drafts:
-      - chapter: 21
-        title: The Borrowed Name
-        path: books/book-01/drafts/chapter-21.md
-        words: 4415
-        blob_sha: 866d4210b7fc808aef48144a91a58280f38fc99c
-        status: first draft, non-canon, pending separate acceptance review
-        accepted_manuscript_effect: none
-  future_prose:
+      status: Price's authentic source-review request is separately preserved from the later office request that inherited his identity/reference and added operational routing; the request constructor remains unproved; SSO-NS-004 and all seven MPD packages remain untouched; Sterling's public account remains dominant.
     chapter_21:
-      status: first draft exists, non-canon, pending separate acceptance review
-      working_title: The Borrowed Name
-      draft_path: books/book-01/drafts/chapter-21.md
-      draft_words: 4415
-      draft_blob_sha: 866d4210b7fc808aef48144a91a58280f38fc99c
+      title: The Borrowed Name
+      path: books/book-01/manuscript/chapters/chapter-21.md
+      verdict: ACCEPT
+      accepted_words: 4415
+      reviewed_blob_sha: 866d4210b7fc808aef48144a91a58280f38fc99c
       mission_lock: books/book-01/control/42-chapter-21-mission-lock.md
       mission_lock_blob_sha: 6c92a5764e5c74d88a8325511ae2b0a86b30b356
-      opening: 11:26:32 EDT / 20:56:32 IST at secure MPD evidence intake
-      draft_endpoint: 12:18:04 EDT / 21:48:04 IST at secure MPD evidence intake
-      dominant_function: Authenticate the initiating continuity request and determine whether Leland Price created it or whether his suspended identity was borrowed.
-      planning_target_words: 4650
-      preferred_range_words: 4300-5100
-      hard_ceiling_words: 5400
+      acceptance_review: books/book-01/control/43-chapter-21-acceptance-review.md
+      opening: 11:26:32 EDT / 20:56:32 IST
+      endpoint: 12:18:04 EDT / 21:48:04 IST
+      pov: Julie primary; one bounded Leland Price cutaway
+      established: Price alive, represented, and in bounded administrative review; authentic raw-source/source-integrity request; active authority ended before later office request; later request inherited identity/reference and added routing; no matching authenticated Price act; constructed identity path established.
+      deferred: Request constructor; Sterling personal command; WSS plaintext; alternative original-deployment actor; remote-reconstruction author; legal/public resolution.
+  drafts:
+    active_chapter_drafts: []
+  future_prose:
+    chapter_22:
+      status: no prose and no mission lock
       accepted_manuscript_effect: none
-    chapter_22_and_later: undrafted and individually mission unlocked
+    chapter_23_and_later: undrafted and individually mission unlocked
     architecture_rule: No complete chapter-by-chapter outline for the remainder of Act III exists or is authorized.
 
 planning_controls:
@@ -93,7 +74,7 @@ planning_controls:
   chapter_20_mission_lock: books/book-01/control/40-chapter-20-mission-lock.md
   chapter_20_acceptance_review: books/book-01/control/41-chapter-20-acceptance-review.md
   chapter_21_mission_lock: books/book-01/control/42-chapter-21-mission-lock.md
-  chapter_21_acceptance_review: not created
+  chapter_21_acceptance_review: books/book-01/control/43-chapter-21-acceptance-review.md
   series_character_ledger: series/recurring-character-ledger.md
 
 narrative_house_style:
@@ -108,13 +89,11 @@ production_rules:
   - Accepted manuscript prose outranks every summary, plan, tracker, draft, and external snapshot.
   - No unaccepted chapter may live under books/book-01/manuscript/.
   - Promotion requires an explicit formal acceptance verdict and synchronized prose, manifest, state, ledger, and validation changes.
-  - Protected accepted Chapters 13-20, the Chapter 20 mission lock, the Chapter 20 acceptance review, and the accepted manifest remain unchanged.
-  - Chapter 21 mission lock blob 6c92a5764e5c74d88a8325511ae2b0a86b30b356 remains the approved non-canon planning control.
-  - Chapter 21 draft blob 866d4210b7fc808aef48144a91a58280f38fc99c at books/book-01/drafts/chapter-21.md is non-canon and pending a separate acceptance review.
-  - Registered authority, physical possession, carrier custody, authorization, knowledge, intent, request identity, physical act, and command remain separate proof categories.
+  - Protected accepted Chapters 13-21, the Chapter 20 and Chapter 21 mission locks and acceptance reviews, and the accepted manifest remain exact.
+  - Registered authority, request identity, physical possession, physical act, carrier custody, authorization, knowledge, intent, and command remain separate proof categories.
   - A certified derivative never replaces its independently controlled original.
   - A no-use hold preserves state and custody; it does not authenticate prior operation.
-  - Chapter 22 and later prose and mission locks do not exist.
+  - Chapter 22 prose and mission lock do not exist.
   - No complete chapter-by-chapter remainder-of-Act-III outline exists or is authorized.
   - No draft or revision may imitate or closely emulate the recognizable prose of a living author.
 
@@ -124,4 +103,4 @@ archive:
   uploaded_word_snapshot_active: false
   superseded_status_snapshots: Preserved in Git history; not duplicated as active files.
 
-next_recommended_action: Conduct a separate Chapter 21 acceptance-review session against books/book-01/control/42-chapter-21-mission-lock.md and books/book-01/drafts/chapter-21.md; do not draft Chapter 22 or create a complete remainder outline.
+next_recommended_action: In a fresh, separately authorized session, create only the Chapter 22 mission lock from the accepted Chapter 21 endpoint; do not draft Chapter 22 or create a complete remainder outline.
