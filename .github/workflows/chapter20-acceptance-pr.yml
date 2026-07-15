@@ -26,19 +26,12 @@ jobs:
           set +e
           python - <<'PY' > chapter20-application.log 2>&1
           from pathlib import Path
-          import base64
-          import gzip
-          import re
 
-          workflow = Path('.github/workflows/chapter20-acceptance-apply.yml').read_text(encoding='utf-8')
-          match = re.search(r'payload\s*=\s*"(.*?)"\s*\n\s*source\s*=', workflow, re.S)
-          if not match:
-              raise SystemExit('embedded Chapter 20 acceptance payload not found')
-          payload = ''.join(match.group(1).split())
-          invalid = sorted(set(payload) - set('ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/='))
-          if invalid:
-              raise SystemExit(f'embedded payload contains invalid characters: {invalid!r}; length={len(payload)}')
-          source = gzip.decompress(base64.b64decode(payload, validate=True))
+          parts = sorted(Path('.chapter20-acceptance-py').glob('*.part'))
+          if [p.name for p in parts] != [f'{i:02d}.part' for i in range(9)]:
+              raise SystemExit(f'Chapter 20 acceptance script parts incomplete: {[p.name for p in parts]}')
+          source = ''.join(p.read_text(encoding='utf-8') for p in parts)
+          compile(source, 'chapter20_acceptance_apply.py', 'exec')
           exec(compile(source, 'chapter20_acceptance_apply.py', 'exec'))
           PY
           status=$?
@@ -47,6 +40,7 @@ jobs:
           if [ "$status" -ne 0 ]; then
             exit "$status"
           fi
+          rm -rf .chapter20-acceptance-py .chapter20-acceptance
           rm -f .github/workflows/chapter20-acceptance-pr.yml
 
       - name: Commit synchronized acceptance state
