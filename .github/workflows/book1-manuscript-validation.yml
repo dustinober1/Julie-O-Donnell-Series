@@ -47,7 +47,7 @@ jobs:
       - name: Count accepted manuscript
         run: python tools/count_book1_words.py --expect 107676
 
-      - name: Validate accepted Chapter 20 and Chapter 21 mission-lock state
+      - name: Validate accepted Chapter 20 and Chapter 21 non-canon draft state
         run: python tools/validate_book1_chapter20.py
 
       - name: Diff hygiene

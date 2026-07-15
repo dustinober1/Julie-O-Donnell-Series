@@ -38,24 +38,23 @@ Space remains for the instruction source, WSS plaintext or lawful equivalent whe
 
 No complete chapter-by-chapter remainder outline is created here.
 
-## Chapter 21 planning budget
+## Chapter 21 draft budget
 
-Chapter 21 — **The Borrowed Name** — is mission locked by `42-chapter-21-mission-lock.md`, exact blob `6c92a5764e5c74d88a8325511ae2b0a86b30b356`. It remains undrafted, non-canon, and has no accepted-manuscript effect.
+Chapter 21 — **The Borrowed Name** — is mission locked by `42-chapter-21-mission-lock.md`, exact blob `6c92a5764e5c74d88a8325511ae2b0a86b30b356`.
 
+- Draft path: `../drafts/chapter-21.md`
+- Exact draft words: **4,415**
+- Exact draft blob: `866d4210b7fc808aef48144a91a58280f38fc99c`
+- Status: first draft exists, non-canon, pending a separate acceptance review
 - Planning target: **4,650 words**
 - Preferred range: **4,300–5,100 words**
 - Hard ceiling: **5,400 words**
+- Accepted-manuscript effect: **none**
 
-If a later accepted Chapter 21 lands at the planning target:
+The draft is **235 words below** the planning target, inside the preferred range, and **985 words below** the hard ceiling. A later acceptance decision may revise the prose; no projected accepted total is treated as canon before formal promotion.
 
-| Projected measure | Words |
-|---|---:|
-| Projected accepted total | **112,326** |
-| Distance below planning target | **174** |
-| Remaining before maximum | **12,674** |
-
-The target supports a lawful production conflict, one bounded Price cutaway, a source comparison, a midpoint identity reversal, and Julie’s consequential choice without padding. The remaining climax, public fracture, consequences, stabilization, and ending must still fit inside the maximum. Chapter 22 and later remain individually mission unlocked and undrafted.
+The draft supports a lawful production conflict, one bounded Price cutaway, a source comparison, a midpoint identity reversal, and Julie’s consequential choice without padding. The remaining climax, public fracture, consequences, stabilization, and ending must still fit inside the maximum. Chapter 22 and later remain individually mission unlocked and undrafted.
 
 ## Current gate
 
-Draft one first non-canon Chapter 21 version from the approved mission lock. Do not create a Chapter 21 acceptance review, Chapter 22 artifact, or complete remainder outline in that drafting session.
+Conduct a separate Chapter 21 acceptance review. Do not create a Chapter 22 artifact or complete remainder outline in that session.
