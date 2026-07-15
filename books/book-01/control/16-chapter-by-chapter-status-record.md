@@ -53,13 +53,13 @@ The accepted-manuscript inventory in `../ACCEPTED_MANUSCRIPT.yaml` controls acce
 - Exact mission-lock blob: `9bd255ac7b09a1490dc70be4506ba29183756788`.
 - Draft path: `../drafts/chapter-22.md`.
 - Exact draft blob: `034ab496794594427d8409d03e7c6659d41b6a91`.
-- Exact draft words: **4,641**.
+- Exact draft words: **4,716**.
 - Opening: **12:18:04 EDT / 21:48:04 IST**, secure MPD evidence intake.
 - Endpoint: **13:12:44 EDT / 22:42:44 IST**, secure MPD evidence intake.
 - Dominant function: relate Price's borrowed identity, Elias's framed identity, the failed K-17 local commit, and the later successful remote reconstruction at the mechanism and authority-binding levels; establish a separately corroborated later release act and meaningful Vance consequence without proving the original deployment hand or Sterling personal command.
 - POV: Julie primary with exactly one bounded Sarah Chen cutaway.
 - Structure: exactly six causal scenes.
-- Word target: **5,000**; preferred **4,600–5,400**; hard ceiling **5,800**; actual **4,641**.
+- Word target: **5,000**; preferred **4,600–5,400**; hard ceiling **5,800**; actual **4,716**.
 - Accepted effect: none.
 - Acceptance review: not created.
 - Promotion: not authorized.
