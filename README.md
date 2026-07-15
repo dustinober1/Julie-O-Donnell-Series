@@ -17,7 +17,7 @@ Repository for the Julie O'Donnell contemporary geopolitical techno-thriller / m
 - Chapter 22 mission lock: [`books/book-01/control/44-chapter-22-mission-lock.md`](books/book-01/control/44-chapter-22-mission-lock.md) — **The Release Record**, blob `9bd255ac7b09a1490dc70be4506ba29183756788`
 - Chapter 22 non-canon draft: [`books/book-01/drafts/chapter-22.md`](books/book-01/drafts/chapter-22.md)
 - Chapter 22 draft blob: `034ab496794594427d8409d03e7c6659d41b6a91`
-- Chapter 22 draft words: **4,641**
+- Chapter 22 draft words: **4,716**
 - Chapter 22 opening: **12:18:04 EDT / 21:48:04 IST**, secure MPD evidence intake
 - Chapter 22 endpoint: **13:12:44 EDT / 22:42:44 IST**, secure MPD evidence intake
 - Chapter 22 POV: Julie primary with exactly one bounded Sarah Chen cutaway
