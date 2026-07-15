@@ -1,0 +1,73 @@
+require(not list(root.rglob('*chapter20*apply*')), 'temporary Chapter 20 apply helper remains')
+for artifact in ['TODO', 'DRAFTING NOTE', 'ALTERNATE VERSION', 'PLACEHOLDER']:
+    require(artifact not in text20, f'Chapter 20 drafting artifact remains: {{artifact}}')
+'''
+
+validator = f'''name: Book 1 Manuscript Validation
+
+on:
+  pull_request:
+    paths:
+      - "PROJECT_STATE.yaml"
+      - "README.md"
+      - "books/book-01/**"
+      - "series/**"
+      - "tools/**"
+      - ".github/workflows/book1-manuscript-validation.yml"
+  push:
+    branches: [main]
+    paths:
+      - "PROJECT_STATE.yaml"
+      - "README.md"
+      - "books/book-01/**"
+      - "series/**"
+      - "tools/**"
+      - ".github/workflows/book1-manuscript-validation.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Count accepted manuscript
+        run: python tools/count_book1_words.py --expect {accepted_total}
+
+      - name: Validate accepted Chapter 20 state
+        shell: bash
+        run: |
+{ textwrap.indent("python - <<'PY'\n" + validator_script + "PY\n", '          ') }
+      - name: Diff hygiene
+        run: git diff --check
+'''
+write(ROOT / '.github/workflows/book1-manuscript-validation.yml', validator)
+
+# The Chapter 20 accepted state creates no genuine cross-book tier or future-function change.
+# series/recurring-character-ledger.md is intentionally left unchanged.
+
+# Final local validation before commit.
+require(len(final_path.read_text(encoding='utf-8').split()) == final_words, 'final count drift')
+require(git_blob(final_path) == final_blob, 'final blob drift')
+require(not draft.exists(), 'draft removal failed')
+require(not list(BOOK.rglob('chapter-21.md')), 'Chapter 21 prose created')
+require(not list(CONTROL.glob('*chapter-21-mission-lock*.md')), 'Chapter 21 mission lock created')
+subprocess.check_call(['python', 'tools/count_book1_words.py', '--expect', str(accepted_total)])
+subprocess.check_call(['git', 'diff', '--check'])
+
+# Remove the one-time application workflow from the final branch state.
+temp_workflow = ROOT / '.github/workflows/chapter20-acceptance-apply.yml'
+require(temp_workflow.exists(), 'temporary workflow missing before self-removal')
+temp_workflow.unlink()
+
+print(f'FINAL_WORDS={final_words}')
+print(f'FINAL_BLOB={final_blob}')
+print(f'ACCEPTED_TOTAL={accepted_total}')
