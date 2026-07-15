@@ -31,7 +31,7 @@ The review read the following repository material in full or, where the task aut
 - `books/book-01/control/40-chapter-20-mission-lock.md`
 - `books/book-01/control/41-chapter-20-acceptance-review.md`
 - current materially relevant sections of control files `00`, `02`, `04`–`16`, `18`, `20`, and `22`–`24`, plus `books/book-01/control/README.md`
-- `PROJECT_STATE.yaml`, root `README.md`, `books/book-01/ACCEPTED_MANUSCRIPT.yaml`, `books/book-01/manuscript/STATUS.md`, and `books/book-01/drafts/README.md`
+- `PROJECT_STATE.yaml`, root `README.md`, `books/book-01/README.md`, `books/book-01/ACCEPTED_MANUSCRIPT.yaml`, `books/book-01/manuscript/STATUS.md`, and `books/book-01/drafts/README.md`
 - `series/recurring-character-ledger.md`
 - `docs/Julie_ODonnell_Narrative_House_Style_v2.md`, `v2_1.md`, and `v2_2.md`
 - `.github/workflows/book1-manuscript-validation.yml`
@@ -87,7 +87,9 @@ Julie, Grant, and Alvarez receive only the bounded office/DIA comparison availab
 
 Alvarez owns the preservation demands and receiving responsibility. Grant controls the comparison method and proof language. DIA and office custodians retain their originals and disclosure boundaries. Counsel representation, classification, privilege, retention, and administrative review create friction without becoming automatic guilt or innocence.
 
-Julie makes the consequential decision required by the mission: preserve Price's complete original and complete voluntary statement, including material that leaves him professionally exposed; refuse to edit him into innocence; refuse to accuse him from a name field; refuse to accuse Kessler, Drennan, Vance, or Sterling without the missing act; refuse to use `SSO-NS-004`; and refuse a public leak that would outrun authentication. Price remains a represented, bounded witness rather than a trusted ally or convenient whistleblower archetype.
+Medical constraints remain active rather than decorative: Julie's fixed restraint and unusable right wrist/forearm alter every physical action available to her; Marcus remains on four liters of oxygen at 92–93 percent saturation; Elias remains separately guarded; and no recovery, reunion, briefing, or technical act is manufactured.
+
+Julie makes the consequential decision required by the mission: preserve Price's complete original and complete voluntary statement, including material that leaves him professionally exposed; refuse to edit him into innocence; refuse to accuse him from a name field; refuse to accuse Kessler, Drennan, Vance, or Sterling without the missing act; refuse to use `SSO-NS-004`; and refuse a public leak that would outrun authentication. Price remains a represented, frightened, bounded witness rather than a trusted ally or convenient whistleblower archetype. Julie's emotional movement is expressed through disciplined leadership: she accepts an incomplete human answer and protects the uncertainty she would once have experienced only as failure.
 
 The cost remains active: Julie is detained, Price remains professionally exposed, the office retains privilege and classification arguments, Sterling's account remains publicly dominant, and the record gains a mechanism rather than a satisfying human defendant.
 
