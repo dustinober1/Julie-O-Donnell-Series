@@ -20,8 +20,8 @@
 10. Record EDT and IST together when cross-border state is affected.
 11. Update injuries only after accepted treatment and elapsed time.
 12. Record every accepted transfer with time, place, transferor, recipient, seal, authority, and witness.
-13. Keep the case, board, recovery cartridge, Partitions A/B, WSS original, Hartwell original, office original, LSS original/physical signer, Price originals, Indian originals, MPD packages, and derivatives distinct.
-14. Request identity, registered authority, physical act, physical custody, carrier assignment, authorization, knowledge, intent, and command are separate proof categories.
+13. Keep the case, board, recovery cartridge, Partitions A/B, WSS original, Hartwell original, office original, LSS original/physical signer, Price originals, Indian originals, Apex originals, government product originals, MPD packages, and derivatives distinct.
+14. Request identity, construction mechanism, authority binding, release act, registered authority, physical act, physical custody, carrier assignment, authorization, knowledge, intent, and command are separate proof categories.
 15. A certified derivative never replaces an original.
 16. A no-use hold preserves state/custody and does not authenticate prior operation.
 17. Never invent incomplete, excluded, encrypted, unavailable, privileged, or unexamined contents.
@@ -48,10 +48,23 @@
 - Chapter 21 prose exists only at `../manuscript/chapters/chapter-21.md`; no draft remains.
 - Chapter 21 mission lock remains `6c92a5764e5c74d88a8325511ae2b0a86b30b356`.
 - Chapter 21 acceptance review is `43-chapter-21-acceptance-review.md` with explicit **ACCEPT**.
-- No Chapter 22 prose, mission lock, or complete remainder outline exists.
 
-Permanent validation protects exact accepted Chapters 13–21 blobs/counts, exact total and endpoint, exact accepted-manifest blob, Chapter 20 and Chapter 21 mission locks/reviews, exactly one Chapter 21 manuscript file and no draft, no Chapter 22 artifact, no remainder outline, the complete historical forbidden-temporary-path list, synchronized status and recurring-character state, and full base-to-head `git diff --check`.
+## Chapter 22 planning maintenance record
+
+- Chapter 22 mission lock exists only at `44-chapter-22-mission-lock.md`.
+- Exact mission-lock blob: `9bd255ac7b09a1490dc70be4506ba29183756788`.
+- Working title: **The Release Record**.
+- Planning opening: **12:18:04 EDT / 21:48:04 IST**.
+- Intended endpoint: **13:12:44 EDT / 22:42:44 IST**.
+- Word target: **5,000**; preferred **4,600–5,400**; hard ceiling **5,800**.
+- Planning status: mission locked, undrafted, non-canon.
+- Accepted manuscript, manifest, total, endpoint, character state, and recurring-character ledger remain unchanged.
+- Chapter 22 prose and draft do not exist.
+- Chapter 23 prose and mission lock do not exist.
+- No complete chapter-by-chapter remainder outline exists.
+
+Permanent validation protects exact accepted Chapters 13–21 blobs/counts, exact total and endpoint, exact accepted-manifest blob, Chapter 20 and Chapter 21 mission locks/reviews, exactly one Chapter 22 mission lock at the exact protected blob, no Chapter 22 prose or draft, no Chapter 23 prose or mission lock, no complete remainder outline, the complete historical forbidden-temporary-path list, synchronized non-canon planning state, and full base-to-head `git diff --check`.
 
 ## Current maintenance gate
 
-In a fresh, separately authorized session, create only the Chapter 22 mission lock. Do not draft Chapter 22 or create a complete remainder outline.
+In a fresh, separately authorized session, draft only the first non-canon version of Chapter 22 from `44-chapter-22-mission-lock.md` after verifying the merged repository state. Do not draft or plan Chapter 23 and do not create a complete remainder outline.
