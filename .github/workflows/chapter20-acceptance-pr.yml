@@ -36,7 +36,7 @@ jobs:
           exec(compile(source, 'chapter20_acceptance_apply.py', 'exec'))
           PY
           status=$?
-          tail -n 100 chapter20-application.log
+          tail -n 20 chapter20-application.log
           rm -f chapter20-application.log
           if [ "$status" -ne 0 ]; then
             exit "$status"
@@ -53,4 +53,9 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
           git commit -m "Accept and synchronize Chapter 20 [chapter20-acceptance-applied]"
-          git push -q origin HEAD:agent/chapter-20-acceptance-review
+          set +e
+          git push origin HEAD:agent/chapter-20-acceptance-review > chapter20-push.log 2>&1
+          status=$?
+          cat chapter20-push.log
+          rm -f chapter20-push.log
+          exit "$status"
