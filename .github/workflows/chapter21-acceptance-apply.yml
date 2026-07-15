@@ -65,9 +65,26 @@ jobs:
       - name: Commit accepted Chapter 21 state
         shell: bash
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A
-          git diff --cached --check
-          git commit -m "Accept Chapter 21 — The Borrowed Name"
-          git push origin HEAD:agent/chapter-21-acceptance
+          set +e
+          {
+            git checkout HEAD -- .github/workflows/chapter21-acceptance-apply.yml
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add -A
+            git diff --cached --check
+            git commit -m "Accept Chapter 21 — The Borrowed Name"
+            git push origin HEAD:agent/chapter-21-acceptance
+          } > /tmp/chapter21_acceptance_commit.log 2>&1
+          status=$?
+          if [ "$status" -ne 0 ]; then
+            cat /tmp/chapter21_acceptance_commit.log
+            exit "$status"
+          fi
+      - name: Upload commit diagnostic
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: chapter21-acceptance-commit-diagnostic
+          path: /tmp/chapter21_acceptance_commit.log
+          if-no-files-found: error
+          retention-days: 1
