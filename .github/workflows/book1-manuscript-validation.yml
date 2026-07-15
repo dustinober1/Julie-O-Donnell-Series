@@ -1,23 +1,10 @@
 name: Book 1 Manuscript Validation
 
 on:
-  pull_request:
-    paths:
-      - "PROJECT_STATE.yaml"
-      - "README.md"
-      - "books/book-01/**"
-      - "series/**"
-      - "tools/**"
-      - ".github/workflows/book1-manuscript-validation.yml"
   push:
     branches: [main]
-    paths:
-      - "PROJECT_STATE.yaml"
-      - "README.md"
-      - "books/book-01/**"
-      - "series/**"
-      - "tools/**"
-      - ".github/workflows/book1-manuscript-validation.yml"
+  pull_request:
+    branches: [main]
 
 permissions:
   contents: read
@@ -26,29 +13,12 @@ jobs:
   validate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout validation target
-        shell: bash
-        env:
-          GH_TOKEN: ${{ github.token }}
-          PR_HEAD_REF: ${{ github.head_ref }}
-          BASE_SHA: ${{ github.event.pull_request.base.sha || github.event.before }}
-        run: |
-          rm -rf ./* ./.git
-          ref_name="$GITHUB_REF_NAME"
-          if [ "$GITHUB_EVENT_NAME" = "pull_request" ]; then
-            ref_name="$PR_HEAD_REF"
-          fi
-          git clone -q --depth 50 --branch "$ref_name" "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" .
-          if ! git cat-file -e "${BASE_SHA}^{commit}" 2>/dev/null; then
-            git fetch -q origin "$BASE_SHA" --depth=1
-          fi
-          echo "BOOK1_DIFF_BASE=$BASE_SHA" >> "$GITHUB_ENV"
-
-      - name: Count accepted manuscript
-        run: python tools/count_book1_words.py --expect 112091
-
-      - name: Validate accepted Chapter 21 state and non-canon Chapter 22 draft
-        run: python tools/validate_book1_chapter22.py
-
-      - name: Diff hygiene
-        run: git diff --check "$BOOK1_DIFF_BASE" --
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Count accepted Book 1 words (expect 116,807)
+        run: python3 tools/count_book1_words.py --expect 116807
+      - name: Validate accepted Book 1 through Chapter 22
+        run: python3 tools/validate_book1_chapter22.py
+      - name: Diff hygiene against authorized Chapter 22 baseline
+        run: git diff --check 3ed760050f7e74ad152d0f46ede7db16164030b0 --

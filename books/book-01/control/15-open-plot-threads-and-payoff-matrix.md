@@ -1,149 +1,35 @@
 # 15. OPEN PLOT THREADS AND PAYOFF MATRIX
 
-<!-- CH22_PLANNING_STATE_START -->
-## Chapter 22 approved thread plan — non-canon
+Disposition labels: **B1-REQUIRED**, **B1-PARTIAL / SERIES**, **SERIES**, **PAID**, **MERGED**, **OPTIONAL**.
 
-**Planned dominant payoff:** establish the mechanism-level relationship among Price's borrowed request identity, Elias's framed deployment identity, the failed K-17 local commit, and the later successful remote reconstruction; separate construction from operational release; cross the personal Vance ceiling only for a separately corroborated later release act; remove Vance from operational control while preserving the original-deployment and Sterling-command limits.
+| Thread | Disposition | Accepted state after Chapter 22 | Remaining requirement / lock |
+|---|---|---|---|
+| Price authentic request | PAID materially | Complete request, authority end, statement, rejection, and later inherited path preserved separately | Final Price personal/professional disposition remains |
+| Human request constructor | B1-PARTIAL / SERIES | Mechanism and added fields established; human constructor absent from source | Do not invent; resolve only with accepted evidence or bind as carryover |
+| Elias framed original identity | PAID materially | Physical board contradicts ordinary original use; later voluntary acts preserved | Legal/agency aftermath remains |
+| Relationship between Price/Elias paths | PAID materially | Common construction family and `APX-DIR-0019` binding established | Common mechanism is not common human authorship |
+| K-17 local commit | PAID materially | Final authentication failed; commit did not execute; zero writes | Preserve independent Arjun records and no-fire/abort chain |
+| Later remote reconstruction | PAID materially | Separate successful release and government acceptance established | Do not collapse into local commit or original deployment |
+| Vance later-release responsibility | PAID materially | Personal later-release participation established and corroborated | Does not prove original deployment keystrokes or sole architecture |
+| Vance consequence | PAID materially | Removed from operational release/security/source-custody authority pending review | Employment/criminal/upstream consequence may continue |
+| Chen preservation choice | PAID materially | Source-native originals preserved; professional exposure accepted | No alliance; aftermath/testimony remains |
+| Mercer witness choice | PAID materially | Direct-observation/contemporaneous-command record preserved | No expanded inference; aftermath/testimony remains |
+| Independent authenticated counterrecord | PAID materially | Signed source-separated private reconciliation survives outside Vance control | Must be used visibly and lawfully later |
+| Sterling public account | B1-REQUIRED | Still dominant | Authenticated visible fracture required |
+| Sterling personal command | B1-PARTIAL / SERIES | Office/device responsibility remains; personal command unproved | Do not convert office authority into personal hand/intent |
+| Tariq physical role | B1-PARTIAL / SERIES | Registered field authority only | Physical presence/operation remains unproved |
+| WSS plaintext | B1-PARTIAL / SERIES | Encrypted blocks unavailable | Do not invent; use only if later lawful accepted access makes it necessary |
+| Marcus correction and consequence | B1-REQUIRED | Complete correction preserved; physically separated | Medical, institutional, and relationship aftermath required |
+| Elias agency/legal aftermath | B1-REQUIRED | Voluntary later acts and framing distinction preserved | Resolve without innocence/immunity convenience |
+| Price / Bell / Chen / Mercer aftermath | B1-REQUIRED | Records and choices preserved | Bound professional/legal consequences before ending |
+| Julie future role | B1-REQUIRED | Leadership through bounded proof established | Active deliberate choice required |
+| Six-years-ago network/four-second record | SERIES / B1-PARTIAL | Thematic and architectural link remains | Bind deliberate carryover if not resolved in Book 1 |
+| Sharma/Qureshi international thread | B1-PARTIAL / SERIES | Independent local record affects proof and outcome | Preserve autonomy; future contact must be earned |
 
-**Planned final choices:** Chen preserves the source-native release record rather than a consolidated Apex narrative; Mercer attests only to direct observation or contemporaneous command; Julie chooses a narrower durable Vance finding over a broader unsupported accusation.
+## Current ending pressure
 
-**Still deliberately open after the planned endpoint:** authenticated public fracture; Sterling personal command and final consequence; the original 02:14 human operator if still unavailable; Price, Marcus, Elias, legal, medical, relationship, and Julie future-role aftermath.
+Chapter 22 completes the final major private proof-and-consequence movement. Book 1 remains incomplete until the public record fractures, immediate aftermath is stabilized, and Julie chooses her future role.
 
-**No-retcon rule:** common identity-construction architecture does not prove a common human actor. A personally corroborated later Vance release act does not prove his original deployment keystrokes or Sterling's command. This planning block creates no canon.
-<!-- CH22_PLANNING_STATE_END -->
+## Production lock
 
-<!-- CH21_ACCEPTED_STATE_START -->
-## Accepted Chapter 21 thread delta
-
-**Paid or materially advanced:** Leland Price's disappearance/status; authentic source-review request; end of active authority; borrowed/inherited request identity; later-added operational routing; no matching authenticated Price act; complete Price statement and rejected-access/retention history; lawful independent office/DIA comparison; constructed identity path.
-
-**Still open:** request constructor; whether the Price path connects to Elias's framed deployment identity and the successful remote reconstruction; WSS plaintext or lawful equivalent; Sterling/Vance/Tariq personal acts; alternative original-deployment actor; remote-reconstruction author; Bell/Chen/Mercer outcomes; Vance consequence; public fracture; legal/medical/relationship aftermath; final Book 1 resolution.
-
-**No-retcon rule:** Price's authentic request, the later office request, the subject statement, and the DCIS comparison remain independently controlled records. A name/reference match is not a human act. No future chapter may convert Price into a universal innocent, conspirator, or trusted ally without new accepted evidence.
-<!-- CH21_ACCEPTED_STATE_END -->
-
-<!-- CH20_ACCEPTED_STATE_START -->
-## Accepted Chapter 20 thread delta
-
-**Paid off / materially advanced:** current physical custody of `SSO-NS-004`; named no-use hold; Drennan as carrier; Kessler as office continuity authority; assignment interval; fate of the WSS local record; separate office/LSS and WSS derivatives; durable multi-institution counterrecord.
-
-**Still open:** instruction source behind the continuity exception; WSS plaintext or lawful equivalent; Sterling personal command; alternative deployment actor; remote-reconstruction author; Vance/Tariq personal acts; Price, Chen, Mercer, Bell, medical/legal aftermath; authenticated public fracture and final Book 1 resolution.
-
-**No-retcon rule:** WSS session facts, Hartwell case/challenge facts, and office/LSS assignment facts align by serial and interval but remain independently sourced.
-<!-- CH20_ACCEPTED_STATE_END -->
-
-<!-- CH19_ACCEPTED_STATE_START -->
-## Chapter 19 accepted thread delta
-
-**Advanced/paid:** named federal receiver; Washington–field reconnection; no-fire consequence reaching Julie; Hartwell exact serial; office-to-Hartwell institutional custody chain; Chen’s exact preservation categories; preservation/recovery demand for `SSO-NS-004`.
-
-**Still open:** who authorized the signer’s departure; current physical custodian/location; office custody log and presenter/receiver identities; WSS-4 local-audit production and plaintext; Sterling’s personal role; Vance’s upstream direction/personal keystrokes; Tariq’s physical role; alternate deployment actor; remote-reconstruction author; public correction; legal and medical outcomes.
-
-**No-retcon rule:** office registration, physical custody, knowledge, and command remain separate proof steps.
-<!-- CH19_ACCEPTED_STATE_END -->
-
-| Thread | First appearance | Most recent development | Current status / reader knowledge | Julie’s knowledge | Unknown / likely payoff range | Risk if ignored |
-|---|---|---|---|---|---|---|
-| Who held SSO-NS-004 at WSS-4? | Ch. 10 metadata; explicit Ch. 12 | Chapter 13 preserves WSS-4 uncertainty while advancing the Hartwell carrier stream | Registered to Sterling’s office; WSS-4 holder unseen | Same | Address through the Hartwell custody chain; do not invent retroactive certainty | Evidence overclaim |
-| Who will hold it at Hartwell? | Ch. 12 | Chapter 13 observes a compact case and three-person stream at 07:46 | Route narrowed; holder unseen | Knows the observed route and same uncertainty | Chapter 14 must lock the exact presentation/custody problem | Central objective collapses |
-| Encrypted message content | Ch. 12 | Three blocks captured | Still encrypted | Still encrypted | Act III or later forensic payoff | Artificial omniscience if ignored |
-| What is Phase B? | Ch. 10 schedule | Chapter 13 reaches 07:46 with the 07:49 deadline unchanged | Unknown action | Unknown | Immediate Act III field/briefing reveal | Stakes remain abstract |
-| Has Tariq’s team reached K-17? | Ch. 8 | Chapter 13 adds no field evidence | Access still unknown | Unknown | K-17 cutaway, recovered record, or later field evidence | False continuity |
-| Purpose of Masking Window Two | Ch. 12 | Chapter 13 preserves the 07:48–07:54 window without defining purpose | Strongly linked to second manipulation | Suspects masking | Near-term Act III reveal and execution test | Deadline lacks payoff |
-| Pending Argus source-reconstruction profile | Ch. 12 | Status pending | Exact purpose unknown | Suspects another manipulation | Act III technical reveal | Overpowered tech or vague threat |
-| What must occur at Hartwell? | Ch. 12 | Chapter 13 opens the challenge at 07:46 with a three-person stream | Challenge active; exact signer presentation remains unseen | Knows timing, route, and limits | Chapter 14 carries the exact presentation question | Act III lacks concrete action |
-| Independently verifiable proof | Ch. 10 | Chapter 13 stages garage, traffic, private, police, and Hartwell records without acquiring them | Potential corroboration exists; access, independence, and custody unverified | Knows physical custodian is missing | Independent witness, authenticated records, and durable custody remain later payoff | Endless evidence escalation |
-| Sterling’s exact command role | Ch. 10 | Chapter 13 converges the office/device route on Hartwell | Office link direct, personal role unproved | Same | Act III or climax through custody, content, testimony, or command evidence | Politician becomes generic villain |
-| Northbridge’s full role | Ch. 10 | WSS hosted live session | Operational suite implicated; staff knowledge divided | Same | Bell/leadership/audit payoff | Entire institution unfairly blamed |
-| What Vance knew about Tariq | Ch. 10 onward | Chapter 13 adds no direct Vance–Tariq communication | Unknown | Unknown | Decrypted record, routing evidence, or testimony | Antagonist chain remains assumed |
-| What happened to Leland Price? | Ch. 1–2 | Extension suspended | Unknown | Knows only suspension | Mid/late Act III witness or unresolved | Dropped setup |
-| Will Chen disclose Vance’s directives? | Ch. 8–11 | Chapter 13 shows her maintaining capture/evidence boundaries | Not yet disclosed | Knows preservation claim | Later consequential witness choice without covert-alliance shortcut | Arc stalls |
-| Mercer witness or antagonist or both? | Ch. 3 onward | Chapter 13 places him at the garage as a professional capture antagonist and potential witness | Still active antagonist with relevant observations | Knows he follows procedure | Force a later consequential institutional choice | Premature ally turn |
-| What will Hackett do with stronger evidence? | Ch. 4 | Has not seen later proof | Unknown | Knows he previously demanded surrender | Act III recipient/witness | Early contact becomes dead end |
-| How is Elias’s voluntary role established publicly? | Ch. 7 | Hardware audit, custody log, WSS witnesses | Strong technical proof exists, public still says hostage | Knows exact record | Investigation/public fracture | Elias remains erased |
-| Marcus and six-years-ago testimony | Prologue/Ch. 4 | Confession to Julie; current risk-taking | Official record unchanged | Knows full betrayal | Act III or final-act testimony | Arc incomplete |
-| Was old Argus incident connected? | Ch. 2 | Same pattern/software family | Similarity only | Suspects repeated method | Late-book/series reveal | Premature conspiracy inflation |
-| Can four-second delay be proved? | Prologue | Original cache overwritten | No surviving proof shown | Remembers it | Hargrove/old annex/system archive | Defining wound unresolved |
-| What happens at K-17? | Ch. 8 | Chapter 13 adds no field evidence; Phase B hold and access remain unconfirmed | Active field crisis | Knows urgency only | Act III field climax and Washington/field reconnection | Geopolitical half disappears |
-| Consequence of aborted strike | Ch. 8 | No rounds fired; command demanded explanation | Reader knows; trio does not | No confirmation | Sharma/Northern Command scene later | Tactical victory lacks human consequence |
-| Sharma’s role after abort | Ch. 8 | Chapter 13 adds no Sharma scene or new local record | Unknown | Does not know Sharma | Act III independent corroboration and consequential action | Strong parallel character abandoned |
-| Physical costs | Ch. 6 onward | Chapter 13 injuries constrain driving, walking, standing, carrying, writing, and exfiltration | Reinforced; unresolved | Directly experienced | Continue through climax and aftermath without instant recovery | Superhuman recovery |
-| Emotional costs | Prologue onward | Chapter 13 tests Julie’s abort discipline and preserves Marcus/Elias agency | Advanced; unresolved | Directly experienced | Later costly choices and bounded end states | Action erases character |
-| Public narrative fracture | Ch. 9 onward | Sterling strengthened it through Fenwick | No visible fracture yet | Needs authenticated counterrecord | Bell, Chen, Mercer, Sharma, local audits | Antagonist narrative too easy |
-| What launches final act? | Ch. 12 | Accepted Chapter 13 completes the carrier-stream operation and opens the 07:46 challenge | Resolved | Julie reaches the physical event’s edge without entering Hartwell | Continue through the Chapter 14 mission lock | Momentum loss |
-| Hargrove’s current role | Prologue | No present-day appearance | Older outline planned witness only | Unknown | Optional later payoff | Treating stale plan as canon |
-| Physical custodian versus registered authority | Ch. 10–13 | Chapter 13 narrows the route to a compact case and three-person stream | Advanced, unresolved | Core evidence rule | Chapter 14 must address physical presentation without assuming identity | Book violates own evidence logic |
-| Fate of Bell’s local record | Ch. 12 | Bell told to preserve it | Last known intact | Knows it exists | Independent seizure/testimony | WSS evidence loses redundancy |
-| Vance’s suppression and lethal orders | Ch. 8–12 | Chen preserved records | Not externally disclosed | Knows key facts | Chen/Mercer pressure cutaway may intensify pursuit; disclosure remains later payoff | Vance consequence incomplete |
-
----
-
-## Accepted Chapter 13 thread delta
-
-| Thread | State after accepted Chapter 13 | Required next treatment |
-|---|---|---|
-| Human custodian of `SSO-NS-004` | **Advanced, unresolved.** Three-person carrier stream and compact case established; hidden hand not visible. | Chapter 14 mission lock must define the exact authentication/custody problem without presuming identity. |
-| Hartwell physical event | **Opened.** Controlled door opens at 07:46:00. | Dramatize challenge/presentation consequences within fixed 07:46–07:49 clocks. |
-| Independent observation record | **Advanced.** Garage plate, internal camera, traffic/loading cameras, police, and Hartwell records may overlap. | Establish actual access, authentication, independence, and custody; do not treat potential records as already obtained. |
-| Phase B | **Unresolved.** Deadline remains 07:49. | Make intended action concrete in later accepted prose. |
-| Masking Window Two | **Unresolved.** Opens 07:48. | Reveal purpose and execution without retroactive certainty. |
-| K-17 access | **Unresolved.** No Chapter 13 cutaway or new evidence. | Reconnect Washington and field state before the climax. |
-| Encrypted blocks | **Still encrypted.** | Recover/decrypt or otherwise establish enough content for Book 1 payoff. |
-| Chen/Mercer choices | **Advanced, not resolved.** Both preserve professional boundaries under pressure. | Force consequential institutional choices later. |
-| Marcus’s corrective arc | **Advanced.** He preserves originals and enforces the hard-abort/evidence standard. | Still requires an on-record costly correction. |
-| Elias’s voluntary record | **Advanced.** Voluntary technical participation and bounded claims continue. | Preserve public/legal proof of agency. |
-
----
-
-## Accepted Chapter 14 thread update
-
-- **Hartwell presenter / exact serial:** Advanced but unresolved; a held record exists, while the exterior state and dark-overcoat position do not identify the presenter.
-- **Independent counterrecord:** Payoff staged through MPD body camera/dispatch, Ortiz observation, Hartwell hold, garage records, WSS, Chen/Mercer, and separate originals.
-- **Phase B / K-17 / Masking Window Two:** Unresolved; masking is active and the 07:49 deadline passed without observable answer.
-- **Public narrative fracture:** Payoff staged, not public or authenticated.
-- **Marcus correction, Chen/Mercer choices, WSS local record, Sharma consequence, final custody, climax, and resolution:** Still required.
-
-## Accepted Chapter 15 thread update
-
-- **Independent counterrecord / lawful custody:** Advanced substantially. Seven originals are separately sealed in MPD custody and cross-referenced to body-camera, dispatch, Hartwell, WSS, garage, Apex/Chen, and Indian records. Final technical/federal intake remains unresolved.
-- **Sharma / Indian no-fire consequence:** Advanced. Sharma preserves prior and superseding products with local anomaly, abort, and no-fire records; the Washington trio does not yet receive them.
-- **Masking Window Two / reconstruction:** Immediate record-level consequence dramatized. The actionable allied picture is superseded at 07:54, but purpose, author, relationship to Phase B, and field truth remain unresolved.
-- **Hartwell presenter / exact serial:** Unchanged in proof. Held record survives; no presenter or serial disclosed.
-- **K-17 / Phase B / WSS plaintext:** Unresolved and bounded.
-- **Marcus correction, Chen/Mercer choices, Hackett, Price, Vance consequence, Bell local-record fate, and public fracture:** Still required.
-- **Physical/emotional cost:** Advanced through medical separation and loss of direct team unity; no recovery or reconciliation by convenience.
-
-## Chapter 16 accepted thread update — 2026-07-13
-
-**Advanced / intermediate payoff:** independent counterrecord and lawful custody; Marcus's six-years-ago correction; Hackett's named institutional choice; complete-incident preservation; bounded activation of Sharma's separately held record; MPD secure-intake threshold.
-
-**Still open:** final federal receiver, independent technical examiner, technical merits, Hartwell presenter/exact serial, compact black case contents, WSS plaintext, Sterling physical possession, Vance personal keystrokes/upstream direction, Tariq physical presence, K-17 outcome, Phase B, reconstruction authorship/purpose/truth, and public fracture or vindication.
-
-## Accepted Chapter 17 thread update — 2026-07-14
-
-### Advanced
-
-- Independent technical examination: first named, reproducible single-package examination completed.
-- Independent counterrecord: Grant's signed observation now exists outside Apex's exclusive control.
-- Elias original-deployment attribution: physical-board claim materially weakened.
-- Elias later voluntary acts: independently authenticated and preserved with legal ambiguity.
-- Hackett: preservation sponsorship produces a bounded result without final custody or adjudication.
-- Public fracture: technically staged, not publicly triggered.
-
-### Still open
-
-Final receiver; alternative identity path; human operator; broader package authentication; Hartwell presenter and exact serial; compact black case; WSS plaintext; K-17; Phase B; reconstruction; Sterling/Vance/Tariq personal acts; Chen/Mercer/Bell/Price outcomes; Marcus consequences; legal/medical aftermath; public vindication.
-
-## Accepted Chapter 18 thread update — 2026-07-14
-
-### Advanced / immediate payoff
-
-- **K-17 physical outcome:** intact at inspection; no confirmed capture; inner boundary remains unresolved.
-- **Phase B local action:** requested local source-record reconstruction/maintenance commit; final local authentication failed; no local write executed.
-- **Masking/reconstruction relationship:** the later superseding product omitted the failed local events, advancing the concealment theory without identifying author or upstream command.
-- **Sharma's independent role:** she creates a durable original/derivative/acknowledgment chain and protects proof limits.
-- **Washington-to-field reconnection:** the bounded route now carries the existence and limited result without direct contact or unrestricted disclosure.
-
-### Still open
-
-Human field actors; Tariq personal action; Hartwell presenter/exact serial; WSS plaintext; alternative deployment identity path and human actor; reconstruction author/upstream command; final receiver; Bell/Chen/Mercer/Price payoffs; Vance/Sterling consequences; medical/legal/relationship aftermath; and authenticated public narrative fracture.
+No Chapter 23 prose or mission lock and no complete remainder outline exists. The next authorized task may create only the Chapter 23 mission lock.

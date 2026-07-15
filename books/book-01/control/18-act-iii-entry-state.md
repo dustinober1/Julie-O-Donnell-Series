@@ -1,37 +1,42 @@
-# 18. ACT III ENTRY STATE
+# 18. ACT III ENTRY AND CURRENT STATE
 
-## Controlling accepted Act III state
+## Accepted Act III state
 
-Act III accepted canon comprises Chapters 13–21. The accepted manuscript totals **112,091 words**.
+Act III accepted canon comprises Chapters 13–22. The accepted manuscript totals **116,807 words**; accepted Act III totals **53,152 words**.
 
-## Accepted endpoint
+## Current accepted endpoint
 
-- **Chapter:** 21 — The Borrowed Name
-- **Time:** **12:18:04 EDT / 21:48:04 IST**
+- **Chapter:** 22 — The Release Record
+- **Time:** **13:12:44 EDT / 22:42:44 IST**
 - **Location:** secure MPD evidence intake
-- **Request result:** Price's authentic source-review request is separately preserved; the later office request inherited his identity/reference after his authority ended and added operational routing without a matching authenticated Price act
-- **Signer:** `SSO-NS-004` remains under LSS no-use hold, custodian Martin Vann, deputy authority Marisol Vega, seal `LSS-SL-90418`
-- **Physical evidence:** MPD retains seven sealed packages; source institutions retain their originals
-- **Medical state:** Julie remains detained with materially unusable right wrist/forearm; Marcus remains on four liters oxygen at 92–93 percent saturation; Elias remains in separate guarded medical custody
+- **Private record:** signed source-separated counterrecord reconciles the Price/Elias identity mechanisms, failed local K-17 commit, and later remote release
+- **Vance:** personal later-release participation established; operational authority removed pending review
+- **Proof limits:** original 02:14 human operator, request constructor, Vance original deployment keystrokes, Sterling personal command, Tariq physical operation, and WSS plaintext remain unproved
+- **Signer:** `SSO-NS-004` remains under LSS no-use hold and seal `LSS-SL-90418`
+- **Physical evidence:** MPD retains seven sealed packages; source institutions retain originals under preservation
+- **Medical state:** Julie detained with unusable right wrist/forearm; Marcus on four liters oxygen at 92–93 percent; Elias in separate guarded medical custody
 - **Public state:** Sterling's hostile account remains dominant
 
-## Accepted Chapter 21 state
+## Act III results already achieved
 
-- Price is alive, represented, and under bounded DIA administrative review.
-- Price's complete authentic request concerned raw-source/source-integrity review and excluded signer, WSS-4, Hartwell, K-17, Phase B, and reconstruction direction.
-- His active authority ended before the later office request.
-- The later request inherited his identity or request reference and added operational routing.
-- The complete authorized event range contains no matching authenticated Price act.
-- Kessler remains authorizer; Drennan remains carrier; the initiating source remains unresolved.
-- Julie preserves the complete Price record, including adverse material, and refuses premature accusation, exoneration, signer operation, or leak.
-- The constructed identity path is accepted canon; the constructor is not.
+- Hartwell carrier stream and custody geometry established.
+- Public surrender/witness line created without violence.
+- Seven-package MPD custody and medical separation established.
+- Independent board, Arjun, Hartwell, WSS, Price, Apex, and government-registry records preserved under source limits.
+- K-17 local zero-write failure separated from later remote reconstruction.
+- Vance later-release act and bounded operational consequence established.
+- Signed private counterrecord survives outside Vance's exclusive control.
 
 ## Remaining Book 1 obligations
 
-The request constructor and its relationship to Elias's framed deployment identity and successful remote reconstruction; WSS plaintext or lawful equivalent where required; alternative deployment actor; Vance/Sterling/Tariq personal responsibility and consequences; Bell/Chen/Mercer final choices; authenticated public fracture; Price's legal/institutional disposition; Marcus/Elias consequences; medical/legal/relationship/geopolitical aftermath; climax, stabilization, Julie's future choice, and bounded series-facing resolution.
+- authenticated visible fracture of Sterling's account;
+- bounded Sterling/office consequence without false personal-command proof;
+- Price, Marcus, Elias, Chen, Mercer, Bell, legal, medical, and relationship aftermath;
+- Julie's active future-role choice;
+- bounded series-facing stabilization and named carryovers.
 
 This is an obligation inventory, not a chapter-by-chapter remainder outline.
 
-## Current production gate
+## Production gate
 
-Chapter 22 prose and mission lock do not exist. A fresh, separately authorized session may create only the Chapter 22 mission lock. Do not draft Chapter 22 or create a complete remainder outline.
+No Chapter 23 prose or mission lock exists. A fresh authorized session may create only a Chapter 23 mission lock.

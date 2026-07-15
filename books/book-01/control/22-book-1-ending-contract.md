@@ -1,179 +1,66 @@
 # 22. BOOK 1 ENDING CONTRACT
 
-## Status
+## Purpose
 
-**Approved production control.** This contract defines what Book 1 must resolve and what may remain open for later books. It does not dictate exact scenes and does not create canon before prose is accepted.
+This contract defines what Book 1 must still accomplish before publication readiness. It is an obligation map, not a chapter-by-chapter outline.
 
-## Reader promise
+## Accepted state through Chapter 22
 
-Book 1 must deliver a complete thriller outcome:
+- Accepted manuscript: Prologue and Chapters 1–22
+- Accepted words: **116,807**
+- Endpoint: **13:12:44 EDT / 22:42:44 IST**, secure MPD evidence intake
+- Private counterrecord: signed, source-separated, and preserved
+- Vance: personally tied to the later remote release only; removed from operational control pending review
+- Public state: Sterling's hostile account remains dominant
+- Physical state: Julie detained and injured; Marcus and Elias medically separated; seven MPD packages sealed; signer closed
 
-- the immediate manufactured-crisis operation is stopped, exposed, or decisively transformed;
-- the protagonists place a durable counterrecord beyond a single hostile institution;
-- the central emotional choices receive consequences;
-- the public or institutional story visibly fractures; and
-- Julie reaches an active future role rather than merely escaping another deadline.
+## Obligations materially satisfied or advanced
 
-The final pages may open a larger series problem, but they may not leave the Book 1 emergency unresolved.
+### Immediate geopolitical crisis
 
-## Required Book 1 resolutions
+The poisoned 05:00 release was suspended, Indian fire was aborted in the independent local chain, K-17 local commit failed with zero writes, and the later remote reconstruction has been separated from that local failure. The immediate first-strike danger is bounded without declaring the wider network defeated.
 
-### 1. Hartwell physical-custody problem
+### Evidence and causality
 
-Book 1 must establish a defensible physical chain around SSO-NS-004 at Hartwell.
+The record now distinguishes raw observations, synthetic/provenance corruption, borrowed request identity, framed physical-token identity, failed local authentication, later remote release, government acceptance, device/office responsibility, and human proof limits. The Price and Elias paths are related at mechanism and authority-binding levels without inventing one human constructor.
 
-The resolution may identify a person, a carrier stream, a controlled handoff, or an independently verifiable custody sequence. It may not substitute office registration for human possession.
+### Vance consequence
 
-### 2. Phase B
+Chapter 22 satisfies the required meaningful operational consequence: Vance's personal participation in the later release is established and he loses Argus operational release, Building Three security, source-custody, and unilateral preservation authority pending review. This is not original-deployment proof, criminal adjudication, employment termination, or confession.
 
-The reader must learn what Phase B is intended to do and whether it is authorized, blocked, corrupted, redirected, or fails.
+### Chen and Mercer
 
-Phase B cannot remain an undefined deadline at the end of Book 1.
+Both make consequential source-accurate choices at professional cost without becoming Julie's allies.
 
-### 3. Masking Window Two and the Argus reconstruction profile
+### Julie's moral leadership
 
-The book must reveal the immediate function of the second masking action and resolve whether it executes.
+Julie chooses the narrower durable finding over revenge, false certainty, or premature public accusation. She preserves adverse as well as favorable evidence and refuses to repeat Pakistan's causal erasure.
 
-### 4. Relay K-17
+## Remaining mandatory Book 1 obligations
 
-The immediate K-17 operation must receive an on-page or independently verified outcome sufficient to resolve the Book 1 geopolitical threat.
+1. **Authenticated visible fracture:** Sterling's public account must become materially harder to sustain through a lawful, source-grounded event.
+2. **Bounded office/Sterling consequence:** establish consequence at the strongest supported level without inventing personal command or physical possession.
+3. **Price aftermath:** bind his professional/legal state without manufactured innocence or villainy.
+4. **Marcus aftermath:** address medical, institutional, and relationship cost of his corrective choice.
+5. **Elias aftermath:** preserve voluntary agency and legal exposure without hostage/saboteur simplification or convenient immunity.
+6. **Chen/Mercer/Bell aftermath:** bind professional, testimonial, or institutional consequences consistent with their accepted choices.
+7. **Julie future choice:** Julie must actively choose whether and how she reenters investigative/public service or builds another role.
+8. **Series-facing stabilization:** name bounded carryovers without making Book 1 feel like only setup.
 
-The broader consequences may continue, but the reader cannot finish the book without knowing what happened to the operation under the false artillery cover.
+## Deliberate bounded uncertainties
 
-### 5. Independent custody and corroboration
+The original 02:14 human operator, human request constructor, Sterling personal command, Tariq physical operation, WSS plaintext, complete six-years-ago network, and some upstream architecture may remain unresolved only if the ending explicitly distinguishes deliberate carryover from forgotten obligation.
 
-At least one durable evidence path must survive outside Vance’s exclusive control.
+## Ending prohibitions
 
-The final counterrecord should combine more than the trio’s possession. Possible components include:
+- No omniscient confession or villain monologue.
+- No instant universal exoneration or charge collapse.
+- No public dump of sensitive collection or sealed evidence.
+- No false claim that Vance authored the original deployment.
+- No false claim that Sterling personally commanded the operation without new accepted evidence.
+- No medically implausible reunion or action.
+- No future-book hook that replaces the visible public fracture or Julie's choice.
 
-- WSS-4 local audit;
-- Nora Bell’s testimony;
-- Chen’s preserved directives;
-- Mercer’s force-standard observations;
-- Hackett or another named receiving authority;
-- Leland Price;
-- Sharma/Qureshi and Indian fire-control records; and
-- independent camera, access, or custody records.
+## Production gate
 
-### 6. Arthur Vance
-
-Book 1 must establish Vance’s operational role with a meaningful consequence. The consequence may be arrest, exposure, loss of authority, institutional isolation, compelled testimony, or another durable loss.
-
-His full upstream direction may remain open.
-
-### 7. Sarah Chen and Daniel Mercer
-
-Both must make consequential choices consistent with their established characters.
-
-- Chen may preserve or disclose evidence, refuse an unlawful order, or submit a defensible record.
-- Mercer may remain an antagonist while refusing unlawful force or becoming a necessary witness.
-
-Neither should become Julie’s uncomplicated ally.
-
-### 8. Elias Thorne
-
-The ending must preserve the distinction between his framed deployment identity and his voluntary later actions.
-
-His legal exposure may continue, but the Book 1 record must prevent his agency from being erased as either “hostage” or “saboteur” without contradiction.
-
-### 9. Marcus Reed
-
-Marcus must make an on-record choice that answers his six-years-ago failure.
-
-Private apology alone is insufficient. The ending must require him to risk rank, career, access, liberty, or reputation to state what the defensible institutional version concealed.
-
-### 10. Public narrative fracture
-
-Sterling’s account must suffer a visible, authenticated contradiction.
-
-The fracture does not require complete public vindication for Julie, but the book must end with the official version no longer uncontested.
-
-### 11. Julie O’Donnell
-
-Julie must complete the Book 1 movement from isolated former analyst to morally bounded operational leader.
-
-Her ending choice must show:
-
-- evidence over revenge;
-- uncertainty stated rather than hidden;
-- refusal to spend civilians for proof;
-- responsibility for Marcus and Elias without erasing their agency; and
-- a deliberate answer to what she will do after the immediate crisis.
-
-## Deliberate series carryovers
-
-The following may remain open if Book 1 acknowledges them as unresolved rather than forgetting them:
-
-- whether the six-years-ago Argus incident was part of the same network;
-- recovery of the original four-second routing evidence;
-- Daniel Hargrove’s present-day role;
-- the full political, contractor, and international network above Vance;
-- Sterling’s ultimate legal or political fate;
-- Major Tariq’s broader relationships and long-term objective;
-- the extent of Argus-derived systems elsewhere;
-- long-term legal consequences for Julie, Marcus, and Elias;
-- Julie and Marcus’s full personal reconciliation; and
-- the next threat that logically follows from the surviving network.
-
-## Anti-cliffhanger rule
-
-The epilogue or final hook may reveal:
-
-- a surviving actor;
-- a broader deployment;
-- an old-system connection;
-- a new authenticated anomaly; or
-- a consequence of the Book 1 exposure.
-
-It may not introduce another countdown that must be resolved for Book 1 to feel complete.
-
-## Ending acceptance tests
-
-Before the final chapter is accepted, answer **yes** to all of the following:
-
-1. Is the immediate Hartwell/Phase B/K-17 crisis resolved?
-2. Does at least one independent counterrecord survive?
-3. Does Marcus make an on-record corrective choice?
-4. Is Elias’s voluntary agency preserved?
-5. Do Chen and Mercer make consequential, character-consistent choices?
-6. Does Vance lose meaningful operational control?
-7. Is Sterling’s public narrative visibly fractured?
-8. Does Julie choose a future rather than merely survive?
-9. Are deliberate series carryovers named and bounded?
-10. Could the book end here without requiring Book 2 to finish Book 1’s emergency?
-
-## Chapter 15 acceptance implication
-
-Accepted Chapter 15 advances the independent-custody and Sharma-record obligations without satisfying the ending contract prematurely. Seven separately sealed originals now survive in MPD custody outside Vance's exclusive control, and Sharma preserves an independently held contradiction between prior, superseding, and local records. The chapter does not resolve Hartwell presenter custody, Phase B, K-17, WSS plaintext, Marcus's on-record correction, Chen/Mercer final choices, Vance's consequence, or the public narrative fracture. All required Book 1 resolutions remain active and viable.
-
-## Chapter 16 accepted ending-contract progress — 2026-07-13
-
-Chapter 16 advances the required institutional-cost and evidence-survival obligations: Marcus accepts attributable professional/legal cost; Hackett places a named office behind preservation; the seven-object record survives into secure MPD intake; and Sharma's independently controlled record is linked without collapsing uncertainty.
-
-The ending contract is not fulfilled. The final receiver/examiner, technical merits, Hartwell physical chain, WSS plaintext, K-17, Phase B, reconstruction purpose/authorship, public narrative fracture, and final personal/institutional consequences remain open.
-
-## Chapter 18 accepted ending-contract progress — 2026-07-14
-
-Chapter 18 materially advances the Relay K-17, Phase B, Sharma, independent-counterrecord, and geopolitical-stabilization obligations. The immediate local field attempt is now bounded: K-17 remained intact at inspection, Security Line One passed, Phase B requested a local reconstruction/maintenance commit, final local authentication failed, no local write executed, and the superseding product omitted the failed local events. Sharma's original/derivative/acknowledgment chain survives independently.
-
-The ending contract remains incomplete. Human authorization and responsibility, Hartwell physical custody/exact serial, WSS plaintext or lawful equivalent, final receiver and broader examination, Chen/Mercer/Bell/Price outcomes, Vance/Sterling consequences, authenticated public fracture, and final medical/legal/relationship aftermath remain required.
-
-## Chapter 21 accepted ending-contract progress — 2026-07-15
-
-Chapter 21 materially advances the independent-counterrecord, Leland Price, alternative-identity-path, and Julie leadership obligations. Price appears alive, represented, and under bounded administrative review; his authentic source-review request and complete statement survive separately from the later office request; the later request inherits his identity/reference after his authority ended and adds operational routing without a matching authenticated Price act. Julie preserves uncertainty and adverse material rather than manufacturing a defendant, innocence, or public leak.
-
-The ending contract remains incomplete. The request constructor and relationship among Price's borrowed identity, Elias's framed deployment identity, and the successful remote reconstruction remain open. WSS plaintext or lawful equivalent, alternative deployment actor, Vance/Sterling/Tariq personal responsibility and consequences, Chen/Mercer/Bell final choices, public narrative fracture, legal/medical/relationship aftermath, and Julie's final future choice remain required.
-
-## Chapter 22 approved planning contribution — 2026-07-15
-
-The non-canon Chapter 22 mission lock, `44-chapter-22-mission-lock.md`, plans the final major proof-acquisition movement rather than the final chapter. It is designed to:
-
-- establish the mechanism-level relationship among Price's borrowed request identity, Elias's framed deployment identity, the failed K-17 local commit, and the later successful remote reconstruction;
-- separate a reusable identity-construction mechanism from the human release act that made the later reconstruction operational;
-- permit a personal Vance finding only for a separately corroborated later release event;
-- preserve the original 02:14 deployment operator and Sterling personal-command boundaries;
-- force Chen and Mercer into consequential, character-consistent source-record choices;
-- remove Vance from operational control and place relevant Apex originals under an independent hold; and
-- create an authenticated counterrecord ready for later public fracture.
-
-The planned Chapter 22 endpoint does not satisfy the ending contract by itself. Sterling's public narrative remains dominant, Julie remains detained, Marcus and Elias remain medically separated, and public/legal/medical/relationship/future-role resolution remains open. At least one later chapter is necessary, but this control does not create a Chapter 23 mission lock or a complete remainder outline.
+At least one later chapter remains required. No Chapter 23 prose or mission lock and no complete remainder outline exists. The next authorized task may create only the Chapter 23 mission lock.

@@ -5,41 +5,26 @@ Repository for the Julie O'Donnell contemporary geopolitical techno-thriller / m
 ## Current production state
 
 - Active book: Book 1 — title not yet locked
-- Target length: **100,000–125,000 words**; planning target **112,500**
-- Accepted canon: Prologue and Chapters 1–21
-- Accepted-manuscript length: **112,091 words**
-- Accepted endpoint: **12:18:04 EDT / 21:48:04 IST**, secure MPD evidence intake
-- Chapter 21, **The Borrowed Name**: accepted at **4,415 words**
-- Chapter 21 reviewed blob: `866d4210b7fc808aef48144a91a58280f38fc99c`
-- Chapter 21 mission lock: [`books/book-01/control/42-chapter-21-mission-lock.md`](books/book-01/control/42-chapter-21-mission-lock.md)
-- Chapter 21 acceptance review: [`books/book-01/control/43-chapter-21-acceptance-review.md`](books/book-01/control/43-chapter-21-acceptance-review.md) — **ACCEPT**
-- Chapter 21 accepted prose: [`books/book-01/manuscript/chapters/chapter-21.md`](books/book-01/manuscript/chapters/chapter-21.md)
-- Chapter 22 mission lock: [`books/book-01/control/44-chapter-22-mission-lock.md`](books/book-01/control/44-chapter-22-mission-lock.md) — **The Release Record**, blob `9bd255ac7b09a1490dc70be4506ba29183756788`
-- Chapter 22 non-canon draft: [`books/book-01/drafts/chapter-22.md`](books/book-01/drafts/chapter-22.md)
-- Chapter 22 draft blob: `034ab496794594427d8409d03e7c6659d41b6a91`
-- Chapter 22 draft words: **4,716**
-- Chapter 22 opening: **12:18:04 EDT / 21:48:04 IST**, secure MPD evidence intake
-- Chapter 22 endpoint: **13:12:44 EDT / 22:42:44 IST**, secure MPD evidence intake
-- Chapter 22 POV: Julie primary with exactly one bounded Sarah Chen cutaway
-- Chapter 22 scene architecture: exactly six causal scenes
-- Chapter 22 status: first draft complete, non-canon, formal acceptance review pending
-- Active Book 1 drafts: Chapter 22 only
-- Chapter 22 acceptance review: not created
-- Chapter 23 prose or mission lock: not created
-- Complete remainder-of-Act-III outline: not created
-- Book 1: not publication-ready
+- Finished-length range: **100,000–125,000 words**; planning target **112,500**
+- Accepted canon: Prologue and Chapters 1–22
+- Accepted-manuscript length: **116,807 words**
+- Accepted Act III subtotal, Chapters 13–22: **53,152 words**
+- Remaining before the 125,000-word maximum: **8,193 words**
+- Accepted endpoint: **13:12:44 EDT / 22:42:44 IST**, secure MPD evidence intake
+- Chapter 22, **The Release Record**: **ACCEPT**, **4,716 words**
+- Chapter 22 reviewed prose: [`books/book-01/manuscript/chapters/chapter-22.md`](books/book-01/manuscript/chapters/chapter-22.md), blob `034ab496794594427d8409d03e7c6659d41b6a91`
+- Mission lock: [`books/book-01/control/44-chapter-22-mission-lock.md`](books/book-01/control/44-chapter-22-mission-lock.md), blob `9bd255ac7b09a1490dc70be4506ba29183756788`
+- Acceptance review: [`books/book-01/control/45-chapter-22-acceptance-review.md`](books/book-01/control/45-chapter-22-acceptance-review.md) — **ACCEPT**, blob `9de6c47b5984875339e8c6244ffca25f49394d9c`
+- Active Book 1 chapter drafts: none
+- Chapter 23 prose or mission lock: none
+- Complete remainder-of-Act-III outline: none
+- Book 1: not publication-ready; at least one later chapter remains required by the ending contract
 
-## Accepted Chapter 21 result
+## Accepted Chapter 22 result
 
-Price is alive, represented, and under bounded DIA administrative review. His independently retained request concerned raw-source/source-integrity review and contained no signer assignment, WSS-4 instruction, Hartwell authentication, K-17 action, Phase B authorization, or reconstruction direction. His active authority ended before the later office request. The later request inherited his identity or request reference and added operational routing without a matching authenticated Price act in the complete authorized event range. That establishes a constructed identity path, not the constructor.
+Chapter 22 relates Price's borrowed request identity, Elias's framed deployment identity, the failed K-17 local commit, and the later successful remote reconstruction at mechanism and authority-binding levels. Source-native release records plus camera, access-journal, Chen, Mercer, and government-registry corroboration establish Arthur Vance's personal participation in the later remote release only. They do not prove his original 02:14 deployment keystrokes, the human request constructor, Sterling's personal command, Tariq's physical operation, or WSS plaintext.
 
-Julie preserves Price's complete original, complete voluntary statement, rejected access attempt, and professional exposure without editing him into innocence or accusing him from a name field. `SSO-NS-004` remains closed under LSS no-use hold; all seven MPD packages remain sealed and stationary; Marcus and Elias remain medically separated; Sterling's hostile public account remains dominant. The request constructor, Sterling's personal command, the alternative original-deployment actor, and the remote-reconstruction author remain unproved in accepted canon.
-
-## Chapter 22 non-canon draft state
-
-The first draft executes the locked proof-and-consequence mission without changing accepted canon. It separates construction mechanism from human authorship, keeps the failed K-17 local commit distinct from the later remote reconstruction, and limits the personal Vance finding to the later release event supported by source-native local authentication plus independent camera and witness corroboration. The original 02:14 operator and Sterling's personal command remain unproved.
-
-The draft creates source-limited office/LSS, Apex identity-mapping, Apex executive-release, and government Argus product-registry derivatives while leaving every original with a named custodian. `SSO-NS-004` remains closed and unused. `MPD-901441` through `MPD-901447` remain sealed, separate, offline, stationary, and in the locked common chest. The public correction is prepared but not executed. These are draft facts only until a separate formal acceptance review issues an explicit verdict.
+Alvarez removes Vance from Argus operational release authority, Building Three security authority, source-custody authority, and unilateral preservation control pending review. Relevant Apex originals enter a joint preservation hold. `SSO-NS-004` remains closed under LSS no-use control; the seven MPD packages remain sealed and stationary; Marcus and Elias remain medically separated; Sterling's hostile account remains publicly dominant. The signed private counterrecord is ready for later authenticated public use but has not been released.
 
 ## Source-of-truth hierarchy
 
@@ -50,8 +35,8 @@ The draft creates source-limited office/LSS, Apex identity-mapping, Apex executi
 5. [`PROJECT_STATE.yaml`](PROJECT_STATE.yaml) for production status and navigation
 6. [`archive/`](archive/) and Git history for superseded provenance
 
-Permanent validation protects accepted Chapters 13–21, the exact Chapter 21 blob/count and endpoint, the exact accepted-manifest blob and total, the Chapter 20 and Chapter 21 mission-lock/review controls, the exact Chapter 22 mission-lock path and blob, the exact sole Chapter 22 draft path/blob/count, absence of Chapter 22 manuscript prose or acceptance review, absence of Chapter 23 artifacts and a complete remainder outline, unchanged recurring-character ledger, synchronized non-canon draft state, the historical forbidden-temporary-path list, and full base-to-head diff hygiene.
+Permanent validation protects accepted Chapters 13–22, all accepted Chapter 1–21 prose against change, the accepted manifest and total, the Chapter 22 mission lock/review/verdict, the exact promoted Chapter 22 blob/count and endpoint, absence of the Chapter 22 draft, absence of Chapter 23 artifacts and a complete remainder outline, synchronized accepted state, forbidden temporary artifacts, and full base-to-head diff hygiene.
 
 ## Current gate
 
-The next separately authorized session may perform only the formal Chapter 22 acceptance review against the exact non-canon draft and mission lock. It may not draft or plan Chapter 23, create a complete remainder outline, alter accepted Chapters 1–21, or promote Chapter 22 without an explicit acceptance verdict.
+The next separately authorized task may create only a Chapter 23 mission lock based on the accepted Chapter 22 endpoint. It may not draft Chapter 23 or create a complete chapter-by-chapter remainder outline.
