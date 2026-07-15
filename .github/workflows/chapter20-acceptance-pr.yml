@@ -12,10 +12,13 @@ jobs:
   apply:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          ref: agent/chapter-20-acceptance-review
+      - name: Clone review branch
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          rm -rf ./* ./.git
+          git clone -q --branch agent/chapter-20-acceptance-review --single-branch "https://x-access-token:${GH_TOKEN}@github.com/dustinober1/Julie-O-Donnell-Series.git" .
 
       - name: Apply reviewed Chapter 20 state
         shell: bash
@@ -44,9 +47,11 @@ jobs:
 
       - name: Commit synchronized acceptance state
         shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
           git commit -m "Accept and synchronize Chapter 20 [chapter20-acceptance-applied]"
-          git push origin HEAD:agent/chapter-20-acceptance-review
+          git push -q origin HEAD:agent/chapter-20-acceptance-review
