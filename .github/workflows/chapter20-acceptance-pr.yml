@@ -32,11 +32,10 @@ jobs:
           if [p.name for p in parts] != [f'{i:02d}.part' for i in range(9)]:
               raise SystemExit(f'Chapter 20 acceptance script parts incomplete: {[p.name for p in parts]}')
           source = ''.join(p.read_text(encoding='utf-8') for p in parts)
-          compile(source, 'chapter20_acceptance_apply.py', 'exec')
           exec(compile(source, 'chapter20_acceptance_apply.py', 'exec'))
           PY
           status=$?
-          tail -n 20 chapter20-application.log
+          tail -n 5 chapter20-application.log
           rm -f chapter20-application.log
           if [ "$status" -ne 0 ]; then
             exit "$status"
@@ -52,7 +51,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
-          git commit -m "Accept and synchronize Chapter 20 [chapter20-acceptance-applied]"
+          git commit -q -m "Accept and synchronize Chapter 20 [chapter20-acceptance-applied]"
           set +e
           git push origin HEAD:agent/chapter-20-acceptance-review > chapter20-push.log 2>&1
           status=$?
