@@ -4,9 +4,9 @@ The accepted-manuscript inventory in `../ACCEPTED_MANUSCRIPT.yaml` controls acce
 
 ## Accepted inventory
 
-- Prologue and Chapters 1–21 are accepted.
-- Accepted total: **112,091 words**.
-- Accepted endpoint: **12:18:04 EDT / 21:48:04 IST**, secure MPD evidence intake.
+- Prologue and Chapters 1–22 are accepted.
+- Accepted total: **116,807 words**.
+- Accepted endpoint: **13:12:44 EDT / 22:42:44 IST**, secure MPD evidence intake.
 
 ## Accepted Act III
 
@@ -21,6 +21,7 @@ The accepted-manuscript inventory in `../ACCEPTED_MANUSCRIPT.yaml` controls acce
 | 19 | The Name on the Record | 5,393 | 10:01:12 EDT / 19:31:12 IST | 10:44:12 EDT / 20:14:12 IST | Accepted |
 | 20 | The Custody Exception | 4,307 | 10:44:12 EDT / 20:14:12 IST | 11:26:32 EDT / 20:56:32 IST | Accepted |
 | 21 | The Borrowed Name | 4,415 | 11:26:32 EDT / 20:56:32 IST | 12:18:04 EDT / 21:48:04 IST | Accepted |
+| 22 | The Release Record | 4,716 | 12:18:04 EDT / 21:48:04 IST | 13:12:44 EDT / 22:42:44 IST | Accepted |
 
 ## Protected reviewed blobs
 
@@ -33,41 +34,16 @@ The accepted-manuscript inventory in `../ACCEPTED_MANUSCRIPT.yaml` controls acce
 - Chapter 19: `1c7cc22fc7c480cb247efa1f6a2c0d0b1e1b1baf`
 - Chapter 20: `0bd12f43beeef48d5e897ee1fa78a333bd23099b`
 - Chapter 21: `866d4210b7fc808aef48144a91a58280f38fc99c`
+- Chapter 22: `034ab496794594427d8409d03e7c6659d41b6a91`
 
-## Chapter 21 — accepted
+## Chapter 22 acceptance record
 
-- Mission lock: `42-chapter-21-mission-lock.md` — blob `6c92a5764e5c74d88a8325511ae2b0a86b30b356`.
-- Acceptance review: `43-chapter-21-acceptance-review.md` — **ACCEPT**.
-- Accepted path: `../manuscript/chapters/chapter-21.md`.
-- Exact words: **4,415**.
-- Exact reviewed blob: `866d4210b7fc808aef48144a91a58280f38fc99c`.
-- Midpoint: Price's source-review request is authentic and limited; the later office request inherits his identity/reference after his authority ended and adds operational routing without a matching authenticated Price act.
-- Decision: Julie preserves Price's complete record, refuses accusation from a name field, refuses manufactured innocence, refuses signer operation, and refuses an unauthenticated leak.
-- Result: constructed identity path established; constructor remains unproved.
-- No duplicate draft remains.
-
-## Chapter 22 — first draft complete, non-canon
-
-- Title: **The Release Record**.
-- Mission lock: `44-chapter-22-mission-lock.md`.
-- Exact mission-lock blob: `9bd255ac7b09a1490dc70be4506ba29183756788`.
-- Draft path: `../drafts/chapter-22.md`.
-- Exact draft blob: `034ab496794594427d8409d03e7c6659d41b6a91`.
-- Exact draft words: **4,716**.
-- Opening: **12:18:04 EDT / 21:48:04 IST**, secure MPD evidence intake.
-- Endpoint: **13:12:44 EDT / 22:42:44 IST**, secure MPD evidence intake.
-- Dominant function: relate Price's borrowed identity, Elias's framed identity, the failed K-17 local commit, and the later successful remote reconstruction at the mechanism and authority-binding levels; establish a separately corroborated later release act and meaningful Vance consequence without proving the original deployment hand or Sterling personal command.
-- POV: Julie primary with exactly one bounded Sarah Chen cutaway.
-- Structure: exactly six causal scenes.
-- Word target: **5,000**; preferred **4,600–5,400**; hard ceiling **5,800**; actual **4,716**.
-- Accepted effect: none.
-- Acceptance review: not created.
-- Promotion: not authorized.
+- Mission lock: `44-chapter-22-mission-lock.md` — blob `9bd255ac7b09a1490dc70be4506ba29183756788`.
+- Acceptance review: `45-chapter-22-acceptance-review.md` — **ACCEPT** — blob `f0261e728600b58a4efada77b39874977f347ade`.
+- Accepted path: `../manuscript/chapters/chapter-22.md`.
+- Exact words: **4,716**.
+- No prose repair was made and no duplicate draft remains.
 
 ## Chapter 23 and later
 
-At least one later chapter remains necessary under the Book 1 ending contract, but Chapter 23 and later remain undrafted and individually mission unlocked. No Chapter 23 mission lock, Chapter 23 prose, or complete chapter-by-chapter remainder-of-Act-III outline exists.
-
-## Current gate
-
-A fresh, separately authorized session may perform only the formal Chapter 22 acceptance review against the exact draft and mission lock. It may not draft or plan Chapter 23, create a complete remainder outline, alter accepted prose, or promote Chapter 22 without an explicit acceptance verdict.
+At least one later chapter remains necessary under the ending contract. Chapter 23 and later remain undrafted and individually mission unlocked. No Chapter 23 mission lock, Chapter 23 prose, or complete chapter-by-chapter remainder-of-Act-III outline exists.

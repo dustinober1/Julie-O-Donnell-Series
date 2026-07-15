@@ -1,113 +1,25 @@
-# 7. RELATIONSHIP AND TRUST MATRIX
+# 07. RELATIONSHIP AND TRUST MATRIX
 
-<!-- CH21_ACCEPTED_STATE_START -->
-## Accepted Chapter 21 relationship delta
+## Current relationship state after accepted Chapter 22
 
-- **Julie ↔ Price:** first direct contact is a bounded evidentiary interview, not trust, alliance, forgiveness, immunity, or recruitment. Julie protects both the record adverse to Price and the limit that prevents accusation from a name field.
-- **Julie ↔ Grant:** professional trust strengthens through independent method and willingness to preserve an inconvenient proof ceiling.
-- **Julie ↔ Alvarez:** operational trust remains accountable; Alvarez independently owns preservation demands.
-- **Julie ↔ Hackett:** bounded institutional tension continues; urgency does not transfer authority or proof language.
-- **Price ↔ DIA/counsel:** represented, administratively exposed, and dependent on a complete retained record rather than a convenient whistleblower label.
-- **Julie ↔ Marcus / Elias:** no reunion or new communication; their prior records shape the final question while they remain medically separated.
-- No uncomplicated alliance, romantic movement, forgiveness, or future-book guarantee is created.
-<!-- CH21_ACCEPTED_STATE_END -->
+| Relationship | Accepted state | Hard limit / remaining movement |
+|---|---|---|
+| Julie ↔ Marcus | High operational trust supported by custody discipline and Marcus's complete correction; physically separated | Private betrayal and long-term relationship repair remain unresolved; no medical recovery by convenience |
+| Julie ↔ Elias | Trust built on honest ownership of unsafe choices; Julie preserves both exculpatory and adverse evidence | Legal exposure, anger, consent, and future working relationship remain unresolved |
+| Julie ↔ Grant | Professional trust strengthened through independent method and a finding narrower than Julie's preferred public use | Grant is not an advocate, ally, or universal authority |
+| Julie ↔ Alvarez | Accountable institutional trust strengthened because Alvarez independently owns the consequence | No promise of exoneration, immunity, release, or public vindication |
+| Julie ↔ Chen | Adversarial, source-accurate witness relationship deepens | Preservation is not alliance; Chen does not warn, release, or join Julie |
+| Julie ↔ Mercer | Professional adversarial respect based on force and witness limits | Mercer remains a containment actor; testimony is limited to direct observation/contemporaneous command |
+| Julie ↔ Vance | Evidence-driven antagonist relationship produces bounded operational consequence | No revenge scene, confession, sole-architect finding, or original-deployment attribution |
+| Julie ↔ Price | No personal trust established; Julie protects his complete record and refuses convenient innocence or guilt | Price remains professionally exposed and independently represented |
+| Julie ↔ Hackett | Conditional institutional trust; Hackett can sponsor preservation and accept correction | He is not an unrestricted receiver, technical examiner, or guaranteed ally |
+| Julie ↔ Sharma | Parallel moral/operational responsibility with no direct contact | No remote subordination or knowledge transfer without accepted communication |
+| Julie ↔ Sterling | Public antagonist relationship; his account remains dominant | Personal command and private knowledge remain unproved |
+| Chen ↔ Mercer | Professional operational relationship under pressure from Vance's directives | Neither automatically shares the other's complete knowledge; no joint defection |
+| Alvarez ↔ Apex | Adversarial but lawful preservation relationship | Operational removal and joint hold do not equal guilt adjudication or company-wide conspiracy |
 
-<!-- CH20_ACCEPTED_STATE_START -->
-## Accepted Chapter 20 relationship delta
+## Series locks
 
-- **Julie ↔ Grant:** bounded professional trust strengthens through an independent correction and a shared insistence on the first-line proof ceiling.
-- **Julie ↔ Alvarez:** trust becomes operational and accountable; Alvarez makes the final custody choice under her own authority.
-- **Julie ↔ Hackett:** productive institutional tension; he accepts correction without becoming passive or villainous.
-- **Julie ↔ Drennan/Kessler:** evidence relationship only; Julie refuses to convert proximity, employment, or assignment into command.
-- **Grant ↔ LSS/Vega/Vann:** cooperative but source-limited institutional relationship.
-- No reunion, forgiveness, alliance, or cross-book relationship status is created for Marcus, Elias, Chen, Mercer, Bell, Vann, Vega, Drennan, or Kessler.
-<!-- CH20_ACCEPTED_STATE_END -->
-<!-- CH19_ACCEPTED_STATE_START -->
-## Chapter 19 accepted relationship delta
-
-- **Julie ↔ Grant:** conditional procedural trust strengthens; Grant remains independent, and Julie protects the limit that weakens her own accusation.
-- **Julie ↔ Alvarez:** a bounded institutional relationship begins through named receiving responsibility, not personal allegiance.
-- **Julie ↔ Hackett:** cooperation remains conditional; he accepts corrections and supports preservation without becoming an uncomplicated ally.
-- **Julie ↔ Marcus / Elias:** no reunion or relationship-resolution scene; their prior records materially support the incident while they remain medically separated.
-- **Julie ↔ Chen:** no alliance; Chen’s preserved index creates an independently reviewable conflict record.
-- **Julie ↔ Sterling:** opposition sharpens through the collision between his dominant public account and the private lawful record; no private encounter occurs.
-<!-- CH19_ACCEPTED_STATE_END -->
-
-| Relationship | History | Current trust | Current tension | Asymmetric knowledge | What could change it |
-|---|---|---|---|---|---|
-| Julie ↔ Marcus | Six-years-ago colleagues; Marcus shaped testimony to protect access. | High operational; incomplete personal repair | His prior cowardice, her willingness to risk everything | Marcus knows the institutional limits from inside; Julie understands the source record more deeply | Marcus publicly or formally correcting the old record; surviving a decision where he chooses truth over self-protection |
-| Julie ↔ Elias | She returned to rescue him and required his technical choices | Conditional but strong | He believes she brought him into a choice with no safe exit | Elias knows the systems; Julie knows the operational and moral stakes | Julie protecting his agency and evidence under pressure; Elias continuing voluntarily |
-| Marcus ↔ Elias | Marcus helped extract and protect him | Growing operational trust | Marcus can sound coercive; Elias resents being treated as an asset | Marcus knows military channels; Elias knows authentication systems | Marcus prioritizing Elias over tactical expedience; Elias trusting Marcus with identity evidence |
-| Julie ↔ Chen | Consultant versus compliance/containment official | Low, evidence-responsive | Custody, authority, Vance’s orders | Julie knows the evidence; Chen knows the incident-control record | Chen disclosing preserved directives or protecting local audit from destruction |
-| Julie ↔ Mercer | Subject versus protective-services leader | Very low but professionally intelligible | He must capture her; she must preserve evidence | Julie knows why the material matters; Mercer knows Vance’s custody story failed | Mercer independently verifying Vance’s orders or choosing lawful custody over executive recovery |
-| Chen ↔ Vance | Chen operated under Vance’s security authority | Fractured | Witness elimination, suppression, unlawful force | Chen has preserved his orders; Vance may not know the full extent | Independent review, direct order to destroy the local record, or Vance attempting to remove Chen |
-| Mercer ↔ Chen | Containment leader and incident coordinator | Moderate-to-high professional | Operational failure and conflicting command | Chen knows directive provenance; Mercer has field observations | Continued consistent force rules or Chen asking Mercer to preserve evidence against Vance |
-| Mercer ↔ Vance | Vance is designated authority | Low and deteriorating | Vance refuses named custody paths and prioritizes material over life | Mercer has heard Vance’s evasions; Vance controls reporting | Proof of unlawful orders or a direct order to fire without lawful basis |
-| Sterling ↔ Vance | Probable aligned operational interests | Unknown | Their motives may diverge if exposure grows | Vance controls Apex records; Sterling controls political narrative | Decrypted communications or direct command evidence |
-| Sterling ↔ Northbridge | Public staff, policy, donor, contract, and WSS links | Institutionally close | Northbridge may be exposed as operational cutout | Bell and WSS local audit may reveal more than Sterling expects | Independent seizure of WSS-4 records and personnel testimony |
-| Sterling ↔ Tariq | Their registered authorities shared K17-PHASE-B session | Operational link proved; personal trust unknown | Field objective may conflict with political timing | Tariq knows field status; Sterling office controls authorization device | Message decryption, Hartwell event, or field failure |
-| Vance ↔ Tariq | No direct personal link shown | Unknown | Operational interests overlap through Payload 88/K-17 chain | Vance knows source manipulation; Tariq’s command knows field status | A routing receipt, message, or testimony directly joining them |
-| Julie ↔ Sharma | No direct contact | None established | Both face action under uncertainty | Reader knows both sides; each does not know the other | Independent transmission of the recovery or abort records |
-| Marcus ↔ Hackett | Senior-subordinate professional relationship | Strained | Hackett requires lawful custody; Marcus believes custody sequence is compromised | Marcus knows evidence; Hackett knows institutional authority | Presentation of independently sealed WSS and Apex records |
-| Julie ↔ Hargrove | He pressured the fatal strike and helped shape the aftermath | None | Accountability for the prologue | Hargrove may know old details not preserved; Julie knows his conduct | Direct testimony correcting the old record |
-| Julie ↔ Sterling | No private contact | None | Sterling publicly defines Julie as attacker | Julie has office-device evidence; Sterling controls public interpretation | Hartwell physical evidence, independent witnesses, or signer custody |
-| Elias ↔ Vance | Employee and director | Destroyed | Vance framed him and threatened him | Elias holds hardware proof; Vance controls corporate logs | Independent examination of board and certificate chain |
-| Bell ↔ Julie/Elias | Sponsor deceived into WSS-4 diagnostic | Adversarial but evidence-aware | False work order and classified capture | Bell saw the full signer state and knows local audit exists | Pressure to erase the local record or lawful testimony |
-
----
-
----
-
-## Accepted Chapter 13 relationship delta
-
-| Relationship | Accepted movement | What did not occur | Next pressure |
-|---|---|---|---|
-| Julie ↔ Marcus | Operational trust strengthens because Marcus preserves originals, reports the observation/exfil standard precisely, and respects the locked abort test. | Full personal reconciliation or absolution. | Chapter 14 must test whether evidence discipline survives the live Hartwell challenge. |
-| Julie ↔ Elias | Trust strengthens through bounded technical testimony, voluntary marker use, and intact custody. | Elias does not become fearless, immune, or merely Julie’s instrument. | His legal exposure and technical limits remain active. |
-| Marcus ↔ Elias | Mutual reliance deepens around evidence separation and physical limitations. | No transfer of the board/module to Marcus and no merger of evidence roles. | Both must preserve distinct originals under tightening custody pressure. |
-| Julie ↔ Chen | Adversarial respect sharpens. Chen understands the target behavior and preserves capture/evidence priorities. | Chen does not defect or warn Julie. | Her eventual choice remains a Book 1 payoff. |
-| Julie ↔ Mercer | Mercer remains an active professional antagonist who sees Julie obey some limits and refuse custody. | He does not become a teammate or secret ally. | His witness value and institutional choice remain open. |
-| Trio ↔ responding police | The officer sees an unarmed, procedure-conscious trio but still has lawful grounds to detain them under the current bulletin. | Honest policing is not treated as conspiracy. | Custody, force, and independent record questions intensify. |
-| Trio ↔ ordinary Hartwell personnel | Personnel are observed as a carrier stream, not presumed conspirators. | No guilt by proximity or job role. | Chapter 14 must separate physical presentation from institutional routine. |
-
----
-## Accepted Chapter 14 relationship update
-- Julie and Marcus retain high operational trust while the personal/official-record wound remains unresolved.
-- Julie and Elias preserve voluntary, technically bounded agency and separate custody.
-- Julie and Ortiz establish procedural trust without belief; Ortiz is neither ally nor technical expert.
-- Mercer remains a professional adversary under MPD authority; Chen remains capture-oriented and evidence-sensitive; neither defects.
-- Hartwell is an external evidentiary contact only and discloses no protected substance.
-
-## Accepted Chapter 15 relationship update
-
-- Julie, Marcus, and Elias preserve operational trust through a deliberately complete custody sequence, but physical separation ends direct teamwork for the first time since Apex.
-- Julie protects Marcus by honoring the medical deadline and hard-abort rule rather than using his endurance as evidence of fitness.
-- Julie protects Elias's agency by preserving separate board/module descriptions and voluntary transfer records rather than collapsing him into the public hostage narrative.
-- Marcus and Elias each surrender originals to a lawful named officer without conceding technical interpretation.
-- Julie and Ortiz's procedural trust strengthens without belief, alliance, or technical endorsement.
-- Mercer remains an adversarial professional who respects MPD scene authority and receives no evidence.
-- Sharma remains thematically aligned with Julie but operationally separate; neither knows the other's event.
-
-## Chapter 16 accepted trust update — 2026-07-13
-
-- **Julie ↔ Marcus:** Marcus's correction removes his silence from the institution's available record and materially advances accountability. It is not an apology scene, forgiveness exchange, or restoration of uncomplicated trust.
-- **Julie ↔ Hackett:** trust becomes bounded and procedural. Hackett places his name behind preservation after lawful surrender; he does not clear Julie, take custody, or accept technical conclusions.
-- **Julie ↔ Ortiz / MPD:** Ortiz demonstrates procedural reliability by demanding a complete named receiver. He does not become Julie's ally or adopt her technical interpretation.
-- **Hackett ↔ Sharma / allied record:** the relationship is record-to-record only through a bounded preservation route. No direct personal trust or knowledge transfer is established.
-- **Julie ↔ Sharma:** no contact and no identity knowledge. The linked acknowledgment establishes a second record owner, not personal alliance.
-
-## Accepted Chapter 17 relationship update — 2026-07-14
-
-- **Julie ↔ Grant:** bounded professional respect begins. Grant trusts the reproducible method, not Julie's preferred theory; Julie accepts Grant's complete limited result.
-- **Julie ↔ Elias:** Julie protects Elias from a false original physical-token attribution without erasing his later voluntary choices or legal exposure.
-- **Julie ↔ Hackett:** Hackett's preservation sponsorship produces a bounded institutional result, but he remains neither receiver, adjudicator, immunity authority, nor uncomplicated ally.
-- **Julie ↔ MPD / Ortiz / Park:** procedural trust grows through custody discipline rather than personal allegiance.
-- **Grant ↔ Apex:** no trust relationship; Apex claims are logged but receive no equipment, observer, custody, or veto role.
-
-## Accepted Chapter 18 relationship update — 2026-07-14
-
-- **Sharma ↔ Qureshi:** professional trust strengthens through exact custody, read-only verification, and willingness to preserve a bounded result without claiming more.
-- **Sharma ↔ Sethi/Rao/Pal:** command trust is procedural and humane; Sharma tests testimony against photographs and records, honors the patrol's hard stop, and allows medical authority to end questioning.
-- **Sharma ↔ Northern Command:** tension increases because her local record contradicts the completeness of the superseding allied product; no open rupture or disobedience beyond bounded preservation is created.
-- **Julie ↔ Sharma:** remains record-to-record only. No direct relationship, contact, mutual identity knowledge, or personal alliance is created.
-- **Washington trio ↔ field record:** no relationship movement occurs because the acknowledgment does not disclose merits to them.
+- No new romance, uncomplicated alliance, immunity promise, or permanent future team is created in Chapter 22.
+- Future-book roles remain conditional on Book 1's accepted ending.
+- Relationship movement must be shown through accepted choices, custody, testimony, medical presence, or explicit communication.

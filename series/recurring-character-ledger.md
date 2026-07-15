@@ -1,466 +1,272 @@
 # SERIES RECURRING-CHARACTER LEDGER
 
-<!-- CH21_ACCEPTED_STATE_START -->
-## Chapter 21 accepted recurring-character delta
+## Status and authority
 
-- **Julie O'Donnell — CORE:** most recent accepted appearance advances to Chapter 21 at **12:18:04 EDT** in secure MPD evidence intake. She remains detained and physically limited, protects complete adverse/favorable source records, refuses a convenient defendant or manufactured innocence, and leads through bounded uncertainty. Tier and future function remain unchanged.
-- **Leland Price — RECURRING:** first accepted on-page appearance and most recent accepted appearance advance to Chapter 21. He is alive, represented, frightened, professionally exposed, and under bounded DIA administrative review. His authentic raw-source/source-integrity request and complete statement are preserved; his active authority ended before the later office request; no matching later act is authenticated. He is not cleared, immunized, declared a whistleblower, or made Julie's trusted ally. Tier remains **RECURRING**.
-- **Leila Grant:** independent examiner role advances through the office/DIA comparison. No automatic future-book tier or advocacy role is created.
-- **Miriam Alvarez:** named receiver/preservation authority issues the Chapter 21 demands. No universal jurisdiction or adjudicative role is created.
-- **William Hackett — RECURRING:** remains supporting and correctable; receives no unrestricted Price source record and no exonerating authority.
-- **Marcus Reed / Elias Thorne — CORE:** remain offstage in separate guarded medical custody; no recovery, briefing, or new agency event occurs. Elias's framed original identity and voluntary later acts remain distinct.
-- **Diane Kessler / Samuel Drennan:** remain bounded Book 1 authorizer/carrier figures; no recurring tier, new knowledge, or conspiracy finding is created.
-- **Sarah Chen — RECURRING:** receives only preservation-category pressure; no Price record, warning, alliance, or final choice.
-- **Senator Sterling — NETWORK:** public/network antagonist pressure continues; his account remains dominant and personal command remains unproved.
-- **Daniel Mercer / Nora Bell:** no accepted Chapter 21 action or knowledge expansion.
-<!-- CH21_ACCEPTED_STATE_END -->
-
-<!-- CH19_ACCEPTED_STATE_START -->
-## Chapter 19 accepted recurring-character delta
-
-- **Julie O’Donnell:** detained analytic/moral leader; protects proof limits even when they weaken her accusation; right wrist remains materially unusable; public reputation remains hostile.
-- **Leila Grant:** independent DCIS examiner; signs the Hartwell finding; professional respect for Julie increases without becoming advocacy.
-- **Miriam Alvarez:** named federal receiver for incident `187463`; accepts institutional exposure and scope responsibility.
-- **William Hackett:** preservation sponsor/supporting authority; remains bounded and correctable.
-- **Sarah Chen:** preserves exact record categories and force/directive conflicts; not a covert ally.
-- **Gabriel Ortiz / Hannah Park:** maintain MPD physical custody and witness/camera continuity.
-- **Marcus Reed:** offstage in guarded medical care; prior custody discipline remains materially useful.
-- **Elias Thorne:** offstage in separate guarded medical custody; authenticated voluntary record remains evidence, not a new action.
-- **Senator Sterling:** public antagonist pressure intensifies; office device is implicated institutionally, but personal possession, knowledge, and command remain unproved.
-<!-- CH19_ACCEPTED_STATE_END -->
-
-## Status
-
-**Approved cross-book production control.** Accepted prose always controls. Future-book functions are planning labels, not promises of survival, alliance, or availability.
+**Approved cross-book production control.** Accepted prose always controls. Future-book functions are planning labels, not promises of survival, alliance, employment, immunity, or availability.
 
 ## Series tiers
 
-- **CORE:** Essential continuing series character.
-- **RECURRING:** Strong planned return candidate with a distinct future function.
-- **NETWORK:** Continuing antagonist or institutional network figure.
-- **CONDITIONAL:** May return if the Book 1 ending leaves a logical role.
-- **CLOSED:** Book 1 function complete; return requires a new reason.
+- **CORE:** essential continuing series character
+- **RECURRING:** strong return candidate with a distinct function
+- **NETWORK:** continuing antagonist or institutional-network figure
+- **CONDITIONAL:** may return if the Book 1 ending leaves a logical role
+- **CLOSED:** Book 1 function complete; return requires a new reason
 
-## Required fields for every recurring character
+Unknown fields remain **not established**.
 
-- canonical name, rank, title, and aliases;
-- first and most recent accepted appearance;
-- age or established age range;
-- physical description and permanent marks;
-- voice and dialogue habits;
-- competencies and limitations;
-- public, employment, legal, and clearance status;
-- current physical condition;
-- current accepted location;
-- what the character knows;
-- what the character believes incorrectly;
-- evidence, secrets, or leverage in the character’s possession;
-- relationship with Julie;
-- Book 1 arc and intended end-state requirement;
-- series tier;
-- future-book function;
-- return trigger;
-- no-retcon locks; and
-- last accepted chapter and update record.
+## Accepted Chapter 22 delta
 
-Unknown fields must remain **not established** rather than being filled by convenience.
+- **Julie O'Donnell — CORE:** most recent accepted appearance advances to Chapter 22 at **13:12:44 EDT**. She remains detained and injured, chooses bounded proof over revenge or premature accusation, and preserves a signed private counterrecord. Tier unchanged.
+- **Sarah Chen — RECURRING:** most recent accepted appearance advances to Chapter 22. She preserves source-native Apex records and becomes a named witness at professional cost without becoming Julie's ally. Tier unchanged.
+- **Daniel Mercer — RECURRING:** Chapter 22 establishes a bounded direct-observation/contemporaneous-command witness function without alliance. Tier unchanged.
+- **Arthur Vance — CONDITIONAL:** later-release participation is proved only for the separately corroborated event; operational authority is removed pending review. No arrest, confession, sole-architect finding, or guaranteed return. Tier unchanged.
+- **Leila Grant / Miriam Alvarez:** independent method and consequence roles advance; no automatic future-book tier is assigned.
+- **Marcus Reed / Elias Thorne — CORE:** remain offstage in separate guarded medical custody; no recovery or new action. Tiers unchanged.
+- **Leland Price — RECURRING:** no new act or exoneration; complete record and exposure remain. Tier unchanged.
+- **Senator Sterling — NETWORK:** public account remains dominant; personal command remains unproved. Tier unchanged.
 
 ---
 
-## Julie O’Donnell
+## Julie O'Donnell
 
 - **Tier:** CORE
-- **Role:** Primary protagonist; former Army captain and intelligence officer; analyst, evidence custodian, and operational leader
+- **Role:** primary protagonist; former Army captain/intelligence officer; analyst, evidence custodian, and operational leader
 - **First accepted appearance:** Prologue
-- **Most recent accepted appearance:** Chapter 13
-- **Age:** Not established
-- **Physical continuity:** Right wrist significantly impaired and braced; exhausted; no firearm; publicly recognizable
-- **Voice/behavior:** Precise, evidence-limited, impatient with vague authority, unwilling to call inference proof
-- **Competencies:** Intelligence analysis, source provenance, operational reasoning, physical cause-and-effect judgment
-- **Limitations:** Trauma around delayed aborts; institutional distrust; right-hand impairment; no omniscience; not an action superhero
-- **Public/legal status:** Nationally sought alleged sabotage architect; no accepted conviction, charge, or warrant
-- **Current accepted location:** Garage level six west of Hartwell at 07:46 EDT; PCF-27 remains nose-out near the west ramp
-- **Knows:** Prior evidence chain plus the observed Hartwell carrier stream, compact black case, screened transfer, three-person 07:46 entry, and potential external-record geometry
-- **Does not know:** Physical custodian, encrypted plaintext, exact Phase B, current K-17 state, no-fire confirmation, safe independent recipient
-- **Relationship with Marcus:** High operational trust; personal wound unresolved
-- **Relationship with Elias:** Responsible leadership and conditional trust; refuses to erase his agency
-- **Book 1 end-state requirement:** Resolve immediate crisis; choose a future role; preserve evidence over revenge; avoid repeating Pakistan
-- **Future-book function:** Lead investigator/operator whose authority comes from demonstrated judgment rather than formal office
-- **Return trigger:** A verified anomaly, institutional request with meaningful independence, or consequence of the surviving Argus network
-- **No-retcon locks:** Four-second wound; no false certainty; no effortless trust in institutions; no normal right-hand strength without recovery; no casual sacrifice of civilians
-- **Last updated:** Accepted Chapter 13 / governance v3.1
+- **Most recent accepted appearance:** Chapter 22
+- **Age:** not established
+- **Physical continuity:** right wrist/forearm materially unusable and protected; detained; exhausted; no firearm
+- **Voice/behavior:** precise, evidence-limited, impatient with vague authority, unwilling to call inference proof
+- **Competencies:** intelligence analysis, source provenance, operational reasoning, physical cause-and-effect judgment, leadership under uncertainty
+- **Limitations:** four-second wound; institutional distrust; right-hand impairment; no omniscience; not an action superhero
+- **Public/legal status:** nationally framed as sabotage architect; detained at MPD; accepted charge/warrant/adjudication status remains bounded by prose
+- **Current accepted location/time:** secure MPD evidence intake, 13:12:44 EDT / 22:42:44 IST
+- **Knows:** complete Chapter 22 bounded reconciliation and consequence state
+- **Does not know/prove:** original 02:14 human operator, request constructor, Sterling personal command, Tariq physical operation, WSS plaintext, final public/legal outcome
+- **Relationship with Marcus:** high operational trust; private wound unresolved
+- **Relationship with Elias:** trust based on honest ownership of unsafe choices; legal and emotional cost unresolved
+- **Book 1 end-state requirement:** visible public fracture, responsibility without revenge, future-role choice, bounded carryovers
+- **Future-book function:** lead investigator/operator whose authority comes from demonstrated judgment rather than automatic office
+- **Return trigger:** verified anomaly, independent institutional request, surviving Argus network, or consequence of Book 1 records
+- **No-retcon locks:** no false certainty, no convenient institutional trust, no normal right-hand strength without recovery, no disposable civilians
 
 ## Marcus Reed
 
 - **Tier:** CORE
-- **Role:** Active-duty Army colonel and intelligence officer; Julie’s former colleague and current operational partner
+- **Role:** active-duty Army colonel/intelligence officer; Julie's former colleague and operational partner
 - **First accepted appearance:** Prologue
-- **Most recent accepted appearance:** Chapter 13
-- **Age:** Not established
-- **Physical continuity:** Severe rib, scalp, thigh, boot, balance, and mobility limitations
-- **Voice/behavior:** Procedural, strategic, controlled; tests plans by asking what fails and who holds custody
-- **Competencies:** Institutional navigation, intelligence operations, route/exfiltration judgment, evidence custody
-- **Limitations:** Physical condition; revoked/suspended credentials; guilt; tendency to protect access as influence
-- **Public/legal status:** Active-duty status remains; described publicly as armed accomplice; practical fugitive
-- **Current accepted location:** At PCF-27 on garage level six with primary evidence and west-route exfiltration control
-- **Knows:** Most of the evidence chain plus the garage observation record and hard-abort status; still not encrypted content, current K-17 status, or physical signer custody
-- **False belief/risk:** May still overvalue lawful sequence when time makes sequence unusable
-- **Relationship with Julie:** Strong operational trust; private betrayal not fully repaired
-- **Book 1 end-state requirement:** Make an on-record corrective choice that costs him something material
-- **Future-book function:** Institutional bridge, witness, strategist, or constrained insider
-- **Return trigger:** Formal investigation, military consequence, need for classified access, or Julie’s work intersecting Army systems
-- **No-retcon locks:** His earlier testimony was defensible cowardice, not innocent confusion; apology alone does not repair it; rank does not restore access; no sudden athletic recovery
-- **Last updated:** Accepted Chapter 13 / governance v3.1
+- **Most recent accepted appearance:** Chapter 16 on page; medically referenced through Chapter 22
+- **Age:** not established
+- **Physical continuity:** severe rib/scalp/thigh/boot/balance/breathing limits; on four liters oxygen at 92–93 percent saturation
+- **Voice/behavior:** procedural, strategic, tests plans through custody, abort conditions, and receiving authority
+- **Competencies:** institutional navigation, intelligence operations, route/exfiltration judgment, evidence custody
+- **Limitations:** physical state, revoked/suspended access, guilt, tendency to mistake access for influence
+- **Public/legal status:** active-duty status not finally resolved; publicly framed as armed accomplice; guarded medical custody
+- **Current accepted location:** separate guarded medical care
+- **Knows:** accepted pre-separation evidence and his own correction; no Chapter 22 briefing
+- **Relationship with Julie:** strong operational trust; six-years-ago betrayal not privately repaired
+- **Book 1 end-state requirement:** medical/institutional consequence and relationship resolution
+- **Future-book function:** institutional bridge, witness, strategist, or constrained insider
+- **Return trigger:** formal inquiry, military consequence, need for classified access, or Julie's future work
+- **No-retcon locks:** earlier testimony was defensible cowardice; apology alone does not repair it; rank does not restore access; no sudden recovery
 
 ## Elias Thorne
 
 - **Tier:** CORE
-- **Role:** Apex model developer; author of Validation Package 88; technical witness and voluntary whistleblower
+- **Role:** Apex model developer; author of Validation Package 88; technical witness with voluntary later acts
 - **First accepted appearance:** Chapter 2
-- **Most recent accepted appearance:** Chapter 13
-- **Age:** Not established
-- **Physical continuity:** Left-hip injury, bandaged right index finger, dizziness, exhaustion, torn office clothing
-- **Voice/behavior:** Technical precision mixed with visible fear; corrects language that erases his agency
-- **Competencies:** Argus validation, administrator-token systems, replay/mirroring, recovery routines, WSS session state
-- **Limitations:** Legally exposed; not expert in every system; no perfect technical solution; physically impaired
-- **Public/legal status:** Apex employee; publicly framed as possible hostage or saboteur; voluntary role preserved in audit records
-- **Current accepted location:** Beside Julie at the garage observation position with board and dual-partition incident module
-- **Knows:** Deepest technical chain plus the nine-marker handling journal and Hartwell challenge-state sequence; the last two markers do not display separate exact module times in prose
-- **Does not know:** Physical custodian, encrypted content, exact Phase B, current K-17 state, Sterling’s personal direction
-- **Relationship with Julie:** Trust based on honesty rather than comfort; anger remains
-- **Relationship with Marcus:** Increasing trust after physical and evidentiary protection
-- **Book 1 end-state requirement:** Preserve voluntary agency and technical distinction without granting immunity by convenience
-- **Future-book function:** Technical witness, reluctant expert, defendant, protected specialist, or independent builder of safer systems
-- **Return trigger:** Argus-derived system failure, prosecution/investigation, need to authenticate historical technical evidence
-- **No-retcon locks:** Later voluntary actions do not prove original deployment; fear remains; no universal hacking ability; right index and hip limitations matter
-- **Last updated:** Accepted Chapter 13 / governance v3.1
+- **Most recent accepted appearance:** Chapter 16 on page; medically referenced through Chapter 22
+- **Age:** not established
+- **Physical continuity:** hip injury, bandaged right index, dizziness, exhaustion/cold consequences
+- **Voice/behavior:** technical precision mixed with visible fear; corrects language that erases agency
+- **Competencies:** Argus validation, administrator-token systems, replay/mirroring, recovery routines, WSS state
+- **Limitations:** legally exposed; not expert in every system; no universal hacking ability; physically impaired
+- **Public/legal status:** Apex employee status unresolved; publicly framed as hostage or saboteur; guarded medical custody
+- **Current accepted location:** separate guarded medical custody
+- **Knows:** his board history and pre-separation evidence; no Chapter 22 briefing
+- **Relationship with Julie:** conditional trust based on honesty; anger and dependence remain
+- **Book 1 end-state requirement:** legal/agency aftermath preserving voluntary choice without convenient immunity
+- **Future-book function:** technical witness, reluctant expert, defendant, protected specialist, or independent safer-systems builder
+- **Return trigger:** Argus-derived failure, prosecution/inquiry, authentication need
+- **No-retcon locks:** later voluntary acts do not prove original deployment; fear remains; injuries matter
 
 ## Sarah Chen
 
 - **Tier:** RECURRING
-- **Role:** Apex contractor-integration and compliance official with government liaison access; incident coordinator
+- **Role:** Apex contractor-integration/compliance official with government liaison and incident-coordination functions
 - **First accepted appearance:** Chapter 1
-- **Most recent accepted appearance:** Chapter 13
-- **Age:** Not established
-- **Physical continuity:** No injury established
-- **Voice/behavior:** Careful language, procedural discipline, evidence-preservation instinct, no sentimental defection
-- **Competencies:** Incident command, compliance, interagency coordination, record preservation
-- **Limitations:** Still capture-oriented; institutionally implicated; incomplete technical knowledge
-- **Public/legal status:** Not publicly implicated; decisions likely reviewable
-- **Current accepted location:** Apex Building Three incident command at 07:28 EDT
-- **Knows:** Prior incident record plus the garage plate hit and likely Hartwell observation mission; she does not know the hidden custodian or the trio’s final sightline result
-- **Does not know:** Full evidence contents, encrypted blocks, current K-17 state, physical signer custodian
-- **Relationship with Julie:** Adversarial and increasingly evidence-sensitive
-- **Book 1 end-state requirement:** Make a consequential preservation/disclosure choice without becoming an uncomplicated ally
-- **Future-book function:** Lawful institutional foil, investigator, witness, compliance authority, or rival
-- **Return trigger:** Inquiry into Apex, evidence custody dispute, oversight proceeding, or future contractor-government incident
-- **No-retcon locks:** Preservation is not alliance; she has legitimate reasons to seek custody; no omniscience; no secret warning without accepted scene
-- **Last updated:** Accepted Chapter 13 / governance v3.1
+- **Most recent accepted appearance:** Chapter 22
+- **Physical continuity:** no injury established
+- **Voice/behavior:** careful language, procedural discipline, evidence-preservation instinct, no sentimental defection
+- **Competencies:** incident command, compliance, interagency coordination, record preservation
+- **Limitations:** capture-oriented; institutionally implicated; incomplete technical and external-source knowledge
+- **Public/legal status:** not publicly implicated; decisions and preserved records are reviewable
+- **Current accepted location:** Apex Building Three source/incident-control environment
+- **Knows:** Apex source-native identity-map/release records, Vance later-release event, her objection, Mercer witness categories
+- **Does not know:** complete MPD package contents, all DCIS findings, Arjun originals, WSS plaintext
+- **Relationship with Julie:** adversarial and evidence-sensitive
+- **Book 1 end-state requirement:** professional/testimonial consequence without uncomplicated alliance
+- **Future-book function:** lawful institutional foil, investigator, witness, compliance authority, or rival
+- **Return trigger:** Apex inquiry, custody dispute, oversight proceeding, later contractor-government incident
+- **No-retcon locks:** preservation is not alliance; no secret warning or release without accepted scene
 
 ## Daniel Mercer
 
 - **Tier:** RECURRING
-- **Role:** Apex Protective Services containment officer
+- **Role:** Apex Protective Services containment officer and bounded witness
 - **First accepted appearance:** Chapter 3
-- **Most recent accepted appearance:** Chapter 13
-- **Age:** Not established
-- **Physical continuity:** Taped wrist after the stairwell encounter; otherwise no major accepted injury state requiring carryover
-- **Voice/behavior:** Professional, command-focused, asks for authority and force standards
-- **Competencies:** Containment, tactical movement, background/force judgment, evidence recovery
-- **Limitations:** Works from incomplete reports; remains an antagonist; not a covert ally
-- **Public/legal status:** Active Apex security officer
-- **Current accepted location:** Garage level six west of Hartwell at the 07:46 endpoint
-- **Knows:** Prior pursuit facts plus the trio’s bounded Hartwell observation purpose and evidence-limit answers; he still does not know the hidden custodian
-- **Relationship with Julie:** Professional adversary with mutual recognition of limits
-- **Book 1 end-state requirement:** Make a consequential choice about lawful force, evidence, or testimony
-- **Future-book function:** Security professional, witness, investigator, or recurring adversarial counterpart
-- **Return trigger:** Custody action, security inquiry, testimony, or another operation involving contested lawful authority
-- **No-retcon locks:** No secret membership in Julie’s team; restraint does not equal allegiance; he does not ignore duty
-- **Last updated:** Accepted Chapter 13 / governance v3.1
+- **Most recent accepted appearance:** Chapter 22 through direct-observation statement
+- **Physical continuity:** taped wrist from earlier encounter; no new injury accepted
+- **Voice/behavior:** professional, command-focused, asks for authority and force standards
+- **Competencies:** containment, tactical movement, background/force judgment, evidence recovery
+- **Limitations:** incomplete reports; remains adversarial; not a covert ally
+- **Public/legal status:** active Apex security status subject to review
+- **Knows:** direct observation and contemporaneous command only
+- **Relationship with Julie:** professional adversary with mutual recognition of limits
+- **Book 1 end-state requirement:** testimony/professional consequence consistent with accepted choices
+- **Future-book function:** security professional, witness, investigator, or recurring adversarial counterpart
+- **No-retcon locks:** restraint does not equal allegiance; he does not abandon duty
 
 ## Major Ananya Sharma
 
 - **Tier:** RECURRING
-- **Role:** Indian artillery officer at Forward Post Arjun; independent decision-maker who aborted fire
+- **Role:** Indian artillery officer at Forward Post Arjun; independent no-fire decision-maker
 - **First accepted appearance:** Chapter 3
-- **Most recent accepted appearance:** Chapter 8
-- **Age:** Not established
-- **Physical continuity:** No injury established
-- **Voice/behavior:** Direct, skeptical of machine certainty, accepts responsibility for decisions made on the mountain
-- **Competencies:** Artillery command, field judgment, cross-source validation, escalation control
-- **Limitations:** Limited visibility into the American system and Washington operation
-- **Public/legal status:** Military consequences not yet established
+- **Most recent accepted appearance:** Chapter 18 record/accepted chain
+- **Physical continuity:** no injury established
+- **Voice/behavior:** direct, skeptical of machine certainty, accepts responsibility
+- **Competencies:** artillery command, field judgment, cross-source validation, escalation control
+- **Limitations:** limited visibility into American/Washington systems
 - **Current accepted location:** Forward Post Arjun
-- **Knows:** Argus warning inconsistency, vanished source-review notice, her own no-fire/abort record
-- **Does not know:** Julie’s identity and full evidence chain
-- **Relationship with Julie:** No direct contact
-- **Book 1 end-state requirement:** Her independent records or action must affect the proof or geopolitical outcome
-- **Future-book function:** International counterpart, independent ally, skeptic, or regional protagonist
-- **Return trigger:** Cross-border crisis, shared evidence, formal inquiry, or Argus deployment affecting India
-- **No-retcon locks:** Her decision is independent; she is not Julie’s remote subordinate; no American omniscience over her chain of command
-- **Last updated:** Accepted Chapter 8 / governance v3.0
+- **Knows:** local warning anomalies, zero-write failure, no-fire/abort record, superseding omission
+- **Relationship with Julie:** no direct contact
+- **Book 1 end-state:** independent records materially affect proof/outcome — materially achieved; future contact optional
+- **Future-book function:** international counterpart, skeptic, ally, or regional protagonist
+- **No-retcon locks:** independent command; not Julie's remote subordinate
 
 ## General William Hackett
 
 - **Tier:** RECURRING
-- **Role:** Deputy director for operational intelligence; potential receiving authority
+- **Role:** senior operational-intelligence authority and preservation sponsor
 - **First accepted appearance:** Chapter 4 voice contact
-- **Most recent accepted appearance:** Chapter 4
-- **Age:** Not established
-- **Physical continuity:** Not established
-- **Voice/behavior:** Institutionally constrained; insists on admissible evidence and lawful surrender
-- **Competencies:** Senior intelligence authority and access to formal channels
-- **Limitations:** Has not seen the later evidence; lawful intake sequence may be too slow
-- **Public/legal status:** Senior government official
-- **Current accepted location:** Not established
-- **Knows:** Marcus and Julie possess disputed classified material and claim the Pakistan assessment is compromised
-- **Does not know:** Later WSS-4/Hartwell proof
-- **Relationship with Julie:** Institutional contact, not trusted recipient
-- **Book 1 end-state requirement:** Make a concrete choice after receiving stronger evidence
-- **Future-book function:** Oversight authority, sponsor, skeptic, or institutional adversary
-- **Return trigger:** Formal custody, investigation, authorization, or need for an independent government channel
-- **No-retcon locks:** He did not secretly accept Julie’s claim during the motel call; he instructed surrender
-- **Last updated:** Accepted Chapter 4 / governance v3.0
+- **Most recent accepted role:** Chapter 22 support-level authority coordination
+- **Voice/behavior:** institutionally constrained; demands admissible, bounded evidence
+- **Competencies:** senior access, lawful preservation and assistance requests
+- **Limitations:** not examiner, prosecutor, universal receiver, or guarantor
+- **Relationship with Julie:** conditional, correctable institutional trust
+- **Future-book function:** senior sponsor, witness, or constrained authority
+- **No-retcon locks:** lawful procedure may be slow without being corrupt; no unlimited access
 
 ## Leland Price
 
 - **Tier:** RECURRING
-- **Role:** DIA systems auditor whose access was suspended after requesting raw-feed access
-- **First accepted appearance:** Referenced in Chapter 1
-- **Most recent accepted appearance:** Referenced in Chapter 4
-- **Age:** Not established
-- **Physical continuity:** Not established
-- **Voice/behavior:** Not established
-- **Competencies:** Systems audit and raw-feed review
-- **Limitations:** Current freedom, location, and access unknown
-- **Public/legal status:** Under administrative access review; exact status unresolved
-- **Current accepted location:** Unknown
-- **Knows:** Unknown; likely connected to the initial source concern, but do not expand without accepted evidence
-- **Relationship with Julie:** None established
-- **Book 1 end-state requirement:** Pay off his disappearance through appearance, record, testimony, or confirmed disposition
-- **Future-book function:** Auditor, witness, technical investigator, or casualty of institutional suppression
-- **Return trigger:** Recovery of source records, inquiry into Apex/DIA handling, or later Argus audit
-- **No-retcon locks:** Do not assume detention, death, complicity, or full knowledge
-- **Last updated:** Accepted Chapter 4 / governance v3.0
+- **Role:** DIA systems auditor; authentic source-review requester; later borrowed identity/reference subject
+- **First accepted appearance:** Chapter 21
+- **Most recent accepted appearance:** Chapter 21; preserved through Chapter 22
+- **Physical continuity:** no injury established
+- **Voice/behavior:** careful, frightened, technically bounded, represented
+- **Competencies:** systems audit, source-integrity requests, institutional record discipline
+- **Limitations:** authority ended before later path; professionally exposed; not omniscient
+- **Public/legal status:** bounded DIA administrative review; no immunity or exoneration
+- **Current accepted location:** controlled administrative setting; exact location not established
+- **Knows:** his request, rejection, statement, authority end; not complete Chapter 22 reconciliation
+- **Relationship with Julie:** no personal trust established; she protects his complete record
+- **Book 1 end-state requirement:** bind professional/legal disposition without convenient innocence or guilt
+- **Future-book function:** technical auditor, witness, damaged insider, or reluctant source
+- **No-retcon locks:** authentic request does not clear all conduct; borrowed name does not identify constructor
 
 ## Senator Sterling
 
 - **Tier:** NETWORK
-- **Role:** Senator publicly leading the crisis response; office authority registered to SSO-NS-004
-- **First accepted appearance:** Chapter 9 public narrative
-- **Most recent accepted appearance:** Chapter 13 (through public schedule, motorcade/support route, and Hartwell carrier stream; no private POV)
-- **Age:** Not established
-- **Physical continuity:** No injury established
-- **Voice/behavior:** Controlled public certainty, institutional discipline language, politically useful framing
-- **Competencies:** Public narrative, legislative influence, secure office authority, access to Hartwell
-- **Limitations:** Personal command role and physical possession remain unproved
-- **Public/legal status:** Senator; publicly unimplicated
-- **Current accepted location:** Not directly observed; the public schedule and principal motorcade converge on Hartwell, but Sterling’s exact personal location is not shown
-- **Knows:** Exact private knowledge is unestablished
-- **Relationship with Julie:** Public antagonist; no direct personal relationship established
-- **Book 1 end-state requirement:** Public story materially fractures; Book 1 establishes a bounded operational connection or bounded uncertainty
-- **Future-book function:** Continuing political antagonist or node in a larger network
-- **Return trigger:** Oversight, election/political survival, investigation, surviving network, or another Argus deployment
-- **No-retcon locks:** Office registration is not personal possession; public statements are not proof of private command; do not make him a generic omnipotent villain
-- **Last updated:** Accepted Chapter 13 / governance v3.1
-
-## Major Tariq
-
-- **Tier:** NETWORK
-- **Role:** Registered field authority associated with K17-PHASE-B
-- **First accepted appearance:** Chapter 8/10 operational record
-- **Most recent accepted appearance:** Chapter 12 session record
-- **Age:** Not established
-- **Physical continuity:** Not established
-- **Voice/behavior:** Not established in direct POV
-- **Competencies:** Field command authority, exact scope unproved
-- **Limitations:** Physical location, device use, and field-team presence unknown
-- **Public/legal status:** Not established
-- **Current accepted location:** Unknown
-- **Knows:** Unknown beyond what accepted records attribute to his command authority
-- **Relationship with Julie:** None
-- **Book 1 end-state requirement:** Immediate K-17/Phase B role must be clarified enough to resolve the threat
-- **Future-book function:** International network antagonist, field counterpart, or ambiguous authority
-- **Return trigger:** K-17 aftermath, decrypted communications, international inquiry, or surviving operation
-- **No-retcon locks:** Accepted field authority does not prove physical presence or personal operation
-- **Last updated:** Accepted Chapter 12 / governance v3.0
+- **Role:** public/political antagonist; office authority implicated at bounded levels
+- **First accepted appearance:** public statement sequence
+- **Most recent accepted state:** hostile public account remains dominant through Chapter 22
+- **Voice/behavior:** measured institutional language, public discipline, controlled interpretation
+- **Competencies:** political framing, oversight leverage, legitimate institutional access
+- **Limitations/proof ceilings:** personal possession, knowledge, direction, and command remain unproved
+- **Public/legal status:** senator proceeding through public structures; no accepted arrest, charge, or private confession
+- **Relationship with Julie:** public antagonist; no private confrontation
+- **Book 1 end-state requirement:** authenticated visible fracture and bounded office consequence without false personal-command proof
+- **Future-book function:** continuing network antagonist only if Book 1 leaves a supported role
+- **No-retcon locks:** no private POV/guilt without accepted scene; office device is not his hand
 
 ## Arthur Vance
 
 - **Tier:** CONDITIONAL
-- **Role:** Apex site director and registered executive authority behind APX-DIR-0019
-- **First accepted appearance:** Chapter 2
-- **Most recent accepted appearance:** Chapter 13 (executive-channel order in the Chen/Mercer cutaway)
-- **Age:** Not established
-- **Physical continuity:** No injury established
-- **Voice/behavior:** Precise institutional justification; treats defensible system output as strategic necessity
-- **Competencies:** Apex authority, security directives, public record shaping, system access
-- **Limitations:** Registered authority does not prove every personal action; has lost exclusive control of the record
-- **Public/legal status:** Publicly unimplicated; internally challenged by preserved records
-- **Current accepted location:** Exact location unshown; connected to Apex incident command
-- **Knows:** The garage/Hartwell convergence and telemetry-recovery priority; the hidden signer custodian, final sightline result, and exact K-17/Phase B state remain unknown
-- **Relationship with Julie:** Evidence-driven antagonist
-- **Book 1 end-state requirement:** Meaningful operational consequence
-- **Future-book function:** Witness, defendant, compromised executive, or continuing node only if Book 1 leaves a logical path
-- **Return trigger:** Testimony, prosecution, cooperation, escape, or discovery of upstream direction
-- **No-retcon locks:** Certificate does not prove personal keystrokes; do not make him sole architect without evidence
-- **Last updated:** Accepted Chapter 13 / governance v3.1
+- **Role:** Apex site/executive authority; later remote-release participant
+- **First accepted appearance:** Chapter 4
+- **Most recent accepted state:** Chapter 22 finding and operational removal
+- **Voice/behavior:** calm, precise, operational, treats institutional usefulness as justification
+- **Competencies:** Apex authority, evidence/report control, program operations
+- **Limitations/proof ceilings:** later release proved; original deployment keystrokes, sole architecture, upstream command, and confession unproved
+- **Public/legal status:** removed from operational release/security/source-custody authority pending review; employment/criminal status unresolved
+- **Book 1 end-state:** meaningful operational consequence achieved; additional lawful consequence may continue
+- **Future-book function:** witness, defendant, network node, or closed Book 1 antagonist depending final outcome
+- **No-retcon locks:** no theatrical monologue; no back-propagation to 02:14 event
+
+## Major Tariq
+
+- **Tier:** NETWORK
+- **Role:** registered field endpoint authority in K-17 operational chain
+- **First accepted appearance:** system/field authority record
+- **Most recent accepted state:** bounded records through Chapter 22
+- **Physical presence:** unproved
+- **Knowledge/intent/operation:** unproved beyond registered authority and accepted fields
+- **Future-book function:** regional network figure if later evidence establishes a supported role
+- **No-retcon locks:** registered authority is not physical operation
 
 ## Nora Bell
 
 - **Tier:** CONDITIONAL
-- **Role:** Northbridge facilities and technical-watch witness
+- **Role:** Northbridge facilities/technical-watch sponsor and WSS local-record preserver
 - **First accepted appearance:** Chapter 12
-- **Most recent accepted appearance:** Chapter 12
-- **Age:** Not established
-- **Physical continuity:** No injury established
-- **Voice/behavior:** Practical, suspicious, responsible for local systems, not shown as conspirator
-- **Competencies:** WSS-4 sponsorship, local audit awareness, Northbridge facilities
-- **Limitations:** Incomplete knowledge of the wider operation
-- **Public/legal status:** Potential witness
-- **Current accepted location:** Fenwick Annex / Northbridge
-- **Knows:** Julie and Elias used a false work order; WSS-4 captured the signer chain; local record exists
-- **Relationship with Julie:** Hostile witness with shared interest in preserving an accurate local record
-- **Book 1 end-state requirement:** Confirm fate of the local record
-- **Future-book function:** Technical witness, institutional contact, or reluctant corroborator
-- **Return trigger:** Audit seizure, testimony, Northbridge inquiry, or later secure-suite evidence
-- **No-retcon locks:** Not a knowing conspirator without new evidence; anger at Julie is legitimate
-- **Last updated:** Accepted Chapter 12 / governance v3.0
+- **Most recent accepted state:** preserved through ending-contract obligations
+- **Voice/behavior:** ordinary professional making pressured security decisions; not a conspirator by employment
+- **Book 1 end-state requirement:** bind professional/testimonial aftermath
+- **Future-book function:** witness or secure-facility professional if logically required
+
+## Leila Grant
+
+- **Tier:** CONDITIONAL
+- **Role:** independent DCIS examiner
+- **First accepted appearance:** Chapter 17
+- **Most recent accepted appearance:** Chapter 22
+- **Voice/behavior:** exact, skeptical of preferred conclusions, method-first
+- **Function:** makes bounded facts reproducible and refuses overclaim
+- **Future-book function:** examiner or institutional counterpart if a distinct later need exists
+- **No-retcon locks:** not Julie's advocate; no universal jurisdiction
+
+## Miriam Alvarez
+
+- **Tier:** CONDITIONAL
+- **Role:** DCIS supervisory authority and named receiver
+- **First accepted appearance:** Chapter 17 voice/authority
+- **Most recent accepted role:** Chapter 22 operational-removal and preservation authority
+- **Voice/behavior:** signed, narrow, independently accountable decisions
+- **Future-book function:** supervisor, investigator, or receiving authority if later jurisdiction supports it
+- **No-retcon locks:** consequence is not adjudication; no automatic exoneration
+
+## Gabriel Ortiz and Hannah Park
+
+- **Tier:** CONDITIONAL
+- **Role:** MPD custody/witness officers
+- **Function:** physical package, camera, restraint, and receipt continuity
+- **Future-book role:** witnesses or custody professionals only if legal aftermath requires them
+- **No-retcon locks:** not technical examiners or conspirators
 
 ## Daniel Hargrove
 
-- **Tier:** CONDITIONAL
-- **Role:** Lieutenant colonel who drove the six-years-ago strike decision
-- **First accepted appearance:** Prologue
-- **Most recent accepted appearance:** Prologue
-- **Age:** Not established
-- **Physical continuity:** Not established
-- **Voice/behavior:** Command urgency, reliance on certified confidence, institutional self-protection
-- **Competencies:** Military command and strike authority
-- **Limitations:** Present-day role and knowledge unknown
-- **Public/legal status:** Letter of concern did not enter permanent record
-- **Current accepted location:** Unknown
-- **Knows:** Original strike-room events; exact later knowledge unknown
-- **Relationship with Julie:** Defining historical antagonist
-- **Book 1 end-state requirement:** Optional unless needed for Marcus’s corrective choice
-- **Future-book function:** Witness, institutional antagonist, or link to the old incident
-- **Return trigger:** Reopened investigation, recovered routing evidence, or repeated Argus method
-- **No-retcon locks:** Do not make him part of the current conspiracy without evidence
-- **Last updated:** Prologue / governance v3.0
+- **Tier:** CONDITIONAL / HISTORICAL
+- **Role:** six-years-ago commander whose decision and official-record survival form Julie's wound
+- **Future use:** inquiry, historical proof, or accountability only if supported
+- **No-retcon locks:** earlier command failure remains; no convenient mastermind status
 
-## Sameer Qureshi
+## Tom Baines / Sameer Qureshi / Martin Keller
 
 - **Tier:** CONDITIONAL
-- **Role:** Lieutenant at Forward Post Arjun; Sharma’s technical/communications subordinate and witness
-- **First accepted appearance:** Chapter 3
-- **Most recent accepted appearance:** Chapter 8
-- **Age:** Not established
-- **Physical continuity:** No injury established
-- **Voice/behavior:** Respectful, observant, willing to preserve anomalies when ordered
-- **Competencies:** Communications, firing-board operations, local record preservation
-- **Current accepted location:** Forward Post Arjun
-- **Book 1 end-state requirement:** His image and records may support Sharma’s independent counterrecord
-- **Future-book function:** Witness or operational contact
-- **Return trigger:** Indian inquiry, cross-border crisis, or evidence exchange
-- **No-retcon locks:** No direct relationship with Julie yet
-- **Last updated:** Accepted Chapter 8 / governance v3.0
+- **Functions:** Baines as historical analyst witness; Qureshi as Arjun record/command witness; Keller as Apex development-chain figure
+- **Return trigger:** only a distinct evidentiary, institutional, or regional need
+- **No-retcon locks:** no automatic conspiracy membership or future-team role
 
-## Tom Baines
+## Ledger maintenance
 
-- **Tier:** CONDITIONAL
-- **Role:** Sergeant in the original Argus strike room
-- **First accepted appearance:** Prologue
-- **Most recent accepted appearance:** Prologue
-- **Age:** Not established
-- **Current accepted location/status:** Unknown
-- **Knows:** Julie found the Exercise 7C carrier-noise match before the strike; exact later testimony unknown
-- **Book 1 end-state requirement:** None unless used to strengthen the original-record payoff
-- **Future-book function:** Historical witness
-- **Return trigger:** Reopened strike investigation or recovered training archive
-- **No-retcon locks:** Do not invent testimony or preservation actions not shown
-- **Last updated:** Prologue / governance v3.0
-
-## Martin Keller
-
-- **Tier:** CONDITIONAL
-- **Role:** Elias’s Apex supervisor
-- **First accepted appearance:** Chapter 2
-- **Most recent accepted appearance:** Chapter 2
-- **Age:** Not established
-- **Current accepted location/status:** Unknown
-- **Knows:** Saw or understood enough of the production conflict to react evasively; exact complicity remains unproved
-- **Book 1 end-state requirement:** Optional corroboration if needed for Vance/Elias evidence
-- **Future-book function:** Witness, compromised manager, or participant depending on accepted evidence
-- **Return trigger:** Apex inquiry, testimony, or recovered internal communications
-- **No-retcon locks:** Evasive behavior is not proof of full conspiracy membership
-- **Last updated:** Accepted Chapter 2 / governance v3.0
-
----
-## Accepted Chapter 14 series-state update
-- **Julie:** Most recent accepted appearance Chapter 14; under MPD scene control at 07:49:32; wrist impairment and legal pressure remain; she creates a witnessable record and obeys the hard abort.
-- **Marcus:** Most recent accepted appearance Chapter 14; retains primary originals; severe injuries remain; formal six-years-ago corrective action is still required.
-- **Elias:** Most recent accepted appearance Chapter 14; retains board and sealed module; voluntarily creates bounded markers under police observation; legal and physical exposure remain.
-- **Chen/Mercer:** Their institutional conflicts deepen without alliance.
-- **Sterling/Vance/Tariq:** Operational links remain bounded by accepted evidence; no personal signer hand, sole-architect finding, or field result is created.
-- **Officer Ortiz:** Named Book 1 institutional witness only. Add a recurring-series entry only if later accepted prose gives him a continuing function or return trigger.
-
-## Accepted Chapter 15 series-state update
-
-- **Julie O'Donnell:** Most recent accepted appearance Chapter 15. At 07:56:40 EDT she is in marked MPD transport under injury-compatible restraint, without an original. Wrist injury and public/legal pressure remain. Her series function is unchanged.
-- **Marcus Reed:** Most recent accepted appearance Chapter 15. In guarded ambulance care with oxygen saturation improved to 92–93 percent; severe rib, scalp, thigh, boot, balance, and breathing limits remain. He no longer holds the originals. His formal on-record correction remains required.
-- **Elias Thorne:** Most recent accepted appearance Chapter 15. In separate guarded medical transport; board and module transferred separately to MPD with voluntary receipt references. Hip, right-index, dizziness, and exhaustion remain. His technical/agency distinction is stronger, not legally resolved.
-- **Major Ananya Sharma:** Most recent accepted appearance Chapter 15. She preserves the prior and superseding allied products, source-review image, local references, abort, and no-fire record as one challenged incident set. Her required Book 1 independent-record function is advanced.
-- **Sarah Chen / Daniel Mercer:** No alliance or final choice created; continuing functions remain.
-- **Sterling / Vance / Tariq:** Evidence boundaries remain unchanged; no physical signer, personal keystroke, direct command, K-17 access, or Phase B result is created.
-- **Officer Ortiz:** Continues as a named Book 1 institutional witness/custodian only. No recurring-series tier is assigned.
-- **Officer Hannah Park:** Single-scene witness officer supporting receipt and body-camera continuity. No recurring-series entry or future obligation is created.
-
-## Chapter 16 accepted recurring-character update — 2026-07-13
-
-**Julie O'Donnell:** remains the primary protagonist; physically restrained and injured; leads through the exact custody question and refuses technical overclaim. Gains a second record owner, not vindication or unrestricted allied knowledge.
-
-**Marcus Reed:** makes the complete attributable correction to his six-years-ago testimony under EMS authority and accepts disciplinary/legal exposure. He remains medically unstable and separated from Julie and Elias.
-
-**Elias Thorne:** remains in separate guarded medical transport with no technical or evidence action in Chapter 16.
-
-**William Hackett:** makes a named institutional choice as federal preservation sponsor. He does not become a technical ally, receiver, or exonerating authority.
-
-**Gabriel Ortiz:** remains a neutral, procedure-driven MPD officer whose insistence on one complete named receiver protects the chain without adopting Julie's conclusions.
-
-**Ananya Sharma:** preserves the challenged allied record with caveats and disclosure limits, maintaining her independent command responsibility and knowledge boundary.
-
-## Accepted Book 1 Chapter 17 update — 2026-07-14
-
-### Julie O'Donnell
-Accepted end state advances to 09:12:52 EDT at secure MPD evidence intake. She remains detained, right-hand impaired, separated from Marcus and Elias, and committed to bounded truth over exonerating simplification.
-
-### Marcus Reed
-Remains in guarded medical care on four liters of oxygen; his prior correction and its institutional consequences remain active. No Chapter 17 action or recovery is added.
-
-### Elias Thorne
-Remains injured and separated. The physical board no longer supports ordinary original physical-token use but independently supports his later voluntary gate and reconciliation acts. Legal status and future series role remain unresolved.
-
-### Special Agent Leila Grant
-First accepted appearance. DCIS examiner who signs the first independent, reproducible board finding. No future-book or recurring role is assumed by Book 1 Chapter 17.
-
-## Accepted Book 1 Chapter 18 recurring-character update — 2026-07-14
-
-### Major Ananya Sharma
-- Most recent accepted appearance advances to Chapter 18.
-- Current accepted location: Forward Post Arjun at 19:31:12 IST.
-- Knows the bounded K-17 local result, zero-write failure, surviving journal, and superseding omission.
-- Preserves original, derivative, patrol record, and bounded acknowledgment without direct contact with Julie.
-- Series tier remains **RECURRING**; her future function as an independent international counterpart is strengthened but not converted into alliance.
-
-### Sameer Qureshi
-- Most recent accepted appearance advances to Chapter 18.
-- Receives and controls the local original, runs the isolated read-only examination, and witnesses resealing and acknowledgment.
-- Series tier remains **CONDITIONAL**; no direct Julie relationship or future-book guarantee is created.
-
-### Julie O'Donnell, Marcus Reed, and Elias Thorne
-- Most recent accepted appearance remains Chapter 17 because they are offstage in Chapter 18.
-- Their medical, legal, custody, relationship, and knowledge states do not change.
-
-### Captain Rao, Naib Subedar Vikram Sethi, and Lance Naik Suresh Pal
-- Book 1 field witnesses with no recurring tier assigned.
-- Any future return requires a new accepted function rather than automatic series promotion.
+Update this file only after accepted prose or accepted control-state changes. Every future entry must preserve most recent accepted appearance, physical/legal state, knowledge boundaries, relationship state, series tier, return trigger, and no-retcon locks.

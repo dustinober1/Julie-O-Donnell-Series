@@ -1,288 +1,50 @@
 # 13. ANTAGONIST OBJECTIVES AND CONSPIRACY MODEL
 
-<!-- CH21_ACCEPTED_STATE_START -->
-## Accepted Chapter 21 antagonist-pressure delta
+## Model rule
 
-- Sterling's public account remains dominant while the private record gains a constructed request-identity mechanism.
-- Office-level responsibility remains real, but Price's name no longer supplies a convenient human author and Sterling's personal command remains unproved.
-- The continuity request inherited Price's identity/reference after his authority ended and added operational routing; the constructor remains unknown.
-- Vance, Tariq, Kessler, Drennan, Bell, Northbridge, Chen, and Mercer receive no new private-act or conspiracy expansion.
-- Antagonist pressure shifts toward preservation of continuity-broker, identity-mapping, request-construction, source-inheritance, authority-binding, release-event, and remote-reconstruction records.
-<!-- CH21_ACCEPTED_STATE_END -->
+The conspiracy is a network of aligned interests, tools, permissions, and institutional incentives. Do not collapse it into a single omniscient mastermind without accepted evidence.
 
-<!-- CH20_ACCEPTED_STATE_START -->
-## Accepted Chapter 20 antagonist-pressure delta
+## Arthur Vance / Apex
 
-- Sterling’s public account remains dominant and omits the LSS hold, Drennan, Kessler, and the instruction-source gap.
-- Office-level responsibility strengthens through the continuity exception, but Sterling’s personal possession, knowledge, operation, and command remain unproved.
-- Vance/Apex, Tariq, Northbridge, Bell, Chen, and Mercer receive no new personal-act expansion.
-- The antagonist pressure shifts from a moving device to the initiating instruction and the institutions capable of preserving or withholding it.
-<!-- CH20_ACCEPTED_STATE_END -->
-<!-- CH19_ACCEPTED_STATE_START -->
-## Chapter 19 accepted antagonist-pressure delta
+**Established:**
+- Apex authority architecture supported the Payload 88 production bridge, containment, evidence control, and later remote reconstruction.
+- Vance personally participated in the later remote reconstruction release through live-palm authentication and source-native local release record, independently corroborated by camera, access journal, Chen, Mercer, and government registry.
+- Vance sought control over evidence and interpretation and lost operational release/security/source-custody authority pending review.
 
-- Sterling’s public objective remains control of the insider-attack narrative; his statement omits the no-fire result, failed local commit, and office-device chain.
-- The accepted record creates an office-level operational implication through `SSO-NS-004` without proving Sterling’s personal hand, knowledge, or command.
-- Vance/Apex pressure continues through classification, property, privilege, and generic-summary arguments; no new proof establishes Vance’s personal keystrokes or upstream direction.
-- Tariq remains a registered field authority only; physical presence, possession, and personal command remain unproved.
-- The conspiracy model now has a durable Washington–field cross-reference and a mobile physical evidence target, but human responsibility remains unresolved.
-<!-- CH19_ACCEPTED_STATE_END -->
+**Not established:**
+- Vance personally typed or physically executed the original 02:14 deployment.
+- Vance created every borrowed/framed identity path.
+- Vance received or obeyed Sterling's personal command.
+- Vance is the sole architect or has confessed.
 
-## Arthur Vance
+**Likely institutional objective, still bounded:** preserve Apex/Argus authority, contract value, and control over the causal record.
 
-### Confirmed actions
+## Senator Sterling / office network
 
-- Restricted Julie’s access after her arrival.
-- Denied validation-archive access.
-- Suspended Marcus’s authority.
-- Sanitized the review partition.
-- Directed containment and evidence recovery.
-- Pressured Elias to sign a false confession.
-- Used or controlled APX-DIR-0019’s executive authority.
-- Overrode occupied-room suppression protection.
-- Requested volatile sanitization.
-- Issued no-witness or evidence-priority language.
-- Issued material-loss lethal-force authority.
-- Created the WSS vendor watch.
-- Supported the public narrative through Apex records and footage.
+**Established:**
+- Sterling publicly converts the real security incidents into a hostile insider narrative defending Argus and institutional discipline.
+- His office device/authority participates in the operational chain at previously accepted device and institutional levels.
+- His public account remains dominant at Chapter 22 endpoint.
 
-### Confirmed authority
+**Not established:**
+- Sterling personally held or operated `SSO-NS-004`.
+- Sterling personally directed Payload 88, K-17, the remote reconstruction, Vance, Tariq, or the public timing.
+- Private guilt, intent, or command through narrator assertion.
 
-- Building Three site/security authority.
-- Registered custodian of the executive hardware authority controlling APX-DIR-0019.
+**Objective model:** convert crisis and insider-threat framing into expanded institutional authority while avoiding an authenticated public contradiction. This remains a model, not a proven personal confession.
 
-### Probable objective
+## Major Tariq / field authority
 
-- Preserve Argus’s credibility, Apex’s contract, and the K-17 operation.
-- Convert crisis into proof of Argus’s necessity.
-- Keep the evidence under Apex interpretation.
+Registered field authority and accepted endpoint participation remain established at the system level. Physical presence, personal operation, exact field-team sponsorship, and knowledge remain unproved.
 
-### Unproved objective
+## Northbridge / WSS / Hartwell network
 
-- Direct personal control over Phase B.
-- Sterling-directed orders.
-- Connection to the prologue incident.
-- Exact financial or political benefit.
+Authenticated contractor and secure-suite relationships remain operational links. Ordinary staff, Bell, landlord security, and all Northbridge personnel are not conspirators by employment. WSS plaintext remains unavailable.
 
-### Assets
+## Identity-construction mechanism
 
-Apex systems, personnel, certificates, footage, reporting channels, vendor watches, and executive controls.
+Price borrowed identity and Elias framed identity share a construction family and `APX-DIR-0019` authority binding. The mechanism can support multiple aligned operations without proving the same human constructor or commander.
 
-### Evidence link
+## Current pressure state
 
-Strong and direct at registered-authority level.
-
-### Missing evidence
-
-Physical operator, upstream instruction, full message content, direct Tariq communications.
-
-### Current knowledge
-
-Knows Julie has followed the chain into Washington and captured WSS material. Exact knowledge of Hartwell and field status is not fully shown.
-
-### Public strategy
-
-Let Sterling and Apex characterize Julie’s correction as the attack.
-
-### Vulnerability
-
-- Certificate chain.
-- Elias board.
-- Recovery cartridge.
-- Chen directives.
-- WSS local audit.
-- Bell and Mercer testimony.
-- Suppression and fire logs.
-
-### Potential conflict with other antagonists
-
-Vance’s priority is evidence and Apex survival; Sterling may prioritize political survival; Tariq may prioritize field success.
-
----
-
-## Senator Sterling
-
-### Confirmed actions
-
-- Issued public statements blaming Julie.
-- Defended Argus and institutional discipline.
-- Announced and traveled to Hartwell.
-- His office’s registered SSO authenticated WSS-4.
-
-### Confirmed authority
-
-Senatorial office, committee influence, office signer infrastructure, and public platform.
-
-### Probable objective
-
-- Use the regional crisis and insider narrative to preserve or expand Argus authority.
-- Enable or ratify Phase B.
-
-### Unproved objective
-
-- Direct personal command.
-- Personal possession of SSO-NS-004.
-- Knowledge of Payload 88’s exact mechanics.
-- Exact benefit expected from K-17.
-
-### Assets
-
-Public credibility, office staff, legislative certificate chain, motorcade, Hartwell access, Northbridge network.
-
-### Evidence link
-
-Office-device authentication is direct; personal action remains indirect.
-
-### Missing evidence
-
-Physical custody, plaintext commands, direct orders to Vance or Tariq.
-
-### Current knowledge
-
-Private knowledge not shown. Public statements demonstrate awareness of events and a prepared narrative.
-
-### Public strategy
-
-Present Julie as an expanding insider threat and the system as the victim.
-
-### Vulnerability
-
-- Same signer expected at Hartwell.
-- WSS-4 local and portable records.
-- Timing of statements.
-- Northbridge staff testimony.
-- Potential camera/access evidence identifying custodian.
-
-### Potential conflict
-
-May sacrifice Vance or distance the office from the device if exposure becomes unavoidable.
-
----
-
-## Major Tariq
-
-### Confirmed actions
-
-No personal physical action is shown.
-
-### Confirmed authority
-
-A field-route certificate registered to Major Tariq / Forward Liaison Cell was accepted for K17 Operational Control.
-
-### Probable objective
-
-Complete the K-17 field operation and obtain Phase B authorization.
-
-### Unproved objective
-
-- Exact field action.
-- Personal participation.
-- Political allegiance.
-- Whether the field team is his military personnel, contractors, or another group.
-
-### Assets
-
-Field command authority, disciplined movement team, K17 operational channel, knowledge of local security status.
-
-### Evidence link
-
-Direct at command-certificate level.
-
-### Missing evidence
-
-Physical identity of operator/team, orders, current location, access result.
-
-### Current knowledge
-
-His command channel knows the structured field status.
-
-### Public strategy
-
-None shown.
-
-### Vulnerability
-
-Field certificate, WSS event order, K-17 physical evidence, and any failed Phase B attempt.
-
-### Potential conflict
-
-Tariq’s strategic objective may not require the same public outcome Sterling or Vance wants.
-
-## Confirmed Conspiracy Chain
-
-1. Payload 88 exists as prohibited synthetic validation material.
-2. A post-archive derivative entered PAK_RELAY_17A.
-3. APX-DIR-0019 signed or controlled the bridge.
-4. APX-DIR-0019 is bound to executive hardware authority registered to Vance.
-5. Payload 88 created false artillery evidence and suppressed K-17 movement.
-6. Northbridge participated in the authenticated operational path.
-7. WSS-4 hosted K17-PHASE-B.
-8. Tariq’s registered field authority was accepted.
-9. Sterling-office SSO-NS-004 authenticated the authorization side.
-10. Hartwell is the next required authentication point.
-11. Phase B and the second masking window remain pending.
-
-## Strongly Supported but Unproved Links
-
-- Vance personally directed Payload 88’s deployment.
-- The false artillery warning was designed primarily to cover the K-17 approach.
-- Sterling’s political operation knowingly depends on the K-17 outcome.
-- SSO-NS-004 will be carried by Sterling or an immediately authorized staff member.
-- The pending Argus reconstruction profile is the second manipulation.
-- Phase B concerns relay access, log alteration, or physical corroboration.
-- Vance, Sterling, and Tariq coordinate through Northbridge.
-
-## Open Possibilities
-
-- An aide, counsel, Northbridge intermediary, or legislative-security officer holds SSO-NS-004.
-- Sterling may be exploiting an operation designed by others rather than commanding every step.
-- Tariq may have a field objective that diverges from Sterling’s desired public crisis.
-- Northbridge leadership may be involved while ordinary staff are not.
-- Vance may have initiated the operation for Apex without full knowledge of Tariq’s field purpose.
-- K-17 may be one stage rather than the ultimate objective.
-- The six-years-ago Argus failure may be connected, imitated, or merely structurally similar.
-
----
-
-## Accepted Chapter 13 antagonist-state delta
-
-- **Sterling network:** Public schedule and office-registered device converge on Hartwell. This materially strengthens the operational connection but does not prove Sterling’s hand, personal presence at the challenge point, keystrokes, or direct command.
-- **Vance:** Continues to prioritize telemetry recovery and control of the official explanation. He can route vendor and protective-service pressure but does not know the hidden human custodian or control independent cameras by fiat.
-- **Chen:** Pursues capture, evidence preservation, and lawful-force limits. She remains an institutional antagonist with an unresolved future choice, not a covert ally.
-- **Mercer:** Acts on the physical scene as a professional capture antagonist. His observations may later become evidence, but no alliance occurs.
-- **Tariq / K-17:** No new accepted evidence changes field access, physical presence, or Phase B status.
-- **Conspiracy model:** The carrier stream is narrowed to an operationally relevant three-person arrival. The chain is sharper, not complete.
-
----
-## Accepted Chapter 14 antagonist update
-- **Vance:** Presses telemetry/material recovery, hostile-targeting characterization, classification, and executive delay; loses exclusive control of the record but does not control MPD, Hartwell, or every external source.
-- **Sterling:** Office/device chain is strengthened by the accepted/complete Hartwell state and held record; personal possession, presentation, keystrokes, and command remain unproved.
-- **Tariq:** No direct Chapter 14 action; K-17 access and Phase B remain unconfirmed.
-- **Chen:** Preserves capture, life, evidence, named custody, and Vance’s contradictory instructions without warning or releasing the trio.
-- **Mercer:** Remains adversarial, contests custody, obeys MPD scene authority, receives no evidence, and does not fire.
-
-## Accepted Chapter 15 antagonist-state update
-
-- Vance/Apex lose physical control of the seven originals to MPD but retain classification, property, public-narrative, and technical-interpretation pressure. No arrest, confession, or final defeat occurs.
-- Sterling's public narrative remains dominant and can absorb detention as apparent confirmation. No personal possession, presentation, command, or keystroke is proved.
-- Tariq receives no interiority or physical appearance. K-17 access and Phase B remain unconfirmed.
-- The superseding reconstruction removes K-17 anomalies from the actionable allied picture, strengthening the apparent completeness of the official record without proving who ordered it or whether the omitted events were true.
-- Sharma's preservation decision creates a future antagonist vulnerability: multiple products and independent local records survive together.
-
-## Chapter 16 accepted antagonist-model update — 2026-07-13
-
-No new antagonist POV, private motive, or authorship fact is created. Apex's operational interest remains control of evidence handling and interpretation; its counsel continues to assert classification, property, technical necessity, and observer claims. The named hold limits immediate fragmentation without proving who directed the larger operation.
-
-Sterling's public utility from the hostile-insider narrative remains intact. Hartwell custody, compact black case contents, K-17, Phase B, and any reconstruction purpose or authorship remain unresolved.
-
-## Chapter 17 non-expansion note — 2026-07-14
-
-Chapter 17 adds no accepted antagonist act, motive, command, physical possession, or personal keystroke. The independent board mismatch strengthens preservation need but does not identify the alternative actor or expand the conspiracy model.
-
-## Accepted Chapter 18 antagonist-model update — 2026-07-14
-
-- The Tariq-registered authority reached K-17's controller and Security Line One passed.
-- The field operation requested a local source-record reconstruction/maintenance commit but did not complete final local authentication and produced zero local writes.
-- This advances the command-certificate link and immediate field outcome without proving Tariq's physical presence, keystrokes, field-team identity, or personal command.
-- The superseding product's omission of the failed local events strengthens the inference of concealment but does not identify the reconstruction author, upstream command, or exact coordination among Tariq, Vance, Sterling, and Northbridge.
-- No new Vance, Sterling, Chen, Mercer, Bell, or Price act is created in Chapter 18.
+Chapter 22 breaks Vance's exclusive operational control and creates a durable private counterrecord, but Sterling still owns the public frame. The next ending movement must fracture that frame authentically without manufacturing unsupported personal command.
