@@ -31,10 +31,14 @@ jobs:
           import re
 
           workflow = Path('.github/workflows/chapter20-acceptance-apply.yml').read_text(encoding='utf-8')
-          match = re.search(r'payload = "([A-Za-z0-9+/=]+)"', workflow)
+          match = re.search(r'payload\s*=\s*"(.*?)"\s*\n\s*source\s*=', workflow, re.S)
           if not match:
               raise SystemExit('embedded Chapter 20 acceptance payload not found')
-          source = gzip.decompress(base64.b64decode(match.group(1)))
+          payload = ''.join(match.group(1).split())
+          invalid = sorted(set(payload) - set('ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/='))
+          if invalid:
+              raise SystemExit(f'embedded payload contains invalid characters: {invalid!r}; length={len(payload)}')
+          source = gzip.decompress(base64.b64decode(payload, validate=True))
           exec(compile(source, 'chapter20_acceptance_apply.py', 'exec'))
           PY
           status=$?
