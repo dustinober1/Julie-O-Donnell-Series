@@ -63,7 +63,7 @@ active_book:
         title: The Borrowed Name
         path: books/book-01/drafts/chapter-21.md
         words: 4415
-        blob_sha: 280e032f15cbee165a48f51d44b2c9017cef8eef
+        blob_sha: 866d4210b7fc808aef48144a91a58280f38fc99c
         status: first draft, non-canon, pending separate acceptance review
         accepted_manuscript_effect: none
   future_prose:
@@ -72,7 +72,7 @@ active_book:
       working_title: The Borrowed Name
       draft_path: books/book-01/drafts/chapter-21.md
       draft_words: 4415
-      draft_blob_sha: 280e032f15cbee165a48f51d44b2c9017cef8eef
+      draft_blob_sha: 866d4210b7fc808aef48144a91a58280f38fc99c
       mission_lock: books/book-01/control/42-chapter-21-mission-lock.md
       mission_lock_blob_sha: 6c92a5764e5c74d88a8325511ae2b0a86b30b356
       opening: 11:26:32 EDT / 20:56:32 IST at secure MPD evidence intake
@@ -110,7 +110,7 @@ production_rules:
   - Promotion requires an explicit formal acceptance verdict and synchronized prose, manifest, state, ledger, and validation changes.
   - Protected accepted Chapters 13-20, the Chapter 20 mission lock, the Chapter 20 acceptance review, and the accepted manifest remain unchanged.
   - Chapter 21 mission lock blob 6c92a5764e5c74d88a8325511ae2b0a86b30b356 remains the approved non-canon planning control.
-  - Chapter 21 draft blob 280e032f15cbee165a48f51d44b2c9017cef8eef at books/book-01/drafts/chapter-21.md is non-canon and pending a separate acceptance review.
+  - Chapter 21 draft blob 866d4210b7fc808aef48144a91a58280f38fc99c at books/book-01/drafts/chapter-21.md is non-canon and pending a separate acceptance review.
   - Registered authority, physical possession, carrier custody, authorization, knowledge, intent, request identity, physical act, and command remain separate proof categories.
   - A certified derivative never replaces its independently controlled original.
   - A no-use hold preserves state and custody; it does not authenticate prior operation.
