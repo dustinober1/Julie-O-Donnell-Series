@@ -2,6 +2,7 @@
 """Validate the accepted Julie O'Donnell Book 1 state through Chapter 20 and the Chapter 21 mission lock."""
 
 from pathlib import Path
+import os
 import re
 import subprocess
 
@@ -332,16 +333,17 @@ def validate_absence_and_hygiene() -> None:
 
 
 def validate_diff_hygiene() -> None:
+    base = os.environ.get("BOOK1_DIFF_BASE", "HEAD^")
     result = subprocess.run(
-        ["git", "diff", "--check", "HEAD^", "--"],
+        ["git", "diff", "--check", base, "--"],
         text=True,
         capture_output=True,
     )
     require(
         result.returncode == 0,
-        f"git diff --check failed:\n{result.stdout}{result.stderr}",
+        f"git diff --check failed against {base}:\n{result.stdout}{result.stderr}",
     )
-    print("git diff --check: OK")
+    print(f"git diff --check against {base}: OK")
 
 
 def main() -> None:
