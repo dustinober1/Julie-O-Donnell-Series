@@ -1,5 +1,14 @@
 # 14. PUBLIC NARRATIVE VERSUS ACTUAL RECORD
 
+<!-- CH20_ACCEPTED_STATE_START -->
+## Accepted Chapter 20 public/private record delta
+
+**Public narrative:** Sterling’s hostile insider-attack account remains the only public story.
+
+**Lawful private record:** `SSO-NS-004` is under named LSS no-use hold; Drennan carried it under a Kessler-authorized continuity exception; separate WSS, Hartwell, office/LSS, MPD/DCIS, and Indian records survive; the instruction source and Sterling personal command remain unproved.
+
+The private contradiction becomes more durable but is not released, leaked, or adjudicated.
+<!-- CH20_ACCEPTED_STATE_END -->
 <!-- CH19_ACCEPTED_STATE_START -->
 ## Chapter 19 accepted public/private record delta
 

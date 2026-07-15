@@ -3,17 +3,17 @@ book: 1
 title: null
 status: "Controlling accepted-manuscript inventory"
 last_verified: "2026-07-14"
-accepted_words: 103369
+accepted_words: 107676
 word_count_method:
   name: "UTF-8 Markdown whitespace-delimited token count"
   implementation: "For each accepted file, len(Path(path).read_text(encoding='utf-8').split()); sum the accepted inventory"
   utility: "tools/count_book1_words.py"
   note: "All visible Markdown tokens are counted consistently, including headings, datelines, and screen-field text"
 accepted_endpoint:
-  chapter: 19
-  eastern: "10:44:12 EDT"
-  india: "20:14:12 IST"
-  location: "secure MPD evidence intake; Alvarez/DCIS named federal receiver; MPD retains all seven packages; Hartwell retains HWA-LCA-1187; SSO-NS-004 current custodian unknown; Sterling public account remains dominant"
+  chapter: 20
+  eastern: "11:26:32 EDT"
+  india: "20:56:32 IST"
+  location: "secure MPD evidence intake; SSO-NS-004 under LSS no-use hold with Martin Vann under Marisol Vega; MPD retains seven packages; source originals remain with lawful custodians; Sterling public account remains dominant"
 
 accepted_files:
   - sequence: 0
@@ -96,10 +96,14 @@ accepted_files:
     type: "chapter"
     title: "The Name on the Record"
     path: "books/book-01/manuscript/chapters/chapter-19.md"
+  - sequence: 20
+    type: "chapter"
+    title: "The Custody Exception"
+    path: "books/book-01/manuscript/chapters/chapter-20.md"
 
 excluded_from_canon:
   - path: "books/book-01/drafts/"
-    reason: "Unaccepted prose only; no active Book 1 chapter draft after Chapter 19 promotion"
+    reason: "Unaccepted prose only; no active Book 1 chapter draft after Chapter 20 promotion"
   - path: "archive/"
     reason: "Historical provenance only"
   - path: "docs/superpowers/"

@@ -1,5 +1,16 @@
 # 11. ORGANIZATIONS, AUTHORITIES, AND INSTITUTIONAL CONTROL
 
+<!-- CH20_ACCEPTED_STATE_START -->
+## Accepted Chapter 20 authority delta
+
+- **LSS / Vega / Vann:** physical custody and no-use control of the closed signer.
+- **DCIS / Alvarez:** receiving responsibility and derivative reconciliation; no physical possession of the signer.
+- **MPD / Ortiz / Park:** continued chest custody, movement control, seals, and camera continuity.
+- **Grant:** examination method and bounded finding.
+- **Hartwell, WSS, Sterling office, Forward Post Arjun:** retain source originals and disclosure limits.
+- **Hackett:** supporting urgency and military/intelligence authority, not custody controller.
+- Privilege/classification claims may delay production but cannot make preserved initiating materials nonexistent.
+<!-- CH20_ACCEPTED_STATE_END -->
 <!-- CH19_ACCEPTED_STATE_START -->
 ## Chapter 19 accepted authority delta
 

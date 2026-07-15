@@ -1,0 +1,77 @@
+# Chapter 20 Acceptance Review — The Custody Exception
+
+# ACCEPT
+
+## Review identity
+
+- **Reviewed starting draft:** `books/book-01/drafts/chapter-20.md`
+- **Starting draft blob:** `d983f952caca56c41b9f7d1ef976a9ae1b281a78`
+- **Exact starting word count:** **4,171**
+- **Mission lock:** `books/book-01/control/40-chapter-20-mission-lock.md`
+- **Mission-lock blob:** `c074e4f6f9ec9cddcbc701e2923f34b3082ede5a`
+- **Reviewed/promoted prose:** `books/book-01/manuscript/chapters/chapter-20.md`
+- **Reviewed/promoted prose blob:** `0bd12f43beeef48d5e897ee1fa78a333bd23099b`
+- **Exact final word count:** **4,307**
+- **New accepted-manuscript total:** **107,676**
+
+## Acceptance-gate analysis
+
+### Dramatic mission and architecture
+
+The chapter completes the locked mission. It begins with Legislative Secure Services refusing immediate federal transfer, converts that refusal into a named no-use physical hold, establishes the office continuity exception, separates carrier from authorizer, reconciles source-limited derivatives without merging originals, and ends with the transformed question of who instructed the exception. Julie remains the dominant viewpoint. The single Grant cutaway supplies pressure and physical custody facts Julie cannot observe; it does not become a second competing chapter.
+### Opening and endpoint continuity
+
+The opening continues directly from Chapter 19 at **10:44:12 EDT / 20:14:12 IST** in secure MPD evidence intake. The accepted endpoint is **11:26:32 EDT / 20:56:32 IST**, also in secure MPD evidence intake. No elapsed-time, location, or POV contradiction was found.
+
+### Primary and secondary objectives
+
+The primary objective succeeds: `SSO-NS-004` is located, externally verified, placed under Legislative Secure Services no-use hold, assigned to named custodian Martin Vann under deputy authority Marisol Vega, and sealed as `LSS-SL-90418`. The secondary objective succeeds within the proof ceiling: Samuel Drennan is established as physical carrier and Diane Kessler as office continuity authority for **06:54:00–10:57:18 EDT**. The chapter does not claim that either person supplied the operational instruction.
+
+### Scene chain, midpoint, and consequential decision
+
+The scene chain is causal and escalating: refusal of transfer → named compromise-control process → exterior-only LSS intake → office assignment production → carrier/authorizer reversal → WSS and Hartwell reconciliation → preservation of the initiating materials → transformed instruction-source question. The midpoint reversal is the Grant finding that **the carrier is not the authorizer, and the authorizer is not yet the instruction source**. The post-midpoint repair makes Julie’s consequential recommendation and Alvarez’s independent authority explicit: keep the signer under no-use hold rather than turning Drennan into the easiest defendant and weakening the responsibility chain.
+
+### Institutional realism and authority
+
+Alvarez owns DCIS receiving responsibility and makes the hold decision. Vega and Vann own Legislative Secure Services physical control. Grant controls examination language. Ortiz and Park retain MPD physical-custody and camera continuity. Hackett remains supporting authority and can be corrected. Office counsel may assert privilege without erasing preservation obligations. No institution is granted universal authority.
+
+### Evidence and custody findings
+
+All seven MPD packages remain sealed, separate, stationary, and in the locked common chest. Hartwell retains original `HWA-LCA-1187`; `HWA-CD-187463-01` remains a narrow Hartwell derivative. WSS-4 retains its local audit and sponsor original; `WSS4-CD-187463-01` remains a narrow WSS derivative. The Sterling office retains its original authorization/assignment record. Legislative Secure Services retains the original intake/no-use-hold record and physical custody of the closed signer pouch. `LSS-CD-187463-01` remains a narrow office/LSS derivative. Forward Post Arjun retains `ARJ-K17-001`, `ARJ-K17-002`, and `ARJ-K17-003`; `ARJ-K17-ACK-01` remains bounded. No original is replaced by a derivative.
+
+### Proof-ceiling findings
+
+The final prose does not establish Sterling’s personal possession, operation, knowledge, or command; Kessler acting on Sterling’s instruction; Kessler’s full operational knowledge; Drennan’s operational knowledge or conspiratorial intent; Bell or Northbridge knowingly joining the conspiracy; WSS plaintext; Vance’s personal keystrokes; Tariq’s physical presence or personal command; the alternate deployment actor; remote-reconstruction authorship; guilt, innocence, immunity, admissibility, charges, conviction, exoneration, or public vindication.
+
+### Technology and clock findings
+
+The signer remains closed and undergoes exterior-only verification. The accepted version prohibits activation, challenge, connection, mounting, opening, imaging, decryption, rekeying, zeroization, operation, or transfer to MPD/DCIS. The Hartwell, WSS, LSS, office, MPD/DCIS, and Arjun clock bases remain distinct and explicitly reconciled. The Arjun acknowledgment remains on IST with the fixed nine-hour-thirty-minute conversion. No universal synchronized file or magical decryption appears.
+
+### Medical continuity
+
+Julie remains restrained with a swollen, braced, materially unusable right wrist/forearm. The injury changes posture and movement but does not receive convenient recovery. Marcus remains offstage in guarded medical care on four liters of oxygen at 92–93 percent saturation. Elias remains offstage in separate guarded medical custody and performs no biometric, board, module, or remote technical act.
+
+### Prose and craft findings
+
+The chapter follows Narrative House Style v2.2: institutional conflict is carried by consequential dialogue; screen fields are used only for authority, custody, exact time, or irreversible state; the Grant cutaway has its own objective; quiet sections remain denser than crisis beats; injuries constrain action; and the endpoint transforms the objective. The draft required no structural redesign, added action sequence, hearing, confession, raid, arrest, press conference, villain viewpoint, or stylistic imitation of a living author.
+
+## Bounded repairs made
+
+1. **Post-midpoint custody decision strengthened.** After Grant established carrier versus authorizer, the revision added one short authority exchange in which Hackett urges seizure, Grant states the transfer consequence, Julie identifies the risk of making Drennan the easiest defendant, and Alvarez independently orders the LSS no-use hold to remain. This makes the consequential decision occur after the midpoint reversal without changing the approved architecture.
+2. **WSS source scope corrected.** The draft incorrectly attributed Samuel Drennan’s carrier credential to the WSS derivative. Accepted Chapter 12 records the false service identities `J. RANDALL` and `E. MASON`, Bell’s sponsor event, and the remote signer session—not Drennan’s physical credential. The final prose confines WSS to its actual local access, sponsor, controller, session, serial, and signer-state fields.
+3. **Cross-source comparison corrected.** The draft said all records overlapped on Drennan’s credential and Kessler’s authority. The final prose states the actual alignment: WSS fixes the 07:08 signer session; Hartwell fixes the 07:47:49 case/challenge-return path; office/LSS records fix Drennan’s assignment and Kessler’s authorization across the interval covering both events.
+4. **Public/private knowledge sentence corrected.** The claim that Drennan’s credential appeared at both WSS and Hartwell was replaced with the supported fact that his assignment interval covered both events.
+
+## Continuity conclusion
+
+The repairs are bounded line- and paragraph-level changes. They do not redesign the mission, replace the midpoint, alter the POV plan, change the opening or endpoint, add a new action sequence, or expand any prohibited conclusion.
+
+## Final verdict
+
+**ACCEPT**
+
+## Promotion authorization
+
+The final reviewed prose is authorized for promotion to `books/book-01/manuscript/chapters/chapter-20.md`. The draft copy must be removed, the accepted manifest and all affected controls must be synchronized to **107,676 words** and the Chapter 20 endpoint, and permanent validation must protect the exact final blob and word count.
+
+No Chapter 21 prose, Chapter 21 mission lock, or complete chapter-by-chapter remainder-of-Act-III outline was created during this pass.

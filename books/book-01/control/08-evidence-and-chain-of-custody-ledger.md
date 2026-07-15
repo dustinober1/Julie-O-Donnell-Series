@@ -1,5 +1,15 @@
 # 8. EVIDENCE AND CHAIN-OF-CUSTODY LEDGER
 
+<!-- CH20_ACCEPTED_STATE_START -->
+## Accepted Chapter 20 evidence/custody delta
+
+- `SSO-NS-004` remains closed inside pouch `LSS-P-44091`, secondary container, and seal `LSS-SL-90418` under Martin Vann / Marisol Vega. Exterior-only verification; no operation or transfer.
+- `LSS-CD-187463-01`: narrow office/LSS derivative naming device, exterior state, carrier, assignment interval, Kessler authority, custodians, withheld fields, and proof ceiling.
+- `WSS4-CD-187463-01`: narrow WSS derivative from the local audit/sponsor original; proves the WSS session, serial, sponsor/controller events, signer-state completion, encrypted-block status, and source limits. It does **not** prove Drennan’s physical presence at WSS.
+- Hartwell retains `HWA-LCA-1187`; `HWA-CD-187463-01` remains derivative.
+- Office retains original authorization/assignment materials under legal hold; LSS retains intake/hold original; WSS retains local original; Indian originals remain local; MPD keeps `MPD-901441`–`MPD-901447` sealed and stationary.
+- Drennan carrier custody, Kessler authorization, and the missing instruction source remain separate evidentiary categories.
+<!-- CH20_ACCEPTED_STATE_END -->
 <!-- CH19_ACCEPTED_STATE_START -->
 ## Chapter 19 accepted evidence/custody delta
 

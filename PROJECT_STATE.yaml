@@ -1,11 +1,11 @@
 project: Julie O'Donnell Series
-schema_version: 5
+schema_version: 6
 last_updated: '2026-07-14'
 
 status_authority:
   file: PROJECT_STATE.yaml
   scope: Production status and navigation only; not story canon
-  rule: Accepted prose and ACCEPTED_MANUSCRIPT.yaml control canon; a draft has no canon effect until formal acceptance and synchronized promotion.
+  rule: Accepted prose and ACCEPTED_MANUSCRIPT.yaml control canon.
 
 story_authority:
   accepted_manifest: books/book-01/ACCEPTED_MANUSCRIPT.yaml
@@ -23,65 +23,45 @@ active_book:
     minimum: 100000
     planning_target: 112500
     maximum: 125000
-    accepted_words: 103369
-    words_to_planning_target: 9131
-    maximum_words_remaining: 21631
-    accepted_act_iii_words: 39714
+    accepted_words: 107676
+    words_to_planning_target: 4824
+    maximum_words_remaining: 17324
+    accepted_act_iii_words: 44021
     count_method: UTF-8 Markdown whitespace-delimited tokens; tools/count_book1_words.py
-
   accepted_canon:
     manifest: books/book-01/ACCEPTED_MANUSCRIPT.yaml
     prologue: true
-    chapters: 1-19
+    chapters: 1-20
     acts:
       act_i: complete
       act_ii: complete
-      act_iii: Chapters 13-19 accepted
-    accepted_manuscript_words: 103369
+      act_iii: Chapters 13-20 accepted
+    accepted_manuscript_words: 107676
     endpoint:
-      chapter: 19
-      eastern: 10:44:12 EDT
-      india: 20:14:12 IST
+      chapter: 20
+      eastern: 11:26:32 EDT
+      india: 20:56:32 IST
       location: secure MPD evidence intake
-      status: Miriam Alvarez / DCIS is the named federal receiver; MPD retains all seven packages; Hartwell and Indian originals remain with their source custodians; SSO-NS-004 current custodian is unknown in accepted canon; Sterling's public account remains dominant.
-    chapter_19:
-      title: The Name on the Record
-      path: books/book-01/manuscript/chapters/chapter-19.md
-      verdict: ACCEPT
-      accepted_words: 5393
-      reviewed_blob_sha: 1c7cc22fc7c480cb247efa1f6a2c0d0b1e1b1baf
-      mission_lock: books/book-01/control/38-chapter-19-mission-lock.md
-      mission_lock_blob_sha: 7b69ff80ed9b0286a52c0a8428792489eb236ef3
-      acceptance_review: books/book-01/control/39-chapter-19-acceptance-review.md
-      opening: 10:01:12 EDT / 19:31:12 IST
-      endpoint: 10:44:12 EDT / 20:14:12 IST
-
-  drafts:
-    active_chapter_drafts:
-      - books/book-01/drafts/chapter-20.md
+      status: SSO-NS-004 is under LSS no-use hold with Martin Vann under Marisol Vega; MPD retains all seven packages; Hartwell, WSS, office, LSS, and Indian originals remain with source custodians; Sterling's public account remains dominant.
     chapter_20:
       title: The Custody Exception
-      path: books/book-01/drafts/chapter-20.md
-      status: complete first draft; awaiting formal acceptance review; unaccepted; non-canon
-      exact_words: 4171
-      blob_sha: d983f952caca56c41b9f7d1ef976a9ae1b281a78
+      path: books/book-01/manuscript/chapters/chapter-20.md
+      verdict: ACCEPT
+      accepted_words: 4307
+      reviewed_blob_sha: 0bd12f43beeef48d5e897ee1fa78a333bd23099b
       mission_lock: books/book-01/control/40-chapter-20-mission-lock.md
       mission_lock_blob_sha: c074e4f6f9ec9cddcbc701e2923f34b3082ede5a
+      acceptance_review: books/book-01/control/41-chapter-20-acceptance-review.md
       opening: 10:44:12 EDT / 20:14:12 IST
       endpoint: 11:26:32 EDT / 20:56:32 IST
-      location: secure MPD evidence intake
       pov: Julie primary; one bounded Special Agent Leila Grant Legislative Secure Services cutaway
-      accepted: false
-      accepted_manifest_changed: false
-      accepted_words_changed: false
-      canon_effect: none
-      dominant_function: Place SSO-NS-004 under a named Legislative Secure Services no-use hold and establish the office continuity authority while preserving carrier, custodian, authorizer, knowledge, and command as separate proof categories.
-      draft_result_non_canon: The draft creates LSS-CD-187463-01 and WSS4-CD-187463-01 as source-limited derivatives, leaves every original with its lawful custodian, keeps all seven MPD packages sealed and stationary, and transforms the objective toward the instruction behind the office exception.
-      next_gate: Formal Chapter 20 acceptance review and, only upon an explicit ACCEPT verdict, synchronized promotion.
-
+      established: Named LSS no-use hold; Samuel Drennan carrier; Diane Kessler office continuity authority; 06:54:00-10:57:18 EDT assignment interval; separate office/LSS, WSS, Hartwell, MPD, and Indian originals.
+      deferred: Instruction behind the continuity exception; Sterling personal command; WSS plaintext; alternative deployment actor; remote-reconstruction author; legal/public resolution.
+  drafts:
+    active_chapter_drafts: []
   future_prose:
     chapter_21_and_later: not drafted and not individually mission locked
-    chapter_21_rule: No Chapter 21 prose or mission lock is authorized.
+    chapter_21_rule: No Chapter 21 prose or mission lock exists.
     architecture_rule: Do not create a complete chapter-by-chapter outline for the remainder of Act III.
 
 planning_controls:
@@ -89,9 +69,8 @@ planning_controls:
   word_budget_and_architecture: books/book-01/control/23-word-budget-and-act-iii-architecture.md
   thread_disposition: books/book-01/control/24-thread-disposition-matrix.md
   chapter_acceptance_gate: books/book-01/control/25-chapter-acceptance-gate.md
-  chapter_19_mission_lock: books/book-01/control/38-chapter-19-mission-lock.md
-  chapter_19_acceptance_review: books/book-01/control/39-chapter-19-acceptance-review.md
   chapter_20_mission_lock: books/book-01/control/40-chapter-20-mission-lock.md
+  chapter_20_acceptance_review: books/book-01/control/41-chapter-20-acceptance-review.md
   series_character_ledger: series/recurring-character-ledger.md
 
 narrative_house_style:
@@ -100,19 +79,16 @@ narrative_house_style:
   guide: docs/Julie_ODonnell_Narrative_House_Style_v2_2.md
   v2_1_supplement: docs/Julie_ODonnell_Narrative_House_Style_v2_1.md
   v2_base: docs/Julie_ODonnell_Narrative_House_Style_v2.md
-  authority: Craft control only; accepted manuscript and canon controls remain superior for facts and continuity.
+  authority: Craft control only; accepted manuscript and canon controls remain superior.
 
 production_rules:
   - Accepted manuscript prose outranks every summary, plan, tracker, draft, and external snapshot.
   - No unaccepted chapter may live under books/book-01/manuscript/.
-  - Draft existence does not create canon.
   - Promotion requires an explicit formal acceptance verdict and synchronized prose, manifest, state, ledger, and validation changes.
-  - Accepted words remain 103369 and the accepted endpoint remains Chapter 19 until promotion.
-  - Protected Chapters 13-19 and the Chapter 20 mission lock must remain unchanged during the draft pass.
+  - Protected Chapters 13-19 and the Chapter 20 mission lock remain unchanged.
   - Registered authority, physical possession, carrier custody, authorization, knowledge, intent, and command remain separate proof categories.
   - A certified derivative never replaces its independently controlled original.
   - A no-use hold preserves state and custody; it does not authenticate prior operation.
-  - The Chapter 20 draft exists only at books/book-01/drafts/chapter-20.md and remains non-canon.
   - No Chapter 21 prose or mission lock exists.
   - No complete chapter-by-chapter remainder-of-Act-III outline exists or is authorized.
   - No draft or revision may imitate or closely emulate the recognizable prose of a living author.
@@ -123,4 +99,4 @@ archive:
   uploaded_word_snapshot_active: false
   superseded_status_snapshots: Preserved in Git history; not duplicated as active files.
 
-next_recommended_action: Conduct the formal Chapter 20 acceptance review against books/book-01/control/40-chapter-20-mission-lock.md and books/book-01/control/25-chapter-acceptance-gate.md. Promote only after an explicit ACCEPT verdict; do not draft Chapter 21.
+next_recommended_action: Conduct a separate Chapter 21 mission-lock session from the accepted Chapter 20 endpoint; do not draft Chapter 21 until that lock is approved.

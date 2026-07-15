@@ -1,5 +1,14 @@
 # 15. OPEN PLOT THREADS AND PAYOFF MATRIX
 
+<!-- CH20_ACCEPTED_STATE_START -->
+## Accepted Chapter 20 thread delta
+
+**Paid off / materially advanced:** current physical custody of `SSO-NS-004`; named no-use hold; Drennan as carrier; Kessler as office continuity authority; assignment interval; fate of the WSS local record; separate office/LSS and WSS derivatives; durable multi-institution counterrecord.
+
+**Still open:** instruction source behind the continuity exception; WSS plaintext or lawful equivalent; Sterling personal command; alternative deployment actor; remote-reconstruction author; Vance/Tariq personal acts; Price, Chen, Mercer, Bell, medical/legal aftermath; authenticated public fracture and final Book 1 resolution.
+
+**No-retcon rule:** WSS session facts, Hartwell case/challenge facts, and office/LSS assignment facts align by serial and interval but remain independently sourced.
+<!-- CH20_ACCEPTED_STATE_END -->
 <!-- CH19_ACCEPTED_STATE_START -->
 ## Chapter 19 accepted thread delta
 

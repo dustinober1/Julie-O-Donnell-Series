@@ -1,5 +1,18 @@
 # 6. CHARACTER STATE LEDGER
 
+<!-- CH20_ACCEPTED_STATE_START -->
+## Accepted Chapter 20 character-state delta
+
+- **Julie O’Donnell:** remains detained at secure MPD intake; right wrist/forearm remains braced, swollen, and materially unusable. She protects carrier/authorizer/instruction-source limits and chooses the responsibility chain over immediate possession.
+- **Leila Grant:** conducts the sole LSS cutaway, verifies exterior custody, preserves source limits, and returns the carrier/authorizer reversal to the main line.
+- **Miriam Alvarez:** independently owns the no-use-hold decision and the complete received-incident responsibility.
+- **William Hackett:** remains supporting authority; urgency does not displace Alvarez’s authority or Julie’s proof limits.
+- **Martin Vann:** named LSS compromise-control custodian; no future series function established.
+- **Marisol Vega:** deputy LSS authority for the hold; no future series function established.
+- **Samuel Drennan:** physical carrier under office continuity assignment; knowledge and intent unproved.
+- **Diane Kessler:** office continuity authority; instruction source and operational knowledge unproved.
+- **Marcus Reed / Elias Thorne:** remain offstage in separate guarded medical custody; no recovery or new action.
+<!-- CH20_ACCEPTED_STATE_END -->
 <!-- CH19_ACCEPTED_STATE_START -->
 ## Chapter 19 accepted character-state delta
 

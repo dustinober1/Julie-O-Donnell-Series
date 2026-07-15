@@ -1,5 +1,14 @@
 # 10. TECHNOLOGY AND SYSTEM RULES
 
+<!-- CH20_ACCEPTED_STATE_START -->
+## Accepted Chapter 20 technology delta
+
+- A no-use hold is physical compromise control, not authentication of prior operation.
+- Exterior-only inspection may confirm pouch/case identifiers and closure condition; it may not reveal internal signer state.
+- Prohibited actions remain activation, challenge, connection, mounting, opening, imaging, decryption, rekeying, zeroization, operation, or transfer to MPD/DCIS.
+- Office, LSS, WSS, Hartwell, MPD/DCIS, and Arjun retain separate clock bases and original records.
+- WSS records the remote signer/session and sponsor/controller path; office/LSS records supply the assignment/carrier/authorizer facts. No universal merged file exists.
+<!-- CH20_ACCEPTED_STATE_END -->
 <!-- CH19_ACCEPTED_STATE_START -->
 ## Chapter 19 accepted technology delta
 

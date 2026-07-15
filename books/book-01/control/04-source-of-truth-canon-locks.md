@@ -1,5 +1,30 @@
 # 4. SOURCE-OF-TRUTH CANON LOCKS
 
+<!-- CH20_ACCEPTED_STATE_START -->
+## Chapter 20 accepted canon locks
+
+This Chapter 20 accepted-state block controls any lower historical “current” summary in this file.
+
+- **Accepted canon:** Prologue and Chapters 1–20
+- **Accepted total:** **107,676 words**
+- **Accepted Chapter 20:** **The Custody Exception**, 4,307 words, blob `0bd12f43beeef48d5e897ee1fa78a333bd23099b`
+- **Accepted endpoint:** **11:26:32 EDT / 20:56:32 IST**, secure MPD evidence intake
+- **Physical signer state:** `SSO-NS-004` under LSS no-use hold; custodian Martin Vann; deputy authority Marisol Vega; seal `LSS-SL-90418`
+- **Responsibility state:** Samuel Drennan is the carrier; Diane Kessler authorized the office continuity exception for **06:54:00–10:57:18 EDT**; instruction source remains unresolved
+- **Custody state:** MPD retains seven sealed stationary packages; Hartwell, WSS-4, the Sterling office, LSS, and Forward Post Arjun retain their originals; derivatives remain source-limited
+- **Proof ceiling:** Sterling personal possession, operation, knowledge, and command remain unproved; WSS plaintext and wider authorship remain unresolved
+- **Public state:** Sterling’s hostile account remains dominant
+- **Future state:** no Chapter 21 prose, mission lock, or complete remainder outline exists
+
+### Chapter 20 hard canon locks
+
+1. `SSO-NS-004` is physically held by Legislative Secure Services without use or transfer.
+2. Exterior-only verification does not establish internal signer state or prior operation.
+3. Drennan’s carrier custody is distinct from Kessler’s authorization and from the missing instruction source.
+4. `LSS-CD-187463-01`, `WSS4-CD-187463-01`, and `HWA-CD-187463-01` are narrow derivatives and never replace their originals.
+5. WSS establishes the 07:08 remote signer event and sponsor/controller record; it does not independently establish Drennan as the physical WSS carrier.
+6. No Chapter 20 fact proves Sterling’s personal command.
+<!-- CH20_ACCEPTED_STATE_END -->
 <!-- CH19_ACCEPTED_STATE_START -->
 ## Chapter 19 canon locks
 

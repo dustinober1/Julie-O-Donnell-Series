@@ -1,5 +1,18 @@
 # 5. MASTER TIMELINE
 
+<!-- CH20_ACCEPTED_STATE_START -->
+## Accepted Chapter 20 timeline delta
+
+- **10:44:12 EDT / 20:14:12 IST:** Chapter 20 opens at secure MPD evidence intake with LSS refusing federal transfer but reporting the signer located.
+- **10:47:03 EDT:** Alvarez authorizes exterior-only verification and named LSS no-use custody.
+- **10:54:26 EDT:** the closed pouch/case arrives at LSS compromise-control intake.
+- **10:57:18 EDT:** Martin Vann accepts physical custody under Marisol Vega; no-use hold begins.
+- **06:54:00–10:57:18 EDT:** office continuity assignment interval naming Samuel Drennan and Diane Kessler.
+- **11:08:41 EDT:** Grant reports the LSS hold and office derivative to MPD/DCIS.
+- **11:11:06 EDT:** Bell/WSS produces the narrow local-audit derivative while retaining its original.
+- **11:25:48 EDT:** Alvarez records the final custody/proof state.
+- **11:26:32 EDT / 20:56:32 IST:** accepted endpoint at secure MPD evidence intake; signer stationary, instruction source unresolved.
+<!-- CH20_ACCEPTED_STATE_END -->
 <!-- CH19_ACCEPTED_STATE_START -->
 ## Accepted Chapter 19 timeline delta
 
