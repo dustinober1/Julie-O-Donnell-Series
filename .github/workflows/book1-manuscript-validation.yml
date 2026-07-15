@@ -31,19 +31,24 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
           PR_HEAD_REF: ${{ github.head_ref }}
+          BASE_SHA: ${{ github.event.pull_request.base.sha || github.event.before }}
         run: |
           rm -rf ./* ./.git
           ref_name="$GITHUB_REF_NAME"
           if [ "$GITHUB_EVENT_NAME" = "pull_request" ]; then
             ref_name="$PR_HEAD_REF"
           fi
-          git clone -q --depth 1 --branch "$ref_name" "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" .
+          git clone -q --depth 50 --branch "$ref_name" "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" .
+          if ! git cat-file -e "${BASE_SHA}^{commit}" 2>/dev/null; then
+            git fetch -q origin "$BASE_SHA" --depth=1
+          fi
+          echo "BOOK1_DIFF_BASE=$BASE_SHA" >> "$GITHUB_ENV"
 
       - name: Count accepted manuscript
         run: python tools/count_book1_words.py --expect 107676
 
-      - name: Validate accepted Chapter 20 state
+      - name: Validate accepted Chapter 20 and Chapter 21 mission-lock state
         run: python tools/validate_book1_chapter20.py
 
       - name: Diff hygiene
-        run: git diff --check
+        run: git diff --check "$BOOK1_DIFF_BASE" --

@@ -40,10 +40,23 @@ The accepted-manuscript inventory in `../ACCEPTED_MANUSCRIPT.yaml` controls acce
 - Result: named LSS no-use hold, Drennan carrier, Kessler office continuity authority, and a transformed objective focused on the instruction source.
 - No duplicate draft remains.
 
-## Chapter 21 and later
+## Chapter 21 planning control
 
-No prose or mission lock exists. No complete chapter-by-chapter remainder outline exists.
+- Working title: **The Borrowed Name**.
+- Mission lock: `42-chapter-21-mission-lock.md`.
+- Exact blob: `6c92a5764e5c74d88a8325511ae2b0a86b30b356`.
+- Status: mission locked, undrafted, non-canon, with no accepted-manuscript effect.
+- Opening: **11:26:32 EDT / 20:56:32 IST**, secure MPD evidence intake.
+- Intended endpoint: **12:18:04 EDT / 21:48:04 IST**, secure MPD evidence intake.
+- Dominant mission: authenticate the initiating continuity request and determine whether Leland Price created it or whether his suspended identity was borrowed.
+- Planning target: **4,650 words**; preferred range **4,300–5,100**; hard ceiling **5,400**.
+
+The planned midpoint establishes only that Price’s original is a raw-source/source-integrity request while the later office request reuses his identity or request reference after his active authority ended and adds operational routing absent from his original. The later author, Sterling’s personal command, the alternative original-deployment actor, and the remote-reconstruction author remain unproved.
+
+## Chapter 22 and later
+
+Chapter 22 and later remain undrafted and individually mission unlocked. No complete chapter-by-chapter remainder outline exists.
 
 ## Current gate
 
-Conduct a separate Chapter 21 mission-lock session; do not draft Chapter 21 before approval.
+Draft one first non-canon Chapter 21 version from `42-chapter-21-mission-lock.md`. Do not create a Chapter 21 acceptance review, Chapter 22 artifact, or complete remainder outline in that drafting session.

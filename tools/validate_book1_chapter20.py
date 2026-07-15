@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
-"""Validate the accepted Julie O'Donnell Book 1 state through Chapter 20."""
+"""Validate the accepted Julie O'Donnell Book 1 state through Chapter 20 and the Chapter 21 mission lock."""
 
 from pathlib import Path
+import os
 import re
 import subprocess
 
@@ -10,6 +11,10 @@ BOOK = ROOT / "books/book-01"
 CHAPTERS = BOOK / "manuscript/chapters"
 DRAFTS = BOOK / "drafts"
 CONTROL = BOOK / "control"
+MANIFEST = BOOK / "ACCEPTED_MANUSCRIPT.yaml"
+
+EXPECTED_MANIFEST_BLOB = "93cc38d2927cbfd99d8a622a93b11f53a2df8ee2"
+EXPECTED_CHAPTER21_LOCK_BLOB = "6c92a5764e5c74d88a8325511ae2b0a86b30b356"
 
 
 def require(value: bool, message: str) -> None:
@@ -88,7 +93,13 @@ def validate_review_and_inventory() -> None:
         "alternate Chapter 20 acceptance review exists",
     )
 
-    manifest = (BOOK / "ACCEPTED_MANUSCRIPT.yaml").read_text(encoding="utf-8")
+    require(MANIFEST.is_file(), "accepted manifest missing")
+    manifest_blob = blob(MANIFEST)
+    require(
+        manifest_blob == EXPECTED_MANIFEST_BLOB,
+        f"accepted manifest changed: {manifest_blob}",
+    )
+    manifest = MANIFEST.read_text(encoding="utf-8")
     require("accepted_words: 107676" in manifest, "accepted total changed")
     require(
         "accepted_endpoint:\n  chapter: 20" in manifest,
@@ -101,7 +112,8 @@ def validate_review_and_inventory() -> None:
         listed.count(20) == 1 and max(listed) == 20,
         f"Chapter 20 manifest state invalid: {listed}",
     )
-    print("review and inventory: OK")
+    require(21 not in listed, "Chapter 21 entered the accepted manifest")
+    print("review and accepted inventory: OK")
 
 
 def validate_chapter20_content() -> None:
@@ -170,24 +182,70 @@ def validate_chapter20_content() -> None:
     print("Chapter 20 content sentinels: OK")
 
 
+def validate_chapter21_mission_lock() -> None:
+    mission21 = CONTROL / "42-chapter-21-mission-lock.md"
+    require(mission21.is_file(), "Chapter 21 mission lock missing")
+    mission_blob = blob(mission21)
+    require(
+        mission_blob == EXPECTED_CHAPTER21_LOCK_BLOB,
+        f"Chapter 21 mission lock changed: {mission_blob}",
+    )
+    require(
+        sorted(CONTROL.glob("*chapter-21-mission-lock*.md")) == [mission21],
+        "Chapter 21 mission lock is missing or duplicated",
+    )
+
+    text = mission21.read_text(encoding="utf-8")
+    for sentinel in [
+        "# 42. CHAPTER 21 MISSION LOCK — THE BORROWED NAME",
+        "## 1. Status and authority",
+        "## 30. Drafting instructions",
+        "11:26:32 EDT / 20:56:32 IST",
+        "12:18:04 EDT / 21:48:04 IST",
+        "Leland Price",
+        "The initiating instruction therefore contains a borrowed or constructed identity path.",
+        "Chapter 21 remains undrafted and non-canon",
+        "Chapter 22 remains individually unlocked and undrafted.",
+        "**Target:** **4,650 words**",
+        "Who constructed and submitted the `NSB-EMERGENCY` continuity request",
+    ]:
+        require(sentinel in text, f"Chapter 21 mission lock missing: {sentinel}")
+
+    require(not list(BOOK.rglob("chapter-21.md")), "Chapter 21 prose exists")
+    require(
+        not list(CONTROL.glob("*chapter-21-acceptance-review*.md")),
+        "Chapter 21 acceptance review exists",
+    )
+    print("Chapter 21 mission lock: OK")
+
+
 def validate_synchronized_controls() -> None:
-    for path in [
+    synchronized = [
         ROOT / "PROJECT_STATE.yaml",
         ROOT / "README.md",
         BOOK / "manuscript/STATUS.md",
+        DRAFTS / "README.md",
         CONTROL / "16-chapter-by-chapter-status-record.md",
         CONTROL / "18-act-iii-entry-state.md",
         CONTROL / "20-control-pack-maintenance-rules.md",
         CONTROL / "23-word-budget-and-act-iii-architecture.md",
         CONTROL / "24-thread-disposition-matrix.md",
         CONTROL / "README.md",
-    ]:
+    ]
+    for path in synchronized:
         text = path.read_text(encoding="utf-8")
         require(
             "107,676" in text or "107676" in text,
             f"accepted total missing in {path}",
         )
         require("11:26:32 EDT" in text, f"Chapter 20 endpoint missing in {path}")
+        require("The Borrowed Name" in text, f"Chapter 21 title missing in {path}")
+        require(
+            EXPECTED_CHAPTER21_LOCK_BLOB in text,
+            f"Chapter 21 lock blob missing in {path}",
+        )
+        require("undrafted" in text.lower(), f"Chapter 21 draft state missing in {path}")
+        require("non-canon" in text.lower(), f"Chapter 21 canon state missing in {path}")
 
     require(
         "No active Book 1 chapter draft exists."
@@ -216,34 +274,56 @@ def validate_synchronized_controls() -> None:
             in path.read_text(encoding="utf-8"),
             f"Chapter 20 control delta missing in {path}",
         )
-    print("synchronized controls: OK")
+    print("synchronized planning controls: OK")
 
 
 def validate_absence_and_hygiene() -> None:
     require(not list(BOOK.rglob("chapter-21.md")), "Chapter 21 prose exists")
     require(
-        not list(CONTROL.glob("*chapter-21-mission-lock*.md")),
-        "Chapter 21 mission lock exists",
+        not list(CONTROL.glob("*chapter-21-acceptance-review*.md")),
+        "Chapter 21 acceptance review exists",
     )
+
+    chapter22_artifacts = [
+        path
+        for path in BOOK.rglob("*")
+        if path.is_file()
+        and ("chapter-22" in path.name.lower() or "chapter_22" in path.name.lower())
+    ]
     require(
-        not (ROOT / ".github/workflows/chapter20-acceptance-apply.yml").exists(),
-        "temporary acceptance workflow remains",
+        not chapter22_artifacts,
+        f"Chapter 22 artifact exists: {chapter22_artifacts}",
     )
+
+    forbidden_temporary_paths = [
+        ROOT / ".github/workflows/chapter20-acceptance-apply.yml",
+        ROOT / ".github/workflows/chapter20-acceptance-pr.yml",
+        ROOT / "chapter20-validator-final.yml",
+        ROOT / ".chapter20-acceptance-py",
+        ROOT / ".chapter20-acceptance",
+        ROOT / ".github/workflows/chapter21-mission-lock-apply.yml",
+        ROOT / ".github/workflows/chapter21-mission-lock-pr.yml",
+        ROOT / "chapter21-validator-final.yml",
+        ROOT / ".chapter21-mission-lock-py",
+        ROOT / ".chapter21-mission-lock",
+    ]
+    remaining = [path for path in forbidden_temporary_paths if path.exists()]
+    require(not remaining, f"temporary helper artifact remains: {remaining}")
+
+    remainder_outlines = [
+        path
+        for path in BOOK.rglob("*")
+        if path.is_file()
+        and (
+            "remainder-outline" in path.name.lower()
+            or "remainder_outline" in path.name.lower()
+            or "remainder-of-act-iii-outline" in path.name.lower()
+            or "remainder_of_act_iii_outline" in path.name.lower()
+        )
+    ]
     require(
-        not (ROOT / ".github/workflows/chapter20-acceptance-pr.yml").exists(),
-        "temporary pull-request runner remains",
-    )
-    require(
-        not (ROOT / "chapter20-validator-final.yml").exists(),
-        "temporary validator handoff remains",
-    )
-    require(
-        not (ROOT / ".chapter20-acceptance-py").exists(),
-        "temporary Chapter 20 script directory remains",
-    )
-    require(
-        not (ROOT / ".chapter20-acceptance").exists(),
-        "temporary Chapter 20 payload directory remains",
+        not remainder_outlines,
+        f"complete remainder outline artifact exists: {remainder_outlines}",
     )
 
     text20 = (CHAPTERS / "chapter-20.md").read_text(encoding="utf-8")
@@ -252,13 +332,29 @@ def validate_absence_and_hygiene() -> None:
     print("absence and hygiene sentinels: OK")
 
 
+def validate_diff_hygiene() -> None:
+    base = os.environ.get("BOOK1_DIFF_BASE", "HEAD^")
+    result = subprocess.run(
+        ["git", "diff", "--check", base, "--"],
+        text=True,
+        capture_output=True,
+    )
+    require(
+        result.returncode == 0,
+        f"git diff --check failed against {base}:\n{result.stdout}{result.stderr}",
+    )
+    print(f"git diff --check against {base}: OK")
+
+
 def main() -> None:
     validate_protected_prose()
     validate_review_and_inventory()
     validate_chapter20_content()
+    validate_chapter21_mission_lock()
     validate_synchronized_controls()
     validate_absence_and_hygiene()
-    print("Book 1 accepted Chapter 20 state: VALID")
+    validate_diff_hygiene()
+    print("Book 1 accepted Chapter 20 and Chapter 21 mission-lock state: VALID")
 
 
 if __name__ == "__main__":

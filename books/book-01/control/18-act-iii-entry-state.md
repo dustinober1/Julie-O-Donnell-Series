@@ -34,6 +34,21 @@ The instruction behind the office exception; WSS plaintext or lawful equivalent 
 
 This is an obligation inventory, not a chapter-by-chapter remainder outline.
 
+## Chapter 21 planning delta
+
+- Working title: **The Borrowed Name**.
+- Mission lock: `42-chapter-21-mission-lock.md`.
+- Exact blob: `6c92a5764e5c74d88a8325511ae2b0a86b30b356`.
+- Status: mission locked, undrafted, non-canon, with no accepted-manuscript effect.
+- Opening: **11:26:32 EDT / 20:56:32 IST**, secure MPD evidence intake.
+- Intended endpoint: **12:18:04 EDT / 21:48:04 IST**, secure MPD evidence intake.
+- Dominant function: force lawful production and independent authentication of the initiating continuity request, then determine whether Leland Price created it or whether his suspended identity was borrowed.
+- Midpoint: Price’s independently retained original contains only a raw-source/source-integrity request; the later office request uses his identity or request reference after his active authority ended and adds operational routing absent from his original.
+- Julie’s decision: preserve Price’s complete original and refuse to manufacture Sterling, Kessler, Vance, or Price as the hidden author.
+- Transformed objective: identify the constructor of the `NSB-EMERGENCY` request and test whether that path connects Elias’s false original deployment identity to the successful remote reconstruction.
+
+The lock does not alter the accepted endpoint, evidence custody, medical state, proof ceilings, accepted manifest, or public narrative. Chapter 22 and later remain undrafted and individually mission unlocked. No complete remainder outline exists.
+
 ## Current production gate
 
-Conduct a separate Chapter 21 mission-lock session from this accepted endpoint. Do not draft Chapter 21 in advance.
+Draft one first non-canon Chapter 21 version from `42-chapter-21-mission-lock.md`. Do not create a Chapter 21 acceptance review, Chapter 22 artifact, or complete remainder outline in that drafting session.

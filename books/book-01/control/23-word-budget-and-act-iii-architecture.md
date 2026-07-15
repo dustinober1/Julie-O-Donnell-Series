@@ -38,6 +38,24 @@ Space remains for the instruction source, WSS plaintext or lawful equivalent whe
 
 No complete chapter-by-chapter remainder outline is created here.
 
+## Chapter 21 planning budget
+
+Chapter 21 — **The Borrowed Name** — is mission locked by `42-chapter-21-mission-lock.md`, exact blob `6c92a5764e5c74d88a8325511ae2b0a86b30b356`. It remains undrafted, non-canon, and has no accepted-manuscript effect.
+
+- Planning target: **4,650 words**
+- Preferred range: **4,300–5,100 words**
+- Hard ceiling: **5,400 words**
+
+If a later accepted Chapter 21 lands at the planning target:
+
+| Projected measure | Words |
+|---|---:|
+| Projected accepted total | **112,326** |
+| Distance below planning target | **174** |
+| Remaining before maximum | **12,674** |
+
+The target supports a lawful production conflict, one bounded Price cutaway, a source comparison, a midpoint identity reversal, and Julie’s consequential choice without padding. The remaining climax, public fracture, consequences, stabilization, and ending must still fit inside the maximum. Chapter 22 and later remain individually mission unlocked and undrafted.
+
 ## Current gate
 
-Conduct a separate Chapter 21 mission-lock session. Do not draft Chapter 21 before approval.
+Draft one first non-canon Chapter 21 version from the approved mission lock. Do not create a Chapter 21 acceptance review, Chapter 22 artifact, or complete remainder outline in that drafting session.
