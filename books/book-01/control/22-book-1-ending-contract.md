@@ -2,71 +2,70 @@
 
 ## Purpose
 
-This contract defines what Book 1 must still accomplish before publication readiness. It is an obligation map, not a chapter-by-chapter outline.
+This contract records the mandatory Book 1 ending obligations and their accepted fulfillment. It is not a chapter-by-chapter outline.
 
-## Accepted state through Chapter 23
+## Final accepted state
 
-- Accepted manuscript: Prologue and Chapters 1–23
-- Accepted words: **121,417**
-- Endpoint: **14:24:44 EDT / 23:54:44 IST**, secure MPD evidence intake
-- Private counterrecord: signed, source-separated, preserved, and converted into bounded public instruments
-- Public correction: Argus, DCIS, and LSS statements published with separate hashes and receipts
-- Vance: personally tied to the later remote release only; operational suspension publicly durable
-- Sterling office: device/continuity chain acknowledged; independent LSS review opened; personal command unproved
-- Physical state: Julie detained and injured; Marcus and Elias medically separated; seven MPD packages sealed; signer closed and unused
+- Accepted manuscript: Prologue and Chapters 1–24
+- Accepted words: **124,779**
+- Accepted Act III subtotal: **61,124**
+- Endpoint: **08:14:44 EDT / 17:44:44 IST**, Julie's farm
+- Final chapter: **The Terms of Return**, accepted unchanged at **3,362 words**
+- Book 1 structural state: complete
+- Publication-ready state: pending a separate final QA review
 
-## Obligations materially satisfied or advanced
+## Ending obligations fulfilled
 
 ### Immediate geopolitical crisis
 
-The poisoned 05:00 release was suspended, Indian fire was aborted in the independent local chain, K-17 local commit failed with zero writes, and the later remote reconstruction is separated from that local failure. The immediate first-strike danger is bounded without declaring the wider network defeated.
+The poisoned 05:00 release was suspended, Indian fire was aborted in the independent local chain, K-17 local commit failed with zero writes, and the later remote reconstruction was separated from that local failure. The immediate first-strike danger is bounded without declaring the wider network defeated.
 
 ### Evidence and causality
 
-The record distinguishes raw observations, synthetic/provenance corruption, borrowed request identity, framed physical-token identity, failed local authentication, later remote release, government acceptance, device/office responsibility, and human proof limits.
+The record distinguishes raw observations, synthetic/provenance corruption, borrowed request identity, framed physical-token identity, failed local authentication, later remote release, government acceptance, device/office responsibility, and human proof limits. Physical evidence remains sealed, source-separated, and unused in the ending.
 
-### Vance consequence
+### Authenticated visible fracture and bounded consequence
 
-Vance's personal participation in the later release and relevant operational suspension are now public. This is not original-deployment proof, criminal adjudication, employment termination, or confession.
+Three source-limited public corrections fracture Sterling's hostile account. Vance is personally tied only to the later remote release and loses relevant operational authority. The Sterling-office device and continuity chain are publicly acknowledged under an independent LSS review without proving Sterling's personal command.
 
-### Authenticated visible fracture
+### Immediate legal and medical state
 
-The public now has three separately attributable correction documents. Sterling's hostile account is no longer the only official version. The correction remains bounded, non-exculpatory, and classification-safe.
+A named magistrate order, MPD acceptance, and physician-controlled treatment produce guarded medical transfer and conditional release without resolving charging, admissibility, classification, evidence contact, clearance, employment, or later lawful process. Julie's right wrist and forearm remain immobilized and unusable. Marcus remains hospitalized and oxygen-dependent. Elias remains medically impaired and represented.
 
-### Bounded office consequence
+### Marcus aftermath and relationship movement
 
-`SSO-NS-004` remains sealed and unused while `LSS-IDR-90418-01` reviews office assignment, device custody, continuity exception, and authorized access paths. Office/device responsibility is public without personal-command overclaim.
+Marcus submits a complete sworn correction owning his defensible partial truth and its six-year cost. His institutional and legal exposure remain. Julie recognizes the later act without forgiveness, intimacy restoration, or professional invitation. Possible future personal contact may occur only after medical release and outside rank and command.
 
-### Julie's moral leadership
+### Elias, Price, and supporting-character agency
 
-Julie refuses a causally useless correction, refuses false exoneration, invokes the abort when proof ceilings are removed, and permits publication only after independent authorities restore their own limits.
+Elias owns his voluntary later acts while preserving the framed original-identity distinction. He controls future contact and technical participation through counsel and is not recruited into a permanent team. Price remains alive, represented, administratively restricted, and neither cleared nor condemned beyond his complete record. Chen, Mercer, and Bell receive proportional source-record treatment only.
 
-## Remaining mandatory Book 1 obligations
+### Julie's active future-role choice
 
-1. **Julie future choice:** actively choose whether and how she reenters investigative/public service or builds another role.
-2. **Marcus aftermath:** address medical, institutional, and relationship cost of his corrective choice and earlier betrayal.
-3. **Elias aftermath:** preserve voluntary agency and legal exposure without hostage/saboteur simplification or convenient immunity.
-4. **Price aftermath:** bind professional/legal state without manufactured innocence or villainy.
-5. **Chen/Mercer/Bell aftermath:** bind professional, testimonial, or institutional consequence only to the degree needed for Book 1 closure.
-6. **Immediate legal/medical state:** establish the next bounded custody, treatment, charging, administrative, and employment positions without instant universal resolution.
-7. **Series-facing stabilization:** name bounded carryovers without making Book 1 feel like only setup.
-8. **Relationship closure:** provide an earned Book 1 movement between Julie and Marcus and preserve the distinct Julie/Elias relationship state.
+Julie rejects an Army billet, Apex-controlled employment, permanent dependence on one agency's access, preferred-conclusion access, and investigation of her own unresolved case. She chooses a case-specific independent source-integrity and evidence-architecture practice with named lawful authority, source-custodian control, no merged truth file, proof ceilings, objections, stop/refusal rights, civilian and source protection, collaborator counsel/consent/custody, and self-case exclusion.
 
-## Deliberate bounded uncertainties
+### Series-facing stabilization and home
 
-The original 02:14 human operator, human request constructor, Sterling personal command, Tariq physical operation, WSS plaintext, complete six-years-ago network, and some upstream architecture may remain unresolved only if the final chapter explicitly distinguishes deliberate carryover from forgotten obligation.
+Julie returns to the farm through medically authorized transportation, does not drive or use her injured hand, and accepts bounded help with the fence. The farm remains home without remaining a hiding place. No client, message, anomaly, visitor, alarm, new operation, or sequel teaser appears.
 
-## Ending prohibitions
+## Deliberate bounded carryovers
+
+The original 02:14 human operator, human request constructor, possible common human source, Vance's earlier/upstream role, Sterling's personal possession/knowledge/direction/command, Tariq's physical operation, WSS plaintext, wider network, and final legal, administrative, employment, clearance, civil, and relationship outcomes remain deliberately unresolved.
+
+These are series carryovers rather than forgotten Book 1 obligations.
+
+## Ending prohibitions preserved
 
 - No omniscient confession or villain monologue.
-- No instant universal exoneration, charge collapse, release, immunity, employment restoration, or medical recovery.
-- No public dump of sensitive collection or sealed evidence.
-- No false claim that Vance authored the original deployment.
-- No false claim that Sterling personally commanded the operation.
-- No medically implausible reunion or action.
-- No future-book hook that replaces Julie's choice or immediate stabilization.
-- No reversal of the Chapter 23 public correction or its proof ceilings.
+- No universal exoneration, immunity, charge collapse, employment restoration, or medical recovery.
+- No public dump or opening of sealed evidence.
+- No false original-deployment claim against Vance.
+- No false personal-command claim against Sterling.
+- No medically implausible action or reunion.
+- No future-book hook replacing Julie's choice.
+- No reversal of the Chapter 23 proof ceilings.
+- No Chapter 25 artifact or complete remainder outline.
 
-## Production gate
+## Contract result
 
-At least one final chapter remains required. No Chapter 24 artifact and no complete remainder outline exists. The next authorized task may create only the Chapter 24 mission lock and final-chapter plan.
+**FULFILLED BY ACCEPTED CHAPTER 24.**
