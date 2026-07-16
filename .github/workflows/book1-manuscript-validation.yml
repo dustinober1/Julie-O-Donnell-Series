@@ -20,5 +20,7 @@ jobs:
         run: python3 tools/count_book1_words.py --expect 116807
       - name: Validate accepted Book 1 through Chapter 22
         run: python3 tools/validate_book1_chapter22.py
-      - name: Diff hygiene against authorized Chapter 22 baseline
-        run: git diff --check 3ed760050f7e74ad152d0f46ede7db16164030b0 --
+      - name: Validate Chapter 23 mission lock
+        run: python3 tools/validate_book1_chapter23_mission_lock.py
+      - name: Diff hygiene against authorized Chapter 23 mission-lock baseline
+        run: git diff --check ddc52a379ab4e0440555dab194aa3474be839123 --

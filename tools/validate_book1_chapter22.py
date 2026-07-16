@@ -14,6 +14,8 @@ EXPECTED_MANIFEST_BLOB = "faae57d468a4a599dc14ee753c74b5257e946ec8"
 EXPECTED_REVIEW_BLOB = "f0261e728600b58a4efada77b39874977f347ade"
 EXPECTED_LOCK_BLOB = "9bd255ac7b09a1490dc70be4506ba29183756788"
 CH22_BLOB = "034ab496794594427d8409d03e7c6659d41b6a91"
+CH23_LOCK = "books/book-01/control/46-chapter-23-mission-lock.md"
+CH23_VALIDATOR = "tools/validate_book1_chapter23_mission_lock.py"
 EXPECTED_CHAPTERS = {
     "books/book-01/manuscript/chapters/chapter-13.md": (6175, "e7d04921431e571aab434f2f4b808655e363d30c"),
     "books/book-01/manuscript/chapters/chapter-14.md": (5763, "78f7fff02cd271fecbc94f7daf7151dbebbd5c6d"),
@@ -63,7 +65,9 @@ ALLOWED_CHANGED = set(STATE_FILES) | {
     "books/book-01/drafts/chapter-22.md",
     "books/book-01/manuscript/chapters/chapter-22.md",
     REVIEW,
+    CH23_LOCK,
     "tools/validate_book1_chapter22.py",
+    CH23_VALIDATOR,
 }
 
 
@@ -131,10 +135,13 @@ duplicates = [path for path in tracked if (ROOT / path).is_file() and blob(path)
 if duplicates != ["books/book-01/manuscript/chapters/chapter-22.md"]:
     fail(f"Chapter 22 duplicate paths: {duplicates}")
 
+authorized_ch23 = {CH23_LOCK}
 for path in tracked:
     lower = path.lower()
-    if "chapter-23" in lower and path.startswith(("books/book-01/control/", "books/book-01/drafts/", "books/book-01/manuscript/")):
-        fail(f"Chapter 23 artifact exists: {path}")
+    if "chapter-23" in lower and path.startswith(("books/book-01/control/", "books/book-01/drafts/", "books/book-01/manuscript/")) and path not in authorized_ch23:
+        fail(f"unauthorized Chapter 23 artifact exists: {path}")
+    if "chapter-24" in lower and path.startswith(("books/book-01/control/", "books/book-01/drafts/", "books/book-01/manuscript/")):
+        fail(f"Chapter 24 artifact exists: {path}")
     if ("remainder" in lower and "outline" in lower) or ("act-iii" in lower and "outline" in lower):
         fail(f"complete remainder outline artifact exists: {path}")
 
