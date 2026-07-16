@@ -62,6 +62,6 @@ Institutional role, lawful authority, source custody, technical expertise, inves
 - Accepts the narrower correction he can defend.
 - Is not a universal receiver, examiner, prosecutor, advocate, or guarantor.
 
-## Current institutional state
+## Accepted Chapter 23 institutional state
 
 A source-separated public record now exists through three independently signed instruments. Its durability comes from separate authority, hashes, receipts, and objections rather than merged jurisdiction. The correction imposes real program, investigative, and legislative-security consequence without deciding the final legal or political outcome.
