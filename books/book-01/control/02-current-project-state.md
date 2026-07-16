@@ -18,10 +18,23 @@ Three source-limited public instruments have published with separate hashes and 
 
 Original 02:14 human operator, human request constructor, Vance's original deployment keystrokes, Sterling personal command, Tariq physical operation, WSS plaintext, and final legal outcomes remain unproved. Immediate aftermath and Julie's future-role choice remain active Book 1 obligations.
 
+## Chapter 24 mission lock
+
+- Path: `48-chapter-24-mission-lock.md`
+- Title: **The Terms of Return**
+- Status: mission locked, undrafted, non-canon
+- Opening: **15:04:44 EDT / 00:34:44 IST**, secure MPD evidence intake
+- Planned endpoint: **08:14:44 EDT / 17:44:44 IST** the following EDT morning, Julie's farm
+- POV: Julie O'Donnell close third only; no cutaway
+- Structure: exactly four causal movements
+- Preferred words: **3,300**; acceptable **3,150–3,450**; hard maximum **3,583**
+- Required future role: independent source-integrity and evidence-architecture practice under written case-specific terms
+
 ## Production state
 
 - Active chapter drafts: none
 - Chapter 23: accepted unchanged
-- Chapter 24 artifact: none
+- Chapter 24 prose or acceptance review: none
+- Chapter 25 artifact: none
 - Complete remainder outline: none
-- Next authorized action: create only the Chapter 24 mission lock and final-chapter plan
+- Next authorized action: after control/48 is validated, reviewed, and merged, draft only Chapter 24 in a fresh session

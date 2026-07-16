@@ -1,5 +1,5 @@
 project: Julie O'Donnell Series
-schema_version: 14
+schema_version: 15
 last_updated: '2026-07-16'
 
 status_authority:
@@ -60,8 +60,20 @@ active_book:
   drafts:
     active_chapter_drafts: []
   future_prose:
-    chapter_24_and_later: undrafted and individually mission unlocked
-    architecture_rule: At least one final Book 1 chapter remains required by the ending contract; no Chapter 24 artifact and no complete chapter-by-chapter remainder outline exists.
+    chapter_24:
+      status: mission locked; undrafted and non-canon
+      title: The Terms of Return
+      mission_lock: books/book-01/control/48-chapter-24-mission-lock.md
+      opening: 15:04:44 EDT / 00:34:44 IST
+      planned_endpoint: 08:14:44 EDT / 17:44:44 IST, following EDT morning
+      pov: Julie O'Donnell close third only; no cutaway
+      movement_count: 4
+      preferred_words: 3300
+      acceptable_words: 3150-3450
+      hard_maximum_words: 3583
+      dominant_function: Bounded legal, medical, relationship, professional, and series-facing endpoint in which Julie chooses an independent source-integrity practice.
+    chapter_25_and_later: not authorized for Book 1
+    architecture_rule: Chapter 24 is the final Book 1 chapter. No Chapter 24 prose, Chapter 24 acceptance review, Chapter 25 artifact, or complete remainder outline exists.
 
 planning_controls:
   ending_contract: books/book-01/control/22-book-1-ending-contract.md
@@ -70,6 +82,7 @@ planning_controls:
   chapter_acceptance_gate: books/book-01/control/25-chapter-acceptance-gate.md
   chapter_23_mission_lock: books/book-01/control/46-chapter-23-mission-lock.md
   chapter_23_acceptance_review: books/book-01/control/47-chapter-23-acceptance-review.md
+  chapter_24_mission_lock: books/book-01/control/48-chapter-24-mission-lock.md
   series_character_ledger: series/recurring-character-ledger.md
 
 narrative_house_style:
@@ -85,12 +98,12 @@ production_rules:
   - A certified derivative never replaces an independently controlled original.
   - A no-use hold preserves state and custody; it does not authenticate prior operation.
   - Chapter 23 exists only at books/book-01/manuscript/chapters/chapter-23.md and is accepted under control/47.
-  - No Chapter 24 artifact exists.
-  - No complete chapter-by-chapter remainder-of-Act-III outline exists or is authorized.
+  - Chapter 24 is mission locked under control/48 but no Chapter 24 prose or acceptance review exists.
+  - No Chapter 25 artifact or complete chapter-by-chapter remainder outline exists or is authorized.
   - No draft or revision may imitate or closely emulate the recognizable prose of a living author.
 
 archive:
   uploaded_word_snapshot_active: false
   superseded_status_snapshots: Preserved in Git history; not duplicated as active files.
 
-next_recommended_action: In a fresh, separately authorized session, create only the Chapter 24 mission lock and final-chapter plan needed to complete immediate aftermath, Julie's deliberate future-role choice, and bounded series-facing stabilization. Do not draft Chapter 24 or create a complete remainder outline.
+next_recommended_action: After the Chapter 24 mission-lock pull request is validated, reviewed, and merged, draft only Chapter 24 — The Terms of Return in a fresh context under control/48. Do not create Chapter 25 or a complete remainder outline.
