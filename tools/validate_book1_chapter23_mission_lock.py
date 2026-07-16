@@ -219,10 +219,10 @@ for line in changed_output.splitlines():
 if changed != EXPECTED_CHANGED:
     fail(f"changed-file scope mismatch: expected {sorted(EXPECTED_CHANGED)}, got {sorted(changed)}")
 for path in changed:
-    name = Path(path).name.lower()
-    if any(token in name for token in ("tmp", "temp", "helper", "payload", "runner", "debug", "apply", "latest", "backup")):
+    path_lower = path.lower()
+    if any(token in path_lower for token in ("tmp", "temp", "helper", "payload", "runner", "debug", "apply", "latest", "backup")):
         fail(f"forbidden temporary/helper artifact: {path}")
-    if name.endswith((".orig", ".rej")):
+    if path_lower.endswith((".orig", ".rej")):
         fail(f"forbidden rejected/original artifact: {path}")
 
 if subprocess.run(["git", "diff", "--check", BASE, "--"], cwd=ROOT).returncode:
