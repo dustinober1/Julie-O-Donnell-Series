@@ -2,108 +2,113 @@
 
 ## Status and authority
 
-**Approved cross-book production control.** Accepted prose always controls. Future-book functions are planning labels, not promises of survival, alliance, employment, immunity, or availability.
+**Approved cross-book production control through accepted Book 1.** Accepted prose always controls. Future-book functions are planning labels, not promises of survival, alliance, employment, immunity, availability, or legal outcome.
 
 ## Series tiers
 
 - **CORE:** essential continuing series character
 - **RECURRING:** strong return candidate with a distinct function
 - **NETWORK:** continuing antagonist or institutional-network figure
-- **CONDITIONAL:** may return if the Book 1 ending leaves a logical role
+- **CONDITIONAL:** may return if a later story supplies a distinct supported reason
 - **CLOSED:** Book 1 function complete; return requires a new reason
 
 Unknown fields remain **not established**.
 
-## Accepted Chapter 23 delta
+## Accepted Chapter 24 delta
 
-- **Julie O'Donnell — CORE:** most recent accepted appearance advances to Chapter 23 at **14:24:44 EDT**. She remains detained and injured, refuses both false exoneration and overclaim, invokes the abort, and permits a bounded public correction that no longer depends on her sole custody or explanation. Tier unchanged.
-- **Marcus Reed — CORE:** remains offstage in guarded medical care. His earlier testimony failure and later correction both enter the public record. No recovery or private repair occurs. Tier unchanged.
-- **Elias Thorne — CORE:** remains offstage in separate guarded medical custody. Public correction preserves the distinction between framed original use and voluntary later acts without immunity. Tier unchanged.
-- **Leland Price — RECURRING:** authentic request and later borrowed identity become publicly separated while rejected access and administrative exposure remain. Tier unchanged.
-- **Leila Grant / Miriam Alvarez — CONDITIONAL:** Grant's exact method and Alvarez's independent abort/publication authority advance. Neither becomes Julie's advocate or universal authority.
-- **Rachel Nwosu / Marisol Vega — CONDITIONAL:** Nwosu independently owns Argus program-integrity publication; Vega independently preserves signer limits and opens LSS review. No permanent team role is assigned.
-- **Sarah Chen / Daniel Mercer / Nora Bell:** no on-page Chapter 23 act; prior source-preservation, direct-witness, and WSS-local-record functions remain available for bounded aftermath.
-- **Arthur Vance — CONDITIONAL:** later-release finding and operational suspension become public; original deployment, sole architecture, employment, and criminal disposition remain unresolved. Tier unchanged.
-- **Senator Sterling — NETWORK:** hostile account is no longer the only official version; office/device chain and independent LSS review are public; personal command remains unproved. Tier unchanged.
+- **Julie O'Donnell — CORE:** final accepted appearance advances to Chapter 24 at **08:14:44 EDT / 17:44:44 IST**, Julie's farm. She is conditionally released after medical observation, remains legally and medically restricted, rejects permanent institutional return, adopts case-specific independent source-integrity/evidence-architecture terms, accepts bounded help, and begins no new case.
+- **Marcus Reed — CORE:** appears hospitalized and oxygen-dependent. He submits a complete correction owning his six-years-ago testimony choice. Possible future personal contact may be requested after recovery and outside command; no forgiveness, intimacy, work, or full trust is restored.
+- **Elias Thorne — CORE:** appears through an authenticated, counsel-aware medical call. He owns his voluntary later acts while preserving the framed original-identity distinction. He controls all future contact and technical participation; no permanent team role exists.
+- **Leland Price — RECURRING:** alive, represented, not criminally detained, on restricted administrative leave with access suspended. His complete authentic/adverse record remains together. No final administrative, disciplinary, clearance, or criminal decision exists.
+- **Sarah Chen / Daniel Mercer / Nora Bell:** source-record roles remain preserved without alliance or recruitment. Their later professional or testimonial consequences require lawful process and a new story need.
+- **General Hackett:** offers a possible future institutional review; Julie rejects permanent appointment. He remains a constrained sponsor, not her standing authority.
+- **Leila Grant / Miriam Alvarez:** preserve bounded method and legal process; neither becomes Julie's employer, advocate, or universal authority.
+- **Arthur Vance — CONDITIONAL:** later remote-release responsibility and operational suspension remain established; original deployment, upstream command, employment, criminal, and civil outcomes remain unresolved.
+- **Senator Sterling — NETWORK:** office/device chain and review remain public; personal possession, operation, knowledge, intent, direction, and command remain unproved.
 
 ---
 
 ## Julie O'Donnell
 
 - **Tier:** CORE
-- **Role:** primary protagonist; former Army captain/intelligence officer; analyst, evidence custodian, and operational leader
+- **Role:** protagonist; former Army captain/intelligence officer; analyst, evidence custodian, and operational leader
 - **First accepted appearance:** Prologue
-- **Most recent accepted appearance:** Chapter 23
-- **Physical continuity:** right wrist/forearm materially unusable and protected; detained; exhausted; no firearm
+- **Most recent accepted appearance:** Chapter 24
+- **Current accepted location/time:** Julie's farm, 08:14:44 EDT / 17:44:44 IST
+- **Physical continuity:** right wrist/forearm immobilized and unusable; no driving, lifting, normal right-hand writing, grip/rotation work, evidence handling, or fence repair; exhausted but medically released under conditions
+- **Legal/administrative status:** charging, admissibility, classified access, evidence contact, employment, and self-case work unresolved or restricted; not exonerated
+- **Professional state:** rejects permanent Army, Apex, and single-agency return; may accept only case-specific written mandates under her ten recorded practice terms
 - **Voice/behavior:** precise, evidence-limited, impatient with vague authority, unwilling to call inference proof
-- **Competencies:** intelligence analysis, source provenance, operational reasoning, physical cause-and-effect judgment, leadership under uncertainty
-- **Limitations:** four-second wound; institutional distrust; right-hand impairment; no omniscience; not an action superhero
-- **Public/legal status:** public origin/route allegation unsupported; still detained; unauthorized conduct, charging, admissibility, and release unresolved
-- **Current accepted location/time:** secure MPD evidence intake, 14:24:44 EDT / 23:54:44 IST
-- **Knows:** complete bounded private record and the exact three public corrections, objections, hashes, receipts, and LSS docket
-- **Does not know/prove:** original 02:14 operator, request constructor, Sterling personal command, Tariq physical operation, WSS plaintext, final outcomes
-- **Relationship with Marcus:** high operational trust; private wound unresolved
-- **Relationship with Elias:** trust based on honest ownership of unsafe choices; legal and emotional cost unresolved
-- **Book 1 end-state requirement:** choose a future role, stabilize immediate aftermath, complete bounded relationship movement, name carryovers
-- **Future-book function:** lead investigator/operator whose authority comes from demonstrated judgment rather than automatic office
-- **Return trigger:** verified anomaly, independent institutional request, surviving Argus network, or consequence of Book 1 records
-- **No-retcon locks:** no false certainty, convenient institutional trust, instant exoneration, or normal right-hand strength without recovery
+- **Knows:** bounded private/public record, proof ceilings, objections, final Chapter 24 dispositions
+- **Does not know/prove:** original 02:14 operator, request constructor, common human source, Vance upstream role, Sterling personal command, Tariq physical role, WSS plaintext, wider network, final judgments
+- **Relationship with Marcus:** possible later personal contact only after recovery and outside command; no forgiveness, intimacy restoration, work, or complete trust
+- **Relationship with Elias:** contact controlled by Elias through counsel; no presumed availability or team membership
+- **Future-book function:** independent source-integrity/evidence-architecture lead working only under a bounded lawful mandate
+- **Return trigger:** a distinct lawful mandate satisfying her written terms, not a generic anomaly or automatic recall
+- **No-retcon locks:** no instant right-hand recovery, standing credential, universal jurisdiction, false certainty, convenient institutional trust, self-investigation, or automatic access to prior collaborators
 
 ## Marcus Reed
 
 - **Tier:** CORE
-- **Role:** active-duty Army colonel/intelligence officer; Julie's former colleague and operational partner
-- **First accepted appearance:** Prologue
-- **Most recent accepted appearance:** Chapter 16 on page; medically/publicly referenced through Chapter 23
-- **Physical continuity:** severe rib/scalp/thigh/boot/balance/breathing limits; four liters oxygen at 92–93 percent saturation
-- **Voice/behavior:** procedural, strategic, tests plans through custody, abort conditions, and receiving authority
-- **Limitations:** physical state, revoked/suspended access, guilt, tendency to mistake access for influence
-- **Public/legal status:** public origin/route allegation unsupported; armed-accomplice and separate-conduct issues unresolved; guarded medical care
-- **Knows:** accepted pre-separation evidence and his own correction; no Chapter 23 briefing accepted
-- **Relationship with Julie:** strong operational trust; six-years-ago betrayal not privately repaired
-- **Book 1 end-state requirement:** medical/institutional consequence and relationship resolution
-- **Future-book function:** institutional bridge, witness, strategist, or constrained insider
-- **No-retcon locks:** earlier testimony was defensible cowardice; apology alone does not repair it; rank does not restore access; no sudden recovery
+- **Role:** Army colonel/intelligence officer; Julie's former colleague and operational partner
+- **Most recent accepted appearance:** Chapter 24
+- **Physical continuity:** hospitalized; four liters oxygen; saturation approximately 92–93 and falls with exertion; rib/chest-wall, scalp, thigh, balance, concussion-observation, and mobility limits; damaged boot removed
+- **Institutional/legal status:** medical and administrative hold; classified and operational access suspended; complete correction may reopen testimony and conduct review; no restored assignment
+- **Moral state:** explicitly owns that he gave a defensible partial truth six years earlier to protect access
+- **Relationship with Julie:** may later request personal contact after medical release and outside rank/command; no professional role or forgiveness promised
+- **Future-book function:** constrained institutional bridge, witness, strategist, or former insider if a later accepted state permits it
+- **No-retcon locks:** apology does not repair the betrayal; injury is not punishment or forgiveness currency; rank does not restore access; no sudden recovery
 
 ## Elias Thorne
 
 - **Tier:** CORE
 - **Role:** Apex model developer; author of Validation Package 88; technical witness with voluntary later acts
-- **First accepted appearance:** Chapter 2
-- **Most recent accepted appearance:** Chapter 16 on page; medically/publicly referenced through Chapter 23
-- **Physical continuity:** hip injury, bandaged right index, dizziness, exhaustion, tremor/cold consequences
-- **Voice/behavior:** technical precision mixed with visible fear; corrects language that erases agency
-- **Limitations:** legally exposed; not expert in every system; no universal hacking ability; physically impaired
-- **Public/legal status:** public origin/route allegation unsupported; voluntary later acts and separate conduct remain exposed; guarded medical custody
-- **Knows:** board history and pre-separation evidence; no Chapter 23 briefing accepted
-- **Relationship with Julie:** conditional trust based on honesty; anger and dependence remain
-- **Book 1 end-state requirement:** legal/agency aftermath preserving voluntary choice without convenient immunity
-- **Future-book function:** technical witness, reluctant expert, defendant, protected specialist, or independent safer-systems builder
-- **No-retcon locks:** later voluntary acts do not prove original deployment; fear and injuries remain
+- **Most recent accepted appearance:** Chapter 24 authenticated medical call
+- **Physical continuity:** hip injury, bandaged right index, dizziness, exhaustion, tremor/cold consequences; right hand kept still
+- **Legal/professional status:** represented, medically guarded, legally and administratively exposed; no immunity, employment decision, restored Apex access, or protective status
+- **Agency:** owns gate access, emergency session, label restoration, record removal, Northbridge entry, and overrun of the abort; unsafe circumstances do not erase choice
+- **Relationship with Julie:** Elias controls whether contact occurs through counsel and whether any separate written technical engagement occurs
+- **Future-book function:** technical witness, reluctant expert, defendant, protected specialist, or independent safer-systems builder only by his later consent
+- **No-retcon locks:** no universal hacking ability, no automatic team role, no presumed availability, no conversion of later acts into original deployment proof
+
+## Leland Price
+
+- **Tier:** RECURRING
+- **Role:** DIA systems auditor; authentic source-review requester; later borrowed identity/reference subject
+- **Current status:** alive, represented, not criminally detained, DIA employee on restricted administrative leave, classified access suspended
+- **Record lock:** authentic request, authority end, expedited-retention choice, rejected access, complete voluntary statement, and later unauthenticated borrowed path remain together
+- **Relationship with Julie:** no personal trust or contact request established; counsel controls later approach
+- **Future-book function:** technical auditor, witness, damaged insider, or reluctant source if a distinct need exists
+- **No-retcon locks:** no immunity, exoneration, clearance restoration, disciplinary judgment, criminal judgment, automatic hero status, or identification of the human constructor
 
 ## Sarah Chen
 
 - **Tier:** RECURRING
 - **Role:** Apex contractor-integration/compliance official and source-native witness
-- **Most recent accepted appearance:** Chapter 22; records support Chapter 23 publication
-- **State:** adversarial, procedurally exact, professionally exposed, not Julie's ally
+- **Current state:** source-native seal and access suspension preserved; adversarial, procedurally exact, professionally exposed, not Julie's ally
 - **Future-book function:** lawful institutional foil, investigator, witness, compliance authority, or rival
-- **No-retcon locks:** preservation is not alliance; no secret warning or release without accepted scene
+- **No-retcon locks:** preservation is not alliance; no secret warning or defection without accepted evidence
 
 ## Daniel Mercer
 
 - **Tier:** RECURRING
-- **Role:** Apex Protective Services containment officer and bounded witness
-- **Most recent accepted role:** direct-observation/contemporaneous-command record supports later-release finding
-- **State:** professional, adversarial, force-limited; no defection
+- **Role:** Apex Protective Services containment officer and bounded direct witness
+- **Current state:** direct observations and conflicting force orders preserved; professional, adversarial, force-limited; no defection
 - **Future-book function:** security professional, witness, investigator, or recurring adversarial counterpart
 - **No-retcon locks:** restraint does not equal allegiance; testimony remains direct-observation only
+
+## Nora Bell
+
+- **Tier:** CONDITIONAL
+- **Role:** Northbridge facilities/technical-watch sponsor and WSS local-audit preserver
+- **Current state:** local audit and sponsor record remain in Northbridge custody under hold; no final employment or testimonial outcome
+- **Future-book function:** witness or secure-facility professional only if later process requires her
 
 ## Major Ananya Sharma
 
 - **Tier:** RECURRING
 - **Role:** Indian artillery officer; independent no-fire decision-maker
-- **State:** Arjun originals, zero-write failure, no-fire/abort record, and bounded acknowledgment remain independently controlled
+- **Current state:** Arjun originals, zero-write failure, no-fire/abort record, and bounded acknowledgment independently controlled
 - **Relationship with Julie:** no direct contact
 - **Future-book function:** international counterpart, skeptic, ally, or regional protagonist
 - **No-retcon locks:** independent command; not Julie's remote subordinate
@@ -112,99 +117,67 @@ Unknown fields remain **not established**.
 
 - **Tier:** RECURRING
 - **Role:** senior operational-intelligence authority and preservation sponsor
-- **Chapter 23 function:** presses for clearer exculpatory language, attaches objection, accepts narrower source-defensible correction
-- **Limitations:** not examiner, prosecutor, public advocate, universal receiver, or guarantor
-- **Future-book function:** senior sponsor, witness, or constrained authority
-
-## Leland Price
-
-- **Tier:** RECURRING
-- **Role:** DIA systems auditor; authentic source-review requester; later borrowed identity/reference subject
-- **Most recent accepted appearance:** Chapter 21; records/public correction advance through Chapter 23
-- **Public/legal status:** origin/route allegation unsupported; bounded DIA administrative review and rejected access remain
-- **Relationship with Julie:** no personal trust established; she protects his complete record
-- **Book 1 end-state requirement:** bind professional/legal disposition without convenient innocence or guilt
-- **Future-book function:** technical auditor, witness, damaged insider, or reluctant source
-- **No-retcon locks:** authentic request does not clear all conduct; borrowed name does not identify constructor
+- **Chapter 24 state:** offers possible review toward a government role; accepts Julie's refusal of permanent institutional appointment
+- **Future-book function:** senior sponsor, witness, or constrained authority under a named mandate
+- **No-retcon locks:** not examiner, prosecutor, public advocate, universal receiver, employer-by-default, or guarantor
 
 ## Senator Sterling
 
 - **Tier:** NETWORK
 - **Role:** public/political antagonist; office authority implicated at bounded levels
-- **Most recent accepted state:** hostile account no longer sole official version; office/device chain and LSS review public
-- **Limitations/proof ceilings:** personal possession, operation, knowledge, direction, intent, and command remain unproved
-- **Public/legal status:** senator proceeding through public structures; no accepted arrest, charge, or private confession
-- **Book 1 end-state:** bounded office consequence materially achieved; broader personal/network accountability may carry forward
-- **Future-book function:** continuing network antagonist only if final Book 1 state supports it
-- **No-retcon locks:** no private POV/guilt without accepted scene; office device is not his hand
+- **Current state:** hostile account no longer sole official version; office/device chain and LSS review public
+- **Proof ceilings:** personal possession, operation, knowledge, direction, intent, and command not established
+- **Future-book function:** continuing network antagonist only if later evidence supplies a supported role
+- **No-retcon locks:** no private POV/guilt, arrest, charge, confession, or personal command without accepted evidence; office device is not his hand
 
 ## Arthur Vance
 
 - **Tier:** CONDITIONAL
 - **Role:** Apex site/executive authority; later remote-release participant
-- **Most recent accepted state:** Chapter 23 public later-release finding and operational suspension
-- **Limitations/proof ceilings:** original deployment keystrokes, sole architecture, upstream command, employment, charge, confession unproved
-- **Future-book function:** witness, defendant, network node, or closed Book 1 antagonist depending final outcome
-- **No-retcon locks:** no theatrical monologue; no back-propagation to 02:14 event
+- **Current state:** personal later-release finding and operational suspension public
+- **Proof ceilings:** original deployment keystrokes, sole architecture, upstream command, motive, employment, charge, confession, and final liability unproved
+- **Future-book function:** witness, defendant, network node, or closed Book 1 antagonist depending later lawful outcome
+- **No-retcon locks:** no theatrical monologue; no back-propagation to the 02:14 event
 
 ## Major Tariq
 
 - **Tier:** NETWORK
-- **Role:** registered field endpoint authority in K-17 operational chain
+- **Role:** registered field endpoint authority in the K-17 operational chain
 - **Physical presence/knowledge/intent/operation:** unproved beyond registered authority and accepted fields
-- **Future-book function:** regional network figure if later evidence establishes a supported role
+- **Future-book function:** regional network figure only if later evidence establishes a supported role
 - **No-retcon locks:** registered authority is not physical operation
-
-## Nora Bell
-
-- **Tier:** CONDITIONAL
-- **Role:** Northbridge facilities/technical-watch sponsor and WSS local-record preserver
-- **Most recent accepted state:** prior WSS preservation supports the public causal record; no Chapter 23 action
-- **Book 1 end-state requirement:** bind professional/testimonial aftermath only as needed
-- **Future-book function:** witness or secure-facility professional if logically required
 
 ## Leila Grant
 
 - **Tier:** CONDITIONAL
-- **Role:** independent DCIS examiner
-- **Most recent accepted appearance:** Chapter 23
-- **Function:** signs method certification, preserves adverse/favorable facts, refuses overclaim
-- **Future-book function:** examiner or institutional counterpart if a distinct later need exists
-- **No-retcon locks:** not Julie's advocate; no universal jurisdiction
+- **Role:** independent DCIS examiner and method authority
+- **Current state:** preserves bounded method and evidence architecture; no source window or custody authority exercised in Chapter 24
+- **Future-book function:** examiner or institutional counterpart for a distinct later mandate
+- **No-retcon locks:** not Julie's advocate, employer, or universal authority
 
 ## Miriam Alvarez
 
 - **Tier:** CONDITIONAL
-- **Role:** DCIS supervisory authority and named publication authority
-- **Most recent accepted role:** independently halts and authorizes Chapter 23 correction
+- **Role:** DCIS supervisory and publication authority
+- **Current state:** withdraws continued investigative-detention request, accepts continuing limits, does not make custody, merits, or employment decisions outside her authority
 - **Future-book function:** supervisor, investigator, or receiving authority if later jurisdiction supports it
-- **No-retcon locks:** publication/consequence is not adjudication; no automatic exoneration
+- **No-retcon locks:** correction and release process are not adjudication or exoneration
 
-## Rachel Nwosu
-
-- **Tier:** CONDITIONAL
-- **Role:** government Argus program-integrity/configuration-control authority
-- **First accepted appearance:** Chapter 23
-- **Function:** signs source-integrity notice and independently withdraws/restores program signature
-- **Future-book function:** program integrity official if continuing Argus oversight requires it
-- **No-retcon locks:** authority is limited to government registry/program state
-
-## Marisol Vega
+## Rachel Nwosu / Marisol Vega
 
 - **Tier:** CONDITIONAL
-- **Role:** LSS deputy compromise-control authority
-- **Most recent accepted appearance:** Chapter 23
-- **Function:** preserves signer no-use state, signs office/device acknowledgment, opens independent review docket
-- **Future-book function:** legislative-security authority or witness if later device/office review requires it
-- **No-retcon locks:** office-chain responsibility is not Sterling personal command; no signer operation without separate authority
+- **Roles:** government Argus program-integrity authority / LSS deputy compromise-control authority
+- **Current state:** Nwosu's source-integrity publication remains bounded; Vega's signer no-use state and review docket remain active
+- **Future-book functions:** program-integrity or legislative-security authorities only where later jurisdiction requires them
+- **No-retcon locks:** each authority remains source-limited; office-chain responsibility is not Sterling personal command; signer operation requires separate authority
 
-## Gabriel Ortiz and Hannah Park
+## Gabriel Ortiz / Hannah Park / Helena Brooks / Dana Webb / Judge Elena Ward
 
 - **Tier:** CONDITIONAL
-- **Role:** MPD custody/witness officers
-- **Function:** physical package, camera, restraint, and receipt continuity
-- **Future-book role:** witnesses or custody professionals only if legal aftermath requires them
-- **No-retcon locks:** not technical examiners or conspirators
+- **Roles:** MPD custody witnesses and watch commander; immediate counsel; named judicial authority
+- **Current state:** restraint removal, medical transfer, order acceptance, and release conditions are recorded under separate authority; none controls evidence merits or final charging
+- **Future-book function:** legal/custody witnesses only if later proceedings require them
+- **No-retcon locks:** not technical examiners, conspirators, permanent team members, or universal authorities
 
 ## Daniel Hargrove
 
@@ -222,4 +195,4 @@ Unknown fields remain **not established**.
 
 ## Ledger maintenance
 
-Update only after accepted prose or accepted control-state changes. Preserve most recent accepted appearance, physical/legal state, knowledge boundaries, relationship state, series tier, return trigger, and no-retcon locks.
+Update only after accepted prose or accepted control-state changes. Preserve most recent accepted appearance, physical/legal state, knowledge boundaries, relationship state, series tier, return trigger, consent boundary, and no-retcon locks.
