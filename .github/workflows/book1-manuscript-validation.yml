@@ -19,6 +19,25 @@ jobs:
       - name: Count accepted Book 1 words (expect 116,807)
         run: python3 tools/count_book1_words.py --expect 116807
       - name: Validate accepted Book 1 through Chapter 22
-        run: python3 tools/validate_book1_chapter22.py
+        id: chapter22_validation
+        shell: bash
+        run: |
+          set +e
+          python3 tools/validate_book1_chapter22.py > chapter22-validator.log 2>&1
+          status=$?
+          cat chapter22-validator.log
+          echo "status=$status" >> "$GITHUB_OUTPUT"
+          exit 0
+      - name: Upload Chapter 22 validator log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: chapter22-validator-log
+          path: chapter22-validator.log
+          if-no-files-found: error
+          retention-days: 1
+      - name: Enforce Chapter 22 validator result
+        if: steps.chapter22_validation.outputs.status != '0'
+        run: exit 1
       - name: Diff hygiene against authorized Chapter 22 baseline
         run: git diff --check 3ed760050f7e74ad152d0f46ede7db16164030b0 --
