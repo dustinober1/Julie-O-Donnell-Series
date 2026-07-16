@@ -2,62 +2,63 @@
 
 ## Governing rule
 
-A character knows a fact only through direct observation, an accepted communication, a record lawfully presented to that character, or a clearly bounded inference from accepted facts. Reader knowledge never transfers automatically.
+A character knows a fact only through direct observation, an accepted communication, a record presented within authority, or a bounded inference from accepted facts. Public publication does not transfer sealed, encrypted, privileged, incomplete, or excluded contents.
 
 ## Julie O'Donnell
 
-**Knows after Chapter 22:**
-- Price's authentic request and active-authority end are separate from the later inherited identity path.
-- The Price and Elias paths share an Apex-linked construction family and `APX-DIR-0019` authority binding.
-- K-17's local commit failed with zero writes.
-- A later remote reconstruction/release occurred through separate source records.
-- Vance personally participated in the later release, supported by source-native palm authentication plus camera, access journal, Chen, Mercer, and government-registry sequence.
-- Alvarez removed Vance from operational authority pending review and imposed source-separated preservation.
+**Knows after Chapter 23:**
+- the complete Chapter 22 bounded private reconciliation;
+- the exact Argus, DCIS, and LSS public statements, their source classes, withholding schedules, proof ceilings, objections, hashes, and receipts;
+- the late redline crossed the Vance and Sterling ceilings;
+- Alvarez, Nwosu, and Vega independently stopped and restored their own signatures;
+- `LSS-IDR-90418-01` exists and the signer remains under no-use hold;
+- Sterling's hostile account is no longer the only official version.
 
-**Does not know/prove:** original 02:14 human operator; request constructor; Vance's original deployment keystrokes; Sterling personal command or possession; Tariq physical operation; WSS plaintext; complete criminal liability; Price's complete innocence; Elias's immunity; final public outcome.
+**Does not know/prove:** original 02:14 human operator; human request constructor; Vance's original deployment keystrokes; Sterling personal possession, operation, knowledge, direction, intent, or command; Tariq physical role; WSS plaintext; complete criminal liability; final charging, release, employment, or medical outcomes.
 
 ## Leila Grant
 
-Knows only records within authorized examination/comparison scope. Controls technical method and wording. Does not acquire universal jurisdiction, sealed-package contents outside scope, or authority to adjudicate guilt.
+Knows only authorized source ranges and the publication method. Controls the method certification and exact bounded language. Does not acquire universal jurisdiction, sealed-package contents outside scope, or authority to adjudicate guilt.
 
 ## Miriam Alvarez
 
-Knows sufficient bounded facts to order operational removal and preservation. Does not know every privileged source, unopened package, encrypted block, or upstream command. Owns consequence under DCIS authority, not public verdict.
+Knows sufficient facts to authorize and halt the DCIS correction. Owns the decision under DCIS authority. Does not know every privileged source or decide release, innocence, employment, or prosecution.
 
-## Sarah Chen
+## Rachel Nwosu
 
-Knows the Apex source-native records she preserves, her own contemporaneous objection, relevant camera/access-journal categories, Vance's release presence, and Mercer witness categories. Does not know the complete MPD package contents, Price statement, Arjun original, or all DCIS conclusions. Does not warn Julie.
+Knows the government Argus registry, source-integrity state, source-limited later-release corroboration, K-17 acknowledgment, and program suspension state. Does not own Apex originals, LSS office records, or DCIS legal findings.
 
-## Daniel Mercer
+## Marisol Vega / Martin Vann / LSS
 
-Knows only direct observation and contemporaneous command: Vance's presence/action at the later release, relevant security position, and orders he personally heard. Does not infer original deployment authorship or Sterling command.
+Know present signer custody, office/device assignment and continuity-exception source ranges, authorized access paths, and the LSS review docket. Do not authenticate earlier physical possession or operation and do not know WSS plaintext.
 
-## Marcus Reed / Elias Thorne
+## Sarah Chen / Daniel Mercer / Nora Bell
 
-No Chapter 22 briefing occurs. They remain medically separated and retain only their previously accepted knowledge.
+No Chapter 23 briefing is shown. They retain their previously accepted source-native, direct-observation, and WSS-local knowledge. Public publication may later be knowable to them, but no private reaction or additional conclusion is accepted here.
 
-## Leland Price
+## Marcus Reed / Elias Thorne / Leland Price
 
-No Chapter 22 briefing occurs. He retains knowledge of his authentic request, access rejection, statement, and administrative exposure; he does not know the complete later reconciliation.
+No Chapter 23 briefing or on-page receipt occurs. Their public inclusion is part of the published record, but no private knowledge transfer, consent beyond prior records, or new action is accepted.
 
 ## William Hackett
 
-Receives only support-level facts needed for authority coordination and preservation. Does not gain unrestricted source records or adjudicative control.
+Knows the bounded public instruments and objections available through the recorded release process. Does not gain unrestricted originals or adjudicative control.
 
 ## Senator Sterling / staff / public
 
-No private Chapter 22 briefing occurs. The public receives no correction. Sterling's hostile account remains dominant. No narrator-level personal guilt or command knowledge is added.
+The public receives three authenticated, separately attributable corrections. The public may know office/device responsibility and the explicit non-finding that personal command is not established. No narrator-level private guilt, possession, knowledge, or command is added.
 
 ## Sharma / Qureshi / Indian command
 
-Retain independent knowledge of the local zero-write failure, no-fire/abort record, Arjun originals, and later superseding omission. They do not receive Julie's Chapter 22 reconciliation.
+Their local record is referenced only through the bounded Argus notice. No direct communication with Julie occurs and no American statement replaces their original records.
 
 ## Information firewalls
 
+- Public hash verifies the published document, not the truth of every source.
 - Apex originals are not government-registry originals.
 - Arjun originals are not DCIS derivatives.
 - WSS portable capture is not WSS local original.
-- Device registration is not physical possession.
+- Device registration and office responsibility are not physical possession or personal command.
 - Authority binding is not human operation.
 - A later authenticated act is not proof of an earlier act.
-- Public claims remain separate from private findings.
+- Public correction is not final legal adjudication.

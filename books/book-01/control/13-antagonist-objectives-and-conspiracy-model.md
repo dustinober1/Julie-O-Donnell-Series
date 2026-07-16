@@ -7,35 +7,30 @@ The conspiracy is a network of aligned interests, tools, permissions, and instit
 ## Arthur Vance / Apex
 
 **Established:**
-- Apex authority architecture supported the Payload 88 production bridge, containment, evidence control, and later remote reconstruction.
-- Vance personally participated in the later remote reconstruction release through live-palm authentication and source-native local release record, independently corroborated by camera, access journal, Chen, Mercer, and government registry.
-- Vance sought control over evidence and interpretation and lost operational release/security/source-custody authority pending review.
+- Apex authority architecture supported the Payload 88 bridge, containment, evidence control, and later remote reconstruction.
+- Vance personally participated in the later remote release through source-native live-palm authentication and corroborating records.
+- He lost relevant operational release/security/source-custody authority pending review.
+- Chapter 23 makes the later-release finding and suspension publicly durable through the Argus/DCIS correction package.
 
-**Not established:**
-- Vance personally typed or physically executed the original 02:14 deployment.
-- Vance created every borrowed/framed identity path.
-- Vance received or obeyed Sterling's personal command.
-- Vance is the sole architect or has confessed.
+**Not established:** original 02:14 operation; every borrowed/framed identity path; Sterling personal command; sole architecture; confession; final employment or criminal disposition.
 
 **Likely institutional objective, still bounded:** preserve Apex/Argus authority, contract value, and control over the causal record.
 
 ## Senator Sterling / office network
 
 **Established:**
-- Sterling publicly converts the real security incidents into a hostile insider narrative defending Argus and institutional discipline.
-- His office device/authority participates in the operational chain at previously accepted device and institutional levels.
-- His public account remains dominant at Chapter 22 endpoint.
+- Sterling publicly converted the real incidents into a hostile insider narrative defending Argus and institutional discipline.
+- His office device/authority and continuity exception participate at bounded institutional levels.
+- Chapter 23 publicly identifies the office/device chain and opens LSS review docket `LSS-IDR-90418-01`.
+- His hostile account is no longer the only official version.
 
-**Not established:**
-- Sterling personally held or operated `SSO-NS-004`.
-- Sterling personally directed Payload 88, K-17, the remote reconstruction, Vance, Tariq, or the public timing.
-- Private guilt, intent, or command through narrator assertion.
+**Not established:** personal possession or operation of `SSO-NS-004`; personal knowledge, intent, direction, or command; direction of Payload 88, K-17, the later release, Vance, Tariq, or public timing.
 
-**Objective model:** convert crisis and insider-threat framing into expanded institutional authority while avoiding an authenticated public contradiction. This remains a model, not a proven personal confession.
+**Objective model:** convert crisis and insider-threat framing into expanded institutional authority while resisting authenticated contradiction. This remains an analytic model, not personal proof.
 
 ## Major Tariq / field authority
 
-Registered field authority and accepted endpoint participation remain established at the system level. Physical presence, personal operation, exact field-team sponsorship, and knowledge remain unproved.
+Registered field authority and endpoint participation remain established at system level. Physical presence, personal operation, field-team sponsorship, knowledge, and intent remain unproved.
 
 ## Northbridge / WSS / Hartwell network
 
@@ -47,4 +42,4 @@ Price borrowed identity and Elias framed identity share a construction family an
 
 ## Current pressure state
 
-Chapter 22 breaks Vance's exclusive operational control and creates a durable private counterrecord, but Sterling still owns the public frame. The next ending movement must fracture that frame authentically without manufacturing unsupported personal command.
+Chapter 23 breaks Sterling's monopoly over the public record without collapsing the network into a solved case. The final chapter must bind immediate consequences and Julie's future choice while explicitly naming which uncertainties carry into later books.

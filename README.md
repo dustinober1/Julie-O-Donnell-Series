@@ -6,25 +6,25 @@ Repository for the Julie O'Donnell contemporary geopolitical techno-thriller / m
 
 - Active book: Book 1 — title not yet locked
 - Finished-length range: **100,000–125,000 words**; planning target **112,500**
-- Accepted canon: Prologue and Chapters 1–22
-- Accepted-manuscript length: **116,807 words**
-- Accepted Act III subtotal, Chapters 13–22: **53,152 words**
-- Remaining before the 125,000-word maximum: **8,193 words**
-- Accepted endpoint: **13:12:44 EDT / 22:42:44 IST**, secure MPD evidence intake
-- Chapter 22, **The Release Record**: **ACCEPT**, **4,716 words**
-- Chapter 22 reviewed prose: [`books/book-01/manuscript/chapters/chapter-22.md`](books/book-01/manuscript/chapters/chapter-22.md), blob `034ab496794594427d8409d03e7c6659d41b6a91`
-- Mission lock: [`books/book-01/control/44-chapter-22-mission-lock.md`](books/book-01/control/44-chapter-22-mission-lock.md), blob `9bd255ac7b09a1490dc70be4506ba29183756788`
-- Acceptance review: [`books/book-01/control/45-chapter-22-acceptance-review.md`](books/book-01/control/45-chapter-22-acceptance-review.md) — **ACCEPT**, blob `f0261e728600b58a4efada77b39874977f347ade`
+- Accepted canon: Prologue and Chapters 1–23
+- Accepted-manuscript length: **121,417 words**
+- Accepted Act III subtotal, Chapters 13–23: **57,762 words**
+- Remaining before the 125,000-word maximum: **3,583 words**
+- Accepted endpoint: **14:24:44 EDT / 23:54:44 IST**, secure MPD evidence intake
+- Chapter 23, **The Official Correction**: **ACCEPT**, **4,610 words**
+- Chapter 23 reviewed prose: [`books/book-01/manuscript/chapters/chapter-23.md`](books/book-01/manuscript/chapters/chapter-23.md), blob `1f511d36404450f201b34a075f441d350eb7cc52`
+- Mission lock: [`books/book-01/control/46-chapter-23-mission-lock.md`](books/book-01/control/46-chapter-23-mission-lock.md), blob `c8c5be7e9ee5a902c7187697cf1bc70c8a5ce30a`
+- Acceptance review: [`books/book-01/control/47-chapter-23-acceptance-review.md`](books/book-01/control/47-chapter-23-acceptance-review.md) — **ACCEPT**, blob `c876854075ad1f686ac663018983fd34f0064e2c`
 - Active Book 1 chapter drafts: none
-- Chapter 23 prose or mission lock: none
+- Chapter 24 artifact: none
 - Complete remainder-of-Act-III outline: none
-- Book 1: not publication-ready; at least one later chapter remains required by the ending contract
+- Book 1: not publication-ready; one final aftermath/future-choice chapter remains required by the ending contract
 
-## Accepted Chapter 22 result
+## Accepted Chapter 23 result
 
-Chapter 22 relates Price's borrowed request identity, Elias's framed deployment identity, the failed K-17 local commit, and the later successful remote reconstruction at mechanism and authority-binding levels. Source-native release records plus camera, access-journal, Chen, Mercer, and government-registry corroboration establish Arthur Vance's personal participation in the later remote release only. They do not prove his original 02:14 deployment keystrokes, the human request constructor, Sterling's personal command, Tariq's physical operation, or WSS plaintext.
+Three separately attributable public corrections now place the causal record into public view. The Argus notice establishes synthetic/validation-derived contamination, K-17's failed local authentication and zero writes, the distinct later remote reconstruction, and Vance's personally authenticated later release and operational suspension. The DCIS correction states that the authenticated record does not support the claim that Julie, Marcus, Elias, or Price originated the poisoned source or constructed the operational route while preserving every separate adverse record and unresolved legal status. The LSS acknowledgment identifies the Sterling-office device and continuity-exception chain, keeps `SSO-NS-004` closed under seal `LSS-SL-90418`, and opens independent review docket `LSS-IDR-90418-01` without alleging Sterling's personal command.
 
-Alvarez removes Vance from Argus operational release authority, Building Three security authority, source-custody authority, and unilateral preservation control pending review. Relevant Apex originals enter a joint preservation hold. `SSO-NS-004` remains closed under LSS no-use control; the seven MPD packages remain sealed and stationary; Marcus and Elias remain medically separated; Sterling's hostile account remains publicly dominant. The signed private counterrecord is ready for later authenticated public use but has not been released.
+The late release overclaim was stopped after Julie withdrew consent and Alvarez, Nwosu, and Vega independently halted their own signatures. The restored proof ceilings remained visible. Each statement published with its own hash and receipt. Sterling's hostile account is no longer the only official version, but Julie remains detained, Marcus and Elias remain medically separated, all seven MPD packages remain sealed and stationary, and no charge, release, immunity, employment, or final adjudication is decided.
 
 ## Source-of-truth hierarchy
 
@@ -35,8 +35,8 @@ Alvarez removes Vance from Argus operational release authority, Building Three s
 5. [`PROJECT_STATE.yaml`](PROJECT_STATE.yaml) for production status and navigation
 6. [`archive/`](archive/) and Git history for superseded provenance
 
-Permanent validation protects accepted Chapters 13–22, all accepted Chapter 1–21 prose against change, the accepted manifest and total, the Chapter 22 mission lock/review/verdict, the exact promoted Chapter 22 blob/count and endpoint, absence of the Chapter 22 draft, absence of Chapter 23 artifacts and a complete remainder outline, synchronized accepted state, forbidden temporary artifacts, and full base-to-head diff hygiene.
+Permanent validation protects accepted Chapters 13–23, all accepted Chapter 1–22 prose against change, the accepted manifest and total, the Chapter 23 mission lock/review/verdict, the exact promoted Chapter 23 blob/count and endpoint, absence of the Chapter 23 draft, absence of Chapter 24 artifacts and a complete remainder outline, synchronized accepted state, forbidden temporary artifacts, and full base-to-head diff hygiene.
 
 ## Current gate
 
-The next separately authorized task may create only a Chapter 23 mission lock based on the accepted Chapter 22 endpoint. It may not draft Chapter 23 or create a complete chapter-by-chapter remainder outline.
+The next separately authorized task may create only the Chapter 24 mission lock and final-chapter plan. It may not draft Chapter 24 or create a complete chapter-by-chapter remainder outline.
