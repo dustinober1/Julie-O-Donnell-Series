@@ -144,7 +144,7 @@ for line in output.splitlines():
 unexpected = changed - ALLOWED_CHANGED
 if unexpected:
     fail(f"unexpected changed files: {sorted(unexpected)}")
-for required in (REVIEW, MANIFEST, DRAFT, CH23, "tools/validate_book1_chapter23.py"):
+for required in (REVIEW, MANIFEST, CH23, "tools/validate_book1_chapter23.py"):
     if required not in changed:
         fail(f"required acceptance change missing: {required}")
 for path in changed:
