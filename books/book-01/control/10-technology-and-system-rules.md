@@ -22,7 +22,7 @@ Keep these categories separate:
 
 No category automatically proves the next.
 
-## Accepted identity-path rules
+## Accepted Chapter 22 identity-path rules
 
 - A continuity broker may inherit Price's request identity/reference and add fields after his active authority ended.
 - That event proves a constructed path, not the human constructor.

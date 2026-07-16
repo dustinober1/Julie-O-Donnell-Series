@@ -12,7 +12,7 @@ Accepted prose listed in `../ACCEPTED_MANUSCRIPT.yaml` is story canon. This pack
 - Accepted endpoint: **13:12:44 EDT / 22:42:44 IST**, secure MPD evidence intake
 - Chapter 22 — **The Release Record** — **ACCEPT**, **4,716 words**, blob `034ab496794594427d8409d03e7c6659d41b6a91`
 - Mission lock: `44-chapter-22-mission-lock.md`, blob `9bd255ac7b09a1490dc70be4506ba29183756788`
-- Acceptance review: `45-chapter-22-acceptance-review.md`, blob `9de6c47b5984875339e8c6244ffca25f49394d9c`
+- Acceptance review: `45-chapter-22-acceptance-review.md`, blob `f0261e728600b58a4efada77b39874977f347ade`
 
 ## Chapter 22 result
 
