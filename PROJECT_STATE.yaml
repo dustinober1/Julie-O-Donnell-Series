@@ -1,5 +1,5 @@
 project: Julie O'Donnell Series
-schema_version: 15
+schema_version: 16
 last_updated: '2026-07-16'
 
 status_authority:
@@ -58,12 +58,17 @@ active_book:
       established: Authenticated public fracture; bounded correction preserving adverse facts; Vance later-release finding and suspension published; Sterling-office device/continuity chain acknowledged under independent LSS review; publication made durable by separate hashes and receipts.
       deferred: Immediate legal, medical, relationship, and professional aftermath; Julie's future-role choice; bounded carryover of original operator, request constructor, Sterling personal command, Tariq physical role, WSS plaintext, and wider network.
   drafts:
-    active_chapter_drafts: []
+    active_chapter_drafts:
+      - 24
   future_prose:
     chapter_24:
-      status: mission locked; undrafted and non-canon
+      status: first draft complete; non-canon; formal acceptance review not created
       title: The Terms of Return
       mission_lock: books/book-01/control/48-chapter-24-mission-lock.md
+      mission_lock_blob_sha: 260186500b448b5154858f7df47f113dc8d6fbfa
+      draft: books/book-01/drafts/chapter-24.md
+      draft_blob_sha: abce3cbea04a7afd798b5022ba09ce665a9cc923
+      draft_words: 3362
       opening: 15:04:44 EDT / 00:34:44 IST
       planned_endpoint: 08:14:44 EDT / 17:44:44 IST, following EDT morning
       pov: Julie O'Donnell close third only; no cutaway
@@ -72,8 +77,10 @@ active_book:
       acceptable_words: 3150-3450
       hard_maximum_words: 3583
       dominant_function: Bounded legal, medical, relationship, professional, and series-facing endpoint in which Julie chooses an independent source-integrity practice.
+      acceptance_review: not created
+      canon_status: non-canon pending formal acceptance review
     chapter_25_and_later: not authorized for Book 1
-    architecture_rule: Chapter 24 is the final Book 1 chapter. No Chapter 24 prose, Chapter 24 acceptance review, Chapter 25 artifact, or complete remainder outline exists.
+    architecture_rule: Chapter 24 is the final Book 1 chapter. One non-canon Chapter 24 first draft exists under books/book-01/drafts/; no Chapter 24 manuscript or acceptance review, Chapter 25 artifact, or complete remainder outline exists.
 
 planning_controls:
   ending_contract: books/book-01/control/22-book-1-ending-contract.md
@@ -98,7 +105,8 @@ production_rules:
   - A certified derivative never replaces an independently controlled original.
   - A no-use hold preserves state and custody; it does not authenticate prior operation.
   - Chapter 23 exists only at books/book-01/manuscript/chapters/chapter-23.md and is accepted under control/47.
-  - Chapter 24 is mission locked under control/48 but no Chapter 24 prose or acceptance review exists.
+  - Chapter 24 exists only as a non-canon first draft at books/book-01/drafts/chapter-24.md under control/48.
+  - Chapter 24 cannot be promoted without a separate formal acceptance review and synchronized promotion.
   - No Chapter 25 artifact or complete chapter-by-chapter remainder outline exists or is authorized.
   - No draft or revision may imitate or closely emulate the recognizable prose of a living author.
 
@@ -106,4 +114,4 @@ archive:
   uploaded_word_snapshot_active: false
   superseded_status_snapshots: Preserved in Git history; not duplicated as active files.
 
-next_recommended_action: After the Chapter 24 mission-lock pull request is validated, reviewed, and merged, draft only Chapter 24 — The Terms of Return in a fresh context under control/48. Do not create Chapter 25 or a complete remainder outline.
+next_recommended_action: Conduct a formal Chapter 24 acceptance review against control/48 and the exact draft blob. Do not revise or promote the prose unless that review explicitly authorizes it. Do not create Chapter 25 or a complete remainder outline.

@@ -18,13 +18,15 @@ jobs:
           fetch-depth: 0
       - name: Count accepted Book 1 words (expect 121,417)
         run: python3 tools/count_book1_words.py --expect 121417
-      - name: Compile Book 1 validators
-        run: python3 -m py_compile tools/count_book1_words.py tools/validate_book1_chapter23.py tools/validate_book1_chapter24_mission_lock.py
-      - name: Parse synchronized YAML controls
-        run: ruby -e "require 'yaml'; YAML.load_file('PROJECT_STATE.yaml'); YAML.load_file('books/book-01/ACCEPTED_MANUSCRIPT.yaml')"
       - name: Validate accepted Book 1 through Chapter 23
         run: python3 tools/validate_book1_chapter23.py
       - name: Validate Chapter 24 final-chapter mission lock
         run: python3 tools/validate_book1_chapter24_mission_lock.py
-      - name: Diff hygiene against authorized Chapter 24 mission-lock baseline
-        run: git diff --check 07162d09f9a8a429909eb0e9227530315c7c7664 --
+      - name: Validate Chapter 24 first draft
+        run: python3 tools/validate_book1_chapter24_draft.py
+      - name: Compile Book 1 validators
+        run: python3 -m py_compile tools/validate_book1_chapter23.py tools/validate_book1_chapter24_mission_lock.py tools/validate_book1_chapter24_draft.py
+      - name: Parse synchronized YAML controls
+        run: ruby -e "require 'yaml'; YAML.load_file('PROJECT_STATE.yaml'); YAML.load_file('books/book-01/ACCEPTED_MANUSCRIPT.yaml')"
+      - name: Diff hygiene against authorized Chapter 24 first-draft baseline
+        run: git diff --check d8adea11828fbd1ec0a8924e072b566f0fc62bcd --
