@@ -1,46 +1,48 @@
-# 18. ACT III ENTRY AND CURRENT STATE
+# 18. ACT III ENTRY AND FINAL STATE
 
 ## Accepted Act III state
 
-Act III accepted canon comprises Chapters 13–23. The accepted manuscript totals **121,417 words**; accepted Act III totals **57,762 words**.
+Act III accepted canon comprises Chapters 13–24. The accepted manuscript totals **124,779 words**; accepted Act III totals **61,124 words**.
 
-## Current accepted endpoint
+## Final accepted endpoint
 
-- **Chapter:** 23 — The Official Correction
-- **Time:** **14:24:44 EDT / 23:54:44 IST**
-- **Location:** secure MPD evidence intake
-- **Public record:** three separately authenticated corrections publish with hashes and receipts
-- **Vance:** personal later-release participation and operational suspension are publicly durable; earlier acts remain unproved
-- **Sterling office:** device/continuity chain publicly acknowledged; LSS review docket opened; personal command not established
-- **Signer:** `SSO-NS-004` remains under LSS no-use hold and seal `LSS-SL-90418`
-- **Physical evidence:** MPD retains seven sealed packages; source institutions retain originals
-- **Medical state:** Julie detained with unusable right wrist/forearm; Marcus on four liters oxygen at 92–93 percent; Elias in separate guarded medical custody
-- **Public state:** Sterling's hostile account is no longer the only official version
+- **Chapter:** 24 — The Terms of Return
+- **Time:** **08:14:44 EDT / 17:44:44 IST**
+- **Location:** Julie's farm
+- **Julie:** conditionally released after medical observation; right wrist/forearm immobilized and unusable; no driving, lifting, ordinary right-hand writing, evidence contact, classified access, or self-investigation
+- **Professional choice:** rejects permanent Army, Apex, or single-agency return; adopts case-specific independent source-integrity and evidence-architecture terms
+- **Marcus:** hospitalized, oxygen-dependent, on medical/administrative hold, access suspended; complete correction submitted; possible future personal contact only, without forgiveness or work
+- **Elias:** represented, medically impaired, legally exposed; controls future contact and all technical participation; no permanent-team status
+- **Price:** alive, represented, not criminally detained, in restricted DIA administrative status with access suspended; complete record preserved
+- **Physical evidence:** `MPD-901441` through `MPD-901447` sealed and separate; aluminum case remains 136 sealed / 47 incomplete / 311 excluded
+- **Signer:** `SSO-NS-004` powered down, isolated, closed, unused, under `LSS-SL-90418`; `LSS-IDR-90418-01` remains an investigation
+- **Home:** farm remains materially real and is no longer only a hiding place; Julie accepts bounded help with the fence
 
-## Act III results already achieved
+## Act III results achieved
 
 - Hartwell carrier stream and custody geometry established.
-- Public surrender/witness line created without violence.
-- Seven-package MPD custody and medical separation established.
+- Public surrender and seven-package MPD custody established without violence.
 - Independent board, Arjun, Hartwell, WSS, Price, Apex, registry, office, LSS, and DCIS records preserved under source limits.
-- K-17 local zero-write failure separated from later remote reconstruction.
-- Vance later-release act and bounded operational consequence established.
-- Signed private counterrecord survives outside Vance's exclusive control.
-- Authenticated visible fracture and bounded Sterling-office consequence achieved without personal-command overclaim.
+- K-17 local zero-write failure separated from the later remote reconstruction.
+- Vance's later-release act and bounded operational consequence established.
+- Three separately attributable public corrections fracture Sterling's false account without personal-command overclaim.
+- Immediate legal, medical, relationship, professional, consent, and series-facing aftermath established.
+- Julie makes an active future-role choice and returns home without beginning another operation.
 
-## Remaining Book 1 obligations
+## Deliberate series carryovers
 
-- immediate legal, medical, and professional aftermath;
-- Marcus institutional consequence and relationship movement with Julie;
-- Elias and Price dispositions preserving agency and adverse facts;
-- Chen, Mercer, Bell, Grant, Alvarez, Nwosu, and Vega consequences only where ending-contract closure requires them;
-- Julie's active future-role choice;
-- bounded series-facing stabilization and named deliberate carryovers.
+- original 02:14 human operator;
+- human constructor behind the borrowed request path;
+- whether one human source connects the two identity constructions;
+- Vance's earlier role and upstream direction beyond the later release;
+- Sterling's personal possession, operation, knowledge, intent, direction, or command;
+- Tariq's physical role;
+- WSS plaintext;
+- wider network membership and durability;
+- final charging, admissibility, administrative, clearance, employment, civil, and relationship consequences.
 
-This is an obligation inventory, not a chapter-by-chapter remainder outline.
+These are deliberate carryovers, not unfinished Book 1 obligations.
 
-## Chapter 24 final-chapter lock
+## Current gate
 
-`48-chapter-24-mission-lock.md` assigns every remaining obligation to **The Terms of Return**, the final Book 1 chapter. The lock requires Julie-only POV, exactly four causal movements, a **3,300-word** target, and a **3,583-word** hard ceiling. It opens forty minutes after Chapter 23 and ends the following morning at Julie's farm after she chooses an independent source-integrity practice.
-
-No Chapter 24 prose, Chapter 24 acceptance review, Chapter 25 artifact, or complete remainder outline exists.
+Book 1 is structurally complete. The next task is a complete publication-readiness and final quality-assurance review. Chapter 25 remains unauthorized.
