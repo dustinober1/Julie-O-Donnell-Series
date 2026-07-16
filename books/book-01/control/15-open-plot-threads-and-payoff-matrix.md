@@ -1,5 +1,13 @@
 # 15. OPEN PLOT THREADS AND PAYOFF MATRIX
 
+## Final accepted baseline
+
+- Accepted manuscript: Prologue and Chapters 1–24
+- Accepted words: **124,779**
+- Accepted Act III subtotal: **61,124**
+- Accepted endpoint: **08:14:44 EDT / 17:44:44 IST**, Julie's farm
+- Book 1 structural state: complete; publication-readiness review pending
+
 Disposition labels: **PAID**, **B1-PARTIAL / SERIES**, **SERIES**, **OPTIONAL**.
 
 | Thread | Final disposition after Chapter 24 | Accepted state / carryover rule |
