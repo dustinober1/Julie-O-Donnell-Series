@@ -4,7 +4,7 @@ Repository for the Julie O'Donnell contemporary geopolitical techno-thriller / m
 
 ## Current production state
 
-- Active book: Book 1 — title not yet locked
+- Active book: Book 1 — **Veridrift**
 - Finished-length range: **100,000–125,000 words**
 - Accepted canon: **Prologue and Chapters 1–24**
 - Accepted-manuscript length: **124,779 words**

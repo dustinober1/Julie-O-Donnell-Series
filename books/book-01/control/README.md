@@ -4,6 +4,7 @@ Accepted prose and `../ACCEPTED_MANUSCRIPT.yaml` control canon. This directory c
 
 ## Current accepted state
 
+- Book title: **Veridrift**
 - Accepted canon: Prologue and Chapters 1–24
 - Accepted words: **124,779**
 - Accepted Act III subtotal: **61,124**

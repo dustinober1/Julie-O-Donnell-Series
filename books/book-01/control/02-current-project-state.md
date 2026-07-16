@@ -2,6 +2,7 @@
 
 ## Accepted manuscript
 
+- Book title: **Veridrift**
 - Prologue and Chapters 1–24 accepted
 - Accepted words: **124,779**
 - Accepted Act III words, Chapters 13–24: **61,124**

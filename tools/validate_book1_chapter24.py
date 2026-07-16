@@ -20,7 +20,7 @@ CH24_DRAFT = "books/book-01/drafts/chapter-24.md"
 
 EXPECTED_TOTAL = 124779
 EXPECTED_ACT_III = 61124
-EXPECTED_MANIFEST_BLOB = "cae7c37803acf96ecb856af562ecd522e6696499"
+EXPECTED_MANIFEST_BLOB = "f44aeb2c374e179631321b919b9741834f721e35"
 EXPECTED_CH23_BLOB = "1f511d36404450f201b34a075f441d350eb7cc52"
 EXPECTED_CH23_LOCK_BLOB = "c8c5be7e9ee5a902c7187697cf1bc70c8a5ce30a"
 EXPECTED_CH23_REVIEW_BLOB = "c876854075ad1f686ac663018983fd34f0064e2c"
@@ -172,6 +172,7 @@ def validate_manifest_and_navigation() -> None:
     require(
         read(MANIFEST),
         (
+            'title: "Veridrift"',
             "accepted_words: 124779",
             "chapter: 24",
             'eastern: "08:14:44 EDT"',
@@ -186,6 +187,7 @@ def validate_manifest_and_navigation() -> None:
         read(PROJECT),
         (
             "schema_version: 17",
+            "title: Veridrift",
             "structurally_complete: true",
             "publication_ready: false",
             "accepted_words: 124779",
@@ -201,6 +203,17 @@ def validate_manifest_and_navigation() -> None:
         ),
         PROJECT,
     )
+
+    title_synchronized = (
+        "README.md",
+        "books/book-01/control/00-overview.md",
+        "books/book-01/control/02-current-project-state.md",
+        "books/book-01/control/README.md",
+        "books/book-01/manuscript/STATUS.md",
+    )
+    for path in title_synchronized:
+        if "Veridrift" not in read(path):
+            fail(f"locked Book 1 title missing from {path}")
 
     synchronized = (
         "README.md",
