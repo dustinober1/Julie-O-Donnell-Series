@@ -14,6 +14,18 @@
 
 Three source-limited public corrections have published with separate hashes and receipts. Sterling's hostile account is no longer the only official version. Vance's personal finding remains limited to the later remote release; the Sterling-office device/continuity chain is under independent LSS review; Sterling personal command remains unproved. `SSO-NS-004` remains closed and unused, all seven MPD packages remain sealed, Julie remains detained and injured, and Marcus and Elias remain medically separated.
 
+## Chapter 24 planning state
+
+- Chapter 24 title: **The Terms of Return**.
+- Mission lock: `../control/48-chapter-24-mission-lock.md`.
+- Status: mission locked, undrafted, non-canon.
+- POV: Julie O'Donnell close third only; no cutaway.
+- Structure: exactly four causal movements.
+- Preferred length: **3,300 words**; acceptable **3,150–3,450**; hard maximum **3,583**.
+- No Chapter 24 manuscript or draft file exists.
+- No Chapter 24 acceptance review exists.
+- No Chapter 25 artifact or complete remainder outline exists.
+
 ## Future prose
 
-No active Book 1 chapter draft exists. No Chapter 24 artifact exists. One final chapter remains required for legal, medical, relationship, professional, future-role, and series-facing stabilization, but no complete remainder outline exists.
+A fresh authorized session may draft only Chapter 24 after the mission lock is validated, reviewed, and merged. Chapter 24 must be separately reviewed and accepted before Book 1 can be declared structurally complete or publication-ready.

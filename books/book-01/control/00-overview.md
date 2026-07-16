@@ -28,8 +28,8 @@ The record does not prove the original 02:14 human operator, request constructor
 
 ## Remaining Book 1 obligations
 
-Immediate legal/medical/professional aftermath; Marcus and Julie relationship movement; Elias and Price dispositions without convenient innocence or villainy; Chen/Mercer/Bell consequences; Julie's deliberate future-role choice; bounded series-facing stabilization and named carryovers.
+Immediate legal/medical/professional aftermath; Marcus and Julie relationship movement; Elias and Price dispositions without convenient innocence or villainy; proportional Chen/Mercer/Bell acknowledgment; Julie's deliberate future-role choice; bounded series-facing stabilization and named carryovers.
 
-## Current gate
+## Chapter 24 control
 
-No Chapter 24 artifact or complete remainder outline exists. The next authorized task may create only the Chapter 24 mission lock and final-chapter plan.
+`48-chapter-24-mission-lock.md` locks **The Terms of Return** as the final Book 1 chapter. It opens forty minutes after Chapter 23, uses Julie close third only, contains exactly four causal movements, targets **3,300 words**, and cannot exceed **3,583**. Julie must choose an independent source-integrity practice rather than restored rank or permanent institutional employment. No Chapter 24 prose, Chapter 24 acceptance review, Chapter 25 artifact, or complete remainder outline exists.

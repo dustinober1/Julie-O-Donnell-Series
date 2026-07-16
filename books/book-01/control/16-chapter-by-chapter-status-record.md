@@ -46,6 +46,15 @@ The accepted-manuscript inventory in `../ACCEPTED_MANUSCRIPT.yaml` controls acce
 - Exact words: **4,610**.
 - No prose repair was made and no duplicate draft remains.
 
-## Chapter 24 and later
+## Chapter 24 mission record
 
-At least one final Book 1 chapter remains necessary under the ending contract. Chapter 24 and later remain undrafted and individually mission unlocked. No Chapter 24 artifact or complete chapter-by-chapter remainder outline exists.
+- Mission lock: `48-chapter-24-mission-lock.md`.
+- Title: **The Terms of Return**.
+- Status: mission locked, undrafted, non-canon.
+- Opening: **15:04:44 EDT / 00:34:44 IST**.
+- Planned endpoint: **08:14:44 EDT / 17:44:44 IST** the following EDT morning.
+- POV: Julie O'Donnell close third only; no cutaway.
+- Structure: exactly four causal movements.
+- Word target: **3,300**; acceptable **3,150–3,450**; hard maximum **3,583**.
+- No Chapter 24 prose or acceptance review exists.
+- No Chapter 25 artifact or complete chapter-by-chapter remainder outline exists.

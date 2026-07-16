@@ -39,6 +39,8 @@ Act III accepted canon comprises Chapters 13–23. The accepted manuscript total
 
 This is an obligation inventory, not a chapter-by-chapter remainder outline.
 
-## Production gate
+## Chapter 24 final-chapter lock
 
-No Chapter 24 artifact exists. A fresh authorized session may create only the Chapter 24 mission lock and final-chapter plan.
+`48-chapter-24-mission-lock.md` assigns every remaining obligation to **The Terms of Return**, the final Book 1 chapter. The lock requires Julie-only POV, exactly four causal movements, a **3,300-word** target, and a **3,583-word** hard ceiling. It opens forty minutes after Chapter 23 and ends the following morning at Julie's farm after she chooses an independent source-integrity practice.
+
+No Chapter 24 prose, Chapter 24 acceptance review, Chapter 25 artifact, or complete remainder outline exists.
