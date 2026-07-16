@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate the authorized Chapter 23 mission-lock gate transition."""
+"""Protect the locked Chapter 23 mission while an authorized non-canon draft exists."""
 from __future__ import annotations
 
 import subprocess
@@ -7,8 +7,10 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-BASE = "ddc52a379ab4e0440555dab194aa3474be839123"
+BASE = "c4dca2aa7781709b6ba78f41abe5a35f14b13280"
 LOCK = "books/book-01/control/46-chapter-23-mission-lock.md"
+DRAFT = "books/book-01/drafts/chapter-23.md"
+DRAFT_VALIDATOR = "tools/validate_book1_chapter23_draft.py"
 EXPECTED_LOCK_BLOB = "c8c5be7e9ee5a902c7187697cf1bc70c8a5ce30a"
 CH22 = "books/book-01/manuscript/chapters/chapter-22.md"
 CH22_LOCK = "books/book-01/control/44-chapter-22-mission-lock.md"
@@ -22,9 +24,12 @@ EXPECTED_CH22_REVIEW_BLOB = "f0261e728600b58a4efada77b39874977f347ade"
 EXPECTED_MANIFEST_BLOB = "faae57d468a4a599dc14ee753c74b5257e946ec8"
 EXPECTED_CHANGED = {
     WORKFLOW,
-    LOCK,
+    "PROJECT_STATE.yaml",
+    "books/book-01/drafts/README.md",
+    DRAFT,
     CH22_VALIDATOR,
     "tools/validate_book1_chapter23_mission_lock.py",
+    DRAFT_VALIDATOR,
 }
 
 
@@ -113,8 +118,6 @@ for phrase in required_phrases:
 
 if lock.count("### Scene ") != 6:
     fail("mission lock must contain exactly six scene blueprints")
-if "Chapter 23 prose" not in lock:
-    fail("mission lock must preserve Chapter 23 prose boundary")
 if "complete remainder outline" not in lock:
     fail("mission lock must preserve remainder-outline boundary")
 if "book-bible.md" not in lock or "outline.md" not in lock:
@@ -123,9 +126,6 @@ if "Google Doc" not in lock:
     fail("external/Google Doc source prohibition missing")
 if "Chapter 24 Mission Lock" in lock or "# Chapter 24" in lock:
     fail("Chapter 24 planning appears in Chapter 23 mission lock")
-for phrase in ("basically locked", "provisionally locked", "draft attached", "sample scene", "opening paragraph"):
-    if phrase in lock.lower():
-        fail(f"ambiguous or prose-like mission-lock phrase present: {phrase}")
 
 if blob(CH22) != EXPECTED_CH22_BLOB:
     fail("accepted Chapter 22 prose blob changed")
@@ -150,19 +150,20 @@ if "chapter-23.md" in manifest:
 
 ch22_validator = read(CH22_VALIDATOR)
 for phrase in (
-    'CH23_LOCK = "books/book-01/control/46-chapter-23-mission-lock.md"',
-    'CH23_VALIDATOR = "tools/validate_book1_chapter23_mission_lock.py"',
-    "authorized_ch23 = {CH23_LOCK}",
+    f'CH23_LOCK = "{LOCK}"',
+    f'CH23_DRAFT = "{DRAFT}"',
+    "authorized_ch23 = {CH23_LOCK, CH23_DRAFT}",
     'if "chapter-24" in lower',
 ):
     if phrase not in ch22_validator:
-        fail(f"Chapter 22 validator gate transition missing: {phrase}")
+        fail(f"Chapter 22 validator draft transition missing: {phrase}")
 
 workflow = read(WORKFLOW)
 for phrase in (
     "python3 tools/count_book1_words.py --expect 116807",
     "python3 tools/validate_book1_chapter22.py",
     "python3 tools/validate_book1_chapter23_mission_lock.py",
+    "python3 tools/validate_book1_chapter23_draft.py",
     f"git diff --check {BASE} --",
 ):
     if phrase not in workflow:
@@ -179,10 +180,9 @@ for path in tracked:
     if ("remainder" in lower and "outline" in lower) or ("act-iii" in lower and "outline" in lower):
         fail(f"complete remainder outline artifact exists: {path}")
 
-if chapter23_artifacts != [LOCK]:
+if chapter23_artifacts != [LOCK, DRAFT]:
     fail(f"unexpected Chapter 23 artifacts: {chapter23_artifacts}")
 for forbidden in (
-    "books/book-01/drafts/chapter-23.md",
     "books/book-01/manuscript/chapters/chapter-23.md",
     "books/book-01/control/47-chapter-23-acceptance-review.md",
 ):
@@ -194,10 +194,11 @@ protected = [
     CH22,
     CH22_LOCK,
     CH22_REVIEW,
+    LOCK,
     "books/book-01/manuscript/prologue.md",
 ] + [f"books/book-01/manuscript/chapters/chapter-{index:02d}.md" for index in range(1, 22)]
 if subprocess.run(["git", "diff", "--quiet", BASE, "--", *protected], cwd=ROOT).returncode:
-    fail("accepted manifest, accepted prose, or Chapter 22 controls changed")
+    fail("accepted manifest, accepted prose, Chapter 22 controls, or Chapter 23 mission lock changed")
 
 changed_output = subprocess.check_output(
     ["git", "diff", "--name-status", "--find-renames", BASE, "--"],
@@ -228,4 +229,4 @@ for path in changed:
 if subprocess.run(["git", "diff", "--check", BASE, "--"], cwd=ROOT).returncode:
     fail("git diff --check")
 
-print("PASS: Chapter 23 mission lock is authorized, complete, and scope-protected")
+print("PASS: Chapter 23 mission lock remains exact and authorizes only the protected non-canon draft")

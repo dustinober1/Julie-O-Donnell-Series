@@ -15,7 +15,9 @@ EXPECTED_REVIEW_BLOB = "f0261e728600b58a4efada77b39874977f347ade"
 EXPECTED_LOCK_BLOB = "9bd255ac7b09a1490dc70be4506ba29183756788"
 CH22_BLOB = "034ab496794594427d8409d03e7c6659d41b6a91"
 CH23_LOCK = "books/book-01/control/46-chapter-23-mission-lock.md"
-CH23_VALIDATOR = "tools/validate_book1_chapter23_mission_lock.py"
+CH23_DRAFT = "books/book-01/drafts/chapter-23.md"
+CH23_LOCK_VALIDATOR = "tools/validate_book1_chapter23_mission_lock.py"
+CH23_DRAFT_VALIDATOR = "tools/validate_book1_chapter23_draft.py"
 EXPECTED_CHAPTERS = {
     "books/book-01/manuscript/chapters/chapter-13.md": (6175, "e7d04921431e571aab434f2f4b808655e363d30c"),
     "books/book-01/manuscript/chapters/chapter-14.md": (5763, "78f7fff02cd271fecbc94f7daf7151dbebbd5c6d"),
@@ -66,8 +68,10 @@ ALLOWED_CHANGED = set(STATE_FILES) | {
     "books/book-01/manuscript/chapters/chapter-22.md",
     REVIEW,
     CH23_LOCK,
+    CH23_DRAFT,
     "tools/validate_book1_chapter22.py",
-    CH23_VALIDATOR,
+    CH23_LOCK_VALIDATOR,
+    CH23_DRAFT_VALIDATOR,
 }
 
 
@@ -135,7 +139,7 @@ duplicates = [path for path in tracked if (ROOT / path).is_file() and blob(path)
 if duplicates != ["books/book-01/manuscript/chapters/chapter-22.md"]:
     fail(f"Chapter 22 duplicate paths: {duplicates}")
 
-authorized_ch23 = {CH23_LOCK}
+authorized_ch23 = {CH23_LOCK, CH23_DRAFT}
 for path in tracked:
     lower = path.lower()
     if "chapter-23" in lower and path.startswith(("books/book-01/control/", "books/book-01/drafts/", "books/book-01/manuscript/")) and path not in authorized_ch23:
@@ -149,7 +153,6 @@ stale_phrases = (
     "accepted_words: 112091",
     "accepted-manuscript length: **112,091 words**",
     "formal acceptance review pending",
-    "first draft complete; non-canon",
     "chapter 22 acceptance review: not created",
     "chapter 22 has no acceptance review yet",
     "active book 1 drafts: chapter 22 only",
@@ -167,7 +170,15 @@ for path in STATE_FILES:
             fail(f"{path} retains stale state: {phrase}")
 
 project_state = (ROOT / "PROJECT_STATE.yaml").read_text(encoding="utf-8")
-for required in ("chapters: 1-22", "accepted_words: 116807", "maximum_words_remaining: 8193", "active_chapter_drafts: []", "f0261e728600b58a4efada77b39874977f347ade"):
+for required in (
+    "chapters: 1-22",
+    "accepted_words: 116807",
+    "maximum_words_remaining: 8193",
+    "active_chapter_drafts:\n      - 23",
+    "f0261e728600b58a4efada77b39874977f347ade",
+    "books/book-01/drafts/chapter-23.md",
+    "Chapter 23 acceptance review has not been created.",
+):
     if required not in project_state:
         fail(f"PROJECT_STATE.yaml missing: {required}")
 
@@ -197,7 +208,13 @@ for line in changed_output.splitlines():
 unexpected = changed - ALLOWED_CHANGED
 if unexpected:
     fail(f"unexpected changed files: {sorted(unexpected)}")
-required_changed = {REVIEW, MANIFEST, "books/book-01/drafts/chapter-22.md", "books/book-01/manuscript/chapters/chapter-22.md", "tools/validate_book1_chapter22.py"}
+required_changed = {
+    REVIEW,
+    MANIFEST,
+    "books/book-01/drafts/chapter-22.md",
+    "books/book-01/manuscript/chapters/chapter-22.md",
+    "tools/validate_book1_chapter22.py",
+}
 if not required_changed.issubset(changed):
     fail(f"missing required changed files: {sorted(required_changed - changed)}")
 

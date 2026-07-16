@@ -22,5 +22,7 @@ jobs:
         run: python3 tools/validate_book1_chapter22.py
       - name: Validate Chapter 23 mission lock
         run: python3 tools/validate_book1_chapter23_mission_lock.py
-      - name: Diff hygiene against authorized Chapter 23 mission-lock baseline
-        run: git diff --check ddc52a379ab4e0440555dab194aa3474be839123 --
+      - name: Validate non-canon Chapter 23 draft
+        run: python3 tools/validate_book1_chapter23_draft.py
+      - name: Diff hygiene against authorized Chapter 23 drafting baseline
+        run: git diff --check c4dca2aa7781709b6ba78f41abe5a35f14b13280 --
