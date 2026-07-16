@@ -1,51 +1,57 @@
 # 24. THREAD DISPOSITION MATRIX
 
-## Current accepted baseline
+## Final accepted baseline
 
-- Accepted manuscript: Prologue and Chapters 1–23
-- Accepted words: **121,417**
-- Accepted endpoint: **14:24:44 EDT / 23:54:44 IST**
-- Chapter 23: **The Official Correction**, **4,610 words**, blob `1f511d36404450f201b34a075f441d350eb7cc52`, review `47-chapter-23-acceptance-review.md` — **ACCEPT**
-- No Chapter 23 draft remains
-- No Chapter 24 artifact exists
-- No complete remainder outline exists
+- Accepted manuscript: Prologue and Chapters 1–24
+- Accepted words: **124,779**
+- Accepted Act III subtotal: **61,124**
+- Accepted endpoint: **08:14:44 EDT / 17:44:44 IST**, Julie's farm
+- Chapter 24: **The Terms of Return**, **3,362 words**, blob `abce3cbea04a7afd798b5022ba09ce665a9cc923`
+- Chapter 24 review: `49-chapter-24-acceptance-review.md` — **ACCEPT**
+- No Chapter 24 draft or duplicate remains
+- No Chapter 25 artifact or complete remainder outline exists or is authorized
 
-Disposition labels: **B1-REQUIRED**, **B1-PARTIAL / SERIES**, **SERIES**, **PAID**, **OPTIONAL**.
+Disposition labels: **PAID**, **B1-PARTIAL / SERIES**, **SERIES**, **OPTIONAL**.
 
-| Thread | Disposition | State after accepted Chapter 23 | Required final treatment |
-|---|---|---|---|
-| Price borrowed identity / authentic request | PAID materially | Publicly separated with adverse conduct preserved | Bind professional/legal aftermath |
-| Request constructor | B1-PARTIAL / SERIES | Mechanism established; human constructor unproved | Name deliberate carryover if unresolved |
-| Elias framed original identity | PAID materially | Framing distinction and voluntary later acts public | Bind legal/agency aftermath without immunity |
-| Price/Elias mechanism relationship | PAID | Common construction family/authority binding established | No common-human inference |
-| K-17 local commit | PAID | Failed authentication and zero writes publicly established | Preserve Arjun autonomy |
-| Later remote reconstruction | PAID | Separate later event publicly established | No collapse into local/original event |
-| Vance later-release responsibility | PAID | Public, source-grounded later-release finding | No back-propagation to 02:14 |
-| Vance consequence | PAID materially | Operational suspension publicly durable | Employment/criminal state may remain bounded |
-| Chen/Mercer choices | PAID materially | Support source-native public record without alliance | Bind testimony/professional consequence only if needed |
-| Independent counterrecord | PAID | Converted into three public instruments with hashes/receipts | Preserve originals and proof limits |
-| Sterling public narrative | PAID materially | No longer the only official version | Political contest may continue |
-| Sterling office/device consequence | PAID materially | Public acknowledgment plus independent LSS docket | No personal-command inference |
-| Sterling personal command | B1-PARTIAL / SERIES | Explicitly not established | Preserve or resolve only with new proof |
-| Tariq physical role | B1-PARTIAL / SERIES | Registered field authority only | Preserve as bounded carryover |
-| WSS plaintext | B1-PARTIAL / SERIES | Encrypted and unavailable | Preserve unless lawful access later matters |
-| Marcus consequence/repair | B1-REQUIRED | Both failure and correction are public; medical cost active | Resolve medical/institutional/relationship movement |
-| Elias agency/legal aftermath | B1-REQUIRED | Voluntary acts and framing distinction survive | Bind custody, counsel, employment, and agency |
-| Price aftermath | B1-REQUIRED | Request protected without exoneration | Bind administrative/professional state |
-| Bell/Chen/Mercer aftermath | B1-REQUIRED at bounded level | Choices preserved | Close only the immediate consequence needed for Book 1 |
-| Julie future role | B1-REQUIRED | Truth no longer depends on her carrying it | Make an active deliberate choice |
-| Six-years-ago network/four-second proof | SERIES / B1-PARTIAL | Deliberate unresolved architecture | Explicitly name carryover if unresolved |
-| Sharma/Qureshi international thread | B1-PARTIAL / SERIES | Independent record affected public outcome | Preserve autonomy; future contact earned |
+| Thread | Final disposition | Accepted endpoint |
+|---|---|---|
+| Julie immediate custody/medical state | PAID | Named court/MPD authority, guarded treatment, physician-controlled conditional release, continuing restrictions |
+| Julie future role | PAID | Rejects permanent institutional return; writes ten case-specific practice terms; no new assignment |
+| Julie home/fence image | PAID | Returns through authorized transport, accepts bounded help, holds level with left hand, bubble centered |
+| Marcus earlier testimony | PAID materially | Complete sworn correction owns defensible partial truth and its cost |
+| Marcus relationship with Julie | PAID for Book 1 | Possible personal contact after recovery and outside command; no forgiveness, intimacy, work, or restored trust |
+| Elias original deployment framing | PAID materially | Board history still contradicts original physical signing |
+| Elias voluntary later acts | PAID for Book 1 | Owns acts despite unsafe choices; represented, medically impaired, legally exposed |
+| Elias future availability | PAID for Book 1 | Controls all contact and technical participation through counsel; no permanent-team assumption |
+| Price authentic request / borrowed path | PAID materially | Complete sequence preserved; restricted administrative status; no immunity, exoneration, clearance restoration, discipline, or criminal judgment |
+| Chen / Mercer / Bell | PAID at bounded level | Source-native seal, direct observations/force orders, and WSS local audit preserved; no alliance or recruitment |
+| Seven MPD packages | PAID custody state | `MPD-901441` through `MPD-901447` remain sealed, separate, stationary, unused |
+| Aluminum case | PAID custody state | 136 sealed / 47 incomplete / 311 excluded; no new access or derivative |
+| `SSO-NS-004` | B1-PARTIAL / SERIES | Powered down, isolated, closed, unused under `LSS-SL-90418`; review docket not guilt finding |
+| Original 02:14 human operator | B1-PARTIAL / SERIES | Not established; deliberate carryover |
+| Human borrowed-path constructor | B1-PARTIAL / SERIES | Not established; deliberate carryover |
+| Common human source for both paths | B1-PARTIAL / SERIES | Not established; common mechanism is not common human authorship |
+| Vance later remote release | PAID | Personal live later-release act and operational suspension established |
+| Vance original/upstream role | B1-PARTIAL / SERIES | Original deployment, sole architecture, upstream direction, motive, and final legal/employment result unresolved |
+| Sterling office/device chain | PAID materially | Publicly acknowledged; independent LSS review active |
+| Sterling personal role | B1-PARTIAL / SERIES | Possession, operation, knowledge, intent, direction, and command not established |
+| Tariq physical role | B1-PARTIAL / SERIES | Registered authority only; physical operation not established |
+| WSS plaintext | B1-PARTIAL / SERIES | Encrypted/unavailable; no invention |
+| Wider network | SERIES | Not declared destroyed; membership and durability unresolved |
+| Sharma/Qureshi thread | B1-PARTIAL / SERIES | Independent no-fire/local-record autonomy preserved |
+| Final legal and institutional consequences | SERIES | Charging, admissibility, clearance, employment, discipline, civil liability, review, and reform remain with lawful processes |
 
 ## No-retcon rules
 
 - Vance finding applies only to the later remote release.
 - Office/device responsibility does not prove Sterling personal command.
-- Publication is not exoneration, release, immunity, employment restoration, or final adjudication.
+- Conditional release and public correction do not equal exoneration or final adjudication.
 - Common architecture does not prove common human authorship.
-- Derivatives/public instruments do not replace originals.
-- Immediate aftermath and Julie's future choice remain Book 1 obligations.
+- Derivatives and public instruments do not replace originals.
+- Marcus's injuries are not punishment or forgiveness currency.
+- Elias's prior emergency consent does not create future availability.
+- Julie's terms create case-specific conditions, not standing authority.
 
-## Current gate
+## Completion gate
 
-A fresh authorized session may create only the Chapter 24 mission lock and final-chapter plan. Chapter 24 prose and a complete remainder outline remain unauthorized.
+All mandatory Book 1 ending obligations are complete. The next task is a manuscript-wide publication-readiness and final quality-assurance review, not Chapter 25.

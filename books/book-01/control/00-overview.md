@@ -4,32 +4,39 @@
 
 Accepted prose listed in `../ACCEPTED_MANUSCRIPT.yaml` is story canon. This pack summarizes and constrains that canon; it cannot override accepted prose.
 
-## Current accepted state
+## Final accepted state
 
-- Accepted canon: Prologue and Chapters 1–23
-- Accepted total: **121,417 words**
-- Act III subtotal, Chapters 13–23: **57,762 words**
-- Accepted endpoint: **14:24:44 EDT / 23:54:44 IST**, secure MPD evidence intake
-- Chapter 23 — **The Official Correction** — **ACCEPT**, **4,610 words**, blob `1f511d36404450f201b34a075f441d350eb7cc52`
-- Mission lock: `46-chapter-23-mission-lock.md`, blob `c8c5be7e9ee5a902c7187697cf1bc70c8a5ce30a`
-- Acceptance review: `47-chapter-23-acceptance-review.md`, blob `c876854075ad1f686ac663018983fd34f0064e2c`
+- Accepted canon: Prologue and Chapters 1–24
+- Accepted total: **124,779 words**
+- Act III subtotal, Chapters 13–24: **61,124 words**
+- Accepted endpoint: **08:14:44 EDT / 17:44:44 IST**, Julie's farm
+- Chapter 24 — **The Terms of Return** — **ACCEPT**, **3,362 words**, blob `abce3cbea04a7afd798b5022ba09ce665a9cc923`
+- Mission lock: `48-chapter-24-mission-lock.md`, blob `260186500b448b5154858f7df47f113dc8d6fbfa`
+- Acceptance review: `49-chapter-24-acceptance-review.md`, blob `f734346a7e959d1b265167130903d44f19512e17`
+- Prose repair: none
+- Book 1 structural state: complete
+- Publication-ready state: pending final manuscript-wide QA
 
-## Chapter 23 result
+## Final-chapter result
 
-Three separately attributable public corrections publish in one causal order. The Argus notice establishes source contamination, failed K-17 local authentication/zero writes, the distinct later remote reconstruction, and Vance's later-release act and suspension. The DCIS correction states that the record does not support the claim that Julie, Marcus, Elias, or Price originated the poisoned source or operational route while preserving their adverse records. The LSS acknowledgment identifies the Sterling-office device/continuity chain, preserves `SSO-NS-004` under no-use seal, and opens independent review docket `LSS-IDR-90418-01` without proving Sterling personal command.
+Julie leaves physical detention through a named, reviewable court-and-MPD process, receives physician-controlled treatment and conditional release, and remains subject to unresolved charging, admissibility, evidence-contact, classified-access, administrative, and employment decisions. Marcus remains hospitalized and owns his six-years-ago testimony choice without receiving forgiveness or a professional future with Julie. Elias controls all future contact and technical participation. Price's complete bounded record and administrative exposure remain intact.
+
+Julie rejects permanent Army, Apex, and single-agency return. She writes case-specific terms for an independent source-integrity and evidence-architecture practice, returns to the farm without driving, accepts bounded help with the fence, and begins no new assignment.
 
 ## Hard proof ceilings
 
-The record does not prove the original 02:14 human operator, request constructor, Vance's original deployment keystrokes, Sterling's personal possession/knowledge/direction/intent/command, Tariq's physical operation, WSS plaintext, Price's complete innocence, Elias's immunity, or final legal disposition. Common mechanism is not common human authorship. Publication is not release, acquittal, immunity, or complete exoneration.
+The record does not prove the original 02:14 human operator, request constructor, one human constructor for both paths, Vance's original deployment or upstream command, Sterling's personal possession/knowledge/direction/intent/command, Tariq's physical operation, WSS plaintext, complete innocence, immunity, acquittal, restored authority, or destruction of the wider network.
 
-## Preserved state
+Common mechanism is not common human authorship. Publication and conditional release are not exoneration or final adjudication.
 
-`SSO-NS-004` remains powered down, isolated, closed, unused, and sealed under `LSS-SL-90418`. `MPD-901441` through `MPD-901447` remain sealed, separate, offline, stationary, and unopened. Marcus remains in guarded medical care on four liters oxygen at 92–93 percent saturation. Elias remains in separate guarded medical custody. Julie remains detained and injured.
+## Preserved evidence state
 
-## Remaining Book 1 obligations
+`SSO-NS-004` remains powered down, isolated, closed, unused, and sealed under `LSS-SL-90418`; `LSS-IDR-90418-01` remains an investigation. `MPD-901441` through `MPD-901447` remain sealed, separate, offline, stationary, and unopened. The aluminum case remains 136 sealed / 47 incomplete / 311 excluded. No evidence is opened or used to create a new derivative in Chapter 24.
 
-Immediate legal/medical/professional aftermath; Marcus and Julie relationship movement; Elias and Price dispositions without convenient innocence or villainy; proportional Chen/Mercer/Bell acknowledgment; Julie's deliberate future-role choice; bounded series-facing stabilization and named carryovers.
+## Deliberate carryovers
 
-## Chapter 24 control
+Original operator, borrowed-path constructor, possible common human source, Vance's earlier/upstream role, Sterling's personal role, Tariq's physical role, WSS plaintext, wider network, and final legal/administrative/civil outcomes remain deliberate series carryovers rather than missing Book 1 obligations.
 
-`48-chapter-24-mission-lock.md` locks **The Terms of Return** as the final Book 1 chapter. It opens forty minutes after Chapter 23, uses Julie close third only, contains exactly four causal movements, targets **3,300 words**, and cannot exceed **3,583**. Julie must choose an independent source-integrity practice rather than restored rank or permanent institutional employment. No Chapter 24 prose, Chapter 24 acceptance review, Chapter 25 artifact, or complete remainder outline exists.
+## Current gate
+
+No Chapter 25 artifact or complete remainder outline exists or is authorized. The next task is a complete Book 1 publication-readiness and final quality-assurance review.

@@ -1,5 +1,5 @@
 project: Julie O'Donnell Series
-schema_version: 15
+schema_version: 17
 last_updated: '2026-07-16'
 
 status_authority:
@@ -15,31 +15,33 @@ active_book:
   title: null
   genre: Contemporary geopolitical techno-thriller / military-intelligence thriller
   protagonist: Julie O'Donnell
+  structurally_complete: true
   publication_ready: false
+  publication_readiness_review: not completed
   word_budget:
     minimum: 100000
     planning_target: 112500
     maximum: 125000
-    accepted_words: 121417
-    words_above_planning_target: 8917
-    maximum_words_remaining: 3583
-    accepted_act_iii_words: 57762
+    accepted_words: 124779
+    words_above_planning_target: 12279
+    maximum_words_remaining: 221
+    accepted_act_iii_words: 61124
     count_method: UTF-8 Markdown whitespace-delimited tokens; tools/count_book1_words.py
   accepted_canon:
     manifest: books/book-01/ACCEPTED_MANUSCRIPT.yaml
     prologue: true
-    chapters: 1-23
+    chapters: 1-24
     acts:
       act_i: complete
       act_ii: complete
-      act_iii: Chapters 13-23 accepted
-    accepted_manuscript_words: 121417
+      act_iii: Chapters 13-24 accepted; complete
+    accepted_manuscript_words: 124779
     endpoint:
-      chapter: 23
-      eastern: 14:24:44 EDT
-      india: 23:54:44 IST
-      location: secure MPD evidence intake
-      status: Three separately authenticated public corrections published with hashes and receipts; Sterling's hostile account is no longer the only official version; office/device review docketed; Julie remains detained and injured.
+      chapter: 24
+      eastern: 08:14:44 EDT
+      india: 17:44:44 IST
+      location: Julie's farm
+      status: Julie is conditionally released after medical observation, remains legally and medically restricted, rejects permanent institutional return, and chooses case-specific independent source-integrity and evidence-architecture terms without beginning a new assignment.
     chapter_23:
       title: The Official Correction
       path: books/book-01/manuscript/chapters/chapter-23.md
@@ -50,30 +52,30 @@ active_book:
       mission_lock_blob_sha: c8c5be7e9ee5a902c7187697cf1bc70c8a5ce30a
       acceptance_review: books/book-01/control/47-chapter-23-acceptance-review.md
       acceptance_review_blob_sha: c876854075ad1f686ac663018983fd34f0064e2c
-      opening: 13:12:44 EDT / 22:42:44 IST
-      endpoint: 14:24:44 EDT / 23:54:44 IST
-      location: secure MPD evidence intake
+    chapter_24:
+      title: The Terms of Return
+      path: books/book-01/manuscript/chapters/chapter-24.md
+      verdict: ACCEPT
+      accepted_words: 3362
+      reviewed_blob_sha: abce3cbea04a7afd798b5022ba09ce665a9cc923
+      mission_lock: books/book-01/control/48-chapter-24-mission-lock.md
+      mission_lock_blob_sha: 260186500b448b5154858f7df47f113dc8d6fbfa
+      acceptance_review: books/book-01/control/49-chapter-24-acceptance-review.md
+      acceptance_review_blob_sha: f734346a7e959d1b265167130903d44f19512e17
+      opening: 15:04:44 EDT / 00:34:44 IST
+      endpoint: 08:14:44 EDT / 17:44:44 IST
+      location: Julie's farm
       pov: Julie O'Donnell close third only; no cutaways
-      scene_count: 6
-      established: Authenticated public fracture; bounded correction preserving adverse facts; Vance later-release finding and suspension published; Sterling-office device/continuity chain acknowledged under independent LSS review; publication made durable by separate hashes and receipts.
-      deferred: Immediate legal, medical, relationship, and professional aftermath; Julie's future-role choice; bounded carryover of original operator, request constructor, Sterling personal command, Tariq physical role, WSS plaintext, and wider network.
+      movement_count: 4
+      movement_words: 800 / 739 / 673 / 1147
+      prose_repair: none
+      established: Bounded court and MPD disposition; physician-controlled medical transfer and conditional release; Marcus's complete correction and possible future personal contact without forgiveness or work; Elias control of future contact and technical participation; Price's complete bounded status; Julie's independent practice terms; farm return and bounded help.
+      deliberate_carryovers: Original 02:14 operator; borrowed-path human constructor; any common human source; Vance earlier role and upstream direction; Sterling personal knowledge or command; Tariq physical operation; WSS plaintext; wider network; final legal, administrative, employment, clearance, civil, and relationship outcomes.
   drafts:
     active_chapter_drafts: []
   future_prose:
-    chapter_24:
-      status: mission locked; undrafted and non-canon
-      title: The Terms of Return
-      mission_lock: books/book-01/control/48-chapter-24-mission-lock.md
-      opening: 15:04:44 EDT / 00:34:44 IST
-      planned_endpoint: 08:14:44 EDT / 17:44:44 IST, following EDT morning
-      pov: Julie O'Donnell close third only; no cutaway
-      movement_count: 4
-      preferred_words: 3300
-      acceptable_words: 3150-3450
-      hard_maximum_words: 3583
-      dominant_function: Bounded legal, medical, relationship, professional, and series-facing endpoint in which Julie chooses an independent source-integrity practice.
     chapter_25_and_later: not authorized for Book 1
-    architecture_rule: Chapter 24 is the final Book 1 chapter. No Chapter 24 prose, Chapter 24 acceptance review, Chapter 25 artifact, or complete remainder outline exists.
+    architecture_rule: Chapter 24 is the final Book 1 chapter. No Chapter 25 artifact or complete remainder outline exists or is authorized.
 
 planning_controls:
   ending_contract: books/book-01/control/22-book-1-ending-contract.md
@@ -83,6 +85,7 @@ planning_controls:
   chapter_23_mission_lock: books/book-01/control/46-chapter-23-mission-lock.md
   chapter_23_acceptance_review: books/book-01/control/47-chapter-23-acceptance-review.md
   chapter_24_mission_lock: books/book-01/control/48-chapter-24-mission-lock.md
+  chapter_24_acceptance_review: books/book-01/control/49-chapter-24-acceptance-review.md
   series_character_ledger: series/recurring-character-ledger.md
 
 narrative_house_style:
@@ -93,17 +96,17 @@ narrative_house_style:
 production_rules:
   - Accepted manuscript prose outranks every summary, plan, tracker, draft, and external snapshot.
   - No unaccepted chapter may live under books/book-01/manuscript/.
-  - Protected accepted Chapters 1-23 remain byte-identical unless a later explicit acceptance review authorizes change.
-  - Request identity, construction mechanism, authority binding, release act, registered authority, physical act, custody, carrier assignment, authorization, knowledge, intent, and command remain separate proof categories.
+  - Protected accepted Prologue and Chapters 1-24 remain byte-identical unless a later explicit acceptance review authorizes change.
+  - Request identity, construction mechanism, authority binding, release act, registered authority, physical act, custody, carrier assignment, authorization, knowledge, intent, direction, and command remain separate proof categories.
   - A certified derivative never replaces an independently controlled original.
   - A no-use hold preserves state and custody; it does not authenticate prior operation.
-  - Chapter 23 exists only at books/book-01/manuscript/chapters/chapter-23.md and is accepted under control/47.
-  - Chapter 24 is mission locked under control/48 but no Chapter 24 prose or acceptance review exists.
+  - Chapter 24 exists only at books/book-01/manuscript/chapters/chapter-24.md and is accepted unchanged under control/49.
   - No Chapter 25 artifact or complete chapter-by-chapter remainder outline exists or is authorized.
   - No draft or revision may imitate or closely emulate the recognizable prose of a living author.
+  - Structural completion is not publication readiness.
 
 archive:
   uploaded_word_snapshot_active: false
   superseded_status_snapshots: Preserved in Git history; not duplicated as active files.
 
-next_recommended_action: After the Chapter 24 mission-lock pull request is validated, reviewed, and merged, draft only Chapter 24 — The Terms of Return in a fresh context under control/48. Do not create Chapter 25 or a complete remainder outline.
+next_recommended_action: Conduct a complete Book 1 publication-readiness and final quality-assurance review. Do not draft Chapter 25.

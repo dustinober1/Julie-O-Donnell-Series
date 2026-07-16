@@ -1,50 +1,41 @@
-# 23. WORD BUDGET AND PROVISIONAL ACT III ARCHITECTURE
+# 23. WORD BUDGET AND FINAL ACT III ARCHITECTURE
 
 ## Status
 
-**Approved production planning.** Accepted prose controls actual story state; future chapter functions require individual mission locks.
+**Final accepted production state.** Accepted prose and `../ACCEPTED_MANUSCRIPT.yaml` control the count.
 
-- **Accepted endpoint:** **14:24:44 EDT / 23:54:44 IST**, secure MPD evidence intake
-- **Chapter 23:** accepted unchanged
+- **Accepted endpoint:** **08:14:44 EDT / 17:44:44 IST**, Julie's farm
+- **Chapter 24:** accepted unchanged
+- **Book 1:** structurally complete; publication-readiness review pending
 
-## Current word budget
+## Final word budget
 
 | Measure | Words |
 |---|---:|
 | Minimum finished accepted length | 100,000 |
 | Planning target | 112,500 |
 | Maximum finished accepted length | 125,000 |
-| Accepted manuscript through Chapter 23 | **121,417** |
-| Above minimum | **21,417** |
-| Above planning target | **8,917** |
-| Remaining before maximum | **3,583** |
+| Accepted manuscript through Chapter 24 | **124,779** |
+| Above minimum | **24,779** |
+| Above planning target | **12,279** |
+| Remaining before maximum | **221** |
 
 | Unit | Accepted words |
 |---|---:|
 | Prologue and Chapters 1–12 | 63,655 |
-| Chapters 13–22 | 53,152 |
-| Chapter 23 — The Official Correction | 4,610 |
-| Accepted Act III subtotal, Chapters 13–23 | **57,762** |
-| Accepted manuscript total | **121,417** |
+| Chapters 13–23 | 57,762 |
+| Chapter 24 — The Terms of Return | 3,362 |
+| Accepted Act III subtotal, Chapters 13–24 | **61,124** |
+| Accepted manuscript total | **124,779** |
 
 Count method: `len(Path(path).read_text(encoding='utf-8').split())`, implemented by `tools/count_book1_words.py`.
 
-## Chapter 23 budget result
+## Final architecture result
 
-Chapter 23 uses **4,610 words** for authenticated public fracture and bounded institutional consequence. It is inside the mission lock's acceptable range and below the 5,200-word hard ceiling.
+Chapter 24 uses **3,362 words**, within the mission lock's **3,150–3,450** acceptable range and below the **3,583** hard ceiling. Its four movements contain **800 / 739 / 673 / 1,147** words.
 
-## Remaining high-level Book 1 obligations
+The final chapter completes legal and medical disposition, Marcus relationship and institutional consequence, Elias and Price agency, proportional supporting-character treatment, Julie's future-role choice, deliberate series carryovers, and the farm return without opening a new investigation or operation.
 
-- immediate legal, medical, and professional stabilization;
-- Marcus relationship/institutional aftermath;
-- Elias and Price dispositions preserving agency and adverse facts;
-- Julie's deliberate future-role choice;
-- bounded series-facing stabilization and named carryovers.
+## Production gate
 
-The remaining **3,583-word** ceiling is sufficient for one concise final chapter. The final chapter should prioritize irreversible choices and bounded state changes over a new investigation, operational set piece, or broad procedural sequence. This file does not decide Chapter 24's title, POV, scene plan, opening, endpoint, or exact word count.
-
-No Chapter 24 artifact and no complete chapter-by-chapter remainder outline exists.
-
-## Current gate
-
-A fresh authorized session may create only the Chapter 24 mission lock and final-chapter plan. It may not draft Chapter 24 or create a complete remainder outline.
+No additional Book 1 chapter is authorized. No Chapter 25 artifact or complete remainder outline exists. The next task is a complete publication-readiness and final quality-assurance review.

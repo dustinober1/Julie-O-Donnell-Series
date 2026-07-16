@@ -4,9 +4,10 @@ The accepted-manuscript inventory in `../ACCEPTED_MANUSCRIPT.yaml` controls acce
 
 ## Accepted inventory
 
-- Prologue and Chapters 1–23 are accepted.
-- Accepted total: **121,417 words**.
-- Accepted endpoint: **14:24:44 EDT / 23:54:44 IST**, secure MPD evidence intake.
+- Prologue and Chapters 1–24 are accepted.
+- Accepted total: **124,779 words**.
+- Accepted endpoint: **08:14:44 EDT / 17:44:44 IST**, Julie's farm.
+- Book 1 is structurally complete but not yet publication-ready.
 
 ## Accepted Act III
 
@@ -23,6 +24,9 @@ The accepted-manuscript inventory in `../ACCEPTED_MANUSCRIPT.yaml` controls acce
 | 21 | The Borrowed Name | 4,415 | 11:26:32 EDT / 20:56:32 IST | 12:18:04 EDT / 21:48:04 IST | Accepted |
 | 22 | The Release Record | 4,716 | 12:18:04 EDT / 21:48:04 IST | 13:12:44 EDT / 22:42:44 IST | Accepted |
 | 23 | The Official Correction | 4,610 | 13:12:44 EDT / 22:42:44 IST | 14:24:44 EDT / 23:54:44 IST | Accepted |
+| 24 | The Terms of Return | 3,362 | 15:04:44 EDT / 00:34:44 IST | 08:14:44 EDT / 17:44:44 IST, following EDT morning | Accepted |
+
+Accepted Act III subtotal: **61,124 words**.
 
 ## Protected reviewed blobs
 
@@ -37,24 +41,14 @@ The accepted-manuscript inventory in `../ACCEPTED_MANUSCRIPT.yaml` controls acce
 - Chapter 21: `866d4210b7fc808aef48144a91a58280f38fc99c`
 - Chapter 22: `034ab496794594427d8409d03e7c6659d41b6a91`
 - Chapter 23: `1f511d36404450f201b34a075f441d350eb7cc52`
+- Chapter 24: `abce3cbea04a7afd798b5022ba09ce665a9cc923`
 
-## Chapter 23 acceptance record
+## Final acceptance records
 
-- Mission lock: `46-chapter-23-mission-lock.md` — blob `c8c5be7e9ee5a902c7187697cf1bc70c8a5ce30a`.
-- Acceptance review: `47-chapter-23-acceptance-review.md` — **ACCEPT** — blob `c876854075ad1f686ac663018983fd34f0064e2c`.
-- Accepted path: `../manuscript/chapters/chapter-23.md`.
-- Exact words: **4,610**.
-- No prose repair was made and no duplicate draft remains.
-
-## Chapter 24 mission record
-
-- Mission lock: `48-chapter-24-mission-lock.md`.
-- Title: **The Terms of Return**.
-- Status: mission locked, undrafted, non-canon.
-- Opening: **15:04:44 EDT / 00:34:44 IST**.
-- Planned endpoint: **08:14:44 EDT / 17:44:44 IST** the following EDT morning.
-- POV: Julie O'Donnell close third only; no cutaway.
-- Structure: exactly four causal movements.
-- Word target: **3,300**; acceptable **3,150–3,450**; hard maximum **3,583**.
-- No Chapter 24 prose or acceptance review exists.
-- No Chapter 25 artifact or complete chapter-by-chapter remainder outline exists.
+- Chapter 23 mission lock: `46-chapter-23-mission-lock.md`, blob `c8c5be7e9ee5a902c7187697cf1bc70c8a5ce30a`.
+- Chapter 23 acceptance review: `47-chapter-23-acceptance-review.md`, **ACCEPT**, blob `c876854075ad1f686ac663018983fd34f0064e2c`.
+- Chapter 24 mission lock: `48-chapter-24-mission-lock.md`, blob `260186500b448b5154858f7df47f113dc8d6fbfa`.
+- Chapter 24 acceptance review: `49-chapter-24-acceptance-review.md`, **ACCEPT**, blob `f734346a7e959d1b265167130903d44f19512e17`.
+- Chapter 24 was accepted unchanged at **3,362 words**.
+- No Chapter 24 draft or duplicate remains.
+- No Chapter 25 artifact or complete remainder outline exists or is authorized.

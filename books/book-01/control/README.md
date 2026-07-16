@@ -4,27 +4,29 @@ Accepted prose and `../ACCEPTED_MANUSCRIPT.yaml` control canon. This directory c
 
 ## Current accepted state
 
-- Accepted canon: Prologue and Chapters 1–23
-- Accepted words: **121,417**
-- Accepted endpoint: **14:24:44 EDT / 23:54:44 IST**, secure MPD evidence intake
-- Chapter 23 mission lock: `46-chapter-23-mission-lock.md`, blob `c8c5be7e9ee5a902c7187697cf1bc70c8a5ce30a`
-- Chapter 23 acceptance review: `47-chapter-23-acceptance-review.md`, **ACCEPT**, blob `c876854075ad1f686ac663018983fd34f0064e2c`
-- Chapter 23 accepted prose: `../manuscript/chapters/chapter-23.md`, **4,610 words**, blob `1f511d36404450f201b34a075f441d350eb7cc52`
-- No Chapter 23 draft remains
+- Accepted canon: Prologue and Chapters 1–24
+- Accepted words: **124,779**
+- Accepted Act III subtotal: **61,124**
+- Accepted endpoint: **08:14:44 EDT / 17:44:44 IST**, Julie's farm
+- Book 1 structural state: complete
+- Publication-ready state: not yet determined
 
-## Chapter 24 control state
+## Final-chapter records
 
-- Chapter 24 title: **The Terms of Return**
-- Mission lock: `48-chapter-24-mission-lock.md`
-- Status: mission locked, undrafted, non-canon
-- Opening: **15:04:44 EDT / 00:34:44 IST**, secure MPD evidence intake
-- Planned endpoint: **08:14:44 EDT / 17:44:44 IST** the following EDT morning, Julie's farm
-- POV: Julie O'Donnell close third only; no cutaway
-- Causal movements: exactly four
-- Word target: **3,300**; acceptable **3,150–3,450**; hard maximum **3,583**
-- No Chapter 24 prose or acceptance review exists
-- No Chapter 25 artifact or complete remainder outline exists
+- Chapter 24 mission lock: `48-chapter-24-mission-lock.md`, blob `260186500b448b5154858f7df47f113dc8d6fbfa`
+- Chapter 24 acceptance review: `49-chapter-24-acceptance-review.md`, **ACCEPT**, blob `f734346a7e959d1b265167130903d44f19512e17`
+- Chapter 24 accepted prose: `../manuscript/chapters/chapter-24.md`, **3,362 words**, blob `abce3cbea04a7afd798b5022ba09ce665a9cc923`
+- No prose repair was made
+- No Chapter 24 draft or duplicate remains
 
-## Current production gate
+## Ending controls
 
-After the Chapter 24 mission lock is validated, reviewed, and merged, a fresh authorized session may draft only Chapter 24 under control/48. Chapter 24 must then pass a separate acceptance review before Book 1 can be structurally complete.
+- `22-book-1-ending-contract.md` records fulfillment of the Book 1 ending obligations.
+- `23-word-budget-and-act-iii-architecture.md` records the final 124,779-word total and 221-word headroom.
+- `24-thread-disposition-matrix.md` separates paid Book 1 threads from deliberate series carryovers.
+- `25-chapter-acceptance-gate.md` remains the standing chapter-acceptance method.
+- `49-chapter-24-acceptance-review.md` is the controlling final-chapter verdict.
+
+## Production gate
+
+No Chapter 25 artifact or complete remainder outline exists or is authorized. The next task is a complete Book 1 publication-readiness and final quality-assurance review.
