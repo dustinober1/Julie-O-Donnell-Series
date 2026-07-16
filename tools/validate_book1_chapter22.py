@@ -170,7 +170,23 @@ protected = ["books/book-01/manuscript/prologue.md"] + [
 if subprocess.run(["git", "diff", "--quiet", BASE, "--", *protected], cwd=ROOT).returncode != 0:
     fail("accepted Prologue or Chapters 1-21 changed")
 
-changed = set(subprocess.check_output(["git", "diff", "--name-only", BASE, "--"], cwd=ROOT, text=True).splitlines())
+changed = set()
+changed_output = subprocess.check_output(
+    ["git", "diff", "--name-status", "--find-renames", BASE, "--"],
+    cwd=ROOT,
+    text=True,
+)
+for line in changed_output.splitlines():
+    fields = line.split("\t")
+    status = fields[0]
+    if status.startswith(("R", "C")):
+        if len(fields) != 3:
+            fail(f"unexpected rename/copy diff entry: {line}")
+        changed.update(fields[1:])
+    else:
+        if len(fields) != 2:
+            fail(f"unexpected diff entry: {line}")
+        changed.add(fields[1])
 unexpected = changed - ALLOWED_CHANGED
 if unexpected:
     fail(f"unexpected changed files: {sorted(unexpected)}")
