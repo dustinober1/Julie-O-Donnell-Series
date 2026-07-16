@@ -6,6 +6,7 @@ Accepted prose listed in `../ACCEPTED_MANUSCRIPT.yaml` is story canon. This pack
 
 ## Final accepted state
 
+- Book title: **Veridrift**
 - Accepted canon: Prologue and Chapters 1–24
 - Accepted total: **124,779 words**
 - Act III subtotal, Chapters 13–24: **61,124 words**
