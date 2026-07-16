@@ -2,69 +2,80 @@
 
 ## Julie O'Donnell
 
-- **Accepted location/time:** secure MPD evidence intake, **13:12:44 EDT / 22:42:44 IST**.
+- **Accepted location/time:** secure MPD evidence intake, **14:24:44 EDT / 23:54:44 IST**.
 - **Physical state:** detained; right wrist/forearm materially unusable and protected; no ordinary right-hand grip or technical operation; exhausted.
-- **Knowledge:** source-limited continuity-broker and identity-map results; failed-local versus successful-remote separation; bounded Vance later-release finding; preservation and consequence orders.
-- **Does not know/prove:** original 02:14 operator, request constructor, Sterling personal command, Tariq physical role, WSS plaintext, complete criminal case.
-- **Chapter 22 choice:** accepts the narrower durable finding, refuses revenge or premature public accusation, and preserves complete favorable/adverse records.
-- **Remaining arc:** public fracture, aftermath, relationship repair, and deliberate future-role choice.
+- **Knowledge:** Chapter 22 private counterrecord plus the exact three Chapter 23 public instruments, hashes, receipts, objections, proof ceilings, and LSS review docket.
+- **Does not know/prove:** original 02:14 operator, request constructor, Sterling personal command, Tariq physical role, WSS plaintext, complete criminal case, or final outcomes.
+- **Chapter 23 choice:** refuses both a causally useless correction and a politically powerful overclaim; invokes the abort and accepts publication without exoneration.
+- **Remaining arc:** legal/medical aftermath, private relationship movement, deliberate future-role choice, and bounded series stabilization.
 
 ## Marcus Reed
 
 - **Accepted location:** guarded medical care, separate from Julie and Elias.
-- **Physical state:** four liters oxygen; saturation 92–93 percent; rib, scalp, thigh, boot, balance, breathing, and possible concussion limits remain.
-- **Chapter 22 action:** none; no communication or recovery occurs.
-- **Remaining arc:** institutional/disciplinary consequence and relationship repair after his six-years-ago correction.
+- **Physical state:** four liters oxygen; saturation 92–93 percent; rib, scalp, thigh, boot, balance, breathing, and possible-concussion limits remain.
+- **Chapter 23 action:** none; his later correction and six-years-ago failure both remain in the public record.
+- **Remaining arc:** medical/institutional consequence and relationship repair.
 
 ## Elias Thorne
 
 - **Accepted location:** separate guarded medical custody.
-- **Physical state:** hip injury, right-index injury, dizziness, cold/exhaustion consequences remain.
-- **Identity state:** original physical-board history contradicts ordinary original token use; later gate/reconciliation acts remain voluntary and authenticated.
-- **Chapter 22 action:** none; no biometric, board, module, or remote technical operation occurs.
-- **Remaining arc:** legal consequence and agency without hostage/saboteur simplification.
-
-## Sarah Chen
-
-- **Accepted role:** adversarial Apex compliance/incident official and source-native witness.
-- **Chapter 22 choice:** preserves `APX-B3-IDM-0214` and `APX-B3-RR-0754`, identifies direct-observation categories, and accepts professional exposure without warning or releasing Julie.
-- **State:** not Julie's ally; remains institutionally implicated and procedurally exact.
-
-## Daniel Mercer
-
-- **Accepted role:** professional containment officer and direct witness.
-- **Chapter 22 function:** attests only to direct observation and contemporaneous command; does not defect, expand, or become an ally.
-
-## Leila Grant
-
-- **Accepted role:** independent DCIS examiner.
-- **Chapter 22 function:** controls method and proof language; refuses to broaden mechanism/authority facts into human authorship or command.
-
-## Miriam Alvarez
-
-- **Accepted role:** DCIS supervisory authority and named receiver.
-- **Chapter 22 function:** independently owns operational removal and joint preservation; does not adjudicate guilt, employment, or public innocence.
-
-## Arthur Vance
-
-- **Accepted finding:** personal participation in the later remote reconstruction release only.
-- **Consequence:** removed from Argus operational release authority, Building Three security authority, source-custody authority, and unilateral preservation control pending review.
-- **Not established:** original deployment keystrokes, sole architecture, upstream direction, employment termination, criminal charge, arrest, confession, or cooperation.
+- **Physical state:** hip injury, right-index injury, dizziness, exhaustion, tremor/cold consequences remain.
+- **Identity state:** original physical-board history contradicts ordinary original token use; later gate/reconciliation acts remain voluntary, authenticated, and legally exposed.
+- **Chapter 23 action:** none; no biometric, board, module, or remote operation occurs.
+- **Remaining arc:** legal disposition and agency without hostage/saboteur simplification or immunity convenience.
 
 ## Leland Price
 
-- Alive, represented, frightened, professionally exposed, and under bounded DIA administrative review.
-- Authentic raw-source/source-integrity request preserved; active authority ended before later borrowed path.
-- No Chapter 22 action; no exoneration, immunity, or trusted-ally status.
+- Alive, represented, professionally exposed, and under bounded DIA administrative review.
+- Public correction separates his authentic source-review request from the later borrowed path and preserves his rejected access attempt and administrative exposure.
+- No hero, constructor, immunity, or complete-innocence finding is created.
+
+## Leila Grant
+
+- Controls method, exact source language, and non-exculpatory boundaries.
+- Signs the bounded correction and refuses to convert source mechanism into human guilt or innocence.
+- Not Julie's advocate or universal authority.
+
+## Miriam Alvarez
+
+- Owns DCIS publication authority and independently halts the release when proof ceilings are crossed.
+- Restarts only after Argus and LSS independently restore their own limits.
+- Does not decide release, guilt, employment, immunity, or final charging.
+
+## Rachel Nwosu
+
+- Government Argus program-integrity/configuration-control authority.
+- Signs only registry/source-integrity facts; withdraws program signature from the overclaim; publishes `ARGUS-PI-187463-01` with hash and receipt.
+
+## Marisol Vega
+
+- LSS deputy compromise-control authority.
+- Maintains `SSO-NS-004` under no-use seal, withdraws LSS signature from the overclaim, publishes `LSS-ACK-90418-01`, and opens `LSS-IDR-90418-01`.
+- Does not assert earlier operation or Sterling personal command.
+
+## William Hackett
+
+- Presses for a cleaner exculpatory statement and later accepts the narrower correction he can defend.
+- Remains a constrained institutional sponsor, not a public advocate or adjudicator.
+
+## Sarah Chen / Daniel Mercer / Nora Bell
+
+- No Chapter 23 on-page action or new knowledge transfer.
+- Their source-preservation, direct-witness, and WSS-local-record choices remain intact and await bounded aftermath.
+
+## Arthur Vance
+
+- **Accepted finding:** personal participation in the later remote release only.
+- **Public consequence:** the later-release finding and operational suspension are now public through source-limited Argus/DCIS records.
+- **Not established:** original deployment keystrokes, sole architecture, upstream direction, employment termination, charge, arrest, confession, or cooperation.
 
 ## Senator Sterling
 
-- Public/network antagonist; hostile account remains dominant.
-- Office/device responsibility remains relevant; personal possession, knowledge, direction, and command remain unproved.
-- No Chapter 22 POV, private scene, arrest, or personal finding.
+- Public/network antagonist; his hostile account is no longer the only official version.
+- Office/device and continuity-exception responsibility are publicly acknowledged; independent LSS review is opened.
+- Personal possession, operation, knowledge, direction, intent, and command remain unproved.
 
 ## Major Ananya Sharma / Sameer Qureshi
 
 - Arjun records remain independently controlled.
-- K-17 local failure, zero writes, no-fire/abort record, and superseding-product omission remain preserved.
-- No direct communication with Julie in Chapter 22.
+- K-17 local failure, zero writes, no-fire/abort record, and superseding-product omission remain preserved and are publicly referenced only through the bounded source-limited acknowledgment.

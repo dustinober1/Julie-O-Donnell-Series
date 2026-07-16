@@ -4,9 +4,9 @@ The accepted-manuscript inventory in `../ACCEPTED_MANUSCRIPT.yaml` controls acce
 
 ## Accepted inventory
 
-- Prologue and Chapters 1–22 are accepted.
-- Accepted total: **116,807 words**.
-- Accepted endpoint: **13:12:44 EDT / 22:42:44 IST**, secure MPD evidence intake.
+- Prologue and Chapters 1–23 are accepted.
+- Accepted total: **121,417 words**.
+- Accepted endpoint: **14:24:44 EDT / 23:54:44 IST**, secure MPD evidence intake.
 
 ## Accepted Act III
 
@@ -22,6 +22,7 @@ The accepted-manuscript inventory in `../ACCEPTED_MANUSCRIPT.yaml` controls acce
 | 20 | The Custody Exception | 4,307 | 10:44:12 EDT / 20:14:12 IST | 11:26:32 EDT / 20:56:32 IST | Accepted |
 | 21 | The Borrowed Name | 4,415 | 11:26:32 EDT / 20:56:32 IST | 12:18:04 EDT / 21:48:04 IST | Accepted |
 | 22 | The Release Record | 4,716 | 12:18:04 EDT / 21:48:04 IST | 13:12:44 EDT / 22:42:44 IST | Accepted |
+| 23 | The Official Correction | 4,610 | 13:12:44 EDT / 22:42:44 IST | 14:24:44 EDT / 23:54:44 IST | Accepted |
 
 ## Protected reviewed blobs
 
@@ -35,15 +36,16 @@ The accepted-manuscript inventory in `../ACCEPTED_MANUSCRIPT.yaml` controls acce
 - Chapter 20: `0bd12f43beeef48d5e897ee1fa78a333bd23099b`
 - Chapter 21: `866d4210b7fc808aef48144a91a58280f38fc99c`
 - Chapter 22: `034ab496794594427d8409d03e7c6659d41b6a91`
+- Chapter 23: `1f511d36404450f201b34a075f441d350eb7cc52`
 
-## Chapter 22 acceptance record
+## Chapter 23 acceptance record
 
-- Mission lock: `44-chapter-22-mission-lock.md` — blob `9bd255ac7b09a1490dc70be4506ba29183756788`.
-- Acceptance review: `45-chapter-22-acceptance-review.md` — **ACCEPT** — blob `f0261e728600b58a4efada77b39874977f347ade`.
-- Accepted path: `../manuscript/chapters/chapter-22.md`.
-- Exact words: **4,716**.
+- Mission lock: `46-chapter-23-mission-lock.md` — blob `c8c5be7e9ee5a902c7187697cf1bc70c8a5ce30a`.
+- Acceptance review: `47-chapter-23-acceptance-review.md` — **ACCEPT** — blob `c876854075ad1f686ac663018983fd34f0064e2c`.
+- Accepted path: `../manuscript/chapters/chapter-23.md`.
+- Exact words: **4,610**.
 - No prose repair was made and no duplicate draft remains.
 
-## Chapter 23 and later
+## Chapter 24 and later
 
-At least one later chapter remains necessary under the ending contract. Chapter 23 and later remain undrafted and individually mission unlocked. No Chapter 23 mission lock, Chapter 23 prose, or complete chapter-by-chapter remainder-of-Act-III outline exists.
+At least one final Book 1 chapter remains necessary under the ending contract. Chapter 24 and later remain undrafted and individually mission unlocked. No Chapter 24 artifact or complete chapter-by-chapter remainder outline exists.

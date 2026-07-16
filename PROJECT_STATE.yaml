@@ -1,124 +1,96 @@
 project: Julie O'Donnell Series
-schema_version: 13
+schema_version: 14
 last_updated: '2026-07-16'
 
 status_authority:
   file: PROJECT_STATE.yaml
-  scope: Production status and navigation only; not story canon
-  rule: Accepted prose and ACCEPTED_MANUSCRIPT.yaml control canon.
+  rule: Production navigation only; accepted prose and books/book-01/ACCEPTED_MANUSCRIPT.yaml control canon.
 
-story_authority:
-  accepted_manifest: books/book-01/ACCEPTED_MANUSCRIPT.yaml
-  accepted_prose_root: books/book-01/manuscript/
-  control_pack_root: books/book-01/control/
-  series_bible_root: series/
-  draft_root: books/book-01/drafts/
-  archive_root: archive/
+repository:
+  full_name: dustinober1/Julie-O-Donnell-Series
+  default_branch: main
 
 active_book:
   number: 1
   title: null
   genre: Contemporary geopolitical techno-thriller / military-intelligence thriller
+  protagonist: Julie O'Donnell
+  publication_ready: false
   word_budget:
     minimum: 100000
     planning_target: 112500
     maximum: 125000
-    accepted_words: 116807
-    words_above_planning_target: 4307
-    maximum_words_remaining: 8193
-    accepted_act_iii_words: 53152
+    accepted_words: 121417
+    words_above_planning_target: 8917
+    maximum_words_remaining: 3583
+    accepted_act_iii_words: 57762
     count_method: UTF-8 Markdown whitespace-delimited tokens; tools/count_book1_words.py
   accepted_canon:
     manifest: books/book-01/ACCEPTED_MANUSCRIPT.yaml
     prologue: true
-    chapters: 1-22
+    chapters: 1-23
     acts:
       act_i: complete
       act_ii: complete
-      act_iii: Chapters 13-22 accepted
-    accepted_manuscript_words: 116807
+      act_iii: Chapters 13-23 accepted
+    accepted_manuscript_words: 121417
     endpoint:
-      chapter: 22
-      eastern: 13:12:44 EDT
-      india: 22:42:44 IST
+      chapter: 23
+      eastern: 14:24:44 EDT
+      india: 23:54:44 IST
       location: secure MPD evidence intake
-      status: Signed source-separated counterrecord complete; Vance later remote-release act established and operational authority removed pending review; original 02:14 operator and Sterling personal command remain unproved; public account remains dominant.
-    chapter_22:
-      title: The Release Record
-      path: books/book-01/manuscript/chapters/chapter-22.md
-      verdict: ACCEPT
-      accepted_words: 4716
-      reviewed_blob_sha: 034ab496794594427d8409d03e7c6659d41b6a91
-      mission_lock: books/book-01/control/44-chapter-22-mission-lock.md
-      mission_lock_blob_sha: 9bd255ac7b09a1490dc70be4506ba29183756788
-      acceptance_review: books/book-01/control/45-chapter-22-acceptance-review.md
-      acceptance_review_blob_sha: f0261e728600b58a4efada77b39874977f347ade
-      opening: 12:18:04 EDT / 21:48:04 IST
-      endpoint: 13:12:44 EDT / 22:42:44 IST
-      pov: Julie primary; exactly one bounded Sarah Chen cutaway
-      scene_count: 6
-      established: Identity-construction mechanism related across Price and Elias records; failed K-17 local commit separated from later successful remote release; Vance personally participated in the later release only; Vance removed from operational control pending review.
-      deferred: Original 02:14 human operator; request constructor; Sterling personal command; public fracture; legal, medical, relationship, and future-role resolution.
-  drafts:
-    active_chapter_drafts:
-      - 23
-  future_prose:
+      status: Three separately authenticated public corrections published with hashes and receipts; Sterling's hostile account is no longer the only official version; office/device review docketed; Julie remains detained and injured.
     chapter_23:
-      status: first draft complete; non-canon; formal acceptance review not created
       title: The Official Correction
+      path: books/book-01/manuscript/chapters/chapter-23.md
+      verdict: ACCEPT
+      accepted_words: 4610
+      reviewed_blob_sha: 1f511d36404450f201b34a075f441d350eb7cc52
       mission_lock: books/book-01/control/46-chapter-23-mission-lock.md
       mission_lock_blob_sha: c8c5be7e9ee5a902c7187697cf1bc70c8a5ce30a
-      draft_path: books/book-01/drafts/chapter-23.md
-      draft_blob_sha: 1f511d36404450f201b34a075f441d350eb7cc52
-      draft_words: 4610
+      acceptance_review: books/book-01/control/47-chapter-23-acceptance-review.md
+      acceptance_review_blob_sha: c876854075ad1f686ac663018983fd34f0064e2c
       opening: 13:12:44 EDT / 22:42:44 IST
       endpoint: 14:24:44 EDT / 23:54:44 IST
       location: secure MPD evidence intake
       pov: Julie O'Donnell close third only; no cutaways
       scene_count: 6
-      dominant_function: Combined authenticated public fracture and bounded institutional consequence.
-      accepted_manuscript_effect: none
-      acceptance_review: none
-      prose: books/book-01/drafts/chapter-23.md
+      established: Authenticated public fracture; bounded correction preserving adverse facts; Vance later-release finding and suspension published; Sterling-office device/continuity chain acknowledged under independent LSS review; publication made durable by separate hashes and receipts.
+      deferred: Immediate legal, medical, relationship, and professional aftermath; Julie's future-role choice; bounded carryover of original operator, request constructor, Sterling personal command, Tariq physical role, WSS plaintext, and wider network.
+  drafts:
+    active_chapter_drafts: []
+  future_prose:
     chapter_24_and_later: undrafted and individually mission unlocked
-    architecture_rule: Chapter 23 remains non-canon; no Chapter 24 artifact and no complete chapter-by-chapter remainder-of-Act-III outline exists.
+    architecture_rule: At least one final Book 1 chapter remains required by the ending contract; no Chapter 24 artifact and no complete chapter-by-chapter remainder outline exists.
 
 planning_controls:
   ending_contract: books/book-01/control/22-book-1-ending-contract.md
   word_budget_and_architecture: books/book-01/control/23-word-budget-and-act-iii-architecture.md
   thread_disposition: books/book-01/control/24-thread-disposition-matrix.md
   chapter_acceptance_gate: books/book-01/control/25-chapter-acceptance-gate.md
-  chapter_22_mission_lock: books/book-01/control/44-chapter-22-mission-lock.md
-  chapter_22_acceptance_review: books/book-01/control/45-chapter-22-acceptance-review.md
   chapter_23_mission_lock: books/book-01/control/46-chapter-23-mission-lock.md
+  chapter_23_acceptance_review: books/book-01/control/47-chapter-23-acceptance-review.md
   series_character_ledger: series/recurring-character-ledger.md
 
 narrative_house_style:
-  version: '2.2'
-  status: locked for new chapter production and revision passes
-  guide: docs/Julie_ODonnell_Narrative_House_Style_v2_2.md
-  v2_1_supplement: docs/Julie_ODonnell_Narrative_House_Style_v2_1.md
-  v2_base: docs/Julie_ODonnell_Narrative_House_Style_v2.md
-  authority: Craft control only; accepted manuscript and canon controls remain superior.
+  base: docs/Julie_ODonnell_Narrative_House_Style_v2.md
+  supplement_2_1: docs/Julie_ODonnell_Narrative_House_Style_v2_1.md
+  supplement_2_2: docs/Julie_ODonnell_Narrative_House_Style_v2_2.md
 
 production_rules:
   - Accepted manuscript prose outranks every summary, plan, tracker, draft, and external snapshot.
   - No unaccepted chapter may live under books/book-01/manuscript/.
-  - Protected accepted Chapters 1-22 remain byte-identical unless a later explicit acceptance review authorizes change.
+  - Protected accepted Chapters 1-23 remain byte-identical unless a later explicit acceptance review authorizes change.
   - Request identity, construction mechanism, authority binding, release act, registered authority, physical act, custody, carrier assignment, authorization, knowledge, intent, and command remain separate proof categories.
-  - A certified derivative never replaces its independently controlled original.
+  - A certified derivative never replaces an independently controlled original.
   - A no-use hold preserves state and custody; it does not authenticate prior operation.
-  - Chapter 23 has exactly one non-canon draft at books/book-01/drafts/chapter-23.md; it is not accepted prose.
-  - Chapter 23 acceptance review has not been created.
-  - Accepted canon remains Prologue and Chapters 1-22 at 116807 words and the Chapter 22 endpoint.
+  - Chapter 23 exists only at books/book-01/manuscript/chapters/chapter-23.md and is accepted under control/47.
   - No Chapter 24 artifact exists.
   - No complete chapter-by-chapter remainder-of-Act-III outline exists or is authorized.
   - No draft or revision may imitate or closely emulate the recognizable prose of a living author.
 
 archive:
-  legacy_source_policy: archive/legacy-sources/README.md
-  former_google_doc_active: false
   uploaded_word_snapshot_active: false
   superseded_status_snapshots: Preserved in Git history; not duplicated as active files.
 
-next_recommended_action: In a fresh, separately authorized session, perform only the formal Chapter 23 acceptance review against books/book-01/drafts/chapter-23.md and books/book-01/control/46-chapter-23-mission-lock.md. Do not create Chapter 24 planning or prose, a complete remainder outline, or promote Chapter 23 without an explicit acceptance verdict.
+next_recommended_action: In a fresh, separately authorized session, create only the Chapter 24 mission lock and final-chapter plan needed to complete immediate aftermath, Julie's deliberate future-role choice, and bounded series-facing stabilization. Do not draft Chapter 24 or create a complete remainder outline.

@@ -1,26 +1,35 @@
 # 14. PUBLIC NARRATIVE VERSUS ACTUAL RECORD
 
-## Public narrative at Chapter 22 endpoint
+## Public narrative at Chapter 23 endpoint
 
-Sterling's hostile account remains the only dominant public story: Julie is framed as the architect of an insider attack on Argus/Apex and a Washington secure facility; Marcus is an armed accomplice; Elias is alternately hostage or saboteur; Apex and Argus are presented as victims requiring protection. No public correction, charge reversal, exoneration, leak, press release, or authenticated evidentiary briefing occurs in Chapter 22.
+Sterling's hostile insider account remains in circulation but is no longer the only official version. Three separately authenticated public documents now establish a bounded causal correction with visible proof ceilings, withholding schedules, hashes, and public receipts.
+
+The public record now states:
+
+- synthetic or validation-derived contamination entered the actionable Argus source chain;
+- K-17 local authentication failed and wrote zero records;
+- the later remote reconstruction was a distinct event;
+- Vance personally authenticated only the later remote release and relevant operational authority remains suspended pending review;
+- the authenticated record does not support the claim that Julie, Marcus, Elias, or Price originated the poisoned source or constructed the operational route;
+- `SSO-NS-004` and the continuity exception belong to the Sterling-office institutional chain and are under independent LSS review;
+- Sterling personal possession, operation, knowledge, direction, intent, and command are not established.
+
+The public correction does not use **cleared**, **innocent**, or **released**. It does not decide unauthorized conduct, administrative exposure, admissibility, charging, employment, custody, or later lawful process.
 
 ## Actual accepted private record
 
-- Payload 88 was an approved synthetic validation object with safety labels and operational-use prohibitions.
-- Elias's physical board does not contain an ordinary original deployment signing event; it does contain later voluntary emergency acts.
-- Price's authentic raw-source/source-integrity request is separate from a later request path that inherited his identity/reference and added operational fields after his active authority ended.
-- The Price and Elias paths share an Apex-linked construction family and `APX-DIR-0019` authority binding, not a proven human constructor.
-- K-17 local final authentication failed; commit did not execute; writes remained zero.
-- A later remote reconstruction/release occurred through a separate source chain.
-- Vance personally participated in that later release through live-palm authentication and source-native record, independently corroborated by camera, access journal, Chen, Mercer, and government registry.
-- Vance is removed from operational release/security/source-custody authority pending review.
-- Relevant source originals remain separately held under joint preservation.
-- `SSO-NS-004` remains closed and unused; seven MPD packages remain sealed.
+The Chapter 22 source-separated private counterrecord remains controlling for the complete bounded finding. It preserves Payload 88's synthetic status, Price's authentic request versus later borrowed identity, Elias's physical-board distinction, failed local K-17 commit, distinct later remote release, Vance's later-release act, source-separated originals, and all proof limits.
 
-## Private counterrecord state
+## Publication integrity
 
-`DCIS-BF-187463-02` and `DCIS-PRP-187463-01` create a signed, source-separated contradiction that can survive hostile examination. It is not yet public. It does not claim original deployment authorship, Sterling personal command, Tariq physical operation, WSS plaintext, universal innocence, or universal corruption.
+- `ARGUS-PI-187463-01`, `DCIS-ISC-187463-01`, and `LSS-ACK-90418-01` publish with separate hashes and receipts.
+- `LSS-IDR-90418-01` creates independent review around office assignment, device custody, continuity exception, and authorized access paths.
+- Public documents do not replace originals or disclose WSS plaintext, active collection geography, incomplete/excluded case contents, privileged material outside approved ranges, or unrelated personnel.
 
-## Required visible fracture
+## Rejected overclaim
 
-Book 1 still requires an authenticated public event that makes Sterling's account materially harder to sustain. The fracture must preserve source limits, classification, civilian safety, lawful custody, and the distinction between office responsibility and Sterling's unproved personal command.
+A late redline removed “later” from the Vance finding and treated office responsibility as Sterling direction. Julie invoked the abort. Alvarez, Nwosu, and Vega independently withdrew their signatures. The altered version did not publish.
+
+## Remaining public-state obligation
+
+Book 1 no longer owes the authenticated visible fracture. It still owes immediate legal/medical/professional aftermath, Julie's future-role choice, and an explicit distinction between Book 1 resolution and deliberate series carryover.

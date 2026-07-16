@@ -2,61 +2,48 @@
 
 ## Core series rule
 
-Technology creates constrained records, delays, access paths, and consequences. It is never omnipotent, sentient, or a substitute for human authority, custody, or proof.
+Technology creates constrained records, delays, access paths, and consequences. It is never omnipotent, sentient, or a substitute for human authority, custody, publication authority, or proof.
 
 ## Identity and attribution stack
 
-Keep these categories separate:
+Keep request identity, construction mechanism, service/authority binding, registered authority, physical device participation, human biometric/local act, authorization scope, release act, government acceptance, downstream state, knowledge, intent, direction, and command separate. No category automatically proves the next.
 
-1. request identity or reference;
-2. identity-construction mechanism;
-3. service/authority binding;
-4. registered authority or custodian;
-5. physical device participation;
-6. human biometric or local-authentication act;
-7. authorization scope;
-8. release act;
-9. government acceptance;
-10. downstream controlling-product state;
-11. knowledge, intent, direction, and command.
+## Accepted source and release rules
 
-No category automatically proves the next.
-
-## Accepted Chapter 22 identity-path rules
-
-- A continuity broker may inherit Price's request identity/reference and add fields after his active authority ended.
-- That event proves a constructed path, not the human constructor.
-- An Apex identity map may relate Price and Elias records to a common construction family and `APX-DIR-0019` binding.
-- Common construction family does not prove one human actor.
-- Elias's physical secure element contains no ordinary original deployment signing transition but contains later gate/reconciliation events.
-- A mirrored or replayed identity can create a system attribution without physical board use.
-
-## K-17 and remote reconstruction
-
-- K-17 local final authentication failed.
-- Local commit did not execute.
-- Local writes remained zero.
-- The later successful remote reconstruction/release is a distinct event and source chain.
-- Vance's live palm at `07:52:11.884 EDT`, source-native operator seal, camera, access journal, Chen objection, and Mercer observation establish his participation in the later release only.
-- Government acceptance at `07:52:12.117 EDT`, Indian arrival at `07:52:20 EDT`, and controlling state at `07:54:00 EDT` are separate downstream events.
+- Price's request identity can be inherited after his active authority ends without proving Price created the later route.
+- Elias's physical board can contradict ordinary original token use while preserving later voluntary authenticated acts.
+- K-17 local final authentication failed and wrote zero records.
+- The later remote reconstruction/release is separate.
+- Vance's live-palm/source-native later-release act is not original-deployment proof.
+- Government acceptance and later controlling-product state are separate downstream events.
 
 ## Signer and WSS rules
 
-- `SSO-NS-004` is closed, isolated, and under no-use hold.
-- No-use preserves present state and custody; it does not prove earlier operation.
-- Device registration to an office does not prove the person holding it.
+- `SSO-NS-004` remains powered down, isolated, closed, unused, and under no-use hold.
+- No-use preserves present state/custody; it does not prove earlier operation.
+- Device registration and office-chain responsibility do not prove a human holder or command.
 - WSS portable capture and WSS local audit are separate records.
 - Encrypted blocks remain unread unless later accepted lawful access proves otherwise.
 
+## Chapter 23 publication rules
+
+- A public correction is a new derivative publication object, not a renamed original.
+- Each publishing authority signs only facts within its own source custody and jurisdiction.
+- Each public instrument retains authority, source classes, withheld-material schedule, proof ceilings, objection register, publication hash, and public receipt.
+- A synchronized publication time does not merge source clocks or jurisdictions.
+- A publication hash proves that the public copy matches the signed publication object; it does not authenticate every underlying source by itself.
+- Removing a proof ceiling after approval changes the authorized release and requires reauthorization.
+- Withdrawal of one authority's signature does not automatically withdraw another's; Chapter 23's abort succeeds because Alvarez, Nwosu, and Vega independently stop their own acts.
+
 ## Evidence rules
 
-- Hash match proves post-seal integrity, not original truth.
+- Hash match proves post-seal or post-publication integrity, not original truth.
 - The aluminum case remains partial: 136 sealed, 47 incomplete, 311 excluded.
-- Incomplete and excluded material may not be reconstructed by narration.
+- Incomplete and excluded material may not be reconstructed.
 - A derivative records only its selected source range and fields.
 - Originals remain with named source custodians.
 - One clock may be reconciled with another but not silently replaced.
 
 ## Prohibited shortcuts
 
-No universal admin credential, generic hacking, instant camera correlation, magical decryption, remote biometric fabrication, unlogged evidence movement, sentient Argus, or automatic legal admissibility. Human workflow, hardware, physical access, injury, clock differences, and institutional authority must constrain every future technical action.
+No universal admin credential, generic hacking, instant camera correlation, magical decryption, remote biometric fabrication, unlogged evidence movement, sentient Argus, universal repository, automatic legal admissibility, or press release that adjudicates guilt. Human workflow, hardware, injury, clocks, institutional authority, source custody, and proof limits constrain every future action.

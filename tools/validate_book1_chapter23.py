@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Permanent validation for accepted Book 1 through Chapter 22."""
+"""Permanent validation for accepted Book 1 through Chapter 23."""
 from __future__ import annotations
 
 import subprocess
@@ -7,17 +7,19 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-BASE = "3ed760050f7e74ad152d0f46ede7db16164030b0"
-EXPECTED_TOTAL = 116807
-EXPECTED_ACT_III = 53152
-EXPECTED_MANIFEST_BLOB = "faae57d468a4a599dc14ee753c74b5257e946ec8"
-EXPECTED_REVIEW_BLOB = "f0261e728600b58a4efada77b39874977f347ade"
-EXPECTED_LOCK_BLOB = "9bd255ac7b09a1490dc70be4506ba29183756788"
-CH22_BLOB = "034ab496794594427d8409d03e7c6659d41b6a91"
-CH23_LOCK = "books/book-01/control/46-chapter-23-mission-lock.md"
-CH23_DRAFT = "books/book-01/drafts/chapter-23.md"
-CH23_LOCK_VALIDATOR = "tools/validate_book1_chapter23_mission_lock.py"
-CH23_DRAFT_VALIDATOR = "tools/validate_book1_chapter23_draft.py"
+BASE = "c4dca2aa7781709b6ba78f41abe5a35f14b13280"
+EXPECTED_TOTAL = 121417
+EXPECTED_ACT_III = 57762
+EXPECTED_MANIFEST_BLOB = "022ce4585cb07421549b6749f3ca1b8f60221307"
+EXPECTED_REVIEW_BLOB = "c876854075ad1f686ac663018983fd34f0064e2c"
+EXPECTED_LOCK_BLOB = "c8c5be7e9ee5a902c7187697cf1bc70c8a5ce30a"
+CH23_BLOB = "1f511d36404450f201b34a075f441d350eb7cc52"
+MANIFEST = "books/book-01/ACCEPTED_MANUSCRIPT.yaml"
+LOCK = "books/book-01/control/46-chapter-23-mission-lock.md"
+REVIEW = "books/book-01/control/47-chapter-23-acceptance-review.md"
+CH23 = "books/book-01/manuscript/chapters/chapter-23.md"
+DRAFT = "books/book-01/drafts/chapter-23.md"
+
 EXPECTED_CHAPTERS = {
     "books/book-01/manuscript/chapters/chapter-13.md": (6175, "e7d04921431e571aab434f2f4b808655e363d30c"),
     "books/book-01/manuscript/chapters/chapter-14.md": (5763, "78f7fff02cd271fecbc94f7daf7151dbebbd5c6d"),
@@ -28,11 +30,10 @@ EXPECTED_CHAPTERS = {
     "books/book-01/manuscript/chapters/chapter-19.md": (5393, "1c7cc22fc7c480cb247efa1f6a2c0d0b1e1b1baf"),
     "books/book-01/manuscript/chapters/chapter-20.md": (4307, "0bd12f43beeef48d5e897ee1fa78a333bd23099b"),
     "books/book-01/manuscript/chapters/chapter-21.md": (4415, "866d4210b7fc808aef48144a91a58280f38fc99c"),
-    "books/book-01/manuscript/chapters/chapter-22.md": (4716, CH22_BLOB),
+    "books/book-01/manuscript/chapters/chapter-22.md": (4716, "034ab496794594427d8409d03e7c6659d41b6a91"),
+    CH23: (4610, CH23_BLOB),
 }
-REVIEW = "books/book-01/control/45-chapter-22-acceptance-review.md"
-LOCK = "books/book-01/control/44-chapter-22-mission-lock.md"
-MANIFEST = "books/book-01/ACCEPTED_MANUSCRIPT.yaml"
+
 STATE_FILES = [
     "PROJECT_STATE.yaml",
     "README.md",
@@ -61,17 +62,18 @@ STATE_FILES = [
     "books/book-01/control/24-thread-disposition-matrix.md",
     "series/recurring-character-ledger.md",
 ]
+
 ALLOWED_CHANGED = set(STATE_FILES) | {
     ".github/workflows/book1-manuscript-validation.yml",
     MANIFEST,
-    "books/book-01/drafts/chapter-22.md",
-    "books/book-01/manuscript/chapters/chapter-22.md",
+    LOCK,
     REVIEW,
-    CH23_LOCK,
-    CH23_DRAFT,
+    DRAFT,
+    CH23,
     "tools/validate_book1_chapter22.py",
-    CH23_LOCK_VALIDATOR,
-    CH23_DRAFT_VALIDATOR,
+    "tools/validate_book1_chapter23_mission_lock.py",
+    "tools/validate_book1_chapter23_draft.py",
+    "tools/validate_book1_chapter23.py",
 }
 
 
@@ -92,7 +94,7 @@ for path, (expected_words, expected_blob) in EXPECTED_CHAPTERS.items():
     if not (ROOT / path).is_file():
         fail(f"missing {path}")
     if words(path) != expected_words:
-        fail(f"word count mismatch for {path}")
+        fail(f"word count mismatch for {path}: {words(path)}")
     if blob(path) != expected_blob:
         fail(f"blob mismatch for {path}")
 
@@ -101,105 +103,111 @@ if sum(count for count, _ in EXPECTED_CHAPTERS.values()) != EXPECTED_ACT_III:
 if blob(MANIFEST) != EXPECTED_MANIFEST_BLOB:
     fail("accepted manifest blob mismatch")
 if blob(REVIEW) != EXPECTED_REVIEW_BLOB:
-    fail("Chapter 22 acceptance-review blob mismatch")
+    fail("Chapter 23 acceptance-review blob mismatch")
 if blob(LOCK) != EXPECTED_LOCK_BLOB:
-    fail("Chapter 22 mission-lock blob mismatch")
+    fail("Chapter 23 mission-lock blob mismatch")
 
 review = (ROOT / REVIEW).read_text(encoding="utf-8")
-if "## 25. Explicit verdict\n\n**ACCEPT**" not in review:
-    fail("explicit ACCEPT verdict missing")
-if "`ARGUS-CD-187463-01` supplies the source-limited government Argus product-registry derivative." not in review:
-    fail("government product-registry derivative missing from formal review")
+for phrase in (
+    "## 25. Explicit verdict\n\n**ACCEPT**",
+    "**None.**",
+    CH23_BLOB,
+    "**4,610**",
+    "**121,417 words**",
+):
+    if phrase not in review:
+        fail(f"review missing: {phrase}")
 for phrase in ("basically accepted", "provisionally canon", "accepted pending cleanup", "mostly ready"):
     if phrase in review.lower():
         fail(f"ambiguous verdict phrase present: {phrase}")
 
 manifest = (ROOT / MANIFEST).read_text(encoding="utf-8")
 for required in (
-    "accepted_words: 116807",
-    "chapter: 22",
-    'eastern: "13:12:44 EDT"',
-    'india: "22:42:44 IST"',
-    'path: "books/book-01/manuscript/chapters/chapter-22.md"',
+    "accepted_words: 121417",
+    "chapter: 23",
+    'eastern: "14:24:44 EDT"',
+    'india: "23:54:44 IST"',
+    'path: "books/book-01/manuscript/chapters/chapter-23.md"',
 ):
     if required not in manifest:
         fail(f"manifest missing: {required}")
 
-count_result = subprocess.run(
-    [sys.executable, "tools/count_book1_words.py", "--expect", str(EXPECTED_TOTAL)],
-    cwd=ROOT,
-)
-if count_result.returncode:
+result = subprocess.run([sys.executable, "tools/count_book1_words.py", "--expect", str(EXPECTED_TOTAL)], cwd=ROOT)
+if result.returncode:
     fail("accepted-manuscript word count")
 
-if (ROOT / "books/book-01/drafts/chapter-22.md").exists():
-    fail("Chapter 22 draft remains")
+if (ROOT / DRAFT).exists():
+    fail("Chapter 23 draft remains")
 tracked = subprocess.check_output(["git", "ls-files"], cwd=ROOT, text=True).splitlines()
-duplicates = [path for path in tracked if (ROOT / path).is_file() and blob(path) == CH22_BLOB]
-if duplicates != ["books/book-01/manuscript/chapters/chapter-22.md"]:
-    fail(f"Chapter 22 duplicate paths: {duplicates}")
+duplicates = [path for path in tracked if (ROOT / path).is_file() and blob(path) == CH23_BLOB]
+if duplicates != [CH23]:
+    fail(f"Chapter 23 duplicate paths: {duplicates}")
 
-authorized_ch23 = {CH23_LOCK, CH23_DRAFT}
+ch23_artifacts = [
+    path for path in tracked
+    if "chapter-23" in path.lower()
+    and path.startswith(("books/book-01/control/", "books/book-01/drafts/", "books/book-01/manuscript/"))
+]
+if ch23_artifacts != [LOCK, REVIEW, CH23]:
+    fail(f"unexpected Chapter 23 artifacts: {ch23_artifacts}")
 for path in tracked:
     lower = path.lower()
-    if "chapter-23" in lower and path.startswith(("books/book-01/control/", "books/book-01/drafts/", "books/book-01/manuscript/")) and path not in authorized_ch23:
-        fail(f"unauthorized Chapter 23 artifact exists: {path}")
     if "chapter-24" in lower and path.startswith(("books/book-01/control/", "books/book-01/drafts/", "books/book-01/manuscript/")):
         fail(f"Chapter 24 artifact exists: {path}")
     if ("remainder" in lower and "outline" in lower) or ("act-iii" in lower and "outline" in lower):
-        fail(f"complete remainder outline artifact exists: {path}")
+        fail(f"complete remainder outline exists: {path}")
 
-stale_phrases = (
-    "accepted_words: 112091",
-    "accepted-manuscript length: **112,091 words**",
-    "formal acceptance review pending",
-    "chapter 22 acceptance review: not created",
-    "chapter 22 has no acceptance review yet",
-    "active book 1 drafts: chapter 22 only",
-)
+project = (ROOT / "PROJECT_STATE.yaml").read_text(encoding="utf-8")
+for required in (
+    "chapters: 1-23",
+    "accepted_words: 121417",
+    "maximum_words_remaining: 3583",
+    "active_chapter_drafts: []",
+    EXPECTED_REVIEW_BLOB,
+    "books/book-01/manuscript/chapters/chapter-23.md",
+    "No Chapter 24 artifact exists.",
+):
+    if required not in project:
+        fail(f"PROJECT_STATE.yaml missing: {required}")
+
 for path in STATE_FILES:
     file_path = ROOT / path
     if not file_path.is_file():
         fail(f"missing synchronized state file: {path}")
     text = file_path.read_text(encoding="utf-8")
-    if not any(token in text for token in ("Chapter 22", "116,807", "accepted_words: 116807", "13:12:44")):
-        fail(f"{path} lacks accepted Chapter 22 state")
+    if not any(token in text for token in ("Chapter 23", "121,417", "accepted_words: 121417", "14:24:44")):
+        fail(f"{path} lacks accepted Chapter 23 state")
     lower = text.lower()
-    for phrase in stale_phrases:
-        if phrase in lower:
-            fail(f"{path} retains stale state: {phrase}")
-
-project_state = (ROOT / "PROJECT_STATE.yaml").read_text(encoding="utf-8")
-for required in (
-    "chapters: 1-22",
-    "accepted_words: 116807",
-    "maximum_words_remaining: 8193",
-    "active_chapter_drafts:\n      - 23",
-    "f0261e728600b58a4efada77b39874977f347ade",
-    "books/book-01/drafts/chapter-23.md",
-    "Chapter 23 acceptance review has not been created.",
-):
-    if required not in project_state:
-        fail(f"PROJECT_STATE.yaml missing: {required}")
+    for stale in (
+        "chapter 23 acceptance review has not been created",
+        "formal acceptance review not created",
+        "formal acceptance review pending",
+        "active chapter drafts:\n      - 23",
+        "accepted canon: prologue and chapters 1–22",
+        "accepted canon: prologue and chapters 1-22",
+        "no chapter 23 prose",
+    ):
+        if stale in lower:
+            fail(f"{path} retains stale state: {stale}")
 
 protected = ["books/book-01/manuscript/prologue.md"] + [
-    f"books/book-01/manuscript/chapters/chapter-{index:02d}.md" for index in range(1, 22)
+    f"books/book-01/manuscript/chapters/chapter-{index:02d}.md" for index in range(1, 23)
 ]
-if subprocess.run(["git", "diff", "--quiet", BASE, "--", *protected], cwd=ROOT).returncode != 0:
-    fail("accepted Prologue or Chapters 1-21 changed")
+protected += [
+    "books/book-01/control/44-chapter-22-mission-lock.md",
+    "books/book-01/control/45-chapter-22-acceptance-review.md",
+    LOCK,
+]
+if subprocess.run(["git", "diff", "--quiet", BASE, "--", *protected], cwd=ROOT).returncode:
+    fail("protected accepted prose or mission/review controls changed")
 
 changed = set()
-changed_output = subprocess.check_output(
-    ["git", "diff", "--name-status", "--find-renames", BASE, "--"],
-    cwd=ROOT,
-    text=True,
-)
-for line in changed_output.splitlines():
+output = subprocess.check_output(["git", "diff", "--name-status", "--find-renames", BASE, "--"], cwd=ROOT, text=True)
+for line in output.splitlines():
     fields = line.split("\t")
-    status = fields[0]
-    if status.startswith(("R", "C")):
+    if fields[0].startswith(("R", "C")):
         if len(fields) != 3:
-            fail(f"unexpected rename/copy diff entry: {line}")
+            fail(f"unexpected rename/copy entry: {line}")
         changed.update(fields[1:])
     else:
         if len(fields) != 2:
@@ -208,15 +216,9 @@ for line in changed_output.splitlines():
 unexpected = changed - ALLOWED_CHANGED
 if unexpected:
     fail(f"unexpected changed files: {sorted(unexpected)}")
-required_changed = {
-    REVIEW,
-    MANIFEST,
-    "books/book-01/drafts/chapter-22.md",
-    "books/book-01/manuscript/chapters/chapter-22.md",
-    "tools/validate_book1_chapter22.py",
-}
-if not required_changed.issubset(changed):
-    fail(f"missing required changed files: {sorted(required_changed - changed)}")
+for required in (REVIEW, MANIFEST, DRAFT, CH23, "tools/validate_book1_chapter23.py"):
+    if required not in changed:
+        fail(f"required acceptance change missing: {required}")
 
 for path in changed:
     name = Path(path).name.lower()
@@ -225,7 +227,7 @@ for path in changed:
     if name.endswith((".orig", ".rej")):
         fail(f"forbidden rejected/original artifact: {path}")
 
-if subprocess.run(["git", "diff", "--check", BASE, "--"], cwd=ROOT).returncode != 0:
+if subprocess.run(["git", "diff", "--check", BASE, "--"], cwd=ROOT).returncode:
     fail("git diff --check")
 
-print("PASS: accepted Book 1 through Chapter 22 is synchronized and protected")
+print("PASS: accepted Book 1 through Chapter 23 is synchronized and protected")

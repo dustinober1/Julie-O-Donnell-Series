@@ -4,8 +4,8 @@
 
 **Approved production planning.** Accepted prose controls actual story state; future chapter functions require individual mission locks.
 
-- **Accepted endpoint:** **13:12:44 EDT / 22:42:44 IST**, secure MPD evidence intake
-- **Chapter 22:** accepted unchanged
+- **Accepted endpoint:** **14:24:44 EDT / 23:54:44 IST**, secure MPD evidence intake
+- **Chapter 23:** accepted unchanged
 
 ## Current word budget
 
@@ -14,37 +14,37 @@
 | Minimum finished accepted length | 100,000 |
 | Planning target | 112,500 |
 | Maximum finished accepted length | 125,000 |
-| Accepted manuscript through Chapter 22 | **116,807** |
-| Above minimum | **16,807** |
-| Above planning target | **4,307** |
-| Remaining before maximum | **8,193** |
+| Accepted manuscript through Chapter 23 | **121,417** |
+| Above minimum | **21,417** |
+| Above planning target | **8,917** |
+| Remaining before maximum | **3,583** |
 
 | Unit | Accepted words |
 |---|---:|
 | Prologue and Chapters 1–12 | 63,655 |
-| Chapters 13–21 | 48,436 |
-| Chapter 22 — The Release Record | 4,716 |
-| Accepted Act III subtotal, Chapters 13–22 | **53,152** |
-| Accepted manuscript total | **116,807** |
+| Chapters 13–22 | 53,152 |
+| Chapter 23 — The Official Correction | 4,610 |
+| Accepted Act III subtotal, Chapters 13–23 | **57,762** |
+| Accepted manuscript total | **121,417** |
 
 Count method: `len(Path(path).read_text(encoding='utf-8').split())`, implemented by `tools/count_book1_words.py`.
 
-## Chapter 22 budget result
+## Chapter 23 budget result
 
-Chapter 22 is inside its preferred range and uses **4,716 words** for the final major private proof-and-consequence movement: identity-construction relationship, failed-local versus successful-remote separation, bounded Vance later-release proof, independent consequence, source-separated reconciliation, and a private authenticated counterrecord.
+Chapter 23 uses **4,610 words** for authenticated public fracture and bounded institutional consequence. It is inside the mission lock's acceptable range and below the 5,200-word hard ceiling.
 
 ## Remaining high-level Book 1 obligations
 
-- authenticated visible contradiction of Sterling's public account;
-- bounded office/Sterling consequence without false personal-command proof;
-- Price, Marcus, Elias, Chen, Mercer, Bell, legal, medical, and relationship aftermath;
+- immediate legal, medical, and professional stabilization;
+- Marcus relationship/institutional aftermath;
+- Elias and Price dispositions preserving agency and adverse facts;
 - Julie's deliberate future-role choice;
 - bounded series-facing stabilization and named carryovers.
 
-The remaining **8,193-word** ceiling is sufficient for at least one later chapter. This file does not decide the number, title, POV, scene plan, word count, or endpoint of any later chapter.
+The remaining **3,583-word** ceiling is sufficient for one concise final chapter. The final chapter should prioritize irreversible choices and bounded state changes over a new investigation, operational set piece, or broad procedural sequence. This file does not decide Chapter 24's title, POV, scene plan, opening, endpoint, or exact word count.
 
-No Chapter 23 prose or mission lock and no complete chapter-by-chapter remainder outline exists.
+No Chapter 24 artifact and no complete chapter-by-chapter remainder outline exists.
 
 ## Current gate
 
-A fresh authorized session may create only the Chapter 23 mission lock. It may not draft Chapter 23 or create a complete remainder outline.
+A fresh authorized session may create only the Chapter 24 mission lock and final-chapter plan. It may not draft Chapter 24 or create a complete remainder outline.

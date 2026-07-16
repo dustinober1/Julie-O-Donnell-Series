@@ -2,87 +2,68 @@
 
 ## Governing rule
 
-Every original and derivative retains a named custodian, source range, clock basis, production method, produced and withheld fields, integrity state, movement state, and proof ceiling. A derivative never replaces its original. Hashes prove post-seal integrity, not original truth.
+Every original and derivative retains a named custodian, source range, clock basis, production method, produced and withheld fields, integrity state, movement state, and proof ceiling. A derivative never replaces its original. Hashes prove post-seal or post-publication integrity, not original truth.
 
-## MPD physical packages — unchanged in Chapter 22
+## MPD physical packages — unchanged in Chapter 23
 
-`MPD-901441` through `MPD-901447` remain seven separate sealed, offline, stationary packages in the locked common chest at secure MPD evidence intake. No package is opened, moved, connected, or compared in Chapter 22.
+`MPD-901441` through `MPD-901447` remain seven separate sealed, offline, stationary packages in the locked common chest at secure MPD evidence intake. No package is opened, moved, connected, mounted, imaged, challenged, or altered.
 
-The set includes the aluminum telemetry case, recovery cartridge, paper custody materials, administrator-token board, WSS dual-partition incident module, dead fleet transponder/vehicle evidence, and related separately packaged incident items as accepted in prior chapters. Exact package-to-object mapping remains controlled by the MPD receipt and accepted prose.
+The aluminum telemetry case remains partial: **136 sealed files**, **47 incomplete files**, and **311 excluded files**. Incomplete and excluded content remains unavailable and is not reconstructed for publication.
 
 ## Signer custody — unchanged
 
 - **Object:** `SSO-NS-004`
-- **Custodian:** Legislative Secure Services compromise-control custody
+- **Custodian:** Martin Vann / Legislative Secure Services compromise-control custody
+- **Deputy authority:** Marisol Vega
 - **Seal:** `LSS-SL-90418`
-- **State:** powered down, isolated, closed, no-use hold
-- **Proof limit:** preserves present state/custody; does not authenticate who used it earlier or reveal WSS plaintext
+- **State:** powered down, isolated, closed, unused, no-use hold
+- **Proof limit:** present custody/state only; not earlier operation, physical possessor, or WSS plaintext
 
-## Chapter 22 source originals and derivatives
+## Chapter 22 private preparation records retained
 
-### Office/LSS continuity broker
+- `DCIS-BF-187463-02`: bounded private finding
+- `DCIS-PRP-187463-01`: source-separated preparation/preservation instrument
+- `APX-B3-IDM-0214` and derivative `APX-CD-187463-02`: identity construction family and authority binding, not human constructor
+- `APX-B3-RR-0754` and derivative `APX-CD-187463-03`: Vance later-release event only
+- `ARGUS-K17-RC-0751` and source-limited government derivative: registry acceptance and product sequence
+- `ARJ-K17-001` through `ARJ-K17-003` and `ARJ-K17-ACK-01`: independent local failure/zero-write/no-fire records
+- office/LSS, DIA/Price, WSS, Hartwell, MPD, and Apex source originals remain separately held
 
-- **Original:** `SO-CB-6540-01`
-- **Custodian:** Senate office/LSS source custodian under preservation
-- **Function:** continuity-broker event history showing inheritance of Price request identity/reference and later added routing/authority fields
-- **Derivative:** `SO-CD-187463-03`
-- **Produced fields:** inherited identity/reference, active-authority end, later field additions, event order, source range, clocks
-- **Withheld/unavailable:** privileged communications, unrelated office content, human constructor not present in source
-- **Proof ceiling:** mechanism and constructed identity path; not human authorship or Sterling command
+## Chapter 23 public instruments
 
-### Apex identity map
+### Argus program-integrity notice
 
-- **Original:** `APX-B3-IDM-0214`
-- **Custodian:** Apex source custodian under joint preservation hold
-- **Function:** maps Price borrowed identity and Elias framed identity to a common construction family and `APX-DIR-0019` binding
-- **Derivative:** `APX-CD-187463-02`
-- **Produced fields:** identity domains, construction family, authority binding, clocks, relevant record range
-- **Withheld/unavailable:** unrelated identities, privileged material, human operator not recorded
-- **Proof ceiling:** common architecture/authority binding; not one human constructor or original deployment hand
+- **Document:** `ARGUS-PI-187463-01`
+- **Authority:** Dr. Rachel Nwosu / Government Argus Program Integrity and Configuration Control Office
+- **Source classes:** government registry; source-limited Apex later-release derivative; preserved K-17 acknowledgment
+- **Finding:** synthetic/validation-derived contamination; failed local K-17 authentication and zero writes; distinct later remote reconstruction; Vance personally authenticated only the later release; operational suspension remains
+- **Withheld:** collection geography, unrelated product traffic, Apex material outside produced range
+- **Proof ceiling:** not original deployment authorship, upstream command, or sole architecture
+- **Integrity:** separate publication hash and public receipt
 
-### Apex later-release record
+### DCIS investigative-status correction
 
-- **Original:** `APX-B3-RR-0754`
-- **Custodian:** Apex source custodian under joint preservation hold
-- **Function:** source-native remote-reconstruction release event
-- **Key event:** live palm confirmation for Arthur R. Vance at `07:52:11.884 EDT`, locally sealed operator state
-- **Independent corroboration:** fixed camera, access journal, Chen's contemporaneous objection, Mercer's direct observation
-- **Derivative:** `APX-CD-187463-03`
-- **Proof ceiling:** Vance personally participated in the later release; not original 02:14 deployment keystrokes, upstream command, or sole architecture
+- **Document:** `DCIS-ISC-187463-01`
+- **Authority:** Supervisory Special Agent Miriam Alvarez; method certification by Leila Grant
+- **Finding:** authenticated record does not support the claim that Julie, Marcus, Elias, or Price originated the poisoned source or constructed the operational route
+- **Preserved adverse state:** unauthorized conduct, administrative exposure, admissibility, charging, employment, custody, and later lawful process remain unresolved
+- **Proof ceiling:** not innocence, release, immunity, acquittal, or final adjudication
+- **Integrity:** separate publication hash and public receipt
 
-### Government registry receipt
+### LSS office/device acknowledgment
 
-- **Original/receipt:** `ARGUS-K17-RC-0751`
-- **Custodian:** government Argus program registry
-- **Key event:** later release accepted at `07:52:12.117 EDT`; Indian product arrives `07:52:20 EDT`; becomes controlling `07:54:00 EDT`
-- **Proof ceiling:** government acceptance and controlling-product sequence; not the Apex human operator by itself
+- **Document:** `LSS-ACK-90418-01`
+- **Authority:** Marisol Vega / LSS deputy compromise-control authority
+- **Finding:** `SSO-NS-004` and the continuity exception belong to the Sterling-office institutional chain; signer remains closed and unused
+- **Review docket:** `LSS-IDR-90418-01`
+- **Review scope:** office assignment, device custody, continuity exception, authorized access paths
+- **Proof ceiling:** Sterling personal possession, operation, knowledge, direction, intent, and command not established
+- **Integrity:** separate publication hash and public receipt
 
-### Forward Post Arjun originals
+## Late overclaim and abort record
 
-- **Records:** `ARJ-K17-001`, `ARJ-K17-002`, `ARJ-K17-003`, `ARJ-K17-ACK-01`
-- **Custodians:** Major Ananya Sharma / Sameer Qureshi / applicable Indian command custody
-- **State:** independently preserved; not transferred to MPD or DCIS
-- **Finding:** local final authentication failed; commit did not execute; zero writes; later product omitted/collapsed the local failure
-- **Proof ceiling:** field/local result and acknowledgment; not Washington operator identity
+The coordinated proof sheet was altered after initial approval to remove “later” from the Vance finding and convert office responsibility into Sterling direction. Julie invoked the release abort and withdrew participation. Alvarez halted DCIS release; Nwosu and Vega independently withdrew their institutional signatures. The altered version did not publish. The restored source-limited documents did.
 
-### DCIS consequence and preservation records
+## Movement state at Chapter 23 endpoint
 
-- **Operational removal:** `DCIS-OAR-187463-01`
-- **Bounded finding:** `DCIS-BF-187463-02`
-- **Preservation/reconciliation package:** `DCIS-PRP-187463-01`
-- **Custodian/authority:** Supervisory Special Agent Miriam Alvarez / DCIS
-- **Function:** removes Vance from operational release/security/source-custody authority pending review, records exact bounded finding, and preserves source-separated originals/derivatives
-- **Proof ceiling:** institutional consequence and preservation, not criminal adjudication, employment disposition, or public exoneration
-
-## Prior critical evidence locks
-
-- Aluminum case: 136 sealed files; 47 incomplete; 311 excluded. Incomplete/excluded content remains unavailable.
-- Elias board: original physical signing event absent; later gate and reconciliation events authentic and voluntary.
-- Recovery cartridge: sealed recovery action, restored labels, bounded packet range, provenance invalidation, suspended external commit, mandatory human review.
-- WSS module Partition A and Partition B remain separate; WSS local original remains separate from portable capture; encrypted message blocks remain unread.
-- Hartwell carrier/security records establish device/case movement and authority events without automatically proving human command.
-- Price's authentic request, complete statement, rejected access attempt, and later borrowed identity path remain separately preserved.
-
-## Movement state at Chapter 22 endpoint
-
-No original is consolidated into a universal repository. Apex, government registry, Arjun, MPD, LSS, WSS, Hartwell, DIA, Senate office, and DCIS records remain separately controlled under preservation. No leak or public release occurs.
+No original is consolidated or moved. No signer use or package operation occurs. The new public documents are derivative publication objects with independent hashes/receipts; they do not replace Apex, Argus registry, Arjun, MPD, LSS, WSS, Hartwell, DIA, Senate-office, or DCIS originals.
