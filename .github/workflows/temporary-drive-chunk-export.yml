@@ -1,0 +1,106 @@
+name: Temporary Drive Chunk Export
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Build verified manuscript chunks
+        shell: bash
+        run: |
+          python - <<'PY'
+          from __future__ import annotations
+
+          import hashlib
+          import json
+          from pathlib import Path
+
+          import yaml
+
+          root = Path.cwd()
+          manifest = yaml.safe_load((root / 'books/book-01/ACCEPTED_MANUSCRIPT.yaml').read_text(encoding='utf-8'))
+          entries = manifest['accepted_files']
+          source_paths = [root / entry['path'] for entry in entries]
+          missing = [str(path) for path in source_paths if not path.is_file()]
+          if missing:
+              raise SystemExit(f'Missing accepted files: {missing}')
+
+          actual_words = sum(len(path.read_text(encoding='utf-8').split()) for path in source_paths)
+          expected_words = int(manifest['accepted_words'])
+          if actual_words != expected_words:
+              raise SystemExit(f'Word count mismatch: expected {expected_words}, got {actual_words}')
+
+          combined = '\n\n---\n\n'.join(path.read_text(encoding='utf-8').rstrip() for path in source_paths) + '\n'
+          paragraphs = combined.splitlines(keepends=True)
+          max_chars = 24000
+          chunks: list[str] = []
+          current: list[str] = []
+          current_chars = 0
+          for line in paragraphs:
+              if current and current_chars + len(line) > max_chars:
+                  chunks.append(''.join(current))
+                  current = []
+                  current_chars = 0
+              current.append(line)
+              current_chars += len(line)
+          if current:
+              chunks.append(''.join(current))
+
+          out = Path('/tmp/drive-export')
+          out.mkdir(parents=True, exist_ok=True)
+          chunk_records = []
+          for number, chunk in enumerate(chunks, start=1):
+              filename = f'chunk-{number:03d}.json'
+              (out / filename).write_text(json.dumps(chunk, ensure_ascii=False), encoding='utf-8')
+              chunk_records.append({
+                  'sequence': number,
+                  'file': filename,
+                  'characters': len(chunk),
+                  'sha256': hashlib.sha256(chunk.encode('utf-8')).hexdigest(),
+              })
+
+          export_manifest = {
+              'book': 1,
+              'title': manifest['title'],
+              'accepted_words': actual_words,
+              'accepted_file_count': len(source_paths),
+              'combined_characters': len(combined),
+              'chunk_count': len(chunks),
+              'chunks': chunk_records,
+          }
+          (out / 'manifest.json').write_text(json.dumps(export_manifest, indent=2), encoding='utf-8')
+          (out / 'accepted-manuscript-source-paths.txt').write_text(
+              '\n'.join(entry['path'] for entry in entries) + '\n', encoding='utf-8'
+          )
+          print(json.dumps(export_manifest, indent=2))
+          PY
+
+      - name: Publish chunks to temporary export branch
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin drive-migration-export-20260716
+          git checkout drive-migration-export-20260716
+          rm -rf drive-export
+          mkdir -p drive-export
+          cp -R /tmp/drive-export/. drive-export/
+          git add drive-export
+          if git diff --cached --quiet; then
+            echo "No export changes required"
+          else
+            git commit -m "Generate verified Drive manuscript chunks"
+            git push origin drive-migration-export-20260716
+          fi
