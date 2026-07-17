@@ -2,17 +2,17 @@
 
 ## What needs you
 
-Book Plan is ready for your decision.
+Novel Forge is ready to continue chapter queue.
 
 ## Recommended action
 
-Review the book plan evidence and approve it or request changes.
+Prepare the next bounded window of chapter packets.
 
 Run: `/novel`
 
 ## Why this stopped
 
-Novel Forge stopped because book plan requires an explicit writer approval before creative work can continue.
+No human gate or integrity blocker is stopping the recommended next step.
 
 ## Project snapshot
 
@@ -21,15 +21,15 @@ Novel Forge stopped because book plan requires an explicit writer approval befor
 - Profile: thriller
 - Runtime profile: full
 - Active book: book-01
-- Stage: book-planning
-- Next gate: book-plan-approval (pending)
+- Stage: chapter-queue
+- Next gate: none
 - Manuscript words: 0
-- Blocking tickets/conflicts: 1
+- Blocking tickets/conflicts: 0
 - Warnings: 1
 
 ## Blockers
 
-- Human approval required: Book Plan
+- none
 
 ## Warnings
 
@@ -37,9 +37,9 @@ Novel Forge stopped because book plan requires an explicit writer approval befor
 
 ## Recent files
 
-- books/book-01/BOOK.yaml
 - PROJECT.yaml
+- HANDOFF.md
+- STATUS.md
+- books/book-01/BOOK.yaml
 - series/story-threads.yaml
 - research/source-register.yaml
-- books/book-01/book-strategy.yaml
-- books/book-01/research-ledger.yaml

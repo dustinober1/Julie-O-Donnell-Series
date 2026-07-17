@@ -4,11 +4,11 @@ project_name: Julie O'Donnell Book 1
 project_type: open-ended-series
 active_book: book-01
 default_profile: thriller
-current_stage: book-planning
-next_gate: book-plan-approval
+current_stage: chapter-queue
+next_gate: null
 gates:
   voice-approval: approved
-  book-plan-approval: pending
+  book-plan-approval: approved
   first-chapter-approval: open
   act-1-review: open
   midpoint-review: open
@@ -20,6 +20,11 @@ approvals:
     approved_at: 2026-07-17T21:11:26.307Z
     approved_by: writer
     evidence_hash: 04514896f95ba76be61916ef63bb982af7b2ecbe9845ed7fa0a272193cccea6f
+    note: ""
+  - gate: book-plan-approval
+    approved_at: 2026-07-17T23:01:27.485Z
+    approved_by: writer
+    evidence_hash: 25e6ef1a17b9ef91e21c60ca1425c8a5f4720ef5eb9726780a930b6655638182
     note: ""
 automation:
   max_chapters_per_run: 3

@@ -3,19 +3,19 @@
 - Project: Julie O'Donnell Book 1
 - Active book: book-01
 - Profile: thriller
-- Stage: book-planning
+- Stage: chapter-queue
 - Git reference: main @ HEAD
-- Project state hash: 242e4e0a782a26de2776f1e7971f4d50440c964b6caf0cd2326fa84f39a789b5
-- Last completed action: book-plan
-- Active gate or blocker: book-plan-approval (pending)
+- Project state hash: 0e77b706c2583a33a71fd8f840ceb486129c1271556d330cac11ad8a3edf12d4
+- Last completed action: Approved book-plan-approval
+- Active gate or blocker: none
 - Current chapter: 0
 - Manuscript words: 0
 
 ## Locked and protected state
 
-- 1 writer approval recorded
+- 2 writer approvals recorded
 - book-01 canon remains provisional
-- Current workflow stage is book-planning
+- Current workflow stage is chapter-queue
 
 ## Read first
 
@@ -40,10 +40,10 @@
 
 Run exactly: `/novel`
 
-Reason: Book Plan is ready for your decision.
+Reason: Novel Forge is ready to continue chapter queue.
 
 ## Continuation prompt
 
 ```text
-Continue the Novel Forge project Julie O'Donnell Book 1. The active book is book-01 (thriller) at stage book-planning. Read STATUS.md and HANDOFF.md first, then follow the exact recommended action through /novel. Do not edit PROJECT.yaml, BOOK.yaml, STATUS.md, or HANDOFF.md directly and do not bypass the active human gate book-plan-approval (pending).
+Continue the Novel Forge project Julie O'Donnell Book 1. The active book is book-01 (thriller) at stage chapter-queue. Read STATUS.md and HANDOFF.md first, then follow the exact recommended action through /novel. Do not edit PROJECT.yaml, BOOK.yaml, STATUS.md, or HANDOFF.md directly and do not bypass the active human gate none.
 ```
