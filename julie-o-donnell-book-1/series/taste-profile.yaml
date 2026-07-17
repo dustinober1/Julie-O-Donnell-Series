@@ -1,0 +1,14 @@
+schema_version: 1.0.0
+precedence:
+  - explicit-writer-decisions
+  - writer-samples
+  - accepted-voice-baseline
+  - approved-voice-profile
+  - influence-references
+  - genre-defaults
+influences: []
+negative_references: []
+opening_experiment:
+  status: not-started
+  experiment_id: null
+  baseline_path: null

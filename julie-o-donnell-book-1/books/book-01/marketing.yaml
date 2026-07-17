@@ -1,0 +1,55 @@
+schema_version: 1.0.0
+positioning:
+  items: []
+  approval:
+    status: draft
+    approved_at: null
+    note: ""
+audiences:
+  items: []
+  approval:
+    status: draft
+    approved_at: null
+    note: ""
+hooks:
+  items: []
+  approval:
+    status: draft
+    approved_at: null
+    note: ""
+retailer_copy:
+  items: []
+  approval:
+    status: draft
+    approved_at: null
+    note: ""
+launch:
+  items: []
+  approval:
+    status: draft
+    approved_at: null
+    note: ""
+social:
+  items: []
+  approval:
+    status: draft
+    approved_at: null
+    note: ""
+advertisements:
+  items: []
+  approval:
+    status: draft
+    approved_at: null
+    note: ""
+audiobook_promotion:
+  items: []
+  approval:
+    status: draft
+    approved_at: null
+    note: ""
+series_page:
+  items: []
+  approval:
+    status: draft
+    approved_at: null
+    note: ""

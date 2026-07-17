@@ -1,0 +1,27 @@
+schema_version: 1.0.0
+novel_forge_version: 1.4.1
+project_name: Julie O'Donnell Book 1
+project_type: open-ended-series
+active_book: book-01
+default_profile: thriller
+current_stage: voice-intake
+next_gate: voice-approval
+gates:
+  voice-approval: open
+  book-plan-approval: open
+  first-chapter-approval: open
+  act-1-review: open
+  midpoint-review: open
+  pre-final-act-review: open
+  manuscript-approval: open
+  package-approval: open
+approvals: []
+automation:
+  max_chapters_per_run: 3
+  require_first_chapter_approval: true
+  git_checkpoints: true
+  active_run: null
+runtime:
+  profile: full
+  telemetry: true
+migration_history: []

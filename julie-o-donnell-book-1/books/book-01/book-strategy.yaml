@@ -1,0 +1,65 @@
+schema_version: 1.0.0
+reader_promise:
+  statement: ""
+  required_experiences: []
+expectation_map: []
+reader_friction:
+  observations: []
+  clusters: []
+  accepted_tradeoffs: []
+originality:
+  risks: []
+  mitigations: []
+review_derived_guardrails: []
+plan_stress_test:
+  - id: early-genre-promise
+    status: pending
+    rationale: ""
+    evidence_refs: []
+    tradeoff_id: null
+  - id: middle-repetition
+    status: pending
+    rationale: ""
+    evidence_refs: []
+    tradeoff_id: null
+  - id: motivated-risk
+    status: pending
+    rationale: ""
+    evidence_refs: []
+    tradeoff_id: null
+  - id: fair-information
+    status: pending
+    rationale: ""
+    evidence_refs: []
+    tradeoff_id: null
+  - id: uneven-alternatives
+    status: pending
+    rationale: ""
+    evidence_refs: []
+    tradeoff_id: null
+  - id: avoidable-silence
+    status: pending
+    rationale: ""
+    evidence_refs: []
+    tradeoff_id: null
+  - id: redundant-characters
+    status: pending
+    rationale: ""
+    evidence_refs: []
+    tradeoff_id: null
+  - id: external-ending-contract
+    status: pending
+    rationale: ""
+    evidence_refs: []
+    tradeoff_id: null
+  - id: emotional-ending-contract
+    status: pending
+    rationale: ""
+    evidence_refs: []
+    tradeoff_id: null
+  - id: reference-similarity-and-tradeoffs
+    status: pending
+    rationale: ""
+    evidence_refs: []
+    tradeoff_id: null
+revision_learning_guardrails: []
