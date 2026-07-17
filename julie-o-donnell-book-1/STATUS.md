@@ -37,9 +37,9 @@ No human gate or integrity blocker is stopping the recommended next step.
 
 ## Recent files
 
+- books/book-01/research-ledger.yaml
+- research/source-register.yaml
+- HANDOFF.md
+- STATUS.md
 - books/book-01/BOOK.yaml
 - PROJECT.yaml
-- books/book-01/chapter-queue.yaml
-- books/book-01/plot-grid.yaml
-- STATUS.md
-- HANDOFF.md
