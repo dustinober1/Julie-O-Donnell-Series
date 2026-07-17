@@ -1,3 +1,360 @@
 schema_version: 1.0.0
-active_window: unplanned
-packets: []
+active_window: blocked
+packets:
+  - chapter: 1
+    title: "The Farm"
+    status: blocked
+    pov: close-third-protagonist
+    purpose: "Establish Julie's off-grid exile and deliver the impossible Argus alert through Marcus's arrival."
+    scene_engine: arrival
+    pressure_movement: "Julie's isolation breaks as the crisis she fled reaches her farm."
+    character_movement: "Julie shifts from avoidance to reluctant engagement."
+    relationship_movement: "Julie and Marcus confront their history through what Marcus omits."
+    story_thread_refs: [THR-001, THR-004, THR-006]
+    continuity_refs: [FCT-005, FCT-006]
+    character_refs: [Julie, Marcus]
+    required_research: [RES-001, RES-005]
+    profile_fields: {}
+    ending_hook: "Julie takes the data sheet and agrees to forty minutes."
+    milestone_gate: null
+    target_words: 5500
+  - chapter: 2
+    title: "The Ghost Pattern"
+    status: blocked
+    pov: close-third-protagonist
+    purpose: "Julie analyzes the alert and recognizes the four-second ghost signature — but this feed is synthetic."
+    scene_engine: analysis
+    pressure_movement: "The recognition that the machine is lying lands as bodily memory."
+    character_movement: "Julie's hyper-vigilance becomes the only skill that can read the feed."
+    relationship_movement: "Julie tests whether Marcus will admit the institution has not ruled out replay independently."
+    story_thread_refs: [THR-001, THR-002]
+    continuity_refs: [FCT-003, FCT-004, FCT-013]
+    character_refs: [Julie, Marcus]
+    required_research: [RES-001, RES-002, RES-005]
+    profile_fields: {}
+    ending_hook: "Julie recognizes the too-clean feed and the old recognition comes as bodily memory."
+    milestone_gate: null
+    target_words: 5500
+  - chapter: 3
+    title: "The Access"
+    status: blocked
+    pov: close-third-protagonist
+    purpose: "Julie negotiates Reston supervised access and learns the dawn deadline that governs the crisis."
+    scene_engine: negotiation
+    pressure_movement: "The ticking clock begins as the dawn deadline is revealed."
+    character_movement: "Julie commits to re-entering the system that destroyed her."
+    relationship_movement: "Marcus and Julie establish the terms of their uneasy alliance."
+    story_thread_refs: [THR-004, THR-006]
+    continuity_refs: [FCT-007, FCT-013]
+    character_refs: [Julie, Marcus]
+    required_research: [RES-001]
+    profile_fields: {}
+    ending_hook: "Julie accepts supervised access knowing the institution controls the room where she might prove the machine wrong."
+    milestone_gate: null
+    target_words: 5500
+  - chapter: 4
+    title: "The Signature"
+    status: blocked
+    pov: close-third-protagonist
+    purpose: "Julie discovers the synthetic injection signature in the data pipeline."
+    scene_engine: analysis
+    pressure_movement: "The proof sharpens as Julie maps the injection vector."
+    character_movement: "Julie's analytical certainty hardens into purpose."
+    relationship_movement: "Julie's isolation deepens as only she can see the pattern."
+    story_thread_refs: [THR-002]
+    continuity_refs: [FCT-007, FCT-019]
+    character_refs: [Julie]
+    required_research: [RES-002]
+    profile_fields: {}
+    ending_hook: "Julie confirms the injection vector — the system is weaponized, not broken."
+    milestone_gate: null
+    target_words: 5500
+  - chapter: 5
+    title: "The System Lying"
+    status: blocked
+    pov: close-third-protagonist
+    purpose: "Julie confronts the realization that the institution has every reason to let the false confidence stand."
+    scene_engine: confrontation
+    pressure_movement: "The stakes escalate from data to institutional power."
+    character_movement: "Julie shifts from analysis to opposition."
+    relationship_movement: "Julie and Marcus clash over whether the institution can be corrected from inside."
+    story_thread_refs: [THR-005, THR-006]
+    continuity_refs: [FCT-008, FCT-009]
+    character_refs: [Julie, Marcus]
+    required_research: [RES-001, RES-006]
+    profile_fields: {}
+    ending_hook: "Julie understands that the institution controlling verification will suppress the truth."
+    milestone_gate: null
+    target_words: 5500
+  - chapter: 6
+    title: "The Commitment"
+    status: blocked
+    pov: close-third-protagonist
+    purpose: "Julie commits to proving the synthetic injection despite the cost — the irreversible choice."
+    scene_engine: decision
+    pressure_movement: "The decision to act burns Julie's remaining anonymity."
+    character_movement: "Julie crosses from reluctant analyst to active investigator."
+    relationship_movement: "Julie puts Marcus at institutional risk by accepting his help."
+    story_thread_refs: [THR-001, THR-004]
+    continuity_refs: [FCT-016]
+    character_refs: [Julie, Marcus]
+    required_research: []
+    profile_fields: {}
+    ending_hook: "Julie commits to the investigation knowing it will cost her everything she has rebuilt."
+    milestone_gate: act-1-review
+    target_words: 5500
+  - chapter: 7
+    title: "Apex"
+    status: blocked
+    pov: close-third-protagonist
+    purpose: "Julie enters Apex to trace the injection source and registers the $6B contract pressure and a political hand."
+    scene_engine: infiltration
+    pressure_movement: "Julie is inside the machine's home ground where institutional language becomes the threat surface."
+    character_movement: "Julie navigates hostile territory using her institutional memory."
+    relationship_movement: "Julie encounters the corporate-political alliance that will oppose her."
+    story_thread_refs: [THR-002, THR-005]
+    continuity_refs: [FCT-007, FCT-008, FCT-009, FCT-010]
+    character_refs: [Julie, Vance]
+    required_research: [RES-003, RES-004]
+    profile_fields: {}
+    ending_hook: "Julie registers the $6B pressure and hints of a political hand behind Vance."
+    milestone_gate: null
+    target_words: 5500
+  - chapter: 8
+    title: "Vance"
+    status: blocked
+    pov: close-third-protagonist
+    purpose: "Julie confronts Vance with proof; he revokes her access and suppresses the finding."
+    scene_engine: confrontation
+    pressure_movement: "Vance becomes an active adversary; Julie loses all institutional access."
+    character_movement: "Julie forces the conflict into the open."
+    relationship_movement: "Vance and Julie establish direct adversarial positions."
+    story_thread_refs: [THR-005]
+    continuity_refs: [FCT-008, FCT-009]
+    character_refs: [Julie, Vance]
+    required_research: [RES-003, RES-006]
+    profile_fields: {}
+    ending_hook: "Vance revokes Julie's access and suppresses the finding to protect the contract renewal."
+    milestone_gate: null
+    target_words: 5500
+  - chapter: 9
+    title: "Elias"
+    status: blocked
+    pov: close-third-protagonist
+    purpose: "Julie seeks Elias for technical corroboration; he confirms the injection vector."
+    scene_engine: alliance
+    pressure_movement: "Julie gains a technical ally but exposes him to retaliation."
+    character_movement: "Elias's trust in process makes him vulnerable to the frame."
+    relationship_movement: "Julie and Elias build an uneasy technical alliance."
+    story_thread_refs: [THR-002, THR-007]
+    continuity_refs: [FCT-011]
+    character_refs: [Julie, Elias]
+    required_research: [RES-006]
+    profile_fields: {}
+    ending_hook: "Elias confirms the injection vector while his institutional trust makes him a target."
+    milestone_gate: null
+    target_words: 5500
+  - chapter: 10
+    title: "The Frame"
+    status: blocked
+    pov: close-third-protagonist
+    purpose: "Vance frames Elias as the traitor and detains Julie in the SCIF."
+    scene_engine: trap
+    pressure_movement: "The institution closes around Julie and Elias; both are trapped."
+    character_movement: "Julie is cornered with no institutional allies left inside."
+    relationship_movement: "Elias is sacrificed by the process he trusted."
+    story_thread_refs: [THR-005, THR-007]
+    continuity_refs: [FCT-011, FCT-014]
+    character_refs: [Julie, Elias, Vance]
+    required_research: [RES-004, RES-006]
+    profile_fields: {}
+    ending_hook: "Julie is detained in the SCIF with no way out through institutional channels."
+    milestone_gate: null
+    target_words: 5500
+  - chapter: 11
+    title: "The Crossing"
+    status: blocked
+    pov: close-third-protagonist
+    purpose: "Julie pulls the fire alarm to weaponize the SCIF's environmental protocols and escapes."
+    scene_engine: escape
+    pressure_movement: "Julie's escape is the irreversible crossing that costs all institutional cover."
+    character_movement: "Julie crosses from reluctant analyst to active fugitive."
+    relationship_movement: "Julie severs her last tie to institutional legitimacy."
+    story_thread_refs: [THR-004]
+    continuity_refs: [FCT-014, FCT-015]
+    character_refs: [Julie]
+    required_research: [RES-004]
+    profile_fields: {}
+    ending_hook: "Julie escapes the SCIF knowing her exile is now permanent by her own hand."
+    milestone_gate: midpoint-review
+    target_words: 6000
+  - chapter: 12
+    title: "Off the Grid"
+    status: blocked
+    pov: close-third-protagonist
+    purpose: "Julie destroys her RFID badges, ditches the tracked truck, and goes fully off-grid."
+    scene_engine: disappearance
+    pressure_movement: "Julie severs every remaining tie to institutional identity."
+    character_movement: "Julie embraces permanent off-grid status as operational necessity."
+    relationship_movement: "Julie's disappearance puts distance between her and everyone who could help or hurt her."
+    story_thread_refs: [THR-004]
+    continuity_refs: [FCT-015]
+    character_refs: [Julie]
+    required_research: []
+    profile_fields: {}
+    ending_hook: "Julie is fully off-grid with no path back to legitimacy."
+    milestone_gate: null
+    target_words: 5800
+  - chapter: 13
+    title: "The Partner"
+    status: blocked
+    pov: close-third-protagonist
+    purpose: "Julie and Marcus trace the injection chain off-grid through the night."
+    scene_engine: investigation
+    pressure_movement: "The investigation continues outside the institution under time pressure."
+    character_movement: "Julie and Marcus combine institutional memory with off-grid capability."
+    relationship_movement: "Marcus's institutional position is compromised by helping Julie."
+    story_thread_refs: [THR-002, THR-003, THR-006]
+    continuity_refs: [FCT-012, FCT-013]
+    character_refs: [Julie, Marcus]
+    required_research: [RES-002]
+    profile_fields: {}
+    ending_hook: "Julie and Marcus close in on the injection chain as Marcus's position erodes."
+    milestone_gate: null
+    target_words: 5800
+  - chapter: 14
+    title: "Sterling"
+    status: blocked
+    pov: close-third-protagonist
+    purpose: "The trace surfaces Senator Sterling's involvement behind Vance."
+    scene_engine: revelation
+    pressure_movement: "The conspiracy deepens beyond Vance to political power."
+    character_movement: "Julie confronts the scale of the institutional self-protection mechanism."
+    relationship_movement: "Julie understands that Sterling's power operates through proxies she cannot reach."
+    story_thread_refs: [THR-003, THR-005]
+    continuity_refs: [FCT-010]
+    character_refs: [Julie, Marcus]
+    required_research: [RES-003, RES-006]
+    profile_fields: {}
+    ending_hook: "Julie discovers Sterling's involvement — the political hand ensuring Apex survives."
+    milestone_gate: null
+    target_words: 5800
+  - chapter: 15
+    title: "The Deadline"
+    status: blocked
+    pov: close-third-protagonist
+    purpose: "The dawn deadline closes in as Julie and Marcus race for proof."
+    scene_engine: chase
+    pressure_movement: "The ticking clock compresses every decision; failure means kinetic escalation."
+    character_movement: "Julie operates at maximum capability under impossible time pressure."
+    relationship_movement: "Julie and Marcus are bound together by the shared deadline."
+    story_thread_refs: [THR-002, THR-003]
+    continuity_refs: [FCT-013, FCT-016]
+    character_refs: [Julie, Marcus]
+    required_research: []
+    profile_fields: {}
+    ending_hook: "The dawn deadline is hours away and the proof is still incomplete."
+    milestone_gate: null
+    target_words: 5800
+  - chapter: 16
+    title: "The Proof"
+    status: blocked
+    pov: close-third-protagonist
+    purpose: "Julie obtains the injection-chain proof; Elias corroborates from inside Apex."
+    scene_engine: corroboration
+    pressure_movement: "The path to exposure opens as irrefutable proof is assembled."
+    character_movement: "Elias risks his position to provide the final technical corroboration."
+    relationship_movement: "Julie and Elias's alliance is tested as Elias commits to the exposure."
+    story_thread_refs: [THR-002, THR-007]
+    continuity_refs: [FCT-011, FCT-018]
+    character_refs: [Julie, Elias, Marcus]
+    required_research: [RES-002]
+    profile_fields: {}
+    ending_hook: "Julie has irrefutable proof that Payload 88 is live in Argus Enterprise Build 4.6."
+    milestone_gate: null
+    target_words: 5800
+  - chapter: 17
+    title: "The Exposure"
+    status: blocked
+    pov: close-third-protagonist
+    purpose: "Julie exposes Vance's cover-up to Pentagon oversight."
+    scene_engine: disclosure
+    pressure_movement: "The conflict becomes visible inside the institution; Sterling's counter-move begins."
+    character_movement: "Julie forces institutional acknowledgment of the injection."
+    relationship_movement: "Julie leverages her proof against the institution from outside it."
+    story_thread_refs: [THR-005]
+    continuity_refs: [FCT-009, FCT-017]
+    character_refs: [Julie, Marcus]
+    required_research: [RES-006]
+    profile_fields: {}
+    ending_hook: "Julie exposes Vance's cover-up knowing Sterling will counter-move."
+    milestone_gate: null
+    target_words: 6000
+  - chapter: 18
+    title: "The Rogue Actor"
+    status: blocked
+    pov: close-third-protagonist
+    purpose: "Sterling and Apex sacrifice Vance as a rogue actor to preserve the architecture."
+    scene_engine: sacrifice
+    pressure_movement: "The system absorbs Vance's fall to protect itself."
+    character_movement: "Julie watches the institution consume its own to survive."
+    relationship_movement: "Marcus's institutional position costs him as the system protects its architecture."
+    story_thread_refs: [THR-005, THR-006]
+    continuity_refs: [FCT-009, FCT-010, FCT-017]
+    character_refs: [Julie, Vance, Marcus]
+    required_research: [RES-006]
+    profile_fields: {}
+    ending_hook: "Sterling and Apex sacrifice Vance as a rogue actor on live institutional channels."
+    milestone_gate: null
+    target_words: 6000
+  - chapter: 19
+    title: "The Severing"
+    status: blocked
+    pov: close-third-protagonist
+    purpose: "Julie severs Payload 88 before Major Sharma's 05:00 dawn deadline."
+    scene_engine: severing
+    pressure_movement: "The final window closes as Julie cuts the live injection."
+    character_movement: "Julie acts decisively to stop the kinetic escalation."
+    relationship_movement: "Julie's capability is confirmed to Tariq's network through her action."
+    story_thread_refs: [THR-002, THR-003]
+    continuity_refs: [FCT-013, FCT-016, FCT-019]
+    character_refs: [Julie, Marcus]
+    required_research: [RES-001, RES-002]
+    profile_fields: {}
+    ending_hook: "Julie severs the live injection in the final window before the dawn strike authorization."
+    milestone_gate: pre-final-act-review
+    target_words: 6000
+  - chapter: 20
+    title: "The Cost"
+    status: blocked
+    pov: close-third-protagonist
+    purpose: "Vance is ruined; Elias is cleared; Sterling and the Argus architecture survive."
+    scene_engine: aftermath
+    pressure_movement: "The immediate crisis resolves while the larger conspiracy persists."
+    character_movement: "Julie takes stock of what was won and what survived."
+    relationship_movement: "Elias is cleared but carries the scar of the process that nearly destroyed him."
+    story_thread_refs: [THR-005, THR-007]
+    continuity_refs: [FCT-017, FCT-018, FCT-020]
+    character_refs: [Julie, Elias, Marcus]
+    required_research: []
+    profile_fields: {}
+    ending_hook: "The immediate crisis resolves but Sterling, Tariq, and the Argus vulnerability persist."
+    milestone_gate: null
+    target_words: 6000
+  - chapter: 21
+    title: "The Exile"
+    status: blocked
+    pov: close-third-protagonist
+    purpose: "Julie returns to Culpeper permanently off-grid; the four-second ghost recontextualized."
+    scene_engine: resolution
+    pressure_movement: "The weight of being right settles as Julie accepts permanent exile."
+    character_movement: "Julie accepts exile as the cost of correctness, not as defeat."
+    relationship_movement: "Julie and Marcus part with the understanding that the next crisis will be harder."
+    story_thread_refs: [THR-001, THR-004]
+    continuity_refs: [FCT-005, FCT-015]
+    character_refs: [Julie, Marcus]
+    required_research: [RES-005]
+    profile_fields: {}
+    ending_hook: "Julie returns to Culpeper permanently off-grid — she was right then, she is right now, and the system punishes her for it both times."
+    milestone_gate: null
+    target_words: 6000

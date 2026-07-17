@@ -1,65 +1,114 @@
 schema_version: 1.0.0
 reader_promise:
-  statement: ""
-  required_experiences: []
-expectation_map: []
+  statement: "A grounded techno-thriller where one exiled analyst must prove an automated intelligence system is lying in time to stop a kinetic strike — knowing the institution will destroy her either way."
+  required_experiences:
+    - "Compounding paranoia as verifiable physical evidence collides with institutional certainty."
+    - "Escalating dread as the dawn deadline compresses every decision."
+    - "The recognition that the machine is not broken but weaponized."
+    - "An irreversible crossing where competence is treated as liability."
+    - "An ending where the immediate crisis resolves but the cost is permanent."
+expectation_map:
+  - id: EXP-001
+    expectation: "Grounded procedural credibility in military-intelligence operations."
+    decision: satisfy
+    rationale: "Verifiable physical evidence, realistic access controls, and institutional language as the threat surface deliver the credibility readers expect."
+    status: approved
+  - id: EXP-002
+    expectation: "Escalating external pressure and a ticking clock."
+    decision: satisfy
+    rationale: "The Friday-morning contract deadline and Major Sharma's 05:00 dawn strike window form a double-clock that compresses the back half."
+    status: approved
+  - id: EXP-003
+    expectation: "Protagonist agency under impossible odds."
+    decision: satisfy
+    rationale: "Julie's unique analytical capability is the only thing that can read the injection, and every choice she makes is consequential and irreversible."
+    status: approved
+  - id: EXP-004
+    expectation: "A legible climax where the reader sees exactly how the threat is stopped."
+    decision: satisfy
+    rationale: "The severing of Payload 88 before the dawn deadline is a concrete, reader-visible action with clear stakes."
+    status: approved
+  - id: EXP-005
+    expectation: "Series continuation without false closure."
+    decision: satisfy
+    rationale: "The immediate crisis resolves while Sterling, Tariq, and the Argus vulnerability persist — earned pressure, not cliffhanger."
+    status: approved
 reader_friction:
   observations: []
   clusters: []
-  accepted_tradeoffs: []
+  accepted_tradeoffs:
+    - id: TRD-001
+      statement: "Procedural density accepted for authentic institutional realism."
+      mitigation: "Aligned with the approved voice profile and reader-and-market expectation; density sharpens rather than pauses the scene."
 originality:
-  risks: []
-  mitigations: []
+  risks:
+    - id: ORG-001
+      type: premise-familiarity
+      description: "The disgraced-analyst-pulled-back-in premise is a recognizable thriller template; the risk is reading as generic."
+      evidence_refs: []
+      severity: medium
+      status: mitigated
+    - id: ORG-002
+      type: villain-caricature
+      description: "Institutional cover-up narratives can collapse into caricatured villains."
+      evidence_refs: []
+      severity: medium
+      status: mitigated
+  mitigations:
+    - risk_id: ORG-001
+      action: "Julie's hyper-vigilance is both the skill the plot requires and the wound that prevents reintegration — the system needing and punishing her competence is the unique engine."
+    - risk_id: ORG-002
+      action: "Vance's positive case (institutional survival, real jobs, real capability) is kept legible so the opposition is not cartoonish."
 review_derived_guardrails: []
 plan_stress_test:
   - id: early-genre-promise
-    status: pending
-    rationale: ""
-    evidence_refs: []
+    status: pass
+    rationale: "Chapters 1-2 establish the techno-thriller promise — an impossible Argus alert, the four-second ghost, and the recognition that the feed is synthetic — within the opening movement, before any scene stalls for exposition."
+    evidence_refs: [plot-grid.chapter-1, plot-grid.chapter-2, remarkability.SIG-001]
     tradeoff_id: null
   - id: middle-repetition
-    status: pending
-    rationale: ""
-    evidence_refs: []
+    status: pass
+    rationale: "Act 2 varies scene engines across infiltration, confrontation, alliance, trap, escape, disappearance, investigation, revelation, chase, and corroboration. No three consecutive chapters share the same scene engine."
+    evidence_refs: [plot-grid.act-2a, plot-grid.act-2b, plot-grid.chapters]
     tradeoff_id: null
   - id: motivated-risk
-    status: pending
-    rationale: ""
-    evidence_refs: []
+    status: pass
+    rationale: "Julie's risks are motivated by the dawn deadline (SU-009) and her unique capability to read the injection. Vance's suppression is motivated by the $6B contract renewal (SU-006). No character takes unmotivated risk."
+    evidence_refs: [plot-grid.DEC-003, plot-grid.DEC-006, book-bible.opposition]
     tradeoff_id: null
   - id: fair-information
-    status: pending
-    rationale: ""
-    evidence_refs: []
+    status: pass
+    rationale: "The too-clean-feed signature is set up in Chapter 2 (SU-004) before the synthetic injection is confirmed in Chapter 4 and severed in Chapter 19. The reader can follow Julie's deduction through verifiable physical evidence, not surprise revelation."
+    evidence_refs: [plot-grid.chapter-2, plot-grid.chapter-4, plot-grid.chapter-19, remarkability.MOT-001]
     tradeoff_id: null
   - id: uneven-alternatives
-    status: pending
-    rationale: ""
-    evidence_refs: []
+    status: pass
+    rationale: "Vance's positive case (institutional survival) is legible and partially valid. Elias-as-suspect versus Vance-as-suppressor presents genuine interpretive alternatives before the frame clarifies the truth."
+    evidence_refs: [book-bible.opposition, plot-grid.chapter-8, plot-grid.chapter-10]
     tradeoff_id: null
   - id: avoidable-silence
-    status: pending
-    rationale: ""
-    evidence_refs: []
+    status: pass
+    rationale: "Character withholding is always motivated — Vance suppresses to protect the contract, Marcus is institutionally constrained, Sterling operates through proxies. No artificial silence pads tension."
+    evidence_refs: [book-bible.opposition, plot-grid.DEC-001, plot-grid.DEC-008]
     tradeoff_id: null
   - id: redundant-characters
-    status: pending
-    rationale: ""
-    evidence_refs: []
+    status: pass
+    rationale: "Each character serves a distinct structural function: Julie (analysis and validation), Marcus (institutional bridge), Elias (insider technical corroboration), Vance (suppression), Sterling (political cover), Tariq (external threat engine). No two characters fill the same role."
+    evidence_refs: [book-bible.character-pressures, series-bible.recurring-cast]
     tradeoff_id: null
   - id: external-ending-contract
-    status: pending
-    rationale: ""
-    evidence_refs: []
+    status: pass
+    rationale: "The external ending is reader-legible: Payload 88 is severed before the dawn deadline (Ch 19), Vance's cover-up is exposed (Ch 17), and Elias is cleared (Ch 20). The immediate crisis resolves with a concrete, visible action."
+    evidence_refs: [plot-grid.chapter-17, plot-grid.chapter-19, plot-grid.chapter-20, book-bible.ending-contract]
     tradeoff_id: null
   - id: emotional-ending-contract
-    status: pending
-    rationale: ""
-    evidence_refs: []
+    status: pass
+    rationale: "Julie's emotional arc resolves as acceptance of permanent cost, not triumph or false closure. The four-second ghost is recontextualized — she was right then and now — rather than cheaply healed. The reader feels the weight of being right inside a system that punishes correctness."
+    evidence_refs: [plot-grid.chapter-21, book-bible.ending-contract, remarkability.lingering-question]
     tradeoff_id: null
   - id: reference-similarity-and-tradeoffs
-    status: pending
-    rationale: ""
-    evidence_refs: []
-    tradeoff_id: null
+    status: accepted-tradeoff
+    rationale: "Influences (Crichton, Clancy) are translated to neutral derived traits in the taste profile and never enter drafting context as direct imitation. The book accepts higher procedural density than mass-market comparators in exchange for authentic institutional realism — an intentional tradeoff."
+    evidence_refs: [taste-profile.influences, voice-guardrails, remarkability.accepted-reader-costs]
+    tradeoff_id: TRD-001
 revision_learning_guardrails: []

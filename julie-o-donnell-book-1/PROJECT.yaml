@@ -5,10 +5,10 @@ project_type: open-ended-series
 active_book: book-01
 default_profile: thriller
 current_stage: book-planning
-next_gate: null
+next_gate: book-plan-approval
 gates:
   voice-approval: approved
-  book-plan-approval: open
+  book-plan-approval: pending
   first-chapter-approval: open
   act-1-review: open
   midpoint-review: open

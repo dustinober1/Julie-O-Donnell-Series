@@ -2,84 +2,86 @@ schema_version: 1.0.0
 threads:
   - id: THR-001
     type: character-trauma
-    setup: "the four-second ghost: Julie's unresolved trauma from the Argus Beta incident where she was overridden, the hard
-      override froze for four seconds, and she was scapegoated for the resulting civilian strike"
-    reader_knows: ""
-    characters_know: {}
+    setup: "the four-second ghost: Julie's unresolved trauma from the Argus Beta incident where she was overridden, the hard override froze for four seconds, and she was scapegoated for the resulting civilian strike"
+    reader_knows: "the reader learns the full history of the Argus Beta incident and that Julie's hard override froze for four seconds before she was scapegoated"
+    characters_know:
+      Julie: "knows the full truth of the freeze and the scapegoating"
+      Marcus: "knows Julie was scapegoated and suspects the official story"
+      Hargrove: "knows he overrode Julie and that the freeze was not her hesitation"
     status: open
-    intended_payoff: Julie must reconcile with her past failure and reclaim her professional identity — not by returning to
-      the system, but by proving her methods were right all along
+    intended_payoff: "Julie must reconcile with her past failure and reclaim her professional identity — not by returning to the system, but by proving her methods were right all along"
     last_advanced_in: null
   - id: THR-002
     type: technology-vulnerability
-    setup: "Argus architectural vulnerability: The systemic flaw in Argus Enterprise Build 4.6 that allows synthetic
-      telemetry injection — the machine can be weaponized by anyone who understands its data-pipeline logic"
-    reader_knows: ""
-    characters_know: {}
+    setup: "Argus architectural vulnerability: The systemic flaw in Argus Enterprise Build 4.6 that allows synthetic telemetry injection — the machine can be weaponized by anyone who understands its data-pipeline logic"
+    reader_knows: "the reader learns Argus Enterprise Build 4.6 can be spoofed via synthetic telemetry injection and that the too-clean feed is the tell"
+    characters_know:
+      Julie: "recognizes the injection signature"
+      Elias: "confirms the injection vector from inside the code"
+      Vance: "knows the flaw exists and chooses to suppress it"
     status: open
-    intended_payoff: The vulnerability must be fully understood and either patched or permanently neutralized, requiring
-      Julie to go deeper into the code than anyone has before
+    intended_payoff: "The vulnerability must be fully understood and either patched or permanently neutralized, requiring Julie to go deeper into the code than anyone has before"
     last_advanced_in: null
   - id: THR-003
     type: antagonist-network
-    setup: "Tariq's network: Major Tariq's international operation to destabilize regional powers through synthetic
-      telemetry injection — his ultimate objective and the full scope of his operation remain unknown"
-    reader_knows: ""
-    characters_know: {}
+    setup: "Tariq's network: Major Tariq's international operation to destabilize regional powers through synthetic telemetry injection — his ultimate objective and the full scope of his operation remain unknown"
+    reader_knows: "the reader learns Major Tariq orchestrated Payload 88 but that his full network and ultimate objective remain unknown"
+    characters_know:
+      Julie: "learns Tariq is behind Payload 88 but not his full network"
+      Marcus: "receives intelligence pointing to Tariq's involvement"
+      Tariq: "knows his own operation fully and that the injection has been detected"
     status: open
-    intended_payoff: Julie must trace Tariq's international footprint, identify his buyers and sellers, and dismantle his
-      network before he can launch a larger attack
+    intended_payoff: "Julie must trace Tariq's international footprint, identify his buyers and sellers, and dismantle his network before he can launch a larger attack"
     last_advanced_in: null
   - id: THR-004
     type: character-status
-    setup: "Julie's permanent exile: Julie's status as a permanently off-grid operative — her military and corporate records
-      are burned, she cannot return to legitimate authority, and every future crisis requires her to operate from
-      outside the system"
-    reader_knows: ""
-    characters_know: {}
+    setup: "Julie's permanent exile: Julie's status as a permanently off-grid operative — her military and corporate records are burned, she cannot return to legitimate authority, and every future crisis requires her to operate from outside the system"
+    reader_knows: "the reader witnesses Julie's exile become permanent by her own choice when she destroys her badges and accepts off-grid life"
+    characters_know:
+      Julie: "knows her exile is now chosen and permanent"
+      Marcus: "knows Julie cannot return and that helping her costs him"
     status: open
-    intended_payoff: Julie must either find a way to reclaim legitimacy (unlikely given the series engine) or accept that
-      her exile is permanent and build a sustainable off-grid network
+    intended_payoff: "Julie must either find a way to reclaim legitimacy (unlikely given the series engine) or accept that her exile is permanent and build a sustainable off-grid network"
     last_advanced_in: null
   - id: THR-005
     type: institutional-pattern
-    setup: "institutional self-protection: The pattern where the system absorbs individual villains while protecting its
-      architecture — Sterling and Apex survive by sacrificing Vance, proving the cover-up mechanism outlasts any single
-      person"
-    reader_knows: ""
-    characters_know: {}
+    setup: "institutional self-protection: The pattern where the system absorbs individual villains while protecting its architecture — Sterling and Apex survive by sacrificing Vance, proving the cover-up mechanism outlasts any single person"
+    reader_knows: "the reader sees Sterling and Apex absorb Vance's fall as rogue action to preserve the corporate architecture"
+    characters_know:
+      Julie: "recognizes the absorption pattern and knows Sterling survives"
+      Vance: "discovers he is being sacrificed only as it happens"
+      Sterling: "knows the architecture will survive and that Vance is expendable"
     status: open
-    intended_payoff: Julie must either expose the systemic mechanism itself (requiring evidence beyond any single book's
-      crisis) or accept that fighting individual battles is the only viable strategy
+    intended_payoff: "Julie must either expose the systemic mechanism itself (requiring evidence beyond any single book's crisis) or accept that fighting individual battles is the only viable strategy"
     last_advanced_in: null
   - id: THR-006
     type: relationship
-    setup: "Marcus's impossible position: Marcus Reed bridges Julie's isolated world and the institutional world she fled —
-      his loyalty is real but his institutional position creates inevitable conflict with her needs"
-    reader_knows: ""
-    characters_know: {}
+    setup: "Marcus's impossible position: Marcus Reed bridges Julie's isolated world and the institutional world she fled — his loyalty is real but his institutional position creates inevitable conflict with her needs"
+    reader_knows: "the reader sees Marcus's institutional position create real conflict with Julie's needs and that protecting her costs him internally"
+    characters_know:
+      Marcus: "knows his position is compromised by helping Julie"
+      Julie: "knows Marcus's help has a cost she cannot repay"
     status: open
-    intended_payoff: Marcus must eventually choose between protecting Julie and protecting his own position, and that choice
-      will cost him something irreversible
+    intended_payoff: "Marcus must eventually choose between protecting Julie and protecting his own position, and that choice will cost him something irreversible"
     last_advanced_in: null
   - id: THR-007
     type: character-arc
-    setup: "Elias's institutional scars: Elias Thorne understands Argus from the inside and carries guilt about not seeing
-      the vulnerability sooner — his clearance in book 1 gives him freedom but his trust in process creates friction
-      with Julie"
-    reader_knows: ""
-    characters_know: {}
+    setup: "Elias's institutional scars: Elias Thorne understands Argus from the inside and carries guilt about not seeing the vulnerability sooner — his clearance in book 1 gives him freedom but his trust in process creates friction with Julie"
+    reader_knows: "the reader sees Elias nearly destroyed by the institutional process he trusted and cleared only by Julie's intervention"
+    characters_know:
+      Elias: "learns his trust in process was nearly fatal and carries the scar"
+      Julie: "sees that Elias's institutional faith is a vulnerability"
     status: open
-    intended_payoff: Elias must either adopt Julie's skepticism or face a second institutional betrayal that costs him
-      something he cannot recover
+    intended_payoff: "Elias must either adopt Julie's skepticism or face a second institutional betrayal that costs him something he cannot recover"
     last_advanced_in: null
   - id: THR-008
     type: institutional-conspiracy
-    setup: "Hargrove's shadow: Lt. Col. Hargrove's role in the original four-second ghost cover-up connects to deeper
-      institutional rot — his actions in the past created the template for how Apex and Sterling handle failures"
-    reader_knows: ""
-    characters_know: {}
+    setup: "Hargrove's shadow: Lt. Col. Hargrove's role in the original four-second ghost cover-up connects to deeper institutional rot — his actions in the past created the template for how Apex and Sterling handle failures"
+    reader_knows: "the reader learns Hargrove overrode Julie in the original incident and that his role connects to the cover-up template — but Hargrove is not confronted directly in book 1"
+    characters_know:
+      Julie: "knows Hargrove overrode her and created the scapegoat narrative"
+      Marcus: "suspects Hargrove's role runs deeper than the official record"
+      Hargrove: "knows his own actions in the original incident"
     status: open
-    intended_payoff: Hargrove must be confronted either directly or through the evidence trail that proves his role in the
-      original cover-up, forcing the system to acknowledge what it did to Julie
+    intended_payoff: "Hargrove must be confronted either directly or through the evidence trail that proves his role in the original cover-up, forcing the system to acknowledge what it did to Julie"
     last_advanced_in: null

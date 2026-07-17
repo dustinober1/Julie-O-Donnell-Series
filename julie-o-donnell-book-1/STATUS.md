@@ -2,17 +2,17 @@
 
 ## What needs you
 
-Novel Forge is ready to continue book planning.
+Book Plan is ready for your decision.
 
 ## Recommended action
 
-Build the active book plan and remarkability contract.
+Review the book plan evidence and approve it or request changes.
 
 Run: `/novel`
 
 ## Why this stopped
 
-No human gate or integrity blocker is stopping the recommended next step.
+Novel Forge stopped because book plan requires an explicit writer approval before creative work can continue.
 
 ## Project snapshot
 
@@ -22,24 +22,24 @@ No human gate or integrity blocker is stopping the recommended next step.
 - Runtime profile: full
 - Active book: book-01
 - Stage: book-planning
-- Next gate: none
+- Next gate: book-plan-approval (pending)
 - Manuscript words: 0
-- Blocking tickets/conflicts: 0
+- Blocking tickets/conflicts: 1
 - Warnings: 1
 
 ## Blockers
 
-- none
+- Human approval required: Book Plan
 
 ## Warnings
 
-- 1 uncommitted file(s) exist.
+- This project records older Novel Forge 1.4.1; upgrade metadata to 1.4.2.
 
 ## Recent files
 
 - books/book-01/BOOK.yaml
 - PROJECT.yaml
-- series/series-bible.md
-- HANDOFF.md
-- STATUS.md
-- series/voice-experiments/index.yaml
+- series/story-threads.yaml
+- research/source-register.yaml
+- books/book-01/book-strategy.yaml
+- books/book-01/research-ledger.yaml
