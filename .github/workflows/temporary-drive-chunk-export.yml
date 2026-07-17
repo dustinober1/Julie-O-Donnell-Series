@@ -17,7 +17,7 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Build verified manuscript chunks
+      - name: Build verified manuscript export
         shell: bash
         run: |
           python - <<'PY'
@@ -44,7 +44,7 @@ jobs:
 
           combined = '\n\n---\n\n'.join(path.read_text(encoding='utf-8').rstrip() for path in source_paths) + '\n'
           paragraphs = combined.splitlines(keepends=True)
-          max_chars = 24000
+          max_chars = 8000
           chunks: list[str] = []
           current: list[str] = []
           current_chars = 0
@@ -60,10 +60,11 @@ jobs:
 
           out = Path('/tmp/drive-export')
           out.mkdir(parents=True, exist_ok=True)
+          (out / 'accepted-manuscript.txt').write_text(combined, encoding='utf-8')
           chunk_records = []
           for number, chunk in enumerate(chunks, start=1):
-              filename = f'chunk-{number:03d}.json'
-              (out / filename).write_text(json.dumps(chunk, ensure_ascii=False), encoding='utf-8')
+              filename = f'chunk-{number:03d}.txt'
+              (out / filename).write_text(chunk, encoding='utf-8')
               chunk_records.append({
                   'sequence': number,
                   'file': filename,
@@ -77,6 +78,7 @@ jobs:
               'accepted_words': actual_words,
               'accepted_file_count': len(source_paths),
               'combined_characters': len(combined),
+              'combined_sha256': hashlib.sha256(combined.encode('utf-8')).hexdigest(),
               'chunk_count': len(chunks),
               'chunks': chunk_records,
           }
@@ -87,7 +89,7 @@ jobs:
           print(json.dumps(export_manifest, indent=2))
           PY
 
-      - name: Publish chunks to temporary export branch
+      - name: Publish export to temporary branch
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
@@ -101,6 +103,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No export changes required"
           else
-            git commit -m "Generate verified Drive manuscript chunks"
+            git commit -m "Generate verified Drive manuscript export"
             git push origin drive-migration-export-20260716
           fi
