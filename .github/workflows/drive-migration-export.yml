@@ -1,9 +1,10 @@
 name: Build Drive Migration Export
 
 on:
-  push:
+  pull_request:
     branches:
-      - drive-migration-export-20260716
+      - main
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -35,7 +36,6 @@ jobs:
 
           import yaml
           from docx import Document
-          from docx.enum.text import WD_BREAK
 
           root = Path.cwd()
           export_root = root / "export"
@@ -70,32 +70,27 @@ jobs:
           if actual_words != expected_words:
               raise SystemExit(f"Word-count mismatch: expected {expected_words}, got {actual_words}")
 
-          combined_md_path = accepted_root / "Veridrift - Accepted Manuscript - Prologue through Chapter 24.md"
-          combined_md_path.write_text(combined_markdown, encoding="utf-8")
+          (accepted_root / "Veridrift - Accepted Manuscript - Prologue through Chapter 24.md").write_text(combined_markdown, encoding="utf-8")
 
           doc = Document()
           doc.add_heading("Veridrift", level=0)
           doc.add_paragraph("Julie O'Donnell Series — Book 1")
           doc.add_paragraph(f"Accepted manuscript: Prologue and Chapters 1–24 • {actual_words:,} words")
-
           for index, entry in enumerate(accepted_files):
               if index:
                   doc.add_page_break()
               text = (root / entry["path"]).read_text(encoding="utf-8")
               paragraph_lines: list[str] = []
-
               def flush_paragraph() -> None:
                   nonlocal paragraph_lines
                   if paragraph_lines:
                       doc.add_paragraph(" ".join(line.strip() for line in paragraph_lines))
                       paragraph_lines = []
-
               for raw_line in text.splitlines():
                   line = raw_line.rstrip()
                   if not line:
                       flush_paragraph()
-                      continue
-                  if line.startswith("# "):
+                  elif line.startswith("# "):
                       flush_paragraph()
                       doc.add_heading(line[2:].strip(), level=1)
                   elif line.startswith("## "):
@@ -107,37 +102,24 @@ jobs:
                   else:
                       paragraph_lines.append(line)
               flush_paragraph()
+          doc.save(accepted_root / "Veridrift - Accepted Manuscript - Prologue through Chapter 24.docx")
 
-          docx_path = accepted_root / "Veridrift - Accepted Manuscript - Prologue through Chapter 24.docx"
-          doc.save(docx_path)
-
-          essential_files = [
-              root / "PROJECT_STATE.yaml",
-              manifest_path,
-              root / "books/book-01/control/README.md",
-          ]
-          for source in essential_files:
+          for source in [root / "PROJECT_STATE.yaml", manifest_path, root / "books/book-01/control/README.md"]:
               shutil.copy2(source, control_root / source.name)
-
           for source in sorted((root / "books/book-01/control").glob("*.md")):
               shutil.copy2(source, control_root / source.name)
-
           repairs_source = root / "books/book-01/repairs"
           if repairs_source.exists():
               shutil.copytree(repairs_source, control_root / "repairs", dirs_exist_ok=True)
-
           for source in sorted((root / "series").glob("*.md")):
               shutil.copy2(source, series_root / source.name)
-
           for source in sorted((root / "docs").glob("Julie_ODonnell_Narrative_House_Style_v2*.md")):
               shutil.copy2(source, series_root / source.name)
-
           legacy_readme = root / "archive/legacy-sources/README.md"
           if legacy_readme.exists():
               shutil.copy2(legacy_readme, archive_root / legacy_readme.name)
 
-          guide = package_root / "00 START HERE - MIGRATION README.txt"
-          guide.write_text(
+          (package_root / "00 START HERE - MIGRATION README.txt").write_text(
               "Julie O'Donnell Series Drive Migration\n\n"
               "Controlling Book 1 title: Veridrift\n"
               "Accepted canon: Prologue and Chapters 1-24\n"
@@ -156,14 +138,7 @@ jobs:
                   digest = hashlib.sha256(path.read_bytes()).hexdigest()
                   checksum_lines.append(f"{digest}  {path.relative_to(package_root).as_posix()}")
           (package_root / "SHA256SUMS.txt").write_text("\n".join(checksum_lines) + "\n", encoding="utf-8")
-
-          shutil.make_archive(
-              str(export_root / "Julie-O-Donnell-Series-Drive-Migration"),
-              "zip",
-              root_dir=export_root,
-              base_dir="Julie-O-Donnell-Series",
-          )
-
+          shutil.make_archive(str(export_root / "Julie-O-Donnell-Series-Drive-Migration"), "zip", root_dir=export_root, base_dir="Julie-O-Donnell-Series")
           print(f"Export complete: {actual_words:,} accepted words across {len(source_files)} files")
           PY
 
