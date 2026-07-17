@@ -4,7 +4,7 @@ project_name: Julie O'Donnell Book 1
 project_type: open-ended-series
 active_book: book-01
 default_profile: thriller
-current_stage: drafting
+current_stage: chapter-queue
 next_gate: null
 gates:
   voice-approval: approved
