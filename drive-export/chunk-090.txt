@@ -1,0 +1,103 @@
+General Hackett remained on the authenticated military channel. Miriam Alvarez occupied the DCIS pane beside him, with Special Agent Leila Grant at a fixed terminal in the adjacent incident-control position. Ortiz stood at the locked common chest. Park kept the camera-continuity log open on a separate screen. The seven MPD packages remained where the previous receiving act had left them—sealed, offline, stationary, and separate. Legislative Secure Services still held `SSO-NS-004` closed and unused under Martin Vann, deputy authority Marisol Vega, and seal `LSS-SL-90418`. Marcus remained in guarded medical care on four liters of oxygen at ninety-two to ninety-three percent saturation. Elias remained in separate guarded medical custody. Neither man had been contacted for the production, and neither had performed a technical act.
+
+Alvarez addressed the office custodian rather than counsel. “Can your source system produce a narrow index identifying the initiating record, its creation time, apparent requestor, inherited request reference, and custody state without producing deliberative content?”
+
+The custodian looked toward counsel before answering. “Yes.”
+
+“Can it certify what it withholds?”
+
+“Yes.”
+
+Counsel intervened. “That does not waive privilege, speech-or-debate protections, classification restrictions, or the office’s objection to the premise of this inquiry.”
+
+“No one asked you to waive them,” Alvarez said. “I am asking whether a record exists and whether your custodian can identify it under the legal hold already acknowledged.”
+
+The distinction cost another four minutes. Counsel preserved objections to federal scope, source identification, and the danger of allowing a preliminary inquiry to turn an internal continuity process into an accusation against a legislative office. Alvarez preserved the fact that the office had already named Kessler’s authorization and could not make the initiating material disappear by calling its identity protected. Neither side pretended the disagreement had been resolved.
+
+At 11:31:46, the records custodian created `SO-CD-187463-02`, a source-limited derivative from the office original. She stated her name, authority, the source system, and the office clock basis. She identified the fields produced, the categories withheld, the integrity method, the derivative seal, and the fact that the original would remain under office custody and legal hold.
+
+Grant did not import the file into a composite record. She opened the derivative in its own read-only pane.
+
+OFFICE ORIGINAL: SO-NS-REQ-6540
+RECORD CLASS: NSB-EMERGENCY CONTINUITY REQUEST
+CREATED: 06:41:18 EDT — OFFICE WORKFLOW CLOCK
+APPARENT REQUESTOR: PRICE, LELAND / DIA SYSTEMS AUDIT
+INHERITED REQUEST REFERENCE: DIA-SAR-PRICE-01
+AUTHORIZATION RECIPIENT: KESSLER, DIANE
+
+Below those fields, the derivative listed withheld narrative, protected source description, and unrelated office communications. It also listed the operational fields the office had agreed were part of the request’s routing structure: `SSO-NS-004`, `WSS-4`, Hartwell, `K17-PHASE-B`, and a source-reconstruction continuity category.
+
+No message body appeared.
+
+No human signature appeared.
+
+The derivative carried its own limitations beneath the routing fields. The office custodian had created it at 11:31:46 from a read-only records view. She had not exported attachments, names of unrelated staff, legislative deliberations, or the substantive source description. The office clock had last synchronized through its legislative-security time service at 11:00, with a documented tolerance of two seconds. That tolerance could matter to a close sequence. It could not explain a request created hours after an authority ended.
+
+Kessler’s authorization record remained a separate original. It showed that SO-NS-REQ-6540 had been presented to her as an accepted continuity request and that she had authorized the custody exception at 06:54:00. It did not show her building the request, selecting Price’s identity, or knowing why the operational fields had been added. Drennan’s assignment remained downstream of that decision.
+
+The office had produced a source label.
+
+It had not produced the source.
+
+Leland Price’s name did.
+
+Hackett leaned toward his camera. “Price initiated the source challenge that started this. His access was suspended before Reed brought O’Donnell into the review. We need him secured and interviewed now.”
+
+Julie had never met Price. She knew him through three facts Marcus had given her on the farm and one suspended extension inside Apex: DIA systems auditor, raw-feed request, access review, unavailable. His name fit the empty space too easily.
+
+“Secured for what?” she asked.
+
+Hackett’s mouth tightened. “For an authenticated account of what he submitted.”
+
+“That isn’t what you said.”
+
+“It is what I am saying now.”
+
+“Then we need his original before we decide he is the answer.”
+
+Office counsel said, “The accepted requestor field is part of the contemporaneous office record.”
+
+“So was Elias Thorne’s name on the original deployment,” Julie said. “His physical token did not sign it.”
+
+The room went quiet enough for the ventilation above the chest to become audible.
+
+Grant looked at the office pane. “Does SO-NS-REQ-6540 contain a local signing event, external credential challenge, source-system release, or witness act authenticated to Price?”
+
+The custodian answered with care. “The produced derivative identifies Price as the requestor and DIA-SAR-PRICE-01 as the inherited source reference. The office original contains no separate physical-signature field.”
+
+“Is the complete event range for direct external submission included in your production?”
+
+“Not yet.”
+
+“Then absence proves nothing yet,” Grant said. “We need the office event range, the DIA original, and the access-review chronology.”
+
+Counsel objected that DCIS had no authority to compel DIA personnel records through a Senate production. Alvarez agreed. The office could not supply a DIA original it did not own. She issued a separate preservation and production request through DIA’s administrative-review counsel, limited to Price’s original source-review submission, its repository receipt, his active-authority end state, and the event classes required to authenticate or exclude a later Price act.
+
+Julie’s right hand had begun to pulse beneath the brace. Park noticed her fingers darkening where they rested below heart level and asked whether she needed the restraint repositioned. Julie said yes before the question could become a medical stop. Ortiz adjusted the front fixture under Park’s camera, lifting the padded support one notch without freeing either wrist. The relief was small and immediate.
+
+At 11:37:09, DIA acknowledged possession of two originals.
+
+DIA-SAR-PRICE-01 remained in the systems-audit repository.
+
+DIA-AR-PRICE-01 remained in the administrative-review system.
+
+Leland Price was alive. He was not in criminal detention. He remained a DIA employee in a restricted administrative status, with classified access suspended, his extension disabled, and counsel present. He had not agreed to a general interview. He would consider authenticating a bounded factual record if DCIS identified what it intended to ask and what it would not disclose to him.
+
+Hackett read the acknowledgment. “Put him on this channel.”
+
+“No,” Julie said.
+
+“He may be the only person who can tell us who sent the request.”
+
+“He can tell us what he sent.”
+
+“That is where we begin.”
+
+“That is where we stop unless the record gives him more.”
+
+Alvarez watched Julie for a moment, then addressed DIA counsel. “Separate setting. His counsel, your records custodian, and one DCIS interviewer. No MPD package facts. No WSS plaintext. No Hartwell material beyond the existence of a later request using his reference. No theory naming Sterling, Vance, Tariq, or another actor.”
+
+The office derivative remained open on Grant’s screen.
+
+Price’s name had become the apparent answer.
+

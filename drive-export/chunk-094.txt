@@ -1,0 +1,102 @@
+The Argus custodian’s window activated. A woman identified only by duty title—Government Product Registry Custodian—read the scope she could support. The registry held the prior actionable product, the failed-local-authentication receipt received from K-17, the remote reconstruction object, the release acceptance, and the superseding product delivered to allied systems. It did not hold Apex’s human operator record. It did not hold office deliberations. It did not identify who touched a field device in Kashmir.
+
+Apex counsel attempted to return to the summary.
+
+Alvarez stopped him. “Preserve your objection. The release original remains where it is. No reassignment, consolidation, replacement, retention-policy action, access-role change, or derived narrative may alter the source event range.”
+
+The counsel line went silent long enough for Julie to hear the muted television above the outer intake desk. Sterling’s image had returned beneath the same banner. The captions described an expanding insider attack and the recovery of threatened defense material.
+
+Ortiz read the chest state into the fixed camera.
+
+“`MPD-901441` through `MPD-901447`: sealed, separate, offline, stationary. Common chest locked. No movement.”
+
+Park confirmed it.
+
+Nothing in front of Julie could supply the answer. That was the point. The answer had to come from people who still controlled the originals and were willing to put their names beside the limits.
+
+At 12:25:40, Grant opened the construction track.
+
+12:25:40 EDT / 21:55:40 IST
+
+The continuity broker’s original remained inside a Legislative Secure Services system that had carried the office exception without owning the office’s reasons for using it.
+
+Marisol Vega appeared through an authenticated LSS source window. Her camera showed only her face, a fixed wall clock, and the top edge of a sealed records console. She identified the original before exposing any event.
+
+“Source original `SO-CB-6540-01`. Legislative Secure Services continuity-broker journal for office request object `SO-NS-REQ-6540`. Current custodian: LSS compromise-control records under my deputy authority. Authorized event range begins with receipt of the inherited request reference and ends with delivery of the routed request object. The range is complete for broker processing. It does not include office deliberations before receipt or actions after delivery.”
+
+Grant had Vega state the clock basis, the read-only production method, the camera references, and the fields withheld. Internal office text, privileged communications, unrelated request traffic, and identities outside the mapped roles remained sealed. The derivative would preserve event order, field inheritance, authority bindings, request destinations, and the broker’s own proof limit.
+
+Vega advanced the original one event at a time.
+
+The broker received Price’s authentic request reference after his active authority had ended. It inherited his name, role identifier, request number, and the raw-source/source-integrity subject line. The next event invoked a continuity map registered as `APX-ICF-4`.
+
+The map did not carry a person’s name.
+
+It carried rules.
+
+`SOURCE IDENTITY: INHERIT`
+
+`SUBJECT REFERENCE: INHERIT`
+
+`OPERATIONAL ROUTING: MAP FROM AUTHORITY OBJECT`
+
+`AUTHORITY-BINDING FAMILY: APX-EXEC-CONTINUITY`
+
+The broker then added fields absent from Price’s original: WSS-4, Hartwell, K-17, Phase B, emergency routing, and an Argus reconstruction destination. The resulting object retained Price’s request reference while becoming something Price had never asked for.
+
+Hackett said, “Who invoked the map?”
+
+Vega exposed the next field.
+
+`CONSTRUCTOR SERVICE: LSS CONTINUITY BROKER`
+
+`CALLING HUMAN IDENTITY: NOT RECORDED IN BROKER JOURNAL`
+
+Office counsel entered immediately. “The service performed an automated continuity function. No evidence establishes improper human intervention.”
+
+“No evidence in this source identifies the human caller,” Grant corrected. “That is not the same conclusion.”
+
+The complete broker range contained no PIV event, biometric, live operator state, office workstation identity, or witness field capable of naming the person who invoked the workflow. Absence mattered because the range was complete for broker processing. It did not turn the service into the author.
+
+Vega generated `SO-CD-187463-03`. The derivative named `SO-CB-6540-01`, LSS as current custodian, the complete event range, the LSS clock basis, every inherited and added field, the `APX-ICF-4` mapping reference, the authority-binding family, produced and withheld fields, the read-only extraction method, and the new derivative seal.
+
+Its first-page limit was blunt.
+
+`CONTINUITY BROKER IDENTIFIES CONSTRUCTION MECHANISM. HUMAN CONSTRUCTOR NOT RECORDED.`
+
+The original did not move. Vega kept the broker journal inside LSS compromise control, and the derivative crossed only after its event count, first identifier, last identifier, and source seal matched the source console. Office counsel’s privilege objection traveled with it. So did the statement that the withheld deliberative fields might contain an instruction the broker itself could not record. The production preserved both the usable mechanism and the possibility that a different lawful process might later reach the human request behind it.
+
+Julie watched Grant place it beside Price’s DIA original and the Chapter 21 comparison. The clean request and the later object now met at a mechanism rather than a person.
+
+Apex’s identity production came next.
+
+Sarah Chen appeared only as source certifier at this stage, framed by a fixed camera in Building Three. She identified the Apex original as `APX-B3-IDM-0214`, an identity-mapping and workstation-mirror journal associated with the Elias-attributed 02:14 deployment. The original remained inside the Building Three preserved-record domain under the active federal hold. Chen stated that the source range covered mirror creation, identity binding, bridge presentation, and closure. It did not include an authenticated human operator event because the original recorded none.
+
+The derivative `APX-CD-187463-02` exposed the mapping family.
+
+`IDENTITY-CONSTRUCTION FAMILY: APX-ICF-4`
+
+`AUTHORITY-BINDING FAMILY: APX-EXEC-CONTINUITY`
+
+`BRIDGE AUTHORITY: APX-DIR-0019`
+
+`EMPLOYEE IDENTITY PRESENTED: THORNE, ELIAS M.`
+
+`PHYSICAL TOKEN SIGNING EVENT: ABSENT IN COMPLETE RANGE`
+
+Chen’s production declaration fixed the Apex operations clock, first and last mirror events, original journal seal, and read-only extraction method. Unrelated employee identities, proprietary mapping libraries outside `APX-ICF-4`, and later voluntary Elias activity remained withheld or separately controlled. The original stayed write-disabled inside the Building Three preserved-record domain. The derivative seal established what Apex had produced; it did not turn an absent operator field into proof that no person had initiated the mirror somewhere upstream.
+
+The same family had assembled Price’s borrowed request and Elias’s framed workstation identity. It had inherited one person’s request reference and another person’s deployment identity. `APX-DIR-0019` appeared at the authority-binding layer in both paths.
+
+Hackett looked at the two derivatives. “Same construction family. Same executive binding.”
+
+“Same mechanism,” Julie said.
+
+“How many coincidences do you require before you call it one operator?”
+
+“One operator event.”
+
+The sentence held because no one could safely replace it with inference.
+
+Grant brought the K-17 acknowledgment into the comparison without moving the Indian originals. The local maintenance commit had failed. Final authentication had not completed. Local writes remained zero. A later remote reconstruction had nevertheless created a superseding actionable product.
+

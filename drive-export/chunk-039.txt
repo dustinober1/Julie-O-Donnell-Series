@@ -1,0 +1,203 @@
+Rainwater shone across the road in long black bands. Each time the tires crossed one, the steering wheel tugged against her injured wrist. She kept her left hand high on the rim and used her right forearm only when the van tried to wander toward the shoulder.
+
+The fleet screen had gone dark except for the fault message Elias had created by pulling the telematics connector.
+
+FLEET COMMUNICATIONS FAULT
+VEHICLE PCF-27
+
+The failure changed nothing about the white paint, the Potomac Critical Facilities markings, or the temporary Apex placard still fixed inside the windshield.
+
+Behind them, the service radio continued in a voice built to make alarm sound routine.
+
+“Primary subject Julie M. O’Donnell. Former Army intelligence officer. Considered armed. Suspected deliberate sabotage of national-security infrastructure and theft of classified material. Associated vehicle is a white Potomac Critical Facilities maintenance van, fleet identifier PCF-two-seven—”
+
+Elias sat sideways in the cargo opening behind the seats. The dead transponder module lay in his left palm. His other hand pressed the signed recovery cartridge and the administrator-token circuit board against his chest beneath the open edge of his coveralls.
+
+The radio gave Marcus’s name next.
+
+Armed accomplice.
+
+Then Elias’s.
+
+Possible hostage.
+
+He looked down at the dead module as if it had made the accusation.
+
+Marcus watched the side mirror. Blood had dried from the cut above his right ear into the collar of his coveralls. He sat turned toward the window because facing forward forced his bruised ribs against the seat belt. His damaged boot rested flat and useless on the floor.
+
+“Security vehicle is through,” he said.
+
+Julie checked the rearview mirror.
+
+A pair of headlights had cleared the last rise behind them. Too high for a sedan. No visible emergency lights, but the spacing and speed matched the dark Apex unit that had been trapped at the broken gate.
+
+“How far?”
+
+“Two intersections. Maybe less if the light changes for them.”
+
+Julie held forty-five miles an hour.
+
+Marcus looked at her. “That’s the right speed.”
+
+“I know.”
+
+“A chase gives every camera a reason to remember us.”
+
+“I know that too.”
+
+The next traffic signal changed to yellow while they were still a hundred yards away. Julie let the van slow.
+
+Elias leaned forward. “You’re stopping?”
+
+“The plate is already known,” she said. “Running a red adds witnesses.”
+
+The van stopped beneath a wet signal arm. A camera housing faced the intersection from the opposite mast. Julie could not tell whether it was recording traffic flow, reading plates, or doing nothing.
+
+She assumed the first two.
+
+Marcus studied the cross street. “Left when it changes.”
+
+“Where?”
+
+“Old technical-support cutout. Fairfax County.”
+
+“Active?”
+
+“No.”
+
+“Erased?”
+
+“No.”
+
+Julie watched the signal remain red. “Connected to you?”
+
+“I used it twice. Eight years ago. The active inventory number was retired when the lease program consolidated.”
+
+“Archived records?”
+
+“Almost certainly.”
+
+“So it buys time.”
+
+“That’s all it ever did.”
+
+The headlights behind them appeared at the far intersection.
+
+Their light turned green.
+
+Julie went left.
+
+The road narrowed between data-center compounds and unfinished office buildings. Ahead, three white contractor vans pulled out of a fenced construction site together, followed by a flatbed carrying cable spools.
+
+Marcus pointed. “Stay behind the flatbed.”
+
+Julie let the early-shift traffic gather around them until PCF-27 became one white work van among several.
+
+“Placard,” she said.
+
+Elias set the transponder beside the aluminum case. He reached for the windshield with his left hand, missed the edge of the temporary Apex pass, and tried again. The adhesive resisted. The placard tore diagonally, leaving a clear corner stuck to the glass.
+
+“Good enough?”
+
+“No.”
+
+Marcus leaned across the console. The movement stopped his breathing for a second. He caught the remaining corner, peeled it free, and dropped both pieces beneath the seat.
+
+“Now it’s a known van without an Apex placard,” he said.
+
+The radio crackled.
+
+“All county units, lookout request expanding from private security incident. Vehicle last observed departing south service perimeter. Do not approach without coordination. Classified material may be present.”
+
+No sirens followed.
+
+That made the response more dangerous. Patrol cars, traffic systems, and ordinary people could begin looking without warning them that the search had reached the next road.
+
+The flatbed turned toward the parkway. Marcus directed Julie onto a service road beneath the transmission lines, behind a water-pumping station and a row of warehouse units whose loading docks faced away from the main road.
+
+“Camera coverage?” Julie asked.
+
+“Private. Uneven. I haven’t been here in years.”
+
+“So assume all of it.”
+
+“Yes.”
+
+The Apex vehicle did not appear at the turn. Julie did not treat the empty mirror as success. The driver could have stayed on the parkway, moved ahead, or lost them in the contractor traffic and begun feeding the plate to systems they could not see.
+
+Marcus gave directions in short pieces. Right at the dead warehouse sign. Left beyond the electrical substation. Straight through a light-industrial park where the streetlights still burned against the wet dark.
+
+At 05:31, a local news bulletin interrupted the fire traffic.
+
+Apex Building Three had experienced what the announcer called a verified fire and a classified security event. One former Army officer and two male associates were being sought. The public was instructed not to interfere. Julie’s age and description came before her name.
+
+Elias listened until the announcer repeated that he might be held against his will.
+
+“Turn it off.”
+
+Marcus’s hand moved toward the control, then stopped. “We need it.”
+
+“They’re talking about me.”
+
+“They’re also telling us what response is forming.”
+
+Elias looked at Julie’s profile. “You don’t care what they call me as long as the radio is useful.”
+
+Julie kept her eyes on the road. “I care. I also need to know where the roadblocks will be.”
+
+“There aren’t any yet.”
+
+“Not yet.”
+
+The service road ended at a broad commercial street. Julie waited behind a sanitation truck while cross traffic moved through the intersection. A marked county cruiser passed two lanes away without lights or siren.
+
+No one in the van moved.
+
+The cruiser continued north.
+
+Marcus watched it disappear. “Could have read us. Could have been looking somewhere else.”
+
+“Useful distinction,” Elias said.
+
+“It will be in five minutes.”
+
+Julie followed the sanitation truck through the light, then turned into an older industrial row with low brick fronts and steel service bays facing an alley. Marcus pointed toward a narrow driveway between two buildings.
+
+“Second bay from the end.”
+
+The door was a corrugated roll-up panel painted the same gray as the wall. No government marking remained. A small lockbox sat behind a rain hood beside the frame.
+
+Julie stopped short of the driveway. “Can you open it?”
+
+“If the code hasn’t changed.”
+
+“And if it has?”
+
+“We keep moving.”
+
+The radio repeated the registration.
+
+Julie turned in.
+
+Marcus got out slowly. His right leg nearly folded when the damaged heel touched pavement. He caught the mirror housing, waited, then limped to the lockbox. Rain darkened the blood already dried into his collar.
+
+He entered five numbers.
+
+Nothing happened.
+
+Julie watched the alley entrance in the mirror.
+
+Marcus cleared the keypad and entered six.
+
+The lockbox opened.
+
+Inside hung a brass key attached to an unlabeled steel tag. He unlocked the pedestrian door beside the bay, disappeared inside, and returned pulling a manual chain. The roll-up door rose with a dry rattle loud enough to carry down the block.
+
+Julie drove the van into darkness.
+
+Marcus lowered the door by hand.
+
+The final strip of pre-dawn light disappeared across the concrete floor.
+
+PCF-27 was out of public view.
+

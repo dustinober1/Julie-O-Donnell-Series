@@ -1,0 +1,224 @@
+MINIMUM PERSONNEL APERTURE IN 3
+
+“Elias,” Julie said.
+
+He stared through the widening seam at the white light beyond it.
+
+“Two,” she said.
+
+His injured leg nearly failed when he shifted his weight.
+
+“One. Go.”
+
+The panel chimed.
+
+MINIMUM PERSONNEL APERTURE
+
+The token slot clicked and released the circuit board. Elias caught it against the panel with one shaking hand, then closed his fingers around it.
+
+He turned sideways and entered between the moving slabs. His shoulder struck the right leaf. He twisted through, dragging his left leg after him, and fell against the inner wall.
+
+“Case.”
+
+Julie lifted the aluminum case edge-first. Her right hand could not take the weight. She shoved it through with her left forearm.
+
+Elias caught the handle badly. The case hit the floor inside with a hard metallic knock.
+
+The capture display stayed green.
+
+LOCAL MEDIA INTACT
+
+Julie followed it through. The gate’s steel edge passed inches from her back as the leaves continued opening. Inside, she seized the case with her left hand and turned.
+
+Marcus remained outside.
+
+Mercer’s team surged together.
+
+Two operators stepped over the shield while Mercer drove Marcus against the jamb. A forearm locked across Marcus’s upper chest. The electroshock weapon had no cartridge now, but the operator used its body as a striking tool and hammered it into Marcus’s right thigh where the baton had already landed.
+
+Marcus’s leg gave way.
+
+“Marcus.”
+
+“I’m moving.”
+
+He was not.
+
+The gate aperture reached six hundred millimeters. Wide enough for one unarmored person at a time. Not wide enough for two men fighting at the threshold.
+
+Julie set the case beyond the yellow line and went back.
+
+She caught Marcus’s right wrist with both hands.
+
+Pain shot through her own wrist so sharply that her grip weakened. She changed position, locking his forearm against hers instead of relying on her hand.
+
+“Elias.”
+
+He pushed off the wall and grabbed the back of Marcus’s coveralls.
+
+Mercer held the other side.
+
+Marcus became the line between them for one violent second.
+
+The electroshock operator reached for Julie across his shoulder.
+
+Marcus drove his head backward into Mercer’s face. It was not a clean strike. The back of his skull glanced off Mercer’s cheek and split Marcus’s own scalp against the helmet rim, but Mercer’s grip loosened.
+
+Julie and Elias pulled.
+
+Marcus’s torn heel caught on the threshold.
+
+The sole peeled away with a ripping sound. His foot came free of the boot opening just far enough to clear the optical line, leaving the damaged boot hanging half off.
+
+All three fell inside.
+
+Julie rolled to the green paddle and struck it with the heel of her hand.
+
+ENTRY CYCLE REVERSING
+
+The motors changed pitch.
+
+The steel slabs stopped, held, then began closing toward the center.
+
+Mercer reached through the narrowing gap for Marcus’s coveralls. The optical line caught his arm and the motors paused. Marcus caught the wrist, turned it outward, and shoved it back into the corridor. The leaves resumed closing as soon as the threshold cleared.
+
+The team did not fire. They did not throw a body into the hinge arc. Mercer pulled clear and ordered them off the threshold before the safety system could hold the gate open.
+
+The white corridor became a narrowing vertical strip filled with weapon lights and dark armor.
+
+Sarah Chen’s voice came through Mercer’s radio.
+
+“Do not damage the gate. Begin local override when it seals.”
+
+Then the slabs met.
+
+The seam vanished.
+
+Locking bolts drove home in sequence. One. Two. Three. The impacts traveled through the floor until the sixth bolt seated and the motors went quiet.
+
+GATE SECURED
+ EMERGENCY ENTRY COMPLETE
+
+The enclave held still for half a second.
+
+Then Marcus rolled onto his back and drew one careful breath. Blood darkened the hair above his right ear. His boot hung open at the heel. One hand remained clamped over his ribs, and the muscle in his struck thigh jumped beneath the coveralls.
+
+“Conscious?” Julie asked.
+
+“Unfortunately.”
+
+Elias sat against the wall with one leg extended. He looked at the circuit board clenched in one hand.
+
+A local display above it showed:
+
+EMERGENCY ACCESS RECORDED
+ ADMINISTRATOR: THORNE, ELIAS M.
+ AUDIT SEAL: COMMITTED
+
+His name remained on the screen after every other status line cleared.
+
+Metal struck the outside of the gate.
+
+Once. Pause. Twice.
+
+The override pattern had begun again.
+
+Julie picked up the aluminum case.
+
+Only then did she look beyond the entry chamber.
+
+The production enclave was smaller than the machinery around it had suggested. A compact room extended thirty feet beyond the gate, lit by narrow white strips at floor level. Hardened cabinets occupied two walls. Fiber trunks and cooling lines disappeared beneath a raised service deck. There were no logos, no windows, and no wireless access points. Cold filtered air moved with barely any sound.
+
+Two local terminals stood beneath an independent clock.
+
+04:58:11
+
+The machines had continued working through the pursuit, the quarantine, and the fight outside their door.
+
+The recovery console awakened as the authenticated gate session registered inside the enclave.
+
+EMERGENCY PROVENANCE RECOVERY
+ PRESENT DISPUTED OPERATIONAL SOURCE
+
+Julie held the case but did not open it.
+
+A second display came alive above the console.
+
+ARGUS STRATEGIC RELEASE
+ ASSESSMENT STATE: VALIDATED
+ FINALIZATION ACTIVE
+ EXTERNAL COMMIT QUEUE: ARMED
+
+The last line populated a moment later.
+
+TIME TO EXTERNAL COMMIT: 01:37
+
+Marcus pushed himself onto one elbow. Elias stared at the number as if the panel had made an arithmetic error.
+
+Outside, the override tool struck the gate a third time.
+
+Onscreen, 01:37 became 01:36.
+
+The gate had cost them three minutes. Argus had used every one.
+
+---
+
+# Chapter 8 - The 05:00 Abort
+
+Apex Building Three
+Reston, Virginia
+04:58 Eastern Daylight Time
+
+Julie set the aluminum case beneath the recovery console and turned it so the cable bay faced the wall.
+
+The movement required both hands. Her right wrist failed halfway through, sending a hot line of pain into her thumb, and the case dropped the final inch onto the raised floor.
+
+“Elias. Port.”
+
+He pushed himself upright against the wall. His left leg resisted when he tried to put weight on it, and he crossed the short distance with one hand sliding along a cabinet. The thin circuit board remained clenched in the other.
+
+Marcus rolled onto his side near the gate.
+
+Julie looked at him once. Blood had reached the collar behind his right ear. His damaged boot sat crooked on his foot, the peeled heel opening and closing when he moved. He drew each breath around the ribs instead of through them.
+
+“Stay down,” she said.
+
+“I can watch a door from the floor.”
+
+“Then watch it.”
+
+Another metallic impact struck the outer face of the gate. The sound carried through the six locking bolts and into the deck beneath Julie’s knees.
+
+A narrow status strip beside the interior cycle control changed from green to amber.
+
+LOCAL OVERRIDE DETECTED
+ LOCK ARRAY PRESSURE TEST
+
+Marcus read it. “They’ve started on the bolts.”
+
+Above the recovery console, the release clock continued.
+
+01:31.
+
+Elias reached the terminal and stared across its blank lower panel.
+
+“It should have a forensic input behind the service cover.”
+
+“Should?”
+
+“The console was commissioned after my team’s last recovery exercise.” He pressed beneath the left edge, then the right. Nothing opened. “They changed the housing.”
+
+Julie swept her fingers along the seam. No latch. No fastener. The metal face was interrupted only by a recessed symbol showing two opposing arrows around a sealed square.
+
+“Incident media,” she said.
+
+Elias leaned closer. “Press and hold.”
+
+She used her left thumb.
+
+A section of the panel withdrew and slid sideways. Inside were two shielded receptacles: one shaped for an evidence-device connector, the other a narrow copper-edge slot like the gate panel outside.
+
+The console updated.
+
+FORENSIC INCIDENT INPUT AVAILABLE
+ MEDIA WILL MOUNT IN PROTECTED MODE

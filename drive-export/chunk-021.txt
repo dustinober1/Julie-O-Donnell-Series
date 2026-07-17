@@ -1,0 +1,346 @@
+“Subtle,” Marcus said.
+
+“Faster.”
+
+They turned right.
+
+A steel fire door began descending from the ceiling at the far end of the corridor.
+
+Marcus ran.
+
+Julie followed.
+
+The gap beneath the door narrowed to four feet.
+
+Three.
+
+Marcus slid the tool bag through, dropped to one knee, and rolled beneath the descending barrier. Julie went after him, flattening herself against the floor as the steel panel passed inches above her back.
+
+She cleared the opening.
+
+The door struck the floor behind them.
+
+A containment alarm sounded on the other side.
+
+Marcus helped her up.
+
+“They know exactly where we are.”
+
+“They know where two unidentified people crossed a sensor.”
+
+“They have our faces.”
+
+“Then stop worrying about the disguise.”
+
+Julie removed the hard hat and left it on the floor.
+
+Marcus pulled off his own and tossed it beside hers.
+
+The route to Compliance Four ended at a reinforced glass vestibule.
+
+Through it, Julie could see a white corridor and three holding-room doors. A security desk stood empty near the entrance.
+
+No Elias.
+
+She approached the glass.
+
+The vestibule door required a badge and fingerprint.
+
+Marcus checked the adjacent wall.
+
+“Manual release?”
+
+“Inside the desk.”
+
+“How do we reach it?”
+
+“We don’t.”
+
+A voice came from the ceiling speaker.
+
+“Ms. O’Donnell.”
+
+Arthur Vance.
+
+Julie looked up.
+
+His voice remained calm, amplified just enough to fill the corridor without echo.
+
+“You have created an unfortunate amount of risk for a conclusion you do not understand.”
+
+Marcus stepped beneath the speaker.
+
+“Open the door.”
+
+“Colonel Reed, your commanding office has been notified that you removed classified material from an accredited facility following suspension of your authority. Army Criminal Investigation Division has been asked to locate you.”
+
+“Then let them take custody.”
+
+“They will.”
+
+“Open the building and call them.”
+
+“We entered through an unsecured county drainage system.”
+
+“Thank you for clarifying the vulnerability.”
+
+Julie examined the glass.
+
+Vance wanted them talking.
+
+Every minute moved the counter-battery support package closer to external commit.
+
+“Where is Elias?” she asked.
+
+“Mr. Thorne is cooperating with an internal security investigation.”
+
+“He sent a maintenance signal from Compliance Four.”
+
+A pause.
+
+Vance had not known.
+
+“Mr. Thorne is not available to you.”
+
+“Because he can identify the deployment record?”
+
+“Because he is the employee whose credentials placed malicious code inside an operational defense system.”
+
+“You replayed his credentials through APX-DIR-0019.”
+
+The speaker remained silent.
+
+Julie continued.
+
+“We have the administrative-service reference.”
+
+“You have a partial, unauthorized data capture from a quarantined review environment.”
+
+“We have enough to make you explain it.”
+
+“To whom?”
+
+The question was not theatrical.
+
+It was practical.
+
+Marcus’s credentials were dead. Price had disappeared into an administrative investigation. Julie had no official status. The evidence drive had been created inside Apex’s environment and could be attacked as incomplete or corrupted.
+
+Vance did not need the truth to disappear.
+
+He needed it to arrive without authority.
+
+“Open the door,” Julie said.
+
+“Leave the evidence case in the corridor and proceed to the nearest security station. I will arrange for you and Colonel Reed to be transferred to federal custody.”
+
+“Which federal agency?”
+
+“The appropriate one.”
+
+“Name it.”
+
+Vance did not.
+
+Marcus looked down the corridor behind them.
+
+“They’re coming.”
+
+Footsteps echoed beyond the closed fire barrier.
+
+Julie approached the vestibule control panel.
+
+A maintenance warning pulsed in the lower corner of its display.
+
+COMPRESSOR 04 DIAGNOSTIC FAILURE.
+
+Elias’s signal had reached this terminal too.
+
+Julie opened the fault details.
+
+The error sequence repeated:
+
+0088 / COMP-04 / CORE-01
+
+At the bottom of the screen was an acknowledgment button.
+
+She pressed it.
+
+The system requested facilities authentication.
+
+Julie entered the device number from the county plan.
+
+Rejected.
+
+She tried the pump-room node.
+
+Rejected.
+
+The footsteps grew louder.
+
+Marcus opened the tool bag.
+
+“What do you need?”
+
+“A valid maintenance acknowledgment.”
+
+“You have one?”
+
+“No.”
+
+A soft tapping came from the nearest holding room.
+
+Three taps.
+
+Pause.
+
+Three taps.
+
+Pause.
+
+Julie turned toward the glass.
+
+The tapping came again.
+
+Three.
+
+Three.
+
+Three.
+
+Then eight.
+
+Elias.
+
+She moved to the glass wall.
+
+“Elias!”
+
+A pale face appeared in the narrow observation panel of the first door. His hair was disordered, his shirt wrinkled. He held his Apex badge against the window.
+
+“I can open the vestibule,” he called through the glass. “But it’ll trigger the full quarantine.”
+
+“Do it.”
+
+“I need ten seconds.”
+
+The security team reached the far side of the fire barrier.
+
+Metal struck metal as they engaged the manual lift.
+
+Marcus moved behind the edge of the corridor, positioning himself where the opening barrier would not expose him immediately.
+
+“Julie.”
+
+“I know.”
+
+Inside the holding room, Elias removed the badge casing and pulled out a thin circuit board. He crossed to the thermostat.
+
+Julie could not see what he did next.
+
+The vestibule control panel flickered.
+
+FACILITIES BUS ERROR.
+
+Then:
+
+LOCAL LIFE-SAFETY OVERRIDE.
+
+The glass door unlocked.
+
+Julie pulled it open.
+
+Marcus followed her inside.
+
+The door sealed behind them just as the outer fire barrier began rising.
+
+Elias’s holding-room door clicked.
+
+He shoved it open.
+
+For one second, the three of them stared at one another.
+
+Elias recovered first.
+
+“You have the drive?”
+
+Marcus lifted the aluminum case.
+
+“You have the deployment log?” Julie asked.
+
+Elias held up the circuit board.
+
+“Most of it.”
+
+“Did Vance deploy Payload Eighty-Eight?”
+
+“The service account did. APX-DIR-0019. The owner field is restricted, but only director-level authority can invoke it.”
+
+“Can you stop the support commit?”
+
+“Not from here.”
+
+“You built the package.”
+
+“I built a test scenario. Vance stripped the safety controls and pushed it through my workstation identity.”
+
+“Can you revoke it?”
+
+“My token is blacklisted.”
+
+“You sent us to Core One.”
+
+Elias looked toward the ceiling speaker.
+
+“We need to move.”
+
+The outer security barrier continued rising.
+
+Boots appeared beneath it.
+
+Marcus opened the aluminum case.
+
+“The evidence capture includes the live packet samples and the Package Eighty-Eight index. Julie says your original deployment data can establish the bridge.”
+
+“It can establish that my workstation didn’t create it. But stopping the feed is a separate problem.”
+
+“What problem?” Marcus asked.
+
+“Argus has already propagated the assessment into the allied channel. Deleting Payload Eighty-Eight now won’t retract the certified source product. The system will treat the missing source as a collection failure, preserve the last validated conclusion, and release the counter-battery support package at zero-five-hundred.”
+
+Julie understood.
+
+“The lie has become a cached truth.”
+
+“Yes.”
+
+“How do we invalidate it?”
+
+“We force a source-integrity review from the production root.”
+
+“Remote access?”
+
+“Disabled after the first anomaly.”
+
+“Then the core.”
+
+Elias nodded.
+
+“The production enclave has an isolated recovery console. We load your captured packet, restore the synthetic headers from my copy, and make Argus compare its operational source against the original validation package.”
+
+“What happens if it recognizes the match?” Marcus asked.
+
+“It drops the confidence score and places every downstream assessment on mandatory human review.”
+
+“Will it recall the certified packet?”
+
+“No. But if we do it before the support commit, the provenance failure enters the same channel, suspends the executable product, and forces mandatory human review.”
+
+Julie checked her watch.
+
+04:47.
+
+Thirteen minutes.
+
+“And if we don’t?” she asked.
+

@@ -1,0 +1,175 @@
+ WINDOW: 07:08 EASTERN DAYLIGHT TIME
+ PROFILE: K17-PHASE-B
+ AUTHENTICATION: HARDWARE SIGNER PRESENTATION REQUIRED
+ BUFFER RETENTION: TRANSIENT
+
+The wall clock showed 06:17:46.
+
+Marcus leaned closer. “Phase B means they’re inside.”
+
+“No,” Elias said at once. “It means whoever built the schedule expected a later phase. This could be a status burst, a completion report, a second Argus manipulation, a relay-log rewrite authorization, or a handoff after physical access. The metadata does not say whether access happened.”
+
+“Does it identify the sender?” Julie asked.
+
+“Only the Northbridge suite as one endpoint. The other side is abstracted behind the task profile.”
+
+“Message content?”
+
+“Not present.”
+
+“Current team position?”
+
+“Not present.”
+
+Julie wrote the time in the paper log.
+
+07:08 EDT.
+
+A later operational exchange connected to K-17, scheduled through Northbridge.
+
+The live exchange had not happened yet.
+
+“What survives when it does?” Marcus asked.
+
+Elias opened the trust policy attached to the schedule. “Very little. The suite creates an encrypted communications buffer when the hardware signer presents. It holds headers, routing receipts, ciphertext, and the signing chain long enough for both sides to acknowledge. Then the buffer purges.”
+
+“How long?”
+
+“Ninety seconds under the standard profile. Maybe less if it closes cleanly.”
+
+Julie pointed at the current certificate fingerprint. “We have a Northbridge endpoint certificate.”
+
+“We have the suite certificate and a fingerprint for the external signer. Not the signer’s full certificate.”
+
+“Why not?”
+
+“The full chain is presented live by the hardware device. Northbridge stores the trust fingerprint so it knows what to accept, but the certificate itself may travel with a portable communications unit used by whoever authorizes the session.”
+
+Marcus said, “Sterling.”
+
+Julie shook her head. “Unknown custodian.”
+
+“He is tied to Northbridge.”
+
+“So are former officials, contractors, and staff. We do not put his name on the device because we want it there.”
+
+Elias enlarged the policy fields. “Capturing ciphertext alone will not be enough. Northbridge can say the buffer was fabricated or that the suite received an unrelated encrypted package. We need the live headers, routing state, hardware signature, and full signing certificate as they appear in the same session.”
+
+“And if the message identifies K-17?” Marcus asked.
+
+“Then the link becomes much harder to explain away,” Julie said. “If it contains upstream direction from Sterling’s network, we may have more. We cannot assume it will.”
+
+Elias looked at the wall clock.
+
+“Fifty minutes.”
+
+No one said what reaching the live buffer would require.
+
+That belonged to the next decision, and they had not made it.
+
+At 06:20, Julie sealed the paper log’s first page with all three signatures.
+
+Elias signed left-handed because the dressing on his right index made the pen slip. Beneath his name, he added one sentence in uneven block letters.
+
+I PARTICIPATED VOLUNTARILY IN THE EMERGENCY ACCESS, RECONCILIATION, RECORD REMOVAL, AND THIS REVIEW.
+
+He looked at Julie after he finished. “That can still prosecute me.”
+
+“Yes.”
+
+He capped the pen. “Leave it.”
+
+Marcus signed last.
+
+The scanner in the next room carried a new bulletin. The van’s registration had entered a regional lookout, and the subject alert had been relayed nationally. No confirmed recovery had been announced. No location had been attached to them yet.
+
+Yet.
+
+Julie closed the aluminum case and checked both latches. The 136 sealed files remained primary. The 47 incomplete files remained incomplete. The 311 excluded files remained absent. The ninth checksum remained unexplained beyond its role in the post-archive object. The raw K-17 observations remained sensitive and unresolved.
+
+The administrator-token board returned to Elias.
+
+The signed recovery cartridge went into a tamper bag beneath Julie’s name in the custody log.
+
+The limited duplicate remained separate in the locked storage cabinet.
+
+They had enough to accuse Arthur Vance of authorizing the Payload 88 bridge.
+
+They had enough to show a Northbridge endpoint in the operational chain and a second synchronization scheduled for 07:08.
+
+They did not have Sterling’s command, the contents of the Northbridge communications, the identity of the field team’s sponsor, or proof of what had happened at Relay K-17 since the last sensor contact.
+
+Marcus read the summary Julie had written.
+
+“We take this to an inspector general.”
+
+“The raw case exposes military collection and active sensor locations,” Julie said.
+
+“Then the cartridge.”
+
+“Classified incident record carried out of a protected facility by three people already named in a sabotage alert.”
+
+“The duplicate omits the raw telemetry.”
+
+“It also omits context Apex will demand. Vance’s certificate proves his authority. It does not prove who directed him. Northbridge’s certificate proves a legitimate contractor endpoint participated. It does not reveal the message.”
+
+Marcus looked toward the sealed garage. “An honest official can understand that.”
+
+“After detaining us, separating us, and taking every original into custody.”
+
+“That is procedure.”
+
+“Yes.” Julie met his eyes. “It does not require corruption to give Vance time. The first recipient will have an armed-insider bulletin, classified material, a damaged custody path, and three injured fugitives. Securing us will come before understanding us.”
+
+Elias pulled the blanket tighter. “And Apex will provide the explanation while we sit in separate rooms.”
+
+“A public dump?” Marcus asked.
+
+“Reveals sensors, collection methods, and troop locations. It could put people in danger and make the files look exactly like stolen material used in an attack.”
+
+“The press?”
+
+“Same problem with less secure handling.”
+
+Marcus looked at the 07:08 entry.
+
+“What we have can survive a technical examination,” Julie said. “It may not survive the first hostile explanation. The live buffer and signing chain might.”
+
+“Might.”
+
+“Yes.”
+
+The battery-backed clock advanced to 06:25.
+
+Outside the closed bay, a truck passed through the alley without slowing. Its tires hissed over wet pavement and faded toward the commercial street.
+
+Marcus listened until the sound was gone.
+
+Then he looked at Julie.
+
+“Who do we trust?”
+
+Julie looked at the sealed case, Elias’s bandaged hand, and the blood beginning to show through the edge of Marcus’s dressing.
+
+“No one yet.”
+
+---
+
+# Chapter 11 - Going Offensive
+
+Decommissioned Communications Cutout
+ Fairfax County, Virginia
+ 06:25 Eastern Daylight Time
+
+The battery-backed clock advanced to 06:25:11.
+
+No one moved.
+
+Static breathed through the analog scanner. One fluorescent tube above the equipment table flickered at an interval too irregular to count. Beyond the wall, PCF-27 remained inside the service bay with its known plate, white contractor paint, and disconnected fleet module. The van was hidden from the alley. Nothing else about it had disappeared.
+
+Marcus sat with his right leg extended beneath the table. Blood had begun to show through the lower edge of the dressing above his ear, a narrow dark line entering the gray at his temple. The cold pack around his thigh had gone soft. Cloth tape held the split heel of his boot in rough alignment, not enough to make the foot reliable. Each breath lifted only the upper part of his chest.
+
+Elias still wore the wool blanket around his shoulders. His bandaged index finger rested against the administrator-token board in his lap as if contact alone could keep him from losing it.
+
+Julie’s wrapped wrist lay against her body. The rigid plastic strip beneath the elastic had reduced the movement and taken most of the use of her right hand with it. The aluminum case stood closed at the end of the table. The tamper-bagged recovery cartridge and the paper custody log lay beside it in the order she had recorded them. The limited derivative remained sealed inside the locked storage cabinet.
+

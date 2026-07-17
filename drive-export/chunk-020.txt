@@ -1,0 +1,339 @@
+“Along with the coveralls and the least convincing hard hat in Virginia.”
+
+He fitted the socket over the first bolt.
+
+It did not move.
+
+Marcus leaned into it.
+
+Metal groaned.
+
+The bolt shifted a fraction.
+
+“How long?” Julie asked.
+
+“Longer if you keep asking.”
+
+She turned away from the grate and opened the waterproof folder.
+
+Their information was incomplete.
+
+Their motel analysis had established that Elias remained inside Building Three and that someone had altered Payload 88 after it entered the validation archive. The copied production fragments proved the synthetic packet was feeding Argus.
+
+They still lacked the original deployment receipt and the full administrative-service record.
+
+Without Elias, Apex could describe the evidence drive as a corrupted partial capture assembled by an unstable former analyst and a suspended Army officer.
+
+With Elias, they had a witness.
+
+If he had preserved his own logs, they might have proof.
+
+Marcus freed the first bolt.
+
+The second broke at the head.
+
+The third came loose more easily.
+
+The fourth turned halfway, then jammed.
+
+A vehicle moved across the service road above them.
+
+Julie killed the flashlight.
+
+White illumination swept through the drainage opening behind them, reflecting along the water. An engine idled for several seconds.
+
+Marcus remained motionless beside the grate.
+
+The vehicle continued.
+
+Julie waited until the sound faded.
+
+“Security patrol?” he whispered.
+
+“Could be facilities.”
+
+“Comforting.”
+
+He returned to the bolt.
+
+Julie checked her mechanical watch.
+
+04:38.
+
+Twenty-two minutes.
+
+Marcus pulled harder.
+
+The bolt tore free from the concrete.
+
+He gripped the grate and pushed.
+
+The frame shifted several inches, scraping against the culvert wall. Together they forced it aside far enough to pass.
+
+Beyond it, the drainage tunnel climbed toward a maintenance chamber.
+
+Julie followed Marcus through.
+
+At the top, a steel hatch blocked their path. Its underside was marked:
+
+APEX FACILITIES
+STORMWATER PUMP ACCESS
+AUTHORIZED PERSONNEL ONLY
+
+Marcus examined the mechanical latch.
+
+“No electronic contact.”
+
+“That you can see.”
+
+“You’re welcome to go first.”
+
+He pressed his ear against the hatch.
+
+Nothing.
+
+Marcus turned the latch slowly.
+
+The hatch opened into a dark concrete room filled with pipes, electrical cabinets, and the steady vibration of industrial pumps.
+
+They climbed through and closed it behind them.
+
+Julie removed her wet jacket. Beneath it, she wore gray maintenance coveralls purchased for cash from an industrial-supply store. The name patch above the breast pocket read RANDALL.
+
+Marcus’s said STEVE.
+
+He looked down at it.
+
+“Steve?”
+
+“It was that or Kyle.”
+
+“I don’t look like a Steve.”
+
+“You don’t look like an HVAC technician either.”
+
+They pulled on hard hats and removed two battered clipboards from the tool bag.
+
+The disguise would not survive inspection.
+
+It did not need to.
+
+Most people saw clothing before faces. Inside a mechanical space, confidence could buy several seconds.
+
+Julie opened the outer maintenance cabinet.
+
+A small monochrome display showed pump pressure, water levels, and active building faults.
+
+She scrolled.
+
+CHILLER 3 PRESSURE VARIANCE
+COMPRESSOR 04 DIAGNOSTIC FAILURE
+FAULT CODE: 0088
+
+Julie stopped.
+
+The fault repeated three times.
+
+88.
+
+89.
+
+90.
+
+A location string followed.
+
+COMP-04 / CORE-01.
+
+Marcus saw her expression.
+
+“What?”
+
+“That isn’t a normal fault sequence.”
+
+“You know normal chiller codes now?”
+
+“I know messages.”
+
+She wrote the sequence on the clipboard.
+
+“Eighty-eight is the payload number. Comp Four could mean Compliance Room Four. Core One is the production enclave.”
+
+“Elias sent it?”
+
+“Or Vance wants us to think he did.”
+
+“You think Vance knows we’re in the pump room?”
+
+“Not yet.”
+
+The display refreshed.
+
+0088 / COMP-04 / CORE-01.
+
+Marcus looked toward the interior door.
+
+“That’s deliberate.”
+
+“Yes.”
+
+“So he’s alive.”
+
+“He was when he sent it.”
+
+The maintenance display showed the affected device’s network path.
+
+BUILDING 3
+SUBLEVEL 1
+COMPLIANCE ZONE
+ROOM 04
+
+Julie copied the route.
+
+The interior door opened onto a service corridor running beneath the campus. The air smelled of concrete, lubricant, and treated water. Fluorescent fixtures hummed overhead.
+
+No alarm sounded.
+
+No security officers appeared.
+
+They moved quickly.
+
+The service corridor passed beneath the parking structure and entered Building Three through the environmental plant. Massive chiller units occupied the room, their compressors producing a low vibration Julie felt in her teeth.
+
+Marcus checked each intersection before they crossed.
+
+Julie watched the maintenance panels.
+
+The building had not returned to normal after the earlier fire evacuation. Multiple doors remained in manual inspection mode. Fire-zone alerts and equipment resets cluttered the system. County officials had forced Apex to leave portions of the life-safety network open until the inspection report was complete.
+
+The previous day’s escape had created the weakness that allowed them back inside.
+
+They reached an inner security door.
+
+Marcus pressed the crash bar.
+
+Locked.
+
+A badge reader glowed beside the frame.
+
+“This wasn’t on the maintenance map,” he said.
+
+Julie examined the door.
+
+A small sign identified it as the boundary between the mechanical plant and the secure technical area.
+
+A camera watched from above.
+
+“We’re recorded,” Marcus said.
+
+“We were recorded when we entered the pump room.”
+
+“No camera there.”
+
+“There was a vibration sensor beneath the hatch.”
+
+“You didn’t mention that.”
+
+“We needed to come through anyway.”
+
+Marcus looked up at the camera.
+
+“So the disguise is pointless.”
+
+“It got us this far without someone calling for a tactical response.”
+
+He tested the door again.
+
+“Can you open it?”
+
+“Not from this side.”
+
+Footsteps sounded beyond the steel panel.
+
+Julie and Marcus moved behind one of the chillers.
+
+The door unlocked.
+
+A facilities technician entered, pushing a wheeled diagnostic cart. He wore hearing protection and stared at the tablet mounted to the cart, following the compressor fault Elias had generated.
+
+The door began closing behind him.
+
+Marcus caught it with his boot.
+
+The technician looked up.
+
+“Hey.”
+
+Julie held up her clipboard.
+
+“Stormwater pressure fault. County follow-up.”
+
+“What follow-up?”
+
+“The one Apex reported after the alarm.”
+
+“No one told me—”
+
+Marcus gripped the edge of the technician’s cart and pulled it across the doorway before the door could lock.
+
+“We’re already behind schedule,” he said with the weary irritation of a man who had spent the day dealing with facilities failures. “You want to call your supervisor, call him. We need the cross-feed reading first.”
+
+The technician looked from Marcus to Julie.
+
+Then to their soaked coveralls.
+
+“You came through the stormwater room?”
+
+“Do we look dry?”
+
+He considered that.
+
+“Who signed you in?”
+
+Julie pointed back toward the pump room.
+
+“The county inspector who is currently documenting the ventilation shutdown on your occupied fourth floor.”
+
+The technician’s suspicion turned into dread.
+
+He did not want the inspector’s name.
+
+He did not want another problem.
+
+“Stay in the mechanical zones,” he said. “Your badges won’t open anything else.”
+
+“We know.”
+
+He pushed the diagnostic cart toward Chiller Three.
+
+Marcus held the door.
+
+Julie slipped through.
+
+The moment the door closed behind them, the badge reader flashed amber.
+
+TAILGATE EVENT RECORDED.
+
+A camera rotated toward their faces.
+
+Their few borrowed seconds began running out.
+
+Building Three
+Sublevel One
+04:44 Eastern Daylight Time
+
+The secure service corridor was narrower than Julie remembered.
+
+No windows. No offices. Only white walls, gray doors, and numbered intersections connecting the environmental systems to the rooms above.
+
+Marcus led them toward Compliance Zone Four.
+
+At the first junction, a wall terminal activated.
+
+IDENTITY VERIFICATION REQUIRED.
+
+Julie kept walking.
+
+The terminal chimed again.
+
+UNIDENTIFIED PERSONNEL DETECTED.
+

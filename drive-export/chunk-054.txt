@@ -1,0 +1,241 @@
+Julie did not defend the seal. It had strengthened the evidence. It had also cost the primary exit and placed Bell, building security, Mercer, and a police officer inside a more dangerous extraction.
+
+“Seven-forty-two-thirty,” she said. “If the conditions do not pass, the operation ends.”
+
+Marcus waited.
+
+“Say the part you do not want to say.”
+
+Julie looked through the open wall toward Hartwell.
+
+“If the route is one step from proving Sterling held the device, and the conditions fail, we still leave.”
+
+“The device,” Elias said. “Not Sterling.”
+
+Julie turned to him. “Correct.”
+
+Marcus nodded once.
+
+The rule existed outside her now.
+
+She opened the driver’s door with her left hand.
+
+The wind across the upper deck carried traffic noise and the intermittent chirp of reversing trucks. Julie crossed twenty feet to the open wall. Elias followed with the incident module held against his abdomen. His left leg shortened every third step. He used the concrete columns instead of Julie’s arm.
+
+Marcus remained in the van with the aluminum case, the recovery cartridge, the paper custody log, and the dead transponder.
+
+The role cost him more than movement would have.
+
+Julie could see it in the way he watched them go.
+
+They stopped behind a waist-high barrier at the east edge.
+
+From there, the outer Hartwell traffic divided into three visible streams.
+
+The north approach carried the principal motorcade, marked security vehicles, and police control.
+
+A western curb held media vans and staff cars waiting beneath temporary restrictions.
+
+The east lane carried deliveries, technical support, and office vehicles toward a covered checkpoint that sat outside the buildings hiding Hartwell’s secure interior.
+
+None of the routes identified SSO-NS-004.
+
+Elias leaned one shoulder against the concrete.
+
+“The local challenge can happen only after the device crosses into the briefing domain. Nothing here tells us where that boundary starts.”
+
+“Then we do not name it.”
+
+Julie studied the cameras instead.
+
+A traffic camera stood above the intersection feeding the east lane. A private loading-dock camera watched the same lane from the opposite building. The garage camera behind them covered the van, Marcus, and the opening where Julie and Elias stood.
+
+Three independent systems.
+
+Different owners.
+
+Different clocks.
+
+Not proof of what they saw.
+
+A record that could later test it.
+
+“Can the module make event markers without touching either partition?” Julie asked.
+
+Elias looked at her.
+
+“The handling journal can record a local button event and device time.”
+
+“Does it change Partition A?”
+
+“No.”
+
+“Partition B?”
+
+“No. Both remain sealed. The journal belongs to the enclosure, not the evidence volumes.”
+
+“What does a marker prove?”
+
+“That someone pressed the control at a recorded time while the module was in this hardware state.”
+
+“Does it prove what we observed?”
+
+“No.”
+
+“Good.”
+
+He gave her a tired look. “You are becoming predictable.”
+
+“Only in narrow areas.”
+
+Elias used his left thumb to open the module’s handling screen. He kept his bandaged right index curled against the case.
+
+PARTITION A: SEALED / READ-ONLY / INTEGRITY VERIFIED  
+PARTITION B: SEALED / WSS-4 CONTROLLER SEAL PRESENT  
+DEVICE HANDLING JOURNAL: AVAILABLE
+
+He selected EVENT MARK MODE.
+
+The module displayed its internal clock.
+
+07:25:41.
+
+Marcus opened the paper custody log across the steering wheel. Julie spoke loudly enough for him to hear without leaving the van.
+
+“Record the observation position. Sixth level, east opening. Garage entry camera, internal aisle camera, municipal traffic camera above east intersection, private loading camera opposite the support lane.”
+
+His pen moved.
+
+The hand shook. The words remained legible.
+
+“What is the mission description?” he asked.
+
+“Observe the route. Do not identify a person.”
+
+He wrote that too.
+
+For the next ninety seconds, they watched ordinary vehicles.
+
+A food-service truck entered the east lane and stopped at a delivery barrier. The driver presented paperwork. A uniformed guard directed him toward a loading position.
+
+A gray government sedan arrived from the north and continued to the western staff curb.
+
+Two black SUVs entered the principal approach and disappeared behind the outer motorcade line.
+
+No weak rear light.
+
+No portable signer.
+
+No fact worth turning into one.
+
+At 07:27:13, a police motorcycle left the north route and crossed toward the east lane.
+
+Julie raised one finger.
+
+Elias pressed the event control.
+
+HANDLING EVENT 001  
+DEVICE TIME: 07:27:14.118  
+OPERATOR INPUT: MANUAL
+
+Marcus recorded the visible movement.
+
+The motorcycle stopped at the eastern intersection and held cross traffic.
+
+A black sedan passed through.
+
+Then an empty staff shuttle.
+
+Then nothing.
+
+Julie watched the lane remain open.
+
+“They are preparing another arrival,” Marcus called from the van.
+
+“Or preserving a route.”
+
+“Same immediate decision.”
+
+They kept watching.
+
+Apex Building Three  
+Reston, Virginia  
+07:28 Eastern Daylight Time
+
+The plate hit reached Sarah Chen through Hartwell security, not Apex.
+
+A commercial-garage camera had captured PCF-27 at 07:21:52. The plate system compared it against the District lookout two minutes later. Hartwell’s temporary perimeter desk received the alert because the garage sat inside its traffic-control zone. Metropolitan Police opened the image to verify the vehicle before forwarding it to the joint incident channel.
+
+Separate systems.
+
+A visible delay.
+
+A record of who acted when.
+
+Sarah enlarged the garage map. Two vehicle exits. Four pedestrian stairs. Seven levels occupied by office workers, contractors, and morning commuters.
+
+Arthur Vance’s executive channel opened beside it.
+
+“Direct Mercer to recover the media before Hartwell admits the signer.”
+
+Sarah looked at the words.
+
+He had not asked whether Julie was in the garage.
+
+He had not asked whether the signer was there.
+
+He had placed the material and the Hartwell event inside one sentence.
+
+She marked the time in her incident file.
+
+Daniel Mercer answered over vehicle noise.
+
+“We are six minutes out. District units are closer.”
+
+“Hartwell security controls the federal perimeter,” Sarah said. “Metropolitan Police controls the public garage. You do not enter the annex security zone without invitation.”
+
+“Understood.”
+
+“Garage is occupied. No ballistic force absent an identified deadly threat and clear background. Preserve life, subjects, and evidence.”
+
+Vance cut into the channel.
+
+“Telemetry recovery remains the priority.”
+
+Mercer waited for Sarah.
+
+“Capture all three if present,” she said. “Separate them. Secure the case and any electronic media under documented custody. Do not destroy or disconnect anything.”
+
+“Receiving authority?”
+
+“Metropolitan Police until a federal lead is named.”
+
+It was not the answer Vance wanted.
+
+It was an answer Mercer could put on a receipt.
+
+Sarah transmitted the vehicle image, the garage plan, and the two exits. She did not warn Julie. She assigned units to the public ramps and pedestrian stairs and asked Hartwell security to preserve its outer-camera records.
+
+The request was denied pending federal review.
+
+The denial entered her incident file anyway.
+
+On the garage image, PCF-27 climbed out of camera view.
+
+Julie had not escaped observation.
+
+She had moved to where every institution would have to explain what it saw.
+
+Commercial Garage West of Hartwell  
+07:31 Eastern Daylight Time
+
+The support vehicle returned from the south.
+
+Julie saw the weak left rear light before she saw the rest of it.
+
+The black SUV entered the cross street one block below the garage and stopped behind the police motorcycle. It had no flags and no visible emergency lights. Its windows were dark. A second vehicle followed, a smaller black sedan that had not been part of the motorcade at the earlier intersection.
+
+“Same SUV,” Marcus said.
+
+“What makes it the same?” Julie asked.
+

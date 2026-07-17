@@ -1,0 +1,258 @@
+They had no live connection to the allied channel. They could not watch the first certification leave. They could only know when the system was scheduled to do it and what the dependent object would inherit afterward.
+
+Marcus put one hand on the case handle.
+
+“We could still try the generator yard.”
+
+“Cameras, open ground, and the full response already moving toward the south side.”
+
+“Loading dock.”
+
+“Biometrics and vehicle control.”
+
+“The main fire entrance.”
+
+“Closed because we used it the previous day.”
+
+He looked at the culvert route on the printed plan.
+
+“The water drops when the storm moves.”
+
+“If the pumps do not keep the line charged.”
+
+“And if they do?”
+
+“Then we find out before zero-five-hundred.”
+
+The first clock reached zero without a sound inside the Ford.
+
+Julie closed the queue record but left the two times written on the screen.
+
+16:30.
+
+05:00.
+
+The first made the lie official.
+
+The second could still make it lethal.
+
+Forward Post Arjun
+Kashmir
+02:00 Indian Standard Time
+
+The American certification arrived on time.
+
+Major Ananya Sharma watched the status field change while the storm pressed ice against the armored window.
+
+SOURCE CERTIFICATION: VALID
+CONFIDENCE: 99.8%
+SOURCE INTEGRITY: VERIFIED
+
+A second block opened beneath it.
+
+COUNTER-BATTERY SUPPORT PRODUCT
+STATUS: OPERATIONAL HOLD
+EXTERNAL RELEASE: 14:30 IST
+
+Lieutenant Qureshi read the display beside her.
+
+“The assessment is certified.”
+
+“The source assessment is certified.”
+
+“Northern Command will treat that as confirmation.”
+
+“They were treating it as confirmation before it arrived.”
+
+The secure line lit before he could answer.
+
+The duty officer’s voice came through without greeting. “Arjun, allied source certification is valid. Move all batteries to full readiness and prepare the counter-battery plan for immediate execution upon support release.”
+
+Sharma looked at the second status block.
+
+“The support product is held until fourteen-thirty.”
+
+“The threat does not wait for software stages.”
+
+“Neither do shells after they leave the tube.”
+
+“Major, the certified assessment establishes hostile preparation.”
+
+“It establishes what the United States is willing to certify.”
+
+A pause followed.
+
+“Do you refuse the readiness order?”
+
+“No. Ammunition may move. Crews may occupy. Mechanical checks may continue. No targeting data enters the firing circuit. No fire-control radar without my order.”
+
+“The support product will arrive unchanged.”
+
+“Then you lose nothing by waiting for it.”
+
+The duty officer ended the call.
+
+Qureshi looked toward the written order on the console.
+
+“Twelve and a half hours.”
+
+Sharma watched the red tracks move across a mountain no one at the post could see.
+
+“Twelve and a half hours for preparation to become evidence that preparation was necessary.”
+
+Outside, another ammunition carrier started down the switchback road.
+
+Reston, Virginia
+
+The rain weakened after sunset and returned twice before midnight.
+
+Julie and Marcus did not leave the abandoned office property. The Ford remained dark beneath the loading overhang, nose pointed toward the service road. They watched the south perimeter through binoculars taken from the truck’s emergency kit and marked every patrol, facilities vehicle, and pump cycle on the back of the county plan.
+
+At 18:06, the stormwater discharge rose high enough to cover the grate completely.
+
+At 21:40, an Apex utility crew inspected the retention basin and left without entering the culvert.
+
+At 00:18, the visible security pattern shifted from search to fixed containment. More vehicles entered Building Three than left it.
+
+At 03:57, the pump beneath the southern berm ran for eleven minutes instead of twenty-three.
+
+The water line began falling.
+
+No one slept.
+
+The second clock continued.
+
+Apex Building Three
+Reston, Virginia
+04:27 Eastern Daylight Time
+
+Elias Thorne waited for the holding-room ventilation fan to begin its next cycle.
+
+The room had become a sequence of mechanical facts: eighty-three seconds of airflow, twenty-seven seconds of quiet, the camera’s refocus click when he stood, the ache in his back from the steel chair, the wall clock moving toward a time Arthur Vance had never mentioned during the first interview.
+
+The source certification had left twelve hours earlier.
+
+The confession remained unsigned.
+
+Elias opened the thermostat faceplate again.
+
+The circuit board shook against the copper filaments. He had removed and replaced it often enough that one corner of the badge casing no longer closed cleanly. The maintenance bus still carried the compressor fault, but an overnight technician had acknowledged it twice without clearing the source node.
+
+Elias transmitted the sequence again.
+
+0088 / COMP-04 / CORE-01
+
+Then he added the second clock.
+
+0500.
+
+The thermostat accepted the linked equipment reference.
+
+0088 / COMP-04 / CORE-01 / 0500
+
+The room door unlocked.
+
+Elias removed the filaments and pressed the faceplate into place before Arthur Vance entered.
+
+Vance wore the same charcoal suit. The tie had shifted less than half an inch. He carried no coffee now, only the leather folder.
+
+“The Indian command has the certified assessment,” he said.
+
+Elias kept both hands on the table.
+
+“Then why am I still here?”
+
+“The operational support package commits at zero-five-hundred.”
+
+“So the first deadline was not irreversible.”
+
+“The first deadline established the record. The second establishes consequence.”
+
+“You mean firing data.”
+
+“I mean a usable decision.”
+
+Vance set the folder in front of him.
+
+The signature line remained blank.
+
+“Sign before four-forty. The statement will be attached to the incident package before the external commit.”
+
+“And if I do not?”
+
+“The record will show that you refused to cooperate after deploying synthetic material into a live strategic system.”
+
+“The token in my badge shows I did not deploy it.”
+
+Vance’s gaze moved to the lanyard.
+
+“Then you should have surrendered it when instructed.”
+
+“You would have destroyed the distinction.”
+
+“No,” Vance said. “We would have resolved it.”
+
+He left the folder and turned toward the door.
+
+Elias looked at the wall clock.
+
+04:29.
+
+Julie had not reached him before the first certification.
+
+That did not prove she had stopped trying.
+
+The maintenance fault remained active after the door sealed.
+
+Apex Campus Utility Easement
+Reston, Virginia
+04:31 Eastern Daylight Time
+
+Rainwater filled the concrete culvert to Julie’s ankles.
+
+She moved sideways through the darkness, one shoulder against the curved wall and a waterproof folder clenched beneath her jacket. The county drainage plans inside showed the stormwater system as it had existed twelve years ago, before Apex Defense Systems acquired the campus and buried most of its modifications behind security classifications.
+
+Marcus moved ahead of her with a red-filtered flashlight held low.
+
+The culvert narrowed beneath the outer security berm. Water accelerated around their boots, carrying leaves, pine needles, and oily foam toward the retention basin behind them.
+
+“You’re sure this reaches the generator yard?” Marcus asked.
+
+“The plans say it does.”
+
+“The plans also call Building Three a commercial research office.”
+
+“It probably was one when the plans were filed.”
+
+A steel grate emerged from the dark.
+
+Marcus stopped.
+
+The grate had been welded across the culvert from floor to ceiling.
+
+“That on your plans?”
+
+“No.”
+
+He examined the frame.
+
+The welds were clean but weathered. Not a recent addition. The county drawing had been obsolete long before Julie downloaded it.
+
+Marcus set down the canvas tool bag.
+
+“Other route?”
+
+“Not before zero-five-hundred.”
+
+He ran his fingers around the grate’s edge.
+
+“Welded to a separate frame. Frame is bolted into the concrete.”
+
+Julie directed the light downward.
+
+Four anchor bolts secured each side. Rust darkened the lower pair where water flowed across them.
+
+Marcus opened the tool bag and removed a compact ratchet with an extended handle.
+
+“You bought that at a hardware store?”
+

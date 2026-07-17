@@ -1,0 +1,125 @@
+Sarah explained that Apex staff had loaded the government source package into the review partition. Marcus’s credential would permit access. Every query and result would be monitored and retained. The room was not designed to prevent analysis. It was designed to ensure Apex possessed a record of every path Julie took.
+
+“Where is the raw relay feed?”
+
+“In the partition.”
+
+“That isn’t what I asked.”
+
+The package had been imported by Apex through an accredited cross-domain process. Sarah said it had not been modified and invoked platform certification when Julie asked who could prove it.
+
+“Certification is not an answer to every question.”
+
+Sarah’s neutrality sharpened. “No. But it is usually an answer to people who know what they’re looking at.”
+
+Marcus thanked her before Julie could respond. Sarah left. The steel door sealed behind her.
+
+Julie listened to the lock engage.
+
+Marcus had chosen the floor. Vance had chosen the room, and Apex had loaded the data. When Marcus pointed to the package’s original government checksums, Julie reminded him that checksums traveling inside the same package proved only internal agreement.
+
+“I know.”
+
+“That phrase still sounds unnatural in your mouth.”
+
+“I’ve had practice since this morning.”
+
+He inserted his credential. A Department of Defense warning banner appeared first. The Apex chevron followed half a second later. The system requested a second factor, and Marcus placed his thumb on the scanner.
+
+Access granted.
+
+A folder appeared.
+
+PAK_RELAY_17A  
+OPERATIONAL TELEMETRY REVIEW  
+ARGUS-ENT-4.6
+
+Julie opened her notebook. “Before we touch anything, tell me the official version.”
+
+Argus had detected synchronized encrypted emissions from three Pakistani military installations. Movement models placed mobile artillery units preparing to reposition toward the Line of Control beneath civilian communications cover. Weather had degraded overhead collection, and ground reporting contradicted itself. Argus resolved the disagreement as state-sponsored offensive preparation at ninety-nine-point-eight percent confidence.
+
+The official version was not that uncertainty remained. It was that the model had already settled it.
+
+Julie selected the raw telemetry file and scrolled through the first minute, then the second.
+
+Marcus moved closer. “What do you see?”
+
+Julie did not answer.
+
+The transmissions arrived every eleven-point-two seconds. Signal strength varied by less than one tenth of a decibel. The relay had operated through freezing rain, wind shear, and intermittent power loss.
+
+The data did not care.
+
+It marched across the screen with machine-made precision.
+
+Julie’s fingers went cold around the pen.
+
+Six years later, the machine was lying in exactly the same voice.
+
+---
+
+# Chapter 2 - The Poisoned Feed
+
+The first thing Julie did was try to prove herself wrong.
+
+She pulled her chair closer to the terminal and ignored the black dome camera in the ceiling corner. Onscreen, the intercepted transmissions continued their impossible procession.
+
+Every eleven-point-two seconds.
+
+No drift. No degradation. No gaps.
+
+Marcus stood behind her with one hand on the empty chair. “You recognize it.”
+
+“I recognize a resemblance.”
+
+“What’s the difference?”
+
+“Evidence.”
+
+Julie opened the relay-health data beside the feed. Freezing rain moved across the mountain ridge. Wind gusts reached forty-six miles an hour. The relay had shifted twice to backup power, and one receiver had lost synchronization for seventeen seconds. Civilian bursts weakened when the rain intensified. Military traffic carried timing distortion. Satellite handshakes dropped packets and repeated them. Background noise rose and fell with the weather.
+
+Only the suspected target feed remained untouched.
+
+She selected six minutes and ran a variance comparison.
+
+EXPECTED ENVIRONMENTAL DEVIATION: 8.4%  
+OBSERVED TARGET DEVIATION: 0.07%
+
+Julie ran the comparison again with narrower and wider windows, then excluded the receiver loss and backup-power transitions. The percentages changed at the second decimal place and nowhere that mattered. She compared only the strongest target bursts, then the weakest surrounding traffic. She shifted the time window across the power transition and asked the system to recalculate against each receiver separately. The environment changed every time. The target did not.
+
+A compensating transmitter could correct loss, but correction left stepped gain, repeated packets, timing shifts, or altered noise. A perfect correction would require the source to know the receiver’s future errors before they occurred. Even a military adaptive transmitter reacted after degradation reached it; it did not arrive pre-corrected for a gust that had not yet moved the antenna. The target behaved as if weather, terrain, and failing power were scenario labels rather than forces acting on hardware.
+
+“Argus says there aren’t any artifacts,” Marcus said.
+
+“Argus is deciding whether the signal matches its definition of a hostile source. I’m deciding whether the signal exists in the physical world.”
+
+The packet metadata described a military-grade encrypted emitter moving south along a mountain supply road. Its estimated position drew a smooth route around the slope until the fourth burst crossed a granite outcrop. Julie rotated the topographic model and tested the path against the relay geometry. The packet claimed an eleven-meter location error. The rock face stood sixty feet high, and the eastern receiver’s line crossed granite for more than two hundred yards. If the coordinate were merely imprecise, the solution should have shifted to another receiver or expanded its uncertainty. Instead the file preserved a clean track and a confidence estimate precise enough to imply the terrain had never interrupted the source.
+
+“So the coordinates came from a map.”
+
+“Or the transmitter flew through solid stone.”
+
+Julie marked the anomaly. It was enough to challenge the feed, not enough to stop certification by itself. Apex could call it a terrain-resolution defect, correct the track, and preserve the threat assessment. The company had language prepared for flaws that did not threaten the conclusion.
+
+Marcus picked up the government phone beside the keyboard. Its wireless functions had been disabled at screening; inside Room 402B it connected only through the facility’s classified network.
+
+“I’m calling Price.”
+
+The internal extension rang twice. A woman at the Security Review Office confirmed that Leland Price was unavailable and that his extension had been suspended under administrative access review. Marcus’s sponsorship covered the current consultation, not Price’s personnel status. When he asked whether Price had been detained, she repeated that Price was unavailable and ended the call.
+
+Julie wrote the exact wording. Price’s extension was suspended. His status remained unknown. Anything beyond that was inference. The woman had known the boundary of Marcus’s sponsorship without asking for verification and had a prepared phrase that disclosed nothing a later reviewer could challenge. That did not prove Price had been silenced. It proved the institution had already chosen the language through which his absence would be described.
+
+Marcus disconnected the handset. “They suspended a DIA auditor for requesting source data.”
+
+“Maybe.”
+
+“You don’t believe that?”
+
+“I believe what we can prove.”
+
+“You never used to be this careful.”
+
+“I used to mistake being right for being protected.”
+
+Julie returned to the telemetry and stripped the encrypted content from one transmission, leaving the carrier beneath it. Every radio signal carried damage from the physical world: receiver noise, atmosphere, electrical interference, thermal variation, the fingerprint of the equipment that captured it. Most analysis systems filtered that material away.
+

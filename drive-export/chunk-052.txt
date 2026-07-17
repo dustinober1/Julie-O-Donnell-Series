@@ -1,0 +1,214 @@
+She pressed the crash bar, let Elias through, then closed the fire-rated door behind them. She held the bar until the latch caught. No strike. No lock. One legal barrier between them and the guard.
+
+The corridor ran toward daylight.
+
+PCF-27 waited beneath the green canopy with its engine running.
+
+Marcus stood beside the driver’s door, gripping the mirror housing. Fresh blood showed through the dressing above his ear. His right leg barely held him.
+
+“Move.”
+
+A dark Apex vehicle entered from the opposite end.
+
+Daniel Mercer stepped out before it stopped. Two operators followed, one with a less-lethal launcher and one with a compact rifle held low.
+
+Mercer saw Julie, Elias, and the module beneath the rain shell.
+
+“Hands visible. Do not enter the van.”
+
+Julie continued.
+
+The rifle operator shifted for a line. Two building employees stood behind Julie near the loading door, and a Metropolitan Police officer entered the east end of the court.
+
+No clear background.
+
+Mercer raised one hand. “Hold ballistic.”
+
+The rifle stayed down.
+
+Vance’s voice broke through his radio. “Prevent loss of the media.”
+
+Chen answered over the same channel. “Capture priority. No firearm without a deadly threat and clear background.”
+
+Mercer moved toward Elias instead of the van.
+
+The less-lethal launcher came up.
+
+Julie stepped into its line.
+
+The operator held fire.
+
+Mercer reached for Elias’s left arm. Elias recoiled, and the injured hip failed beneath him. His shoulder struck the van, but the module stayed against his chest.
+
+Marcus pulled the side door open. The movement folded him around his ribs.
+
+Elias climbed.
+
+Mercer caught the back of the oversized rain shell.
+
+The fabric stretched. Elias twisted free, leaving the shell in Mercer’s hand. He fell onto the cargo deck in his torn office shirt, arms around the module and board.
+
+Julie reached the driver’s door.
+
+Marcus still blocked it.
+
+“Across.”
+
+“I’m moving.”
+
+He used the wheel to drag himself over the console. His injured thigh struck the aluminum case in the passenger footwell. The impact reopened the scalp wound and drove blood toward his cheek.
+
+Julie got behind the wheel.
+
+The police officer at the east exit kept his sidearm holstered and raised one hand.
+
+“Turn the engine off.”
+
+A linen truck was halfway through the exit. A pedestrian crossed behind it carrying coffee trays.
+
+Julie kept the van still.
+
+Mercer reached the passenger side.
+
+“Engine off,” the officer repeated.
+
+The pedestrian cleared. The linen truck entered the street.
+
+Julie released the brake and followed at walking speed.
+
+She did not drive at the officer. He stepped aside rather than be struck by a van moving through an open commercial exit.
+
+Mercer slapped the passenger door and released it when the van turned. The cruiser at the west end activated its lights but could not cross the loading court without reversing around Apex vehicles and delivery traffic.
+
+Julie did not accelerate until the first intersection.
+
+No one fired.
+
+No one was run down.
+
+Behind them, Fenwick still held ordinary employees, Bell, private security, local police, an Apex team, and an independent local record of the 07:08 exchange.
+
+Downtown Washington  
+07:16 Eastern Daylight Time
+
+The radio returned to news before they cleared three blocks.
+
+“Authorities are responding to an apparent breach at Northbridge Strategic Initiatives, a Washington policy organization involved in sensitive national-security consulting. Sources say the suspects sought protected communications equipment.”
+
+Marcus sat twisted in the passenger seat with the case between his boots and the waterproof folder against his ribs. Elias remained on the cargo floor without the rain shell, holding the incident module in both hands.
+
+Its display showed only handling facts.
+
+PARTITION A  
+SEALED / READ-ONLY  
+INTEGRITY VERIFIED
+
+PARTITION B  
+INCIDENT PACKAGE SEALED  
+WSS-4 CONTROLLER SEAL PRESENT
+
+“Removal time?” Marcus asked.
+
+“Seal at seven-ten-oh-eight,” Elias said. “Media clear four seconds later.”
+
+Marcus opened the custody log over the folder and wrote the time, place, module serial, and Elias’s continuing physical custody. His hand shook. The letters remained legible.
+
+“Partition A?”
+
+“Unchanged.”
+
+“Read the exact display.”
+
+Elias did. Marcus recorded every word.
+
+The radio anchor announced Sterling’s second statement.
+
+“This morning’s attempted penetration of a Washington national-security organization confirms the seriousness of the continuing security emergency. The individuals sought in connection with the sabotage at Apex Building Three have now targeted sensitive communications supporting the United States and its partners.”
+
+The statement used the real breach to reverse the reason for it.
+
+Sterling did not mention Northbridge’s role, the K-17 session, or the signer.
+
+“Law enforcement is coordinating an appropriate federal response. I urge the public to remain calm and permit trained professionals to secure the material at risk.”
+
+The broadcast cut to Apex footage: Julie at the recovery console, Elias at a restricted terminal, Marcus blocking security, white suppression discharge, the aluminum case leaving through the loading dock.
+
+Every image was genuine.
+
+Their order created the lie.
+
+Sterling returned.
+
+“I will proceed to the emergency national-security briefing at the Hartwell Executive Briefing Annex as scheduled. The evolving border threat demands institutional discipline, reliable intelligence, and unified action.”
+
+The dashboard clock showed 07:18.
+
+Elias turned the module toward the front.
+
+“The next authentication is seven-forty-six to seven-forty-eight-thirty. Hartwell local perimeter challenge.”
+
+Marcus stopped writing. “The same device has to answer inside the briefing security domain.”
+
+“SSO-NS-zero-zero-four,” Elias said. “Same serial that answered Northbridge.”
+
+“What does the K-seventeen record give us?”
+
+“Tariq’s registered command authority was accepted. Security Line One had been passed. Relay access was not confirmed. Phase B was waiting for authorization.”
+
+“So the relay is not taken.”
+
+“The record does not prove it is.”
+
+“Second masking window?”
+
+“Seven-forty-eight to seven-fifty-four. Source-reconstruction profile pending. The command blocks are still encrypted.”
+
+Marcus closed the log.
+
+“A Sterling-office device authenticated a K-seventeen operational session and is expected inside Hartwell.”
+
+“Yes,” Julie said.
+
+“And we still cannot identify who carried it.”
+
+“No.”
+
+That was the missing fact.
+
+An aide could hold it. Counsel. Legislative security. A Northbridge intermediary. Sterling himself.
+
+The certificate had named an office and a device. It had not shown a hand.
+
+A traffic bulletin interrupted the statement.
+
+“Restrictions are beginning around the Hartwell Executive Briefing Annex. Senator Sterling’s motorcade is moving east through central Washington.”
+
+Two police motorcycles entered the intersection ahead and stopped cross traffic. Black vehicles approached from the north beneath controlled signals.
+
+The first SUV passed.
+
+Then the armored sedan.
+
+Julie could not see Sterling through the dark glass. She could not see the signer.
+
+She could see the route.
+
+PCF-27 waited at the red light while the motorcade crossed. The service radio transmitted the updated Fenwick alert. District units now had the van, the plate, its direction, and confirmation that Julie and Elias had escaped with electronic media.
+
+Marcus watched the last vehicle pass.
+
+“Hartwell will be locked down before we reach it. Your face is on every screen. The van is confirmed. We are wounded, uncredentialed, and every officer around that briefing has been told you attacked two national-security facilities.”
+
+Julie watched the motorcade move toward the next authentication point.
+
+“Then impossible is where he’ll feel safest.”
+
+---
+
+# Chapter 13 - The Carrier Stream
+
+Downtown Washington  
+07:18 Eastern Daylight Time
+
+The last vehicle in Sterling’s motorcade did not follow the armored sedan.
+

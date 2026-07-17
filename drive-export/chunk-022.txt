@@ -1,0 +1,338 @@
+“The Indian network already owns the certified source assessment. At zero-five-hundred it receives the actionable support package built from it. After that, we can prove the source was poisoned, but we cannot guarantee the correction arrives before someone acts.”
+
+A heavy impact struck the glass entrance.
+
+Security had reached the vestibule.
+
+Mercer appeared on the other side with three officers. He was still wearing the dark uniform from the previous day’s escape. A strip of medical tape covered the wrist Marcus had twisted in the stairwell.
+
+His sidearm remained holstered.
+
+The officers behind him carried electroshock weapons and compact rifles held low.
+
+Mercer pressed the intercom.
+
+“Open the door.”
+
+Marcus stepped in front of Julie and Elias.
+
+“Call federal law enforcement.”
+
+“They’re en route.”
+
+“Which agency?”
+
+“I haven’t been told.”
+
+“Then you’re still taking orders from Vance.”
+
+“I’m taking orders from the designated facility authority.”
+
+“Ask him why an archived validation package is inside the live Pakistan feed.”
+
+Mercer’s eyes shifted to Elias.
+
+“Mr. Thorne is the subject of that investigation.”
+
+“I’m the scapegoat,” Elias called. “Check APX-DIR-0019.”
+
+Mercer’s expression did not change.
+
+Julie moved toward the intercom.
+
+“Ask control who owns the service account.”
+
+Mercer pressed a finger against his earpiece.
+
+“Control, identify administrative owner for APX-DIR-0019.”
+
+Static answered.
+
+Then Sarah Chen’s voice:
+
+“Mercer, do not engage them in technical discussion. They are attempting to remove classified material. Prepare to breach.”
+
+Mercer continued looking at Julie.
+
+“You heard her,” he said.
+
+“I heard her refuse the question.”
+
+“Step away from the door.”
+
+“Check the Argus release queue,” Julie said. “Pakistan Relay Seventeen-A. Look for the source-review exception and the zero-five-hundred support hold.”
+
+Sarah cut into the channel.
+
+“Mercer, execute the breach.”
+
+Mercer’s jaw tightened.
+
+He raised one hand.
+
+The officers behind him shifted into position.
+
+He did not give the order.
+
+“Director Vance,” Mercer said into his radio. “Confirm federal custody team and receiving agency.”
+
+Vance answered personally.
+
+“Recovery personnel are approaching the sublevel. Contain all three subjects.”
+
+“Receiving agency?”
+
+“Your role is containment.”
+
+“Are federal agents on-site?”
+
+A silence followed.
+
+Mercer looked at Marcus.
+
+The answer had reached him.
+
+Not proof of conspiracy.
+
+Proof that Vance had lied about custody.
+
+Sarah spoke sharply through the radio.
+
+“Mercer, they assaulted facility personnel, triggered a false emergency, breached the perimeter, and entered a restricted zone. You have sufficient authority.”
+
+Mercer did not move.
+
+Julie saw the decision taking shape behind his eyes.
+
+He did not trust them.
+
+He no longer trusted Sarah either.
+
+“Open the vestibule,” he said.
+
+Marcus shook his head.
+
+“No.”
+
+“I can’t let you leave.”
+
+“We’re not leaving,” Julie said. “We’re going to the production core.”
+
+“That area contains national-security infrastructure.”
+
+“So does the lie.”
+
+Mercer lowered his voice.
+
+“If you go deeper, the recovery team will treat you as an active sabotage threat.”
+
+“What recovery team?” Marcus asked.
+
+Mercer looked toward the corridor behind him.
+
+The arriving footsteps were heavier than those of ordinary facility security.
+
+Measured.
+
+Coordinated.
+
+Sarah had called someone else.
+
+Mercer turned toward his officers.
+
+“Fall back to the outer junction.”
+
+One of them looked at him.
+
+“Sir?”
+
+“We contain from the junction.”
+
+“Ms. Chen ordered a breach.”
+
+“I heard her.”
+
+The officer hesitated, then obeyed.
+
+Mercer remained at the glass.
+
+“I’m giving you one minute,” he said through the intercom. “After that, I report the corridor unsecured.”
+
+“Why?” Julie asked.
+
+“I don’t know what you found.”
+
+“That isn’t an answer.”
+
+“It’s the only one you’re getting.”
+
+He stepped away.
+
+The outer security officers retreated toward the junction.
+
+Marcus watched them go.
+
+“Friend of yours?”
+
+“He follows procedure,” Julie said. “Vance stopped giving him one.”
+
+Elias crossed to the rear holding-room door.
+
+“There’s a service passage behind the compliance rooms. It connects to the core lift.”
+
+He pressed his badge against the reader.
+
+Red.
+
+TOKEN REVOKED.
+
+“I told you,” he said. “They killed my access.”
+
+Julie examined the lock.
+
+A manual emergency-release cabinet sat beside it.
+
+Sealed beneath tamper glass.
+
+Marcus removed the compact pry bar from the tool bag.
+
+“This one federal law too?”
+
+“Life safety,” Julie said.
+
+“Good enough.”
+
+He broke the glass with the heel of the bar.
+
+An alarm sounded.
+
+Marcus pulled the release.
+
+The rear door unlocked.
+
+The three of them entered the service passage.
+
+Behind them, the vestibule intercom activated.
+
+Sarah’s voice followed them.
+
+“Julie, stop.”
+
+Julie turned.
+
+A camera above the compliance desk had tracked their movement.
+
+“You have incomplete files and a frightened employee trying to avoid prosecution,” Sarah said. “You do not understand what you are about to interrupt.”
+
+“Then explain it.”
+
+“The Indian government requested higher-confidence warning integration after three previous intelligence failures. Argus found a pattern human analysts missed.”
+
+“Argus found the pattern Elias built.”
+
+“According to Elias.”
+
+“Open the validation archive.”
+
+“The package is based on real-world source material.”
+
+“That doesn’t explain why its synthetic labels were removed.”
+
+“You are reducing a classified strategic process to a software discrepancy.”
+
+“You are using classified strategy to hide a software crime.”
+
+Sarah’s voice hardened.
+
+“If you force an integrity reset during an active threat window, Argus will withdraw every related assessment. If the Pakistani deployment is real, Indian forces will lose their warning.”
+
+Julie glanced at Elias.
+
+“Could the underlying threat still be real?”
+
+“Yes,” he said. “Payload Eighty-Eight may have been layered over genuine signals. We won’t know until the system separates them.”
+
+Sarah had found the only argument that mattered.
+
+Not money.
+
+Not authority.
+
+Risk.
+
+If Julie reset the assessment and the Pakistani movement was real, Indian soldiers could die because she had persuaded the system to doubt valid intelligence.
+
+The corridor around her seemed to recede.
+
+Six years ago, she had wanted certainty before the strike.
+
+Hargrove had acted without it.
+
+Now Sarah was asking Julie to leave a false warning intact because correcting it might conceal a real one.
+
+There was no clean choice.
+
+Only consequences.
+
+Marcus watched her.
+
+“What do you need?” he asked.
+
+Julie looked toward the descending passage.
+
+“The raw feed.”
+
+“We have it.”
+
+“Not a verdict. The unfiltered data. Argus needs to separate what was observed from what was manufactured.”
+
+Elias nodded.
+
+“The recovery process doesn’t erase the assessment. It restores the source labels and reruns the model with synthetic data excluded.”
+
+“And until it finishes?”
+
+“The support commit suspends. The certified source assessment reverts to mandatory human review.”
+
+Sarah spoke through the intercom.
+
+“You cannot know how long the rerun will take.”
+
+“No,” Julie said.
+
+“If India loses the ridge because of this—”
+
+“Then the responsibility belongs to the people who poisoned the feed.”
+
+“You will be the person who interrupted the warning.”
+
+There it was.
+
+The official version waiting to be written.
+
+Julie faced the camera.
+
+“Record this carefully, Sarah. We are not deleting intelligence. We are restoring source provenance that Apex removed.”
+
+“You have no authority.”
+
+“Neither did the person who turned a test package into a war.”
+
+Julie followed Marcus and Elias into the passage.
+
+Sarah’s voice came one final time.
+
+“You are making the same mistake you made in Pakistan.”
+
+Julie stopped.
+
+Marcus did too.
+
+Six years ago, that accusation would have reached inside her and taken control of the next decision.
+
+Now she heard what it was.
+
+A weapon built from an institutional lie.
+
+Julie looked back at the camera.
+

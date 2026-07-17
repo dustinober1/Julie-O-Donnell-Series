@@ -1,0 +1,186 @@
+# Prologue - Six Years Ago
+
+Location: Forward Operating Base, Near the Pakistan Border
+
+The intelligence tent stank of ozone, hot canvas, and men pretending they were not afraid.
+
+Captain Julie O’Donnell leaned over the bank of monitors, one hand braced against the plywood table as wind worried the tent walls. Beyond the blast barriers, a generator coughed and recovered. Dust hissed across the hard-packed ground.
+
+On her center screen, intercepted signals scrolled beneath the Argus Beta insignia. The feed looked perfect.
+
+That was the problem.
+
+Julie ordered Sergeant Tom Baines to run the relay sequence again. He had already run it three times, but he entered the command without another argument.
+
+The screen repopulated with timestamps, emitter locations, signal strength, and predicted movement. Argus identified the encrypted handset as belonging to Farid Anwar, the insurgent commander responsible for four convoy attacks in six weeks. The system placed him in a walled compound twelve kilometers northwest of the base.
+
+Confidence: 94.1 percent.
+
+Julie stared at the timestamps.
+
+11.2 seconds. 11.2 seconds. 11.2 seconds.
+
+Every burst arrived at the same interval. Wind had shaken the relay mast for most of the morning, and a dust front had degraded every other source in the valley. Anwar’s handset had not flickered, drifted, or lost a measurable fraction of signal strength.
+
+Baines pulled atmospheric degradation from the eastern relay. Its graph rose and fell with wind, dust, and thermal interference. Julie overlaid Anwar’s intercept.
+
+The target line remained almost perfectly smooth. The relay history made the problem worse. At 0214, the geolocation track placed the handset behind the western ridge, where granite should have blocked the eastern receiver. Argus reported uninterrupted line-of-sight acquisition anyway. The feed had crossed terrain without losing signal and weather without acquiring noise.
+
+“That shouldn’t be possible,” Baines said.
+
+“No.”
+
+The tent flap snapped open. Lieutenant Colonel Daniel Hargrove entered with Major Marcus Reed a step behind him. Hargrove’s face was red from the heat and the effort of remaining angry. Marcus looked as if he had come directly from the operations center, his headset still hanging around his neck.
+
+“What the fuck is the holdup?” Hargrove demanded. Conversation died across the tent.
+
+Julie straightened. “The target feed is compromised.”
+
+“Argus has Anwar at ninety-four percent confidence.”
+
+“Argus has a signal pretending to be Anwar.”
+
+Hargrove cited the matching encryption, the movement profile, and thermal confirmation from the compound. Julie turned the monitor toward him. The six courtyard heat signatures were real; nothing proved whose bodies produced them. The signal claiming to identify Anwar carried exact packet spacing, no weather response, and a relay path that violated the ridge.
+
+“We have a Reaper on station, platform identification, and command authorization,” Hargrove said. “I need more than you not liking the shape of a graph.”
+
+“The feed is engineered.”
+
+“What does Argus say?”
+
+“Argus says the data is genuine because the data was constructed to satisfy its model.”
+
+Marcus stepped closer and studied the two signal graphs. A second orbital pass would take ten minutes. A ground check might take five. The firing window would close in three.
+
+“Then we let it close,” Julie said.
+
+Hargrove’s anger settled into something colder. “Anwar has killed twenty-seven Americans.”
+
+“And if that compound is a decoy, we kill whoever he put under that signal.”
+
+He pointed to six thermal signatures in the courtyard, consistent with a security detail.
+
+“Also consistent with a family,” Julie said.
+
+Hargrove moved close enough for her to smell coffee on his breath. “Your job is to reduce uncertainty.”
+
+“My job is to tell you when the uncertainty is being hidden.”
+
+“Your job is to give command an assessment.”
+
+“I am. The feed has been engineered.”
+
+“Because it’s too accurate?”
+
+“Because real data is messy. This is too perfect.”
+
+A voice broke through the speaker above Julie’s terminal.
+
+“Overwatch, this is Hammer One. We are approaching release criteria. Confirm weapons authorization.”
+
+The room contracted around the words. Hargrove reached for the push-to-talk control. Julie caught his wrist, and every analyst in the tent went still.
+
+“Give me sixty seconds.”
+
+Hargrove looked down at her hand. Julie released him.
+
+“Fifty-nine.”
+
+She dropped into her chair. “Baines, strip the content. Compare the carrier noise against the synthetic exercise archive. Use the checksum index.”
+
+His hands moved while Julie opened the relay’s raw packet structure. The encryption signature looked authentic, the kind produced by a military-grade handset moving through a damaged civilian network. Beneath the content lay the imperfections every real transmission carried: atmosphere, receiver noise, thermal variation, contamination from relay hardware. Analysts filtered that material away because it did not contain words, coordinates, or identities. Julie trusted it for the same reason. A source could copy encryption and imitate movement. It was harder to reproduce the incidental damage the physical world left on every transmission.
+
+The part no one called intelligence.
+
+The part hardest to fake.
+
+“Hammer One, thirty seconds to release criteria.”
+
+Julie isolated the background layer. Seven small fluctuations repeated near the bottom of every packet.
+
+Not similar.
+
+Identical.
+
+Baines’s search returned one match.
+
+ARGUS BETA ADVERSARIAL VALIDATION EXERCISE 7C.
+
+Julie opened the file. The same carrier-noise sequence filled the screen.
+
+“It’s test data.”
+
+Marcus leaned over her shoulder as Julie explained that someone had wrapped a live encryption signature around synthetic telemetry. The carrier noise came from Exercise Seven Charlie.
+
+Hargrove stared at the match.
+
+“Hammer One, ten seconds.”
+
+Julie reached for the abort control. Hargrove moved between her and the console.
+
+“We don’t know who inserted it.”
+
+“We know the feed is false.”
+
+“We know one component matches a training archive.”
+
+“I helped validate that exercise. The noise was generated in a lab at Fort Belvoir.”
+
+Marcus turned to Hargrove. “She’s right. Abort it.” He had waited until the final seconds.
+
+Hargrove’s jaw tightened. “Command already approved the package.”
+
+“Then command approved bad intelligence.”
+
+The speaker crackled.
+
+“Hammer One. Release criteria met. Standing by.”
+
+Julie shoved past Hargrove, opened the emergency strike channel, and transmitted the order.
+
+“Overwatch to Hammer One. Abort. Abort strike. Target intelligence is compromised.”
+
+She pressed SEND. A gray authentication window appeared.
+
+ROUTING REQUEST THROUGH ARGUS TACTICAL GATEWAY.
+
+A loading wheel began to turn.
+
+“No.”
+
+One second.
+
+The wheel spun.
+
+Two.
+
+“Push it directly,” Marcus said.
+
+“I can’t. The gateway owns the relay.”
+
+Three.
+
+Julie struck the keyboard, trying to force the message onto the backup channel.
+
+Four.
+
+The loading wheel vanished.
+
+MESSAGE TRANSMITTED.
+
+The pilot’s voice came through at the same instant.
+
+“Rifle.”
+
+Julie stopped breathing.
+
+On the overhead display, the drone’s targeting feed tightened around the compound. A white point separated from the aircraft and crossed the valley in silence.
+
+“Abort received,” the pilot said. “Weapon already away.”
+
+Two children emerged from a low building beside the compound. One carried a yellow plastic container. The other ran behind him, waving both arms.
+
+The missile struck the courtyard.
+
+The image flashed white. When it returned, the compound had vanished behind dust and debris. Burning fuel crossed the road from a secondary explosion. Figures ran from the surrounding buildings. One fell. Another disappeared beneath masonry.
+

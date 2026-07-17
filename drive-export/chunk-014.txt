@@ -1,0 +1,334 @@
+“The synthetic package resembles the operational feed because it was built from realistic field patterns. The ninth checksum was a routine archive migration. APX-DIR-0019 is an automated deployment service used by dozens of administrators. Vance restricted us because we exceeded scope. The partition was erased because we attempted an unauthorized export. Your credentials were suspended because you helped me.”
+
+Marcus stared at her.
+
+“You sound like their lawyer.”
+
+“I sound like the person who knows what they will say.”
+
+“What does the truth look like to you?”
+
+“A chain they cannot break without contradicting themselves.”
+
+She opened the package-recovery documentation included in the index metadata.
+
+VALIDATION OBJECT RECOVERY PROTOCOL
+SOURCE-PROVENANCE CHALLENGE AVAILABLE
+REQUIRED AUTHENTICATION:
+
+VALIDATION AUTHOR BIOMETRIC
+
+DEPLOYMENT-AUTHORITY CERTIFICATE
+
+LOCAL PRODUCTION-ROOT ACCESS
+
+Marcus read the list.
+
+“Elias.”
+
+“He can supply the author biometric.”
+
+“If he’s involved.”
+
+“If he deployed it himself, we need him. If he was framed, we need him more.”
+
+“What does a source-provenance challenge do?”
+
+Julie opened the next page.
+
+“When the operational source matches an archived synthetic package, it restores the original labels and forces Argus to rerun the assessment without the validation data.”
+
+“Would that stop the Indian warning?”
+
+She read farther.
+
+“Any downstream release product depending on the challenged source is suspended until human review.”
+
+Marcus checked his watch.
+
+“Source certification was at sixteen-thirty.”
+
+“According to the copied schedule.”
+
+“Two and a half hours.”
+
+“Less now.”
+
+“What happens after source certification?”
+
+“The report leaves Apex’s controlled environment. India receives it as a validated American assessment. The executable support product remains on operational hold until zero-five-hundred. We may still invalidate the source before that commit, but the original warning will already be in their system.”
+
+Marcus looked at the evidence drive.
+
+“We send this to Hackett now.”
+
+“From what?”
+
+“The motel phone.”
+
+“Unclassified line.”
+
+“We don’t send the files. We tell him where we are.”
+
+“And bring him here?”
+
+“Bring someone with federal authority.”
+
+“Assuming he believes you.”
+
+“He knows me.”
+
+“So did Hargrove.”
+
+Marcus flinched.
+
+Julie regretted the comparison as soon as she made it.
+
+She did not take it back.
+
+Marcus walked to the telephone beside the bed.
+
+“I have to try.”
+
+“I know.”
+
+He lifted the receiver and dialed the Pentagon’s public switchboard from memory.
+
+Julie continued reviewing the capture while he waited.
+
+“Office of the Deputy Director for Operational Intelligence,” a voice answered through the receiver.
+
+“This is Colonel Marcus Reed. I need General Hackett immediately.”
+
+“May I ask what this concerns?”
+
+“Tell him Reed is calling regarding the South Asia source certification.”
+
+A pause.
+
+“Colonel Reed, hold.”
+
+Marcus turned slightly so Julie could not read his expression.
+
+The hold music lasted eighteen seconds.
+
+Then a man answered.
+
+“Marcus.”
+
+General William Hackett’s voice was recognizable even through the motel receiver. Julie had met him once, years earlier, before the Anwar strike.
+
+“Sir, I need you to listen,” Marcus said. “The Pakistan assessment is compromised. We found synthetic validation data inside the live relay feed.”
+
+“Where are you?”
+
+“I’m not giving a location over this line.”
+
+“Are you with O’Donnell?”
+
+“Yes.”
+
+Another pause.
+
+“Do you have classified material?”
+
+“We have a sealed incident capture from the Reston review environment.”
+
+“You removed it after your authority was suspended.”
+
+“My authority was suspended while I was submitting a source-defect notice.”
+
+“Marcus, Army counterintelligence has received a report that your credentials were used to export restricted program data.”
+
+“From Apex.”
+
+“From the facility security authority.”
+
+“Vance is the subject of the report.”
+
+“You don’t know that.”
+
+“An Apex director certificate deployed a synthetic package into production.”
+
+“Then you bring the device to Fort Belvoir and surrender it through the proper channel.”
+
+“Will the South Asia certification be suspended while it is reviewed?”
+
+Hackett did not answer immediately.
+
+“That decision is being handled.”
+
+“By whom?”
+
+“Return the material, Marcus.”
+
+“Will you suspend certification?”
+
+“I cannot act on data I have not seen.”
+
+“If I turn it over at the gate, Apex will challenge the capture before it reaches you.”
+
+“Apex does not control Army counterintelligence.”
+
+“No. They control the system record counterintelligence will use.”
+
+Hackett’s voice lowered.
+
+“You are on an unsecured line. Stop talking.”
+
+“Then give me a safe channel.”
+
+“Report to Fort Belvoir. Enter through Tulley Gate and request the duty counterintelligence officer.”
+
+“That credential is dead.”
+
+“You will be detained long enough to establish your identity.”
+
+“And the drive?”
+
+“It will be taken into custody.”
+
+“By whom?”
+
+“The appropriate personnel.”
+
+Marcus closed his eyes.
+
+Julie heard what he heard.
+
+No name.
+
+No guarantee.
+
+No hold on the certification.
+
+Hackett was either constrained, uncertain, or already treating Marcus as a security risk.
+
+Possibly all three.
+
+“Sir, the assessment certifies at sixteen-thirty,” Marcus said. “If India acts on it, people die.”
+
+“I understand the stakes.”
+
+“Then stop the packet.”
+
+“I need admissible evidence.”
+
+“We are trying to give you admissible evidence.”
+
+“You are fleeing with it.”
+
+Marcus’s grip tightened around the receiver.
+
+“I trusted the channel six years ago.”
+
+Hackett went silent.
+
+“So did Julie,” Marcus said. “Look what the channel did to her.”
+
+Julie stopped typing.
+
+“Turn yourself in,” Hackett said.
+
+“Sir—”
+
+“That is the only lawful instruction I can give you.”
+
+The line disconnected.
+
+Marcus continued holding the receiver after the dial tone returned.
+
+Julie looked back at the files.
+
+“Was that Hackett?”
+
+“Yes.”
+
+“Did he believe you?”
+
+“He believed I had the drive.”
+
+“That wasn’t the question.”
+
+“No.”
+
+Marcus placed the receiver in its cradle.
+
+He sat on the edge of the bed.
+
+For the first time since the escape, he looked tired rather than alert.
+
+“My command has a security report with my name on it.”
+
+“Probably.”
+
+“Counterintelligence is looking for us.”
+
+“Probably.”
+
+“I’m giving you too much material for that word.”
+
+“It keeps us from pretending we know their reach.”
+
+He rubbed both hands across his face.
+
+“I should have forced the defect report through before we entered the review room.”
+
+“They would have called it premature.”
+
+“I should have brought a second oversight officer.”
+
+“Apex would have prepared for two.”
+
+“I should have backed you six years ago.”
+
+Julie’s hands stopped above the keyboard.
+
+Marcus stared at the carpet.
+
+“I told myself the panel already knew Hargrove was responsible,” he said. “I told myself confirming that you raised concerns would be enough. When they asked whether you issued a formal recommendation before the final minute, I knew what they wanted.”
+
+“You gave it to them.”
+
+“Yes.”
+
+The word was barely audible.
+
+“I thought if I challenged the timeline, the investigation would turn toward the classified routing architecture. The program office would close ranks. Hargrove would survive anyway, and I would lose any ability to help you.”
+
+“You didn’t help me.”
+
+“No.”
+
+Rain began ticking against the motel window.
+
+Marcus continued.
+
+“I protected my access because I thought access was influence. I thought staying inside mattered more than telling the panel exactly what happened.”
+
+“And did it?”
+
+“No.”
+
+Julie looked at him.
+
+“I don’t need an apology today.”
+
+“I know.”
+
+“I need you to decide what you will do when following procedure and doing the right thing stop being the same action.”
+
+He lifted his eyes.
+
+“I think that decision happened in the stairwell.”
+
+“No. The stairwell was survival.”
+
+She turned the laptop toward him.
+
+“This is the decision.”
+
+Onscreen, the recovery protocol remained open.
+
+VALIDATION AUTHOR BIOMETRIC REQUIRED.
+

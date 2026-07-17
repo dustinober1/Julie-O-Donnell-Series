@@ -1,0 +1,226 @@
+“A hardware-signer session creates a short local maintenance period before the scheduled exchange. A legitimately enrolled technician can test the suite certificate, the local clock, and the incident recorder without seeing message content. The enrollment has to happen at the building. The external signer may be somewhere else, but the Northbridge suite will be active and monitored by someone inside by seven-oh-eight.”
+
+“Remote access?” Marcus asked.
+
+“Not for this controller. That is the point. The service vestibule reads a tenant work order, the landlord guard verifies the contractor, and a Northbridge sponsor acknowledges the request. Then the controller can issue an escorted temporary session. The enrollment, the module serial, and every incident export become local audit events.”
+
+“Can you make one?”
+
+“No.” Elias answered before Marcus finished the question. “I can make something that looks like a work order. I can use the correct tenant identifier, service-call format, and diagnostic reason. The live system will know the ticket does not exist if anyone checks it.”
+
+“How long before it knows?”
+
+“That depends on the guard, the sponsor, and whether the controller is already in pre-session mode. It may reject us immediately.”
+
+Julie looked at the service profile. “What does it buy?”
+
+“A reason for someone inside to open the conversation. Perhaps a temporary intake screen. Seconds.”
+
+“Not a door.”
+
+“Not by itself.”
+
+Marcus’s gaze remained on the certificate. “Where is the live buffer?”
+
+“In volatile memory inside the communications controller. The operator sees a session status, not the full envelope. A protected audit port can export the session envelope to incident media if a local maintenance session is active.”
+
+“Export what, exactly?” Julie asked.
+
+Elias counted with his left thumb against his fingers. “Northbridge suite certificate. External signing certificate. Challenge and response. Hardware signature. Hardware time reference. Session identifier. Routing receipts. Task profile. Ciphertext buffer. The order in which they appeared.”
+
+“Does it decrypt?”
+
+“No.”
+
+“Does it copy the rest of Northbridge?”
+
+“No. It is deliberately narrow.”
+
+“Can it open the secure suite?”
+
+“No.”
+
+Marcus sat back. “So we still need physical access to the room containing the port.”
+
+“Yes.”
+
+“And someone has to know when the external certificate is actually present.”
+
+Elias looked at the screen.
+
+Julie saw the answer before he gave it.
+
+“The session can show open before the full chain loads,” he said. “The Northbridge certificate presents first. The external device may answer several seconds later. If you capture too early, you get Northbridge talking to an unidentified trust fingerprint. If you wait until the acknowledgment completes, the buffer may begin purging.”
+
+“You can tell the difference,” Julie said.
+
+“I know the state sequence.”
+
+“I can write it down.”
+
+“No.” The word came quietly. “You can memorize the labels. You will not know which delay is normal and which means the signer failed to present. The current software may not use the same colors or wording. The audit state is in the event order.”
+
+Marcus looked from Elias to Julie. “Remote instructions are out.”
+
+Elias’s bandaged finger pressed against the edge of the circuit board.
+
+Julie said, “You stay with Marcus.”
+
+His eyes lifted.
+
+“I can take the module. You tell me the sequence now.”
+
+“You just heard why that will not work.”
+
+“I heard why it is less reliable.”
+
+“It may be useless.”
+
+“The alert still describes you as a hostage. The next camera that records you entering a Washington secure facility beside me will end that protection.”
+
+“I know.”
+
+“You may be arrested there. Your board may be seized. The incident capture may incriminate you again. You may not be able to walk back out on that hip.”
+
+“I know.”
+
+“I cannot promise I can get you out.”
+
+Elias looked down at the board. The secure element that contradicted Vance’s deployment record sat beneath his thumb. His right hand trembled once and stopped when he closed it around the edge.
+
+Julie waited.
+
+“You can refuse,” she said.
+
+“I know that too.”
+
+“Then refuse if that is your decision.”
+
+The scanner hissed. A truck changed gears somewhere beyond the alley. Marcus did not interrupt.
+
+Elias drew the blanket tighter around his shoulders, then let it fall behind him onto the chair.
+
+“You will not recognize the complete signer state,” he said. “And you will not know whether the incident export has preserved the event order until it seals.”
+
+“That is an explanation.”
+
+“I am going.”
+
+His voice remained frightened. He did not make it louder to disguise that.
+
+Julie looked at him for another second. “Voluntarily?”
+
+“Yes.”
+
+She opened the custody log to the next line and wrote the time.
+
+Marcus watched her record it. “Now define everyone else.”
+
+Julie put down the pen.
+
+“You keep the originals.”
+
+“The case stays outside the target?”
+
+“The case never enters the building. Neither does the recovery cartridge or the custody log.”
+
+“And me?”
+
+“You stay with them and the van.”
+
+Marcus’s expression hardened. “I can still control an entrance.”
+
+“You cannot run, your balance is unreliable, and a deep breath is an argument. I am not putting you in a controlled corridor because you dislike sitting outside.”
+
+“I can move far enough to pull you through a door.”
+
+“Once.”
+
+“That may be the useful one.”
+
+Julie met his eyes. “The useful one is protecting the only evidence we already have.”
+
+The words landed harder than an order would have. The aluminum case stood between them, intact because Marcus had refused to surrender it in Reston and carried it through every barrier after.
+
+He looked away first.
+
+“Where is the van?” he asked.
+
+“Close enough for extraction. Not at the service door.”
+
+“It is a known vehicle.”
+
+“Yes.”
+
+“If a plate reader catches it in Washington, response moves toward Northbridge whether they know the connection or not.”
+
+“We use it because it is what we have. We enter through ordinary contractor traffic, park off the direct approach, and accept that every minute after the first camera is borrowed.”
+
+“Who drives?”
+
+“I do.”
+
+“With that wrist.”
+
+“With my left hand and the wheel braced against my forearm. You cannot work the pedals reliably.”
+
+Marcus did not argue with the leg. “Route?”
+
+“Rear industrial exit. One short diversion before we turn east. No toll road. Ordinary speed. Arlington Boulevard, then the Roosevelt Bridge unless traffic forces another choice.”
+
+“Final approach?”
+
+“You direct it from memory. We do not circle the target. We do not search for a perfect camera gap that does not exist.”
+
+“Exit?”
+
+“Same service route if it remains open. Ordinary fire stair to the public lobby if it does not. No deeper movement through Northbridge.”
+
+“And if the service intake refuses?”
+
+“We leave.”
+
+“If the signer never appears?”
+
+“We leave.”
+
+“If the message proves less than expected?”
+
+“We preserve exactly what it proves and leave.”
+
+“If police arrive?”
+
+Julie looked at both men. “We do not turn honest officers acting on a false alert into casualties. No firearms. No hostage-taking. No ramming a way out. If the only exit requires hurting someone who is not trying to kill us, the operation ends.”
+
+Marcus studied her. “You are allowing arrest.”
+
+“I am refusing murder as an escape plan.”
+
+“And Northbridge security?”
+
+“We do not attack them for doing their jobs. We use the service process. If deception fails, we disengage.”
+
+Elias looked toward the workstation. “The local port is inside the secure domain.”
+
+“Then we get there without making civilians pay for our evidence.”
+
+Marcus continued testing the edges. “Search scope?”
+
+“The live session only. No desks. No personnel files. No Northbridge archive. No attempt to take the communications controller.”
+
+“Sterling?”
+
+“We are not going there to find him.”
+
+“If he is there?”
+
+“We do not touch him.”
+
+Marcus nodded once.
+
+“Destruction?”
+
+“None. The suite remains operational.”
+
+“Disclosure?”
+

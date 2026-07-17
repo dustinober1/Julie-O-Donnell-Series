@@ -1,0 +1,165 @@
+Forty-two minutes and forty-nine seconds remained before the Northbridge window.
+
+Marcus looked at the clock. “Then what?”
+
+Julie heard the question beneath the question. If there was no recipient they could reach now, what did the word yet require them to do?
+
+“We stop looking for someone to hand this to before seven-oh-eight,” she said.
+
+Elias’s gaze lifted. “That sounds very much like deciding no one is honest.”
+
+“It isn’t.” Julie pulled the paper summary toward her with her left hand. “An inspector general could be honest. FBI counterintelligence could be honest. The first officers who stop that van could be doing exactly what they should.”
+
+“Detain us,” Marcus said.
+
+“Yes. Separate us. Secure the case. Put Elias under protective custody because the alert calls him a hostage. Treat you as an armed accomplice and me as the person who corrupted Argus.”
+
+Marcus’s mouth tightened at the word armed. They possessed no firearm. The bulletin did not need one to exist.
+
+Julie continued. “Then someone finds a cleared technical team. Someone determines jurisdiction. Someone asks Apex for the system record. Vance gets to explain every file before anyone compares the certificate chains.”
+
+“The inspector general could order a hold,” Marcus said.
+
+“After intake. After authentication. After they know which inspector general owns the program. Northbridge’s synchronization will be gone before the first custody receipt is signed.”
+
+Elias looked toward the locked storage cabinet. “A reporter?”
+
+“Cannot safely publish the raw material and cannot authenticate it in forty minutes. If we give them the limited copy, Northbridge says its endpoint is part of a legitimate Apex contract. If we give them the case, we expose collection locations and the unresolved K-17 sensor record.”
+
+“A congressional channel,” Marcus said.
+
+Julie looked at the Northbridge certificate still open on the old workstation. “Sterling sits inside the oversight structure we would be asking for help. That does not make every staff member part of this. It means we cannot know where the warning goes before the evidence is secured.”
+
+The scanner broke through the static with a county unit acknowledging the national lookout. No location followed. No confirmed sighting.
+
+Marcus waited until the transmission ended. “So the problem isn’t trust.”
+
+“The problem is sequence.” Julie touched the paper summary. “The first honest action is still custody. Understanding comes later.”
+
+“And seven-oh-eight comes first,” Elias said.
+
+Julie looked at the battery clock.
+
+The three evidence sources could survive examination. They could not create the one record that did not yet exist.
+
+“We make the missing evidence,” she said.
+
+Marcus shifted in the chair. Pain stopped the movement halfway. “Define that before you turn it into a mission.”
+
+Julie took the pen in her left hand.
+
+“Northbridge Secure Suite Four receives a hardware-authenticated K-seventeen Phase B synchronization at seven-oh-eight. The suite holds the live session envelope for no more than ninety seconds. While it exists, the Northbridge endpoint, the external signer, the routing state, the hardware time, and the message buffer are all linked.”
+
+“Ciphertext,” Marcus said.
+
+“Probably.”
+
+“So we may leave without the message.”
+
+“We may leave with proof of who authenticated an exchange into the K-seventeen operational channel. Or proof that the signer belongs to someone we have not considered. Or proof that the exchange is less important than we think.”
+
+Elias watched her write. “The full external certificate matters more than the name printed on it.”
+
+Marcus looked at him.
+
+“The certificate gives us the signing authority, device serial, trust chain, and the entity to which the device is registered,” Elias said. “The hardware signature shows that device actually answered the session challenge. It does not prove who was physically holding it.”
+
+Julie wrote that distinction beneath the objective.
+
+REGISTERED AUTHORITY IS NOT PHYSICAL POSSESSION.
+
+“If the certificate resolves to Sterling?” Marcus asked.
+
+“It still proves the device, not his hand,” Julie said. “If the content or routing adds his direction, we preserve it. We do not assume it.”
+
+“And if it resolves to Northbridge counsel, an Apex executive, or a field contractor?”
+
+“We preserve that too.”
+
+“Who has the device now?” Marcus asked.
+
+“The metadata does not say,” Elias replied.
+
+Marcus watched the pen move. “K-seventeen?”
+
+“Still unresolved. The field team’s last confirmed position is more than an hour old. The synchronization profile does not tell us whether they reached the relay, failed, withdrew, or are waiting for another instruction.”
+
+He nodded once. The plan had not improved yet. It had only become honest.
+
+Julie wrote the objective in one line.
+
+REACH NORTHBRIDGE SECURE SUITE 4 BEFORE 07:08. CAPTURE THE LIVE BUFFER, ROUTING STATE, FULL SIGNING CHAIN, HARDWARE SIGNATURE, SESSION TIME, AND K17-PHASE-B LINKAGE. LEAVE.
+
+Marcus read it.
+
+“That is an intelligence requirement,” he said. “Not an entry plan.”
+
+“No.”
+
+“Where is the suite?”
+
+Julie turned the workstation toward Elias. The Northbridge endpoint certificate filled the old display. They had examined the organizational subject and trust fingerprints. The lower fields remained collapsed beneath the service policy.
+
+“Registered equipment location,” she said.
+
+Elias used his left hand on the trackball. The first movement overshot the field. He corrected and expanded the certificate details.
+
+Most of the entries were administrative: contract tenant, certification authority, inspection cycle, hardware class. Near the bottom, a location extension appeared beside the service-access profile.
+
+REGISTERED EQUIPMENT SITE: FENWICK ANNEX
+ TENANT: NORTHBRIDGE STRATEGIC INITIATIVES
+ SERVICE LOCALITY: L STREET NW / WASHINGTON, DC
+ FACILITIES ENTRY: REAR SERVICE VESTIBULE
+ SECURE DOMAIN: WSS-4
+
+Marcus leaned forward, then stopped when his ribs objected.
+
+“The Fenwick Building,” he said.
+
+“You know it?” Julie asked.
+
+“I know the public side. L Street between Seventeenth and Eighteenth. Narrow commercial building, stone front, private offices above a ground-floor lobby. I attended two policy working groups there before Northbridge took the upper floors.”
+
+“Secure annex?”
+
+“Never saw it. There is a service alley behind the block and a landlord entrance off it. Deliveries, maintenance, cleaning crews. The public elevators are inside the L Street lobby.”
+
+Nothing about the building, the public offices, or the existence of a secure contractor suite was illegal. The certificate made it a location. It did not make it a crime scene.
+
+Elias expanded the next field.
+
+CONTROLLER PROFILE: APX SECURE FACILITY 4.2
+ MAINTENANCE ENROLLMENT: LOCAL / ESCORTED
+ PRE-SESSION DIAGNOSTIC WINDOW: ENABLED
+ LOCAL AUDIT INTERFACE: REQUIRED
+
+He went still.
+
+“What?” Julie asked.
+
+“I helped design that profile.”
+
+Marcus looked at him. “For Northbridge?”
+
+“No. For Apex-certified contractor suites. Places that need compartmented communications without turning an ordinary office building into a federal facility.” Elias pulled the blanket away from his hands. “The landlord controls the outer doors. The tenant controller begins after the service vestibule. Public-office badges and secure-suite access are separate.”
+
+“Current codes?” Julie asked.
+
+“I do not know them.”
+
+“Current staff?”
+
+“No.”
+
+“Cameras, guards, floor plan?”
+
+“I know the minimum design requirements. I do not know what Northbridge installed or changed.”
+
+“Good.”
+
+Elias looked at her. “That is not usually the response to ignorance.”
+
+“It is when the alternative is pretending.”
+
+She pointed to the diagnostic-window field. “Explain.”
+

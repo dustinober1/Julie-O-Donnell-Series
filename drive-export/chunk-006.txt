@@ -1,0 +1,130 @@
+Seven small fluctuations appeared near the beginning of the packet. The same cluster returned seventeen milliseconds later. Julie aligned a second packet by its synchronization pulse and subtracted the payload. The pattern remained. A third packet had been captured after the relay shifted to backup power; its payload and receiver temperature differed, but the same seven fluctuations appeared at the same relative amplitude.
+
+Atmospheric noise could resemble itself. Hardware faults could repeat. Digital filtering could create families of artifacts. None should reproduce a complex analog scar across changing conditions without variation.
+
+Identical.
+
+“Marcus.”
+
+He moved beside her.
+
+“Carrier noise doesn’t repeat exactly.”
+
+“What would cause it?”
+
+“A copied source. A generated source. Something built from a template.”
+
+The current partition held no comparison library. Julie searched the visible directory and found three approved operational tools beside a restricted folder.
+
+APX VALIDATION ARCHIVE  
+PROPRIETARY — MODEL ASSURANCE DIVISION
+
+ACCESS DENIED  
+OUTSIDE AUTHORIZED REVIEW SCOPE
+
+The live warning belonged to the government. The test material that might explain it belonged to the contractor. Even Marcus’s program-oversight credential showed temporary authority only over government operational data. The boundary was legally clean and operationally absurd: the government could act on the warning, but the officer responsible for the warning could not inspect the contractor material most likely to explain why it was wrong. Apex did not need to falsify a denial. It needed only to enforce ownership until the certification clock expired.
+
+He submitted an immediate request.
+
+POTENTIAL SYNTHETIC CONTAMINATION OF OPERATIONAL INTELLIGENCE FEED.  
+IMMEDIATE COMPARISON REQUIRED TO SUPPORT OR EXCLUDE ACTIVE SYSTEM DEFECT.
+
+PENDING CONTRACTOR APPROVAL.
+
+“Who approves it?” Julie asked.
+
+“Vance’s office.”
+
+“Then he knows exactly what we’re looking for.”
+
+“He knew when he changed your permissions.”
+
+The wall intercom clicked. Sarah Chen told Marcus the request exceeded the agreed scope. He stated the suspected defect, the requested archive, and the operational reason in one sentence, creating a timestamped record before she could refuse. Sarah invoked contractor intellectual property and the boundary between government data and Apex development assets.
+
+Julie pressed the control. “How do you know the archive is unrelated if I haven’t compared it?”
+
+“The Argus platform performs automated source-provenance checks before information enters operational processing.”
+
+“Then the comparison should confirm that.”
+
+“The comparison is unnecessary.”
+
+“Because the machine already compared itself to itself?”
+
+Sarah’s voice cooled. “The platform is certified to identify synthetic contamination.”
+
+Julie looked at the repeated carrier pattern. “It missed this one.”
+
+“You have not established that.”
+
+“That’s why I need the archive.”
+
+“The archive is not included in your authorization.”
+
+Marcus leaned toward the speaker. “We are discussing a possible false strategic warning, not a licensing dispute.”
+
+“Technical boundaries do not disappear because you dislike them.”
+
+The intercom went silent.
+
+Marcus asked whether Julie could enter the archive without permission. She reminded him that they were in a monitored facility analyzing classified data. He corrected the question: was there another way to make the comparison?
+
+“That was a better question.”
+
+The archive was restricted. Its index was not. Authorized users needed file names, creation dates, scenario labels, package owners, and classification fields before requesting access. The index could not reveal source files or carrier profiles, but it could show whether Apex had ever built something with the same operational shape. Julie filtered thousands of entries by geography, signal type, and packet interval, using metadata that existed to help authorized users find the very material the authorization boundary kept her from opening.
+
+SOUTH ASIA reduced the list to forty-seven. MOBILE ENCRYPTED EMITTER reduced it to nine. Eleven-point-two seconds left one.
+
+VALIDATION PACKAGE 88  
+REGION: SOUTH ASIA  
+SCENARIO TYPE: CROSS-BORDER ARTILLERY MOBILIZATION  
+SOURCE MODEL: ENCRYPTED MOBILE COMMAND NETWORK  
+STATUS: ARCHIVED  
+OPERATIONAL USE: PROHIBITED
+
+The contents remained locked, but the index showed the package owner.
+
+THORNE, ELIAS M.  
+ADVANCED MODELING DIVISION  
+BUILDING THREE
+
+The name connected a person to the test object. It did not show whether he still worked in the building, had production access, knew the package had moved, or had done anything beyond creating it. An author field could survive reorganizations, transfers, copied repositories, and administrative repackaging. Treating it as a deployment record would repeat the same error Argus made: replacing a physical act with the label most convenient to the model.
+
+“Could he have injected it?” Marcus asked.
+
+“He built a test package. That is not the same fact.”
+
+The scenario, interval, geography, and likely carrier profile aligned. They established resemblance, not deployment. Marcus started toward the door. Julie caught his sleeve.
+
+“They know every query I ran,” she said. “They do not know what I understood.”
+
+Query mirroring could reconstruct every path she opened, but not the order of her conclusions unless she supplied them aloud. The advantage was narrow and temporary.
+
+“Sit down. Look frustrated.”
+
+“I am frustrated.”
+
+“Then this should be easy.”
+
+Marcus sat while Julie reopened the relay feed.
+
+Somewhere inside Building Three, Elias Thorne had created a fictional war. Someone had removed the word fictional.
+
+A validation package needed a production path, authority, altered labels, and a system willing to accept those changes as ordinary. Elias’s name might belong anywhere in that chain—or only to the original act of building the test.
+
+Two floors below ground, Elias Thorne was trying to close a ticket that should not have existed.
+
+The Advanced Modeling Division’s integration lab held six empty workstations and the rush of cooling air beneath the raised floor. Most of his team had gone upstairs for an enterprise-patch readiness meeting. Elias preferred machines to meetings. Machines failed in ways he could reproduce. Meetings turned the same failure into an ownership question before anyone agreed on what had happened.
+
+His monitor displayed:
+
+DUPLICATE SCENARIO OBJECT DETECTED  
+PACKAGE ID: VAL-088  
+ACTIVE ENVIRONMENT CONFLICT
+
+Validation Package 88 had been archived eight months earlier. Elias had built it during the final adversarial cycle for Argus Enterprise 4.6: a Pakistani artillery command network moving launch assets toward the Line of Control beneath civilian communications cover, designed to fool Argus long enough to expose weaknesses in source verification.
+
+The early versions failed on clean headers, repeated packet loss, impossible terrain, identical equipment aging, and timing too regular to belong to people. One version placed a transmitter behind a ridge while preserving line of sight. Another simulated field radios with identical maintenance histories, as if every battery and connector had aged together. A later version survived the signal checks but failed because subordinate operators acknowledged commands with the same reaction time. Each review returned with the same instruction.
+
+MAKE IT BELIEVABLE.
+

@@ -1,0 +1,301 @@
+Bell called the service vestibule. She listened, eyes fixed on Julie.
+
+“No active ticket,” she said to the room.
+
+She covered the mouthpiece. “Disconnect the module.”
+
+The local buffer test showed forty percent.
+
+“If I disconnect now,” Elias said, “the controller records an interrupted incident test and leaves the interface open during signer presentation.”
+
+“It already records an unauthorized service call.”
+
+The operator’s console chimed.
+
+PRE-SESSION ROUTING STATE INITIALIZING
+
+“The synchronization is beginning early,” he said.
+
+“It is not the external session yet,” Elias said. “The suite is presenting local identity.”
+
+Bell lowered the phone.
+
+“You know too much about this system for someone who cannot seat a module.”
+
+“I helped design the controller profile.”
+
+The room went still.
+
+Bell looked at his temporary badge. “Who are you?”
+
+A red notification appeared on her tablet.
+
+Her gaze moved from the screen to Julie’s face.
+
+“You are Julie O’Donnell.”
+
+Julie kept both hands visible.
+
+Bell backed toward the secure door and pressed a recessed control. The gray door locked. The green fire exit stayed illuminated.
+
+“You need to step away from the controller.”
+
+“We need ninety seconds.”
+
+“You entered a secure communications facility under a false work order.”
+
+“Yes.”
+
+The admission frightened Bell more than another lie would have.
+
+The operator rose.
+
+Julie said, “Neither of us is armed. We are not here for your files, your staff, or anything outside the scheduled session.”
+
+“You are not staying for it.”
+
+Bell reached for the telephone.
+
+Elias watched the interface. “Pulling the module during an open incident session could destroy its directory.”
+
+“That is your problem.”
+
+“The local audit is yours,” Julie said. “Preserve it.”
+
+Bell stared at her.
+
+“WSS-four is about to receive a hardware-authenticated exchange tied to an active foreign operation. Your controller will record the same event we do.”
+
+“You expect me to believe that?”
+
+“No. I expect you to preserve what your system sees.”
+
+Bell stopped the operator with one hand. “Use the public corridor. Clear the other staff.”
+
+He looked from her to Julie.
+
+“Go.”
+
+He authenticated out through the gray door and left.
+
+Bell remained inside. She had not joined Julie. She had reduced the number of people exposed to the breach.
+
+The controller sounded again.
+
+LOCAL SUITE CERTIFICATE PRESENTATION IN PROGRESS
+
+Elias watched the state sequence.
+
+“Northbridge only.”
+
+The clock showed 07:06:11.
+
+Apex Building Three  
+Reston, Virginia  
+07:06 Eastern Daylight Time
+
+The WSS-4 alert reached Sarah Chen through the Apex vendor-certification channel.
+
+It carried no message content. It carried enough.
+
+SITE: FENWICK ANNEX  
+DOMAIN: WSS-4  
+UNSCHEDULED LOCAL INCIDENT SESSION  
+FULL EXTERNAL TRUST-CHAIN PRESERVATION  
+FIELD EVIDENCE MEDIA / DUAL PARTITION  
+VENDOR WATCH: ACTIVE
+
+Arthur Vance had created the watch at 05:24.
+
+The rule followed behavior, not a destination. Any certified facility asked to preserve a full external chain while using field media associated with the protected recovery record would generate a priority notice.
+
+Vance had not known where Julie would go.
+
+He had known what she would need.
+
+Northbridge security added the identification match.
+
+Sarah opened Mercer’s channel.
+
+“Fenwick Annex. L Street Northwest. Rear service approach and tenant secure domain.”
+
+Mercer answered over road noise. “Eastbound. Three minutes from the river.”
+
+He had already been sent toward Washington.
+
+“Coordinate with Metropolitan Police and building security. Clear the tenant corridor. No firearms without an identified deadly threat and a clear background.”
+
+Vance entered on a separate channel.
+
+“Prevent removal of all incident media.”
+
+Mercer asked, “Confirm force standard.”
+
+“Loss of the communications package constitutes imminent national-security harm.”
+
+Sarah opened the joint channel.
+
+“Material loss is not a deadly threat. My force standard stands.”
+
+“They have already compromised one strategic system,” Vance said.
+
+“They are inside an occupied commercial building.”
+
+“They are stealing an authenticated session.”
+
+“Then take them alive and preserve the local audit.”
+
+A short pause.
+
+“Telemetry recovery has priority,” Vance said.
+
+Sarah marked the order into her incident file and opened the vendor conference path to WSS-4.
+
+Northbridge Secure Suite 4  
+Washington, D.C.  
+07:07 Eastern Daylight Time
+
+The audit interface presented the Northbridge certificate.
+
+WSS-4 SUITE CERTIFICATE PRESENTED  
+LOCAL CLOCK: VERIFIED  
+INCIDENT BUFFER: OPEN
+
+Julie’s left hand moved toward CAPTURE.
+
+“No,” Elias said.
+
+“The buffer is open.”
+
+“Northbridge is talking to itself. The external device is not present.”
+
+Bell stood near the fire door with the telephone in one hand.
+
+The wall speaker activated.
+
+“Northbridge Secure Suite Four, this is Sarah Chen, Apex incident coordination.”
+
+Bell lifted the receiver. “Nora Bell. Two unauthorized subjects are inside. The local maintenance session is active.”
+
+“Are you safe?”
+
+“Yes.”
+
+“Other employees?”
+
+“I cleared the operator.”
+
+“Stay near the fire door.”
+
+Bell obeyed.
+
+Chen addressed Julie and Elias through the speaker. “Step away from the controller. The module remains in place until qualified personnel secure it.”
+
+“Preserve WSS-four’s local audit,” Julie said.
+
+“You are not in a position to issue evidentiary instructions.”
+
+“Vance’s watch triggered when we requested the external chain.”
+
+“I know what triggered it.”
+
+“Then you know he was waiting for anyone who followed the record.”
+
+“I know you entered a secure facility using a false service call.”
+
+The controller generated the session identifier.
+
+NB-WSS4-0708-2217  
+ROUTING STATE: OPENING
+
+“Still Northbridge,” Elias said.
+
+“The building is being contained,” Chen said. “Metropolitan Police and Apex protective services are approaching. Continuing increases the danger to everyone on the floor.”
+
+“We have harmed no one.”
+
+“You have created an armed-insider response in an occupied building.”
+
+“We are not armed.”
+
+“The responding officers do not know that.”
+
+Julie looked at Bell. “Tell her.”
+
+“I have not seen a weapon,” Bell said.
+
+Chen heard. “That does not change containment. When the interface permits safe removal, set down the module. You will be separated and transported into custody.”
+
+“Where Vance explains the record first.”
+
+“Where evidence is handled through lawful channels.”
+
+“Vance authorized deadly force for loss of telemetry.”
+
+Bell looked toward the speaker.
+
+“My rules do not,” Chen said.
+
+“Preserve his order.”
+
+“I already have.”
+
+The controller populated a new field.
+
+TASK PROFILE: K17-PHASE-B
+
+Elias pointed without touching. “That is the profile. Wait.”
+
+A field endpoint presented.
+
+FIELD ROUTE CERTIFICATE  
+AUTHORITY: TARIQ, MAJOR / FORWARD LIAISON CELL  
+CHANNEL: K17 OPERATIONAL CONTROL  
+STATUS: ACCEPTED
+
+The registered authority entered the session. The human operator did not.
+
+Structured status followed.
+
+SECURITY LINE ONE: PASSED  
+RELAY K-17 ACCESS: NOT CONFIRMED  
+PHASE B: HOLD FOR AUTHORIZATION
+
+Bell read the fields. “What is K-seventeen?”
+
+Julie kept her attention on the interface.
+
+EXTERNAL SIGNER REQUESTED  
+CHALLENGE ISSUED  
+AWAITING CERTIFICATE PRESENTATION
+
+She moved toward CAPTURE again.
+
+Elias shook his head. “If we start now, Partition B seals around an unidentified fingerprint.”
+
+The interface clock reached 07:08:03.
+
+Certificate blocks began entering.
+
+LEGISLATIVE SECURE SERVICES ROOT  
+SENATE MEMBER OFFICE CERTIFICATION AUTHORITY  
+STERLING OFFICE NATIONAL SECURITY AUTHORITY
+
+The fourth block took longer. A retention timer appeared beside the earliest routing receipt.
+
+BUFFER RETENTION: 00:27
+
+“Clean close can purge the first receipts before ninety seconds,” Elias said.
+
+The final block loaded.
+
+PORTABLE EXECUTIVE SIGNER  
+REGISTERED AUTHORITY: OFFICE OF SENATOR STERLING  
+DEVICE SERIAL: SSO-NS-004
+
+Bell stared at the name.
+
+“That device belongs to Sterling.”
+
+“It is registered to his office,” Julie said.
+

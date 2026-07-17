@@ -1,0 +1,207 @@
+Mercer moved into the open space Ortiz had left between the columns. He stopped at the officer’s boundary.
+
+“Officer Ortiz, Apex Defense Systems asserts ownership and security authority over the classified telemetry case and the electronic module. Both were removed from an accredited facility during an active sabotage event. They require immediate recovery by authorized program personnel.”
+
+Ortiz kept his body toward the trio. “Who is the receiving federal authority?”
+
+“Apex is the designated facility security authority.”
+
+“For Building Three.”
+
+“For the material.”
+
+“That is a claim of ownership. I asked who receives criminal or evidentiary custody.”
+
+Mercer’s jaw tightened. “The incident is under joint coordination.”
+
+“Name the agency and receiving officer.”
+
+Mercer touched his radio.
+
+Before he could speak, Vance’s voice came through the open channel, polished and unmistakable.
+
+“The material is classified strategic telemetry under executive recovery authority. O’Donnell’s attempt to direct preservation at Hartwell is continuing hostile target development. Secure both devices before she manipulates another protected system.”
+
+Ortiz looked at Elias’s module.
+
+Elias’s hands tightened around it.
+
+Julie saw the officer’s attention change. The object looked worse because Vance had named it as active danger.
+
+“It is offline,” Elias said.
+
+“Do not touch anything,” Ortiz ordered.
+
+“I’m not.”
+
+“What does offline mean?”
+
+“No radio. No network connection. No Hartwell connection. It contains two sealed partitions and a local handling journal.”
+
+Mercer said, “He used similar media to capture a protected Northbridge session.”
+
+Elias’s fear showed in the speed of his next breath, not in the answer.
+
+“Yes. At Northbridge, it was physically connected to a local audit port under a sponsor exception obtained by deception. It is not connected now. It cannot read Hartwell. It cannot penetrate Hartwell. It cannot identify a certificate across the street.”
+
+Ortiz said, “Then why are you holding it?”
+
+“Because Partition A contains a sealed derivative made before Northbridge. Partition B contains the sealed WSS-four incident package. The board against my body is the original administrator token that distinguishes my replayed deployment identity from my later voluntary actions. Separating them from me without a documented transfer damages the evidence.”
+
+“You are telling me the device is evidence.”
+
+“Yes.”
+
+“Not a tool.”
+
+“It can be both in other conditions. Here, now, it is offline evidence with a local manual marker function.”
+
+Ortiz’s eyes went to Elias’s left thumb.
+
+“What does the button do?”
+
+“It writes a handling event into the enclosure journal. Local input, device time, local hardware state.”
+
+“What does it prove?”
+
+“That I pressed it.”
+
+“What does it prove about Hartwell?”
+
+“Nothing by itself.”
+
+The answer entered the body-camera record in Elias’s own voice.
+
+A second radio transmission cut across Mercer’s channel. Sarah Chen spoke with the controlled cadence Julie remembered from Room 402B.
+
+“Incident coordination to all Apex personnel at the garage. Metropolitan Police has scene authority. Capture and evidence preservation remain active. No transfer to Apex absent named receiving custody and a documented receipt. Subjects remain under apprehension. Do not allow connection, opening, alteration, or destruction of any media.”
+
+She had not released them.
+
+She had denied Vance an undocumented recovery.
+
+Vance answered on the same channel. “Executive authority requires immediate isolation of the telemetry.”
+
+Chen did not debate him. “Your instruction is preserved. Field force standard and receiving-custody requirement remain unchanged.”
+
+Mercer looked at his radio, then at Ortiz.
+
+The officer had heard both instructions.
+
+So had the body camera.
+
+Julie turned her head far enough to recover the Hartwell sightline without moving her feet.
+
+The controlled door remained closed. The lamp above it remained white. The exterior officer stood near the privacy-screen position, one hand at his earpiece. The probable support SUV had not moved.
+
+The hidden hand remained hidden.
+
+The dashboard clock changed to 07:47:03.
+
+Less than ninety seconds remained in the Hartwell window.
+
+Ortiz saw her attention shift.
+
+“You said no movement toward the site.”
+
+“We are not moving.”
+
+“Then keep your feet where they are.”
+
+“I will.”
+
+His radio carried the dispatch event into another channel. A District watch officer repeated the preservation scope. Hartwell security requested the incident basis. Dispatch answered with the known-plate alert, the protected-site proximity, and Julie’s recorded claim. No one endorsed the claim. No one rejected the need to preserve a record during an active police containment.
+
+Procedure moved because later review required something to review.
+
+The second officer checked the west ramp.
+
+“Unit Three, west vehicle line is still moving. Additional cruiser is entering the outbound gate below.”
+
+Marcus heard it.
+
+“Route exposed,” he said.
+
+Ortiz looked at him. “Do not make a route call.”
+
+“He owns the vehicle decision,” Julie said.
+
+“You own nothing on this scene.”
+
+“The evidence roles still exist whether you recognize them or not.”
+
+Ortiz’s expression hardened.
+
+Julie corrected herself before defiance became the only thing the camera preserved.
+
+“You control the scene. Marcus knows whether the van can move without striking an officer or losing the originals. I need him to state when that becomes impossible.”
+
+“You are not moving the van.”
+
+“If the gate remains physically open, that is an instruction. If the gate becomes physically blocked, it is also the abort condition we established before you reached this level.”
+
+Ortiz studied her.
+
+“You are telling me you will stop when police close the route.”
+
+“Yes.”
+
+“You are already being told to stop.”
+
+“Yes.”
+
+The two facts did not merge neatly. Julie had continued observation while obeying the no-advance line. Ortiz had lawful authority to detain her before the Hartwell event finished. She had no lawful authority to keep the scene open.
+
+He could end it now.
+
+Instead, he said, “The van does not move. You stay where you are. If the route changes, my officer will call it.”
+
+Julie nodded once.
+
+The dark-overcoat entrant appeared outside Hartwell.
+
+The controlled door opened only far enough to release one person. The overcoat stepped through, turned sideways while the door closed, and returned along the narrow lane toward the exterior holding position. Both hands were visible above the privacy panel.
+
+Empty.
+
+Julie raised one finger with her left hand and kept her feet planted.
+
+“07:47:21. Dark-overcoat entrant has returned outside the controlled domain.”
+
+Ortiz pivoted his shoulders without turning his back on the trio. From his angle, the overcoat was visible between the van’s hood and the open side of the garage.
+
+“I see one person outside the door,” he said. “Dark coat.”
+
+“Do not identify the person,” Julie said. “Clothing only.”
+
+“I know how to describe a person.”
+
+“Yes.”
+
+The correction was deserved.
+
+Elias looked at Ortiz. “Permission to enter one manual handling marker with my left thumb. No connection. No partition access.”
+
+Ortiz took one step closer, stopping well outside reach.
+
+“Turn the display toward me without moving the device away from your body.”
+
+Elias did. The movement pulled his injured hip out of alignment. He caught himself against the van with one shoulder and kept the module against his torso.
+
+The small display showed both partition seals and the handling-journal control.
+
+PARTITION A: SEALED / READ-ONLY / INTEGRITY VERIFIED
+PARTITION B: SEALED / WSS-4 CONTROLLER SEAL PRESENT
+DEVICE HANDLING JOURNAL: AVAILABLE
+
+“Press once,” Ortiz said. “Then remove your thumb.”
+
+Elias pressed.
+
+HANDLING EVENT 010
+OPERATOR INPUT: MANUAL
+
+No external image entered the module. No name. No conclusion.
+
+Marcus wrote the observed time and the limitation.
+

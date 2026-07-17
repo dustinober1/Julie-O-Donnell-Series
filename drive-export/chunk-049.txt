@@ -1,0 +1,278 @@
+She moved it within a foot of the glass.
+
+“You’re not on the morning sheet.”
+
+“Call came after it closed.”
+
+“Who called?”
+
+“Tenant technical watch.”
+
+“That a name?”
+
+“Originating desk.”
+
+Silence.
+
+Then the magnetic lock released.
+
+Inside, the service vestibule was small and clean. Gray tile. Security desk. Four camera feeds. A second steel door behind the guard. The tenant directory listed Northbridge among law firms, policy groups, and consulting companies.
+
+The guard wore a dark blazer over a white shirt. His badge belonged to the landlord, not Northbridge.
+
+“Identification.”
+
+Julie pointed to the RANDALL patch.
+
+“Company identification.”
+
+“Fleet dispatcher has it.”
+
+“Then the fleet dispatcher should have called.”
+
+“He did.”
+
+The guard held out his hand. Julie gave him the paper.
+
+He entered the tenant identifier and authorization number into the landlord terminal.
+
+FORMAT VALID  
+TENANT IDENTIFIER CONFIRMED  
+SPONSOR ACKNOWLEDGMENT REQUIRED
+
+“That means the number passes intake,” Elias said. “It doesn’t mean the tenant accepted us.”
+
+The guard looked at him.
+
+“I know what it means.”
+
+Elias lowered his gaze. “Right.”
+
+The guard called upstairs. Julie watched the camera feeds. The alley remained ordinary. The public lobby appeared in the fourth frame, where a muted television showed Sterling beneath flags and Julie’s photograph in the lower corner.
+
+“I have two Potomac technicians for WSS-four,” the guard said into the phone. “Paper order. Local trust-chain diagnostic. No, they aren’t on the sheet.” He listened. “The number validates at landlord intake.”
+
+He ended the call and kept the work order on his desk.
+
+“Northbridge is sending someone down. Sign the service log.”
+
+Julie printed J. RANDALL with her left hand and added the van identifier. Elias wrote E. MASON. His M began like a T before he corrected it.
+
+The guard noticed. “You new?”
+
+“New to the route.”
+
+The inner door opened.
+
+A woman in dark trousers and a pale blue shirt entered carrying a tablet. Her badge identified her as Northbridge.
+
+“Nora Bell. Facilities and technical watch.”
+
+She read the work order. “Pre-session audit buffer retention fault.”
+
+“Yes.”
+
+“We didn’t open a ticket.”
+
+“Someone did,” Julie said.
+
+“Not in our system.”
+
+Elias shifted weight off his left hip. “The controller is already in diagnostic open. If the buffer test generated locally, it may not have reached your queue.”
+
+Bell studied him. “How would you know the controller state from here?”
+
+He pointed to the tenant panel beside the inner door.
+
+WSS-4  
+PRE-SESSION DIAGNOSTIC WINDOW OPEN  
+LOCAL AUDIT CHECK AVAILABLE
+
+“That is normal before a scheduled session,” Bell said.
+
+“Available is normal. An unconfirmed buffer self-test is the condition we were sent for.”
+
+The panel did not say anyone had sent them.
+
+Bell used her badge to open the detail page.
+
+INCIDENT BUFFER SELF-TEST  
+STATUS: NOT YET CONFIRMED
+
+“It always says that until the test runs.”
+
+“Then whoever called may have mistaken the pre-session state for a fault.”
+
+“I am technical watch.”
+
+“One of them.”
+
+The guard lifted the work order. “I can call Potomac dispatch.”
+
+“Do it,” Bell said.
+
+He dialed the printed number. Hold music answered.
+
+Bell looked at the controller, the paper, then Julie. The workflow had placed responsibility exactly where the false order needed it. Refusing the visit might delay the scheduled session. Accepting it meant sponsoring people no live system recognized.
+
+“You remain in the tenant corridor,” Bell said. “You touch only WSS-four’s local controller. I sponsor a provisional diagnostic, and the exception stays in the audit.”
+
+“Understood.”
+
+“If the ticket fails verification, the session ends.”
+
+She handed them red temporary badges and opened the inner door.
+
+The freight elevator rose through an ordinary office building. Elias kept one hand against the wall until the movement stopped.
+
+Bell noticed. “You all right?”
+
+“Long night.”
+
+“So I heard.”
+
+She meant the border crisis.
+
+The elevator opened onto carpet, framed policy reports, desks, and a coffee machine. One employee wore a headset while watching a map of the India-Pakistan border. Another glanced at the maintenance crew and returned to work.
+
+No one looked like a conspirator.
+
+Bell led them through a controlled internal door to an unmarked gray entrance. She authenticated with her badge and code.
+
+NORTHBRIDGE STRATEGIC INITIATIVES  
+WSS-4 SECURE DOMAIN  
+SPONSOR AUTHENTICATION REQUIRED
+
+“Work order,” she said.
+
+Julie gave it back.
+
+Bell entered the authorization number.
+
+SERVICE FORMAT VALID  
+LIVE TICKET: NOT FOUND  
+PROVISIONAL LOCAL DIAGNOSTIC PERMITTED  
+SPONSOR ACCEPTS RESPONSIBILITY
+
+“That is where this should stop,” Bell said.
+
+The clock in the corner read 07:02:17.
+
+Elias looked at the two available controls.
+
+DECLINE SERVICE  
+AUTHORIZE ESCORTED DIAGNOSTIC
+
+Beneath the first:
+
+PRE-SESSION EXCEPTION MAY REQUIRE OPERATOR REVIEW
+
+“If you decline,” he said, “the controller may hold the signer session until the operator acknowledges the refused maintenance event.”
+
+Bell pressed AUTHORIZE.
+
+The gray door unlocked.
+
+“Five minutes,” she said. “Then you leave whether your dispatcher answers or not.”
+
+Northbridge Secure Suite 4  
+Washington, D.C.  
+07:03 Eastern Daylight Time
+
+WSS-4 occupied less space than Julie expected: a narrow equipment room, a two-person communications workspace, and a short corridor ending at a green-lit fire door. A hardened cabinet held the controller. Beside it stood the protected audit interface Elias had described at the cutout.
+
+A single operator turned from his console.
+
+“Maintenance?”
+
+“Provisional,” Bell said. “Local audit test only. Do not open message content.”
+
+“We’re five minutes from session.”
+
+“I’m aware.”
+
+His concern was professional, not conspiratorial. The synchronization mattered to him. That did not mean he knew what K-17 was.
+
+Bell pointed to the audit interface. “You stay on this side of the yellow line.”
+
+Elias placed the canvas pouch on the service shelf. His hands shook when he opened it.
+
+Julie unfolded the work order beneath the module and recorded the wall-clock time.
+
+07:03:48 — INCIDENT MEDIA SEAL OPENED.
+
+Elias broke the tamper tape and removed the incident module. Bell checked the serial against the paper.
+
+“Matches.”
+
+He opened the protected port.
+
+LOCAL INCIDENT MEDIA DETECTED  
+PARTITION A: SEALED / READ-ONLY / INTEGRITY VERIFIED  
+PARTITION B: EMPTY / WRITE-ARMED
+
+Bell leaned closer. “What is on Partition A?”
+
+“Prior incident material,” Julie said. “The controller cannot write to it.”
+
+“That was not my question.”
+
+“It is outside this service scope.”
+
+“Potomac does not bring one customer’s evidence into another tenant site.”
+
+“Field module shortage.”
+
+The answer sounded thin because it was.
+
+Elias seated the module. His bandaged finger slipped on the collar, leaving the contacts misaligned.
+
+MEDIA CONTACT INCOMPLETE
+
+Bell checked her tablet. “Three minutes.”
+
+He braced his right wrist with his left hand, reseated the module, and locked the collar.
+
+MEDIA CONTACT STABLE
+
+The interface requested the service identifier and audit scope. Elias entered the work-order number.
+
+LIVE SERVICE RECORD NOT FOUND  
+LOCAL SPONSOR EXCEPTION ACTIVE
+
+He selected:
+
+INCIDENT REASON: PRE-SESSION BUFFER RETENTION  
+AUDIT SCOPE: CURRENT SESSION ENVELOPE  
+PRESERVE EXTERNAL TRUST CHAIN: YES
+
+Bell read the last field. “Why preserve the external chain for a buffer test?”
+
+“The reported fault is against the pre-session envelope.”
+
+“No one reported a fault.”
+
+The controller transmitted before Elias could answer.
+
+VENDOR INTEGRITY NOTICE  
+APX SECURE FACILITY 4.2  
+UNSCHEDULED EXTERNAL-CHAIN PRESERVATION REQUEST
+
+Elias stopped.
+
+“What?” Julie asked.
+
+“The controller notified Apex certification.”
+
+Bell picked up the wall phone. “What did you send?”
+
+“The controller sent it.”
+
+“To whom?”
+
+“Apex.”
+
+The Northbridge operator removed one side of his headset. “Does it affect session start?”
+
+“No,” Elias said.
+

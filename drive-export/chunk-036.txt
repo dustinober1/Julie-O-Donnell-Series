@@ -1,0 +1,213 @@
+He struck one knee on the raised floor and nearly lost the baffle. Julie caught the upper edge with her right hand. The weight pulled her wrist backward. Her fingers opened at once.
+
+The plate dropped against the cabinet with a metallic crack.
+
+Marcus seized it before it fell flat and forced it back into position with his forearms.
+
+The countdown showed 00:18.
+
+Smoke crossed the aisle in a denser ribbon.
+
+The second sampling port drew it in.
+
+ZONE S-4 — PARTICULATE DETECTED
+ ALARM VERIFICATION
+
+For one second, nothing else happened.
+
+Then the third hardwired indicator turned red.
+
+VERIFIED FIRE
+ LIFE-SAFETY RELAY ACTIVE
+
+Apex Security Command Center
+ 05:02 Eastern Daylight Time
+
+The first detector reached Sarah Chen as a yellow point inside the production enclave.
+
+H-3 POWER DISTRIBUTION HEAT — PREALARM
+
+Mercer’s team had cleared the gate’s movement envelope and established a position at the production junction twenty feet beyond it. Two operators covered the main approach. A third watched the normally sealed service egress. No one stood where the armored leaves or a pressure release could catch them.
+
+Arthur Vance saw the prealarm.
+
+“Isolate the cabinet,” he said.
+
+“The enclave is already isolated.” Sarah opened the fire matrix. “This is a physical detector, not a software status.”
+
+“Then they are damaging the production environment.”
+
+The second detector appeared.
+
+S-4 RECOVERY AISLE SMOKE — CONFIRMED
+
+The fire panel did not ask Apex for permission.
+
+VERIFIED FIRE
+ HARDWIRED EVACUATION CONFIGURATION
+ EXTERNAL MONITORING SIGNAL TRANSMITTED
+
+Across the command center, white fire strobes replaced the amber suppression lights. A building alarm began on the floors above them. The fire system reported its own transmission path: campus emergency control, contracted monitoring center, county dispatch interface.
+
+Sarah selected the security hold on the enclave gate.
+
+The command returned:
+
+SECURITY SEAL SUBORDINATE
+ VERIFIED FIRE EGRESS IN PROGRESS
+
+Vance moved to the adjacent console. “Reassert the hold through executive control.”
+
+“It is not on executive control.”
+
+“Every actuator in this building is on a control path.”
+
+“Not one you own from here.”
+
+The words came out sharper than she intended.
+
+Vance looked at her.
+
+Sarah keyed Mercer’s channel.
+
+“Containment One, gate entering automatic egress. Remain clear of leaf and pressure zones. Establish custody line at Junction Delta. Weapons controlled. Do not fire into agent discharge or moving fire partitions. No entry until the suppression zone clears.”
+
+Mercer answered immediately. “Service egress is releasing.”
+
+“Cover it. Do not obstruct the fire lane.”
+
+She opened the second-team channel. “Containment Two, reposition to Loading Three and the south mechanical ramp. Preserve access for fire response. Subjects remain capture priority. Telemetry case has priority over all other property.”
+
+Vance said, “Over the occupants?”
+
+Sarah did not repeat his language.
+
+“Lethal force is authorized once they clear sensitive machinery,” he said.
+
+She kept both channels open. “Ballistic force remains restricted to an identified deadly threat with a clear background. Less-lethal first. Recover all three and the case.”
+
+Vance’s expression changed by less than a degree.
+
+He opened the hardened incident-report channel and selected HOSTILE INSIDER SABOTAGE. O’Donnell’s name populated the primary-subject field before the gate completed its first bolt cycle.
+
+He had lost command of the gate.
+
+He had not lost command of the report that would explain why it opened.
+
+Production Enclave
+ 05:02 Eastern Daylight Time
+
+The room changed state all at once.
+
+White strobes fired from the ceiling. Emergency power dropped from PDU-B, killing the load bank before the foam strip could flare. The smoke-control fans reversed, drawing the remaining gray particulate toward the fire-zone return.
+
+The environmental display replaced the countdown header.
+
+VERIFIED FIRE
+ EVACUATION CONFIGURATION ACTIVE
+ SUPPRESSION RELEASE LATCHED
+ DISCHARGE IN 00:12
+
+The six gate bolts began withdrawing.
+
+The first struck inside the wall with enough force to move the air. The second followed from the opposite side. Then the third and fourth.
+
+Julie lifted the aluminum case with her left hand. Its weight pulled her shoulder down. Marcus got beneath the opposite lower edge with one forearm.
+
+“Elias first,” she said.
+
+He stared at the recovery console. The open recorder bay showed an empty slot and the broken numbered tamper strip.
+
+“Elias.”
+
+“The local log—”
+
+“Is sealed. You have the recorder.”
+
+He pressed a hand against his shirt, confirming both the cartridge and the circuit board remained there. Then he limped toward the gate.
+
+The fifth bolt withdrew.
+
+The sixth stopped halfway.
+
+A status line appeared.
+
+PRESSURE DIFFERENTIAL ABOVE EGRESS LIMIT
+ EQUALIZATION ACTIVE
+
+A vent opened over the gate. Air moved outward through it in a hard, cold stream.
+
+The suppression clock reached 00:07.
+
+“Why is the bolt stopped?” Marcus asked.
+
+“Safety load,” Elias said. “It will clear when pressure falls.”
+
+“Before or after we stop breathing?”
+
+The pressure number dropped.
+
+38 Pa.
+
+The sixth bolt slammed free.
+
+The gate motors engaged. The two steel leaves shifted backward into their hinge housings, then began rotating inward.
+
+A black seam opened between them.
+
+The suppression display reached 00:02.
+
+“Move with the gap,” Julie said.
+
+The seam widened to the width of a hand.
+
+One second.
+
+The manifold released.
+
+The roar struck from every ceiling nozzle at once.
+
+The agent drove downward hard enough to turn condensation into white turbulence. Loose maintenance labels lifted from the console and spun across the room. Mist flashed along cabinet edges. The pressure wave hit Julie’s face and forced air from her mouth.
+
+The smolder at PDU-B disappeared beneath the flood.
+
+The gate kept opening.
+
+Elias turned sideways and pushed into the gap before it reached the marked personnel width. His shoulder caught the left leaf. He forced through, dragging his injured leg after him, and vanished into the white-strobed approach.
+
+Julie and Marcus shoved the case edge-first behind him. Elias caught the handle with both hands and almost lost it when his cut finger failed. He lowered the case to the floor instead of trying to lift it.
+
+Julie followed.
+
+The air near the gate still carried oxygen from the corridor, but each breath gave her less than the one before. Her attention narrowed to the steel edge beside her face, the case beyond it, and Marcus behind her.
+
+She cleared the threshold and turned.
+
+Marcus had one hand on the frame. His damaged boot folded as he stepped between the leaves. The torn heel rolled under his foot, and his struck thigh failed at the same moment.
+
+He went down inside the opening.
+
+The agent discharge hammered his back and filled the space around him with white mist.
+
+Julie reached with her right hand by reflex. Pain broke her grip before she closed it around his wrist.
+
+She changed position, hooked her left forearm beneath his elbow, and pulled.
+
+Marcus moved six inches. His damaged heel caught in the raised threshold channel.
+
+Elias left the case and came back.
+
+Every part of him wanted the corridor. Julie could see it in the angle of his body and the panicked effort to draw a full breath. He returned anyway, caught the back of Marcus’s coveralls, and pulled with both hands.
+
+Marcus kicked free. The sole tore farther away but released from the channel.
+
+They dragged him into the approach.
+
+Behind them, the enclave disappeared into condensation and agent turbulence. The gate leaves continued opening because the hardwired egress cycle had priority. The roar followed them through the widening seam.
+
+“Up,” Marcus said.
+
+He could not make his body obey the word.
+
+Julie and Elias got him onto one knee. He found the wall and used it to stand.
+

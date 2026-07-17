@@ -1,0 +1,189 @@
+Julie twisted back.
+
+Marcus remained on the other side.
+
+The shutter had dropped below his waist. He was running toward it with the canvas tool bag in one hand, his body shortened into a crouch. Behind him, a security door was cycling open beneath a white strobe.
+
+“Leave the bag,” Julie shouted.
+
+Marcus flung it through. The bag struck the floor beside her and split open, scattering a flashlight, a roll of tape, and the compact pry bar.
+
+The gap narrowed to eighteen inches.
+
+Marcus dove.
+
+His hands hit first. Julie seized his right wrist with both of hers and pulled. His shoulder passed beneath the rubber seal. The steel caught the heel of one boot and dragged him backward.
+
+Marcus kicked free.
+
+Julie fell onto her back with his weight across her legs as the shutter struck concrete.
+
+The impact was enormous.
+
+Locking dogs drove into the floor channel one after another. A final hydraulic thud traveled through the slab.
+
+Then the warning horn stopped.
+
+For several seconds, the only sound was the three of them moving air through their lungs and the deep mechanical vibration of Building Three below.
+
+Marcus rolled off Julie and sat up. The heel of his boot was torn open, exposing the pale inner lining, but his foot moved when he tested it.
+
+“You good?” he asked.
+
+Julie flexed the hand that had taken his weight. Pain ran from her thumb into her wrist. Nothing felt broken.
+
+“Elias?”
+
+Elias was pressed against the wall beside the telemetry case. One lens of his glasses had fogged. He stared at the shutter as though it might reverse and finish the job.
+
+“It won’t open,” he said.
+
+Marcus gathered the pry bar and flashlight. “That sounded convincing.”
+
+“No. I mean it can’t open from this side during a production quarantine. The hydraulic plant is in the corridor we just left.”
+
+Julie rose and examined the seam. No handle. No local panel. The shutter sat inside a steel channel sunk into the walls and floor. Its purpose was fire isolation, not access control, which made it stronger than any ordinary security door.
+
+A red status display blinked beside it.
+
+PHYSICAL CONTAINMENT ACTIVE
+ LOWER TIER ISOLATED
+ 04:52:19
+
+Julie looked down the corridor.
+
+The primary lights were dead. Emergency strobes painted the concrete in alternating bands of red and black. Cable trunks crowded the ceiling above chilled-water pipes thick as her torso. Condensation gathered on the insulation and fell in slow, cold drops. Every few seconds, a heavy compressor engaged somewhere beyond the walls, sending a tremor through the soles of her boots.
+
+They had not escaped Apex.
+
+They had gone deeper into it.
+
+Marcus closed the tool bag and handed Julie the telemetry case. “Tell me we didn’t come through the wrong side.”
+
+Julie checked the small display beside the handle.
+
+CAPTURE SEALED
+ LOCAL MEDIA INTACT
+ NETWORK UNAVAILABLE
+
+The case still held the raw relay packets and the copy of the altered Argus telemetry. It held enough to show that the alert had been manufactured. In a room full of federal investigators, with time to authenticate every record and compel Apex to surrender its logs, it might have been enough.
+
+They had seven minutes and change.
+
+“No external link,” Julie said.
+
+“Quarantine cut them all,” Elias replied. His voice shook, but the answer came quickly. “Corporate, classified transport, ordinary voice. The production tier goes closed-loop whenever physical containment activates.”
+
+“Can Chen see us?” Marcus asked.
+
+“Door events. Environmental faults. Maybe local camera summaries if the buffers are still routing. She won’t have live video down here.” Elias wiped his glasses on the hem of his shirt and put them back on. “Neither will Vance.”
+
+“A blind prison,” Marcus said.
+
+“Temporarily.”
+
+Julie looked at the pipes, the emergency display, the dark lens mounted over the shutter. The quarantine had severed their path out and most of the pathways in. It also separated the lower tier from the systems Sarah Chen controlled upstairs.
+
+“What remains connected?” Julie asked.
+
+“Life safety. Cooling. Local security. The production enclave.”
+
+“Argus?”
+
+Elias nodded. “The enclave is designed to continue through a campus outage or a network attack. Once it isolates, the production process runs locally from the last trusted state.”
+
+“The poisoned state,” Julie said.
+
+“Yes.”
+
+Marcus checked his watch. “At zero-five-hundred?”
+
+“The current threat package clears its final hold. Argus releases the actionable assessment and the strike-support data attached to it.” Elias looked at the case in Julie’s hand. “Taking the raw telemetry outside later won’t stop that.”
+
+Julie already knew. The copied packets could prove the alert false after the deadline. They could not reach inside the sealed production process and make it doubt the data before commanders acted on it.
+
+“Recovery interface,” she said.
+
+Elias looked at her.
+
+“You said the enclave keeps a local maintenance path for a contaminated feed.”
+
+“A provenance-recovery console. Inside the gate.”
+
+“Can it suspend the release?”
+
+“If we restore the original source labels and force a local integrity review.”
+
+“If.”
+
+“The interface was built for damaged deployments, not for three fugitives carrying an incomplete capture.”
+
+“Can it do it?”
+
+Elias glanced at the clock on the shutter panel.
+
+“Yes.”
+
+“Then take us there.”
+
+He did not move.
+
+The red light crossed his face. Fear had stripped away the defensive precision he used when discussing software. He looked younger than he had upstairs and far less certain that knowledge should require action.
+
+“The production tier has no normal exit during quarantine,” he said. “The gate is at the deepest point in the lower level. Once we go there, every route behind us will seal in sequence.”
+
+“We don’t need an exit yet,” Julie said. “We need to prevent what happens at five.”
+
+“And after?”
+
+“After depends on whether we get there.”
+
+“That isn’t a plan.”
+
+“It’s the part of the plan we can afford.”
+
+Marcus moved to the nearest junction and aimed the flashlight down each branch without sending the beam far. “Which way?”
+
+Elias pointed straight ahead. A green evacuation sign identified the corridor as PRODUCTION ACCESS. “That’s the marked route.”
+
+Julie heard the qualification.
+
+“And the route you want?”
+
+Elias pointed left, where a narrower passage descended beneath a web of insulated piping. The wall stencil read COOLING SERVICE — AUTHORIZED MECHANICAL PERSONNEL.
+
+Marcus turned toward him. “Production is straight.”
+
+“The main approach has four security partitions and a manned checkpoint. They’ll seal it from command even without live video.”
+
+“You said command was blind.”
+
+“Blind is not powerless. Sarah can order every door on that route into secure mode.”
+
+“And the cooling passage?” Julie asked.
+
+“Runs beside the primary loop. The enclave needs an independent chilled-water supply, so the gallery continues past the security partitions and reconnects near the rear gate.”
+
+The emergency evacuation map beside the junction showed no connection. The cooling corridor ended in a blank service block twenty yards west of the production enclave.
+
+Marcus tapped the map. “It says dead end.”
+
+“It’s the unclassified life-safety drawing. The enclave expansion isn’t on it.”
+
+“Convenient.”
+
+“I didn’t design the map.”
+
+“You designed enough of this place to get us trapped in it.”
+
+Elias flinched. “I told you where the gate is.”
+
+“You told us to walk away from it.”
+
+The building shuddered as another compressor came online. Julie put one hand against the largest pipe. Cold penetrated the damp insulation. A stamped metal tag identified it as CHW-P1 SUPPLY. An arrow showed flow toward the left-hand passage.
+
+A smaller return pipe ran above it in the opposite direction. Its label had been replaced recently.
+
+CHW-ARGUS-R
+ INDEPENDENT PROCESS LOOP
+

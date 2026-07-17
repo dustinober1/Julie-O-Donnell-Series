@@ -1,0 +1,192 @@
+Elias nodded. “Independent confirmation. A single detector gives prealarm. A test input or a detector fault won’t release the gate. Heat in the distribution bay and smoke in the recovery aisle will.”
+
+“Real heat and real smoke.”
+
+“Yes.”
+
+Marcus glanced toward the gate. “And when it opens, Mercer will be on the other side.”
+
+“No pump,” Julie said.
+
+The hydraulic strain that had worked against the six bolts moments earlier was gone. Beyond the steel, she heard only one boot scrape and a radio click farther back than before.
+
+“They cleared the threshold,” Marcus said. “Not the level.”
+
+Julie crossed to the recovery console. The aluminum case remained open beneath it, the evidence drive seated in its foam cradle and the shielded cable locked into the protected forensic port. She could not carry it until the read-only session was closed.
+
+“What preserves the sealed recovery record if we leave?” she asked.
+
+“The enclave log.”
+
+“Inside the enclave.”
+
+Elias looked at the lower service panel. “There should be a physical incident recorder. Post-event investigators use it if the enclave loses network and power.”
+
+“Should?”
+
+“I have never removed one during an active suppression countdown.”
+
+“Find it.”
+
+Julie brought up the media controls. The display showed the case still mounted READ-ONLY and the reconciliation workspace already sealed.
+
+CLOSE INCIDENT INPUT SESSION?
+
+She selected YES.
+
+The console began committing the final media state to the case manifest. No gray wheel appeared. Instead, five lines checked themselves in sequence.
+
+READ-ONLY BOUNDARY CONFIRMED
+ SEALED BLOCK COUNT CONFIRMED: 136
+ INCOMPLETE BLOCK COUNT RECORDED: 47
+ EXCLUDED BLOCK COUNT RECORDED: 311
+ RECOVERY SESSION REFERENCE ATTACHED
+
+The countdown above the gate reached 00:59.
+
+Marcus pushed away from the cabinet and came to the case. The first step on his right leg almost failed. He caught the console with one forearm, waited for the muscle in his thigh to stop jumping, then crouched without bending his ribs more than necessary.
+
+“Tell me when.”
+
+The media display changed.
+
+INCIDENT INPUT UNMOUNTED
+ SAFE TO DISCONNECT
+
+“Now.”
+
+Marcus released the locking collar with both thumbs. Julie held the socket steady with her left hand while he drew the connector straight out. The cable came free without resistance.
+
+She coiled it into the lid compartment. Her right hand could guide the loop but not tighten it. Marcus pressed the retaining strap closed.
+
+Elias had opened a recessed panel beneath the recovery console. Inside, a black metal cartridge sat behind a tamper strip and a mechanical release lever. Its face carried no capacity marking, only a serial number and three green indicators.
+
+LOCAL HARDWARE SIGNATURE
+ RECOVERY RECORD SEALED
+ PHYSICAL REMOVAL AVAILABLE
+
+“That is it,” he said.
+
+“What is on it?” Julie asked.
+
+“Only the incident chain. My emergency access, the restored Payload Eighty-Eight labels, the packet boundary you approved, the provenance failure, the suspended external commit, and the mandatory-review result.”
+
+“Not the full production archive.”
+
+“No.”
+
+“Release it.”
+
+Elias put his cut right index finger against the lever and could not depress the spring catch. The finger slipped, leaving a dark smear on the metal.
+
+“Use your left.”
+
+“The catch and lever have to move together.”
+
+The display showed 00:46.
+
+Julie reached toward it, then stopped. She did not know the mechanism. Elias did.
+
+He changed his grip, braced the heel of his right hand against the console, and used his left thumbnail to hold the recessed catch. His hands shook hard enough that the cartridge rattled in its guides.
+
+The catch moved.
+
+He pulled the lever.
+
+The tamper strip divided cleanly along a numbered seam. The cartridge extended two inches.
+
+Elias took it and slid it into the inside pocket of his shirt beside the narrow administrator-token circuit board. He pressed both objects flat against his chest as if their weight might pull him over.
+
+The cartridge preserved what they had stopped. It did nothing for the five or six people still moving toward Relay K-17.
+
+Julie closed the case. The left latch seated. The right resisted when she pushed with her damaged hand. Pain traveled into her forearm and her grip opened involuntarily.
+
+Marcus reached across and drove the latch down with the heel of his hand.
+
+“Carry left,” he said.
+
+“I know.”
+
+The display reached 00:39.
+
+Elias brought up the fire-zone matrix. A small plan of the enclave appeared, divided into two colored rectangles. H-3 covered a redundant power cabinet on the wall opposite the recovery console. S-4 covered the console aisle and the return-air sampling tube above it.
+
+“The B-side distribution unit feeds the empty expansion bay,” he said. “The recovery console is on A-side. The evidence interface is isolated from both.”
+
+Julie crossed to the cabinet and read its labels.
+
+PDU-B
+ REDUNDANT SERVICE FEED
+ EXPANSION BAY / MAINTENANCE LOAD BANK
+
+A protected selector beneath the service cover offered OFF, NOMINAL TEST, and OVERLOAD TEST — ATTENDED.
+
+Beside it, a warning stated that the load bank required its vent cover and active cooling.
+
+Julie looked at the perforated blanking plate over the exhaust. Four quarter-turn fasteners held it in place.
+
+“Does overload trip the branch?” she asked.
+
+“At one hundred twenty-five percent, eventually. The load elements get hot first. It is for thermal inspection.”
+
+“How hot?”
+
+“Hot enough to fail if the vent is blocked.”
+
+“That is not a number.”
+
+“I did not commission the cabinet.”
+
+Marcus had already moved beside her. “What comes off?”
+
+“The plate.” Julie pointed to the fasteners. “Keep it. We need the airflow.”
+
+He turned the first fastener with his fingertips. The second resisted. He wedged the edge of his damaged boot beneath the plate and used the heel of his hand on the fastener. The movement pulled across his ribs. His breath stopped, then returned in a shallow line.
+
+The plate came free.
+
+Behind it, a bank of ceramic load elements sat inside a metal duct. Cooling air moved across them toward a grated exhaust near the ceiling. A cable bundle serving the empty expansion cabinet ran beside the duct in a gray polymer sleeve.
+
+Julie looked back at the case. The foam cradle around the evidence drive had protected it through two escapes. The lid compartment contained a separate foam spacer that had held the cable collar in place.
+
+She tore the spacer free with her left hand.
+
+“What are you doing?” Elias asked.
+
+“Making particulate.”
+
+“That foam will produce toxic smoke.”
+
+“So will the cable jacket if we let the cabinet choose.” She tore off a strip no longer than two fingers. “This is smaller, and we control where it goes.”
+
+The countdown showed 00:27.
+
+Julie placed the strip against the metal lip above the load elements, close enough to heat without touching an energized conductor. She turned the selector to OVERLOAD TEST.
+
+The cabinet gave a low electrical hum.
+
+Its cooling fan accelerated.
+
+Marcus held the blanking plate at an angle, turning the exhaust away from the power bay and across the recovery aisle. The plate shook in his hands. He braced one edge against the cabinet so his ribs did not have to take the full force.
+
+The load elements darkened from gray to a faint, uneven red.
+
+A detector inside the exhaust plenum changed state.
+
+ZONE H-3 — RATE OF RISE
+ PREALARM
+
+The hardwired relay remained dark.
+
+“Smoke,” Julie said.
+
+The foam softened at the edge. A thin black line formed where it touched the heated lip. Then a thread of gray smoke lifted into the exhaust.
+
+Marcus adjusted the plate by inches. The airflow caught the smoke and carried it across the aisle toward a row of small red sampling ports in the overhead return tube.
+
+The smoke thinned too quickly.
+
+“Lower,” Elias said. “The S-4 intake is the second port. The first belongs to the cabinet bay.”
+
+Marcus lowered the plate. His damaged boot folded under him.
+

@@ -1,0 +1,144 @@
+They did not agree on the desired answer.
+
+Hackett’s request asked whether the physical board contradicted the attributed deployment record and whether that contradiction justified immediate preservation of identity-mirroring and executive-authority records. Alvarez’s authorization omitted the second half. MPD consent omitted both conclusions and named only the technical question.
+
+Julie read the three pages through the glass.
+
+Grant’s scope was narrower than Hackett’s hope.
+
+It was narrower than hers.
+
+That was why it could survive.
+
+Special Agent Leila Grant arrived at 08:28:17 carrying two hard cases and wearing a dark suit beneath a raincoat that still held drops from the Alexandria drive. She presented her credentials first to the intake camera, then to Ortiz, then to the room log. She was in her early forties, compact, unsmiling, with the controlled impatience of someone who expected every person present to overstate what they owned.
+
+She did not look at Julie until the identity check was complete.
+
+Then she stood on the other side of the alcove glass and said, “You proposed the question.”
+
+“Yes.”
+
+“I’m not accepting your answer.”
+
+“I didn’t ask you to.”
+
+“You told Officer Ortiz what you think the board will show.”
+
+“I told him what a result could mean.”
+
+Grant’s gaze moved to Julie’s restraints, then back to her face. “You also examined this board before.”
+
+“On an obsolete workstation with unknown calibration, no current chain, and no independent examiner.”
+
+“Did you operate it?”
+
+“No. Elias selected the board’s read-only evidence mode. I observed.”
+
+“Did the board sign anything?”
+
+“Not during that examination.”
+
+“Do you know that, or did the display say it?”
+
+Julie recognized the trap because it was a fair one. “The display and counter history indicated no new event. We did not have an independently validated tool capable of proving the negative.”
+
+Grant nodded once. Not approval. Classification.
+
+“What outcome do you want?”
+
+“The one the board supports.”
+
+“That answer usually means the person has a preferred result and knows not to say it.”
+
+Julie let the silence stand. Grant had no reason to trust her discipline merely because the discipline sounded familiar.
+
+Finally Julie said, “I want the original attribution tested against the physical history. If the later events are there, they belong in your report too.”
+
+“Even if they hurt Thorne.”
+
+“Yes.”
+
+Grant studied her another second. “Good. You don’t get to change that answer after I open the package.”
+
+She turned to Ortiz.
+
+“Show me the room before you show me the evidence.”
+
+The examination room contained a fixed steel table, two cameras, an independent digital wall clock, and a power strip mounted above the floor so every connection remained visible. No network cable entered the workstation position. The wall jack had a locked red cover and an MPD tag showing it had been physically disconnected for isolated examinations. A spectrum monitor outside the room confirmed ordinary wireless devices had been removed, but Grant treated that as supporting information rather than proof.
+
+She asked Park to verify the room-camera feed from the intake console, then had Ortiz close and reopen the door while the access log recorded both events. She checked the observation window, the antistatic mat, and the evidence surface. She read the room clock against the DCIS kit clock and recorded the offset.
+
+Only then did she open her hard cases.
+
+The workstation was DCIS-FW-2187. The hardware write blocker was DCIS-WB-0441. The certificate reader was DCIS-CR-1908. A separate evidence camera carried serial DCIS-CAM-087. The blank log medium was DCIS-LM-3106. Each serial went into the MPD room record, Park’s witness record, and Grant’s examination sheet.
+
+Grant removed a sealed clean boot image. She photographed its label, broke the transport seal, and calculated its SHA-256 digest on the standalone workstation before loading it. The digest matched the value Alvarez had placed in the authorization. The workstation started without requesting network verification.
+
+The write blocker completed its internal self-test.
+
+READ-ONLY PATH: ENFORCED
+SIGNING INTERFACE: DISABLED
+NETWORK SERVICES: ABSENT
+
+Grant photographed the state.
+
+She connected a DCIS reference card containing a known, agency-generated event history. The reader returned the expected hardware identity, three known counter transitions, and one deliberately absent event. The tool neither filled the gap nor attempted a signing challenge. Grant disconnected the reference card, photographed the final state, and sealed it back into the kit.
+
+Julie could see only the larger movements through the observation window. Grant’s hands remained deliberate and slow. The procedure did not look like discovery. It looked like the removal of excuses.
+
+At 08:36:42, Grant returned to the alcove.
+
+“One package,” she said to Ortiz. “If the seal, package reference, board serial, read-only state, or counter state differs from the receipt or declared evidence metadata, I stop. If the board asks for biometric, private-key signature, live validation, Apex credentials, network access, or a second evidence source, I stop. If either witness record fails, I stop.”
+
+Ortiz said, “I can stop it too.”
+
+“You hold the package. Yes.”
+
+Grant looked at Julie. “You can observe the custody movement. Once the board is exposed, you stay behind the glass and remain silent unless I ask a question. You do not interpret a screen for me.”
+
+“I understand.”
+
+“No,” Grant said. “You agree.”
+
+Julie felt the restraint harness tighten when she straightened. “I agree.”
+
+Ortiz went to the chest with Park. The other six packages remained inside beneath the camera. He removed only MPD-901446 and closed the chest before moving away. The chest lock engaged. An intake officer remained with it under continuous MPD control.
+
+Ortiz carried the package through the corridor himself.
+
+At the examination-room threshold, he read the package reference, board description, and existing seal number into the record.
+
+MPD-SL-551804.
+
+Park repeated it. Grant compared it against the intake receipt without touching the package.
+
+The number matched.
+
+At 08:39:00, Ortiz placed MPD-901446 on the steel evidence surface.
+
+Secure MPD Digital Evidence Examination Room
+08:39:00 Eastern Daylight Time
+18:09:00 Indian Standard Time
+
+Leila Grant had learned to distrust people who arrived with perfectly shaped questions.
+
+A perfect question could be another method of controlling the answer. The former Army officer behind the glass knew what she wanted the board to say. Hackett knew what contradiction he needed preserved. Apex knew what context it wanted attached before anyone else described the device. MPD wanted one examination that did not turn an evidence room into a jurisdictional fight.
+
+Grant wanted a result another examiner could reproduce after every person in the building had retained counsel.
+
+She verified the room camera again. Park’s body camera remained active for the seal event. Ortiz kept both hands visible beside the package.
+
+“Existing seal MPD-SL-551804,” Ortiz said. “Intact on presentation.”
+
+Grant photographed the seal from four angles. The adhesive showed no lift, cut, solvent bloom, or mismatched edge. She did not certify that the board had always been inside. She certified the exterior condition she could see now and its continuity from the MPD receipt.
+
+Park signed the seal-observation line.
+
+Ortiz cut the seal along the marked evidence edge. He placed the removed strip into a transparent evidence sleeve, labeled it with the incident, package, date, time, and his badge number, then closed the sleeve with its own tamper tab.
+
+The package opened.
+
+Inside, the administrator-token board rested in antistatic material. One corner carried the scrape documented at intake. The copper contacts showed earlier use. The secure-element package appeared intact beneath magnification.
+
+Grant read the etched serial without moving it.
+

@@ -1,0 +1,313 @@
+Today, he handed her the waterproof folder.
+
+“Then we decide inside.”
+
+Julie stepped into the rain.
+
+The farm was eighty miles behind her.
+
+The official channels were closed.
+
+The evidence was incomplete.
+
+And somewhere beneath Building Three, a frightened engineer was the only living person who could force the machine to admit it had been fed a lie.
+
+At 15:36, Julie and Marcus entered the tree line and began walking back toward Apex.
+
+---
+
+# Chapter 5 - The Second Clock
+
+Apex Building Three
+
+Reston, Virginia
+
+15:41 Eastern Daylight Time
+
+Elias Thorne had built a message out of a thermostat because every approved communication device in the room belonged to the people holding him.
+
+He sat at the steel table with his hands beneath it, shielding his work from the camera mounted above the door. The thin circuit board from the maintenance drive rested against his left palm. Two copper filaments, stripped from the thermostat wiring, extended from its exposed contacts.
+
+The device had not been designed to survive outside its plastic housing. One careless movement could snap it in half.
+
+That would destroy the only copy of the production bridge record that Apex had not already erased.
+
+Elias pressed one filament against the thermostat’s service port.
+
+The display flickered.
+
+ROOM TEMPERATURE: 67°F
+
+He touched the second wire to a diagnostic contact.
+
+The temperature vanished.
+
+FACILITIES BUS ACTIVE
+NODE: B3-COMP-04
+
+Apex had isolated the holding room from the corporate network, but the environmental controls remained connected to the building-management system. Fire codes required the room to report heat, smoke, airflow, and carbon-dioxide levels even during a security quarantine.
+
+The environmental network could not reach the internet.
+
+It did not need to.
+
+It reached every mechanical room in Building Three.
+
+Elias entered the only message he could send without a keyboard.
+
+He bridged the contacts eight times.
+
+Paused.
+
+Eight times again.
+
+The thermostat recorded each bridge as a compressor-pressure fault.
+
+FAULT 0088
+FAULT 0088
+FAULT 0088
+
+He changed the node identifier to the maintenance zone nearest the room.
+
+B3-COMP-04.
+
+Then he added the destination that mattered.
+
+B2-CORE-01.
+
+The final diagnostic line read:
+
+0088 / COMP-04 / CORE-01
+
+Anyone else would see corrupted equipment telemetry.
+
+Julie O’Donnell might see a trail.
+
+Assuming she was still free.
+
+Assuming she had escaped the facility.
+
+Assuming she had found his name inside the archive.
+
+Assuming she had any reason to believe he was not the person who deployed the false package.
+
+Elias removed the filaments.
+
+The thermostat returned to normal.
+
+He slid the circuit board behind his Apex identification card and pressed the badge casing closed.
+
+The room’s steel door opened.
+
+Arthur Vance entered without knocking.
+
+He wore the same charcoal suit he had worn during their first interview. His tie remained perfectly centered. He carried a leather folder in one hand and a paper cup of coffee in the other.
+
+Elias looked toward the wall clock.
+
+15:43.
+
+The Argus source certification would transmit in forty-seven minutes.
+
+Vance sat across from him.
+
+“You’ve had time to think.”
+
+“I want an attorney.”
+
+“You’ve requested one.”
+
+“When is one coming?”
+
+“Apex counsel is available.”
+
+“I want my own attorney.”
+
+“You are being held during a classified security investigation. Outside communication requires authorization.”
+
+“So I’m detained.”
+
+“You are subject to an administrative security hold.”
+
+“You keep changing the nouns.”
+
+Vance placed the leather folder on the table.
+
+“The nouns matter.”
+
+“Not to the person locked in the room.”
+
+Vance studied him for a moment.
+
+“Have you ever considered why systems like Argus exist?”
+
+Elias almost laughed.
+
+“I helped build it.”
+
+“You helped build a component. I’m asking whether you understand the purpose.”
+
+“To analyze threat data.”
+
+“To reduce ambiguity.”
+
+“Those aren’t the same thing.”
+
+“They are to the people responsible for acting.”
+
+Vance opened the folder and removed the confession Elias had refused to sign earlier. The blank signature line waited at the bottom.
+
+“Commanders do not have the luxury of your distinctions,” Vance said. “They receive incomplete information under time pressure. They need a defensible course of action.”
+
+“You gave them fictional data.”
+
+“We gave the model a complete pattern.”
+
+“You removed the synthetic labels.”
+
+“We corrected a test-environment limitation.”
+
+Elias stared at him.
+
+Vance did not appear to realize he had admitted anything.
+
+Or he knew Elias would never be allowed to repeat it.
+
+“People will die,” Elias said.
+
+“People die when governments miscalculate.”
+
+“You are manufacturing the calculation.”
+
+“I am ensuring the system reaches the correct strategic conclusion.”
+
+“The correct conclusion according to whom?”
+
+“According to people who understand consequences beyond a single software package.”
+
+Elias looked at the confession.
+
+“You framed me.”
+
+Vance took a sip of coffee.
+
+“The deployment record reflects your credentials.”
+
+“You replayed my token through APX-DIR-0019.”
+
+For the first time, Vance became completely still.
+
+The change was slight, but Elias saw it.
+
+“You accessed a restricted service reference,” Vance said.
+
+“I copied it.”
+
+“If that were true, security would have recovered it.”
+
+Elias forced himself not to look at his badge.
+
+“Maybe they weren’t as thorough as you thought.”
+
+Vance’s eyes dropped to the lanyard against Elias’s chest.
+
+The room seemed to shrink.
+
+Elias reached up and removed the badge.
+
+He placed it face down on the table before Vance could ask.
+
+“You want it?”
+
+Vance did not touch it.
+
+“Sign the statement.”
+
+“No.”
+
+“At sixteen-twenty, this matter leaves the building. Federal investigators will receive the production log, your access history, and the security footage of you attempting an unauthorized export.”
+
+“Will they receive the administrative-service record?”
+
+“They will receive the evidence relevant to the incident.”
+
+“The evidence you approve.”
+
+“The evidence the system preserved.”
+
+Elias pushed the paper back across the table.
+
+“The system preserved a lie.”
+
+Vance closed the folder.
+
+“You built Payload Eighty-Eight.”
+
+“In a sandbox.”
+
+“You designed it to evade Argus.”
+
+“To test Argus.”
+
+“You created the signatures now appearing in the operational feed.”
+
+“I didn’t deploy them.”
+
+“The distinction will be difficult to explain.”
+
+“It won’t be difficult. It will be inconvenient.”
+
+Vance stood.
+
+“You have thirty-seven minutes.”
+
+“Until what?”
+
+“Until the allied source certification becomes the official record.”
+
+Elias looked at the clock.
+
+“You know exactly what that packet will do.”
+
+“I know that Pakistan has exploited uncertainty along the Line of Control for decades. I know India has repeatedly asked for more reliable American intelligence integration. And I know a controlled demonstration of Argus’s value will save the program from people who would dismantle it because they are frightened by its capabilities.”
+
+“Controlled?”
+
+“Regional actors understand escalation.”
+
+“Then why fabricate an attack?”
+
+Vance picked up his coffee.
+
+“Because institutions rarely correct themselves in response to hypothetical danger.”
+
+The door opened behind him.
+
+Vance paused on the threshold.
+
+“Sign before sixteen-twenty, Elias. After that, your cooperation has no value.”
+
+The door sealed.
+
+Elias remained motionless until the lock engaged.
+
+Then he turned the badge face up.
+
+The casing looked undisturbed.
+
+He did not know whether Vance had believed the bluff.
+
+He did know one thing.
+
+Julie had thirty-seven minutes to find his message.
+
+After that, the lie would leave the building.
+
+Forward Post Arjun
+
+Kashmir
+
+01:17 Indian Standard Time
+
+The artillery crews moved without headlights.
+

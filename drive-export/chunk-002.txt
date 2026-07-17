@@ -1,0 +1,164 @@
+Operations traffic filled the tent. Unknown personnel in the impact area. Civilians leaving the southern building. A secondary structure fire. Possible casualties. The phrases arrived in disciplined voices, each one turning a visible human consequence into a reportable category. Julie heard none of them clearly.
+
+Movement appeared on the northern road. Three vehicles emerged from camouflage netting more than four kilometers from the strike site and accelerated toward the mountains. Argus marked the lead vehicle.
+
+POSSIBLE TARGET DISPLACEMENT.
+
+Confidence: 31 percent.
+
+The real convoy was leaving. The vehicles had waited beneath camouflage netting far from the compound and moved only after the missile hit. Whoever had built the signal had not merely hidden Anwar. They had used the strike to clear his route.
+
+They had watched it.
+
+Used it.
+
+By the time the ground team reached the compound, the fire had spread to a small medical station on the adjoining property. Eleven civilians were dead. Five were children. The man Argus had identified as Farid Anwar was a local irrigation engineer named Imran Khalid. Anwar’s convoy disappeared into the mountains.
+
+Hargrove left before the first casualty report was complete. Marcus remained.
+
+Julie watched the routing log refresh. The system had preserved the sequence in local memory before anyone understood how much the order of three timestamps would matter.
+
+ABORT REQUEST INITIATED: 09:41:16  
+WEAPON RELEASE: 09:41:19  
+GATEWAY AUTHENTICATION COMPLETE: 09:41:20
+
+Four seconds.
+
+“You found the injection,” Marcus said.
+
+“Four seconds too late.”
+
+“The gateway delayed the message.”
+
+“I should have stopped it before Hargrove got authorization.”
+
+“You tried.”
+
+Julie looked at him. Marcus had seen the graphs and heard her assessment. He had supported her only when the decision was almost irreversible.
+
+“We all tried,” he said.
+
+Julie turned back to the dead compound.
+
+That was the first lie.
+
+The official investigation lasted nine weeks. Julie testified four times beneath fluorescent lights to officers who had not been in the tent. The first three panels changed the question each time: whether she had communicated clearly, why she had not found the synthetic carrier sooner, and whether confronting Hargrove had disrupted command cohesion. Each inquiry moved farther from the feed and closer to her conduct.
+
+At the final hearing, the Army attorney displayed a timeline.
+
+STRIKE AUTHORIZATION: 09:38  
+ANALYST OBJECTION FORMALLY SUBMITTED: 09:41  
+WEAPON RELEASE: 09:41
+
+The four-second gateway delay did not appear. The projection reduced the entire failure to three minute-level entries and placed her objection beside the release as though order within the minute did not exist.
+
+“That timeline is incomplete,” Julie said.
+
+The panel chair, a brigadier general she had met that morning, looked down at the record. “In what respect, Captain?”
+
+“The abort request was initiated before weapon release. Argus held it in authentication for four seconds.”
+
+“The routing logs supplied to this panel do not establish that.”
+
+“I saw them.”
+
+The Army attorney explained that the original local cache had been overwritten during routine recovery. The surviving record showed the abort arriving after release.
+
+“The surviving record is wrong.”
+
+“No one is accusing you of misconduct,” the general said.
+
+“You’re calling it analyst delay.”
+
+“The report concludes that uncertainty within the intelligence section delayed communication of the recommendation.”
+
+“The system delayed it.”
+
+“The system performed within its certified parameters.”
+
+“It authenticated an abort request while a weapon was seconds from release.”
+
+The general folded his hands. “The operational question is whether the objection reached the strike authority in time.”
+
+“It would have if Argus hadn’t held it.”
+
+His expression hardened. “Captain, you have answered the question.”
+
+Julie looked toward Marcus, seated behind government counsel. When his turn came, he confirmed that she had raised concerns and that Hargrove understood them. Then the attorney asked whether Julie had issued a formal abort recommendation before the final minute.
+
+Marcus paused.
+
+“There was confusion in the room.”
+
+That was the second lie.
+
+Not an outright lie. Something more useful: a sentence shaped to survive review.
+
+The panel cleared Julie of wrongdoing. The finding protected her from formal punishment while leaving the report’s causal story intact. Hargrove received a letter of concern that never entered his permanent record. Argus Beta remained operational while Apex Defense Systems prepared an enterprise update intended to reduce human hesitation during time-sensitive targeting events.
+
+Three months later, Julie placed her resignation on the personnel officer’s desk at Fort Belvoir.
+
+Marcus caught her outside the administration building. Cold rain darkened the shoulders of his uniform and whispered beneath tires crossing the parking lot. Julie carried a cardboard box containing two framed photographs, a coffee mug, and the commendation medal she had not wanted but had been ordered to accept.
+
+“You don’t have to do this,” Marcus said.
+
+“It’s already done.”
+
+“You were cleared.”
+
+Julie stopped. “They changed the timeline.”
+
+“I know.”
+
+“You let them.”
+
+Pain crossed his face, brief and unguarded. “I told the panel you objected.”
+
+“You told them there was confusion.”
+
+“There was.”
+
+“No. There was pressure. Arrogance. A bad system protecting a bad decision. There was no confusion.”
+
+“The board was never going to invalidate the platform over a cached routing discrepancy.”
+
+“Eleven people died.”
+
+“I know.”
+
+“Then say what happened.”
+
+“I did what I could.”
+
+Julie studied him. “No. You did what you could defend.”
+
+She walked past him and dropped the commendation medal into a trash can at the edge of the parking lot. It struck the bottom with a thin metallic sound.
+
+The machine had been wrong.
+
+The record said Julie had been late.
+
+Between those two facts, the Army had chosen the one it could live with.
+
+---
+
+# Chapter 1 - The Official Version
+
+The fence had failed for an honest reason.
+
+Julie O’Donnell could see it in the splintered cedar post, the sagging wire, and the hoofprints stamped into the wet Virginia clay. The mare had leaned too hard for the grass on the other side. The post had rotted below the soil line. Gravity had finished the job.
+
+Cause. Effect. Evidence.
+
+Nothing hidden inside a proprietary model. No confidence score pretending to be truth.
+
+Julie set a replacement post into the hole and checked it with a carpenter’s level. The bubble drifted left. She shifted the base, packed another shovelful of dirt around it, and checked again.
+
+Centered.
+
+The October sun was already burning mist from the back pasture. Ten acres of grass rolled toward oak and hickory. The farmhouse sat behind Julie on a low rise, its paint weathered, its porch listing east. The barn needed a roof, the well pump complained below freezing, and three windows required a rubber mallet before winter. Everything on the property announced failure through weight, sound, pressure, or decay. A broken post did not accuse the person who found it. A clogged line did not invent a cleaner history after the repair. Work done with Julie’s hands stayed done, and the reason for failure remained visible.
+
+Her phone vibrated against the top rail. Julie ignored it and drove the post-hole bar into the soil. The call stopped, then returned from another Northern Virginia number—the sixth attempt since yesterday. She had blocked the first two numbers. The next three had changed. This one showed no caller identification. She waited until it stopped, lifted the canvas jacket covering the phone, and powered it off.
+
+The mare watched her chew grass with the concentration of an animal certain most human problems were self-inflicted. “You’re not wrong.”
+

@@ -1,0 +1,247 @@
+Marcus’s gaze moved to the shield, the weapons behind it, and the five-foot corridor that denied them room to pass one another. Then he looked at the recessed fire cabinet beside the armored gate frame.
+
+Julie saw the same red pictogram beneath its clear cover.
+
+CO2. Approved for energized equipment.
+
+It could not defeat the team. It could give them a few seconds of cold white blindness in a corridor where Chen’s people could not fire without seeing the gate hardware.
+
+“Marcus,” she said. “Left cabinet.”
+
+He nodded once.
+
+The token window lit.
+
+A new six-digit number appeared.
+
+Elias began entering it.
+
+He struck each key with exaggerated care.
+
+Three.
+
+One.
+
+Seven.
+
+Mercer’s shield moved again.
+
+Marcus opened the fire cabinet. The clear cover swung wide without an alarm. He pulled the extinguisher free with both hands, and the weight brought a sharp contraction across his bruised ribs. He stopped for half a second, forehead against the cylinder, then straightened with it braced against his thigh.
+
+Nine.
+
+Four.
+
+The electroshock operator shifted toward the shield’s right edge.
+
+Julie pointed. “Right side.”
+
+Marcus saw the movement and repositioned behind the inside corner of the gate frame, leaving only his left arm and the extinguisher horn exposed.
+
+Two.
+
+Elias pressed ENTER.
+
+PIN ACCEPTED
+ LIVE-FINGER CONFIRMATION REQUIRED
+
+A glass pad extended from the panel.
+
+Elias looked at his right hand. Condensation shone across his fingers. A shallow cut near the base of his index finger had opened again.
+
+“Use the other one,” Julie said.
+
+“The key is bound to my right index.”
+
+Mercer gave the signal to advance.
+
+Marcus pulled the extinguisher pin and squeezed the handles.
+
+White vapor struck the front of the shield and rolled back through the corridor. The weapon lights became solid walls of glare. The shield operator stopped instead of walking blind into the gate approach. Mercer called a hold. No one fired.
+
+The extinguisher’s discharge filled the narrow space with a dense, freezing cloud. Marcus swept it low, forcing the team to keep its footing while the carbon dioxide boiled across the floor.
+
+“Now,” Julie said.
+
+Elias pressed his finger to the glass.
+
+The panel displayed a gray outline of his print, then a red warning.
+
+LIVENESS INDETERMINATE
+ SURFACE TEMPERATURE BELOW THRESHOLD
+ MAINTAIN CONTACT
+
+“It checks capillary response,” Elias said. “Temperature, blood flow, pressure variation. It won’t take a dead print or a cold one.”
+
+“Keep it there.”
+
+“My finger is numb.”
+
+“Then make it not numb.”
+
+He rubbed his hand against his shirt, struck his fingertips into his palm, and tried again. His injured hip pressed against the wall to keep his weight off the left leg. The extinguisher hissed behind Julie. Its pressure began to fall.
+
+The scan outline built from the center outward.
+
+Mercer’s voice came through the cloud. “Reed, put down the cylinder.”
+
+Marcus kept discharging.
+
+The team changed tactics. The shield descended until its lower edge nearly touched the floor, then advanced through the vapor by inches. One operator used the wall as a guide. Another called distances over the closed circuit in clipped numbers.
+
+They did not need to see Marcus. They knew where the gate was.
+
+The biometric outline reached Elias’s first knuckle and stopped.
+
+APPLY STEADY PRESSURE
+
+His finger shifted.
+
+The image broke apart.
+
+“Don’t move,” Julie said.
+
+“I’m trying.”
+
+“Try without talking.”
+
+He stared at the glass, shoulders rigid, and held the finger in place.
+
+The extinguisher coughed.
+
+Marcus released the handles. The last white vapor drifted around him. He set the cylinder lengthwise against the inside corner where the corridor turned into the gate approach. It would not stop the shield. It would make the first operator step around it instead of driving straight through.
+
+The panel chimed.
+
+LIVE BIOMETRIC CONFIRMED
+ TOKEN PRIVATE KEY UNLOCKED
+
+The circuit board’s display changed from the rotating digits to a single line.
+
+SIGNING LOCAL CHALLENGE
+
+Elias exhaled through his teeth. “The private key never leaves the token. The panel sends a challenge. The secure element signs it only after the live match.”
+
+Julie watched the white cloud thin. “How long?”
+
+“It should already—”
+
+The display updated.
+
+CHALLENGE RESPONSE VERIFIED
+ EMERGENCY ACCESS RECORD PENDING
+
+A final screen replaced it.
+
+ADMINISTRATOR: THORNE, ELIAS M.
+ ROLE: ENCLAVE EMERGENCY ADMINISTRATOR
+ ACTION: QUARANTINE GATE RELEASE
+
+CONTINUING WILL CREATE AN IMMUTABLE LOCAL AUDIT RECORD AND NOTIFY THE DESIGNATED SECURITY AUTHORITY.
+
+CONFIRM / CANCEL
+
+Elias did not move.
+
+The shield emerged from the vapor nine feet away.
+
+Apex Security Command Center
+ 04:56 Eastern Daylight Time
+
+The enclave alarm reached Sarah Chen through a path the quarantine had been designed to preserve.
+
+A narrow amber box opened over the lower-tier schematic.
+
+EMERGENCY ADMINISTRATOR AUTHENTICATION
+ THORNE, ELIAS M.
+ REAR QUARANTINE GATE
+ CHALLENGE RESPONSE VERIFIED
+ FINAL CONFIRMATION PENDING
+
+Sarah read it once.
+
+Arthur Vance read it over her shoulder.
+
+“Stop him.”
+
+Sarah keyed the closed-circuit channel. “Containment One, authentication has reached final confirmation. Prevent completion. Recover the telemetry intact. Do not strike the local panel or gate actuators.”
+
+Mercer answered through background static. “Shield is inside nine feet. Subjects have discharged a clean-agent extinguisher. No visual on Reed.”
+
+“Less-lethal force authorized. Maintain ballistic hold unless you have an immediate threat to life.”
+
+Vance leaned closer. “They are initiating active sabotage against a strategic production system.”
+
+“They are standing in front of the system you want protected.”
+
+“Then remove them from it.”
+
+“The team is doing that.”
+
+On the schematic, the rear gate changed from white to pulsing amber. The command center could see the authentication state. It could not cancel it. Apex had built the enclave so a compromised corporate network could not override a local emergency administrator.
+
+Vance understood the same limitation.
+
+“Authorize lethal force,” he said.
+
+Sarah kept the channel open. “No.”
+
+The word left no room for confusion.
+
+Vance’s voice remained quiet. “Excuse me?”
+
+“A rifle round on that axis can enter the access panel, a locking actuator, or the independent control bus. If the gate faults between states, we lose containment and may corrupt the production environment.”
+
+“Thorne is about to open it.”
+
+“I can see that.”
+
+“Then the production environment is already at risk.”
+
+“Which is why I will not order a blind shot through suppressant vapor toward hardened machinery.”
+
+Vance looked at the dark camera wall. “You are allowing procedure to become cover for them.”
+
+Sarah watched the gate state.
+
+“No. I am preventing your urgency from destroying the evidence you claim you want secured.”
+
+His eyes moved to her.
+
+There was no accusation in his expression. Only calculation.
+
+“Prevent them from crossing,” he said. “Recover the case. Subject preservation is subordinate to recovery.”
+
+The language was deliberate now.
+
+Sarah keyed the team channel again. “Containment One, coordinated push. Shield lead. Separate Reed from the gate frame. Take O’Donnell and Thorne alive. Telemetry has priority. No rounds into the enclave axis.”
+
+She had not repeated Vance’s last sentence.
+
+She had still sent the team forward.
+
+Production Enclave Approach
+ 04:56 Eastern Daylight Time
+
+The CONFIRM field waited beneath Elias’s name.
+
+Julie did not tell him to press it.
+
+Mercer’s shield cleared the last of the vapor. The operator behind its right edge brought the electroshock weapon up, keeping the cartridge pointed away from the panel until he had a line on Marcus.
+
+“Elias,” Julie said.
+
+His finger hovered over the screen.
+
+“If I do this, the record can’t be expunged.”
+
+“I know.”
+
+“It can’t be explained as credential replay. The private-key signature includes the biometric release event.”
+
+“I know.”
+
+“They can prosecute me from this screen.”
+
+“Yes.”
+

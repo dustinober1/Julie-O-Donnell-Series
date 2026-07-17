@@ -1,0 +1,92 @@
+Price’s active authority ended more than twelve hours before SO-NS-REQ-6540 was created. The DIA repository showed the authenticated act that created his original request. The administrative-review ledger showed the end of the credential and session authority capable of creating another DIA submission. Neither record claimed authority over the office workflow.
+
+The office produced the complete event classes its system generated for a direct external requestor, an inherited request, and an internal continuity construction between 05:45 and 07:00. It certified that the range was complete for those classes, while withholding protected narrative and unrelated communications.
+
+Grant aligned the categories without forcing the clocks into one invented time source.
+
+Price’s original supplied his authenticated request and repository receipt.
+
+The access-review original supplied the end of his active authority.
+
+The office original supplied the later construction and the fields it had inherited or added.
+
+The first match was exact: `DIA-SAR-PRICE-01`.
+
+The second was Price’s identity string.
+
+The office event range showed how the identity had traveled. A source-inheritance service imported Price’s request reference and normalized the requestor field into the office workflow. Forty-three seconds later, a continuity-construction process created the operational branch. The produced record showed the order of those system events and the service categories that owned them. It did not expose the account, certificate, person, or internal instruction that had caused the construction process to run.
+
+A direct Price submission would have required one of two paths defined by the office custodian: an external credential challenge tied to an active source-agency session, or an office witness release documenting that a source instruction had been received through another authorized channel. The complete event-class production contained neither. The inheritance path had supplied enough identity for the office system to name Price without supplying the act that would make the later instruction his.
+
+Grant placed the office transformation beside the DIA original without combining them. The inherited fields aligned at the request reference and identity. The authored fields diverged at the mission.
+
+The differences were larger.
+
+DIA-SAR-PRICE-01 requested preservation and read-only source review. SO-NS-REQ-6540 converted that reference into an `NSB-EMERGENCY` continuity path. It added the signer asset, WSS-4, Hartwell, K17-PHASE-B, and the source-reconstruction category. The office transformation field identified those entries as continuity-routing additions, not terms present in Price’s original.
+
+Hackett read the list and said, “Someone expanded his request.”
+
+“Someone or a service,” Grant said. “The record does not identify the constructor yet.”
+
+Office counsel seized the distinction. “Continuity systems lawfully inherit source identity and request references. A later route can derive from an earlier need without the original requester entering every operational field.”
+
+Julie looked at the derivative on the fixed display. “Then who submitted the derived request?”
+
+“The source identity is Price.”
+
+“That is the field. Who performed the submit act?”
+
+Counsel said the office had produced the accepted request object and the continuity chain presented to Kessler. Alvarez required the answer from the custodian.
+
+The custodian reviewed the event-class declaration. “There is no matching Price PIV challenge, DIA session receipt, office local-release event, witness act, or separately authenticated Price instruction in the produced authorized range.”
+
+Grant did not let the absence become larger than the range that supported it. “That means the later request is not authenticated as Price’s act. It does not mean the office system could not inherit his identity under a continuity rule.”
+
+“Does the record identify the rule?” Alvarez asked.
+
+“It identifies a source-inheritance transaction and a continuity-construction service category. The underlying mapping and construction records are preserved but not produced under the current scope.”
+
+The apparent answer reversed.
+
+Price’s name had not identified the person who created the instruction. It identified the source identity and request reference the later instruction had used.
+
+Kessler remained the authorizer. Drennan remained the carrier. SSO-NS-004 remained the device that traveled through WSS-4 and Hartwell. None of those facts supplied the missing submit act.
+
+Julie felt the older wound before she named it. Six years earlier, the Army had taken the surviving timestamp and made her late because the missing four seconds were easier to erase than the certified system. Now Price’s name offered the same convenience in a different form: one visible field standing in for the cause no one had authenticated.
+
+“The named requestor is not the instruction source,” she said.
+
+Grant entered the wording into her preliminary comparison.
+
+Office counsel objected. “That is argument.”
+
+“No,” Grant said. “The source-controlled finding is narrower: the later request reused Price’s identity or request reference after his active authority ended, added operational routing absent from his original, and contains no matching authenticated Price act in the authorized event range. The constructor remains unproved.”
+
+That sentence weakened every immediate accusation available to Julie.
+
+It was the strongest result in the room.
+
+Sterling’s public account continued on a muted monitor outside the secure intake. A lower-third banner described widening evidence of an insider network. Price’s name had not appeared publicly. Hackett wanted executive pressure applied before the office could characterize the mismatch as routine inheritance. Office counsel wanted the derivative sealed under privilege restrictions. Apex counsel, admitted only for the preservation portion, submitted a written position that automated continuity inheritance could be a lawful response to a source-integrity emergency and that no adverse inference should attach to a missing human signature.
+
+Each position contained something true enough to survive review.
+
+Alvarez asked Julie what she recommended.
+
+The restraint held Julie’s right wrist in a position that made every heartbeat visible beneath the wrap. She could accuse Price and let the public story acquire a second convenient saboteur. She could name Kessler because Kessler had authorized the exception, or Vance because Apex’s architecture could construct inherited identities, or Sterling because the request lived in his office system and served his public narrative.
+
+She could not authenticate any of those acts.
+
+“Preserve Price’s complete original and statement,” Julie said. “Including the expedited-retention flag and the rejected access attempt.”
+
+Hackett looked at her. “Those facts help anyone trying to call him the original insider.”
+
+“They are his facts.”
+
+“They are also a distraction.”
+
+“Then the comparison will show what they are. We do not edit him into innocence because his name was borrowed.”
+
+Price had agency in the record. He had pressed an authority boundary and attempted access after a security warning. He had also not created the later operational route. Protecting the second fact did not erase the first.
+
+Alvarez did not adopt the recommendation immediately. She asked Grant whether preserving the full Price statement would contaminate the comparison with personnel material outside the inquiry. Grant answered that the statement could remain a separately sealed attachment, produced only to establish authenticity, scope, and the completeness of Price’s voluntary account. His disciplinary exposure would not become evidence of the later request. It would remain part of the record explaining why his statement had not been edited into advocacy.
+

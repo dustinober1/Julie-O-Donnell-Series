@@ -1,0 +1,240 @@
+ NO PRODUCTION WRITE PATH PRESENT
+
+Julie opened the case.
+
+The left latch released under her thumb. The right required pressure her injured hand could not give. She changed angle, braced the case with her knee, and forced the latch with the heel of her palm. Pain ran up her forearm, but the metal catch lifted.
+
+Inside, the government evidence drive remained seated in its foam cradle. The shielded cable lay coiled in the lid compartment where she had secured it after the motel review. The small case display still showed green.
+
+CAPTURE SEALED
+ LOCAL MEDIA INTACT
+
+“Read-only?” she asked.
+
+“The protected port has no route into production memory,” Elias said. “It copies selected blocks into a local reconciliation workspace. If the isolation controller is functioning.”
+
+Julie looked at the screen.
+
+“Can we verify that before connection?”
+
+Elias’s fingers moved over the console, too fast at first. His cut right index left a small dark mark on the glass. He stopped, wiped the blood against his shirt, and used his left hand instead.
+
+A topology diagram appeared. The incident input terminated inside a boxed recovery partition. A one-way arrow pointed from the live operational archive into the same partition. Nothing pointed back until a final object labeled PROVENANCE DECISION.
+
+“The comparison can alter source status,” Elias said. “It cannot write packet content into the feed.”
+
+“Good.”
+
+“Julie, once it withdraws provenance, every conclusion built from that source can be suspended.”
+
+“That’s why we came.”
+
+“It can also withdraw conclusions that happen to be right.”
+
+“I know.”
+
+The clock reached 01:12.
+
+Julie removed the cable and seated one end in the case. Her right hand could not hold the collar steady. Marcus dragged himself closer, using the cabinet base and his good heel.
+
+“Give it here.”
+
+“You’re watching the gate.”
+
+“I can do two things badly.”
+
+He took the connector in one hand while Julie aligned the key with her left. Together they locked it into place. Marcus looped the cable beneath the case handle so a pull at the console would not tear it from the evidence drive.
+
+“Gate,” Julie said.
+
+He shifted back until he could see the amber strip. The movement tightened his face, but he made no sound.
+
+Julie plugged the other end into the protected receptacle.
+
+The console detected the case immediately.
+
+SEALED INCIDENT CAPTURE DETECTED
+ SESSION: REED-OVERSIGHT-117
+ NETWORK VERIFICATION: UNAVAILABLE
+
+MOUNT MODE
+ READ-ONLY / DUPLICATE / INGEST
+
+Julie selected READ-ONLY.
+
+VERIFYING INTEGRITY MANIFEST
+
+A gray wheel began to turn.
+
+For half a second, it was six years earlier again: another wheel, another gateway, another request waiting for permission while a weapon reached release criteria.
+
+Julie looked away from the animation and watched the numbers populate beneath it.
+
+FILES SEALED: 136
+ FILES INCOMPLETE: 47
+ FILES EXCLUDED DURING FINALIZATION: 311
+
+The wheel stopped.
+
+SEALED BLOCKS VERIFIED: 136 OF 136
+ ARCHIVE STATUS: PARTIAL
+ SOURCE RECONCILIATION PERMITTED WITH LIMITATIONS
+
+A warning opened below it.
+
+DISPUTED OPERATIONAL SOURCE REQUIRED
+ ASSOCIATED VALIDATION OBJECT REQUIRED
+
+The release clock showed 00:54.
+
+Forward Post Arjun
+ Kashmir
+ 14:29 Indian Standard Time
+
+Major Ananya Sharma stood behind the fire-direction console and listened to Northern Command ask for the same confirmation in a third form.
+
+“Status of local execution authority?” the duty officer said over the secure line.
+
+“Held by me,” Sharma replied.
+
+“The allied assessment remains validated.”
+
+“I can read it.”
+
+“The recommended counter-battery window closes at fourteen-thirty.”
+
+“I can read the clock too.”
+
+Lieutenant Sameer Qureshi kept his eyes on the firing board. Final coordinates for Sector Zebra-Nine were loaded in the planning channel. Ammunition had reached the gun positions. Crews waited beside prepared weapons for a command that had not come.
+
+No Indian sensor had confirmed the artillery formation shown on the screen.
+
+The storm had thinned since dawn, but the western approaches remained hidden beneath cloud. An acoustic array reported heavy-engine noise without a reliable bearing. Two forward relays carried encrypted bursts matching the American pattern because the American pattern had been built partly from those relays. The reconnaissance patrol sent toward Point Kestrel had not yet reached observation ground.
+
+Beside the written fire plan lay the photograph Qureshi had taken of the source-review warning that had appeared and vanished hours earlier. The American channel still claimed no such warning had existed.
+
+Preparation had moved men, ammunition, and machines into positions from which a mistake could travel faster than an explanation.
+
+The mission itself was conventional: artillery against predicted artillery positions across a contested border. Nothing on this mountain would remain local once the first shells landed.
+
+The duty officer spoke again.
+
+“Major, Northern Command directs immediate execution upon receipt of final American release.”
+
+“Send the written order.”
+
+“It is transmitting now.”
+
+The printer beside Qureshi began feeding a page.
+
+Sharma looked at the Argus display.
+
+CONFIDENCE: 99.8%
+ SOURCE INTEGRITY: VERIFIED
+ COUNTER-BATTERY SUPPORT: VALID
+
+Below it, a smaller timer counted toward the American release.
+
+00:00:52.
+
+Qureshi lowered his voice. “All batteries report ready.”
+
+“Fire-control data?”
+
+“Staged, not committed.”
+
+“Keep it that way until I order otherwise.”
+
+“Yes, ma’am.”
+
+The duty officer heard her. “Major Sharma, the risk of delay now rests with your command.”
+
+“It always did.”
+
+She ended the call.
+
+Outside the reinforced post, engines idled on the mountain. Men waited beside weapons that would do exactly what they were told.
+
+The screen offered certainty no human observer could support.
+
+Sharma watched it anyway.
+
+Apex Building Three
+ Reston, Virginia
+ 04:59 Eastern Daylight Time
+
+Elias stared at the second slot inside the recovery panel.
+
+“My board has the author manifest and the part of the original package that finished copying. It also has my administrator certificate.”
+
+“Will the console separate them?” Julie asked.
+
+“It was designed to. The secure element carries identity. The evidence partition carries the files I copied.”
+
+“Has it ever been used like this?”
+
+“Not by anyone being hunted through the building.”
+
+Metal struck the gate again. A second sound followed it: a low hydraulic strain from inside the lock housings.
+
+The status strip advanced.
+
+LOCAL OVERRIDE
+ STAGE 1 OF 4 COMPLETE
+
+Marcus settled his back against the cabinet. “I’d prefer the part where this works before that says four.”
+
+Elias inserted the circuit board into the narrow slot.
+
+The console paused.
+
+TOKEN CREDENTIAL: ACTIVE EMERGENCY SESSION
+ AUTHOR EVIDENCE PARTITION: READ-ONLY
+
+AUTHOR MATERIAL DETECTED
+ THORNE, ELIAS M.
+ VALIDATION OBJECT: VAL-088
+ ARCHIVE REVISION: 8
+ CONTENT STATUS: PARTIAL
+ AUTHOR SIGNATURE: VALID
+
+Then a red line appeared.
+
+SYNTHETIC-SOURCE LABEL MAP: PRESENT
+ OPERATIONAL OBJECT DERIVATION DETECTED
+ PAK_RELAY_17A_SOURCE_CORRECTION
+
+Elias closed his eyes for less than a second.
+
+“They didn’t just copy the package,” he said. “They built the source-correction object from it.”
+
+Julie brought the operational lineage onto the center screen.
+
+The chain opened from left to right.
+
+PAK_RELAY_17A raw collection.
+
+SIGMA-NORMALIZE-4 reconstruction.
+
+PAK_RELAY_17A_SOURCE_CORRECTION.
+
+Argus threat-assessment model.
+
+The validated source declaration at 99.8 percent.
+
+The external counter-battery support product waiting at the far end.
+
+The first three objects contained thousands of packet blocks. The console highlighted several possible ranges and asked her to select the disputed source boundary.
+
+Elias reached for the largest one.
+
+Julie stopped his hand.
+
+“That suspends the whole relay.”
+
+“It’s the fastest defensible range.”
+
+“It discards everything collected through it, including anything real.”
+
+“We have forty seconds.”
+

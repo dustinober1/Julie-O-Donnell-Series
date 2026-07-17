@@ -1,0 +1,350 @@
+“Going back inside?” Marcus asked.
+
+“Not yet.”
+
+“You’re thinking about it.”
+
+“I’m thinking Elias Thorne is either the person who deployed Payload Eighty-Eight or the person Vance intends to blame for it.”
+
+“Either way, he’s inside.”
+
+Julie searched the access-log fragments for his employee number.
+
+Three results appeared.
+
+The first showed Elias accessing the production registry.
+
+The second showed an unauthorized-peripheral alert attached to his workstation.
+
+The third was a security workflow generated minutes before Julie and Marcus’s review room was quarantined.
+
+SUBJECT: THORNE, ELIAS M.
+ACCESS STATUS: SUSPENDED
+ESCORT REQUEST: ACTIVE
+DESTINATION: ADMINISTRATIVE HOLD
+LOCATION: BUILDING THREE
+
+“He found it at the same time we did,” Julie said.
+
+Marcus came to the table.
+
+“How can you tell?”
+
+“The system flagged his workstation for removable media. Then security locked his account and moved him into administrative hold.”
+
+“Maybe he was trying to cover his tracks.”
+
+“Maybe.”
+
+“But you don’t think so.”
+
+“He built Payload Eighty-Eight. If he wanted to hide the deployment, he would not plug a storage device into a monitored production terminal after the alert was already live.”
+
+“He panicked.”
+
+“Or he tried to preserve the original logs.”
+
+Marcus read the entries.
+
+“Does the capture show where they took him?”
+
+“No room number. Only Building Three.”
+
+“Could have transferred him.”
+
+“The workflow still lists the hold as active when our partition was erased.”
+
+“That was over an hour ago.”
+
+Julie checked the package documentation again.
+
+The source-provenance challenge needed Elias’s biometric, a director certificate, and local root access.
+
+They had a fragment of the director certificate chain on the evidence drive.
+
+Elias might have the complete deployment record.
+
+The production root was inside Apex.
+
+Every route led back to the building they had just escaped.
+
+Marcus understood from her silence.
+
+“No.”
+
+Julie looked at him.
+
+“We don’t have enough evidence to stop the source certification from out here.”
+
+“We have enough to get arrested.”
+
+“That doesn’t stop the packet.”
+
+“We take the drive to the press.”
+
+“They spend days authenticating it.”
+
+“An oversight committee.”
+
+“Same problem.”
+
+“Hackett.”
+
+“He told you to surrender it through a channel we cannot verify.”
+
+Marcus paced away from the table.
+
+“You are proposing that we break back into a secure intelligence facility while Army counterintelligence is searching for us.”
+
+“I am identifying the only path that reaches the system before sixteen-thirty.”
+
+“We don’t know where Elias is.”
+
+“We know he’s in Building Three.”
+
+“We don’t know whether he’ll help.”
+
+“He tried to copy the deployment records.”
+
+“We don’t know whether the certificate fragment on this drive can open the production root.”
+
+“No.”
+
+“We don’t know how to reach the core.”
+
+“Not yet.”
+
+Marcus stopped.
+
+“You keep saying uncertainty is the reason not to act.”
+
+“No. I keep saying uncertainty is the reason to understand what action costs.”
+
+“And this action?”
+
+“We could be arrested. We could be shot if Apex security believes we are attacking the production system. Elias could refuse. The certificate could fail. The source challenge could expose genuine threat data beneath the synthetic package. And even if we succeed, the review may not finish before source certification.”
+
+Marcus looked at the clock.
+
+“What is the alternative?”
+
+“We surrender the drive and hope the institution moves faster than the lie.”
+
+Neither of them spoke.
+
+Marcus returned to the table.
+
+“What do you need?”
+
+Julie opened the ThinkPad’s network compartment and reconnected the wireless card.
+
+“I need the county plans for the Apex campus.”
+
+“You just disconnected that.”
+
+“We have to accept one controlled exposure.”
+
+“From the motel network?”
+
+“Too close.”
+
+She shut down the laptop and removed the live boot drive.
+
+“There’s a public library three miles west.”
+
+“We walk in looking like this?”
+
+“We change.”
+
+“Use a library computer tied to a camera?”
+
+“I use the ThinkPad from the parking lot. Spoof the hardware address, download public planning records, and disappear before anyone correlates the session.”
+
+“You think Apex monitors county drainage plans?”
+
+“No. I think they will after they realize we downloaded them.”
+
+Marcus checked his watch.
+
+14:32.
+
+“Less than two hours.”
+
+“We’ll need another vehicle.”
+
+“The truck still runs.”
+
+“They know it.”
+
+“They know it leaves oil in private driveways.”
+
+Despite everything, Julie smiled.
+
+Only for a moment.
+
+“We keep the truck until the final approach. Leave it outside the camera perimeter and go in on foot.”
+
+“In through what?”
+
+“That depends on the plans.”
+
+Marcus looked toward the evidence drive.
+
+“And once we find Elias?”
+
+“We get the original deployment record.”
+
+“Then leave?”
+
+“If there is time, we force the source-provenance review from the production root.”
+
+“You know how?”
+
+“No.”
+
+“Does Elias?”
+
+“He wrote the package.”
+
+“That is not an answer.”
+
+“It is the closest one we have.”
+
+Marcus nodded slowly.
+
+The decision settled into him.
+
+Not confidence.
+
+Commitment.
+
+Julie disconnected the evidence drive and returned it to the aluminum case.
+
+Before shutting down the laptop, she opened one final log fragment.
+
+The file had been partially overwritten during the Apex sanitization process. Most fields were unreadable.
+
+One survived.
+
+ALLIED CERTIFICATION WINDOW
+PAK_RELAY_17A
+SOURCE CERTIFICATION: 16:30 EDT
+
+Beneath it was an automated approval state:
+
+SOURCE INTEGRITY: VERIFIED
+
+The system had already accepted the lie.
+
+They had one hour and fifty-eight minutes to make it doubt itself.
+
+Forward Post Arjun
+
+Kashmir
+
+00:14 Indian Standard Time
+
+Major Ananya Sharma watched the first ammunition carrier descend toward the artillery positions.
+
+Its headlights were off. A soldier walked ahead with a shielded lamp, guiding the driver along the ice-darkened road.
+
+Sharma had ordered mechanical readiness only.
+
+Brigade command had ordered ammunition forward.
+
+The difference was procedural.
+
+On the mountain, it looked like escalation.
+
+Lieutenant Qureshi entered the observation room carrying a printed message.
+
+“Northern Command.”
+
+Sharma took it.
+
+PREPARE COUNTER-BATTERY PLAN UPON RECEIPT OF ALLIED SOURCE CERTIFICATION. EXECUTION REQUIRES COUNTER-BATTERY SUPPORT RELEASE.
+
+“Still no independent confirmation?” she asked.
+
+“Acoustic stations report possible tracked movement.”
+
+“Possible.”
+
+“Yes, ma’am.”
+
+“Ground patrols?”
+
+“Unable to observe the sector through the storm.”
+
+“Signals?”
+
+“Encrypted traffic continues.”
+
+“Does it move with the Argus projection?”
+
+Qureshi hesitated.
+
+“Approximately.”
+
+“That means no.”
+
+“The American assessment accounts for terrain masking.”
+
+“The American assessment accounts for everything except being wrong.”
+
+Qureshi looked toward the tactical display.
+
+“Brigade believes the cost of waiting is greater than the cost of acting.”
+
+“Brigade is twenty kilometers behind us.”
+
+Another alert appeared on the monitor.
+
+ARGUS ALLIED SOURCE CERTIFICATION
+EXPECTED 02:00 IST
+COUNTER-BATTERY SUPPORT RELEASE: 14:30 IST
+
+The red symbols representing Pakistani artillery continued advancing across the digital map.
+
+Sharma looked through the observation slit.
+
+The actual valley remained hidden.
+
+“Send a reconnaissance team to Point Kestrel,” she said.
+
+“In this weather?”
+
+“They can observe the western approach from there.”
+
+“It will take ninety minutes.”
+
+“Then they arrive before the recommended firing window.”
+
+Qureshi did not move.
+
+“Major, if the enemy is already deploying, the patrol could walk directly into them.”
+
+“Yes.”
+
+“And if the assessment is false?”
+
+“They will find an empty road.”
+
+Qureshi considered the order.
+
+“Who leads?”
+
+“I do.”
+
+His expression changed.
+
+“You are the battery commander.”
+
+“I am the person delaying the battery.”
+
+“You can send Captain Rao.”
+
+“If I am asking soldiers to walk into a threat I do not believe, I will not do it from behind glass.”
+
+The communications console chimed.
+

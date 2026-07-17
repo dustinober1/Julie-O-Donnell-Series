@@ -1,0 +1,198 @@
+She followed the engine through the gate. At the first intersection, the engine turned right and Julie went left. The black Apex vehicle emerged from the campus behind them. Julie merged into lunchtime traffic on the Fairfax County Parkway between a delivery van and a utility truck. The tail remained two car lengths back, close enough to pressure her and far enough to avoid forcing a public stop.
+
+“Open the case.”
+
+Marcus released the latches. The evidence drive rested in its foam cradle. The monochrome display read:
+
+CAPTURE SEALED  
+PARTIAL ARCHIVE  
+INTEGRITY VERIFIED
+
+“What does partial mean?”
+
+“It means we have enough to make them nervous and not enough to make us safe.” The drive held the archive index, checksums, and matching relay interval, but only part of the deployment record. It did not contain the carrier profile or proof of who had modified the package.
+
+Marcus connected his secure Army handset.
+
+TERM AUTHORITY REVOKED  
+CONTACT SECURITY OPERATIONS
+
+“They killed my credentials.”
+
+“Someone pushed the suspension beyond Apex. Vance doesn’t need to revoke your commission. He needs a government official to flag your token while they investigate.”
+
+The handset rejected Marcus’s biometrics and dropped both an emergency attempt and an unclassified call.
+
+He wanted to reach Hackett face-to-face. Julie reduced the problem to what mattered: entering the Pentagon with a revoked token, classified data, and an Apex report already defining their escape would result in detention and seizure before anyone examined the files.
+
+“We inspect what survived first,” she said. “Somewhere forgettable.”
+
+The Apex SUV stayed behind them. At a yellow light, Julie held her speed until the last safe moment, then braked hard behind a delivery van. The tail swerved into the adjacent lane to avoid being trapped. Julie turned through a shopping-center entrance before the light changed, crossed the parking lot, passed behind a grocery store, and entered a service lane between loading docks. The lane emptied onto a local road running parallel to the parkway.
+
+No black vehicle followed.
+
+That did not mean they had lost it. The driver could circle ahead, surrender the visible tail, or let traffic cameras continue the work.
+
+After two miles, Marcus laid the dead phone on the console. Julie’s phone and electronic fob remained at Apex. She still had the mechanical key. Apex knew the truck and her Culpeper address.
+
+The farm appeared in her mind: listing porch, damaged fence, horses waiting for evening.
+
+They needed only a map.
+
+“We don’t go to Culpeper.”
+
+“I wasn’t suggesting it.”
+
+“We have files copied from a monitored partition. Vance controlled the source environment and knew the destination device. Until we inspect them, we don’t know whether they let us take poisoned evidence.”
+
+Marcus looked out at the trees, then nodded.
+
+“Where?”
+
+Julie saw a sign for Manassas.
+
+“Somewhere forgettable.”
+
+Forward Post Arjun
+
+Kashmir
+
+22:18 Indian Standard Time
+
+Major Ananya Sharma read the American assessment twice: first as an officer, then as someone who had spent eleven winters watching machines misunderstand mountains. Wind drove ice against the armored windows. The valley below had disappeared behind cloud and darkness.
+
+Lieutenant Sameer Qureshi stood by the console.
+
+“Argus confidence is ninety-nine point eight percent.”
+
+“I can see the number. Where is the corroboration?”
+
+Satellite collection was degraded by weather. Forward acoustic arrays reported intermittent heavy-engine signatures in Sector Zebra-Nine. Two communication relays had caught encrypted command traffic, but the bursts were too short to establish movement independently. There was no ground observation, drones were grounded for icing, and local signals intelligence was inconclusive. Every supporting source offered possibility. Only Argus offered certainty.
+
+Red symbols marked a predicted Pakistani artillery formation moving into firing positions beyond the Line of Control. The batteries, command vehicles, and ammunition carriers followed a formation too orderly for the terrain and weather. If accurate, the deployment threatened three forward posts and the supply road behind them. If false, firing first could ignite the sector and make every later movement look like confirmation.
+
+“When does the United States certify?”
+
+“Zero-two-hundred local.”
+
+“And the support window?”
+
+“The counter-battery product releases at fourteen-thirty. Northern Command has requested firing solutions now.”
+
+“Requested or ordered?”
+
+“Requested, ma’am.”
+
+Sharma looked back at the assessment. It described the threat as certain. She had learned to distrust that word long before algorithms began using it.
+
+“Bring the batteries to readiness. No ammunition at the guns and no targeting data loaded. We prepare, and we wait for corroboration.”
+
+“If the American certification arrives unchanged, Northern Command may expect execution.”
+
+“Northern Command is not standing in this bunker.”
+
+The console chimed.
+
+SOURCE REVIEW IN PROGRESS  
+FINAL CONFIDENCE CERTIFICATION PENDING
+
+The warning remained for less than a second, then vanished.
+
+CONFIDENCE: 99.8%  
+SOURCE INTEGRITY: VERIFIED
+
+Sharma leaned toward the screen.
+
+“Did you see that?”
+
+“Yes, ma’am.”
+
+“What changed?”
+
+Qureshi opened the history. “No revision is listed.”
+
+“Then someone revised it without leaving a revision.”
+
+Thousands of miles away, a machine had declared the enemy’s intentions with mathematical certainty. In the actual mountains, the storm revealed nothing.
+
+“Save a local image of that screen.”
+
+“The packet is access-controlled.”
+
+“Use a camera.”
+
+Qureshi reached for his phone. Sharma watched the countdown beside the assessment.
+
+03:41:22 UNTIL ALLIED SOURCE CERTIFICATION.
+
+“Major?”
+
+She kept her eyes on the clock. “At fourteen-thirty, if the support release arrives and the threat remains confirmed, we decide whether to fire.”
+
+“And if it isn’t?”
+
+“Then we find out why a machine was so certain about something no human being could see.”
+
+---
+
+# Chapter 4 - Burn Notice
+
+Prince William County, Virginia
+
+13:07 Eastern Daylight Time
+
+By the time Julie trusted the rearview mirror, the black Apex vehicle had been gone for twelve miles.
+
+That did not mean they had lost it.
+
+It meant the driver had stopped making the surveillance obvious.
+
+Julie kept the Ford on a narrow two-lane road south of Manassas, moving with afternoon traffic between landscaping trucks and delivery vans. She had left the Fairfax County Parkway three exits earlier, doubled beneath it through a residential development, then crossed back west using roads that did not appear on most commuter routes.
+
+Marcus watched the passenger-side mirror.
+
+“No sign of them.”
+
+“Stop looking.”
+
+“I thought that was the point.”
+
+“The point is to look like we aren’t looking.”
+
+Marcus settled back in the seat.
+
+The aluminum evidence case rested between his boots. He kept one hand around its handle as though Apex might reach through the floorboards and take it.
+
+Julie glanced at the fuel gauge.
+
+Half a tank.
+
+Enough to reach the farm.
+
+She dismissed the thought as soon as it appeared.
+
+Apex had her address. The consultant paperwork listed it. Returning home would not be an act of concealment. It would be an invitation.
+
+Marcus’s disabled government phone lay on the center console. The device had not changed since they left Reston.
+
+TERM AUTHORITY REVOKED
+CONTACT SECURITY OPERATIONS
+
+Julie’s personal phone remained locked inside the Apex security desk. Her electronic truck fob was there too. The mechanical key in the ignition had been enough to get them out.
+
+For the moment, enough had to remain enough.
+
+“We need to contact Hackett,” Marcus said.
+
+“We need to know what’s on the drive.”
+
+“We know what’s on it.”
+
+“We know what we tried to copy.”
+
+“The integrity display says the capture sealed.”
+
+“Apex controlled the source partition.”
+
+“You think they altered it while you were exporting?”
+

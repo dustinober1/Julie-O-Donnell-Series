@@ -1,0 +1,102 @@
+The Sterling line said that office responsibility established direction of the operation.
+
+The redline came from joint release coordination counsel, not from an unnamed conspirator. Its accompanying note argued that public clarity required the correction to state the strongest reasonable institutional conclusion. Without it, Sterling’s office could dismiss the acknowledgment as a property-and-process issue while Apex treated Vance’s act as an isolated technical response.
+
+The argument was politically sound. The release coordinator had attached polling language, expected press questions, and a comparison showing that qualified statements traveled less effectively than categorical ones. A correction framed around office responsibility and later release might dominate one news cycle. A statement naming Sterling’s direction and Vance’s original deployment could dominate the week. The same note warned that waiting for another approval cycle would allow Apex and the Sterling office to harden their competing accounts.
+
+The document was evidentially false.
+
+Julie read the first page twice. The injury in her right arm had narrowed her attention until the text outside the redlines blurred. She did not need to touch the page to know what had changed.
+
+“Abort the release,” she said.
+
+The room stopped moving.
+
+A release coordinator answered through the federal channel. “All three authorities have authenticated their statements. The redline does not change the source list.”
+
+“It changes what the sources are made to prove.”
+
+“We are inside the publication window.”
+
+“There is no publication window that changes the evidence.”
+
+The coordinator looked to Alvarez. “Supervisory Special Agent, we can restore the qualifiers in a correction after release if either office objects.”
+
+Julie felt the old four-second wound open without image or sound. Release first. Correct later. Let the completed act become the fact everyone else had to overcome.
+
+“No,” she said. “Record the aborted release under `DCIS-PRP-187463-01`. Page-one proof ceilings removed. Vance finding expanded beyond the later remote release. Office responsibility converted into Sterling’s personal direction.”
+
+She had no authority to stop Nwosu, Vega, or Alvarez. She had authority only over her recorded participation and consent.
+
+“I withdraw consent to use my statement in that package.”
+
+Alvarez did not ask whether she was certain. She read the redline, compared it with the signed bounded finding, and made her own decision.
+
+“Release halted,” she said. “Not at O’Donnell’s order. At mine. The proposed page exceeds the authenticated findings and violates the preparation instrument.”
+
+The release coordinator began to argue political urgency.
+
+Alvarez cut him off. “Record your objection. Restore the limits.”
+
+Nwosu independently withdrew the Argus signature until later remote release returned to the first page. Vega independently withdrew the LSS acknowledgment until the personal-command non-finding was restored. Grant revoked method certification on the coordinated proof sheet while leaving the three approved source statements intact.
+
+No one waived the abort because success was close.
+
+Alvarez directed the release desk to preserve both versions, the redline source, the time of insertion, the names of everyone who approved or rejected it, and the reason the package stopped. The aborted sheet received no public hash and no receipt. It remained an internal process record proving that an authenticated package could still fail at the last sentence. The release coordinator’s objection remained with it. So did Julie’s withdrawn consent and Alvarez’s independent halt.
+
+The corrected first page returned at 13:59:18.
+
+`VANCE PERSONAL FINDING: LIMITED TO THE LATER REMOTE RELEASE`
+
+`STERLING PERSONAL COMMAND: NOT ESTABLISHED`
+
+Grant compared the page against each signed authority block. Nwosu reauthenticated only the Argus notice. Alvarez reauthenticated only the DCIS correction. Vega reauthenticated only the LSS acknowledgment and docket notice. The coordinated sheet named all three documents but adopted none as a universal proof object.
+
+Julie gave recorded consent to use her prior statement within the narrower package. Her consent did not authorize release of any sealed evidence, WSS plaintext, source geography, unrelated staff identity, or privileged material outside the approved ranges.
+
+At 14:04:00, Alvarez reopened the public channel.
+
+14:04:00 EDT / 23:34:00 IST
+
+The three statements did not publish at the same second. Synchronization meant that each authority released within the approved window and cross-linked the other two after its own receipt resolved. It did not mean a hidden master switch. Nwosu controlled the Argus portal. Alvarez controlled the DCIS release. Vega controlled the LSS acknowledgment. A failure in one channel would have left the others public but incomplete, and the coordinated sheet would have displayed the missing receipt rather than pretending the package was whole.
+
+The Argus office went first at 14:06:11 on the government program portal. Its page displayed the two proof ceilings before the summary and named Dr. Rachel Nwosu as publishing authority. The notice identified its source classes, withheld fields, registry clock, and proof limit. A SHA-256 publication hash appeared beneath the signed PDF.
+
+`ARGUS-PI-187463-01`
+
+`PUBLICATION HASH: 5f1f2ec21a9eac91e4f905472fa1aa8f9db786e1f8d368d5d40f14e87c2a7b31`
+
+`PUBLIC RECEIPT: ARGUS-PUB-140611-01`
+
+The notice stated that synthetic or validation-derived contamination had entered the actionable chain before Julie’s intervention. K-17 local authentication had failed and written zero records. The later remote reconstruction was separate. Vance’s personally authenticated act applied only to the later remote release. His operational authority remained suspended pending review.
+
+At 14:08:37, DCIS published its investigative-status correction under Alvarez’s name.
+
+`DCIS-ISC-187463-01`
+
+`PUBLICATION HASH: 9b4a7f0f6c7c58cc67cb2fd8acfe67fb90d4ab1d53033fb5f64ee22b5b08df27`
+
+`PUBLIC RECEIPT: DCIS-PUB-140837-01`
+
+The correction said the authenticated record did not support the claim that Julie, Marcus, Elias, or Price had originated the poisoned source or constructed the operational route. The next paragraph preserved the unauthorized conduct, testimony failure and later correction, voluntary emergency acts, rejected access attempt, authority crossing, administrative review, and unresolved legal consequences attached to each person.
+
+It did not use cleared.
+
+It did not use innocent.
+
+It did not say released.
+
+At 14:10:54, LSS published the office/device acknowledgment and independent-review docket.
+
+`LSS-ACK-90418-01`
+
+`PUBLICATION HASH: 3c0a78ce8b3062604ba38869b0f7f4867da617d46d88ab5b4dbd65b3924dfea4`
+
+`PUBLIC RECEIPT: LSS-PUB-141054-01`
+
+The first page named `SSO-NS-004`, the Sterling-office institutional chain, the continuity exception, Martin Vann’s physical custody, Marisol Vega’s deputy authority, and seal `LSS-SL-90418`. It stated that the signer remained powered down, isolated, closed, and unused. It announced docket `LSS-IDR-90418-01` and stated that Sterling’s personal possession, operation, knowledge, direction, intent, and command were not established.
+
+The three public receipts propagated through separate systems. Grant watched each resolve from provisional to durable. None depended on an MPD package opening. None required the signer to answer a challenge. The locked chest remained untouched behind the glass.
+
+The public pages were spare enough to read and dense enough to resist extraction. Each opened with the same two limitations, then the statement’s own authority and source classes. A reader could move from the Argus sequence to the DCIS status finding to the LSS office/device acknowledgment without encountering a sealed exhibit or an unnamed source. The cross-links resolved only to the signed public documents and their receipts.
+

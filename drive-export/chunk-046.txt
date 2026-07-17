@@ -1,0 +1,167 @@
+“No upload. No public release. We capture, preserve, and leave.”
+
+“What time do I pull you?”
+
+“Seven-ten.”
+
+Elias looked at the clock. “The buffer should be gone by then.”
+
+“The extra time is for us to get out, not to analyze it.”
+
+“And if you are thirty seconds from sealing the export?” Marcus asked.
+
+“Seven-ten.”
+
+He held her gaze, measuring whether she believed her own abort condition.
+
+Julie did. She did not know whether she would obey it. Command required setting the line before fear and proximity made every additional second feel necessary.
+
+Marcus shifted the cold pack aside. “Civilian load?”
+
+“Landlord security, cleaners, early policy staff, whoever Northbridge brought in for the regional crisis. We assume every person we see knows nothing about Payload Eighty-Eight.”
+
+“That includes the person carrying the signer.”
+
+“Yes.”
+
+Elias said, “Even if the certificate belongs to Sterling’s office?”
+
+“Even then. A certificate is evidence. It is not permission to decide what the person holding it deserves.”
+
+Silence followed.
+
+Marcus reached for the paper objective and turned it so he could read it again.
+
+“Then we need a way to capture without risking the originals,” he said.
+
+Julie opened the locked storage cabinet.
+
+The derivative module remained inside its numbered antistatic envelope. The sealed partition held the recovery record, restored label map, provenance decision, Payload 88 index, checksum history, and the critical bridge fragments. It did not hold the bulk raw telemetry or the sensitive K-17 geography.
+
+Elias examined the module through the clear side of the envelope. “It supports two separately sealed partitions.”
+
+“You are sure?” Julie asked.
+
+“The enclosure is standard field-evidence media. Partition one seals against its own manifest. Partition two can remain blank without changing the first.”
+
+“Can the Northbridge audit port write to it?”
+
+“If the controller still follows the 4.2 profile. The incident interface accepts encrypted removable media and writes a self-contained session package. It should not care what is on the other partition.”
+
+“Should.”
+
+“Yes.”
+
+Julie returned to the workstation.
+
+At 06:37:02, she broke the numbered envelope seal and recorded the action. Elias mounted the module through the hardware write blocker and verified the derivative partition. Its hashes matched the values entered in the paper log.
+
+He created no new copy.
+
+Instead, he used the module’s physical management utility to expose the unused second partition. The first remained hardware-locked and read-only. The second appeared as an empty encrypted incident volume with a separate serial and no files.
+
+PARTITION A: SEALED DERIVATIVE
+ INTEGRITY: VERIFIED
+ WRITE STATE: LOCKED
+
+PARTITION B: INCIDENT CAPTURE
+ CONTENT: EMPTY
+ WRITE STATE: ARMED ON LOCAL DEVICE
+
+Julie recorded both states, the module serial, the wall-clock time, and the fact that the workstation clock remained wrong by eleven days. She had Elias verify Partition A again after the change.
+
+MATCH.
+
+Only then did she remove the module and seal it inside a fresh antistatic sleeve. The storage cabinet had no second numbered evidence envelope. She closed the sleeve with tamper tape from the medical cabinet and wrote the module serial across the seam.
+
+“The sealed copy travels into Northbridge,” Marcus said.
+
+“The originals stay with you.”
+
+“If you lose the module?”
+
+“We lose the limited duplicate and whatever we capture. The case, board record, and recovery cartridge remain.”
+
+“The board goes inside,” he said.
+
+Elias closed his hand around it. “The board stays with me.”
+
+Julie wrote the exception into the log. The board was both original evidence and the only reliable proof of the distinction between Elias’s replayed identity and his voluntary emergency use. It had remained in his custody through every documented step. Taking it away now would not protect the chain. It would create another transfer and separate Elias from the evidence bound to his identity.
+
+She transferred the aluminum case to Marcus at 06:39:16. He checked both latches without opening them and signed beneath the serial. The display remained green. The 136 sealed files remained sealed; the 47 incomplete files remained incomplete; the 311 excluded files remained absent.
+
+The tamper-bagged recovery cartridge went into the waterproof document folder with the custody log. Marcus accepted both and signed again. Julie added the dead fleet transponder in its antistatic bag as an ancillary item. The originals would ride together without being connected to anything.
+
+No evidence remained in the cutout’s storage cabinet.
+
+Apex Building Three
+ Reston, Virginia
+ 06:39 Eastern Daylight Time
+
+Sarah Chen received the capture directive and the lethal-force directive forty-three seconds apart.
+
+The first came through the joint incident desk established after the Building Three fire. It carried federal and county routing numbers, medical instructions, and language selected by people who expected their decisions to be reviewed.
+
+APPREHEND IF LOCATED.
+ SEPARATE SUBJECTS.
+ SECURE CLASSIFIED MATERIAL.
+ PRESERVE LIFE AND EVIDENCE.
+
+The second appeared on the Apex protective-services channel under Arthur Vance’s executive authority.
+
+CONTINUING HOSTILE SABOTAGE TEAM.
+ PREVENT TRANSFER OF TELEMETRY MATERIAL.
+ DEADLY FORCE AUTHORIZED IF LOSS OF MATERIAL IS IMMINENT.
+
+Sarah read the last condition twice.
+
+Deadly force was justified by an immediate threat to life, not by the possibility that evidence might leave the company’s control. Vance had replaced the legal standard with an operational preference and sent it around her command chain.
+
+Daniel Mercer’s unit acknowledgment remained pending.
+
+Sarah opened the voice channel. “Mercer.”
+
+“Here.”
+
+“You received the executive addendum?”
+
+“Yes.”
+
+“It does not alter my rules of force. Capture priority. Less-lethal where feasible. Firearms only for an identified deadly threat with a clear background.”
+
+A pause. “Director Vance’s office marked telemetry loss as a national-security emergency.”
+
+“Telemetry does not shoot back.”
+
+Another pause, shorter this time. “Understood.”
+
+Sarah did not order him to stop looking. She did not remove Julie’s alert or tell any agency that the subjects were harmless. Julie had breached a production enclave, removed classified material, triggered a fire, and fled in a stolen contractor vehicle. Sarah still intended to put all three into controlled custody.
+
+She also intended to know whose order Mercer followed when he found them.
+
+The traffic desk had no current plate hit for PCF-27. The last confirmed image placed it inside a cluster of contractor vehicles before the route split across several private camera systems. Analysts were requesting footage one owner at a time. A separate search had begun against retired technical-support leases associated with Marcus Reed’s former assignments. The first response was not due for twelve minutes.
+
+No system had found the cutout yet.
+
+The media pane on Sarah’s console updated.
+
+A prepared statement from Senator Sterling’s office had entered the morning news pool. Its summary described Julie O’Donnell as the suspected architect of a deliberate Argus corruption attempt.
+
+Sarah opened her own incident report.
+
+It said suspected sabotage.
+
+The technical source review had not assigned authorship. The enclave record had not been recovered. No federal examiner had concluded who introduced the poisoned data.
+
+The public statement had reached a conclusion before the investigation reached the evidence.
+
+Sarah marked the time, preserved both directives in the incident file, and sent the regional lookout again.
+
+She did not warn Julie.
+
+Decommissioned Communications Cutout
+ Fairfax County, Virginia
+ 06:42 Eastern Daylight Time
+
+The work order came from a carbon-copy service book in PCF-27’s glove compartment.
+

@@ -1,0 +1,234 @@
+“Then don’t waste one asking me to erase evidence.”
+
+She expanded the raw layer.
+
+The familiar emissions appeared as a repeating series of peaks spaced eleven-point-two seconds apart. Weather variation moved through the surrounding traffic in ragged bands. The target signal held its shape with the same impossible smoothness she had seen in Room 402B.
+
+Julie isolated the carrier structure.
+
+Seven small fluctuations repeated near the beginning of each synthetic packet. The same seven returned seventeen milliseconds later. Identical, every time.
+
+She dragged the comparison against the sealed blocks in the case.
+
+MATCHING STRUCTURE: VAL-088
+
+The console drew a boundary around the first packet carrying the repeated structure. It extended through the source-correction object and into the model-derived track set.
+
+Julie shortened the far edge.
+
+Elias looked at her. “Why?”
+
+“The correction object kept running after the synthetic bursts began. I want the observed packets beyond the last match preserved.”
+
+“That leaves contaminated reconstruction in the workspace.”
+
+“It leaves it available for comparison. We invalidate what cannot survive the comparison. We do not make the rest disappear because it is inconvenient.”
+
+The clock reached 00:27.
+
+Behind them, the gate bolts gave a deep answering knock.
+
+Marcus said, “Stage two.”
+
+The console accepted Julie’s narrowed boundary.
+
+DISPUTED RANGE SELECTED
+ RAW OBSERVATIONS: PRESERVED
+ RECONSTRUCTED SIGNAL: CHALLENGED
+ VALIDATION-DERIVED ARTIFACTS: CHALLENGED
+ DOWNSTREAM CACHED CONCLUSIONS: INCLUDED
+
+Elias opened the recovery rules stored on his board. There were six, each signed months earlier for adversarial-validation cleanup. He selected one labeled RESTORE SOURCE LABELS AND RECOMPUTE DERIVATIONS.
+
+“You wrote that?” Julie asked.
+
+“My team did. I changed the comparison tolerance after Revision Eight because Argus kept treating partially labeled test data as a collection error.” His voice accelerated as he explained. “Deleting the package would leave the last validated conclusion in cache. This rule tells the system the source was never operationally admissible. Every conclusion depending on it has to establish itself again.”
+
+“Can it use the partial archive?”
+
+“Not as written.”
+
+He opened one configuration field and changed the required archive state from COMPLETE to VERIFIED SELECTED BLOCKS. The console demanded a reason code. He chose INCIDENT CAPTURE INCOMPLETE — INTEGRITY MANIFEST VALID.
+
+“That is the only change,” he said. “Everything else is the recovery routine we tested.”
+
+The system displayed his name beside it.
+
+RULE ADJUSTMENT AUTHOR: THORNE, ELIAS M.
+ AUDIT ATTACHMENT: IMMUTABLE EMERGENCY SESSION
+
+He saw the line and kept going.
+
+A new alert covered the lower third of the screen.
+
+VOLATILE INCIDENT BUFFER SANITIZATION REQUESTED
+ HARDENED SECURITY CHANNEL
+ EXECUTION IN 00:31
+
+Marcus looked from the gate to the console. “Vance?”
+
+“He can request sanitization through the incident path,” Elias said. “He cannot see what we’re selecting. The enclave executes the request locally.”
+
+“What gets wiped?” Julie asked.
+
+“The volatile deployment chain first. The signed gate audit survives. The comparison evidence may not.”
+
+The external commit clock showed 00:18.
+
+Julie selected PRESERVE DISPUTED CHAIN IN RECOVERY RECORD.
+
+The console required validation-author confirmation.
+
+Elias selected AUTHOR CONFIRMATION with his left hand. The active emergency session attached the live biometric and private-key signature already recorded at the gate. No second challenge appeared.
+
+ORIGINAL SOURCE LABELS
+
+SYNTHETIC SOURCE
+ SANDBOX EXECUTION ONLY
+ OPERATIONAL EXPORT PROHIBITED
+
+RESTORE ALL?
+
+His hand hovered.
+
+He was still afraid. Julie could see it in the tremor at the base of his fingers and the way he leaned too much weight into the console to spare his injured hip. He knew every choice from this point forward would remain attached to his name after the building, the company, and everyone inside it had decided what story to tell.
+
+He selected RESTORE ALL.
+
+The console built the final action.
+
+PROVENANCE RECONCILIATION WILL SUSPEND ACTIVE RELEASE PRODUCTS
+ DOWNSTREAM STRATEGIC ASSESSMENTS MAY BE WITHDRAWN
+ GENUINE SOURCE ACTIVITY WILL BE REEVALUATED
+ MANDATORY HUMAN REVIEW WILL BE REQUIRED
+
+AUTHOR CONFIRMATION: THORNE, ELIAS M.
+ ANALYTIC RANGE CONFIRMATION: REQUIRED
+
+The external commit clock reached 00:11.
+
+Elias looked at Julie.
+
+“This is you.”
+
+The recovery console asked her to certify the range she had chosen.
+
+The sanitization clock showed 00:22.
+
+At the gate, metal struck metal in three rapid blows. The amber strip advanced.
+
+LOCAL OVERRIDE
+ STAGE 2 OF 4 COMPLETE
+ HYDRAULIC ASSIST CONNECTED
+
+Marcus got one knee under him and used the cabinet handle to stand. His damaged boot rolled outward. He corrected by putting most of his weight on the other leg.
+
+“What are you doing?” Julie asked.
+
+“Preparing to be in the way.”
+
+“You won’t hold that gate.”
+
+“No. But I can tell you when it stops being a gate.”
+
+The clock fell to nine.
+
+Julie read the final action one more time.
+
+The selected boundary began with the first physically impossible carrier structure. It preserved the raw packets before and after it. It restored the labels Elias’s team had placed on Payload 88. It included every model assumption and cached targeting conclusion derived from the poisoned layer.
+
+It did not certify that no enemy movement existed.
+
+That was the point.
+
+Six years earlier, the command structure had concealed uncertainty until a weapon was already away. Now the possibility of a genuine threat was being used to preserve manufactured certainty.
+
+Uncertainty could not authorize a weapon. A lie could not be allowed to do it in uncertainty’s name.
+
+Julie put her left hand on the confirmation field.
+
+“Do it,” Marcus said.
+
+She pressed EXECUTE.
+
+The external clock showed 00:07.
+
+PROVENANCE RECONCILIATION ACTIVE
+
+The console divided the operational assessment into layers.
+
+RAW OBSERVATIONS.
+
+RECONSTRUCTED SIGNAL DATA.
+
+VALIDATION-DERIVED ARTIFACTS.
+
+MODEL ASSUMPTIONS.
+
+CACHED OPERATIONAL CONCLUSIONS.
+
+Each moved into a separate column. The raw observations remained white. Reconstructed packets carrying the eleven-point-two-second cadence changed to amber. Payload 88’s repeated carrier structure turned red as the restored labels attached to it.
+
+VAL-088
+ SYNTHETIC SOURCE
+ OPERATIONAL USE PROHIBITED
+
+The source-correction object resisted for less than a second, then its lineage opened beneath it.
+
+PAK_RELAY_17A_SOURCE_CORRECTION
+ DERIVED FROM RESTRICTED VALIDATION OBJECT
+ EXECUTIVE WAIVER: INSUFFICIENT FOR SOURCE RECLASSIFICATION
+
+The clock showed 00:04.
+
+The validated-source declaration flickered.
+
+SOURCE INTEGRITY: VERIFIED
+
+became
+
+SOURCE INTEGRITY: UNDER REVIEW
+
+The counter-battery product remained armed.
+
+“Why hasn’t it suspended?” Marcus asked.
+
+“The cached conclusion,” Elias said. “It has to walk the dependency chain.”
+
+Three seconds.
+
+The model assumptions began losing support. Vehicle tracks that had appeared independent collapsed onto identical geolocation curves. Thermal clusters separated into repeated copies of the same six signatures. Terrain compensation revealed two projected movements passing through rock.
+
+Two seconds.
+
+The 99.8 percent confidence value changed to 63.4.
+
+Then 21.7.
+
+Then a dash.
+
+One second.
+
+The external queue reached 00:00.
+
+For one terrible instant, nothing on the release display changed.
+
+Then the counter-battery support product turned gray.
+
+EXTERNAL COMMIT SUSPENDED
+ SOURCE PROVENANCE INVALID
+ MANDATORY HUMAN REVIEW
+
+The volatile sanitization clock continued.
+
+00:13.
+
+Elias selected SEAL RECOVERY RECORD.
+
+The system copied the disputed chain, restored label map, and reconciliation result into the enclave’s immutable incident log.
+
+RECOVERY RECORD SEALED
+ SANITIZATION EXCLUSION APPLIED
+
+The purge reached zero.
+

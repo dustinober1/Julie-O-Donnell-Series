@@ -1,0 +1,181 @@
+Park repeated the description. Ortiz asked Julie whether the initials were hers.
+
+“Yes.”
+
+“Does your acknowledgment establish what is on it?”
+
+“No. It establishes that I sealed that bag after the cutout review.”
+
+“What do you claim is on it?”
+
+“An enclave recovery record. The claim requires later examination.”
+
+Park wrote CLAIMED CONTENTS NOT EXAMINED ON SCENE.
+
+The public story would call the cartridge stolen classified media. The receipt would call it a black metal object in a sealed bag with a visible serial. Neither description was complete. Only one preserved what police could actually verify.
+
+The paper log had no serial. Marcus described the black bound cover, the first entry time of 05:55:08, the three signatures entered at 06:20, later custody entries, and the handwriting added under Ortiz’s observation. He raised it only far enough to show the closed cover and the page edges.
+
+“Separate object,” Julie said.
+
+Ortiz gave her a warning look.
+
+Park said, “It already is.”
+
+She started a new sheet.
+
+The dead fleet module came next. Its antistatic sleeve exposed one label.
+
+“PCF-two-seven-TM-four-four-one-eight,” Marcus read. “Black telematics unit, approximately deck-of-cards size. Locking connector disconnected. No power. Bagged at the cutout.”
+
+“What does it prove?” Ortiz asked.
+
+“Nothing by itself,” Marcus said. “Compared with fleet records, it may establish when the van stopped reporting.”
+
+Park wrote the limitation beneath the description.
+
+The waterproof folder became its own entry after the three objects inside it were listed. Blue-black polymer, clear interior pockets, torn lower corner, no seal, no electronic function. Vehicle paperwork remained inside. Park recorded that the cartridge, log, and telematics unit would be removed into separate packages at transfer, leaving the folder and remaining documents in a fourth package.
+
+“Four objects from Marcus, plus the case,” Ortiz said.
+
+“Five,” Park confirmed.
+
+Marcus’s breathing had become audible between words. The paramedic checked the monitor again.
+
+“Ninety-three on oxygen. Still oriented. We are not extending this.”
+
+Ortiz turned to Elias.
+
+“Mr. Thorne, board first. Keep the module against the van. Use your left hand only.”
+
+Elias’s left hip shook when he shifted his weight. Park moved an empty chair from beside a monthly-parking column and placed it behind him without crossing into the evidence space. He lowered himself badly, caught the chair with his left forearm, and kept both original objects against his body.
+
+The administrator-token board came from the padded sleeve beneath his torn shirt. He held it by the edge with his left thumb and middle finger. His bandaged right index stayed curled away from the copper contacts.
+
+“Narrow exposed circuit board,” Park said before Elias could begin. “Copper contact edge. Black secure element near center. Small monochrome display. Scrape at upper corner.”
+
+“Original administrator-token hardware,” Elias said. “Hardware identity EAT-zero-eight-eight-one-one-four-seven.”
+
+Park read the identity from the display after Elias turned it toward her under Ortiz’s instruction.
+
+“Connected to anything?”
+
+“No.”
+
+“Powered?”
+
+“Internal secure element only. No network. No radio.”
+
+“Same object as the incident module?”
+
+“No.”
+
+“Part of the incident module?”
+
+“No.”
+
+“What distinction matters?”
+
+“The board carries my hardware identity, monotonic signing history, Revision Eight author material, and later live authentication events. The module carries two evidence partitions and a handling journal. Combining them would erase the distinction between the token whose identity was replayed and the media that later captured WSS-four.”
+
+Mercer said, “That is Mr. Thorne’s interpretation.”
+
+“It is the object description he is asserting,” Ortiz said. “Technical interpretation remains unverified.”
+
+Park began a sixth worksheet.
+
+The dual-partition incident module remained in Elias’s lap. Its small display faced outward. The enclosure serial read FEM-two-four-zero-six-seven-three.
+
+“State without opening it,” Ortiz said.
+
+“Partition A: sealed, read-only, integrity verified. Limited derivative created before Northbridge. Partition B: sealed WSS-four incident capture, controller seal present. The partitions are separate logical evidence volumes inside one physical enclosure. Handling-event journal is separate from both.”
+
+“Can you access either partition from the display?”
+
+“No.”
+
+“Can the manual control alter them?”
+
+“No. It writes a local handling entry into the enclosure journal.”
+
+“Do not press it.”
+
+“I won’t.”
+
+Park wrote the partition states on separate lines and circled the words ONE PHYSICAL MODULE / TWO DISTINCT SEALED PARTITIONS.
+
+Apex’s first written claim arrived through Mercer’s radio while she worked. An incident coordinator at Building Three requested that both electronic objects be described as “classified program media pending secure technical intake.”
+
+Ortiz listened to the wording.
+
+“Officer Park, add Apex classification and ownership claim as a separate claimant note. Do not replace the descriptions.”
+
+Mercer looked at him. “That wording may expose protected architecture.”
+
+“It describes what is physically in front of my camera.”
+
+“The distinction between board and module is itself sensitive.”
+
+“Then your claimant note can say so.”
+
+Ortiz chose one MPD incident with seven object entries and seven separate packages. He did not choose Julie’s explanation of the conspiracy. He did not choose Apex’s generic noun.
+
+The choice was smaller.
+
+It was enough.
+
+Park arranged the empty packages on the hood in the same sequence as the worksheets. Large rigid sleeve for the case. Three smaller bags for the cartridge, log, and telematics unit. One clear property bag for the emptied folder and vehicle documents. One antistatic box for the board. One padded shielded bag for the incident module.
+
+She wrote each prospective seal number beside the corresponding entry before removing the adhesive covers.
+
+The sequence mattered because a bag number created before transfer could be corrected on camera. A bag number discovered after transfer could become a blank space someone filled in elsewhere.
+
+Ortiz checked both body-camera indicators. Park’s showed red. His showed red.
+
+“Dispatch, preserve continuous body-camera event from first contact through completion of interim seizure,” he said. “Cross-reference both officer IDs under the scene incident.”
+
+Dispatch acknowledged.
+
+No camera guaranteed truth. Batteries failed. Angles missed hands. Files could later be challenged. Two cameras and a dispatch instruction made an unexplained gap harder to pass off as ordinary.
+
+Park laid out seven numbered seals in order. None touched an original.
+
+The paramedic beside Marcus said, “We are at the line.”
+
+Marcus’s left hand had begun to shake against the folder. His head came away from the frame and returned too slowly. The monitor still showed ninety-three, but the number had stopped being the only problem.
+
+“Colonel,” she said, “what city?”
+
+“Washington.”
+
+“What level?”
+
+“Six.”
+
+“What are we doing?”
+
+“Building a receipt.”
+
+“Who is receiving?”
+
+Marcus looked at Ortiz’s nameplate. “Metropolitan Police. Officer Ortiz. Interim only.”
+
+The answers were correct. The effort required to produce them was not.
+
+Ortiz looked at the worksheets.
+
+Every object had a description.
+
+No transfer had occurred.
+
+The garage clock reached 07:52:20.
+
+Forward Post Arjun
+17:22:20 IST / 07:52:20 EDT
+
+The superseding American package arrived with a valid authentication chain and no visible sign of haste.
+
+Major Ananya Sharma distrusted it immediately for that reason and no other.
+
+The package entered the allied terminal under a new product identifier, declared itself the current Argus reconstruction for the disputed sector, and attached the certificate path expected for an authenticated American source update. Its first operational line preserved the decision already taken on the mountain.
+

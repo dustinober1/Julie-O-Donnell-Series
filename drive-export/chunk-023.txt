@@ -1,0 +1,271 @@
+“No,” she said. “In Pakistan, I let someone else decide that doubt was weakness.”
+
+She closed the service door.
+
+Core Access Lift
+04:50 Eastern Daylight Time
+
+The service passage ended at a freight elevator protected by two authentication panels.
+
+One required an active facility credential.
+
+The other required a rotating six-digit code.
+
+Elias entered his employee number.
+
+Rejected.
+
+He opened the maintenance-drive circuit board and connected it to the diagnostic port beneath the panel.
+
+“What are you doing?” Marcus asked.
+
+“My token is revoked, but the deployment record still carries a recovery nonce.”
+
+“In English.”
+
+“The system thinks I am the attacker. It still needs my identity to document where it takes me.”
+
+Julie stood beside him. The clock on the wall showed 04:50:11.
+
+“Can you use that?”
+
+“I can request an incident-response session.”
+
+“Which gets us to the core?”
+
+“It gets us into the lower-tier transfer route. The enclave is not allowed to open directly onto a quarantined lift.”
+
+Marcus looked back along the service passage. The alarm they had triggered at Compliance Four had changed tone. A low pulsing signal replaced the earlier containment chime.
+
+A synthetic voice announced:
+
+LEVEL THREE SECURITY RESPONSE ACTIVE.
+ALL PERSONNEL REMAIN IN DESIGNATED SAFE AREAS.
+
+“How long?” Marcus asked.
+
+Elias continued working.
+
+“Longer when people ask me.”
+
+Julie almost smiled.
+
+The panel displayed:
+
+INCIDENT-RESPONSE SESSION FOUND
+SOURCE IDENTITY: THORNE, ELIAS M.
+STATUS: HOSTILE CREDENTIAL
+
+“Hostile?” Marcus said.
+
+“Told you.”
+
+Elias placed his thumb against the ordinary identity scanner. The panel compared the print to the employee record, not the enclave key. It paused, then changed.
+
+HOSTILE IDENTITY VERIFIED
+FORENSIC ESCORT MODE AVAILABLE
+
+The elevator opened.
+
+Marcus stared at the message.
+
+“It has an escort mode for attackers?”
+
+“It has an escort mode for security personnel transporting a compromised employee into a sealed incident route.” Elias disconnected the board and held it close to his chest. “The recovery nonce is pretending the escort already accepted custody.”
+
+They entered.
+
+The doors closed.
+
+Elias selected B2-CORE.
+
+The display rejected the destination and replaced it with another.
+
+DIRECT CORE ACCESS DISABLED DURING QUARANTINE
+ROUTING: LOWER-TIER INCIDENT TRANSFER
+
+The elevator descended.
+
+Julie felt the pressure change as they passed beneath Sublevel One. The walls vibrated with the deeper mechanical load of the production infrastructure. Marcus set the aluminum case between his boots and kept the canvas tool bag in one hand.
+
+“What exactly happens if we reach the recovery console?” he asked.
+
+Elias looked at Julie.
+
+“We mount the captured packets in protected mode, restore the original Payload Eighty-Eight labels, and force every dependent conclusion to establish itself again.”
+
+“How long?”
+
+“Best case, four minutes.”
+
+“And worst?”
+
+“The partial archive fails verification, the console locks, and the support package commits at zero-five-hundred.”
+
+The elevator clock showed 04:51:06.
+
+Less than nine minutes.
+
+The car slowed.
+
+A warning illuminated above the doors.
+
+LOWER-TIER INCIDENT TRANSFER
+INDEPENDENT SECURITY DOMAIN
+LOCAL CONTROL BEYOND THIS POINT
+
+Marcus looked at Julie.
+
+“Once those doors open, Vance cannot see us?”
+
+“He can see the lift event,” Elias said. “He can order containment. He cannot operate the local production route from the corporate network.”
+
+“Chen?”
+
+“Door states. Environmental faults. Maybe buffered camera summaries.”
+
+“Enough to send people.”
+
+“Yes.”
+
+The doors opened.
+
+A concrete transfer corridor extended thirty feet ahead. Cable trunks crowded the ceiling. Chilled-water pipes ran along the left wall and disappeared through an opening at the far end. A hydraulic fire shutter stood fully raised above that opening, its lower rubber seal recessed into a steel housing. Black letters on the side channel identified it.
+
+L3-7.
+
+Beyond the shutter, red emergency strobes pulsed through a darker lower-tier passage.
+
+A white security door occupied the wall behind and to the right of the elevator. Its status light was amber. A second lift indicator above it moved downward one level at a time.
+
+Marcus read it. “Recovery team.”
+
+The elevator doors closed behind them before he could touch the call control.
+
+A transfer panel beside the shutter awakened.
+
+FORENSIC ESCORT DETECTED
+DIRECTOR-LEVEL DEPLOYMENT CONTEXT PRESENT
+PROTECTED ROUTE: SUSPENDED
+
+Elias inserted the circuit board.
+
+The panel opened the deployment reference stored in its evidence partition.
+
+APX-DIR-0019
+CERTIFICATE CONTEXT: INVALID FOR HOSTILE SESSION
+
+“The recovery certificate did not survive,” Elias said.
+
+Julie set the aluminum case on the floor beside him.
+
+“It recognized the authority.”
+
+“It rejected the context.”
+
+“Then do not ask it to accept the context.”
+
+He looked at her.
+
+“Tell it the director credential is compromised.”
+
+“That starts physical containment.”
+
+Marcus glanced at L3-7. “We already have physical containment.”
+
+“No.” Elias looked toward the red passage beyond the raised shutter. “We have a security response. A director compromise isolates the production tier from every transfer route. Lift, security vestibule, cooling galleries. Everything closes locally.”
+
+“Does it open a path to the enclave?” Julie asked.
+
+“It preserves one. The local provenance route remains available from inside the tier.”
+
+“And the shutter?”
+
+“It closes.”
+
+The second-lift indicator reached the lowest level.
+
+The white security door began cycling.
+
+Marcus took the case handle and kept the tool bag in his other hand.
+
+“How long from the command to L3-7 sealing?”
+
+Elias read the actuator specification on the panel.
+
+“Eight seconds to the floor. Less if the stored pressure is high.”
+
+“Trigger it.”
+
+He selected REPORT CREDENTIAL COMPROMISE.
+
+The panel requested a reason code.
+
+Elias chose DEPLOYMENT AUTHORITY PRESENTED OUTSIDE VALID CONTEXT.
+
+No enclave PIN appeared.
+
+No live-finger scan extended.
+
+No private-key challenge asked him to release the emergency administrator role.
+
+This action did not open the production enclave or prove who had used Vance’s hardware. It told the local system that the authority controlling the poisoned bridge could no longer be trusted to control incident containment.
+
+Elias pressed ENTER.
+
+The panel went black.
+
+For one second, nothing happened.
+
+Then white text appeared.
+
+DIRECTOR CERTIFICATE APX-DIR-0019
+POTENTIAL COMPROMISE DETECTED
+
+A second line followed.
+
+PHYSICAL CONTAINMENT ACTIVE
+LOWER TIER ISOLATED
+
+The red strobes beyond L3-7 accelerated.
+
+A warning horn began.
+
+Hydraulic pressure struck the shutter housing above them.
+
+Behind Marcus, the security door opened beneath a white strobe.
+
+He threw the aluminum case beneath the descending steel. It struck the floor on the far side and slid into darkness.
+
+Julie caught Elias by the shoulder.
+
+Above them, the shutter dropped into the opening.
+
+---
+
+# Chapter 6 - The Descent
+
+Apex Building Three
+ Reston, Virginia
+ 04:52 Eastern Daylight Time
+
+The hydraulic shutter came down hard enough to shake dust from the concrete ceiling.
+
+“Move.”
+
+Julie drove her palm between Elias Thorne’s shoulder blades and sent him toward the narrowing gap. Crimson emergency light swept across the steel in measured pulses, revealing the black rubber seal along its lower edge and the scratches left by years of test closures.
+
+Three feet.
+
+Two.
+
+Elias dropped too late. His knee struck the floor and his hands skidded on condensation. The shutter’s warning horn hammered through the corridor.
+
+Julie caught the back of his shirt and hauled him forward.
+
+“Flat.”
+
+He folded beneath the steel. Julie shoved until his shoulders cleared, then went down after him, one forearm over her head. The lower edge passed close enough to stir her hair.
+
+On the far side, the aluminum telemetry case scraped across the floor. Marcus had thrown it through ahead of them. Elias rolled into it and stopped against the opposite wall.
+

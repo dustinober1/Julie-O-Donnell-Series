@@ -1,0 +1,156 @@
+Inside lay a gray cartridge no larger than a field radio battery. A recessed green indicator showed JOURNAL SEALED. The cartridge’s upper face carried a laser-etched hardware serial.
+
+K17-AC-44719.
+
+Qureshi read it twice. Sethi repeated it from the field removal form. Sharma watched both men compare the etched characters with the camera image rather than accepting memory.
+
+A second seal covered the cartridge contacts. K17-CS-88304. Its material had no cut, lift, or clouding. The contact seal had been applied at the relay before the cartridge entered the transit box.
+
+“Was that seal on the cartridge while it was installed?” Sharma asked.
+
+“No,” Sethi said. “The cassette protects the contacts in service. I applied K17-CS-88304 after removal while Captain Rao watched.”
+
+Rao repeated that.
+
+The patrol report and photographs became ARJ-K17-002. Qureshi logged the signed report, the original image card, the image-card serial, and the exact photograph count. He did not copy them yet. The image card remained in its own evidence sleeve.
+
+The third object did not exist.
+
+It would be the derivative, if the original survived the read.
+
+Arjun’s isolated reader had been stored for relay-failure investigations. It had no radio, no network interface, and no write conductors on the source side. Its serial was IRR-2041. Qureshi opened the cabinet while Sharma watched. The calibration card showed a valid date. The cabinet log showed no use since the last quarterly test.
+
+They did not trust either paper alone.
+
+Sethi verified the model. Rao verified the empty ports. Sharma watched Qureshi insert a reference cartridge carrying a known six-event test chain. The reader exposed the six events in order, reported zero source writes, and left the reference cartridge’s before-and-after state unchanged.
+
+REFERENCE EVENTS: 6 / 6  
+ORDER: VERIFIED  
+SOURCE WRITES: 0  
+READER: IRR-2041  
+EXTERNAL PATHS: NONE DETECTED  
+
+Qureshi photographed the test result and removed the reference cartridge.
+
+“K17-AC-44719 enters source position only,” Sharma said. “No parser outside the reader. No network. No attempt to repair, normalize, decrypt, or complete unavailable fields.”
+
+Qureshi repeated the limits.
+
+Sethi broke the cartridge contact seal along its numbered seam. The broken strip went into a small evidence pocket inside ARJ-K17-001. Qureshi seated the cartridge in read-only position.
+
+The reader displayed the first and last local event identifiers, the event count, and the cartridge’s internal journal seal. Qureshi compared the journal seal with the value photographed at removal.
+
+Match.
+
+He created the derivative destination on blank local media.
+
+ARJ-K17-003  
+SOURCE: ARJ-K17-001 / K17-AC-44719  
+METHOD: ISOLATED READ-ONLY EVENT EXPORT  
+READER: IRR-2041  
+SOURCE WRITE PATH: NOT PRESENT  
+EVENT ORDER: PENDING VERIFICATION  
+
+The export began without a progress wheel. Event identifiers advanced in a narrow column, each carrying the K-17 hardware time and the state exposed by the local journal. Qureshi read the identifiers. Sethi checked the sequence against the cartridge display. Sharma watched the order, not the volume.
+
+The patrol’s physical report had made K-17 look like a failed operation that had left the relay standing.
+
+The local record began by showing how far the operation had gone.
+
+K-17’s controller clock had last checked against the regional relay time at 17:08:00 IST. Its offset was plus 0.482 seconds, within the maintenance tolerance recorded by Sethi. Qureshi preserved the offset. He did not subtract it from every displayed field and produce a cleaner line than the system had made.
+
+The first relevant event appeared at 17:11:46.217 on the K-17 clock.
+
+SECURITY LINE ONE: CHALLENGE RECEIVED  
+ORIGIN: FIELD ROUTE  
+RESULT: ACCEPTED  
+
+Four tenths of a second later:
+
+SECURITY LINE ONE: PASS  
+OUTER WICKET STATE: OPEN / CLOSE COMPLETE  
+
+Rao looked at the photograph of the closed latch.
+
+“It closed behind them.”
+
+“It closed after an accepted pass,” Sharma said. “The photograph establishes its later physical state. The journal establishes the earlier controller state.”
+
+Neither source improved the other. Together they showed sequence.
+
+The next exposed event carried a certificate subject and fingerprint.
+
+FIELD ROUTE CERTIFICATE: ACCEPTED  
+REGISTERED AUTHORITY: TARIQ, MAJOR / FORWARD LIAISON CELL  
+CERTIFICATE FINGERPRINT: 7A:3C:19:55:0D:8E:21:44  
+PHYSICAL OPERATOR: NOT RECORDED  
+
+The room changed around the name.
+
+A registered certificate was not a man standing at the relay. It did not place Major Tariq on the mountain, put a device in his hand, or identify any of the approach marks outside. It established that an authority registered to his liaison cell had been accepted by K-17’s local controller.
+
+The challenged allied set carried a reference to the same accepted field authority. Sharma did not possess the remote session. She had only the category and local references preserved within her chain. The local cartridge gave her the field-side event without importing any unavailable message.
+
+Qureshi did not say Tariq had been there.
+
+He entered the exposed certificate subject and fingerprint exactly.
+
+The next event showed the task profile.
+
+SESSION PROFILE: K17-PHASE-B  
+SESSION STATE: LOCAL CHALLENGE OPEN  
+RELAY ACCESS: CONTROLLER REACHED / FINAL AUTHORIZATION PENDING  
+
+The derivative export paused between blocks because the local cartridge had rolled its journal segment. Qureshi did not reconnect, refresh, or ask the reader to infer the missing transition. The next event identifier followed the previous one without a gap.
+
+EVENT ORDER: CONTINUOUS  
+SEGMENT BOUNDARY: VERIFIED  
+LOCAL SOURCE-RECORD WRITES: 0  
+
+Rao let out a breath through his nose.
+
+“We thought they never reached it.”
+
+“You knew relay access was not confirmed,” Sharma said.
+
+“The door was closed.”
+
+“You did not know that. You had a closed inner boundary, an unresolved tamper condition, and tracks toward a crossing you could not safely pursue. The record exists because you obeyed the stop.”
+
+He accepted the correction.
+
+At 17:12:14.606, K-17 received a structured action request. It contained no message plaintext and no human instruction. The exposed fields belonged to the relay’s maintenance protocol.
+
+TASK: K17-PHASE-B  
+ACTION CLASS: LOCAL SOURCE-RECORD RECONSTRUCTION  
+SUBACTION: MAINTENANCE COMMIT  
+TARGET: CURRENT LOCAL SOURCE-STATE INDEX  
+LIVE WRITE STATE: NOT AUTHORIZED  
+
+Qureshi stopped reading.
+
+There it was.
+
+Not a generalized attack. Not an encrypted order conveniently turned into language they could use. A structured action class inside K-17’s own maintenance system.
+
+“What would a successful commit do?” Rao asked.
+
+Sethi kept his answer narrow. “It would replace the relay’s current source-state index with a locally committed reconstruction object. Downstream systems could then treat that object as the relay’s current maintenance state.”
+
+“Would it erase this cartridge?”
+
+“No. The cartridge is append-only once written. A successful commit would create a newer local record state and route that state outward. The original events would remain on this medium unless the medium was removed or destroyed.”
+
+“Could the reconstruction be true?” Sharma asked.
+
+“The action class does not say. It says what the controller was asked to do.”
+
+“What authority did it require?”
+
+REQUIRED AUTHORITY: REGISTERED FIELD ROUTE + LOCAL MAINTENANCE CONFIRMATION  
+FIELD ROUTE: PRESENT  
+LOCAL MAINTENANCE CONFIRMATION: ABSENT  
+LOCAL COMMIT CHALLENGE: ISSUED  
+
+The next six minutes contained repeated local state checks, one denied attempt to invoke a maintenance confirmation path, and no new certificate subject. The journal did not expose a user name, a device serial, or a body. It recorded the failure of the required second authority.
+

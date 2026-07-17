@@ -1,0 +1,180 @@
+Elias studied her as if responsibility were another claim that required proof.
+
+“Start with the evidence,” he said.
+
+Julie stood carefully.
+
+This time, she did not leave either man behind when she crossed to the case.
+
+The observation room had once been used to examine seized radios and removable media before the results entered a government network.
+
+Its forensic workstation was old enough to have a physical key switch. The tower sat beneath a steel desk beside a hardware write blocker, a certificate reader, and an evidence imager with a monochrome display. Dust covered every horizontal surface except the chair Marcus had pulled out.
+
+Julie did not power anything on until they checked the room.
+
+Marcus tested the fire exit and alley window, then wedged the door with a metal chair. He found no alarm contacts newer than the cutout itself. That did not mean the surrounding building lacked cameras or that the dormant lease could not be traced.
+
+Elias removed the workstation’s side panel and confirmed there was no wireless adapter. The Ethernet port ended in a cable cut six inches beyond the chassis. A second line ran to an obsolete microwave interface; he unscrewed the coaxial connector and set it on the table.
+
+“No active network path I can see,” he said.
+
+Julie wrote the qualification down.
+
+She found a bound paper log in the storage cabinet and opened it to the first unused page. The last entry was nine years old.
+
+At the top she wrote the location, the wall-clock time, and the names of all three people present.
+
+05:55:08 EASTERN DAYLIGHT TIME.
+
+She recorded the cutout as a decommissioned technical-surveillance support site known to Marcus Reed, its ownership and maintenance status unverified. She recorded the workstation’s faded asset serial, the absence of visible network interfaces, and the fact that none of its calibration or software status could be independently confirmed.
+
+Marcus watched from the doorway. “You’re documenting why their lawyers shouldn’t trust our equipment.”
+
+“I’m documenting why an investigator should know its limits.”
+
+She turned to the aluminum case.
+
+The seal indicator remained green. She copied the serial etched beside the hinge, the integrity-manifest identifier, and the case display exactly as it appeared.
+
+CAPTURE SEALED
+ FILES SEALED: 136
+ FILES INCOMPLETE: 47
+ FILES EXCLUDED: 311
+ LOCAL MEDIA INTACT
+
+She noted everyone who had handled it since Building Three: Marcus at the loading dock, Julie in the van, both during entry into the cutout. Elias had not touched the case after the escape.
+
+The signed recovery-record cartridge came next.
+
+Elias removed it from inside his shirt with his left hand. The black metal housing remained intact. The numbered tamper seam was divided where the enclave release had opened it. Its seal indicator showed green.
+
+Julie recorded the serial and condition before accepting it.
+
+“Transferred voluntarily,” Elias said.
+
+Julie looked up.
+
+“Write that.”
+
+She did.
+
+The administrator-token circuit board remained in his other hand. One corner bore the scrape from the cooling gallery. The copper contacts were marked where the gate and recovery console had accepted it. The secure-element package showed no visible fracture.
+
+“Custody stays with me,” Elias said.
+
+“Then I record that it remained in your possession while examined.”
+
+He nodded.
+
+Julie documented the dead fleet transponder separately and left it in an antistatic bag on the far end of the table. It might later establish when the van stopped reporting. It could not make the route disappear.
+
+The workstation took nearly two minutes to boot.
+
+Its clock was wrong by eleven days. Julie recorded that too and relied on the independent wall clock for every action.
+
+They mounted the aluminum case through the hardware write blocker. The evidence imager read the integrity manifest without opening file contents. All 136 sealed-file hashes matched the values stored inside the case.
+
+The result proved that the sealed files had not changed since capture. It did not prove that Apex had presented an honest source environment before the capture began. Julie wrote both sentences in the log.
+
+“Cause. Effect. Evidence,” Marcus said from the doorway.
+
+Julie looked at him.
+
+“You used to say it when you wanted everyone else to slow down.”
+
+“I still do.”
+
+“Good.”
+
+She drew three columns on a sheet of paper.
+
+CASE.
+
+BOARD.
+
+CARTRIDGE.
+
+“We keep them separate until each one tells us what it can tell us,” she said.
+
+Elias sat at the certificate reader with the blanket around his shoulders. “The case gives you Payload Eighty-Eight’s archive history, relay samples, the post-archive object, and the partial production bridge.”
+
+“Also the raw low-level events near K-17,” Julie said. “Events the source-correction object suppressed.”
+
+Marcus added, “And the unexplained ninth checksum.”
+
+Julie wrote it beneath CASE.
+
+The board entered the certificate reader without releasing its private key. Elias selected a read-only evidence mode from the tiny display.
+
+The secure element returned its hardware identity, author certificate, and monotonic signing history.
+
+The original live-deployment timestamp contained no matching physical signing event.
+
+The emergency gate session did.
+
+The reconciliation did.
+
+The difference was visible in the hardware counter and the live-biometric release attached to the later events.
+
+“The production record says my token signed,” Elias said. “The token says it did not.”
+
+“Could the counter have been reset?” Marcus asked.
+
+“Not without destroying the secure element and invalidating the certificate. It is designed to survive a compromised workstation.”
+
+Julie added the conclusion under BOARD.
+
+PHYSICAL TOKEN NOT USED FOR ORIGINAL DEPLOYMENT.
+ EARLIER IDENTITY PATH MIRRORED OR REPLAYED.
+ LIVE EMERGENCY USE DISTINCT AND AUTHENTICATED.
+
+The board’s evidence partition also carried Elias’s Revision Eight author material, the original synthetic-source labels, the sandbox restriction, and the operational-export prohibition. Those safeguards had existed when his approved work ended.
+
+They had been removed later.
+
+The recovery cartridge mounted last.
+
+Its local audit seal verified against the enclave trust root stored in the incident record. The workstation could not query a current revocation service, but the cartridge carried a hardware time signature and the complete certificate state at the moment the record sealed.
+
+Julie read the event chain from top to bottom.
+
+Elias’s authenticated emergency access.
+
+The restored Payload 88 labels.
+
+Her limited disputed packet boundary.
+
+The system’s declaration that source provenance was invalid.
+
+The suspended external counter-battery commit.
+
+Mandatory human review.
+
+The recovery-session reference.
+
+The audit seal written before volatile sanitization.
+
+The physical removal and tamper event.
+
+Nothing in the cartridge showed that Julie had introduced Payload 88. The contaminated assessment was already active when the protected recovery session began.
+
+Nothing in it turned Elias’s earlier replayed identity into physical use of the board he still possessed.
+
+The system itself had rejected the source.
+
+Apex’s bulletin claimed Julie had created the corruption she and Elias had documented and stopped.
+
+Marcus read the three columns. “That is enough to clear you.”
+
+“No,” Julie said.
+
+His expression tightened.
+
+“It is enough to contradict Apex. Clearing us requires someone to accept the record before accepting their alert.”
+
+Elias looked at the scanner in the next room. “And before they decide the record is another thing I altered.”
+
+Julie nodded.
+
+The storage cabinet contained two blank encrypted evidence modules. One failed its self-test. The second passed.
+
