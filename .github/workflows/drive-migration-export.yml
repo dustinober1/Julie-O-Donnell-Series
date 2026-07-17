@@ -81,27 +81,31 @@ jobs:
                   doc.add_page_break()
               text = (root / entry["path"]).read_text(encoding="utf-8")
               paragraph_lines: list[str] = []
-              def flush_paragraph() -> None:
-                  nonlocal paragraph_lines
-                  if paragraph_lines:
-                      doc.add_paragraph(" ".join(line.strip() for line in paragraph_lines))
-                      paragraph_lines = []
               for raw_line in text.splitlines():
                   line = raw_line.rstrip()
                   if not line:
-                      flush_paragraph()
+                      if paragraph_lines:
+                          doc.add_paragraph(" ".join(item.strip() for item in paragraph_lines))
+                          paragraph_lines.clear()
                   elif line.startswith("# "):
-                      flush_paragraph()
+                      if paragraph_lines:
+                          doc.add_paragraph(" ".join(item.strip() for item in paragraph_lines))
+                          paragraph_lines.clear()
                       doc.add_heading(line[2:].strip(), level=1)
                   elif line.startswith("## "):
-                      flush_paragraph()
+                      if paragraph_lines:
+                          doc.add_paragraph(" ".join(item.strip() for item in paragraph_lines))
+                          paragraph_lines.clear()
                       doc.add_heading(line[3:].strip(), level=2)
                   elif line.strip() == "---":
-                      flush_paragraph()
+                      if paragraph_lines:
+                          doc.add_paragraph(" ".join(item.strip() for item in paragraph_lines))
+                          paragraph_lines.clear()
                       doc.add_page_break()
                   else:
                       paragraph_lines.append(line)
-              flush_paragraph()
+              if paragraph_lines:
+                  doc.add_paragraph(" ".join(item.strip() for item in paragraph_lines))
           doc.save(accepted_root / "Veridrift - Accepted Manuscript - Prologue through Chapter 24.docx")
 
           for source in [root / "PROJECT_STATE.yaml", manifest_path, root / "books/book-01/control/README.md"]:
