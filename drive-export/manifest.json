@@ -1,0 +1,220 @@
+{
+  "book": 1,
+  "title": "Veridrift",
+  "accepted_words": 124779,
+  "accepted_file_count": 25,
+  "combined_characters": 818844,
+  "chunk_count": 35,
+  "chunks": [
+    {
+      "sequence": 1,
+      "file": "chunk-001.json",
+      "characters": 23849,
+      "sha256": "4945f63cc1e7494c5da46e9107e711322d3ca5c43a4b437d09cde00413b16cec"
+    },
+    {
+      "sequence": 2,
+      "file": "chunk-002.json",
+      "characters": 23932,
+      "sha256": "5da9f3a1fde12e2a14e95a2a9c34937fcea1feab20aa01217fdfdf61da757515"
+    },
+    {
+      "sequence": 3,
+      "file": "chunk-003.json",
+      "characters": 23964,
+      "sha256": "10a326744fa15a8549334b8157767720a7a3c71fb1dfb2827b96b64d4cba566a"
+    },
+    {
+      "sequence": 4,
+      "file": "chunk-004.json",
+      "characters": 23824,
+      "sha256": "8016d9b5c5fb53f43e7c489841344b056dc9c495af5a3dc2d356a378d84c7e73"
+    },
+    {
+      "sequence": 5,
+      "file": "chunk-005.json",
+      "characters": 23968,
+      "sha256": "424d2124de5fa4ce447ac43e8dbecd79a83afabd651b2d9b67dd6cf5ec605fc8"
+    },
+    {
+      "sequence": 6,
+      "file": "chunk-006.json",
+      "characters": 23951,
+      "sha256": "6d319c3f5611b961445b269a665195ed995e21247e09cd0b52924f8fc8c2b864"
+    },
+    {
+      "sequence": 7,
+      "file": "chunk-007.json",
+      "characters": 23926,
+      "sha256": "37fab111401a2822a5603dbba47595b53648549c485549fdd9b72f7ef4f15340"
+    },
+    {
+      "sequence": 8,
+      "file": "chunk-008.json",
+      "characters": 23901,
+      "sha256": "67acf2f7c9b4c4b0f1b2c7e393ec56f47c0adc6c1062f696b7932a113a1bcd1c"
+    },
+    {
+      "sequence": 9,
+      "file": "chunk-009.json",
+      "characters": 23993,
+      "sha256": "c3ff5388d8080317a0cb8960ee4f9bfee939f9358e98c4e646c3bd26536f3f4b"
+    },
+    {
+      "sequence": 10,
+      "file": "chunk-010.json",
+      "characters": 23980,
+      "sha256": "5f94abb60a94b01c2b4e1fc9689f1d70a47e23957f85f36b93d03ac2455119ae"
+    },
+    {
+      "sequence": 11,
+      "file": "chunk-011.json",
+      "characters": 23803,
+      "sha256": "d71e5d13fec142bd1e4271e3e641cc0950e61ac36dd34369857f89df53293ead"
+    },
+    {
+      "sequence": 12,
+      "file": "chunk-012.json",
+      "characters": 23998,
+      "sha256": "0ea25bf95b39462f3c3d9ad7d13e0dc3b61b4783c47c754f3ee3dc412c3dd1a2"
+    },
+    {
+      "sequence": 13,
+      "file": "chunk-013.json",
+      "characters": 23959,
+      "sha256": "7799466d7c073a627ad2aa113f6d8fb226cee936f313d8d8ac8c8f7c0adbbef0"
+    },
+    {
+      "sequence": 14,
+      "file": "chunk-014.json",
+      "characters": 23792,
+      "sha256": "de07e65bc650ccec089c283424dc164466f07a41b29930ceaa8ab91503de1680"
+    },
+    {
+      "sequence": 15,
+      "file": "chunk-015.json",
+      "characters": 23951,
+      "sha256": "60a90417fb3e17fec40fe44c0c1573f0fb29c7038c379b0af852e92522ce2410"
+    },
+    {
+      "sequence": 16,
+      "file": "chunk-016.json",
+      "characters": 23943,
+      "sha256": "45b48cf14925df661975f6e959bce75a4bdff31b02ca9445e1d0793e66269a35"
+    },
+    {
+      "sequence": 17,
+      "file": "chunk-017.json",
+      "characters": 23989,
+      "sha256": "52c07c6945c18c86a39658af4f786cfd9e2788654c9751c5d5c90dc780cea6c2"
+    },
+    {
+      "sequence": 18,
+      "file": "chunk-018.json",
+      "characters": 23933,
+      "sha256": "cec6257f7d19dbc263529d95cc874d0b33a201ccbba38b75a86ebab486325426"
+    },
+    {
+      "sequence": 19,
+      "file": "chunk-019.json",
+      "characters": 23945,
+      "sha256": "0bb544185a300ceef1f93204532a19365be6c4bd5e8a69a091ab1dc1e9261817"
+    },
+    {
+      "sequence": 20,
+      "file": "chunk-020.json",
+      "characters": 23891,
+      "sha256": "eabdf45a4b20cb7d0db71fa96ce2df48f9901c46e66c08cd43f8152813bbada1"
+    },
+    {
+      "sequence": 21,
+      "file": "chunk-021.json",
+      "characters": 23937,
+      "sha256": "8a8f26255e2802ffab272b51ce3ae9e11f83404f9b5b448df9d4ed022baf85bb"
+    },
+    {
+      "sequence": 22,
+      "file": "chunk-022.json",
+      "characters": 23777,
+      "sha256": "53d02708532faf471bc800498237e0a99042ada3e0174ecc1d2d20e0e0c0a6e0"
+    },
+    {
+      "sequence": 23,
+      "file": "chunk-023.json",
+      "characters": 23942,
+      "sha256": "cd9f35a5407c25e9b4f724e293497ef99a62acad6dfeef66e19026c1516fb111"
+    },
+    {
+      "sequence": 24,
+      "file": "chunk-024.json",
+      "characters": 23997,
+      "sha256": "be502ac3d2f828a6d0371c079c2f2eeb64ee35801018fecf2ce01efe97e1c3ba"
+    },
+    {
+      "sequence": 25,
+      "file": "chunk-025.json",
+      "characters": 23890,
+      "sha256": "3bfa7027f8cd7d539f98c6fd31ed424e3b702d592d3339aef183fc25c879c6f2"
+    },
+    {
+      "sequence": 26,
+      "file": "chunk-026.json",
+      "characters": 23780,
+      "sha256": "daa232de05739e14a3bb05566e2f0789cca35e06dcb45dea894a4ef978685429"
+    },
+    {
+      "sequence": 27,
+      "file": "chunk-027.json",
+      "characters": 23645,
+      "sha256": "52789bc3dc3ac40886026a2ab600642fa76a22b48140dd173631806064a32350"
+    },
+    {
+      "sequence": 28,
+      "file": "chunk-028.json",
+      "characters": 23936,
+      "sha256": "4d87a65c0be7bc1f122f8ec861af9e2d376d391bed2c0dd09f491df09defbe44"
+    },
+    {
+      "sequence": 29,
+      "file": "chunk-029.json",
+      "characters": 23862,
+      "sha256": "f75c385f3115e5c36e560baf569757bf6bc66409186f59accb432fadcf56b254"
+    },
+    {
+      "sequence": 30,
+      "file": "chunk-030.json",
+      "characters": 23988,
+      "sha256": "aa7663bf73ce5d69692958229d2d623cdebe2a378b045e0f6e1830c30aee9357"
+    },
+    {
+      "sequence": 31,
+      "file": "chunk-031.json",
+      "characters": 23682,
+      "sha256": "d1c272217a7c926ef232e5bcb47ca401d2cc1ae24fb18aaccdf5de2483f84f85"
+    },
+    {
+      "sequence": 32,
+      "file": "chunk-032.json",
+      "characters": 23773,
+      "sha256": "bd2067a229aa25d968aedb96c1151fe0528fdab480304b34758c01b6e22f2c00"
+    },
+    {
+      "sequence": 33,
+      "file": "chunk-033.json",
+      "characters": 23862,
+      "sha256": "3e231039d8efdebfdb62882ad543ee72ce6a8adb2ebd5d57ea5f91d3595e64a8"
+    },
+    {
+      "sequence": 34,
+      "file": "chunk-034.json",
+      "characters": 23955,
+      "sha256": "d07e9069b13ae958ad7b4ccf04afbe320cc6edd5d249fa5e6860d374662da890"
+    },
+    {
+      "sequence": 35,
+      "file": "chunk-035.json",
+      "characters": 6326,
+      "sha256": "245132a86f77c98742217589b54dde63eda5382009c5879302d3d919ec3eded3"
+    }
+  ]
+}
