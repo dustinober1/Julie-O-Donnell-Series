@@ -5,319 +5,421 @@
   "accepted_file_count": 25,
   "combined_characters": 818844,
   "combined_sha256": "6e81221b059c3aa191b56edd31e44e8615293fe86006d7b68647c5d244d82d5d",
-  "chunk_count": 52,
+  "chunk_count": 69,
   "chunks": [
     {
       "sequence": 1,
       "file": "chunk-001.txt",
-      "characters": 15673,
-      "sha256": "c7e72242f89c1bc1f172a62c27c561bfa086a372c07f7cfb1fa12fe826997dbb"
+      "characters": 11973,
+      "sha256": "4e666596def06ed905d663df874eb8b92c042f32fa3685ca2917b860a4ff4a1b"
     },
     {
       "sequence": 2,
       "file": "chunk-002.txt",
-      "characters": 15786,
-      "sha256": "d64cc30e965dd0e6ce34d997d89811ff1d5729f54d93e422bc616adb21ab5413"
+      "characters": 11876,
+      "sha256": "999e5554eec2ea4fa63f8b97aa213fc00d74212eaa4fca8d64e54b4b12979e92"
     },
     {
       "sequence": 3,
       "file": "chunk-003.txt",
-      "characters": 15887,
-      "sha256": "1745ac0bfeed94adb7bccb0625f324c7b18a853808fa56d1c6418767ad4af62d"
+      "characters": 11959,
+      "sha256": "39854165d58e73bc9b0361dda60ad021c3a498507f3891c588b9a3c7a54a3f6e"
     },
     {
       "sequence": 4,
       "file": "chunk-004.txt",
-      "characters": 15598,
-      "sha256": "259d226efda2abb2c9d5723927cf1d7fb920daf2ae3c191020ad23f83e8c8e3a"
+      "characters": 11973,
+      "sha256": "158169034fb986abbfa5bc2adac95e82865de12eeda3152674f2b57aa6664646"
     },
     {
       "sequence": 5,
       "file": "chunk-005.txt",
-      "characters": 15986,
-      "sha256": "41408d1c89689d8ebf5415ddd64761700b3c9eea92db63f91857f65f65316795"
+      "characters": 11988,
+      "sha256": "259b68139a506ae35d91db71a3de194c4d5f4a9dc385de4adafe22144469b06f"
     },
     {
       "sequence": 6,
       "file": "chunk-006.txt",
-      "characters": 15979,
-      "sha256": "ca014e99e8611410149983021e349a9d47df4c75578f6d77574b5528f4eb1ef1"
+      "characters": 11976,
+      "sha256": "83ca5885429926258fbdbb33d5b0f4298d12409fa518cb82ced555e34ca51489"
     },
     {
       "sequence": 7,
       "file": "chunk-007.txt",
-      "characters": 15913,
-      "sha256": "9009a02271d644c2417407cf0df315a76b3dff399827c64b37da5d9646c460d1"
+      "characters": 11979,
+      "sha256": "b838fc2873306fc4263fb338a66f0942d4a2e043aabd405ead0fd7360e971f2d"
     },
     {
       "sequence": 8,
       "file": "chunk-008.txt",
-      "characters": 15899,
-      "sha256": "d0594f760564276d272a52903078542c2acad612bcd6f467743f0463c3888c7b"
+      "characters": 11845,
+      "sha256": "69a053f8aa6e1735356e3c77a1ec90592b05f67cc0ac8e03ed990841472cf762"
     },
     {
       "sequence": 9,
       "file": "chunk-009.txt",
-      "characters": 15985,
-      "sha256": "a68f6c086e1fa7da22015409848746387fa811821e17020dbdeabfebc3bb8002"
+      "characters": 11992,
+      "sha256": "6d3ccbf3066b16401a70727213666e80908d258879006243b0880e662e3d988a"
     },
     {
       "sequence": 10,
       "file": "chunk-010.txt",
-      "characters": 15999,
-      "sha256": "4f6f3ab075f077d054824287f63222266d7cbf23942bc09fd3c4dd5e61fec870"
+      "characters": 11976,
+      "sha256": "7942188c92397e2e2a92575420a6a028277627f21b6b55c96ffc2ba91983437b"
     },
     {
       "sequence": 11,
       "file": "chunk-011.txt",
-      "characters": 15973,
-      "sha256": "87ab04fc488ec66b1d2da7910f025f3234a2a5deae2a6de8439b8261802b2f2a"
+      "characters": 11876,
+      "sha256": "f905ed328e0127d4a4e06823e24468efbcd9a8dfb55bf9b99da13711c6d92f0a"
     },
     {
       "sequence": 12,
       "file": "chunk-012.txt",
-      "characters": 15864,
-      "sha256": "7bf678d204603f6a66f9be55e164e5a6548c6b071eedacadfbd5f6c123b6b874"
+      "characters": 11978,
+      "sha256": "a98a81c799952ae737c741e319b0bc9c3451dfefadbd33000bb9150ba87d2041"
     },
     {
       "sequence": 13,
       "file": "chunk-013.txt",
-      "characters": 15916,
-      "sha256": "7f6669f4e11fe53174d2e5ea4443ab5bb6f2b08b574056da0d35b8e6b1a730ed"
+      "characters": 11933,
+      "sha256": "07464665c828a17ff90f97dff5a163ebd6e32b9fd2b13ede6efa005ad361f93e"
     },
     {
       "sequence": 14,
       "file": "chunk-014.txt",
-      "characters": 15896,
-      "sha256": "1363ee357413b931acc7d18f45c6c35801c2c2a71631bb6ecfd556c14b390333"
+      "characters": 11962,
+      "sha256": "beb7bc42b7b78ab67104ca9dd00f14ee0e6b98a9ba957c474cdf6cebb75aded4"
     },
     {
       "sequence": 15,
       "file": "chunk-015.txt",
-      "characters": 15976,
-      "sha256": "590953f8b82350bfa54840014b4a92c10adbf267a44ed9d8b9c237f559d930ff"
+      "characters": 11935,
+      "sha256": "bc5b010986d16e7c0536761a895dcdd6d675c9ccf200d8f487dd6b561572a1c5"
     },
     {
       "sequence": 16,
       "file": "chunk-016.txt",
-      "characters": 15946,
-      "sha256": "e67a8d549beb3c467d15746aab88357cdefc5e402b619d086b6233363f880cb8"
+      "characters": 11847,
+      "sha256": "1626981d2d3939091e525ed8065cda5640b5fb2c04da457baf9724563e8e2f12"
     },
     {
       "sequence": 17,
       "file": "chunk-017.txt",
-      "characters": 15996,
-      "sha256": "64817eef1303cda6409461d8ddfbc6e32b096de88b5f841dea501d6ec5f28546"
+      "characters": 11989,
+      "sha256": "5f830f52304a39be2cf1d0df9a938bb5b0914748e7a5406cc503d3db59dc808a"
     },
     {
       "sequence": 18,
       "file": "chunk-018.txt",
-      "characters": 15987,
-      "sha256": "56dfcc5ab3b3f14393cd98df91ad8704a27ca0367efbf7ecbae47df687e0c793"
+      "characters": 11968,
+      "sha256": "1d94a64305ff66be64b5979528c0d90eddeaa30dac2e4ab4a5efed7c7a330d14"
     },
     {
       "sequence": 19,
       "file": "chunk-019.txt",
-      "characters": 15922,
-      "sha256": "451ca99272cc1e28e7ba19a0898d77b92244ea893b34806e0dc2cd137444bd36"
+      "characters": 11959,
+      "sha256": "976cd8a25c30b979c3bd7cff4485edce891fcdef73332e61e4bf9baa97c824ba"
     },
     {
       "sequence": 20,
       "file": "chunk-020.txt",
-      "characters": 15854,
-      "sha256": "31f6fa24a6bda3c9500b72105f378d25eec5669b43e0cc6675deff47f0949426"
+      "characters": 11950,
+      "sha256": "97adeb4faaba48ce398a859842d9111ef47bd1f0304b84c45a9c034c16de5b92"
     },
     {
       "sequence": 21,
       "file": "chunk-021.txt",
-      "characters": 16000,
-      "sha256": "343588d3ac75a630fdc5bf682a9553e1683eb256d19de3edd7c1dc1ed50b41dc"
+      "characters": 11949,
+      "sha256": "fb3f149f2ed3a818e210d906bd4ebb85ab5ffc0b437a19a7eae2b537388313a8"
     },
     {
       "sequence": 22,
       "file": "chunk-022.txt",
-      "characters": 15715,
-      "sha256": "a8c012a84f83e2fc64aeb3be070f709c8ad22a76960c49252df1cc55ad5ebff4"
+      "characters": 11994,
+      "sha256": "850c57de66d4adec89a4fe8d21bc989dce56193ee4c8036ab206b93084673cd0"
     },
     {
       "sequence": 23,
       "file": "chunk-023.txt",
-      "characters": 15973,
-      "sha256": "3833e7deeb979a2a0fd530f608a3ce4c8d97f245895468f08cde9ddbb88b3a8e"
+      "characters": 11808,
+      "sha256": "4ae9ac1302263619dc806ba0dd1373acc951dcaaaf93ad19df1d01889977fe77"
     },
     {
       "sequence": 24,
       "file": "chunk-024.txt",
-      "characters": 15983,
-      "sha256": "81036f1bea81da0e093bdd412dea69be3c3f673d61b13ca9ed705bfd8d5199c4"
+      "characters": 11906,
+      "sha256": "84ae2dc8bc0616550115570b21193e0ff80f33526eb91a2b792c967e2b8a9c92"
     },
     {
       "sequence": 25,
       "file": "chunk-025.txt",
-      "characters": 15985,
-      "sha256": "8098c38f54a2c9e2f257a0c9aca5b9f0586f4d0f37478bea391a688d2e3e9414"
+      "characters": 11884,
+      "sha256": "e400d51198c137f2ccd262b2290ae7cafc94d9e308fa43071987fa66ca4daba9"
     },
     {
       "sequence": 26,
       "file": "chunk-026.txt",
-      "characters": 15726,
-      "sha256": "b72e05ed12e25949ac18961b26437c9ccbf370df212ea3e6c4391dfda1cc64b3"
+      "characters": 11853,
+      "sha256": "ffbb0af888d1348485cdcbbd55edc57b667fd11b46280f825005611a148cfeec"
     },
     {
       "sequence": 27,
       "file": "chunk-027.txt",
-      "characters": 15979,
-      "sha256": "b83cfb25410b037090c6a57fc27faa3e447c5c707baaf8121f79059adb188285"
+      "characters": 11747,
+      "sha256": "8dd43c7053294adf41f21022ca982625503179e253939538d211ec9751cff583"
     },
     {
       "sequence": 28,
       "file": "chunk-028.txt",
-      "characters": 15981,
-      "sha256": "12ba8d3378e56b9e62425c1b0dc4fc9e2b8401794b745804cfb17d8353f72a03"
+      "characters": 11961,
+      "sha256": "3c0731726aae874afbbba69f3abdc9496688eaf4838bb292841909c81be7af66"
     },
     {
       "sequence": 29,
       "file": "chunk-029.txt",
-      "characters": 15998,
-      "sha256": "0250ea235825a9aa2ec3d2f0454353bff47a14b39d9b2d7b7af866103f29b14e"
+      "characters": 11833,
+      "sha256": "f4070df1cc29f3c0b78e40ecc73f4fcac2296f7b786a710b1c5065ca451f3b3d"
     },
     {
       "sequence": 30,
       "file": "chunk-030.txt",
-      "characters": 15742,
-      "sha256": "42c4d7234cd5bc6c4e2cd84011619c110822e2e88d3a4e059d4b502a8a9ce96e"
+      "characters": 11798,
+      "sha256": "e6a2935f3c11cdb89f070cb7af479c1c520513262c470b25a48b729cd420eeb3"
     },
     {
       "sequence": 31,
       "file": "chunk-031.txt",
-      "characters": 15841,
-      "sha256": "bb2ab8fa70a2c1529dea5d9d109eed838656159584b668b67f4575eb23157960"
+      "characters": 11996,
+      "sha256": "730b77c2e30d58e5570f014f5232da1fbc856e0a0e5fe5bd2e276b0cee278d8f"
     },
     {
       "sequence": 32,
       "file": "chunk-032.txt",
-      "characters": 15733,
-      "sha256": "855211af2d5cac999c57976164001c48ed7cccfc00a197c1069661689d4b4f9e"
+      "characters": 11986,
+      "sha256": "0a872ac76c5d4986f2f05bc4011e4572984a46063838a69f56c60fe98c8473b0"
     },
     {
       "sequence": 33,
       "file": "chunk-033.txt",
-      "characters": 15984,
-      "sha256": "0ac86bc4dcca7537c8e985df6570c53e05ff21a3a327b8dd02fab197b1d59be9"
+      "characters": 11998,
+      "sha256": "651628e1631fd7a6687daced121a468c88a150c2d94c8922085e0d119a232a25"
     },
     {
       "sequence": 34,
       "file": "chunk-034.txt",
-      "characters": 15943,
-      "sha256": "9f15859a84e36a92f9e5d4270797f467abf207a718d117c8b0192839317bcab5"
+      "characters": 11987,
+      "sha256": "4a390172b10adb1c8c853c3b51026a5049b2ea21313deb7ad50d51a13093c552"
     },
     {
       "sequence": 35,
       "file": "chunk-035.txt",
-      "characters": 15882,
-      "sha256": "3a75a2752255eb5cc0ef69bc6557e79fc624a5b63b2720b818b6ae3014710b2b"
+      "characters": 11882,
+      "sha256": "e0f626c21f86ad35d84d08b36f94514dde29c51af53cee5131a1356884d74e12"
     },
     {
       "sequence": 36,
       "file": "chunk-036.txt",
-      "characters": 15959,
-      "sha256": "50ee54f75a3ac776851be533552726a7b1ae5738bf5025753c13845f805f7110"
+      "characters": 11968,
+      "sha256": "3a83b832f5480297e2cd531cdff86e15df025c47b4d80ebe1c264155169bb534"
     },
     {
       "sequence": 37,
       "file": "chunk-037.txt",
-      "characters": 15962,
-      "sha256": "5d4a723866cb8b445e7c51e28d8dfbc4b992d3e57a0199355ea43695bc758497"
+      "characters": 11988,
+      "sha256": "ae6c31c552d9b5cfad68479139517fc3cf9296f9a041ccb33049bdc0434fed90"
     },
     {
       "sequence": 38,
       "file": "chunk-038.txt",
-      "characters": 15949,
-      "sha256": "d903f0fe5ab4060d107d85de8c853e7e029498c4bb35dac626af60896f6dba46"
+      "characters": 11833,
+      "sha256": "e4082e1805136bc14db348102c9af65a0f60b4d7025563dab690ffae93046325"
     },
     {
       "sequence": 39,
       "file": "chunk-039.txt",
-      "characters": 15812,
-      "sha256": "d31c1a35a3e784b4f2f671addccb52f09aeca129773764ec0caa767e905b4c6b"
+      "characters": 11942,
+      "sha256": "aa00cfff662bf311651f45001baf3af445ceb5b01831be36270e78eec926d139"
     },
     {
       "sequence": 40,
       "file": "chunk-040.txt",
-      "characters": 15968,
-      "sha256": "df14fa56d804013e3c65e2ab031b903972f29791a1ce069c39df0ad25ffc4dd1"
+      "characters": 11870,
+      "sha256": "8bb587889788b28021bb62c979984ae7f04317e9775b2872f33e1b83be2738b3"
     },
     {
       "sequence": 41,
       "file": "chunk-041.txt",
-      "characters": 15958,
-      "sha256": "61edcac79b5d12885658107c593bddd4fbaa7755496a025e7b4cd1ab76cda274"
+      "characters": 11917,
+      "sha256": "10665ab2c414abf51c56ecac5d8cfd92530ec589cbe8c8456c457eb00eb21de0"
     },
     {
       "sequence": 42,
       "file": "chunk-042.txt",
-      "characters": 15963,
-      "sha256": "6b6b4682df7c8580fd441a6818322b945df611fc18bbf447bfe7ca0267b8b535"
+      "characters": 11846,
+      "sha256": "6bf7a8613f29a12cd402a7b7e32dfa850a9785c9c752c4fc5e802931fd21992a"
     },
     {
       "sequence": 43,
       "file": "chunk-043.txt",
-      "characters": 15969,
-      "sha256": "da75891a71c696dbf03e2c647d128c4b84ac12f23b43b53f0a4119907c1185a7"
+      "characters": 11953,
+      "sha256": "6fb145d3bb24e6376447da92838f84374cf1ba325f4d4e5a60cfd7d980eb8498"
     },
     {
       "sequence": 44,
       "file": "chunk-044.txt",
-      "characters": 15905,
-      "sha256": "13a207497b1f5dd85ebac0bbdc6e7d673c44f93f2ace6cf438c27bb754a475c7"
+      "characters": 11948,
+      "sha256": "22c9d19e19dcfaae68d720fcdec7079dab5f5d5325d84b17d3bb2dda42d0a04d"
     },
     {
       "sequence": 45,
       "file": "chunk-045.txt",
-      "characters": 15851,
-      "sha256": "2712b22665955fbf3f1dd2340d95cd9be1a77a5e79bd0825d20980fc9f59140c"
+      "characters": 11976,
+      "sha256": "e16fa7ad2ed8b3f7e53359883d33e2024dce3aa0966c4030a98dad3cc1d35e57"
     },
     {
       "sequence": 46,
       "file": "chunk-046.txt",
-      "characters": 15790,
-      "sha256": "1ce1911fa4e939780ca0f51bbbf5d515a87ba39d4707ff86f1fceca5cea849de"
+      "characters": 11535,
+      "sha256": "694d16f86b994e497c3daf75cdc193b78c5cf584883fcb3a328eb3915be9829b"
     },
     {
       "sequence": 47,
       "file": "chunk-047.txt",
-      "characters": 15957,
-      "sha256": "3ae346c77bc6f8d6ea5b5ea6e954fe691e0846e11a781a3d489a297104e1abe7"
+      "characters": 11791,
+      "sha256": "b9fcc47d7896f6747713b10d3c5bdd1864294d215701a6df7729dcf9e2594d16"
     },
     {
       "sequence": 48,
       "file": "chunk-048.txt",
-      "characters": 15885,
-      "sha256": "f0654cb19aee9922ca7c07ccba20426b32a25219db07096f149375af62048848"
+      "characters": 11995,
+      "sha256": "dbf43fbf2db0b90289ddbe72c099c05da3304fb67b6e589e0587c759a4fe11a9"
     },
     {
       "sequence": 49,
       "file": "chunk-049.txt",
-      "characters": 15453,
-      "sha256": "f24464b2be8b23e1f9b4e06f01daf4ce5e5b19dc4c3a7261c99cd4334ad2d273"
+      "characters": 11941,
+      "sha256": "df51d26b8dbcc5a7b3088f7934acca7804914b6a1864123801ce8842d1336224"
     },
     {
       "sequence": 50,
       "file": "chunk-050.txt",
-      "characters": 15767,
-      "sha256": "74c42ba7eccbafb304582da90ccaea804e7864b5cdb1c55eba6cf31fba3e10fb"
+      "characters": 11994,
+      "sha256": "9c843123971859f43c147f595f155fa33be62d9227c5d3532746f78b8d200ce6"
     },
     {
       "sequence": 51,
       "file": "chunk-051.txt",
-      "characters": 15842,
-      "sha256": "fbdf7996be9d31458d3970e61320875cb89410192ebecf347bc059c9df970076"
+      "characters": 11927,
+      "sha256": "e6f4aca4f8fefc1cc16ae5141f15540da0753dcef6d7bc322c9ca18f46a434ae"
     },
     {
       "sequence": 52,
       "file": "chunk-052.txt",
-      "characters": 8354,
-      "sha256": "a8365c53d502974d581bbbff519ce0d6c7338de6f4d4dc5d6b8762a4cf216674"
+      "characters": 11999,
+      "sha256": "f744914f4e33b08a22207cb2f5814cacf049d6b2d37ec6653054a6895d0684ec"
+    },
+    {
+      "sequence": 53,
+      "file": "chunk-053.txt",
+      "characters": 11924,
+      "sha256": "1830bcb915761a77936b17a72dd00f1091ad1ba07cbadecd70cb001bcb7b5ab4"
+    },
+    {
+      "sequence": 54,
+      "file": "chunk-054.txt",
+      "characters": 11398,
+      "sha256": "2554fa7de544332f0fd6b4ec55f47775e30898e984760c69df6a61d9e17373db"
+    },
+    {
+      "sequence": 55,
+      "file": "chunk-055.txt",
+      "characters": 11975,
+      "sha256": "f50c73531cd09bcef0a424bebc6ec4b29112d67a4c10492138ecc26c4dd2c940"
+    },
+    {
+      "sequence": 56,
+      "file": "chunk-056.txt",
+      "characters": 11796,
+      "sha256": "700e557262f3fe49dbcf924c3b70b7d70179a8d511f6d8863ca5ddcba9af2a82"
+    },
+    {
+      "sequence": 57,
+      "file": "chunk-057.txt",
+      "characters": 11972,
+      "sha256": "6f81309b9ff2171a28f0ac8987a86982a50bb313c08c71d6a8730894f3a382ae"
+    },
+    {
+      "sequence": 58,
+      "file": "chunk-058.txt",
+      "characters": 11990,
+      "sha256": "549196772d4fb7b4fee051cd79fdccf62228fffe8b039ed12113629fdb59d73f"
+    },
+    {
+      "sequence": 59,
+      "file": "chunk-059.txt",
+      "characters": 11704,
+      "sha256": "f41682751a35f2473ff6170b63e9bc1ab2b1c57d0b19902d72177d7c5c5b43ae"
+    },
+    {
+      "sequence": 60,
+      "file": "chunk-060.txt",
+      "characters": 11598,
+      "sha256": "a9a70be1ac00207834537231615b4100e64bb5ffeb9f642aa6d35f968a52a97d"
+    },
+    {
+      "sequence": 61,
+      "file": "chunk-061.txt",
+      "characters": 11841,
+      "sha256": "387a23f7864a54bab7eb3048821d2378a48e7e6926bbf6307b853507919371a1"
+    },
+    {
+      "sequence": 62,
+      "file": "chunk-062.txt",
+      "characters": 11656,
+      "sha256": "829d9ac267bab13c146fb8ff185c37c5aaa7384de314d82007a474fc9c5e42a3"
+    },
+    {
+      "sequence": 63,
+      "file": "chunk-063.txt",
+      "characters": 11722,
+      "sha256": "351675e64b7454cc2dbc979bd12f057162e21433e725c14c35fc86d8501f7c80"
+    },
+    {
+      "sequence": 64,
+      "file": "chunk-064.txt",
+      "characters": 11721,
+      "sha256": "4af4bbdd09a527f496b789554d9c7f9eaa90e10a14caef73c1b0b23c9cdc3ae4"
+    },
+    {
+      "sequence": 65,
+      "file": "chunk-065.txt",
+      "characters": 11987,
+      "sha256": "361d958330ee06149fedcf469a185f2487ee70c6833fa9fcef7ec7d27e737c0a"
+    },
+    {
+      "sequence": 66,
+      "file": "chunk-066.txt",
+      "characters": 11948,
+      "sha256": "bcee5ba1cc2fc31f9624e8a6c7f78c4f58142f634d3ce1821281d536c9718b9f"
+    },
+    {
+      "sequence": 67,
+      "file": "chunk-067.txt",
+      "characters": 11912,
+      "sha256": "537c75a244e6005b7860781e36fd05ccf2a042e01b0ffc35bcc2e202311e37b0"
+    },
+    {
+      "sequence": 68,
+      "file": "chunk-068.txt",
+      "characters": 11857,
+      "sha256": "a5718acfb5eec60fdaee2de68d2081021241a22925c56df5cb35e8f9ba498249"
+    },
+    {
+      "sequence": 69,
+      "file": "chunk-069.txt",
+      "characters": 9904,
+      "sha256": "1e62ac6d7e3f1745c9346a0bb95cc47d5b885c7c63ed1bf304d7a241db2b126d"
     }
   ]
 }

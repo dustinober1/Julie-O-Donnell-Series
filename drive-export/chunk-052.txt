@@ -1,99 +1,207 @@
-The report also stated what Price had not done. He had not requested personal contact with Julie, joined a joint team, or authorized anyone to use his statement outside the bounded record. His counsel controlled any later approach. The complete sequence protected him from the borrowed act without polishing the conduct he had admitted.
+“It does not,” Sharma said. “His questioning stops here. You will identify anything he personally observed in the report and anything he did not.”
 
-A final three-line witness status confirmed only what the ending required. Chen’s source-native seal and access suspension remained preserved. Mercer’s direct observations and the conflicting force orders remained preserved. Bell’s WSS local audit and sponsor record remained in Northbridge custody under hold. Their records could be compelled, challenged, or used later through lawful process. None had been converted into allegiance to Julie or a final employment result.
+“Yes, ma’am.”
 
-Grant closed the page.
+The remaining patrol members stayed on their feet because sitting would have required them to stand again. Ice clung to the webbing at their knees. One man had torn the outer layer of his right sleeve and wrapped the opening with signal tape. Another kept flexing his jaw to clear the pressure left by the descent. They had crossed the mountain under a warning that might have been false, reached a relay that looked untouched, and returned carrying an object no one at Arjun had expected to see. Fatigue made each of those facts easier to combine into a single story. Sharma intended to keep them separate.
 
-Julie looked at the blank screen Elias had controlled. Expertise could be requested. Testimony could be preserved. Loyalty could be offered.
+Lieutenant Sameer Qureshi arrived from the communications room carrying the challenged allied incident set in a sealed document case. He stopped when he saw the chain around Rao’s wrist.
 
-None could become property.
+“What is that?”
 
----
+“Relay-local incident cartridge,” Rao said. “Removed from K-17 under local custodian authority. Isolated before movement.”
 
-Later that evening, after the attending physician approved conditional discharge, Hackett appeared on a recorded counsel channel.
+“Who removed it?”
 
-The discharge did not dissolve the order. Webb read the conditions again while a nurse fixed the immobilizer inside a sling and documented that Julie could not drive, lift, type normally, or perform farm work with the right hand. The hospital released her to counsel-arranged transportation, not to unrestricted movement. Appearance, evidence-contact, classified-access, and self-investigation limits remained active.
+A fifth member of the patrol stepped forward. He was older than Rao, broad beneath wet cold-weather layers, with a relay-maintenance badge fixed inside a transparent pocket rather than exposed to the storm.
 
-Hackett did not offer Julie her commission back. He could not. He offered to sponsor a formal review of whether, after the legal and administrative matters were resolved, she might return to government service in an Army, program-integrity, or interagency advisory role.
+“Naib Subedar Vikram Sethi. K-17 local custodian.”
 
-“You would have defined access,” he said. “A lawful sponsor. Protection from contractor control.”
+Sharma looked at the chain, the unopened box, and the document pouch.
 
-“Inside one chain.”
+“Nothing enters the operations room until it has a record.”
 
-“Every position is inside a chain.”
+Northern Command had called twice in the last six minutes. The first call asked when K-17 would return to ordinary service. The second asked whether the patrol had found any condition that justified extending the hold. The relay still stood. No hostile team had been captured. From the perspective of a headquarters trying to restore a clean operational picture, those facts pointed toward closure.
 
-“Then I am not taking a position.”
+The box on Rao’s wrist was the part that prevented that conclusion from becoming routine.
 
-Hackett absorbed the refusal without treating it as final until she made it exact. “No Army billet?”
+Qureshi opened the local incident register on a standalone terminal. Sharma kept him off the allied network.
+
+“New umbrella,” she said.
+
+He entered the time from Arjun’s disciplined wall clock rather than the wet patrol watches.
+
+INCIDENT: ARJ-K17-018  
+CREATED: 18:44:09 IST  
+LOCATION: FORWARD POST ARJUN  
+SUBJECT: RELAY K-17 LOCAL ACCESS / PHYSICAL INSPECTION  
+STATUS: OPEN / PRESERVATION HOLD  
+
+“Custody roles,” Sharma said.
+
+Qureshi read them back as he entered them. Sethi was the field transferor and local relay custodian. Rao was the patrol witness. Qureshi would become the receiving custodian after visible inspection. Sharma would witness the transfer and control the incident umbrella. Pal was listed as a patrol observer removed by medical authority before local questioning.
+
+At 18:44:09 Indian Standard Time, the local umbrella existed.
+
+Only then did Sharma allow the patrol into the report room.
+
+The report room had been designed for map briefings, not wet patrols. Condensation gathered on the window frame. A portable heater pushed warm air across the floor and turned the ice on Rao’s outer layers into dark spreading patches. No one removed the transit box from his wrist until Qureshi had positioned a camera, a paper transfer sheet, and two empty evidence trays on the center table.
+
+“State the field sequence without conclusions,” she told Rao.
+
+He gave her the physical facts.
+
+The patrol reached Point Kestrel later than planned because the western traverse had iced over and one man had lost footing near the second anchor line. From Kestrel, they observed K-17 through thermal optics and glass for nine minutes. The mast remained upright. External power showed normal. The weather cover over the service enclosure remained closed. No person occupied the visible outer compound.
+
+They approached along the authorized maintenance route. At the outer security wicket, the frozen mud held six partial approach marks and a deeper cut where a rigid tool had been set against the lower frame. The latch was closed when the patrol arrived. A narrow section of the anti-tamper paint had been shaved from the receiver.
+
+Rao placed the first photograph beneath the camera. The steel wicket filled the frame. Ice had formed around the lower hinge. The latch sat in its receiver. Behind the protective glass, the access indicator showed a steady green line.
+
+“The patrol report calls that a successful pass,” Sharma said.
+
+“It is the manufacturer’s state for an accepted local challenge,” Sethi replied.
+
+“Not the same sentence.”
+
+“No, ma’am.”
+
+“What did you do next?”
+
+Rao placed a second photograph on the table. It showed the inner security boundary twenty meters beyond the wicket: a low armored enclosure built into the rock beneath the relay mast. Its door was closed. The tamper strip appeared intact from the patrol’s position, but windblown ice obscured the lower seam. No body, weapon, or movement appeared in the image.
+
+“We did not cross,” Rao said.
+
+“Why?”
+
+“We could not exclude hostile occupancy inside the enclosure. We could not exclude an explosive or tamper hazard on the lower seam. The outbound tracks turned west toward ground from which a Line-of-Control crossing could not be excluded.”
+
+The hard stop had three separate conditions. Rao had met all three.
+
+“Did you pursue?”
+
+“No, ma’am.”
+
+“Did any patrol member enter the inner boundary?”
 
 “No.”
 
-“No government appointment?”
+“Did anyone open the relay enclosure?”
 
-“No permanent one.”
+“No.”
 
-“Even if the review clears you?”
+“Then how did you recover the cartridge?”
 
-“A review cannot make Apex the place where I work. It cannot make one agency’s access the price of seeing the source. And I will not investigate my own case.”
+Sethi pointed to a smaller armored drawer visible outside the inner boundary in the photograph. The K-17 access controller wrote its append-only local incident chain to a removable cartridge held in an exterior isolation cassette. The cassette could be released by the registered local custodian from the safe side of the boundary. Removing it mechanically isolated the controller’s journal output path; it did not open the relay, create a live network path, or change the preceding record.
 
-Alvarez said that lawful authorities would seek Julie’s expertise after the present restrictions allowed it. Grant added that independent work would still require a named client authority, classification controls, counsel, and enforceable custody rules. Neither woman offered universal jurisdiction or a standing credential.
+“I verified the cassette indicator before removal,” Sethi said. “Green journal seal. No active write. I used my local maintenance key and mechanical release. Captain Rao witnessed. The cartridge went directly into the field sleeve.”
 
-Julie asked Webb for paper.
+“Did you reconnect it after removal?”
 
-The yellow legal pad slid across the hospital table. Julie turned it sideways because her left-handed writing crowded the binding. She did not name a company. She wrote a heading.
+“No.”
 
-TERMS OF WORK.
+“Did you connect anything else to the relay?”
 
-The first line required a case-specific written mandate and the name of the lawful authority responsible for it. The mandate would identify the question, jurisdiction, classification boundary, and person answerable if the scope changed. The second line left every source original with its lawful custodian. The third prohibited a merged universal truth file. Findings would carry their proof ceilings, objections, withheld fields, and clock limits with them so a summary could not travel farther than its sources.
+“The empty cassette was capped and mechanically isolated. No replacement medium was connected. K-17’s ordinary sensor forwarding remained physically intact, but its local incident-write path stayed offline pending authorized restoration.”
 
-Her left hand cramped. She stopped, opened the fingers, and continued. The uneven writing made the page look provisional.
+Sharma looked at Rao. “Photographs?”
 
-Access could not depend on accepting an institution’s preferred conclusion. A stop or refusal right had to exist before work began, not after success made withdrawal inconvenient. Civilian and source protection would outrank speed, program survival, and public optics. Every collaborator would retain counsel, consent, and custody of his or her own acts. No one’s expertise, testimony, or loyalty would be presumed available because it had been useful before. Julie would perform no investigative work on her own unresolved criminal, administrative, or employment matters.
+“Before removal, during release, empty cassette, replacement seal, and departure.”
 
-Hackett read the page through the camera. “You are describing an independent source-integrity practice.”
+“What did the patrol establish about hostile occupancy?”
 
-“And evidence architecture.”
+“No person remained in the visible outer compound when we inspected it. Thermal observation found no human heat source outside the closed enclosure. We did not enter the enclosure, so we cannot state what was inside it.”
 
-“Who gives it authority?”
+That was the right boundary for this record.
 
-“The mandate does. For one case. From the authority that owns the question.”
+Northern Command called again.
 
-“And when agencies disagree?”
+Qureshi put the speaker on the table and identified every person in the room before answering.
 
-“They keep their originals and their objections.”
+The duty colonel asked for service-restoration status.
 
-“You may spend more time refusing work than doing it.”
+“The local incident cartridge is now under preservation intake,” Sharma said. “Ordinary restoration remains held.”
 
-Julie looked at the backward-slanting lines. “Then the refusal clause will be working.”
+“For an intact relay and an empty compound?”
 
-Webb signed as witness to the terms, not as approval of a business. Grant asked for no copy. Alvarez entered only that Julie had declined permanent government return and identified a future professional structure outside the current investigation. Hackett recorded his offer and her refusal under his own authority.
+“For an intact relay with a passed outer line, unexplained approach marks, a removed local record, and an unresolved inner boundary.”
 
-Before the hospital released her, Grant read the unchanged custody state into the recorded channel. `MPD-901441` through `MPD-901447` remained sealed and separate. The aluminum case remained 136 sealed files, 47 incomplete files, and 311 excluded files. Legislative Secure Services confirmed `SSO-NS-004` powered down, isolated, closed, unused, and under `LSS-SL-90418`; docket `LSS-IDR-90418-01` remained an investigation, not a guilt finding.
+“You have no hostile personnel.”
 
-The unresolved matters remained unresolved: the original 02:14 operator, the human constructor behind the borrowed request path, any connection between those human acts, Vance’s earlier role and upstream direction, Sterling’s personal knowledge or command, Tariq’s physical operation, the WSS plaintext, and the wider network. Julie did not convert the list into a new mission. The existing custodians and investigations already owned those questions. Her own case belonged among them, beyond her reach until a lawful process decided what she had done and what the evidence could support.
+“We have no hostile personnel in custody.”
 
-For six years, refusing institutional terms had meant retreating to the one place where every failure showed itself in wood, wire, mud, or flesh. The page did not make institutions honest. It made her return conditional on something more durable than trust.
+The distinction produced a pause.
 
-At 05:52 the following morning, Webb’s office placed Julie in a medically authorized car for Culpeper County. She sat in the rear seat with the immobilized arm supported by two folded towels. The driver handled the road. The yellow pad rested inside a clear document sleeve on Julie’s lap, separate from every evidentiary object and carrying no case material.
+The colonel directed her to establish whether the relay had been altered, preserve only information required for the challenged incident, and return K-17 to service as soon as operational safety permitted. He did not order her to erase anything. He did make the cost of delay hers.
 
-The farm appeared beyond the trees after sunrise.
+Sharma ended the call and turned to the transit box.
 
-Julie felt the first impulse to ask the driver to stop at the house and leave her there. The porch offered a chair, a locked door, and the old habit of making distance look like safety. Instead she asked to be taken down the service track to the lower pasture.
+“Custody before interpretation.”
 
-The porch still leaned east above them. The barn roof still needed work. Near the fence section Julie had been repairing before Marcus arrived, the mare stood beside the sagging wire. The replacement cedar post lay near the hole with the carpenter’s level and tamping bar beside it.
+The chain around Rao’s wrist carried a numbered steel link: PK-06-314. Qureshi photographed it beside the wall clock. He read the transit-box number aloud.
 
-Her neighbor had fed the horses while she was gone. He waited in the pasture because Webb had asked him to be there when the car arrived, not because anyone had given him the story. When he saw the immobilizer, he picked up the post without asking Julie to prove she could not.
+PKT-K17-04.
 
-She almost told him where to place his hands.
+The box had two mechanical latches and a narrow field-seal channel. The seal remained unbroken. Its visible number was K17-FS-1176. Moisture had frozen along the lower edge, but no cut or deformation crossed the seal body.
 
-Instead, she showed him the hole and let him take the weight.
+Sethi confirmed the number from his patrol copy. Rao confirmed that he had watched the box from the relay cassette to Arjun’s gate. Sharma recorded both statements as testimony, not as a substitute for the physical seal.
 
-They set the cedar into the earth. He packed the first soil around it with the tamping bar while Julie held the carpenter’s level against the wood with her left hand. Her right arm remained fixed against her body. The mare watched from the other side of the wire, patient and unimpressed.
+Qureshi created the original-media reference.
 
-Julie adjusted the level once. Her neighbor shifted the post and packed the ground again.
+ARJ-K17-001  
+ITEM: ORIGINAL K-17 INCIDENT / ACCESS-CONTROLLER CARTRIDGE  
+SOURCE CONTAINER: PKT-K17-04  
+FIELD SEAL: K17-FS-1176 / INTACT ON ARRIVAL  
+TRANSFEROR: NAIB SUBEDAR VIKRAM SETHI  
+RECIPIENT: LT SAMEER QURESHI  
+WITNESS: CAPT ARVIND RAO / MAJ ANANYA SHARMA  
+TIME SOURCE: ARJUN DISCIPLINED WALL CLOCK  
 
-The yellow pad lay inside its clear sleeve on the top rail. It contained no new assignment, no client, and no promise that the institutions would accept her terms. It contained the limits under which she would return when lawful work existed and the limits under which she would refuse.
+Rao placed his wrist beside the camera. Qureshi read the chain number and photographed the closed lock before cutting it. The transit box went onto the first tray. Sethi became transferor. Qureshi became recipient. Rao signed as patrol witness. Sharma signed as receiving witness and local incident authority.
 
-At exactly 08:14:44 EDT / 17:44:44 IST, Julie lifted her left hand from the level.
+The key for the field seal remained in Sethi’s custody until Qureshi had photographed all six sides of the box.
 
-The bubble stayed centered.
+Only then did Sethi open the outer box.
+
+Inside lay a gray cartridge no larger than a field radio battery. A recessed green indicator showed JOURNAL SEALED. The cartridge’s upper face carried a laser-etched hardware serial.
+
+K17-AC-44719.
+
+Qureshi read it twice. Sethi repeated it from the field removal form. Sharma watched both men compare the etched characters with the camera image rather than accepting memory.
+
+A second seal covered the cartridge contacts. K17-CS-88304. Its material had no cut, lift, or clouding. The contact seal had been applied at the relay before the cartridge entered the transit box.
+
+“Was that seal on the cartridge while it was installed?” Sharma asked.
+
+“No,” Sethi said. “The cassette protects the contacts in service. I applied K17-CS-88304 after removal while Captain Rao watched.”
+
+Rao repeated that.
+
+The patrol report and photographs became ARJ-K17-002. Qureshi logged the signed report, the original image card, the image-card serial, and the exact photograph count. He did not copy them yet. The image card remained in its own evidence sleeve.
+
+The third object did not exist.
+
+It would be the derivative, if the original survived the read.
+
+Arjun’s isolated reader had been stored for relay-failure investigations. It had no radio, no network interface, and no write conductors on the source side. Its serial was IRR-2041. Qureshi opened the cabinet while Sharma watched. The calibration card showed a valid date. The cabinet log showed no use since the last quarterly test.
+
+They did not trust either paper alone.
+
+Sethi verified the model. Rao verified the empty ports. Sharma watched Qureshi insert a reference cartridge carrying a known six-event test chain. The reader exposed the six events in order, reported zero source writes, and left the reference cartridge’s before-and-after state unchanged.
+
+REFERENCE EVENTS: 6 / 6  
+ORDER: VERIFIED  
+SOURCE WRITES: 0  
+READER: IRR-2041  
+EXTERNAL PATHS: NONE DETECTED  
+
+Qureshi photographed the test result and removed the reference cartridge.
+
+“K17-AC-44719 enters source position only,” Sharma said. “No parser outside the reader. No network. No attempt to repair, normalize, decrypt, or complete unavailable fields.”
+
+Qureshi repeated the limits.
+
+Sethi broke the cartridge contact seal along its numbered seam. The broken strip went into a small evidence pocket inside ARJ-K17-001. Qureshi seated the cartridge in read-only position.
+
+The reader displayed the first and last local event identifiers, the event count, and the cartridge’s internal journal seal. Qureshi compared the journal seal with the value photographed at removal.
+
+Match.
+

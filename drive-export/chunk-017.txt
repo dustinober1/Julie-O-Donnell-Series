@@ -1,461 +1,307 @@
-“Abort mission Zebra-Nine. Abort. Safe weapons and clear the digital fire plan.”
+“Containment One, enter through the south service stair,” she said. “Containment Two holds the production vestibule. Closed-circuit radios only. Do not connect equipment to the quarantined network.”
 
-The clock showed four.
+The team leader acknowledged with two clicks.
 
-A battery commander answered first.
+“Objective is to secure the enclave, recover the raw telemetry, and take all three subjects into custody. Preserve the production environment. Weapons remain controlled unless there is an immediate threat to life.”
 
-“One holding. Safing.”
+Professional language. Defensible language. The kind that survived an inquiry because it described a security operation rather than a hunt.
 
-Then another.
+Arthur Vance stood behind her, reflected in the dead camera wall.
 
-“Two holding.”
+“They are not trying to escape,” he said.
 
-The third response broke beneath static.
+Sarah kept her attention on the schematic. “They cannot escape from the lower tier.”
 
-Sharma pressed the transmit key harder.
-
-“Three, confirm abort.”
-
-Two seconds.
-
-Qureshi struck the local control and pulled the staged target package from the execution channel. The fire plan changed from red to amber.
-
-One second.
-
-The third battery answered.
-
-“Three safe. One tube loaded, firing circuit safe. No rounds fired.”
-
-The firing window reached zero.
-
-The post clock changed to 14:30:00.
-
-Outside, the mountain remained silent.
-
-Northern Command demanded an explanation.
-
-Sharma looked at the contaminated-source warning.
-
-“The evidence no longer supports fire,” she said. “The mission is aborted.”
-
-Apex Building Three
- Reston, Virginia
- 05:00 Eastern Daylight Time
-
-For five seconds, the enclave contained no countdown.
-
-The recovery record was sealed. The external commit remained suspended. Somewhere beyond the walls, the gate-override pump continued to labor, but the sound no longer owned the room.
-
-Elias sat down hard in front of the console. His injured leg extended beneath him. The thin circuit board remained in the author slot, his name fixed beside every action they had taken.
-
-Marcus slid back to the floor rather than fall there. He kept one hand against his ribs and looked at Julie.
-
-“What did we stop?”
-
-“A counter-battery support release.”
-
-“How close?”
-
-Julie looked at the zeroed clock.
-
-“Close enough.”
-
-No one celebrated.
-
-The system began the post-reconciliation review automatically. A new pane opened beneath the withdrawn assessment.
-
-GENUINE SOURCE ACTIVITY WILL BE REEVALUATED
- RETAINED RAW OBSERVATIONS: PRESENT
-
-Julie moved back to the console.
-
-Elias looked up. “The synthetic layer is gone.”
-
-“The poisoned layer is excluded,” she said. “That is not the same as nothing being there.”
-
-She opened the retained observations.
-
-The primary artillery sector was almost empty. Weather noise returned in irregular bands. Civilian communications drifted with the storm. A few heavy-engine signatures appeared on known roads, none arranged into the offensive formation Argus had projected.
-
-At the edge of the map, a group of low-confidence events blinked into view.
-
-They were nowhere near Sector Zebra-Nine.
-
-Julie expanded them.
-
-Short thermal signatures appeared one at a time beneath a ridge line. They lasted between two and four seconds, then vanished behind terrain. A vibration sensor farther east recorded brief weight transfers too light for vehicles and too regular for loose rock. Three narrow communications bursts sat almost entirely beneath Payload 88’s carrier structure.
-
-Before reconciliation, each had been marked as duplicate contamination and removed by the source-correction object.
-
-Now they aligned.
-
-Not artillery.
-
-People.
-
-Five, perhaps six, moving in intervals that kept them from occupying the same sensor field at once.
-
-Elias leaned closer. “That should not have been filtered.”
-
-“It destabilized the false movement model,” Julie said.
-
-“The correction routine treated anything sharing its carrier structure as self-noise.” He touched the lineage map. “Payload Eighty-Eight did not only add the artillery pattern. The production object used the pattern as a mask.”
-
-Julie brought up the timestamps.
-
-The first thermal event had occurred before the fabricated artillery warning reached peak confidence. The movement continued while human attention and model resources shifted toward the false sector. Several sensors along the second corridor had gone quiet for precise, overlapping intervals—not long enough to trigger a relay failure, but long enough for people to pass between them.
-
-One ground sensor had registered six separate weight events over ninety seconds. The intervals were disciplined, the spacing designed to keep the group from appearing as a single formation. A communications receiver had caught two encrypted acknowledgments so brief that the normalization layer had buried them beneath the synthetic carrier noise.
-
-The activity was not random movement by civilians surprised by the weather.
-
-Someone had studied the collection pattern.
-
-Marcus forced himself higher against the cabinet.
-
-“Where are they going?”
-
-Julie followed the line east.
-
-The terrain map ended at a small triangle identified by a relay designation.
-
-K-17.
-
-Elias read it. “That is a ridge-top collection relay. Local sensors write their raw logs there before the data propagates out.”
-
-“Can it be reached on foot?” Marcus asked.
-
-“Yes.” Elias enlarged the service contour. “There is a maintenance approach from the disputed corridor. It is supposed to be watched by the same sensors that just lost coverage.”
-
-Julie marked the last confirmed observation. It lay beyond the crossing line, inside the corridor leading toward the relay.
-
-“They’re already across.”
-
-“How old is the last contact?” Marcus asked.
-
-“Less than three minutes.”
-
-“And distance?”
-
-Julie measured the terrain path rather than the straight line. “A little over two kilometers from K-17 when the sensor lost them.”
-
-Marcus looked from the fabricated artillery sector to the small sequence advancing toward the relay.
-
-“The artillery was cover.”
-
-“It controlled where everyone looked.”
-
-The false threat had drawn command attention, fire-control preparation, and the model’s highest analytic weighting into one sector. Beneath it, a small team had moved through gaps measured in seconds.
-
-If they reached the relay, they could destroy the original sensor logs, alter them, or blind the corridor long enough for whatever came next. They might also leave behind physical evidence that made the fabricated warning look legitimate after the fact.
-
-Julie did not know which purpose mattered most.
-
-She knew the false attack had never been the operation.
-
-Elias stared at the filtered-event labels.
-
-“My package taught Argus what to ignore.”
-
-“Your package was labeled synthetic.”
-
-“I built the carrier structure. I built the rejection behavior.”
-
-“And someone removed the limits.”
-
-“That does not make those people less real.”
-
-“No.” Julie looked at the route to K-17. “It means we find out who wanted them unseen.”
-
-A heavy impact struck the gate.
-
-The status strip advanced.
-
-LOCAL OVERRIDE
- STAGE 3 OF 4 COMPLETE
- LOCKING PRESSURE REDUCED
-
-Marcus turned his head toward it. “They’re almost through.”
-
-Elias pulled his circuit board from the console and nearly dropped it. Julie caught it against the edge with her left hand and pushed it back toward him.
-
-The overhead lights changed.
-
-White floor strips dimmed. Amber lamps appeared along the ceiling, one above each section of hardened cabinets. A low tone sounded once, held for two seconds, and stopped.
-
-The recovery console disappeared beneath an environmental warning.
-
-REMOTE LIFE-SAFETY COMMAND RECEIVED
- HARDENED INCIDENT CHANNEL
-
-Julie looked toward the ceiling.
-
-Round discharge nozzles sat between the cooling returns. She had noticed them when she entered and dismissed them as ordinary server-room protection.
-
-The system began verifying room status.
-
-OCCUPANCY: THREE PERSONS CONFIRMED
- SUPPRESSION INTERLOCK: ACTIVE
-
-Then the second line changed.
-
-SUPPRESSION INTERLOCK: OVERRIDE REQUESTED
- AUTHORITY: EXECUTIVE EMERGENCY CONTROL
-
-Elias went still.
-
-“He cannot see the recovery console,” he said. “But that path survives quarantine.”
-
-“Suppression?” Marcus asked.
-
-“Inert agent. It protects energized equipment by reducing oxygen below the level that sustains combustion.” Elias looked at the sealed gate. “The room is supposed to evacuate before discharge.”
-
-Julie watched the override request remain pending.
-
-Apex Security Command Center
- 05:00 Eastern Daylight Time
-
-Sarah Chen saw only the outcome.
-
-ARGUS EXTERNAL COMMIT: SUSPENDED
- PROVENANCE REVIEW: ACTIVE
- RECOVERY RECORD: SEALED
-
-The hardened status channel did not show what Julie had selected or how Elias had changed the source state. It showed enough for Arthur Vance.
-
-He read the three lines without moving.
-
-On the lower-tier schematic, the containment team had reached Stage Three of the local gate override. Mercer’s voice came through the closed circuit.
-
-“Lock pressure is dropping. Estimate forty-five seconds to manual release.”
-
-Sarah keyed the channel. “Maintain the override. Do not enter until the gate reports stable.”
-
-Vance moved to the protected environmental-control panel at the end of her console row.
-
-“What are you doing?” she asked.
-
-“Preserving the production environment.”
-
-“The commit is suspended.”
-
-“Because they have altered a strategic system.”
-
-“They used an authenticated recovery process.”
-
-His hand stopped above the panel.
-
-It was the first time Sarah had said the fact aloud.
-
-Vance entered his executive credential. The panel offered only the systems the quarantine had been required to preserve: fire detection, smoke control, emergency power, and clean-agent suppression.
-
-He selected the production enclave.
-
-Sarah stood. “The room is occupied.”
-
-“I am aware.”
-
-“Inert-agent discharge cannot be used for personnel containment.”
-
-“This is not personnel containment.”
-
-The answer was quiet.
-
-He selected PRE-DISCHARGE ARM.
-
-The panel rejected it.
-
-OCCUPIED-ROOM INTERLOCK ACTIVE
-
-Sarah looked at him. “That is the system working.”
-
-Vance opened the executive override field.
-
-“Director.”
-
-“Telemetry recovery has priority.”
-
-“Discharge can incapacitate or kill everyone inside.”
-
-“Then Mercer should recover the case promptly.”
-
-“The gate will not open before the room charges.”
-
-Vance entered the override.
-
-OCCUPIED-ROOM STATUS: OVERRIDDEN
- EXECUTIVE AUTHORITY: APX-DIR-0019
-
-Sarah understood the order now without language selected to survive review.
-
-Vance pressed ARM.
-
-She did not reach for him.
-
-She keyed the containment channel instead.
-
-“Mercer, suspend active pressure on the gate. Establish stand-off and maintain containment.”
-
-Mercer answered after a short pause. “Reason?”
-
-Sarah looked at the environmental panel.
-
-“Suppression pre-discharge is active.”
-
-Another pause.
-
-“Occupied?” Mercer asked.
-
-Vance watched her.
-
-Sarah kept her voice level. “Maintain stand-off.”
-
-It was not an answer.
-
-It was still an order.
-
-Production Enclave
- 05:01 Eastern Daylight Time
-
-The gate-override pump stopped outside.
-
-In the sudden quiet, Julie heard valves shifting in the ceiling.
-
-The recovery console displayed the final warning.
-
-INERT AGENT RELEASE ARMED
- OCCUPIED-ROOM STATUS: OVERRIDDEN
- DISCHARGE IN 01:30
-
-A protected red control opened beside the gate.
-
-MANUAL SUPPRESSION ABORT
-
-Julie crossed the room. Her damaged wrist struck a cabinet when the torn heel of Marcus’s boot caught her ankle, but she kept her feet. She lifted the cover with her left hand and drove the abort control down.
-
-The display changed.
-
-MANUAL ABORT DISABLED
- EXTERNAL PHYSICAL RESET REQUIRED
-
-“Again,” Marcus said.
-
-“It’s locked out.”
-
-Elias looked from the nozzles to the sealed gate. “When it releases, the oxygen concentration drops. We may stay conscious for part of it. That does not mean we can breathe safely.”
-
-The countdown reached 01:26.
-
-Julie released the control and listened.
-
-The containment team waited outside. Vance had stopped trying to open the room because he no longer needed the door.
-
-Above them, the suppression manifold began to pressurize.
-
----
-
-# Chapter 9 - The Life-Safety Override
-
-Apex Building Three
-Reston, Virginia
-05:01 Eastern Daylight Time
-
-The air tightened against Julie’s ears.
-
-A valve struck open above the cabinets. Another answered farther down the ceiling, and the low warning tone beside the gate changed from a steady pulse to two descending notes. Cooling air that had moved almost without sound began drawing toward the ceiling nozzles in uneven currents.
-
-The suppression display showed:
-
-INERT AGENT RELEASE ARMED
- OCCUPIED-ROOM STATUS: OVERRIDDEN
- DISCHARGE IN 01:23
-
-Julie kept her left hand beneath the raised cover of the abort control and read everything around it before touching anything else.
-
-MANUAL ABORT DISABLED
- EXTERNAL PHYSICAL RESET REQUIRED
-
-A small contact indicator beneath the control remained lit. The switch had registered her action; the hardened incident controller had rejected it downstream. A smaller line identified the reset as a keyed device in the manifold service corridor outside the armored gate.
-
-Below the message, a printed instruction plate showed two parallel control paths. The detector loops fed Apex’s programmable suppression controller on one side and, through separate supervised contacts, a red box labeled HARDWIRED LIFE-SAFETY RELAY on the other.
-
-A red metal conduit left that box and disappeared directly into the gate frame.
-
-Vance had made the room empty in software. The physical detectors still had a path to the locks.
-
-“Elias.”
-
-He was still at the recovery console, one hand braced on its edge to keep weight off his injured hip. “I see it.”
-
-“What does the red path do?”
-
-He looked from the diagram to the environmental display. Fear made him speak too quickly, but it did not make him guess.
-
-“Fire alarm, smoke control, egress. It doesn’t share the incident controller. It can remove a security hold from the gate and release protected doors outside the enclave.”
-
-“Can Vance disable it?”
-
-“Not through the same channel. The relay is supervised point to point. A remote bypass would report as a life-safety fault outside the security network.”
-
-“Can it stop suppression?” Marcus asked.
-
-He had pulled himself upright against a hardened cabinet near the gate. His damaged boot rested at an angle, heel peeled away from the sole. He watched the seam between the steel leaves and the status strip beside it.
-
-“No,” Elias said. “The release latch is already set. Life safety can let us out. It cannot cancel what he armed.”
-
-The display reached 01:14.
-
-Julie followed the red conduit with her eyes. It entered a narrow fire-interface cabinet beside the gate, separate from the protected abort control. Three hardwired indicators were dark beneath a clear cover.
-
-ZONE H-3 — POWER DISTRIBUTION HEAT
- ZONE S-4 — RECOVERY AISLE SMOKE
- VERIFIED FIRE — EGRESS RELAY
-
-“Two zones,” she said.
-
-Elias nodded. “Independent confirmation. A single detector gives prealarm. A test input or a detector fault won’t release the gate. Heat in the distribution bay and smoke in the recovery aisle will.”
-
-“Real heat and real smoke.”
+“They are going to Argus.”
 
 “Yes.”
 
-Marcus glanced toward the gate. “And when it opens, Mercer will be on the other side.”
+“Then your teams are protecting the wrong thing.”
 
-“No pump,” Julie said.
+“Containment Two is at the enclave.”
 
-The hydraulic strain that had worked against the six bolts moments earlier was gone. Beyond the steel, she heard only one boot scrape and a radio click farther back than before.
+“Move both teams.”
 
-“They cleared the threshold,” Marcus said. “Not the level.”
+“That creates a single approach and leaves the south stair unsecured.”
 
-Julie crossed to the recovery console. The aluminum case remained open beneath it, the evidence drive seated in its foam cradle and the shielded cable locked into the protected forensic port. She could not carry it until the read-only session was closed.
+“No data leaves Building Three,” Vance said. “No witnesses leave with it.”
 
-“What preserves the sealed recovery record if we leave?” she asked.
+Sarah’s hand stopped above the console.
 
-“The enclave log.”
+The order was quiet enough that no one beyond her station appeared to hear it. Vance had omitted the words custody, infrastructure, and security. He had reduced the operation to information and the people who possessed it.
 
-“Inside the enclave.”
+“Director,” she said, “my teams have a containment authorization.”
 
-Elias looked at the lower service panel. “There should be a physical incident recorder. Post-event investigators use it if the enclave loses network and power.”
+“And I have given you the containment objective.”
 
-“Should?”
+“Those are different things.”
 
-“I have never removed one during an active suppression countdown.”
+His reflection met hers in the black monitor.
 
-“Find it.”
+“Only if you fail.”
 
-Julie brought up the media controls. The display showed the case still mounted READ-ONLY and the reconciliation workspace already sealed.
+Sarah looked back at the map.
 
-CLOSE INCIDENT INPUT SESSION?
+A local pressure sensor changed state in Cooling Gallery Two. The fluctuation lasted less than a second, then disappeared beneath the quarantine filter.
 
-She selected YES.
+There.
 
-The console began committing the final media state to the case manifest. No gray wheel appeared. Instead, five lines checked themselves in sequence.
+Julie had read the building.
 
-READ-ONLY BOUNDARY CONFIRMED
- SEALED BLOCK COUNT CONFIRMED: 136
- INCOMPLETE BLOCK COUNT RECORDED: 47
- EXCLUDED BLOCK COUNT RECORDED: 311
- RECOVERY SESSION REFERENCE ATTACHED
+Sarah keyed the team channel. “Containment One, divert west at the lower landing. They are using the cooling galleries. Maintain capture priority. Secure the telemetry intact.”
 
-The countdown above the gate reached 00:59.
+She did not repeat Vance’s words.
 
+She did not warn Julie.
+
+On the dark screen, the route converged on the production enclave.
+
+Cooling Gallery Two
+ 04:53 Eastern Daylight Time
+
+The passage dropped beneath the main service level and opened onto a steel gantry suspended above the chiller plant.
+
+The chiller plant fell away two stories beneath them. Six cylindrical compressor housings occupied the floor in paired rows, each surrounded by pipes, valves, and vibration mounts. Red strobes revolved along the walls. Their light caught the mist hanging above the machinery and turned it the color of smoke.
+
+A grated bridge crossed the gap to the far platform.
+
+It was moving.
+
+The near end had already withdrawn three feet into the wall. A yellow drive chain pulled the bridge toward a recess on the opposite side, isolating the active machinery from the service corridor. The gap widened another inch while Julie watched.
+
+“Why does a bridge retract during quarantine?” Marcus asked.
+
+“To keep an intruder from reaching both halves of the cooling plant,” Elias said. “And to prevent maintenance staff from crossing while the pressure zones isolate.”
+
+“How long until it’s gone?”
+
+“Less than a minute.”
+
+The bridge still reached their platform, but only by eighteen inches. The joint vibrated each time the drive chain advanced.
+
+Julie gave Marcus the telemetry case and stepped onto the grating.
+
+“Wait,” Elias said. “The surface—”
+
+Her boot slipped half an inch on clear condensate.
+
+Julie lowered her center of gravity and moved along the handrail. Cold air rose through the grating. Beneath her, a compressor shaft turned inside a screened housing, its deep rotational hum transmitting through the steel.
+
+The bridge shifted.
+
+The last overlap at the near platform fell to twelve inches.
+
+Julie crossed the midpoint and reached the far side. “Case.”
+
+Marcus held it low and sent it sliding along the wet grating. Julie stopped it with her boot before it struck the drive housing.
+
+Elias stared at the bridge.
+
+“Go,” Marcus said.
+
+“I’m going.”
+
+He put one foot onto the grating, then stopped when the chain clanked.
+
+White light appeared in the cooling passage behind Marcus.
+
+It vanished with the next red strobe.
+
+Then returned lower, split into two disciplined beams.
+
+Marcus looked back once. “Team’s in the corridor. Four, maybe six. Tight spacing.”
+
+No shouted commands. No running. The containment unit knew the bridge was retracting and understood that speed mattered less than closing every alternative.
+
+Elias stepped onto the grating.
+
+The bridge withdrew another three inches.
+
+He moved too upright, one hand locked around the rail. At the midpoint his shoe struck a wet patch. His feet went out from beneath him.
+
+He hit the grating on one hip. His left leg slipped through the rail opening and hung above the machinery.
+
+Julie started back.
+
+Marcus was closer. He stepped onto the remaining overlap, reached across the gap, and caught Elias by the back of his belt.
+
+The bridge moved.
+
+Its near end pulled free of the platform.
+
+For a second, Marcus stood with one foot on concrete and one on a steel span moving away from him.
+
+He shoved Elias forward.
+
+“Move your hands.”
+
+Elias crawled. Julie caught his forearm and dragged him across the last yards. Marcus jumped as the gap opened beneath him, struck the far rail with his chest, and folded over it.
+
+Julie seized his coveralls. Elias grabbed the back of his arm. Together they pulled him onto the platform.
+
+The bridge disappeared into the opposite wall with a heavy steel crash.
+
+Across the opening, two white weapon lights reached the abandoned platform.
+
+They stopped at the edge.
+
+Marcus remained on one knee for a moment, testing his ribs where the rail had caught him. “They won’t cross that.”
+
+A metallic click sounded on the far side.
+
+Elias looked toward the drive housing. “There’s a maintenance extension.”
+
+A section of fixed ladder began unfolding from beneath the opposite platform, driven by a manual override.
+
+Marcus stood. “Of course there is.”
+
+“They’ll need ninety seconds.”
+
+“We’re spending them.”
+
+They moved.
+
+The far door opened into a narrow pressure gallery packed with valve assemblies. Frost whitened the lower pipes. Yellow warning lamps pulsed above a series of relief vents built into the left wall.
+
+Elias stopped at the first lamp.
+
+“Purge cycle.”
+
+A siren gave one rising tone.
+
+He shoved Julie and Marcus back as a sheet of vapor blasted across the gallery. Supercooled air struck the opposite wall hard enough to scatter ice crystals along the floor. The discharge lasted four seconds, then collapsed into swirling fog.
+
+“Why is that happening?” Marcus asked.
+
+“The quarantine is balancing pressure between the independent loops. Three vents, sequenced twelve seconds apart.”
+
+The next yellow lamp illuminated farther down the passage.
+
+Their route ran directly through the discharge zones.
+
+Julie watched the fog. It drifted toward the third vent, drawn by the local exhaust. Floor markings divided the gallery into maintenance bays, each eight feet wide. Recesses between the valve cages offered partial cover.
+
+“Four seconds on,” she said. “Eight off.”
+
+“Usually.” Elias pointed to the final panel. “The timing controller is local. If the loop pressure changes, it shortens the interval.”
+
+From behind them came the first impact of the maintenance ladder against the far platform.
+
+Marcus looked through the grated door. White lights moved below the gap. “They’re almost over.”
+
+Julie waited for the second vent to fire.
+
+The blast filled the gallery. As it died, she ran to the first recess, set down the telemetry case, and pulled Elias in beside her. Marcus followed with the tool bag.
+
+The third warning lamp came on.
+
+“Now,” Elias said.
+
+“No.” Julie pointed to the pressure gauge above the vent. The needle was still rising. “Not yet.”
+
+The purge fired two seconds early.
+
+Vapor struck the empty bay where they would have been. Elias stared at the gauge.
+
+Julie waited for the needle to fall, then moved them forward.
+
+They crossed one bay at a time, guided by pressure rather than the warning lights. At the second recess, a radio clicked behind them. At the third, boots struck the grating of the recovered bridge.
+
+The containment team had crossed.
+
+The final vent stood between them and a round steel hatch marked PRIMARY LOOP ACCESS. No lamp illuminated above it. Frost coated the frame.
+
+Elias reached for the wheel.
+
+“Wait,” Julie said.
+
+A thin whistle rose inside the pipework.
+
+Marcus heard it too. He pulled Elias back.
+
+The unmarked vent erupted.
+
+Cold vapor swallowed the hatch. The blast caught the edge of the tool bag and tore it from Marcus’s hand. It struck the wall, spilling the flashlight and pry bar into the fog. The flashlight spun across the floor and vanished through a drain channel.
+
+When the air cleared, the pry bar lay beneath the vent, rimed white.
+
+Marcus started toward it.
+
+“Leave it,” Julie said.
+
+“It’s all we have.”
+
+“Not if your hand freezes to it.”
+
+A beam of white light cut into the first bay behind them.
+
+Marcus abandoned the tool and spun the hatch wheel. It resisted, then broke loose with a shriek. Elias added both hands. The wheel turned faster.
+
+Julie watched the rear.
+
+A helmet appeared through the vapor, then a shoulder and the dark outline of a compact rifle. The operator did not advance blindly. He waited for the purge, marked its interval, and signaled someone behind him.
+
+“They’re adapting,” Julie said.
+
+Marcus pulled the hatch open. “So are we.”
+
+Elias went through first, taking the telemetry case from Julie. She followed. Marcus backed into the opening and dragged the hatch shut as a weapon light reached the final recess.
+
+He spun the wheel from inside.
+
+A locking bar dropped into place.
+
+For three seconds, the hatch held.
+
+Then metal struck the other side in a measured pattern.
+
+Once. Pause. Twice.
+
+Elias’s face lost what little color remained. “Override sequence. They have a mechanical key.”
+
+“How long?” Marcus asked.
+
+“Maybe a minute.”
+
+Marcus listened to the impacts. “Forty seconds.”
+
+Julie took the case from Elias. “Where’s the gate?”
+
+He pointed down.
+
+A fixed ladder descended through a vertical shaft beside the enclave’s return-water pipe. Red emergency light faded after the first twenty feet. Below it, a line of white floor illumination traced the base of the shaft.
+
+“The production approach is under us,” Elias said. “Last level.”
+
+Julie went first.
+
+The ladder rungs were wet and brutally cold. She hooked the telemetry case through one arm and descended with her body close to the rail. The pipe beside her carried the steady vibration she had followed from the junction. The enclave was drawing heat through it, alive and working while the surrounding building locked itself down.
+
+Halfway down, the hatch wheel turned above them.
+
+Marcus came last. He looked up through the rungs. “They’re in.”
+
+No one told Elias to move faster. The boots descending above did that.
+
+Julie reached the bottom at 04:54.
+
+The lowest corridor was quieter than the levels above. Concrete gave way to smooth armored wall panels without seams or exposed fasteners. The red emergency strobes ended at the threshold. Beyond it, narrow white lights glowed along the floor, powered from a separate circuit.
+
+The Argus production enclave stood at the far end.
+
+Its gate bore no Apex chevron, no government seal, no warning placard crowded with classification language. Two slabs of dark steel met at the center inside a frame sunk deep into the surrounding structure. Four hinge housings disappeared behind armored covers. Separate power indicators showed green for the lock, amber for quarantine, and white for local control.
+
+A single access panel occupied the wall to the right.
+
+No network jack.
+
+No ordinary badge reader.
+
+No visible connection to the rest of Building Three.
+
+Elias stopped ten feet from it.
+
+Julie continued until the panel lit in response to her movement.
+
+LOCAL PRODUCTION ENCLAVE
+ QUARANTINE ACCESS ONLY

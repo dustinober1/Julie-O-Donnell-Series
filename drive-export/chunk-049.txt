@@ -1,175 +1,220 @@
-Julie could not carry the finding out of the room. She could not call Marcus or Elias. She could not touch the seven packages that had brought the contradiction this far. For the first time that morning, the record no longer depended on her keeping physical possession of it or remaining free long enough to explain it again.
+“Does physical administrator-token board EAT-0881147 contain a secure-element signing event, monotonic-counter transition, or local release record corresponding to the original deployment event attributed to Elias Thorne’s physical token?”
 
-That should have felt like release.
+Nothing about innocence. Nothing about Payload 88. Nothing about Sterling, Vance, Tariq, K-17, Phase B, or the three encrypted WSS blocks.
 
-It felt like another form of surrender, except this one had names, limits, cameras, source custodians, and a person responsible for what happened next.
+The question was narrower than Julie had wanted when she first saw the board’s history in the cutout. It was also the first question someone outside the trio and Apex had agreed to test.
 
-Grant closed the comparison display. “Anything else before the preparation instrument seals?”
+Ortiz said, “What’s excluded?”
 
-Julie looked at the locked chest. She could see the separate package holding Elias’s board through neither steel nor seal, and she did not need to. The record had preserved what the board could prove without touching it. Marcus remained on oxygen in a room she could not reach. Price remained exposed by the parts of his record that had not been edited into innocence. Chen and Mercer had put their names beside Vance’s later act and would pay for it inside the company before anyone outside heard why.
+“Every other package. Any live network. Any Apex hardware, software, credential, or observer. Any biometric or private-key challenge. Any operation that changes the board or increments its counter. Any conclusion about a human operator.”
 
-Sterling still had the public story.
+Julie felt the last phrase settle where hope had been trying to become certainty.
 
-Vance no longer had the release control.
+Ortiz asked Alvarez to send the signed authority into the MPD incident record. Then he muted the call and looked at Julie.
 
-The difference was private, lawful, and incomplete.
-
-“Seal it,” Julie said.
-
-At 13:12:44 EDT / 22:42:44 IST, DCIS controlled an authenticated counterrecord ready for later public use. `SSO-NS-004` remained closed and unused. All seven MPD packages remained sealed and stationary. Julie remained detained.
-
-The next question was no longer whether the contradiction could survive.
-
-It was whether the government could place it into public view without turning Vance’s later release into Sterling’s unproved command—and what Julie would choose once the record no longer required her to remain inside the fight.
-
----
-
-13:12:44 EDT / 22:42:44 IST
-
-# Chapter 23 - The Official Correction
-
-Secure MPD Evidence Intake
-Washington, D.C.
-
-The first public sentence was accurate and useless.
-
-Julie read it from the wall display while Leila Grant stood at the incident-control position and Miriam Alvarez listened through the recorded federal channel. The sentence said that authorities had identified inconsistencies in the source history supporting the morning’s Argus activity. It did not say when the contamination entered the chain, which operation failed, which later act succeeded, or why the public accusation against Julie had reversed cause and response.
-
-It could survive classification review because it barely survived meaning.
-
-Julie remained in the same restraint geometry in which Chapter 22 had ended. Her left wrist was fixed at the front rail. Her right forearm lay inside the padded brace, swollen enough that the edge pressed against the skin whenever she shifted. The hand could not close around a pen, a cup, or the page Alvarez had placed beyond her reach. Through reinforced glass, the locked common chest remained beneath two MPD cameras. The seven package indicators, `MPD-901441` through `MPD-901447`, showed green without movement.
-
-Grant enlarged the release-preparation record.
-
-`DCIS-PRP-187463-01`
-
-Its releasable range began with the synthetic-source finding and ended with the later remote-release consequence. It excluded the seven sealed MPD packages, WSS plaintext, active collection geography, uninvolved staff identities, privileged material outside the approved range, and every incomplete or excluded file in the aluminum case. The case remained limited to 136 sealed files, 47 incomplete files, and 311 excluded files; none was reconstructed for release. The public document would be new. It would not rename any evidence object or turn a derivative into an original.
-
-A classification attorney summarized the problem instead of reading the full exchange into the record. The contamination finding came from separate office, Apex, Argus, and Indian source chains. Each institution could authenticate only its own part. A single public narrative would either omit the causal sequence or require one authority to adopt facts it did not control.
-
-“The sentence is safe,” the attorney concluded.
-
-Julie looked at Sterling on the muted television above the outer intake desk. His earlier statement remained beneath a banner calling the morning events a coordinated insider assault.
-
-“Safe for whom?” she asked.
-
-The attorney did not answer defensively. “For the sources. For methods. For the pending proceedings. For people whose names are not necessary to establish the correction.”
-
-All valid concerns. That was what made the sentence dangerous.
-
-Six years earlier, the record had not needed to lie about every event. It had only needed to remove four seconds until Julie appeared late. This draft removed the order in which the lie, the failed local action, and the later release had occurred. It left the public with a vague system problem and a named saboteur.
-
-Grant opened a clean first page and placed two proof ceilings above the body text.
-
-`VANCE PERSONAL FINDING: LIMITED TO THE LATER REMOTE RELEASE`
-
-`STERLING PERSONAL COMMAND: NOT ESTABLISHED`
-
-The classification attorney read them, then the source list beneath them: `DCIS-BF-187463-02`; the Argus program registry derivative; the source-limited Apex release derivative; the LSS office/device derivative; the preserved Arjun acknowledgment. No sealed package appeared. No WSS message block appeared. Each source retained its own clock and custodian.
-
-“That page can be released,” he said. “The body still requires institutional authority.”
-
-Alvarez looked through Julie’s camera window. “Then we do not publish one body.”
-
-Grant understood first. “Three statements.”
-
-“Three owners,” Julie said. “One causal order.”
-
-Grant built the public-facing sheet as a map rather than a verdict. Each material sentence carried an authority tag in the margin. ARGUS identified registry sequence and source-integrity state. DCIS identified the bounded investigative finding. LSS identified the office/device chain and no-use hold. Where two statements touched the same event, the sheet showed a cross-reference without pretending either institution owned the other’s original. Objections would remain attached to the source they challenged. The public could read one causal sequence, but no later editor could remove a limitation by treating the package as one document with one institutional author.
-
-The classification attorney added a withholding schedule to the first page. It named categories rather than secrets: active collection geography, WSS encrypted content, unrelated personnel, privileged communications outside the approved ranges, incomplete and excluded case contents, and every sealed-package field not already lawfully produced. Julie had spent the morning learning that omission could be honest only when the reader could see the shape of what had been omitted.
-
-Alvarez made the decision her own. She authorized a source-limited correction package under `DCIS-PRP-187463-01`, conditioned on the proof ceilings remaining on the first public-facing page and on each institution signing only the facts within its authority.
-
-At 13:22:00 EDT, the useless sentence was removed.
-
-13:22:00 EDT / 22:52:00 IST
-
-The cleaner version would have protected Julie by damaging the record.
-
-Hackett pressed for it from a military-program window. His face had acquired the flat exhaustion of a man who had spent the morning attaching his name to decisions other people preferred to leave ownerless. He wanted the DCIS statement to say that Julie, Marcus, Elias, and Price had been falsely accused and cleared of originating the poisoned source.
-
-The public would understand it. The headline would travel. Sterling’s account would fracture immediately.
-
-It would also be false.
-
-Grant displayed the four adverse records beside the proposed correction. Julie’s unauthorized entries, removal of classified material, deception at Northbridge, and continued participation after the WSS abort time remained documented. Marcus’s six-years-ago testimony failure remained beside his later complete correction and his conduct during the morning’s evidence preservation. Elias’s voluntary emergency access, provenance reconciliation, and physical removal of the signed local record remained authentic acts carrying unresolved legal exposure. Price’s authentic source-review request remained separate from his authority crossing, rejected access attempt, and the later request path that borrowed his identity after his authority ended.
-
-None of those facts made any of them the originator of Payload 88’s operational use.
-
-None disappeared because the causal allegation was wrong.
-
-Hackett read the list. “The public correction will be buried under every charge Apex can make.”
-
-“Then Apex gets to make them,” Julie said.
-
-“You know what Sterling’s office will do with that language.”
+“That your smaller question?”
 
 “Yes.”
 
-“They will say your own investigators refused to clear you.”
+“What does a no answer prove?”
 
-Julie’s right forearm pulsed against the brace. She changed the angle by less than an inch and waited for the pain to settle. “They will be telling the truth about what the correction does not decide.”
+“That this physical board did not perform the attributed signing act in the same way it performed later authenticated acts.”
 
-Hackett looked toward Alvarez rather than Julie. “A correction that preserves the accusation’s supporting conduct may not correct anything politically.”
+“And what doesn’t it prove?”
 
-Alvarez did not defend Julie. “DCIS is not publishing political advocacy.”
+“Who created the attribution. Who used the mirrored identity. Who touched a workstation. Whether Elias committed some other crime. Whether anything in the other six packages is true.”
 
-Grant rewrote the second statement while the recorded channel remained open. Routine legal language moved through summary: pending charging decisions, representation rights, classification reservations, and preserved jurisdiction. The consequential sentence stayed visible.
+Ortiz unmuted the call. “Send it.”
 
-`THE AUTHENTICATED RECORD DOES NOT SUPPORT THE CLAIM THAT O’DONNELL, REED, THORNE, OR PRICE ORIGINATED THE POISONED SOURCE OR CONSTRUCTED THE OPERATIONAL ROUTE.`
+While the authorization moved into the incident system, the intake officer completed the chest check. The transport seal matched. The chest opened under two cameras, revealing seven separate MPD packages in their recorded positions. Nothing inside resembled the dramatic evidence Sterling’s broadcasts had described. Brown paper, antistatic packaging, rigid containers, printed labels, seals.
 
-Below it, Grant required the limitation.
+Ordinary materials doing honest work.
 
-`THIS CORRECTION DOES NOT RESOLVE SEPARATE UNAUTHORIZED CONDUCT, ADMINISTRATIVE EXPOSURE, ADMISSIBILITY, CHARGING, EMPLOYMENT, OR LATER LAWFUL PROCESS.`
+Ortiz checked each reference against the intake list. MPD-901441 through MPD-901447. Park confirmed the sequence. The chest closed again.
 
-Price’s counsel entered a narrow objection. Naming him publicly could deepen the administrative harm before DIA completed its review. Omitting him would leave the public allegation attached to a request bearing his name.
+Apex counsel called before Grant arrived.
 
-Julie asked one question. “Can the statement identify the authentic request and the later borrowed path without describing him as a cooperating witness?”
+The attorney did not demand all seven packages. He demanded only the electronics.
 
-Grant said yes. The sentence would state that Price’s authenticated request concerned raw-source and source-integrity review, that his active authority ended before the later operational path, and that the later path contained no matching authenticated Price act. It would also state that his rejected access attempt and administrative review remained separate.
+His argument was more developed than the federal recovery request. The administrator board and dual-partition module were Apex-designed classified devices. A valid examination, he said, required Apex-certified tools, current revocation data, proprietary event parsers, and a company observer capable of identifying false interpretations before they entered a criminal record. Separating those electronics from the paper and vehicle material was not fragmentation. It was technical necessity.
 
-Price would not become a hero because someone had used his name.
+Ortiz listened without interrupting.
 
-Elias would not become innocent because his board disproved the original physical signing event.
+Julie watched his face rather than the speaker. The argument gave him lawful concerns: classification, contamination, incorrect tooling, an examiner misunderstanding a device built for a specialized environment. Apex did not need every official to be compromised. It needed the legitimate risks to point toward Apex control.
 
-Marcus’s later truth would not erase his earlier failure.
+When the attorney finished, Ortiz said, “Who receives physical custody?”
 
-Julie would not be released from the consequences of breaking into two secure facilities because the break-ins preserved a real record.
+“A cleared federal technical facility can receive—”
 
-Grant read the complete bounded correction aloud once. Then she signed the method certification.
+“Name the officer.”
 
-`COMPLETE BOUNDED CORRECTION — NOT EXCULPATORY ADVOCACY`
+“That designation is being coordinated.”
 
-Hackett did not withdraw his objection. He attached it under his own name and accepted the narrower language as the only version he could defend from the source records.
+“Then you have a claim, not a transfer.”
 
-The correction became harder to celebrate.
+“The board cannot be responsibly examined without proprietary support.”
 
-Grant required one final table beneath the adverse facts. It separated allegation from status. Originated poisoned source: not supported. Constructed operational route: not supported. Unauthorized conduct: unresolved. Employment and administrative exposure: unresolved. Charging and admissibility: unresolved. Release and custody: unresolved. Each row named the authority capable of deciding it later. None pointed back to Julie.
+“That’s for the examiner to decide.”
 
-Hackett read the table without speaking. The cleaner statement he wanted would have made the military program look faster, DCIS look decisive, and Julie look innocent. The bounded one made every institution keep working. That was why institutions preferred broad declarations when they could get them: a declaration ended responsibility. A separated record assigned it.
+“We require observer access.”
 
-The correction became harder to destroy.
+“Send the authority for that requirement.”
 
-At 13:36:00, Alvarez opened the three authority lines.
+The attorney changed nouns. Requirement became request. Custody became protective handling. Fragmentation became technical segregation.
 
-13:36:00 EDT / 23:06:00 IST
+Ortiz recorded each version.
 
-No institution would sign the whole truth.
+Julie said nothing until the call ended. Then she asked, “Can I see the room?”
 
-Dr. Rachel Nwosu appeared for the government Argus Program Integrity and Configuration Control Office. Her authority covered the government registry sequence, the program’s source-integrity status, and the suspension already entered against Vance’s operational role. It did not cover Apex’s original human-operator record, LSS custody, the Sterling office’s continuity exception, or DCIS’s investigative conclusions.
+“No.”
 
-Marisol Vega appeared for Legislative Secure Services from the same compromise-control environment that held `SSO-NS-004`. She confirmed that Martin Vann remained physical custodian, that Vega remained deputy authority, and that seal `LSS-SL-90418` remained intact. The signer was powered down, isolated, closed, and unused. LSS could acknowledge the office/device and continuity-exception chain. It could not authenticate who had possessed the device during the earlier WSS session or claim what Sterling knew.
+“Can I see the examiner?”
 
-Alvarez controlled the DCIS investigative-status correction. Grant controlled the method. Neither could compel Nwosu or Vega to adopt another institution’s source.
+“When she gets here.”
 
-The first attempt at synchronized language failed because the Argus office refused the phrase Sterling-office operation. Nwosu’s registry contained no legislative command field. The second failed because LSS refused to describe Vance as the original deployer. Its office/device records did not reach Apex’s 02:14 source event. The third failed because DCIS counsel would not certify that the K-17 local failure caused the later remote reconstruction. The records established sequence and distinction, not motive.
+“That wasn’t my question.”
 
-The resistance was intelligent. Each refusal protected a real boundary.
+Ortiz looked toward a glass wall beyond the intake desk. Behind it, a short corridor led to two digital-evidence rooms and a secure interview alcove. One room had a fixed observation window opening into the alcove.
 
-Grant reduced the coordination problem to five mandatory fields that would appear in every statement: publishing authority, source classes, withheld material, proof limits, and a publication hash linked to a public receipt. The fields were not decorative. Without named authority, a later office could call the document a staff draft. Without source classes, a critic could imply the statement depended on sealed contents. Without withheld material, silence could be mistaken for absence. Without proof limits, the strongest sentence would expand each time it was quoted. Without the hash and receipt, the public version could be replaced by a cleaner summary after the fact.
+“You stay restrained,” he said. “You stay outside the technical work area. You don’t touch a package, tool, door, or control. Park remains with you.”
 
-Nwosu required the Argus notice to preserve the government registry clock and identify the Apex release time only as a reconciled source event. Vega required the LSS acknowledgment to use its own compromise-control clock and to state that the no-use hold authenticated present custody, not earlier operation. Alvarez required the DCIS correction to name the bounded finding and preparation instrument without disclosing the source identifiers that exposed active methods. The three clocks would appear beside one synchronized release target, each labeled rather than silently normalized.
+Julie tested the six inches of chain at her left wrist. “Move the cuff before I stand.”
 
-Julie watched three narrow statements replace the single broad one.
+Park stepped closer. She checked the right forearm support first, then the swelling above the brace. Under camera, she unlocked the left cuff from the vehicle belt and transferred it to a short front chain on a fixed transport harness. The second cuff remained empty but double-locked to the harness ring, keeping Julie’s left hand forward without forcing the right wrist into ordinary restraint position.
+
+The procedure gave her enough balance to stand.
+
+It gave her no useful freedom.
+
+A medical notice reached the incident desk while Park walked her into the intake alcove. Marcus remained in guarded emergency care on four liters of oxygen, saturation holding between ninety-two and ninety-three percent. Elias remained in separate guarded medical intake, alert but dizzy, with no evidence access and no authorization for questioning.
+
+No messages passed among them.
+
+At 08:25:30, Ortiz placed three documents on the counter outside the examination corridor: Alvarez’s signed preliminary-inquiry and technical-assistance authorization, Hackett’s written request for independent assistance under the preservation hold, and MPD’s written consent to one on-site examination while retaining custody.
+
+The documents agreed on the package.
+
+They did not agree on the desired answer.
+
+Hackett’s request asked whether the physical board contradicted the attributed deployment record and whether that contradiction justified immediate preservation of identity-mirroring and executive-authority records. Alvarez’s authorization omitted the second half. MPD consent omitted both conclusions and named only the technical question.
+
+Julie read the three pages through the glass.
+
+Grant’s scope was narrower than Hackett’s hope.
+
+It was narrower than hers.
+
+That was why it could survive.
+
+Special Agent Leila Grant arrived at 08:28:17 carrying two hard cases and wearing a dark suit beneath a raincoat that still held drops from the Alexandria drive. She presented her credentials first to the intake camera, then to Ortiz, then to the room log. She was in her early forties, compact, unsmiling, with the controlled impatience of someone who expected every person present to overstate what they owned.
+
+She did not look at Julie until the identity check was complete.
+
+Then she stood on the other side of the alcove glass and said, “You proposed the question.”
+
+“Yes.”
+
+“I’m not accepting your answer.”
+
+“I didn’t ask you to.”
+
+“You told Officer Ortiz what you think the board will show.”
+
+“I told him what a result could mean.”
+
+Grant’s gaze moved to Julie’s restraints, then back to her face. “You also examined this board before.”
+
+“On an obsolete workstation with unknown calibration, no current chain, and no independent examiner.”
+
+“Did you operate it?”
+
+“No. Elias selected the board’s read-only evidence mode. I observed.”
+
+“Did the board sign anything?”
+
+“Not during that examination.”
+
+“Do you know that, or did the display say it?”
+
+Julie recognized the trap because it was a fair one. “The display and counter history indicated no new event. We did not have an independently validated tool capable of proving the negative.”
+
+Grant nodded once. Not approval. Classification.
+
+“What outcome do you want?”
+
+“The one the board supports.”
+
+“That answer usually means the person has a preferred result and knows not to say it.”
+
+Julie let the silence stand. Grant had no reason to trust her discipline merely because the discipline sounded familiar.
+
+Finally Julie said, “I want the original attribution tested against the physical history. If the later events are there, they belong in your report too.”
+
+“Even if they hurt Thorne.”
+
+“Yes.”
+
+Grant studied her another second. “Good. You don’t get to change that answer after I open the package.”
+
+She turned to Ortiz.
+
+“Show me the room before you show me the evidence.”
+
+The examination room contained a fixed steel table, two cameras, an independent digital wall clock, and a power strip mounted above the floor so every connection remained visible. No network cable entered the workstation position. The wall jack had a locked red cover and an MPD tag showing it had been physically disconnected for isolated examinations. A spectrum monitor outside the room confirmed ordinary wireless devices had been removed, but Grant treated that as supporting information rather than proof.
+
+She asked Park to verify the room-camera feed from the intake console, then had Ortiz close and reopen the door while the access log recorded both events. She checked the observation window, the antistatic mat, and the evidence surface. She read the room clock against the DCIS kit clock and recorded the offset.
+
+Only then did she open her hard cases.
+
+The workstation was DCIS-FW-2187. The hardware write blocker was DCIS-WB-0441. The certificate reader was DCIS-CR-1908. A separate evidence camera carried serial DCIS-CAM-087. The blank log medium was DCIS-LM-3106. Each serial went into the MPD room record, Park’s witness record, and Grant’s examination sheet.
+
+Grant removed a sealed clean boot image. She photographed its label, broke the transport seal, and calculated its SHA-256 digest on the standalone workstation before loading it. The digest matched the value Alvarez had placed in the authorization. The workstation started without requesting network verification.
+
+The write blocker completed its internal self-test.
+
+READ-ONLY PATH: ENFORCED
+SIGNING INTERFACE: DISABLED
+NETWORK SERVICES: ABSENT
+
+Grant photographed the state.
+
+She connected a DCIS reference card containing a known, agency-generated event history. The reader returned the expected hardware identity, three known counter transitions, and one deliberately absent event. The tool neither filled the gap nor attempted a signing challenge. Grant disconnected the reference card, photographed the final state, and sealed it back into the kit.
+
+Julie could see only the larger movements through the observation window. Grant’s hands remained deliberate and slow. The procedure did not look like discovery. It looked like the removal of excuses.
+
+At 08:36:42, Grant returned to the alcove.
+
+“One package,” she said to Ortiz. “If the seal, package reference, board serial, read-only state, or counter state differs from the receipt or declared evidence metadata, I stop. If the board asks for biometric, private-key signature, live validation, Apex credentials, network access, or a second evidence source, I stop. If either witness record fails, I stop.”
+
+Ortiz said, “I can stop it too.”
+
+“You hold the package. Yes.”
+
+Grant looked at Julie. “You can observe the custody movement. Once the board is exposed, you stay behind the glass and remain silent unless I ask a question. You do not interpret a screen for me.”
+
+“I understand.”
+
+“No,” Grant said. “You agree.”
+
+Julie felt the restraint harness tighten when she straightened. “I agree.”
+
+Ortiz went to the chest with Park. The other six packages remained inside beneath the camera. He removed only MPD-901446 and closed the chest before moving away. The chest lock engaged. An intake officer remained with it under continuous MPD control.
+
+Ortiz carried the package through the corridor himself.
+
+At the examination-room threshold, he read the package reference, board description, and existing seal number into the record.
+
+MPD-SL-551804.
+
+Park repeated it. Grant compared it against the intake receipt without touching the package.
+
+The number matched.
+
+At 08:39:00, Ortiz placed MPD-901446 on the steel evidence surface.
+
+Secure MPD Digital Evidence Examination Room
+08:39:00 Eastern Daylight Time
+18:09:00 Indian Standard Time
+
+Leila Grant had learned to distrust people who arrived with perfectly shaped questions.
 

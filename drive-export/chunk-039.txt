@@ -1,301 +1,280 @@
-Ortiz returned the resealed board package to its recorded position.
+“At 07:08:09.442 Eastern, a portable executive signer registered to the Office of Senator Sterling answered a hardware challenge inside Northbridge Secure Suite Four. The device serial in that captured session was SSO-NS-zero-zero-four. The same session identified Hartwell as the next required local challenge site and gave a window from 07:46:00 to 07:48:30.”
 
-The chest closed.
+Ortiz’s eyes moved once toward the open side of the garage.
 
-The lock engaged.
+Julie continued.
 
-For the first time since Building Three, someone outside Apex and outside the trio had examined one original and signed a contradiction that did not depend on trusting Julie’s interpretation.
+“Registration proves the office responsible for the device. It does not prove Senator Sterling held it. A hardware response proves the device answered. It does not prove a human hand. We observed a probable motorcade-support vehicle deliver a staff stream to Hartwell’s eastern controlled approach. We observed a compact black case enter that stream. We do not know what the case contains. We observed three people pass through the controlled door at 07:46. We cannot see who carried the signer, whether it was handed off behind the privacy screen, or whether an authorized person already inside has it.”
 
-It was less than vindication.
+The clock on the van’s dashboard showed 07:46:19.
 
-It was more than belief.
+Ortiz said, “You expect a device to authenticate in that building.”
 
-Grant came to the alcove with a printed subject-notification copy that Julie was not permitted to hold while restrained. She placed it on the counter where Julie could read the first page without touching it.
+“Yes.”
 
-“What happens to Elias?” Julie asked.
-
-“Not my decision.”
-
-“The report reaches him?”
-
-“Through counsel or authorized medical-custody notice, not through you and not during this examination.”
-
-Julie looked at the signature line. “You believe the board.”
-
-“I believe the result I reproduced.”
-
-“And me?”
-
-“I believe you asked a question that survived the method.”
-
-That was enough for now.
-
-Ortiz received the final incident attachment confirmation. MPD retained the chest. Hackett remained the preservation sponsor. Grant had access to one package and custody of none. No final federal receiver had appeared.
-
-At the far end of the intake bay, another officer increased the volume on the television. Sterling’s account remained intact, clean, and ahead.
-
-Julie could not reach the evidence. She could not reach Marcus or Elias. She could not use her right hand, leave the restraint harness, or make the public understand what had changed inside the room.
-
-She could protect the sentence.
-
-At 09:12:52 Eastern Daylight Time / 18:42:52 Indian Standard Time, Ortiz read the final state into the MPD record.
-
-“Incident 187463. Seven packages present. Package 901446 opened once under recorded authority, examined read-only, resealed as MPD-SL-551821, former seal retained. Packages 901441 through 901445 and 901447 unchanged. Physical custody remains Metropolitan Police.”
-
-Grant’s signed observation entered the DCIS preliminary inquiry.
-
-The television kept calling Julie the attacker.
-
-The first independent record said the machine’s physical key had not done what the official story claimed.
-
----
-
-09:12:52 EDT / 18:42:52 IST
-
-# Chapter 18 - The Local Record
-
-Forward Post Arjun
-Kashmir
-
-Captain Rao reached the inner gate with one man on a stretcher and a steel transit box chained to his wrist.
-
-Sleet moved sideways through the floodlights. It struck the box, the patrol’s white overgarments, and the frozen mud on their boots with the same dry sound. The sentry opened the pedestrian barrier only far enough for the stretcher team to pass. Rao came through behind them, one hand beneath the box and the other holding a document pouch against his chest.
-
-Major Ananya Sharma met them before the barrier closed.
-
-“Medical first,” she said.
-
-The wounded man was Lance Naik Suresh Pal. His eyes were open, but his face had gone gray beneath windburn. A field dressing covered the left side of his scalp. His gloved hands remained fixed around the straps across his chest as the medics carried him toward the aid room.
-
-Rao started to report.
-
-“Inside,” Sharma said. “No oral summary in the yard.”
-
-Pal lifted one hand from the stretcher. “Ma’am, the north track—”
-
-The medical officer looked up from the stretcher. “I am removing him from questioning.”
-
-Sharma held Pal’s gaze long enough to show that she had heard him.
-
-“Go.”
-
-The stretcher disappeared through the aid-room door.
-
-Rao glanced at the pouch, as though the signed patrol statement inside it might require Pal’s voice to remain complete.
-
-“It does not,” Sharma said. “His questioning stops here. You will identify anything he personally observed in the report and anything he did not.”
-
-“Yes, ma’am.”
-
-The remaining patrol members stayed on their feet because sitting would have required them to stand again. Ice clung to the webbing at their knees. One man had torn the outer layer of his right sleeve and wrapped the opening with signal tape. Another kept flexing his jaw to clear the pressure left by the descent. They had crossed the mountain under a warning that might have been false, reached a relay that looked untouched, and returned carrying an object no one at Arjun had expected to see. Fatigue made each of those facts easier to combine into a single story. Sharma intended to keep them separate.
-
-Lieutenant Sameer Qureshi arrived from the communications room carrying the challenged allied incident set in a sealed document case. He stopped when he saw the chain around Rao’s wrist.
-
-“What is that?”
-
-“Relay-local incident cartridge,” Rao said. “Removed from K-17 under local custodian authority. Isolated before movement.”
-
-“Who removed it?”
-
-A fifth member of the patrol stepped forward. He was older than Rao, broad beneath wet cold-weather layers, with a relay-maintenance badge fixed inside a transparent pocket rather than exposed to the storm.
-
-“Naib Subedar Vikram Sethi. K-17 local custodian.”
-
-Sharma looked at the chain, the unopened box, and the document pouch.
-
-“Nothing enters the operations room until it has a record.”
-
-Northern Command had called twice in the last six minutes. The first call asked when K-17 would return to ordinary service. The second asked whether the patrol had found any condition that justified extending the hold. The relay still stood. No hostile team had been captured. From the perspective of a headquarters trying to restore a clean operational picture, those facts pointed toward closure.
-
-The box on Rao’s wrist was the part that prevented that conclusion from becoming routine.
-
-Qureshi opened the local incident register on a standalone terminal. Sharma kept him off the allied network.
-
-“New umbrella,” she said.
-
-He entered the time from Arjun’s disciplined wall clock rather than the wet patrol watches.
-
-INCIDENT: ARJ-K17-018  
-CREATED: 18:44:09 IST  
-LOCATION: FORWARD POST ARJUN  
-SUBJECT: RELAY K-17 LOCAL ACCESS / PHYSICAL INSPECTION  
-STATUS: OPEN / PRESERVATION HOLD  
-
-“Custody roles,” Sharma said.
-
-Qureshi read them back as he entered them. Sethi was the field transferor and local relay custodian. Rao was the patrol witness. Qureshi would become the receiving custodian after visible inspection. Sharma would witness the transfer and control the incident umbrella. Pal was listed as a patrol observer removed by medical authority before local questioning.
-
-At 18:44:09 Indian Standard Time, the local umbrella existed.
-
-Only then did Sharma allow the patrol into the report room.
-
-The report room had been designed for map briefings, not wet patrols. Condensation gathered on the window frame. A portable heater pushed warm air across the floor and turned the ice on Rao’s outer layers into dark spreading patches. No one removed the transit box from his wrist until Qureshi had positioned a camera, a paper transfer sheet, and two empty evidence trays on the center table.
-
-“State the field sequence without conclusions,” she told Rao.
-
-He gave her the physical facts.
-
-The patrol reached Point Kestrel later than planned because the western traverse had iced over and one man had lost footing near the second anchor line. From Kestrel, they observed K-17 through thermal optics and glass for nine minutes. The mast remained upright. External power showed normal. The weather cover over the service enclosure remained closed. No person occupied the visible outer compound.
-
-They approached along the authorized maintenance route. At the outer security wicket, the frozen mud held six partial approach marks and a deeper cut where a rigid tool had been set against the lower frame. The latch was closed when the patrol arrived. A narrow section of the anti-tamper paint had been shaved from the receiver.
-
-Rao placed the first photograph beneath the camera. The steel wicket filled the frame. Ice had formed around the lower hinge. The latch sat in its receiver. Behind the protective glass, the access indicator showed a steady green line.
-
-“The patrol report calls that a successful pass,” Sharma said.
-
-“It is the manufacturer’s state for an accepted local challenge,” Sethi replied.
-
-“Not the same sentence.”
-
-“No, ma’am.”
-
-“What did you do next?”
-
-Rao placed a second photograph on the table. It showed the inner security boundary twenty meters beyond the wicket: a low armored enclosure built into the rock beneath the relay mast. Its door was closed. The tamper strip appeared intact from the patrol’s position, but windblown ice obscured the lower seam. No body, weapon, or movement appeared in the image.
-
-“We did not cross,” Rao said.
-
-“Why?”
-
-“We could not exclude hostile occupancy inside the enclosure. We could not exclude an explosive or tamper hazard on the lower seam. The outbound tracks turned west toward ground from which a Line-of-Control crossing could not be excluded.”
-
-The hard stop had three separate conditions. Rao had met all three.
-
-“Did you pursue?”
-
-“No, ma’am.”
-
-“Did any patrol member enter the inner boundary?”
+“You cannot see the device.”
 
 “No.”
 
-“Did anyone open the relay enclosure?”
+“You cannot read their system from here.”
 
 “No.”
 
-“Then how did you recover the cartridge?”
+“What are you asking me to do?”
 
-Sethi pointed to a smaller armored drawer visible outside the inner boundary in the photograph. The K-17 access controller wrote its append-only local incident chain to a removable cartridge held in an exterior isolation cassette. The cassette could be released by the registered local custodian from the safe side of the boundary. Removing it mechanically isolated the controller’s journal output path; it did not open the relay, create a live network path, or change the preceding record.
+“Route an immediate records-preservation request through MPD dispatch to Hartwell. Preserve the local-challenge record for 07:46 through 07:48:30, the controlled-door and staff-route logs, exterior and interior access-camera records, the inspection position, and any record that identifies the challenge serial and the person presenting or receiving it.”
 
-“I verified the cassette indicator before removal,” Sethi said. “Green journal seal. No active write. I used my local maintenance key and mechanical release. Captain Rao witnessed. The cartridge went directly into the field sleeve.”
+Mercer stepped forward half a pace.
 
-“Did you reconnect it after removal?”
+Ortiz’s raised hand stopped him again.
 
-“No.”
+Julie kept speaking to the camera.
 
-“Did you connect anything else to the relay?”
+“The request is not an accusation that Senator Sterling possessed the signer. It is not a claim that the black case contained it. It is a request to preserve the records needed to determine those facts later. Masking Window Two begins at 07:48. I do not know what it does. Phase B has an authorization deadline at 07:49. I do not know what action Phase B authorizes. Relay K-seventeen access was not confirmed in the 07:08 record. The substantive message blocks remain encrypted.”
 
-“The empty cassette was capped and mechanically isolated. No replacement medium was connected. K-17’s ordinary sensor forwarding remained physically intact, but its local incident-write path stayed offline pending authorized restoration.”
+Ortiz studied her for one second.
 
-Sharma looked at Rao. “Photographs?”
+“You understand I am not validating any of that.”
 
-“Before removal, during release, empty cassette, replacement seal, and departure.”
+“Yes.”
 
-“What did the patrol establish about hostile occupancy?”
+“I am documenting a claim from a person named in an armed-insider alert.”
 
-“No person remained in the visible outer compound when we inspected it. Thermal observation found no human heat source outside the closed enclosure. We did not enter the enclosure, so we cannot state what was inside it.”
+“Yes.”
 
-That was the right boundary for this record.
+“And you are asking police to contact a protected federal briefing site while you are under apprehension.”
 
-Northern Command called again.
+“Yes.”
 
-Qureshi put the speaker on the table and identified every person in the room before answering.
+The answer did not make him trust her.
 
-The duty colonel asked for service-restoration status.
+It made the request precise enough to route.
 
-“The local incident cartridge is now under preservation intake,” Sharma said. “Ordinary restoration remains held.”
+Ortiz touched his shoulder microphone without taking his eyes from Julie.
 
-“For an intact relay and an empty compound?”
+“Dispatch, Unit Three. Start an evidentiary-preservation request associated with the Hartwell perimeter incident. Time-sensitive. Requesting hold on local challenge, controlled-door, staff-route, inspection-area, and relevant camera records from zero-seven-forty-six through zero-seven-forty-eight-thirty. Request originates on scene from subject O’Donnell. Record as unverified subject statement. No request for substantive disclosure.”
 
-“For an intact relay with a passed outer line, unexplained approach marks, a removed local record, and an unresolved inner boundary.”
+Static opened and closed.
 
-“You have no hostile personnel.”
+“Unit Three, confirm challenge record is claimed to be active now.”
 
-“We have no hostile personnel in custody.”
+“Affirmative. Claimed window is open now and closes at zero-seven-forty-eight-thirty.”
 
-The distinction produced a pause.
+“Copy. Routing through District watch and Hartwell liaison. Event number follows.”
 
-The colonel directed her to establish whether the relay had been altered, preserve only information required for the challenged incident, and return K-17 to service as soon as operational safety permitted. He did not order her to erase anything. He did make the cost of delay hers.
+A sequence of digits came over the radio.
 
-Sharma ended the call and turned to the transit box.
+Marcus reached for the paper log.
 
-“Custody before interpretation.”
+Ortiz’s voice sharpened. “Sir, hands.”
 
-The chain around Rao’s wrist carried a numbered steel link: PK-06-314. Qureshi photographed it beside the wall clock. He read the transit-box number aloud.
+Marcus stopped with his left hand above the waterproof folder. The movement had already pulled across his ribs. His face tightened beneath the blood-stained dressing above his ear.
 
-PKT-K17-04.
+“Paper custody log,” he said. “I need to record the dispatch event number.”
 
-The box had two mechanical latches and a narrow field-seal channel. The seal remained unbroken. Its visible number was K17-FS-1176. Moisture had frozen along the lower edge, but no cut or deformation crossed the seal body.
+“Do not reach until I tell you.”
 
-Sethi confirmed the number from his patrol copy. Rao confirmed that he had watched the box from the relay cassette to Arjun’s gate. Sharma recorded both statements as testimony, not as a substitute for the physical seal.
+Marcus returned both hands to view.
 
-Qureshi created the original-media reference.
+Julie saw what the instruction cost him. The log was his primary chronology. Six years ago, he had protected access by letting the official record carry a useful ambiguity. Now an honest officer had stopped him from writing, and he obeyed rather than turn custody into another fight.
 
-ARJ-K17-001  
-ITEM: ORIGINAL K-17 INCIDENT / ACCESS-CONTROLLER CARTRIDGE  
-SOURCE CONTAINER: PKT-K17-04  
-FIELD SEAL: K17-FS-1176 / INTACT ON ARRIVAL  
-TRANSFEROR: NAIB SUBEDAR VIKRAM SETHI  
-RECIPIENT: LT SAMEER QURESHI  
-WITNESS: CAPT ARVIND RAO / MAJ ANANYA SHARMA  
-TIME SOURCE: ARJUN DISCIPLINED WALL CLOCK  
+“Officer,” Julie said, “the paper log is part of the evidence chain.”
 
-Rao placed his wrist beside the camera. Qureshi read the chain number and photographed the closed lock before cutting it. The transit box went onto the first tray. Sethi became transferor. Qureshi became recipient. Rao signed as patrol witness. Sharma signed as receiving witness and local incident authority.
+“I heard him.”
 
-The key for the field seal remained in Sethi’s custody until Qureshi had photographed all six sides of the box.
+“He cannot stand safely.”
 
-Only then did Sethi open the outer box.
+“I can see that too.”
 
-Inside lay a gray cartridge no larger than a field radio battery. A recessed green indicator showed JOURNAL SEALED. The cartridge’s upper face carried a laser-etched hardware serial.
+Ortiz shifted one step to improve his angle on the passenger area without closing the distance. His body camera moved with him, taking in Marcus, the open passenger door, the aluminum case between his boots, and the waterproof folder against his thigh.
 
-K17-AC-44719.
+“Use your left hand only,” Ortiz said. “Slowly. Open the folder. Remove only the bound paper log and pen. Nothing else.”
 
-Qureshi read it twice. Sethi repeated it from the field removal form. Sharma watched both men compare the etched characters with the camera image rather than accepting memory.
+Marcus did exactly that.
 
-A second seal covered the cartridge contacts. K17-CS-88304. Its material had no cut, lift, or clouding. The contact seal had been applied at the relay before the cartridge entered the transit box.
+The damaged boot scraped the van floor when he adjusted. His right thigh trembled beneath the gray coveralls. He stopped before the leg failed and balanced the log across the waterproof folder instead of lifting it. Every breath remained shallow.
 
-“Was that seal on the cartridge while it was installed?” Sharma asked.
+“State what you are recording,” Ortiz said.
 
-“No,” Sethi said. “The cassette protects the contacts in service. I applied K17-CS-88304 after removal while Captain Rao watched.”
+“MPD event number. Time of request. Requesting officer. Stated scope. No transfer.”
 
-Rao repeated that.
+“Do it.”
 
-The patrol report and photographs became ARJ-K17-002. Qureshi logged the signed report, the original image card, the image-card serial, and the exact photograph count. He did not copy them yet. The image card remained in its own evidence sleeve.
+Marcus wrote.
 
-The third object did not exist.
+The pen shook. The words remained legible.
 
-It would be the derivative, if the original survived the read.
+07:46:42.
 
-Arjun’s isolated reader had been stored for relay-failure investigations. It had no radio, no network interface, and no write conductors on the source side. Its serial was IRR-2041. Qureshi opened the cabinet while Sharma watched. The calibration card showed a valid date. The cabinet log showed no use since the last quarterly test.
+The dispatch request existed outside the trio’s own chronology before Hartwell’s event completed.
 
-They did not trust either paper alone.
+Mercer moved into the open space Ortiz had left between the columns. He stopped at the officer’s boundary.
 
-Sethi verified the model. Rao verified the empty ports. Sharma watched Qureshi insert a reference cartridge carrying a known six-event test chain. The reader exposed the six events in order, reported zero source writes, and left the reference cartridge’s before-and-after state unchanged.
+“Officer Ortiz, Apex Defense Systems asserts ownership and security authority over the classified telemetry case and the electronic module. Both were removed from an accredited facility during an active sabotage event. They require immediate recovery by authorized program personnel.”
 
-REFERENCE EVENTS: 6 / 6  
-ORDER: VERIFIED  
-SOURCE WRITES: 0  
-READER: IRR-2041  
-EXTERNAL PATHS: NONE DETECTED  
+Ortiz kept his body toward the trio. “Who is the receiving federal authority?”
 
-Qureshi photographed the test result and removed the reference cartridge.
+“Apex is the designated facility security authority.”
 
-“K17-AC-44719 enters source position only,” Sharma said. “No parser outside the reader. No network. No attempt to repair, normalize, decrypt, or complete unavailable fields.”
+“For Building Three.”
 
-Qureshi repeated the limits.
+“For the material.”
 
-Sethi broke the cartridge contact seal along its numbered seam. The broken strip went into a small evidence pocket inside ARJ-K17-001. Qureshi seated the cartridge in read-only position.
+“That is a claim of ownership. I asked who receives criminal or evidentiary custody.”
 
-The reader displayed the first and last local event identifiers, the event count, and the cartridge’s internal journal seal. Qureshi compared the journal seal with the value photographed at removal.
+Mercer’s jaw tightened. “The incident is under joint coordination.”
 
-Match.
+“Name the agency and receiving officer.”
 
-He created the derivative destination on blank local media.
+Mercer touched his radio.
 
-ARJ-K17-003  
-SOURCE: ARJ-K17-001 / K17-AC-44719  
-METHOD: ISOLATED READ-ONLY EVENT EXPORT  
-READER: IRR-2041  
-SOURCE WRITE PATH: NOT PRESENT  
-EVENT ORDER: PENDING VERIFICATION  
+Before he could speak, Vance’s voice came through the open channel, polished and unmistakable.
+
+“The material is classified strategic telemetry under executive recovery authority. O’Donnell’s attempt to direct preservation at Hartwell is continuing hostile target development. Secure both devices before she manipulates another protected system.”
+
+Ortiz looked at Elias’s module.
+
+Elias’s hands tightened around it.
+
+Julie saw the officer’s attention change. The object looked worse because Vance had named it as active danger.
+
+“It is offline,” Elias said.
+
+“Do not touch anything,” Ortiz ordered.
+
+“I’m not.”
+
+“What does offline mean?”
+
+“No radio. No network connection. No Hartwell connection. It contains two sealed partitions and a local handling journal.”
+
+Mercer said, “He used similar media to capture a protected Northbridge session.”
+
+Elias’s fear showed in the speed of his next breath, not in the answer.
+
+“Yes. At Northbridge, it was physically connected to a local audit port under a sponsor exception obtained by deception. It is not connected now. It cannot read Hartwell. It cannot penetrate Hartwell. It cannot identify a certificate across the street.”
+
+Ortiz said, “Then why are you holding it?”
+
+“Because Partition A contains a sealed derivative made before Northbridge. Partition B contains the sealed WSS-four incident package. The board against my body is the original administrator token that distinguishes my replayed deployment identity from my later voluntary actions. Separating them from me without a documented transfer damages the evidence.”
+
+“You are telling me the device is evidence.”
+
+“Yes.”
+
+“Not a tool.”
+
+“It can be both in other conditions. Here, now, it is offline evidence with a local manual marker function.”
+
+Ortiz’s eyes went to Elias’s left thumb.
+
+“What does the button do?”
+
+“It writes a handling event into the enclosure journal. Local input, device time, local hardware state.”
+
+“What does it prove?”
+
+“That I pressed it.”
+
+“What does it prove about Hartwell?”
+
+“Nothing by itself.”
+
+The answer entered the body-camera record in Elias’s own voice.
+
+A second radio transmission cut across Mercer’s channel. Sarah Chen spoke with the controlled cadence Julie remembered from Room 402B.
+
+“Incident coordination to all Apex personnel at the garage. Metropolitan Police has scene authority. Capture and evidence preservation remain active. No transfer to Apex absent named receiving custody and a documented receipt. Subjects remain under apprehension. Do not allow connection, opening, alteration, or destruction of any media.”
+
+She had not released them.
+
+She had denied Vance an undocumented recovery.
+
+Vance answered on the same channel. “Executive authority requires immediate isolation of the telemetry.”
+
+Chen did not debate him. “Your instruction is preserved. Field force standard and receiving-custody requirement remain unchanged.”
+
+Mercer looked at his radio, then at Ortiz.
+
+The officer had heard both instructions.
+
+So had the body camera.
+
+Julie turned her head far enough to recover the Hartwell sightline without moving her feet.
+
+The controlled door remained closed. The lamp above it remained white. The exterior officer stood near the privacy-screen position, one hand at his earpiece. The probable support SUV had not moved.
+
+The hidden hand remained hidden.
+
+The dashboard clock changed to 07:47:03.
+
+Less than ninety seconds remained in the Hartwell window.
+
+Ortiz saw her attention shift.
+
+“You said no movement toward the site.”
+
+“We are not moving.”
+
+“Then keep your feet where they are.”
+
+“I will.”
+
+His radio carried the dispatch event into another channel. A District watch officer repeated the preservation scope. Hartwell security requested the incident basis. Dispatch answered with the known-plate alert, the protected-site proximity, and Julie’s recorded claim. No one endorsed the claim. No one rejected the need to preserve a record during an active police containment.
+
+Procedure moved because later review required something to review.
+
+The second officer checked the west ramp.
+
+“Unit Three, west vehicle line is still moving. Additional cruiser is entering the outbound gate below.”
+
+Marcus heard it.
+
+“Route exposed,” he said.
+
+Ortiz looked at him. “Do not make a route call.”
+
+“He owns the vehicle decision,” Julie said.
+
+“You own nothing on this scene.”
+
+“The evidence roles still exist whether you recognize them or not.”
+
+Ortiz’s expression hardened.
+
+Julie corrected herself before defiance became the only thing the camera preserved.
+
+“You control the scene. Marcus knows whether the van can move without striking an officer or losing the originals. I need him to state when that becomes impossible.”
+
+“You are not moving the van.”
+
+“If the gate remains physically open, that is an instruction. If the gate becomes physically blocked, it is also the abort condition we established before you reached this level.”
+
+Ortiz studied her.
+
+“You are telling me you will stop when police close the route.”
+
+“Yes.”
+
+“You are already being told to stop.”
+
+“Yes.”
+
+The two facts did not merge neatly. Julie had continued observation while obeying the no-advance line. Ortiz had lawful authority to detain her before the Hartwell event finished. She had no lawful authority to keep the scene open.
+
+He could end it now.
+
+Instead, he said, “The van does not move. You stay where you are. If the route changes, my officer will call it.”
+
+Julie nodded once.
+
+The dark-overcoat entrant appeared outside Hartwell.
+
+The controlled door opened only far enough to release one person. The overcoat stepped through, turned sideways while the door closed, and returned along the narrow lane toward the exterior holding position. Both hands were visible above the privacy panel.
+
+Empty.
+
+Julie raised one finger with her left hand and kept her feet planted.
+
+“07:47:21. Dark-overcoat entrant has returned outside the controlled domain.”
 

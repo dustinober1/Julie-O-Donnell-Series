@@ -1,307 +1,347 @@
-The export began without a progress wheel. Event identifiers advanced in a narrow column, each carrying the K-17 hardware time and the state exposed by the local journal. Qureshi read the identifiers. Sethi checked the sequence against the cartridge display. Sharma watched the order, not the volume.
+Ortiz pivoted his shoulders without turning his back on the trio. From his angle, the overcoat was visible between the van’s hood and the open side of the garage.
 
-The patrol’s physical report had made K-17 look like a failed operation that had left the relay standing.
+“I see one person outside the door,” he said. “Dark coat.”
 
-The local record began by showing how far the operation had gone.
+“Do not identify the person,” Julie said. “Clothing only.”
 
-K-17’s controller clock had last checked against the regional relay time at 17:08:00 IST. Its offset was plus 0.482 seconds, within the maintenance tolerance recorded by Sethi. Qureshi preserved the offset. He did not subtract it from every displayed field and produce a cleaner line than the system had made.
-
-The first relevant event appeared at 17:11:46.217 on the K-17 clock.
-
-SECURITY LINE ONE: CHALLENGE RECEIVED  
-ORIGIN: FIELD ROUTE  
-RESULT: ACCEPTED  
-
-Four tenths of a second later:
-
-SECURITY LINE ONE: PASS  
-OUTER WICKET STATE: OPEN / CLOSE COMPLETE  
-
-Rao looked at the photograph of the closed latch.
-
-“It closed behind them.”
-
-“It closed after an accepted pass,” Sharma said. “The photograph establishes its later physical state. The journal establishes the earlier controller state.”
-
-Neither source improved the other. Together they showed sequence.
-
-The next exposed event carried a certificate subject and fingerprint.
-
-FIELD ROUTE CERTIFICATE: ACCEPTED  
-REGISTERED AUTHORITY: TARIQ, MAJOR / FORWARD LIAISON CELL  
-CERTIFICATE FINGERPRINT: 7A:3C:19:55:0D:8E:21:44  
-PHYSICAL OPERATOR: NOT RECORDED  
-
-The room changed around the name.
-
-A registered certificate was not a man standing at the relay. It did not place Major Tariq on the mountain, put a device in his hand, or identify any of the approach marks outside. It established that an authority registered to his liaison cell had been accepted by K-17’s local controller.
-
-The challenged allied set carried a reference to the same accepted field authority. Sharma did not possess the remote session. She had only the category and local references preserved within her chain. The local cartridge gave her the field-side event without importing any unavailable message.
-
-Qureshi did not say Tariq had been there.
-
-He entered the exposed certificate subject and fingerprint exactly.
-
-The next event showed the task profile.
-
-SESSION PROFILE: K17-PHASE-B  
-SESSION STATE: LOCAL CHALLENGE OPEN  
-RELAY ACCESS: CONTROLLER REACHED / FINAL AUTHORIZATION PENDING  
-
-The derivative export paused between blocks because the local cartridge had rolled its journal segment. Qureshi did not reconnect, refresh, or ask the reader to infer the missing transition. The next event identifier followed the previous one without a gap.
-
-EVENT ORDER: CONTINUOUS  
-SEGMENT BOUNDARY: VERIFIED  
-LOCAL SOURCE-RECORD WRITES: 0  
-
-Rao let out a breath through his nose.
-
-“We thought they never reached it.”
-
-“You knew relay access was not confirmed,” Sharma said.
-
-“The door was closed.”
-
-“You did not know that. You had a closed inner boundary, an unresolved tamper condition, and tracks toward a crossing you could not safely pursue. The record exists because you obeyed the stop.”
-
-He accepted the correction.
-
-At 17:12:14.606, K-17 received a structured action request. It contained no message plaintext and no human instruction. The exposed fields belonged to the relay’s maintenance protocol.
-
-TASK: K17-PHASE-B  
-ACTION CLASS: LOCAL SOURCE-RECORD RECONSTRUCTION  
-SUBACTION: MAINTENANCE COMMIT  
-TARGET: CURRENT LOCAL SOURCE-STATE INDEX  
-LIVE WRITE STATE: NOT AUTHORIZED  
-
-Qureshi stopped reading.
-
-There it was.
-
-Not a generalized attack. Not an encrypted order conveniently turned into language they could use. A structured action class inside K-17’s own maintenance system.
-
-“What would a successful commit do?” Rao asked.
-
-Sethi kept his answer narrow. “It would replace the relay’s current source-state index with a locally committed reconstruction object. Downstream systems could then treat that object as the relay’s current maintenance state.”
-
-“Would it erase this cartridge?”
-
-“No. The cartridge is append-only once written. A successful commit would create a newer local record state and route that state outward. The original events would remain on this medium unless the medium was removed or destroyed.”
-
-“Could the reconstruction be true?” Sharma asked.
-
-“The action class does not say. It says what the controller was asked to do.”
-
-“What authority did it require?”
-
-REQUIRED AUTHORITY: REGISTERED FIELD ROUTE + LOCAL MAINTENANCE CONFIRMATION  
-FIELD ROUTE: PRESENT  
-LOCAL MAINTENANCE CONFIRMATION: ABSENT  
-LOCAL COMMIT CHALLENGE: ISSUED  
-
-The next six minutes contained repeated local state checks, one denied attempt to invoke a maintenance confirmation path, and no new certificate subject. The journal did not expose a user name, a device serial, or a body. It recorded the failure of the required second authority.
-
-At 17:18:57.901, the field route submitted a second response. The controller accepted the registered certificate again. It did not receive the local maintenance confirmation bound to K-17’s physical custodian path.
-
-At 17:19:00.000, the authorization window expired.
-
-PHASE B: FINAL AUTHORIZATION EXPIRED  
-MAINTENANCE COMMIT: NOT EXECUTED  
-LOCAL SOURCE-STATE INDEX: UNCHANGED  
-SOURCE WRITES: 0  
-SESSION: CLOSED BY TIMEOUT  
-
-The field operation had reached the relay controller, passed the outer line, and attempted to open a commit requiring local physical authority.
-
-It had failed.
-
-Qureshi continued to the departure events. A vibration input at the outer wicket coincided with the latch closing. A service-zone sensor recorded movement away from the enclosure. The journal exposed no identity and no destination. The patrol photographs later showed outbound tracks leading west.
-
-The original remained seated in read-only mode until the destination hash and event count matched. Then Qureshi closed the session and removed K17-AC-44719 by its edges.
-
-ARJ-K17-003  
-EVENT COUNT: 186  
-FIRST EVENT: MATCH  
-LAST EVENT: MATCH  
-EVENT ORDER: VERIFIED  
-SOURCE JOURNAL SEAL: MATCH  
-SOURCE WRITES DURING READ: 0  
-STATUS: READ-ONLY DERIVATIVE COMPLETE  
-
-The original and derivative now carried the same exposed event order. They were not the same object. The original remained the local source. The derivative existed so the event chain could be reviewed without reconnecting the cartridge.
-
-Sharma moved the prior challenged product and the 17:24 superseding allied product onto separate screens.
-
-The prior set contained the low-level events that had survived the first provenance challenge: short thermal signatures, vibration transfers, narrow communications bursts, and the movement line toward K-17. Those events were not proof that the team had reached the relay. They were the path that had justified preserving the question.
-
-The superseding product carried a newer authentication state and a cleaner operational picture. K-17 returned as a normal relay. No challenged access event appeared. No Phase B request appeared. No failed local commit appeared. The earlier anomalies had been resolved into absence.
-
-Qureshi checked the local cartridge’s clock offset against both product-generation times.
-
-The K-17 events existed before the superseding product.
-
-No later product could make them never have happened.
-
-“List what the superseding product contains about K-17,” Sharma said.
-
-Qureshi read the fields. Normal service. No actionable access anomaly. No source-state conflict. No local maintenance exception.
-
-“Now list the local events it omits.”
-
-Security Line One pass. Accepted field-route certificate. K17-PHASE-B session. Reconstruction request. Maintenance-commit challenge. Missing local confirmation. Expired authorization. Zero local writes.
-
-No corresponding event existed for the Tariq-registered field route.
-
-Sharma did not write that the superseding reconstruction had been created to hide the penetration. Purpose required a human chain the local record did not provide. She wrote the effect.
-
-The controlling allied product omitted a failed or contested K-17 penetration preserved in the independently controlled relay-local record.
-
-She read the sentence twice.
-
-It did not accuse. It did not forgive.
-
-It established the conflict.
-
-Northern Command returned to the line at 19:24.
-
-The duty colonel had received the service-hold update and wanted the operational answer.
-
-“Was K-17 taken?”
-
-“No,” Sharma said. “Not on this record.”
-
-“Was it altered?”
-
-“No successful local source-record write occurred.”
-
-“Then the operation failed.”
-
-“The local operation failed to complete the commit.”
-
-“And the relay remains ours.”
-
-“Physically intact and under local control at inspection.”
-
-The colonel waited for the conclusion she had not given him.
-
-Sharma let Qureshi provide the bounded sequence. He named the physical inspection, the outer line, the accepted registered authority, the requested action class, the missing local confirmation, the timeout, and the zero-write result. He ended with the omission from the superseding product.
-
-The colonel asked whether the discrepancy could be ordinary product filtering.
-
-“It could be described that way,” Sharma said. “It cannot be allowed to become the only surviving description before the original event chain is sealed.”
-
-“What are you asking for?”
-
-“K-17 remains under local security hold. The source cartridge and derivative remain separate. Restoration does not begin until both are sealed and the bounded result enters the challenged preservation route. The inner boundary remains a tamper site until a qualified team clears it.”
-
-“That delays the relay.”
+“I know how to describe a person.”
 
 “Yes.”
 
-“You are reopening a question the superseding product closed.”
+The correction was deserved.
 
-“No. I am preserving a local event the superseding product does not contain.”
+Elias looked at Ortiz. “Permission to enter one manual handling marker with my left thumb. No connection. No partition access.”
 
-The colonel ordered her to provide a signed result, limit disclosure to the existing challenged route, and report the minimum restoration steps separately. The order preserved his ability to review her delay later.
+Ortiz took one step closer, stopping well outside reach.
 
-It also preserved the record now.
+“Turn the display toward me without moving the device away from your body.”
 
-Sharma ended the call.
+Elias did. The movement pulled his injured hip out of alignment. He caught himself against the van with one shoulder and kept the module against his torso.
 
-“State the result,” she told Qureshi.
+The small display showed both partition seals and the handling-journal control.
 
-He considered the screen before answering. “K-17 remained physically intact at patrol inspection. Security Line One was passed earlier. A Phase B session reached the relay under a field authority registered to Major Tariq’s liaison cell. The requested action was a local source-record reconstruction through a maintenance commit. Final local authentication did not complete. No local write occurred. The team was no longer present when the patrol inspected the outer compound and did not pursue beyond the hard stop. The superseding allied product omitted the local events that survived on the original cartridge.”
+PARTITION A: SEALED / READ-ONLY / INTEGRITY VERIFIED
+PARTITION B: SEALED / WSS-4 CONTROLLER SEAL PRESENT
+DEVICE HANDLING JOURNAL: AVAILABLE
 
-“What does it not establish?”
+“Press once,” Ortiz said. “Then remove your thumb.”
 
-“Physical identity. Tariq’s presence or personal use. Reconstruction authorship. Upstream command. What was inside the closed enclosure. Why the superseding product omitted the events. Any legal conclusion.”
+Elias pressed.
 
-“Good. Put both parts in the finding.”
+HANDLING EVENT 010
+OPERATOR INPUT: MANUAL
 
-Sethi had remained beside the original throughout the comparison. His wet gloves lay on the floor beneath his chair. The skin across his knuckles was split from cold.
+No external image entered the module. No name. No conclusion.
 
-“Can the relay return to service without this cartridge?” Sharma asked.
+Marcus wrote the observed time and the limitation.
 
-“Physically, likely yes. The original incident cartridge is isolated. The local incident-write path remains isolated. We have not authorized a live restoration or source-record synchronization.”
+DARK-OVERCOAT PERSON OUTSIDE CONTROLLED DOOR BEFORE ACCEPTED STATE. CLOTHING IDENTIFIER ONLY. MARKER MANUAL. EXTERNAL FACT REQUIRES CORROBORATION.
 
-“Likely is not a restoration plan.”
+Ortiz watched the pen stop.
 
-“No, ma’am.”
+“What does that change?” he asked.
 
-“You will write one after the evidence is sealed. It will not require reconnecting K17-AC-44719.”
+Julie looked at Hartwell.
 
-“Yes, ma’am.”
+“It narrows the set at the exact event time. If the challenge completes while that person remains outside, that person is not physically presenting the device at that moment.”
 
-Qureshi opened the acknowledgment form tied to the earlier preservation request. The route already knew the challenged allied set, product identifiers, category limits, and Forward Post Arjun’s local control. It did not know the patrol result. Adding the result required no direct contact with any Washington subject and no transfer of the original.
+Mercer said, “Unless the exterior signal is unrelated.”
 
-The form exposed only the categories the route was permitted to carry.
+“Yes.”
 
-Qureshi entered:
+“Or the device was handed off before the person returned.”
 
-REFERENCE: ARJ-K17-ACK-01  
-LOCAL UMBRELLA: ARJ-K17-018  
-ORIGINAL: ARJ-K17-001 / K17-AC-44719  
-PATROL RECORD: ARJ-K17-002  
-READ-ONLY DERIVATIVE: ARJ-K17-003  
-TIME SOURCE: FORWARD POST ARJUN DISCIPLINED CLOCK  
-SECURITY LINE ONE: PASS  
-FIELD CERTIFICATE SUBJECT: TARIQ, MAJOR / FORWARD LIAISON CELL  
-FIELD CERTIFICATE FINGERPRINT: 7A:3C:19:55:0D:8E:21:44  
-TASK PROFILE: K17-PHASE-B  
-REQUESTED ACTION CLASS: LOCAL SOURCE-RECORD RECONSTRUCTION / MAINTENANCE COMMIT  
-FINAL LOCAL AUTHENTICATION / COMMIT: NOT COMPLETE / NOT EXECUTED  
-LOCAL SOURCE-RECORD WRITES: 0  
-SUPERSEDING-PRODUCT COMPARISON: LOCAL EVENTS OMITTED  
-ORIGINAL CUSTODY: RETAINED LOCALLY / NOT TRANSFERRED  
+“Yes.”
 
-Sharma added the caveats herself.
+“Or someone already inside presents it.”
 
-The registered field authority did not establish Major Tariq’s physical presence, possession, keystrokes, or personal command. The patrol did not identify the field operators. It did not cross the inner security boundary. It did not exclude occupancy inside the closed enclosure at the time of inspection. It did not pursue tracks where a hostile presence, tamper hazard, explosive hazard, or Line-of-Control crossing could not be excluded. No upstream message had been opened or interpreted. No American package had been accessed, moved, or altered. No finding of authorship, guilt, innocence, immunity, admissibility, or final jurisdiction was made.
+“Yes.”
 
-Qureshi removed raw geography, unrestricted sensor detail, the patrol’s exact route, and the inner enclosure photographs from the outbound form. The acknowledgment carried the event categories and result, not the collection map.
+The possible answer became smaller and less simple at the same time.
 
-Before transmission, the physical objects had to close.
+Julie did not resist that.
 
-Sethi returned K17-AC-44719 to its contact guard. Qureshi placed it inside a new local evidence sleeve while Sharma watched. The sleeve seal number was ARJ-SL-20471.
+“That is why we need Hartwell’s record,” she said.
 
-Sethi repeated the number. Rao witnessed the sleeve closure. The broken field seal K17-FS-1176 remained in the original’s evidence pocket. The original went into a rigid local container marked ARJ-K17-001. It did not travel with the acknowledgment.
+The white lamp remained steady.
 
-The derivative ARJ-K17-003 entered a second sleeve under seal ARJ-SL-20472. Qureshi signed as creator and custodian. Sethi signed as source witness. Sharma signed across the verification line.
+07:47:34.
 
-The patrol report, photograph card, image index, Pal’s medical-removal notation, and the hard-stop statement entered a third package under ARJ-K17-002.
+Dispatch returned over Ortiz’s radio.
 
-Its seal was ARJ-SL-20473.
+“Unit Three, Hartwell liaison acknowledges preservation request. Security is checking scope and legal authority. No operational detail will be released to the scene.”
 
-Rao signed across it with a hand that had stopped shaking from cold.
+“Copy. Request immediate administrative hold pending authority review. Preserve first, disclose later.”
 
-At 19:29:48, Qureshi transmitted ARJ-K17-ACK-01 through the bounded preservation route.
+“Relaying.”
 
-The local terminal showed the acknowledgment leaving Arjun. It did not show a recipient’s case file, a person in another room, or a technical conclusion beyond what they had written. The route returned a transport identifier and a pending preservation state.
+The exterior Hartwell officer moved away from the privacy screen and looked toward the controlled door. The person in the dark overcoat remained at the holding position, body angled toward the support SUV.
 
-Sharma waited.
+The other two entrants did not reappear.
 
-Outside, the sleet shifted against the windows. The patrol’s wet boots had left a line of dark meltwater across the floor. In the aid room, a metal tray struck a counter and someone closed a cabinet. Northern Command had its signed operational result. K-17 remained under hold. The local objects remained on Arjun’s side of the route.
+Julie could no longer see whether either stood beside a reader, a secure cabinet, an aide, or no device at all.
 
-The acknowledgment updated.
+The lamp changed.
 
-PRESERVATION ROUTE: ACCEPTED  
-REFERENCE: ARJ-K17-ACK-01  
-CONTENT: BOUNDED FIELD RESULT / CAVEATS PRESENT  
-ORIGINAL MEDIA: NOT TRANSFERRED  
-MERITS DETERMINATION: NONE  
-RECEIPT TIME: 19:31:12 IST  
+White disappeared.
 
-At 10:01:12 Eastern Daylight Time / 19:31:12 Indian Standard Time, the preservation route returned its receipt.
+A steady green state replaced it above the controlled door.
 
-Sharma signed the final local line beneath Qureshi’s.
+07:47:49.
 
-K-17 had not been taken.
+“Green,” Julie said.
 
-Phase B had reached it.
+Ortiz turned enough to see it.
 
-The local commit had failed.
+“Officer observation,” he said into his body camera. “Hartwell-facing controlled-door exterior indicator changed from steady white to steady green at approximately zero-seven-forty-seven-forty-nine. Technical meaning unknown.”
 
-The later operational picture had concealed the attempt anyway.
+That sentence mattered more than Julie’s conclusion would have.
 
-The field certificate named an authority. It did not name the person behind it.
+Elias held still.
+
+“Marker?” he asked.
+
+Ortiz considered the module, the open radio traffic, and the fact that he had just controlled the first entry.
+
+“Same procedure. Once.”
+
+Elias’s left thumb moved.
+
+HANDLING EVENT 011
+OPERATOR INPUT: MANUAL
+
+The module’s local clock existed behind the journal entry. Julie did not ask Elias to read it aloud. The officer’s body camera and dispatch clock were now the stronger independent chronology.
+
+Marcus wrote:
+
+EXTERIOR HARTWELL STATE WHITE TO STEADY GREEN. OFFICER ORTIZ INDEPENDENTLY OBSERVED. TECHNICAL MEANING AND DEVICE SERIAL UNPROVED.
+
+Mercer looked toward the lamp.
+
+“The local challenge completed.”
+
+“A local challenge reached an accepted exterior state,” Elias said. “We cannot identify which serial from the lamp.”
+
+“You know which serial was scheduled.”
+
+“We know SSO-NS-zero-zero-four was expected.”
+
+“And now the light is green.”
+
+“Expectation plus a visible state justifies preservation. It does not replace the held log.”
+
+Ortiz said, “Enough technical argument.”
+
+It was enough.
+
+The event had occurred inside the predicted window. The office-registered signer remained the expected device. The green state showed that Hartwell’s local challenge process had reached a distinct accepted or complete exterior state.
+
+The exact serial remained inside Hartwell.
+
+The human hand remained behind the door.
+
+Julie looked at the dark overcoat standing outside.
+
+At the moment of acceptance, one observed entrant was excluded from direct presentation. The other two remained possible. So did an internal authorized person. So did a handoff completed behind the screen before entry.
+
+The witness line had strengthened.
+
+The carrier line had become more honest.
+
+The dashboard clock reached 07:48:00.
+
+Masking Window Two began.
+
+Nothing visible changed at Hartwell.
+
+No alarm sounded. No vehicle moved. No screen appeared in Julie’s possession. The pending reconstruction profile remained a name inside the sealed WSS-4 capture, not an action she could see or define.
+
+“Window is open,” Elias said quietly.
+
+Ortiz heard him. “What window?”
+
+“A six-minute interval named in the WSS session. Seven-forty-eight to seven-fifty-four.”
+
+“What happens during it?”
+
+“We do not know.”
+
+Vance’s voice entered Mercer’s radio again.
+
+“The preservation request is itself part of O’Donnell’s continuing attempt to map protected authentication. Recover the module before the masking cycle is compromised.”
+
+Julie looked at Mercer.
+
+“He said masking cycle.”
+
+Mercer’s expression did not change.
+
+The words were not proof that Vance controlled the window. They were proof that he had characterized it with a noun more specific than the public record had given Julie.
+
+Ortiz heard that too.
+
+Chen’s voice followed.
+
+“Executive statement logged. All personnel maintain current positions. No device connection. No unreceipted transfer. Preserve radio traffic.”
+
+Vance did not answer.
+
+Mercer looked at Ortiz. “Apex maintains the case and module contain classified material removed from two protected environments. We request they be isolated under police guard pending federal transfer.”
+
+“That is different from handing them to you,” Ortiz said.
+
+“Yes.”
+
+The concession did not make Mercer an ally. It made him a professional choosing a claim he could defend later.
+
+Dispatch called Ortiz.
+
+“Unit Three, Hartwell duty security acknowledges the relevant local-challenge and access event record exists. Administrative preservation hold entered pending legal review. Hartwell will not disclose signer serial, certificate chain, presenter identity, challenge content, staff identity, or briefing information over this channel.”
+
+Ortiz answered immediately. “Confirm hold time.”
+
+“Zero-seven-forty-eight-sixteen.”
+
+The acknowledgment arrived before the challenge window closed.
+
+“Copy,” Ortiz said. “Preserve acknowledgment and routing history under the scene event.”
+
+“Affirmative.”
+
+Julie looked at Elias.
+
+“Safe marker?” he asked Ortiz.
+
+The officer had already supervised two inputs without a connection, partition change, or unexpected movement.
+
+“One final marker,” Ortiz said. “Same procedure. Then no more device input.”
+
+Elias turned the display. His left arm trembled from holding the module against his torso for too long.
+
+He pressed once.
+
+HANDLING EVENT 012
+OPERATOR INPUT: MANUAL
+
+“Marker proves only my input and local device state,” he said for the body camera. “Hartwell’s acknowledgment exists on police dispatch, not inside this module.”
+
+Marcus recorded the dispatch time, the hold time, and the explicit disclosure refusal. His handwriting deteriorated near the bottom of the line. He did not rewrite it.
+
+The dashboard clock showed 07:48:19.
+
+The second officer spoke from the west sightline.
+
+“Unit Three, outbound gate is closing. Cruiser is across the lower lane. Civilian vehicle clearing now.”
+
+Marcus turned his head too quickly toward the mirror.
+
+The level shifted under him. His left hand caught the door frame. The paper log slid across the waterproof folder and stopped against the case handle.
+
+Julie moved by instinct.
+
+Her right hand left the brace.
+
+Pain opened the grip before it formed.
+
+She stopped herself instead of reaching across the police line.
+
+“Marcus.”
+
+He closed his eyes once and kept both hands visible.
+
+“Still conscious.”
+
+“Route?”
+
+He looked through the mirror more slowly.
+
+The last civilian sedan descended the west ramp. Blue lights reflected against the concrete below. A marked cruiser stood crosswise at the outbound gate, front bumper near the barrier housing. A uniformed officer moved behind it and lowered the manual arm.
+
+Physical control.
+
+Not exposure.
+
+Not a possible intercept one block away.
+
+The route was closed.
+
+“West gate blocked,” Marcus said. “Police vehicle and controlled barrier. No evidence-preserving movement available.”
+
+The clock showed 07:48:24.
+
+Julie felt the old argument rise before anyone spoke it.
+
+The Hartwell window had six seconds left.
+
+The accepted state was visible.
+
+The preservation hold had not yet been confirmed.
+
+PCF-27’s engine was running. The lower gate was blocked. Marcus could not work the pedals normally. Julie could not steer with her right hand. Moving the van would require an officer to jump, a barrier to break, or a civilian lane to become cover.
+
+The mission line did not become optional because success was close.
+
+“Abort,” Julie said.
+
+Marcus’s left hand came away from the log.
+
+Elias removed his thumb from the module control.
+
+Julie faced Ortiz fully.
+
+“The west route is physically controlled. The Hartwell observation mission is over. We will not move the van. We will not approach Hartwell.”
+
+Ortiz’s shoulders lowered by a fraction.
+
+“Turn off the engine.”
+
+Julie looked at the driver’s door. It was closed. The key remained in the ignition where Marcus had reached across to start the van.
+
+“My right hand cannot grip. I can open the driver’s door and turn the key with my left under your instruction.”
+
+“Do it slowly. Left hand only. Keep your right arm against your body.”
+
+Julie lowered her left hand only when he told her.
+
+She took one step to the driver’s door. The movement placed her nearer the van but no closer to Hartwell. Ortiz moved with her, body camera centered on her hand.
+
+She opened the door with her left fingers.
+
+The engine vibration reached through the metal and into her wrist before she touched the key. She leaned across the threshold without putting weight on the injured hand, turned the ignition back with her left thumb and forefinger, and released it.
+
+The engine stopped.
+
+Silence spread through the level beneath the police radios and distant city traffic.
+
+Julie left the key visible in the ignition.
+
+“Step back,” Ortiz said.
+
+She returned to the driver-side front quarter and raised her left hand.
+
+Her right wrist settled against her body.
+
+07:48:30.
+
+The Hartwell window closed.
+
+The steady green lamp remained visible across the gap. It could not tell them whether the accepted event belonged to SSO-NS-004. It could not tell them who had presented anything. It could not tell them whether the challenge record would survive intact under the hold.
+
+It was only a state witnessed before the clock closed.
+
+Ortiz said, “Close the log.”
+
+Marcus did.
+
+“Put the pen on the dashboard.”
+
+Marcus placed it where the officer could see it.
+
+“Both hands on the door frame.”
+
+He obeyed as far as his ribs allowed. The aluminum case remained between his boots. The waterproof folder stayed against his thigh. No hand entered it.
+
+The second officer returned from the ramp and took position near PCF-27’s rear quarter. He did not touch the van.
+
+Ortiz spoke clearly enough for every body camera and radio on the level.
 

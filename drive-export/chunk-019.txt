@@ -1,353 +1,352 @@
-Julie stepped backward through it with the case.
+The panel displayed a gray outline of his print, then a red warning.
 
-Mercer held on until the agent cloud reached his boots and the partition began descending again. He released the handle rather than let the closing barrier trap his arm.
+LIVENESS INDETERMINATE
+ SURFACE TEMPERATURE BELOW THRESHOLD
+ MAINTAIN CONTACT
 
-Marcus came through last. The partition struck the floor between him and Mercer with a heavy fire-rated seal.
+“It checks capillary response,” Elias said. “Temperature, blood flow, pressure variation. It won’t take a dead print or a cold one.”
 
-The containment team did not batter it blindly. Julie heard Mercer ordering a parallel route before the alarm swallowed his voice.
+“Keep it there.”
 
-The service door closed behind them.
+“My finger is numb.”
 
-A protected egress corridor rose ahead in a long concrete grade. White strobes flashed above green floor arrows. The public-address system alternated between two commands.
+“Then make it not numb.”
 
-FIRE EMERGENCY. PROCEED TO THE NEAREST MARKED EXIT.
+He rubbed his hand against his shirt, struck his fingertips into his palm, and tried again. His injured hip pressed against the wall to keep his weight off the left leg. The extinguisher hissed behind Julie. Its pressure began to fall.
 
-SECURITY EVENT. REMAIN IN DESIGNATED SAFE AREAS.
+The scan outline built from the center outward.
 
-“The building is arguing with itself,” Elias said.
+Mercer’s voice came through the cloud. “Reed, put down the cylinder.”
 
-“Follow the system that has to let us out,” Julie replied.
+Marcus kept discharging.
 
-They moved up the ramp.
+The team changed tactics. The shield descended until its lower edge nearly touched the floor, then advanced through the vapor by inches. One operator used the wall as a guide. Another called distances over the closed circuit in clipped numbers.
 
-The service corridor was pressurized against smoke. Clean air pushed past them toward the lower tier, but the first breaths did not feel clean. Julie’s hands weakened around the case. Elias struck the wall with one shoulder and corrected without stopping. Marcus’s rib injury turned every inhalation into a measured choice.
+They did not need to see Marcus. They knew where the gate was.
 
-At the first landing, a fire map showed the route.
+The biometric outline reached Elias’s first knuckle and stopped.
 
-PRODUCTION EGRESS
- MECHANICAL BAY TWO
- LOADING DOCK THREE
- SOUTH SERVICE PERIMETER
+APPLY STEADY PRESSURE
 
-A red security door blocked the straight path. Its badge reader showed ACCESS SUSPENDED.
+His finger shifted.
 
-The crash bar beneath it glowed green.
+The image broke apart.
 
-Julie hit it with her left forearm. The door released mechanically.
+“Don’t move,” Julie said.
 
-On the other side, the lower mechanical level had entered full evacuation. Exhaust fans started and stopped in different zones. Fire dampers moved inside the walls with hard metallic impacts. Condensation shook from overhead pipes onto the floor, making the painted walkways slick.
+“I’m trying.”
 
-Two facilities technicians in gray coveralls came out of a chiller bay carrying emergency respirators. One saw the blood in Marcus’s hair and pointed toward the ramp behind them.
+“Try without talking.”
 
-“South dock is the fire exit. Move.”
+He stared at the glass, shoulders rigid, and held the finger in place.
 
-“We are,” Julie said.
+The extinguisher coughed.
 
-The technician’s eyes dropped to the aluminum case. Before suspicion became a question, a radio on his shoulder called for all mechanical personnel to clear the lower tier. He turned away to answer it.
+Marcus released the handles. The last white vapor drifted around him. He set the cylinder lengthwise against the inside corner where the corridor turned into the gate approach. It would not stop the shield. It would make the first operator step around it instead of driving straight through.
 
-Julie kept moving.
+The panel chimed.
 
-A camera above the next junction rotated and centered on her face.
+LIVE BIOMETRIC CONFIRMED
+ TOKEN PRIVATE KEY UNLOCKED
 
-She did not look away. Apex already had her image. Hiding it now would cost time without changing the record.
+The circuit board’s display changed from the rotating digits to a single line.
 
-Marcus touched her shoulder. “Parallel corridor.”
+SIGNING LOCAL CHALLENGE
 
-Through a wired-glass panel on the left, dark uniforms moved at the same pace behind a fire partition. Mercer’s team had found the alternate route. They remained one wall away, matching the trio toward the loading level.
+Elias exhaled through his teeth. “The private key never leaves the token. The panel sends a challenge. The secure element signs it only after the live match.”
 
-“Door ahead,” Marcus said.
+Julie watched the white cloud thin. “How long?”
 
-A motorized smoke barrier began closing across their corridor.
+“It should already—”
 
-The gap beneath it was still five feet.
+The display updated.
 
-Elias tried to run. His injured hip shortened the stride into a lurch.
+CHALLENGE RESPONSE VERIFIED
+ EMERGENCY ACCESS RECORD PENDING
 
-Julie reached the barrier first and pushed the case under. It slid across the wet floor and struck the wall beyond. She dropped to one knee and followed, protecting her right wrist against her chest.
+A final screen replaced it.
 
-Elias went next.
+ADMINISTRATOR: THORNE, ELIAS M.
+ ROLE: ENCLAVE EMERGENCY ADMINISTRATOR
+ ACTION: QUARANTINE GATE RELEASE
 
-Marcus arrived as the gap fell below three feet. His damaged heel caught the raised sill. He hit both hands on the floor and stopped beneath the moving steel.
+CONTINUING WILL CREATE AN IMMUTABLE LOCAL AUDIT RECORD AND NOTIFY THE DESIGNATED SECURITY AUTHORITY.
 
-Julie seized the back of his coveralls with her left hand. Elias caught his sleeve.
+CONFIRM / CANCEL
 
-They pulled him through as the safety edge brushed his shoulder and reversed long enough to clear the obstruction.
+Elias did not move.
 
-The barrier descended behind his boots.
+The shield emerged from the vapor nine feet away.
 
-Marcus remained on his hands and knees.
+Apex Security Command Center
+ 04:56 Eastern Daylight Time
 
-“Ribs?” Julie asked.
+The enclave alarm reached Sarah Chen through a path the quarantine had been designed to preserve.
 
-“Still attached.”
+A narrow amber box opened over the lower-tier schematic.
 
-“That wasn’t useful the first time.”
+EMERGENCY ADMINISTRATOR AUTHENTICATION
+ THORNE, ELIAS M.
+ REAR QUARANTINE GATE
+ CHALLENGE RESPONSE VERIFIED
+ FINAL CONFIRMATION PENDING
 
-“It’s what I have.”
+Sarah read it once.
 
-She got one arm beneath his left shoulder. Elias took the other side. Marcus stood between them, heavier than either could manage alone and unwilling to make them carry all of him.
+Arthur Vance read it over her shoulder.
 
-A wall clock above the mechanical-bay doors showed 05:06:41.
+“Stop him.”
 
-The loading level lay one ramp above.
+Sarah keyed the closed-circuit channel. “Containment One, authentication has reached final confirmation. Prevent completion. Recover the telemetry intact. Do not strike the local panel or gate actuators.”
 
-Behind the wired glass, Mercer’s team stopped at a closed fire barrier and split without hesitation. Two reversed toward the cross-passage. The others continued for another intercept.
+Mercer answered through background static. “Shield is inside nine feet. Subjects have discharged a clean-agent extinguisher. No visual on Reed.”
 
-“They’re going around,” Marcus said.
+“Less-lethal force authorized. Maintain ballistic hold unless you have an immediate threat to life.”
 
-“We only need one route they don’t reach first.”
+Vance leaned closer. “They are initiating active sabotage against a strategic production system.”
 
-The ramp opened into a broad service bay lined with pumps, electrical switchgear, and parked maintenance carts. Building Three’s full alarm was louder here. Employees moved toward the south dock in small groups, badges visible, coats pulled over work clothes. No one knew which emergency to obey. Some looked toward the lower tier. Others followed the white strobes toward daylight.
+“They are standing in front of the system you want protected.”
 
-A campus emergency coordinator stood at the junction waving people toward the dock.
+“Then remove them from it.”
 
-“Out through South Service. Do not stop for vehicles or personal property.”
+“The team is doing that.”
 
-Julie angled the case so her body hid most of it. Marcus kept his bloody side away from the coordinator. Elias lowered his head and moved with the evacuees.
+On the schematic, the rear gate changed from white to pulsing amber. The command center could see the authentication state. It could not cancel it. Apex had built the enclave so a compromised corporate network could not override a local emergency administrator.
 
-For twenty yards, they were three injured people leaving a fire.
+Vance understood the same limitation.
 
-Then the coordinator’s radio spoke Julie’s name.
+“Authorize lethal force,” he said.
 
-He looked up.
+Sarah kept the channel open. “No.”
 
-Marcus caught the change first. “Right.”
+The word left no room for confusion.
 
-They broke from the evacuation line into Loading Dock Three.
+Vance’s voice remained quiet. “Excuse me?”
 
-The dock doors were open in emergency position. Predawn air moved through the bay, wet and cold. Beyond the concrete apron, service roads curved between utility buildings and the southern fence. White fire strobes reflected from puddles left by the night rain.
+“A rifle round on that axis can enter the access panel, a locking actuator, or the independent control bus. If the gate faults between states, we lose containment and may corrupt the production environment.”
 
-A row of contractor vehicles stood along the dock wall: two utility pickups, a refrigeration truck, and a white maintenance van marked POTOMAC CRITICAL FACILITIES. The van faced the open service lane. Its rear doors were shut. A temporary Apex access placard remained fixed inside the windshield.
+“Thorne is about to open it.”
 
-A red cabinet beside the dispatch board displayed:
+“I can see that.”
 
-EMERGENCY VEHICLE RELOCATION KEYS
- MAGNETIC LOCK RELEASED ON FIRE ALARM
+“Then the production environment is already at risk.”
 
-Julie opened it.
+“Which is why I will not order a blind shot through suppressant vapor toward hardened machinery.”
 
-Each key hung beneath a vehicle number and contractor name. She took the one tagged PCF-27.
+Vance looked at the dark camera wall. “You are allowing procedure to become cover for them.”
 
-Marcus looked at the van. “Leg won’t work the pedals.”
+Sarah watched the gate state.
 
-“I’m driving.”
+“No. I am preventing your urgency from destroying the evidence you claim you want secured.”
 
-“Your wrist?”
+His eyes moved to her.
 
-“Steering wheel is larger than a gate latch.”
+There was no accusation in his expression. Only calculation.
 
-A security door opened at the far end of the dock.
+“Prevent them from crossing,” he said. “Recover the case. Subject preservation is subordinate to recovery.”
 
-Mercer’s second team entered in controlled formation, six people spread around parked equipment rather than clustered in the doorway. No one fired across the evacuating workers.
+The language was deliberate now.
 
-“Vehicle,” Julie said.
+Sarah keyed the team channel again. “Containment One, coordinated push. Shield lead. Separate Reed from the gate frame. Take O’Donnell and Thorne alive. Telemetry has priority. No rounds into the enclave axis.”
 
-Elias opened the side door. Marcus lifted the aluminum case with both forearms and pushed it into the cargo bay. The effort drew a sound from him that he tried to turn into a cough.
+She had not repeated Vance’s last sentence.
 
-Julie caught the case before it slid and wedged it behind the passenger seat. Its small display remained green.
+She had still sent the team forward.
 
-CAPTURE SEALED
- LOCAL MEDIA INTACT
+Production Enclave Approach
+ 04:56 Eastern Daylight Time
 
-Elias climbed in beside it.
+The CONFIRM field waited beneath Elias’s name.
 
-Marcus took the front passenger seat, using the door frame to lower himself without bending his ribs. Julie slid behind the wheel and started the engine.
+Julie did not tell him to press it.
 
-The dashboard came alive with a contractor fleet screen.
+Mercer’s shield cleared the last of the vapor. The operator behind its right edge brought the electroshock weapon up, keeping the cartridge pointed away from the panel until he had a line on Marcus.
 
-APEX CAMPUS TELEMATICS ACTIVE
- VEHICLE PCF-27
- SOUTH SERVICE ROUTE AUTHORIZED
+“Elias,” Julie said.
 
-“Tracked,” Marcus said.
+His finger hovered over the screen.
 
-Elias leaned forward from the cargo bay. “The module is behind the passenger kick panel. Apex requires the same installation on every contractor vehicle with lower-tier access.”
-
-Marcus looked down at his right leg. “Of course they do.”
-
-“Can you remove it?” Julie asked.
-
-“I can identify it. Someone else has to pull the panel.”
-
-Marcus hooked his fingers beneath the plastic trim. The first pull did nothing. He braced his good boot against the floor and tore the panel free with both hands.
-
-A black module the size of a deck of cards sat above the fuse block, secured by a steel clip and one locking connector.
-
-The first containment operator reached the dock lane and raised a less-lethal launcher.
-
-Julie put the van in gear.
-
-A foam baton struck the rear door with a flat metallic blow.
-
-She drove through the open dock entrance.
-
-The service apron curved right toward the south utility gate. Evacuating contractor vehicles moved in the same direction ahead of them, guided by flashing arrows. Behind, the containment team spread into two security vehicles rather than chasing on foot.
-
-“Connector has a center tab,” Elias said. He had climbed between the seats and was bent over the open passenger footwell. “Gray lock first. Then black release.”
-
-His cut finger slipped off the gray tab.
-
-Marcus reached down but could not fold far enough without his ribs stopping him.
-
-“Tool,” Elias said.
-
-Julie opened the small dashboard compartment with her left hand while steering with her right forearm. A tire gauge, registration sleeve, and flat service screwdriver slid onto the console.
-
-Marcus passed the screwdriver back.
-
-Elias used its tip to lift the gray lock. His hands were still shaking. The module’s status light blinked green every two seconds, transmitting their location through the campus fleet network.
-
-“Not yet,” Julie said.
-
-Elias looked up. “What?”
-
-“Wait until we know the gate mode. If the placard and transponder are opening the service perimeter, killing it here may stop us inside.”
-
-He withdrew the screwdriver but kept one hand on the connector.
-
-The fleet screen flashed.
-
-SECURITY BULLETIN — PRIORITY
-
-A photograph appeared from Julie’s temporary consultant record.
-
-JULIE M. O’DONNELL
- ARMED INSIDER THREAT
- SUSPECTED SABOTAGE OF NATIONAL-SECURITY INFRASTRUCTURE
-
-Below it:
-
-SUBJECT BELIEVED TO HAVE INITIATED MALICIOUS ARGUS SOURCE CORRUPTION AND DELIBERATE FIRE IN BUILDING THREE.
-
-MARCUS L. REED — ARMED ACCOMPLICE
- ELIAS M. THORNE — POSSIBLE HOSTAGE
- RECOVER STOLEN ALUMINUM TELEMETRY CASE
-
-Elias stared at the word HOSTAGE.
-
-The black audit cartridge pressed a square outline against his shirt beside the circuit board that proved he had authenticated every choice himself.
-
-“They made me the victim,” he said.
-
-“For now,” Marcus replied. “Later they’ll use the same record to call you the attacker.”
-
-Julie kept her eyes on the service road.
-
-Six years earlier, the machine had been wrong and the surviving timeline had made her late. This time she had stopped the weapon, preserved the source record, and carried the evidence out in a government case.
-
-The first official account said she had put the lie into Argus herself.
-
-Ahead, the south utility gate stood open beneath white emergency lights. Its inbound lane was reserved for fire response. The outbound barrier remained raised while two contractor pickups cleared the campus. A security officer at the booth was lowering a manual swing arm across the lane beyond them.
-
-“Gate is closing,” Marcus said.
-
-The first pickup passed.
-
-The second accelerated through as the swing arm began moving.
-
-Julie pressed the accelerator.
-
-Her right wrist objected when the service road bent left. She trapped the steering wheel between her forearm and palm, pulled with her left hand, and kept the van inside the narrow lane.
-
-A county engine entered the separated inbound fire lane, lights reflecting across the wet pavement. Campus security could not block that lane. They could block Julie’s.
-
-The officer at the booth saw the fleet bulletin on his terminal and stepped into the outbound lane with one hand raised.
-
-Marcus lowered his window.
-
-“Clear the fire route!” he shouted with the authority of a man who still sounded like a colonel even while bleeding through borrowed coveralls.
-
-The officer hesitated long enough to look at the smoke alarms flashing across Building Three.
-
-Julie did not wait for him to decide.
-
-The swing arm had crossed three quarters of the lane. She steered toward its flexible outer section and struck it at little more than walking speed.
-
-The arm folded against the windshield pillar, scraped along the roof, and snapped free of its pivot. The officer jumped back.
-
-The van cleared the gate at 05:14:36.
-
-Behind them, a security vehicle reached the utility road. Outbound contractor traffic and the broken swing arm stopped it short of the lane.
-
-“Now,” Julie said.
-
-Elias drove the screwdriver beneath the black release and pulled.
-
-The locking connector came free.
-
-The fleet module’s green light died. The dashboard reported FLEET COMMUNICATIONS FAULT, then the contractor route map vanished.
-
-A service radio mounted beneath the dash remained alive, still switched to the county fire-interoperability channel. A dispatcher’s voice broke through the fire traffic.
-
-“All units, intelligence bulletin follows. Primary subject Julie O’Donnell, former Army intelligence officer, considered armed. Suspected deliberate sabotage at Apex Building Three and theft of classified national-security material. Associated white contractor van, Virginia commercial registration—”
-
-Marcus reached for the radio control, then stopped.
-
-Turning it off would not stop the bulletin. It would only make them deaf to it.
-
-The utility road carried them away from the campus into the wet pre-dawn darkness. Building Three’s strobes receded in the mirrors. The aluminum case remained wedged behind Julie’s seat. Elias held the signed recovery cartridge against his chest. Marcus watched the security vehicle clear the gate behind them.
-
-“They have the plate,” he said. “Every camera from the dock to the fence. Pursuit will be on us as soon as they clear the fire lane.”
-
-Julie guided the van onto the first public road with her left hand fixed at the top of the wheel.
-
-No one asked where they were going yet.
-
-Elias pulled the dead transponder module from its clip and held it in his shaking hand while the radio repeated Julie’s name.
-
----
-
-# Chapter 10 - The Capital Connection
-
-Northern Virginia
-05:15 Eastern Daylight Time
-
-The dispatcher repeated the van’s Virginia registration before Julie reached the second intersection.
-
-Rainwater shone across the road in long black bands. Each time the tires crossed one, the steering wheel tugged against her injured wrist. She kept her left hand high on the rim and used her right forearm only when the van tried to wander toward the shoulder.
-
-The fleet screen had gone dark except for the fault message Elias had created by pulling the telematics connector.
-
-FLEET COMMUNICATIONS FAULT
-VEHICLE PCF-27
-
-The failure changed nothing about the white paint, the Potomac Critical Facilities markings, or the temporary Apex placard still fixed inside the windshield.
-
-Behind them, the service radio continued in a voice built to make alarm sound routine.
-
-“Primary subject Julie M. O’Donnell. Former Army intelligence officer. Considered armed. Suspected deliberate sabotage of national-security infrastructure and theft of classified material. Associated vehicle is a white Potomac Critical Facilities maintenance van, fleet identifier PCF-two-seven—”
-
-Elias sat sideways in the cargo opening behind the seats. The dead transponder module lay in his left palm. His other hand pressed the signed recovery cartridge and the administrator-token circuit board against his chest beneath the open edge of his coveralls.
-
-The radio gave Marcus’s name next.
-
-Armed accomplice.
-
-Then Elias’s.
-
-Possible hostage.
-
-He looked down at the dead module as if it had made the accusation.
-
-Marcus watched the side mirror. Blood had dried from the cut above his right ear into the collar of his coveralls. He sat turned toward the window because facing forward forced his bruised ribs against the seat belt. His damaged boot rested flat and useless on the floor.
-
-“Security vehicle is through,” he said.
-
-Julie checked the rearview mirror.
-
-A pair of headlights had cleared the last rise behind them. Too high for a sedan. No visible emergency lights, but the spacing and speed matched the dark Apex unit that had been trapped at the broken gate.
-
-“How far?”
-
-“Two intersections. Maybe less if the light changes for them.”
-
-Julie held forty-five miles an hour.
-
-Marcus looked at her. “That’s the right speed.”
+“If I do this, the record can’t be expunged.”
 
 “I know.”
 
-“A chase gives every camera a reason to remember us.”
+“It can’t be explained as credential replay. The private-key signature includes the biometric release event.”
 
-“I know that too.”
+“I know.”
+
+“They can prosecute me from this screen.”
+
+“Yes.”
+
+Mercer’s team took another step.
+
+Elias looked at the case between Julie’s boots. Then at Marcus, bent around his damaged ribs beside an empty extinguisher, waiting for men with armor and weapons to reach him.
+
+His hand shook hard enough that the tip of his finger moved in a small circle above the glass.
+
+He pressed CONFIRM.
+
+The panel gave a low two-note tone.
+
+EMERGENCY ACCESS COMMITTED
+ AUDIT SEAL WRITTEN
+ GATE RELEASE SEQUENCE ACTIVE
+
+The first locking bolt retracted inside the wall with a metallic impact that Julie felt through the floor.
+
+Then the second.
+
+Then the third.
+
+Six bolts withdrew from alternating sides of the frame, each separated by a deliberate pause. The gate did not move.
+
+“Why isn’t it opening?” Marcus asked.
+
+“Independent power check,” Elias said.
+
+The panel advanced.
+
+LOCK ARRAY CLEAR
+ ACTUATOR POWER CONFIRMED
+ PRESSURE EQUALIZATION ACTIVE
+
+A vent opened above the gate. Cold dry air moved outward across Julie’s face, carrying the faint smell of metal and filtered dust. On the panel, the pressure difference fell one number at a time.
+
+42 Pa.
+
+The shield came forward.
+
+Marcus planted his good boot behind the empty extinguisher and waited.
+
+“Reed,” Mercer said. “Last chance.”
+
+Marcus looked at the shield. “You’ve said that twice.”
+
+The lead operator drove forward.
+
+The extinguisher rolled beneath the shield’s lower edge. It did not knock the operator down. It forced him to shorten his stride and lift the shield just enough to clear the cylinder.
+
+Marcus moved during that adjustment.
+
+He caught the shield’s left rim with both hands and drove it into the inside wall of the corridor. The operator behind it absorbed the impact and kept his feet. Mercer stepped in from the right, using his shoulder to square the shield again.
+
+The electroshock weapon appeared over the opposite edge.
+
+“Left high,” Julie called.
+
+Marcus released the shield and struck the operator’s wrist with his forearm. The cartridge discharged into the armored gate frame. Two barbed probes snapped against the steel and hung there on silver wires, sparking uselessly.
+
+Marcus backed two steps before the shield hit him.
+
+Its upper edge caught the ribs he had bruised on the bridge.
+
+He folded around the impact. The lead operator kept pressure on him, using the shield as a moving wall rather than trying to strike past it. Mercer reached around the edge for Marcus’s right arm.
+
+Marcus turned with the grip instead of fighting it. He pulled Mercer half a step across the shield operator’s path and drove his own shoulder into the shield’s side.
+
+For a moment, all three men occupied the same narrow space.
+
+That was all Marcus needed.
+
+He dropped his weight, twisted free, and retreated behind the armored gate frame.
+
+He did not come away clean. A baton struck the outside of his right thigh as he moved. His torn boot slipped when the heel folded under him. He hit one knee beside Julie, one hand pressed hard against his ribs.
+
+The team recovered its formation immediately.
+
+No one chased him alone.
+
+On the panel, the pressure difference reached zero.
+
+A heavy motor engaged behind the gate.
+
+The two steel slabs shifted backward into their hinge housings by less than an inch. Then they began to pivot inward.
+
+A black seam appeared between them.
+
+Two inches.
+
+Four.
+
+White floor light from inside the enclave cut through the opening.
+
+Too narrow for a hand carrying the case.
+
+Too narrow for a person.
+
+The panel displayed:
+
+ENTRY APERTURE: 102 MM
+ FULL SERVICE OPEN: 44 SECONDS
+
+Marcus looked at the team regrouping six feet away.
+
+“We don’t have forty-four.”
+
+“We don’t need full open,” Julie said.
+
+She studied the gate’s movement. Each slab rotated into a recessed arc inside the enclave. Yellow clearance lines glowed along the threshold. A second line on the panel showed the minimum safe aperture for personnel passage.
+
+560 MM.
+
+The gate would reach it in twenty-one seconds.
+
+Mercer saw the opening and changed the order.
+
+“Advance to the frame. Control Reed. Do not enter the hinge arcs.”
+
+Professional. Specific. He understood the gate as well as Elias did.
+
+Julie moved the aluminum case to her left side and crouched beside Marcus.
+
+“Can you stand?”
+
+“Yes.”
+
+“That wasn’t the question.”
+
+He put his good foot under him. “I can stand once.”
+
+“Make it the useful one.”
+
+The shield drove toward them again.
+
+Marcus rose into it with his left shoulder against the gate frame. He did not try to stop the shield head-on. He let its edge pass him, caught the operator’s forearm when it appeared, and turned the arm into the steel jamb.
+
+The movement cost him. The shield drove across his chest and pinned him long enough for Mercer to seize the back of his coveralls.
+
+Julie saw the next operator preparing to come around the shield’s left side.
+
+“Two behind,” she said. “Second one low.”
+
+Marcus stamped backward with the boot whose heel still held. His sole struck the lead operator’s shin, breaking the pressure for an instant. He tore free of Mercer’s grip and fell inside the depth of the gate frame.
+
+The shield followed.
+
+Its top corner crossed the yellow clearance line.
+
+A warning sounded, and the gate stopped.
+
+HINGE ARC OBSTRUCTION
+ ENTRY CYCLE HOLD
+
+The operator pulled the shield clear. Two seconds later, the slabs resumed opening, but the entire front rank had been forced to stop and reset outside the frame.
+
+Julie understood the yellow lines now. They were not decoration. They marked the volume the armored leaves required to move. The team could control the corridor or enter the frame. It could not do both while carrying the shield.
+
+“Make them choose,” she told Marcus. “Shield or threshold.”
+
+The aperture passed three hundred millimeters.
+
+On the inner face of the right slab, a protected green paddle came into view.
+
+EMERGENCY CYCLE CONTROL
+
+Julie reached through the gap. Pain flared through her injured wrist when the moving steel forced her arm sideways. She got two fingers beneath the cover and flipped it open.
+
+“Close control,” she said. “Once we’re through, I can reverse the cycle.”
+
+“Not before,” Elias warned. “If it senses anyone in the threshold, it holds.”
+
+Julie looked at the shield.
 

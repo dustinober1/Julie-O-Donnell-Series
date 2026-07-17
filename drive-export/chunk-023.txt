@@ -1,379 +1,325 @@
-“The session can show open before the full chain loads,” he said. “The Northbridge certificate presents first. The external device may answer several seconds later. If you capture too early, you get Northbridge talking to an unidentified trust fingerprint. If you wait until the acknowledgment completes, the buffer may begin purging.”
+“The commit is suspended.”
 
-“You can tell the difference,” Julie said.
+“Because they have altered a strategic system.”
 
-“I know the state sequence.”
+“They used an authenticated recovery process.”
 
-“I can write it down.”
+His hand stopped above the panel.
 
-“No.” The word came quietly. “You can memorize the labels. You will not know which delay is normal and which means the signer failed to present. The current software may not use the same colors or wording. The audit state is in the event order.”
+It was the first time Sarah had said the fact aloud.
 
-Marcus looked from Elias to Julie. “Remote instructions are out.”
+Vance entered his executive credential. The panel offered only the systems the quarantine had been required to preserve: fire detection, smoke control, emergency power, and clean-agent suppression.
 
-Elias’s bandaged finger pressed against the edge of the circuit board.
+He selected the production enclave.
 
-Julie said, “You stay with Marcus.”
+Sarah stood. “The room is occupied.”
 
-His eyes lifted.
+“I am aware.”
 
-“I can take the module. You tell me the sequence now.”
+“Inert-agent discharge cannot be used for personnel containment.”
 
-“You just heard why that will not work.”
+“This is not personnel containment.”
 
-“I heard why it is less reliable.”
+The answer was quiet.
 
-“It may be useless.”
+He selected PRE-DISCHARGE ARM.
 
-“The alert still describes you as a hostage. The next camera that records you entering a Washington secure facility beside me will end that protection.”
+The panel rejected it.
 
-“I know.”
+OCCUPIED-ROOM INTERLOCK ACTIVE
 
-“You may be arrested there. Your board may be seized. The incident capture may incriminate you again. You may not be able to walk back out on that hip.”
+Sarah looked at him. “That is the system working.”
 
-“I know.”
+Vance opened the executive override field.
 
-“I cannot promise I can get you out.”
+“Director.”
 
-Elias looked down at the board. The secure element that contradicted Vance’s deployment record sat beneath his thumb. His right hand trembled once and stopped when he closed it around the edge.
+“Telemetry recovery has priority.”
 
-Julie waited.
+“Discharge can incapacitate or kill everyone inside.”
 
-“You can refuse,” she said.
+“Then Mercer should recover the case promptly.”
 
-“I know that too.”
+“The gate will not open before the room charges.”
 
-“Then refuse if that is your decision.”
+Vance entered the override.
 
-The scanner hissed. A truck changed gears somewhere beyond the alley. Marcus did not interrupt.
+OCCUPIED-ROOM STATUS: OVERRIDDEN
+ EXECUTIVE AUTHORITY: APX-DIR-0019
 
-Elias drew the blanket tighter around his shoulders, then let it fall behind him onto the chair.
+Sarah understood the order now without language selected to survive review.
 
-“You will not recognize the complete signer state,” he said. “And you will not know whether the incident export has preserved the event order until it seals.”
+Vance pressed ARM.
 
-“That is an explanation.”
+She did not reach for him.
 
-“I am going.”
+She keyed the containment channel instead.
 
-His voice remained frightened. He did not make it louder to disguise that.
+“Mercer, suspend active pressure on the gate. Establish stand-off and maintain containment.”
 
-Julie looked at him for another second. “Voluntarily?”
+Mercer answered after a short pause. “Reason?”
 
-“Yes.”
+Sarah looked at the environmental panel.
 
-She opened the custody log to the next line and wrote the time.
+“Suppression pre-discharge is active.”
 
-Marcus watched her record it. “Now define everyone else.”
+Another pause.
 
-Julie put down the pen.
+“Occupied?” Mercer asked.
 
-“You keep the originals.”
+Vance watched her.
 
-“The case stays outside the target?”
+Sarah kept her voice level. “Maintain stand-off.”
 
-“The case never enters the building. Neither does the recovery cartridge or the custody log.”
+It was not an answer.
 
-“And me?”
+It was still an order.
 
-“You stay with them and the van.”
+Production Enclave
+ 05:01 Eastern Daylight Time
 
-Marcus’s expression hardened. “I can still control an entrance.”
+The gate-override pump stopped outside.
 
-“You cannot run, your balance is unreliable, and a deep breath is an argument. I am not putting you in a controlled corridor because you dislike sitting outside.”
+In the sudden quiet, Julie heard valves shifting in the ceiling.
 
-“I can move far enough to pull you through a door.”
+The recovery console displayed the final warning.
 
-“Once.”
+INERT AGENT RELEASE ARMED
+ OCCUPIED-ROOM STATUS: OVERRIDDEN
+ DISCHARGE IN 01:30
 
-“That may be the useful one.”
+A protected red control opened beside the gate.
 
-Julie met his eyes. “The useful one is protecting the only evidence we already have.”
+MANUAL SUPPRESSION ABORT
 
-The words landed harder than an order would have. The aluminum case stood between them, intact because Marcus had refused to surrender it in Reston and carried it through every barrier after.
+Julie crossed the room. Her damaged wrist struck a cabinet when the torn heel of Marcus’s boot caught her ankle, but she kept her feet. She lifted the cover with her left hand and drove the abort control down.
 
-He looked away first.
+The display changed.
 
-“Where is the van?” he asked.
+MANUAL ABORT DISABLED
+ EXTERNAL PHYSICAL RESET REQUIRED
 
-“Close enough for extraction. Not at the service door.”
+“Again,” Marcus said.
 
-“It is a known vehicle.”
+“It’s locked out.”
 
-“Yes.”
+Elias looked from the nozzles to the sealed gate. “When it releases, the oxygen concentration drops. We may stay conscious for part of it. That does not mean we can breathe safely.”
 
-“If a plate reader catches it in Washington, response moves toward Northbridge whether they know the connection or not.”
+The countdown reached 01:26.
 
-“We use it because it is what we have. We enter through ordinary contractor traffic, park off the direct approach, and accept that every minute after the first camera is borrowed.”
+Julie released the control and listened.
 
-“Who drives?”
+The containment team waited outside. Vance had stopped trying to open the room because he no longer needed the door.
 
-“I do.”
+Above them, the suppression manifold began to pressurize.
 
-“With that wrist.”
+---
 
-“With my left hand and the wheel braced against my forearm. You cannot work the pedals reliably.”
-
-Marcus did not argue with the leg. “Route?”
-
-“Rear industrial exit. One short diversion before we turn east. No toll road. Ordinary speed. Arlington Boulevard, then the Roosevelt Bridge unless traffic forces another choice.”
-
-“Final approach?”
-
-“You direct it from memory. We do not circle the target. We do not search for a perfect camera gap that does not exist.”
-
-“Exit?”
-
-“Same service route if it remains open. Ordinary fire stair to the public lobby if it does not. No deeper movement through Northbridge.”
-
-“And if the service intake refuses?”
-
-“We leave.”
-
-“If the signer never appears?”
-
-“We leave.”
-
-“If the message proves less than expected?”
-
-“We preserve exactly what it proves and leave.”
-
-“If police arrive?”
-
-Julie looked at both men. “We do not turn honest officers acting on a false alert into casualties. No firearms. No hostage-taking. No ramming a way out. If the only exit requires hurting someone who is not trying to kill us, the operation ends.”
-
-Marcus studied her. “You are allowing arrest.”
-
-“I am refusing murder as an escape plan.”
-
-“And Northbridge security?”
-
-“We do not attack them for doing their jobs. We use the service process. If deception fails, we disengage.”
-
-Elias looked toward the workstation. “The local port is inside the secure domain.”
-
-“Then we get there without making civilians pay for our evidence.”
-
-Marcus continued testing the edges. “Search scope?”
-
-“The live session only. No desks. No personnel files. No Northbridge archive. No attempt to take the communications controller.”
-
-“Sterling?”
-
-“We are not going there to find him.”
-
-“If he is there?”
-
-“We do not touch him.”
-
-Marcus nodded once.
-
-“Destruction?”
-
-“None. The suite remains operational.”
-
-“Disclosure?”
-
-“No upload. No public release. We capture, preserve, and leave.”
-
-“What time do I pull you?”
-
-“Seven-ten.”
-
-Elias looked at the clock. “The buffer should be gone by then.”
-
-“The extra time is for us to get out, not to analyze it.”
-
-“And if you are thirty seconds from sealing the export?” Marcus asked.
-
-“Seven-ten.”
-
-He held her gaze, measuring whether she believed her own abort condition.
-
-Julie did. She did not know whether she would obey it. Command required setting the line before fear and proximity made every additional second feel necessary.
-
-Marcus shifted the cold pack aside. “Civilian load?”
-
-“Landlord security, cleaners, early policy staff, whoever Northbridge brought in for the regional crisis. We assume every person we see knows nothing about Payload Eighty-Eight.”
-
-“That includes the person carrying the signer.”
-
-“Yes.”
-
-Elias said, “Even if the certificate belongs to Sterling’s office?”
-
-“Even then. A certificate is evidence. It is not permission to decide what the person holding it deserves.”
-
-Silence followed.
-
-Marcus reached for the paper objective and turned it so he could read it again.
-
-“Then we need a way to capture without risking the originals,” he said.
-
-Julie opened the locked storage cabinet.
-
-The derivative module remained inside its numbered antistatic envelope. The sealed partition held the recovery record, restored label map, provenance decision, Payload 88 index, checksum history, and the critical bridge fragments. It did not hold the bulk raw telemetry or the sensitive K-17 geography.
-
-Elias examined the module through the clear side of the envelope. “It supports two separately sealed partitions.”
-
-“You are sure?” Julie asked.
-
-“The enclosure is standard field-evidence media. Partition one seals against its own manifest. Partition two can remain blank without changing the first.”
-
-“Can the Northbridge audit port write to it?”
-
-“If the controller still follows the 4.2 profile. The incident interface accepts encrypted removable media and writes a self-contained session package. It should not care what is on the other partition.”
-
-“Should.”
-
-“Yes.”
-
-Julie returned to the workstation.
-
-At 06:37:02, she broke the numbered envelope seal and recorded the action. Elias mounted the module through the hardware write blocker and verified the derivative partition. Its hashes matched the values entered in the paper log.
-
-He created no new copy.
-
-Instead, he used the module’s physical management utility to expose the unused second partition. The first remained hardware-locked and read-only. The second appeared as an empty encrypted incident volume with a separate serial and no files.
-
-PARTITION A: SEALED DERIVATIVE
- INTEGRITY: VERIFIED
- WRITE STATE: LOCKED
-
-PARTITION B: INCIDENT CAPTURE
- CONTENT: EMPTY
- WRITE STATE: ARMED ON LOCAL DEVICE
-
-Julie recorded both states, the module serial, the wall-clock time, and the fact that the workstation clock remained wrong by eleven days. She had Elias verify Partition A again after the change.
-
-MATCH.
-
-Only then did she remove the module and seal it inside a fresh antistatic sleeve. The storage cabinet had no second numbered evidence envelope. She closed the sleeve with tamper tape from the medical cabinet and wrote the module serial across the seam.
-
-“The sealed copy travels into Northbridge,” Marcus said.
-
-“The originals stay with you.”
-
-“If you lose the module?”
-
-“We lose the limited duplicate and whatever we capture. The case, board record, and recovery cartridge remain.”
-
-“The board goes inside,” he said.
-
-Elias closed his hand around it. “The board stays with me.”
-
-Julie wrote the exception into the log. The board was both original evidence and the only reliable proof of the distinction between Elias’s replayed identity and his voluntary emergency use. It had remained in his custody through every documented step. Taking it away now would not protect the chain. It would create another transfer and separate Elias from the evidence bound to his identity.
-
-She transferred the aluminum case to Marcus at 06:39:16. He checked both latches without opening them and signed beneath the serial. The display remained green. The 136 sealed files remained sealed; the 47 incomplete files remained incomplete; the 311 excluded files remained absent.
-
-The tamper-bagged recovery cartridge went into the waterproof document folder with the custody log. Marcus accepted both and signed again. Julie added the dead fleet transponder in its antistatic bag as an ancillary item. The originals would ride together without being connected to anything.
-
-No evidence remained in the cutout’s storage cabinet.
+# Chapter 9 - The Life-Safety Override
 
 Apex Building Three
- Reston, Virginia
- 06:39 Eastern Daylight Time
+Reston, Virginia
+05:01 Eastern Daylight Time
 
-Sarah Chen received the capture directive and the lethal-force directive forty-three seconds apart.
+The air tightened against Julie’s ears.
 
-The first came through the joint incident desk established after the Building Three fire. It carried federal and county routing numbers, medical instructions, and language selected by people who expected their decisions to be reviewed.
+A valve struck open above the cabinets. Another answered farther down the ceiling, and the low warning tone beside the gate changed from a steady pulse to two descending notes. Cooling air that had moved almost without sound began drawing toward the ceiling nozzles in uneven currents.
 
-APPREHEND IF LOCATED.
- SEPARATE SUBJECTS.
- SECURE CLASSIFIED MATERIAL.
- PRESERVE LIFE AND EVIDENCE.
+The suppression display showed:
 
-The second appeared on the Apex protective-services channel under Arthur Vance’s executive authority.
+INERT AGENT RELEASE ARMED
+ OCCUPIED-ROOM STATUS: OVERRIDDEN
+ DISCHARGE IN 01:23
 
-CONTINUING HOSTILE SABOTAGE TEAM.
- PREVENT TRANSFER OF TELEMETRY MATERIAL.
- DEADLY FORCE AUTHORIZED IF LOSS OF MATERIAL IS IMMINENT.
+Julie kept her left hand beneath the raised cover of the abort control and read everything around it before touching anything else.
 
-Sarah read the last condition twice.
+MANUAL ABORT DISABLED
+ EXTERNAL PHYSICAL RESET REQUIRED
 
-Deadly force was justified by an immediate threat to life, not by the possibility that evidence might leave the company’s control. Vance had replaced the legal standard with an operational preference and sent it around her command chain.
+A small contact indicator beneath the control remained lit. The switch had registered her action; the hardened incident controller had rejected it downstream. A smaller line identified the reset as a keyed device in the manifold service corridor outside the armored gate.
 
-Daniel Mercer’s unit acknowledgment remained pending.
+Below the message, a printed instruction plate showed two parallel control paths. The detector loops fed Apex’s programmable suppression controller on one side and, through separate supervised contacts, a red box labeled HARDWIRED LIFE-SAFETY RELAY on the other.
 
-Sarah opened the voice channel. “Mercer.”
+A red metal conduit left that box and disappeared directly into the gate frame.
 
-“Here.”
+Vance had made the room empty in software. The physical detectors still had a path to the locks.
 
-“You received the executive addendum?”
+“Elias.”
+
+He was still at the recovery console, one hand braced on its edge to keep weight off his injured hip. “I see it.”
+
+“What does the red path do?”
+
+He looked from the diagram to the environmental display. Fear made him speak too quickly, but it did not make him guess.
+
+“Fire alarm, smoke control, egress. It doesn’t share the incident controller. It can remove a security hold from the gate and release protected doors outside the enclave.”
+
+“Can Vance disable it?”
+
+“Not through the same channel. The relay is supervised point to point. A remote bypass would report as a life-safety fault outside the security network.”
+
+“Can it stop suppression?” Marcus asked.
+
+He had pulled himself upright against a hardened cabinet near the gate. His damaged boot rested at an angle, heel peeled away from the sole. He watched the seam between the steel leaves and the status strip beside it.
+
+“No,” Elias said. “The release latch is already set. Life safety can let us out. It cannot cancel what he armed.”
+
+The display reached 01:14.
+
+Julie followed the red conduit with her eyes. It entered a narrow fire-interface cabinet beside the gate, separate from the protected abort control. Three hardwired indicators were dark beneath a clear cover.
+
+ZONE H-3 — POWER DISTRIBUTION HEAT
+ ZONE S-4 — RECOVERY AISLE SMOKE
+ VERIFIED FIRE — EGRESS RELAY
+
+“Two zones,” she said.
+
+Elias nodded. “Independent confirmation. A single detector gives prealarm. A test input or a detector fault won’t release the gate. Heat in the distribution bay and smoke in the recovery aisle will.”
+
+“Real heat and real smoke.”
 
 “Yes.”
 
-“It does not alter my rules of force. Capture priority. Less-lethal where feasible. Firearms only for an identified deadly threat with a clear background.”
+Marcus glanced toward the gate. “And when it opens, Mercer will be on the other side.”
 
-A pause. “Director Vance’s office marked telemetry loss as a national-security emergency.”
+“No pump,” Julie said.
 
-“Telemetry does not shoot back.”
+The hydraulic strain that had worked against the six bolts moments earlier was gone. Beyond the steel, she heard only one boot scrape and a radio click farther back than before.
 
-Another pause, shorter this time. “Understood.”
+“They cleared the threshold,” Marcus said. “Not the level.”
 
-Sarah did not order him to stop looking. She did not remove Julie’s alert or tell any agency that the subjects were harmless. Julie had breached a production enclave, removed classified material, triggered a fire, and fled in a stolen contractor vehicle. Sarah still intended to put all three into controlled custody.
+Julie crossed to the recovery console. The aluminum case remained open beneath it, the evidence drive seated in its foam cradle and the shielded cable locked into the protected forensic port. She could not carry it until the read-only session was closed.
 
-She also intended to know whose order Mercer followed when he found them.
+“What preserves the sealed recovery record if we leave?” she asked.
 
-The traffic desk had no current plate hit for PCF-27. The last confirmed image placed it inside a cluster of contractor vehicles before the route split across several private camera systems. Analysts were requesting footage one owner at a time. A separate search had begun against retired technical-support leases associated with Marcus Reed’s former assignments. The first response was not due for twelve minutes.
+“The enclave log.”
 
-No system had found the cutout yet.
+“Inside the enclave.”
 
-The media pane on Sarah’s console updated.
+Elias looked at the lower service panel. “There should be a physical incident recorder. Post-event investigators use it if the enclave loses network and power.”
 
-A prepared statement from Senator Sterling’s office had entered the morning news pool. Its summary described Julie O’Donnell as the suspected architect of a deliberate Argus corruption attempt.
+“Should?”
 
-Sarah opened her own incident report.
+“I have never removed one during an active suppression countdown.”
 
-It said suspected sabotage.
+“Find it.”
 
-The technical source review had not assigned authorship. The enclave record had not been recovered. No federal examiner had concluded who introduced the poisoned data.
+Julie brought up the media controls. The display showed the case still mounted READ-ONLY and the reconciliation workspace already sealed.
 
-The public statement had reached a conclusion before the investigation reached the evidence.
+CLOSE INCIDENT INPUT SESSION?
 
-Sarah marked the time, preserved both directives in the incident file, and sent the regional lookout again.
+She selected YES.
 
-She did not warn Julie.
+The console began committing the final media state to the case manifest. No gray wheel appeared. Instead, five lines checked themselves in sequence.
 
-Decommissioned Communications Cutout
- Fairfax County, Virginia
- 06:42 Eastern Daylight Time
+READ-ONLY BOUNDARY CONFIRMED
+ SEALED BLOCK COUNT CONFIRMED: 136
+ INCOMPLETE BLOCK COUNT RECORDED: 47
+ EXCLUDED BLOCK COUNT RECORDED: 311
+ RECOVERY SESSION REFERENCE ATTACHED
 
-The work order came from a carbon-copy service book in PCF-27’s glove compartment.
+The countdown above the gate reached 00:59.
 
-Potomac Critical Facilities used the forms for jobs that began before a dispatcher entered them into the fleet system. The paper carried the company name, the van identifier, and boxes for a tenant code, service site, reported fault, and authorization number.
+Marcus pushed away from the cabinet and came to the case. The first step on his right leg almost failed. He caught the console with one forearm, waited for the muscle in his thigh to stop jumping, then crouched without bending his ribs more than necessary.
 
-The form was genuine.
+“Tell me when.”
 
-The call was not.
+The media display changed.
 
-Elias dictated the tenant identifier from the Northbridge certificate. Julie filled the boxes with her left hand, the letters slanting the wrong direction whenever she tried to write too quickly.
+INCIDENT INPUT UNMOUNTED
+ SAFE TO DISCONNECT
 
-SITE: FENWICK ANNEX / WSS-4
- TENANT: NORTHBRIDGE STRATEGIC INITIATIVES
- CALL TYPE: LOCAL TRUST-CHAIN DIAGNOSTIC
- REPORTED CONDITION: PRE-SESSION AUDIT BUFFER RETENTION FAULT
- SERVICE WINDOW: 06:45–07:20
+“Now.”
 
-For the authorization number, Elias used the Apex service format embedded in the controller policy and a sequence derived from the tenant certificate.
+Marcus released the locking collar with both thumbs. Julie held the socket steady with her left hand while he drew the connector straight out. The cable came free without resistance.
 
-“It will pass a casual glance,” he said. “It may pass the landlord intake field because the number has the right length and checksum.”
+She coiled it into the lid compartment. Her right hand could guide the loop but not tighten it. Marcus pressed the retaining strap closed.
 
-“Northbridge verification?” Marcus asked.
+Elias had opened a recessed panel beneath the recovery console. Inside, a black metal cartridge sat behind a tamper strip and a mechanical release lever. Its face carried no capacity marking, only a serial number and three green indicators.
 
-“Fails. There is no live ticket.”
+LOCAL HARDWARE SIGNATURE
+ RECOVERY RECORD SEALED
+ PHYSICAL REMOVAL AVAILABLE
 
-“Then say that on the plan.”
+“That is it,” he said.
 
-Julie did.
+“What is on it?” Julie asked.
 
-The work order could begin the service workflow. It could not complete it.
+“Only the incident chain. My emergency access, the restored Payload Eighty-Eight labels, the packet boundary you approved, the provenance failure, the suspended external commit, and the mandatory-review result.”
 
-They cleaned what they could.
+“Not the full production archive.”
 
-Julie washed dried suppressant residue from her face and retaped the wrist support beneath the sleeve of her gray coveralls. The fabric still carried a dark smear at one knee and the RANDALL patch above the pocket. She left it. A perfect uniform would draw as much attention as a damaged one.
+“No.”
 
-Elias found a Potomac rain shell in the van’s cargo rack. It was too large and smelled of rubber and old coffee. It covered his wrinkled office shirt and the outline of the cartridge no longer carried there. His hip remained stiff. His first three steps across the bay shortened progressively before he stopped and forced the leg straight. When he turned too quickly toward the workbench, the room shifted and he steadied himself against it until the dizziness passed.
+“Release it.”
 
-Julie changed the dressing on his cut finger. The wound had not reopened deeply, but the fingertip remained clumsy. He could seat the incident module if he braced his hand. He could not be expected to work quickly while someone pulled him away from the port.
+Elias put his cut right index finger against the lever and could not depress the spring catch. The finger slipped, leaving a dark smear on the metal.
 
-Marcus’s scalp dressing had bled through at one edge. Julie removed it, cleaned the skin again, and applied fresh pressure. He closed his eyes while she worked but answered every orientation question correctly. The swelling in his thigh had spread below the wrap. The taped heel of his boot was beginning to separate again. His ribs still stopped a full breath.
+“Use your left.”
+
+“The catch and lever have to move together.”
+
+The display showed 00:46.
+
+Julie reached toward it, then stopped. She did not know the mechanism. Elias did.
+
+He changed his grip, braced the heel of his right hand against the console, and used his left thumbnail to hold the recessed catch. His hands shook hard enough that the cartridge rattled in its guides.
+
+The catch moved.
+
+He pulled the lever.
+
+The tamper strip divided cleanly along a numbered seam. The cartridge extended two inches.
+
+Elias took it and slid it into the inside pocket of his shirt beside the narrow administrator-token circuit board. He pressed both objects flat against his chest as if their weight might pull him over.
+
+The cartridge preserved what they had stopped. It did nothing for the five or six people still moving toward Relay K-17.
+
+Julie closed the case. The left latch seated. The right resisted when she pushed with her damaged hand. Pain traveled into her forearm and her grip opened involuntarily.
+
+Marcus reached across and drove the latch down with the heel of his hand.
+
+“Carry left,” he said.
+
+“I know.”
+
+The display reached 00:39.
+
+Elias brought up the fire-zone matrix. A small plan of the enclave appeared, divided into two colored rectangles. H-3 covered a redundant power cabinet on the wall opposite the recovery console. S-4 covered the console aisle and the return-air sampling tube above it.
+
+“The B-side distribution unit feeds the empty expansion bay,” he said. “The recovery console is on A-side. The evidence interface is isolated from both.”
+
+Julie crossed to the cabinet and read its labels.
+
+PDU-B
+ REDUNDANT SERVICE FEED
+ EXPANSION BAY / MAINTENANCE LOAD BANK
+
+A protected selector beneath the service cover offered OFF, NOMINAL TEST, and OVERLOAD TEST — ATTENDED.
+
+Beside it, a warning stated that the load bank required its vent cover and active cooling.
+
+Julie looked at the perforated blanking plate over the exhaust. Four quarter-turn fasteners held it in place.
+
+“Does overload trip the branch?” she asked.
+
+“At one hundred twenty-five percent, eventually. The load elements get hot first. It is for thermal inspection.”
+
+“How hot?”
+
+“Hot enough to fail if the vent is blocked.”
+
+“That is not a number.”
+
+“I did not commission the cabinet.”
+
+Marcus had already moved beside her. “What comes off?”
+
+“The plate.” Julie pointed to the fasteners. “Keep it. We need the airflow.”
+
+He turned the first fastener with his fingertips. The second resisted. He wedged the edge of his damaged boot beneath the plate and used the heel of his hand on the fastener. The movement pulled across his ribs. His breath stopped, then returned in a shallow line.
+
+The plate came free.
+
+Behind it, a bank of ceramic load elements sat inside a metal duct. Cooling air moved across them toward a grated exhaust near the ceiling. A cable bundle serving the empty expansion cabinet ran beside the duct in a gray polymer sleeve.
 

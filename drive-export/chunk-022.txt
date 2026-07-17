@@ -1,334 +1,362 @@
+Each moved into a separate column. The raw observations remained white. Reconstructed packets carrying the eleven-point-two-second cadence changed to amber. Payload 88’s repeated carrier structure turned red as the restored labels attached to it.
 
-“Then the link becomes much harder to explain away,” Julie said. “If it contains upstream direction from Sterling’s network, we may have more. We cannot assume it will.”
+VAL-088
+ SYNTHETIC SOURCE
+ OPERATIONAL USE PROHIBITED
 
-Elias looked at the wall clock.
+The source-correction object resisted for less than a second, then its lineage opened beneath it.
 
-“Fifty minutes.”
+PAK_RELAY_17A_SOURCE_CORRECTION
+ DERIVED FROM RESTRICTED VALIDATION OBJECT
+ EXECUTIVE WAIVER: INSUFFICIENT FOR SOURCE RECLASSIFICATION
 
-No one said what reaching the live buffer would require.
+The clock showed 00:04.
 
-That belonged to the next decision, and they had not made it.
+The validated-source declaration flickered.
 
-At 06:20, Julie sealed the paper log’s first page with all three signatures.
+SOURCE INTEGRITY: VERIFIED
 
-Elias signed left-handed because the dressing on his right index made the pen slip. Beneath his name, he added one sentence in uneven block letters.
+became
 
-I PARTICIPATED VOLUNTARILY IN THE EMERGENCY ACCESS, RECONCILIATION, RECORD REMOVAL, AND THIS REVIEW.
+SOURCE INTEGRITY: UNDER REVIEW
 
-He looked at Julie after he finished. “That can still prosecute me.”
+The counter-battery product remained armed.
 
-“Yes.”
+“Why hasn’t it suspended?” Marcus asked.
 
-He capped the pen. “Leave it.”
+“The cached conclusion,” Elias said. “It has to walk the dependency chain.”
 
-Marcus signed last.
+Three seconds.
 
-The scanner in the next room carried a new bulletin. The van’s registration had entered a regional lookout, and the subject alert had been relayed nationally. No confirmed recovery had been announced. No location had been attached to them yet.
+The model assumptions began losing support. Vehicle tracks that had appeared independent collapsed onto identical geolocation curves. Thermal clusters separated into repeated copies of the same six signatures. Terrain compensation revealed two projected movements passing through rock.
 
-Yet.
+Two seconds.
 
-Julie closed the aluminum case and checked both latches. The 136 sealed files remained primary. The 47 incomplete files remained incomplete. The 311 excluded files remained absent. The ninth checksum remained unexplained beyond its role in the post-archive object. The raw K-17 observations remained sensitive and unresolved.
+The 99.8 percent confidence value changed to 63.4.
 
-The administrator-token board returned to Elias.
+Then 21.7.
 
-The signed recovery cartridge went into a tamper bag beneath Julie’s name in the custody log.
+Then a dash.
 
-The limited duplicate remained separate in the locked storage cabinet.
+One second.
 
-They had enough to accuse Arthur Vance of authorizing the Payload 88 bridge.
+The external queue reached 00:00.
 
-They had enough to show a Northbridge endpoint in the operational chain and a second synchronization scheduled for 07:08.
+For one terrible instant, nothing on the release display changed.
 
-They did not have Sterling’s command, the contents of the Northbridge communications, the identity of the field team’s sponsor, or proof of what had happened at Relay K-17 since the last sensor contact.
+Then the counter-battery support product turned gray.
 
-Marcus read the summary Julie had written.
+EXTERNAL COMMIT SUSPENDED
+ SOURCE PROVENANCE INVALID
+ MANDATORY HUMAN REVIEW
 
-“We take this to an inspector general.”
+The volatile sanitization clock continued.
 
-“The raw case exposes military collection and active sensor locations,” Julie said.
+00:13.
 
-“Then the cartridge.”
+Elias selected SEAL RECOVERY RECORD.
 
-“Classified incident record carried out of a protected facility by three people already named in a sabotage alert.”
+The system copied the disputed chain, restored label map, and reconciliation result into the enclave’s immutable incident log.
 
-“The duplicate omits the raw telemetry.”
+RECOVERY RECORD SEALED
+ SANITIZATION EXCLUSION APPLIED
 
-“It also omits context Apex will demand. Vance’s certificate proves his authority. It does not prove who directed him. Northbridge’s certificate proves a legitimate contractor endpoint participated. It does not reveal the message.”
+The purge reached zero.
 
-Marcus looked toward the sealed garage. “An honest official can understand that.”
+Volatile workspace entries disappeared around the sealed record, leaving the evidence they had selected intact.
 
-“After detaining us, separating us, and taking every original into custody.”
+Marcus lowered his head against the cabinet.
 
-“That is procedure.”
+“Tell me the package didn’t leave.”
 
-“Yes.” Julie met his eyes. “It does not require corruption to give Vance time. The first recipient will have an armed-insider bulletin, classified material, a damaged custody path, and three injured fugitives. Securing us will come before understanding us.”
+“The external release is suspended,” Julie said.
 
-Elias pulled the blanket tighter. “And Apex will provide the explanation while we sit in separate rooms.”
+“And the guns?”
 
-“A public dump?” Marcus asked.
+“Someone still has to decide.”
 
-“Reveals sensors, collection methods, and troop locations. It could put people in danger and make the files look exactly like stolen material used in an attack.”
+Forward Post Arjun
+ Kashmir
+ 14:29 Indian Standard Time
 
-“The press?”
+The first visible change was duplication.
 
-“Same problem with less secure handling.”
+Major Sharma watched one red artillery track divide into two identical tracks occupying the same road six hundred meters apart. A thermal cluster at the edge of Sector Zebra-Nine separated into three groups, each carrying the same internal spacing and temperature sequence.
 
-Marcus looked at the 07:08 entry.
+The display tried to reconcile them.
 
-“What we have can survive a technical examination,” Julie said. “It may not survive the first hostile explanation. The live buffer and signing chain might.”
+It could not.
 
-“Might.”
+SOURCE INTEGRITY REVIEW ACTIVE
 
-“Yes.”
+“Ma’am,” Qureshi said.
 
-The battery-backed clock advanced to 06:25.
+“I see it.”
 
-Outside the closed bay, a truck passed through the alley without slowing. Its tires hissed over wet pavement and faded toward the commercial street.
+The written execution order lay beside his hand. The local firing clock showed ten seconds to the prepared salvo window.
 
-Marcus listened until the sound was gone.
+Argus’s confidence fell from 99.8 percent to 63.4.
 
-Then he looked at Julie.
+The movement model fractured. One projected battery crossed a ridge without slowing. Another occupied two coordinates at once. Uncertainty bands that had been absent from the original assessment returned around every track until the red symbols blurred across half the sector.
 
-“Who do we trust?”
+Confidence fell again.
 
-Julie looked at the sealed case, Elias’s bandaged hand, and the blood beginning to show through the edge of Marcus’s dressing.
+21.7 percent.
 
-“No one yet.”
+Then the number disappeared.
 
----
+SOURCE PROVENANCE: VALIDATION-DERIVED
+ SYNTHETIC COMPONENT DETECTED
+ COUNTER-BATTERY SUPPORT: INVALID
 
-# Chapter 11 - Going Offensive
+The firing clock showed six seconds.
 
-Decommissioned Communications Cutout
- Fairfax County, Virginia
- 06:25 Eastern Daylight Time
+Northern Command came onto the line.
 
-The battery-backed clock advanced to 06:25:11.
+“Arjun, execute.”
 
-No one moved.
+Sharma keyed the battery net.
 
-Static breathed through the analog scanner. One fluorescent tube above the equipment table flickered at an interval too irregular to count. Beyond the wall, PCF-27 remained inside the service bay with its known plate, white contractor paint, and disconnected fleet module. The van was hidden from the alley. Nothing else about it had disappeared.
+“All batteries, hold fire. Hold fire.”
 
-Marcus sat with his right leg extended beneath the table. Blood had begun to show through the lower edge of the dressing above his ear, a narrow dark line entering the gray at his temple. The cold pack around his thigh had gone soft. Cloth tape held the split heel of his boot in rough alignment, not enough to make the foot reliable. Each breath lifted only the upper part of his chest.
+Qureshi relayed beside her.
 
-Elias still wore the wool blanket around his shoulders. His bandaged index finger rested against the administrator-token board in his lap as if contact alone could keep him from losing it.
+“Abort mission Zebra-Nine. Abort. Safe weapons and clear the digital fire plan.”
 
-Julie’s wrapped wrist lay against her body. The rigid plastic strip beneath the elastic had reduced the movement and taken most of the use of her right hand with it. The aluminum case stood closed at the end of the table. The tamper-bagged recovery cartridge and the paper custody log lay beside it in the order she had recorded them. The limited derivative remained sealed inside the locked storage cabinet.
+The clock showed four.
 
-Forty-two minutes and forty-nine seconds remained before the Northbridge window.
+A battery commander answered first.
 
-Marcus looked at the clock. “Then what?”
+“One holding. Safing.”
 
-Julie heard the question beneath the question. If there was no recipient they could reach now, what did the word yet require them to do?
+Then another.
 
-“We stop looking for someone to hand this to before seven-oh-eight,” she said.
+“Two holding.”
 
-Elias’s gaze lifted. “That sounds very much like deciding no one is honest.”
+The third response broke beneath static.
 
-“It isn’t.” Julie pulled the paper summary toward her with her left hand. “An inspector general could be honest. FBI counterintelligence could be honest. The first officers who stop that van could be doing exactly what they should.”
+Sharma pressed the transmit key harder.
 
-“Detain us,” Marcus said.
+“Three, confirm abort.”
 
-“Yes. Separate us. Secure the case. Put Elias under protective custody because the alert calls him a hostage. Treat you as an armed accomplice and me as the person who corrupted Argus.”
+Two seconds.
 
-Marcus’s mouth tightened at the word armed. They possessed no firearm. The bulletin did not need one to exist.
+Qureshi struck the local control and pulled the staged target package from the execution channel. The fire plan changed from red to amber.
 
-Julie continued. “Then someone finds a cleared technical team. Someone determines jurisdiction. Someone asks Apex for the system record. Vance gets to explain every file before anyone compares the certificate chains.”
+One second.
 
-“The inspector general could order a hold,” Marcus said.
+The third battery answered.
 
-“After intake. After authentication. After they know which inspector general owns the program. Northbridge’s synchronization will be gone before the first custody receipt is signed.”
+“Three safe. One tube loaded, firing circuit safe. No rounds fired.”
 
-Elias looked toward the locked storage cabinet. “A reporter?”
+The firing window reached zero.
 
-“Cannot safely publish the raw material and cannot authenticate it in forty minutes. If we give them the limited copy, Northbridge says its endpoint is part of a legitimate Apex contract. If we give them the case, we expose collection locations and the unresolved K-17 sensor record.”
+The post clock changed to 14:30:00.
 
-“A congressional channel,” Marcus said.
+Outside, the mountain remained silent.
 
-Julie looked at the Northbridge certificate still open on the old workstation. “Sterling sits inside the oversight structure we would be asking for help. That does not make every staff member part of this. It means we cannot know where the warning goes before the evidence is secured.”
+Northern Command demanded an explanation.
 
-The scanner broke through the static with a county unit acknowledging the national lookout. No location followed. No confirmed sighting.
+Sharma looked at the contaminated-source warning.
 
-Marcus waited until the transmission ended. “So the problem isn’t trust.”
+“The evidence no longer supports fire,” she said. “The mission is aborted.”
 
-“The problem is sequence.” Julie touched the paper summary. “The first honest action is still custody. Understanding comes later.”
+Apex Building Three
+ Reston, Virginia
+ 05:00 Eastern Daylight Time
 
-“And seven-oh-eight comes first,” Elias said.
+For five seconds, the enclave contained no countdown.
 
-Julie looked at the battery clock.
+The recovery record was sealed. The external commit remained suspended. Somewhere beyond the walls, the gate-override pump continued to labor, but the sound no longer owned the room.
 
-The three evidence sources could survive examination. They could not create the one record that did not yet exist.
+Elias sat down hard in front of the console. His injured leg extended beneath him. The thin circuit board remained in the author slot, his name fixed beside every action they had taken.
 
-“We make the missing evidence,” she said.
+Marcus slid back to the floor rather than fall there. He kept one hand against his ribs and looked at Julie.
 
-Marcus shifted in the chair. Pain stopped the movement halfway. “Define that before you turn it into a mission.”
+“What did we stop?”
 
-Julie took the pen in her left hand.
+“A counter-battery support release.”
 
-“Northbridge Secure Suite Four receives a hardware-authenticated K-seventeen Phase B synchronization at seven-oh-eight. The suite holds the live session envelope for no more than ninety seconds. While it exists, the Northbridge endpoint, the external signer, the routing state, the hardware time, and the message buffer are all linked.”
+“How close?”
 
-“Ciphertext,” Marcus said.
+Julie looked at the zeroed clock.
 
-“Probably.”
+“Close enough.”
 
-“So we may leave without the message.”
+No one celebrated.
 
-“We may leave with proof of who authenticated an exchange into the K-seventeen operational channel. Or proof that the signer belongs to someone we have not considered. Or proof that the exchange is less important than we think.”
+The system began the post-reconciliation review automatically. A new pane opened beneath the withdrawn assessment.
 
-Elias watched her write. “The full external certificate matters more than the name printed on it.”
+GENUINE SOURCE ACTIVITY WILL BE REEVALUATED
+ RETAINED RAW OBSERVATIONS: PRESENT
 
-Marcus looked at him.
+Julie moved back to the console.
 
-“The certificate gives us the signing authority, device serial, trust chain, and the entity to which the device is registered,” Elias said. “The hardware signature shows that device actually answered the session challenge. It does not prove who was physically holding it.”
+Elias looked up. “The synthetic layer is gone.”
 
-Julie wrote that distinction beneath the objective.
+“The poisoned layer is excluded,” she said. “That is not the same as nothing being there.”
 
-REGISTERED AUTHORITY IS NOT PHYSICAL POSSESSION.
+She opened the retained observations.
 
-“If the certificate resolves to Sterling?” Marcus asked.
+The primary artillery sector was almost empty. Weather noise returned in irregular bands. Civilian communications drifted with the storm. A few heavy-engine signatures appeared on known roads, none arranged into the offensive formation Argus had projected.
 
-“It still proves the device, not his hand,” Julie said. “If the content or routing adds his direction, we preserve it. We do not assume it.”
+At the edge of the map, a group of low-confidence events blinked into view.
 
-“And if it resolves to Northbridge counsel, an Apex executive, or a field contractor?”
+They were nowhere near Sector Zebra-Nine.
 
-“We preserve that too.”
+Julie expanded them.
 
-“Who has the device now?” Marcus asked.
+Short thermal signatures appeared one at a time beneath a ridge line. They lasted between two and four seconds, then vanished behind terrain. A vibration sensor farther east recorded brief weight transfers too light for vehicles and too regular for loose rock. Three narrow communications bursts sat almost entirely beneath Payload 88’s carrier structure.
 
-“The metadata does not say,” Elias replied.
+Before reconciliation, each had been marked as duplicate contamination and removed by the source-correction object.
 
-Marcus watched the pen move. “K-seventeen?”
+Now they aligned.
 
-“Still unresolved. The field team’s last confirmed position is more than an hour old. The synchronization profile does not tell us whether they reached the relay, failed, withdrew, or are waiting for another instruction.”
+Not artillery.
 
-He nodded once. The plan had not improved yet. It had only become honest.
+People.
 
-Julie wrote the objective in one line.
+Five, perhaps six, moving in intervals that kept them from occupying the same sensor field at once.
 
-REACH NORTHBRIDGE SECURE SUITE 4 BEFORE 07:08. CAPTURE THE LIVE BUFFER, ROUTING STATE, FULL SIGNING CHAIN, HARDWARE SIGNATURE, SESSION TIME, AND K17-PHASE-B LINKAGE. LEAVE.
+Elias leaned closer. “That should not have been filtered.”
 
-Marcus read it.
+“It destabilized the false movement model,” Julie said.
 
-“That is an intelligence requirement,” he said. “Not an entry plan.”
+“The correction routine treated anything sharing its carrier structure as self-noise.” He touched the lineage map. “Payload Eighty-Eight did not only add the artillery pattern. The production object used the pattern as a mask.”
 
-“No.”
+Julie brought up the timestamps.
 
-“Where is the suite?”
+The first thermal event had occurred before the fabricated artillery warning reached peak confidence. The movement continued while human attention and model resources shifted toward the false sector. Several sensors along the second corridor had gone quiet for precise, overlapping intervals—not long enough to trigger a relay failure, but long enough for people to pass between them.
 
-Julie turned the workstation toward Elias. The Northbridge endpoint certificate filled the old display. They had examined the organizational subject and trust fingerprints. The lower fields remained collapsed beneath the service policy.
+One ground sensor had registered six separate weight events over ninety seconds. The intervals were disciplined, the spacing designed to keep the group from appearing as a single formation. A communications receiver had caught two encrypted acknowledgments so brief that the normalization layer had buried them beneath the synthetic carrier noise.
 
-“Registered equipment location,” she said.
+The activity was not random movement by civilians surprised by the weather.
 
-Elias used his left hand on the trackball. The first movement overshot the field. He corrected and expanded the certificate details.
+Someone had studied the collection pattern.
 
-Most of the entries were administrative: contract tenant, certification authority, inspection cycle, hardware class. Near the bottom, a location extension appeared beside the service-access profile.
+Marcus forced himself higher against the cabinet.
 
-REGISTERED EQUIPMENT SITE: FENWICK ANNEX
- TENANT: NORTHBRIDGE STRATEGIC INITIATIVES
- SERVICE LOCALITY: L STREET NW / WASHINGTON, DC
- FACILITIES ENTRY: REAR SERVICE VESTIBULE
- SECURE DOMAIN: WSS-4
+“Where are they going?”
 
-Marcus leaned forward, then stopped when his ribs objected.
+Julie followed the line east.
 
-“The Fenwick Building,” he said.
+The terrain map ended at a small triangle identified by a relay designation.
 
-“You know it?” Julie asked.
+K-17.
 
-“I know the public side. L Street between Seventeenth and Eighteenth. Narrow commercial building, stone front, private offices above a ground-floor lobby. I attended two policy working groups there before Northbridge took the upper floors.”
+Elias read it. “That is a ridge-top collection relay. Local sensors write their raw logs there before the data propagates out.”
 
-“Secure annex?”
+“Can it be reached on foot?” Marcus asked.
 
-“Never saw it. There is a service alley behind the block and a landlord entrance off it. Deliveries, maintenance, cleaning crews. The public elevators are inside the L Street lobby.”
+“Yes.” Elias enlarged the service contour. “There is a maintenance approach from the disputed corridor. It is supposed to be watched by the same sensors that just lost coverage.”
 
-Nothing about the building, the public offices, or the existence of a secure contractor suite was illegal. The certificate made it a location. It did not make it a crime scene.
+Julie marked the last confirmed observation. It lay beyond the crossing line, inside the corridor leading toward the relay.
 
-Elias expanded the next field.
+“They’re already across.”
 
-CONTROLLER PROFILE: APX SECURE FACILITY 4.2
- MAINTENANCE ENROLLMENT: LOCAL / ESCORTED
- PRE-SESSION DIAGNOSTIC WINDOW: ENABLED
- LOCAL AUDIT INTERFACE: REQUIRED
+“How old is the last contact?” Marcus asked.
 
-He went still.
+“Less than three minutes.”
 
-“What?” Julie asked.
+“And distance?”
 
-“I helped design that profile.”
+Julie measured the terrain path rather than the straight line. “A little over two kilometers from K-17 when the sensor lost them.”
 
-Marcus looked at him. “For Northbridge?”
+Marcus looked from the fabricated artillery sector to the small sequence advancing toward the relay.
 
-“No. For Apex-certified contractor suites. Places that need compartmented communications without turning an ordinary office building into a federal facility.” Elias pulled the blanket away from his hands. “The landlord controls the outer doors. The tenant controller begins after the service vestibule. Public-office badges and secure-suite access are separate.”
+“The artillery was cover.”
 
-“Current codes?” Julie asked.
+“It controlled where everyone looked.”
 
-“I do not know them.”
+The false threat had drawn command attention, fire-control preparation, and the model’s highest analytic weighting into one sector. Beneath it, a small team had moved through gaps measured in seconds.
 
-“Current staff?”
+If they reached the relay, they could destroy the original sensor logs, alter them, or blind the corridor long enough for whatever came next. They might also leave behind physical evidence that made the fabricated warning look legitimate after the fact.
 
-“No.”
+Julie did not know which purpose mattered most.
 
-“Cameras, guards, floor plan?”
+She knew the false attack had never been the operation.
 
-“I know the minimum design requirements. I do not know what Northbridge installed or changed.”
+Elias stared at the filtered-event labels.
 
-“Good.”
+“My package taught Argus what to ignore.”
 
-Elias looked at her. “That is not usually the response to ignorance.”
+“Your package was labeled synthetic.”
 
-“It is when the alternative is pretending.”
+“I built the carrier structure. I built the rejection behavior.”
 
-She pointed to the diagnostic-window field. “Explain.”
+“And someone removed the limits.”
 
-“A hardware-signer session creates a short local maintenance period before the scheduled exchange. A legitimately enrolled technician can test the suite certificate, the local clock, and the incident recorder without seeing message content. The enrollment has to happen at the building. The external signer may be somewhere else, but the Northbridge suite will be active and monitored by someone inside by seven-oh-eight.”
+“That does not make those people less real.”
 
-“Remote access?” Marcus asked.
+“No.” Julie looked at the route to K-17. “It means we find out who wanted them unseen.”
 
-“Not for this controller. That is the point. The service vestibule reads a tenant work order, the landlord guard verifies the contractor, and a Northbridge sponsor acknowledges the request. Then the controller can issue an escorted temporary session. The enrollment, the module serial, and every incident export become local audit events.”
+A heavy impact struck the gate.
 
-“Can you make one?”
+The status strip advanced.
 
-“No.” Elias answered before Marcus finished the question. “I can make something that looks like a work order. I can use the correct tenant identifier, service-call format, and diagnostic reason. The live system will know the ticket does not exist if anyone checks it.”
+LOCAL OVERRIDE
+ STAGE 3 OF 4 COMPLETE
+ LOCKING PRESSURE REDUCED
 
-“How long before it knows?”
+Marcus turned his head toward it. “They’re almost through.”
 
-“That depends on the guard, the sponsor, and whether the controller is already in pre-session mode. It may reject us immediately.”
+Elias pulled his circuit board from the console and nearly dropped it. Julie caught it against the edge with her left hand and pushed it back toward him.
 
-Julie looked at the service profile. “What does it buy?”
+The overhead lights changed.
 
-“A reason for someone inside to open the conversation. Perhaps a temporary intake screen. Seconds.”
+White floor strips dimmed. Amber lamps appeared along the ceiling, one above each section of hardened cabinets. A low tone sounded once, held for two seconds, and stopped.
 
-“Not a door.”
+The recovery console disappeared beneath an environmental warning.
 
-“Not by itself.”
+REMOTE LIFE-SAFETY COMMAND RECEIVED
+ HARDENED INCIDENT CHANNEL
 
-Marcus’s gaze remained on the certificate. “Where is the live buffer?”
+Julie looked toward the ceiling.
 
-“In volatile memory inside the communications controller. The operator sees a session status, not the full envelope. A protected audit port can export the session envelope to incident media if a local maintenance session is active.”
+Round discharge nozzles sat between the cooling returns. She had noticed them when she entered and dismissed them as ordinary server-room protection.
 
-“Export what, exactly?” Julie asked.
+The system began verifying room status.
 
-Elias counted with his left thumb against his fingers. “Northbridge suite certificate. External signing certificate. Challenge and response. Hardware signature. Hardware time reference. Session identifier. Routing receipts. Task profile. Ciphertext buffer. The order in which they appeared.”
+OCCUPANCY: THREE PERSONS CONFIRMED
+ SUPPRESSION INTERLOCK: ACTIVE
 
-“Does it decrypt?”
+Then the second line changed.
 
-“No.”
+SUPPRESSION INTERLOCK: OVERRIDE REQUESTED
+ AUTHORITY: EXECUTIVE EMERGENCY CONTROL
 
-“Does it copy the rest of Northbridge?”
+Elias went still.
 
-“No. It is deliberately narrow.”
+“He cannot see the recovery console,” he said. “But that path survives quarantine.”
 
-“Can it open the secure suite?”
+“Suppression?” Marcus asked.
 
-“No.”
+“Inert agent. It protects energized equipment by reducing oxygen below the level that sustains combustion.” Elias looked at the sealed gate. “The room is supposed to evacuate before discharge.”
 
-Marcus sat back. “So we still need physical access to the room containing the port.”
+Julie watched the override request remain pending.
 
-“Yes.”
+Apex Security Command Center
+ 05:00 Eastern Daylight Time
 
-“And someone has to know when the external certificate is actually present.”
+Sarah Chen saw only the outcome.
 
-Elias looked at the screen.
+ARGUS EXTERNAL COMMIT: SUSPENDED
+ PROVENANCE REVIEW: ACTIVE
+ RECOVERY RECORD: SEALED
 
-Julie saw the answer before he gave it.
+The hardened status channel did not show what Julie had selected or how Elias had changed the source state. It showed enough for Arthur Vance.
+
+He read the three lines without moving.
+
+On the lower-tier schematic, the containment team had reached Stage Three of the local gate override. Mercer’s voice came through the closed circuit.
+
+“Lock pressure is dropping. Estimate forty-five seconds to manual release.”
+
+Sarah keyed the channel. “Maintain the override. Do not enter until the gate reports stable.”
+
+Vance moved to the protected environmental-control panel at the end of her console row.
+
+“What are you doing?” she asked.
+
+“Preserving the production environment.”
 

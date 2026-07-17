@@ -1,428 +1,214 @@
-“Metropolitan Police has scene control. All three subjects are detained pending identification of federal receiving authority and safe evidence-custody procedure. No one opens, connects, alters, or transfers any item. Apex personnel remain outside contact distance. Evidence inventory will begin on camera. Subject separation will not occur until object custody and medical movement are addressed.”
+Instead, he used the module’s physical management utility to expose the unused second partition. The first remained hardware-locked and read-only. The second appeared as an empty encrypted incident volume with a separate serial and no files.
 
-Mercer said, “Apex requests immediate protective isolation of the electronics.”
+PARTITION A: SEALED DERIVATIVE
+ INTEGRITY: VERIFIED
+ WRITE STATE: LOCKED
 
-“Request noted.”
+PARTITION B: INCIDENT CAPTURE
+ CONTENT: EMPTY
+ WRITE STATE: ARMED ON LOCAL DEVICE
 
-“The module may contain active classified communications.”
+Julie recorded both states, the module serial, the wall-clock time, and the fact that the workstation clock remained wrong by eleven days. She had Elias verify Partition A again after the change.
 
-“It is not connected.”
+MATCH.
 
-“That is Elias Thorne’s statement.”
+Only then did she remove the module and seal it inside a fresh antistatic sleeve. The storage cabinet had no second numbered evidence envelope. She closed the sleeve with tamper tape from the medical cabinet and wrote the module serial across the seam.
 
-“Yes. It is also what I can observe. You will have an opportunity to state your claim on camera.”
+“The sealed copy travels into Northbridge,” Marcus said.
 
-Mercer looked at Elias. “Mr. Thorne may be under coercion.”
+“The originals stay with you.”
 
-Elias’s face tightened.
+“If you lose the module?”
 
-“No,” he said.
+“We lose the limited duplicate and whatever we capture. The case, board record, and recovery cartridge remain.”
 
-Ortiz looked at him. “State your name.”
+“The board goes inside,” he said.
 
-“Elias Michael Thorne.”
+Elias closed his hand around it. “The board stays with me.”
 
-“Are you holding that module voluntarily?”
+Julie wrote the exception into the log. The board was both original evidence and the only reliable proof of the distinction between Elias’s replayed identity and his voluntary emergency use. It had remained in his custody through every documented step. Taking it away now would not protect the chain. It would create another transfer and separate Elias from the evidence bound to his identity.
 
-“Yes.”
+She transferred the aluminum case to Marcus at 06:39:16. He checked both latches without opening them and signed beneath the serial. The display remained green. The 136 sealed files remained sealed; the 47 incomplete files remained incomplete; the 311 excluded files remained absent.
 
-“Did Ms. O’Donnell force you to enter the markers I observed?”
+The tamper-bagged recovery cartridge went into the waterproof document folder with the custody log. Marcus accepted both and signed again. Julie added the dead fleet transponder in its antistatic bag as an ancillary item. The originals would ride together without being connected to anything.
 
-“No.”
+No evidence remained in the cutout’s storage cabinet.
 
-“Are you refusing police custody?”
+Apex Building Three
+ Reston, Virginia
+ 06:39 Eastern Daylight Time
 
-“I am refusing an undocumented transfer. I will comply with a documented police seizure once you identify the receiving officer, authority, time, object serial, seal condition, and custody purpose.”
+Sarah Chen received the capture directive and the lethal-force directive forty-three seconds apart.
 
-Ortiz did not promise him continued possession.
+The first came through the joint incident desk established after the Building Three fire. It carried federal and county routing numbers, medical instructions, and language selected by people who expected their decisions to be reviewed.
 
-“That procedure may occur,” he said. “It has not occurred yet.”
+APPREHEND IF LOCATED.
+ SEPARATE SUBJECTS.
+ SECURE CLASSIFIED MATERIAL.
+ PRESERVE LIFE AND EVIDENCE.
 
-“Understood.”
+The second appeared on the Apex protective-services channel under Arthur Vance’s executive authority.
 
-Elias’s answer carried fear. His hip had begun to shake from prolonged standing. He shifted weight to the van without moving his feet.
+CONTINUING HOSTILE SABOTAGE TEAM.
+ PREVENT TRANSFER OF TELEMETRY MATERIAL.
+ DEADLY FORCE AUTHORIZED IF LOSS OF MATERIAL IS IMMINENT.
 
-Ortiz noticed.
+Sarah read the last condition twice.
 
-“Can you kneel?”
+Deadly force was justified by an immediate threat to life, not by the possibility that evidence might leave the company’s control. Vance had replaced the legal standard with an operational preference and sent it around her command chain.
 
-“No. Not safely.”
+Daniel Mercer’s unit acknowledgment remained pending.
 
-“Then stay standing against the vehicle. Do not lower the module.”
+Sarah opened the voice channel. “Mercer.”
 
-Elias obeyed.
+“Here.”
 
-Ortiz turned to Marcus.
-
-“Name.”
-
-“Colonel Marcus L. Reed, United States Army.”
-
-“Credentials?”
-
-“Revoked or suspended for network access. Active-duty status not independently verified on scene.”
-
-“What is in the aluminum case?”
-
-Marcus’s breathing shortened before he answered. The inventory was long, and each phrase pressed against his ribs.
-
-“Government incident-capture case. Closed. Two latches. Primary evidence drive inside. One hundred thirty-six sealed files. Forty-seven incomplete files. Manifest records three hundred eleven files excluded during finalization. Contents include raw relay samples, Payload Eighty-Eight archive records, checksum history, partial deployment and APX-DIR-zero-zero-one-nine bridge fragments, and sensitive K-seventeen observations.”
-
-“What else do you have?”
-
-“Waterproof folder. Tamper-bagged recovery-record cartridge. Bound paper custody log. Disconnected PCF-two-seven fleet telematics module. No firearm.”
-
-“Did you open the case on this level?”
-
-“No.”
-
-“Did anyone transfer custody to you here?”
-
-“No. Formal transfer from Julie O’Donnell occurred at 06:39:16 at a decommissioned communications cutout. Recorded in the log.”
-
-Mercer said, “That transfer occurred after unauthorized removal.”
-
-Marcus looked at Ortiz, not at Mercer.
-
-“Yes. The legality is disputed. The physical chronology is not improved by hiding it.”
-
-The sentence sounded like the man Julie had needed six years ago.
-
-It was not yet the correction he owed.
-
-It was movement toward it.
-
-Ortiz asked, “What do you require before transfer?”
-
-Marcus gave the list without embellishment.
-
-“Receiving officer identity. Time. Precise object description and serial. Seal and latch condition. Stated receiving authority. Body-camera documentation. Entry in the paper log. Separate receipt for the cartridge and ancillary module. No opening at scene.”
-
-“You understand police may seize the objects whether you consent.”
+“You received the executive addendum?”
 
 “Yes.”
 
-“Will you physically resist?”
+“It does not alter my rules of force. Capture priority. Less-lethal where feasible. Firearms only for an identified deadly threat with a clear background.”
 
-“No.”
+A pause. “Director Vance’s office marked telemetry loss as a national-security emergency.”
 
-“Will you release them without the documented sequence?”
+“Telemetry does not shoot back.”
 
-“No.”
+Another pause, shorter this time. “Understood.”
 
-Ortiz accepted both answers as problems he would have to manage.
+Sarah did not order him to stop looking. She did not remove Julie’s alert or tell any agency that the subjects were harmless. Julie had breached a production enclave, removed classified material, triggered a fire, and fled in a stolen contractor vehicle. Sarah still intended to put all three into controlled custody.
 
-Mercer’s radio opened.
+She also intended to know whose order Mercer followed when he found them.
 
-Vance spoke first.
+The traffic desk had no current plate hit for PCF-27. The last confirmed image placed it inside a cluster of contractor vehicles before the route split across several private camera systems. Analysts were requesting footage one owner at a time. A separate search had begun against retired technical-support leases associated with Marcus Reed’s former assignments. The first response was not due for twelve minutes.
 
-“Colonel Reed has no authority to impose conditions on recovery of classified Apex program material. Metropolitan Police should secure the case immediately and transfer it to the designated facility authority.”
+No system had found the cutout yet.
 
-Chen cut in before Mercer answered.
+The media pane on Sarah’s console updated.
 
-“Incident coordination confirms named custody and itemized receipt are required. Metropolitan Police scene authority acknowledged. Capture remains in effect. Apex claim may be documented without physical transfer.”
+A prepared statement from Senator Sterling’s office had entered the morning news pool. Its summary described Julie O’Donnell as the suspected architect of a deliberate Argus corruption attempt.
 
-Vance said, “You are allowing compromised subjects to dictate evidence handling.”
+Sarah opened her own incident report.
 
-Chen’s reply remained flat.
+It said suspected sabotage.
 
-“I am preserving a reviewable custody transition.”
+The technical source review had not assigned authorship. The enclave record had not been recovered. No federal examiner had concluded who introduced the poisoned data.
 
-The channel closed.
+The public statement had reached a conclusion before the investigation reached the evidence.
 
-Ortiz looked at Mercer. “You heard your coordinator.”
+Sarah marked the time, preserved both directives in the incident file, and sent the regional lookout again.
 
-“I heard both.”
+She did not warn Julie.
 
-“Which instruction are you operating under?”
+Decommissioned Communications Cutout
+ Fairfax County, Virginia
+ 06:42 Eastern Daylight Time
 
-Mercer held the question for one second.
+The work order came from a carbon-copy service book in PCF-27’s glove compartment.
 
-“Metropolitan Police scene control. Recovery request documented. No contact without your direction.”
+Potomac Critical Facilities used the forms for jobs that began before a dispatcher entered them into the fleet system. The paper carried the company name, the van identifier, and boxes for a tenant code, service site, reported fault, and authorization number.
 
-The choice was not loyalty to Julie.
+The form was genuine.
 
-It was refusal to create an unreceipted disappearance in front of police cameras.
+The call was not.
 
-The dashboard clock changed to 07:48:57.
+Elias dictated the tenant identifier from the Northbridge certificate. Julie filled the boxes with her left hand, the letters slanting the wrong direction whenever she tried to write too quickly.
 
-Three seconds remained to the Phase B deadline.
+SITE: FENWICK ANNEX / WSS-4
+ TENANT: NORTHBRIDGE STRATEGIC INITIATIVES
+ CALL TYPE: LOCAL TRUST-CHAIN DIAGNOSTIC
+ REPORTED CONDITION: PRE-SESSION AUDIT BUFFER RETENTION FAULT
+ SERVICE WINDOW: 06:45–07:20
 
-Nothing at Hartwell changed.
+For the authorization number, Elias used the Apex service format embedded in the controller policy and a sequence derived from the tenant certificate.
 
-The exterior officer stayed near the privacy screen. The dark-overcoat person remained outside. The probable support SUV remained stationary. The other two entrants did not return.
+“It will pass a casual glance,” he said. “It may pass the landlord intake field because the number has the right length and checksum.”
 
-Elias watched the time.
+“Northbridge verification?” Marcus asked.
 
-“Three,” he said.
+“Fails. There is no live ticket.”
 
-Ortiz’s gaze moved to him.
+“Then say that on the plan.”
 
-“Two.”
+Julie did.
 
-Julie did not stop him. The clock itself was not classified, and the deadline already existed in her recorded statement.
+The work order could begin the service workflow. It could not complete it.
 
-“One.”
+They cleaned what they could.
 
-07:49:00.
+Julie washed dried suppressant residue from her face and retaped the wrist support beneath the sleeve of her gray coveralls. The fabric still carried a dark smear at one knee and the RANDALL patch above the pocket. She left it. A perfect uniform would draw as much attention as a damaged one.
 
-No visible answer came.
+Elias found a Potomac rain shell in the van’s cargo rack. It was too large and smelled of rubber and old coffee. It covered his wrinkled office shirt and the outline of the cartridge no longer carried there. His hip remained stiff. His first three steps across the bay shortened progressively before he stopped and forced the leg straight. When he turned too quickly toward the workbench, the room shifted and he steadied himself against it until the dizziness passed.
 
-No Hartwell door opened. No alarm crossed the city. No field status reached the garage. The steady green exterior state did not change.
+Julie changed the dressing on his cut finger. The wound had not reopened deeply, but the fingertip remained clumsy. He could seat the incident module if he braced his hand. He could not be expected to work quickly while someone pulled him away from the port.
 
-Phase B could have been authorized inside a record they could not see.
+Marcus’s scalp dressing had bled through at one edge. Julie removed it, cleaned the skin again, and applied fresh pressure. He closed his eyes while she worked but answered every orientation question correctly. The swelling in his thigh had spread below the wrap. The taped heel of his boot was beginning to separate again. His ribs still stopped a full breath.
 
-It could have been held.
+“You remain in the van,” she said.
 
-It could have failed for a reason unrelated to them.
+“I heard you the first time.”
 
-The deadline passed without becoming knowledge.
+“I am checking whether the blood changed your answer.”
 
-Julie said, “Phase B state unknown at deadline.”
+“It did not improve my personality.”
 
-Ortiz repeated it into the body camera as a subject statement, not a police conclusion.
+She secured the new dressing. “Nothing has.”
 
-Mercer looked toward Hartwell.
+The exchange almost became familiar. Neither of them allowed it to.
 
-For the first time since he entered the level, he had no immediate action to take that could recover the missing fact.
+Marcus checked the primary entrance, the ordinary fire exit, and the observation-room window. No vehicle waited in the alley. No footsteps stopped outside. The absence proved only that the search had not reached this door yet.
 
-The second officer began reading vehicle and scene details into dispatch. PCF-27’s plate. Potomac markings. Engine off. Key visible in ignition. Three subjects. No displayed weapons. One closed aluminum case. One electronic module held by Elias. One probable original circuit board against his body. Apex claim pending. Medical assessment requested because the subjects could not safely be moved at ordinary speed.
+Julie shut down the forensic workstation through its normal process. She recorded the shutdown time and removed every evidence module. No file had been intentionally written to the workstation’s local storage. She did not wipe it. An examiner might later recover temporary system traces and determine exactly what hardware they had used.
 
-The facts entered public custody one line at a time.
+The failed blank evidence module remained in the cabinet, labeled FAILED SELF-TEST and empty. The medical supplies stayed where they were. Nothing burned. Nothing was broken for the sake of making departure feel final.
 
-None cleared Julie.
+Marcus locked the storage cabinet anyway.
 
-None needed to.
+“You expect to come back?” Elias asked.
 
-At 07:49:12, Ortiz asked Marcus to read the case serial without touching it. The number was etched on the upper rim facing the passenger door. Marcus lowered his eyes rather than his hands and read it aloud.
+“No,” Julie said.
 
-Ortiz repeated it.
+The cutout’s archived lease history connected it to Marcus. The van’s route might connect the alley to the lookout. Every minute they remained converted a temporary shelter into a location someone could reconstruct.
 
-The second officer wrote it on a scene card.
+Julie looked once at the obsolete racks, the bound log’s empty shelf, and the flickering fluorescent tube.
 
-No receipt existed yet.
+The place had done what Marcus said it would do.
 
-At 07:49:18, Ortiz asked Elias for the module serial. Elias could see it on the side nearest his left hand. He read it without rotating the enclosure.
+It had bought time.
 
-Ortiz repeated that too.
+At 06:47:08, Marcus raised the service-bay door by hand. The metal rattled through the quiet alley.
 
-Still no receipt.
+Julie waited behind the wheel until the opening was high enough. Her left hand held the rim. Her right forearm rested against the lower spoke without closing around it. The aluminum case was wedged behind the passenger seat. The recovery cartridge remained sealed in its tamper bag, and the paper log lay beside it inside the waterproof folder.
 
-Julie watched the records begin to multiply.
+Elias sat in the cargo opening behind them. The administrator board was inside a padded sleeve against his chest. The incident module and false work order rested in a small canvas tool pouch beside him.
 
-MPD body camera held her pre-event statement, every limitation, the visible green transition, the dark-overcoat return, Vance’s recovery language, Chen’s custody language, Marcus’s inventory, Elias’s voluntary statement, and the engine shutdown.
+Marcus checked both directions from the pedestrian entrance and signaled.
 
-Dispatch held the preservation request before the challenge window closed.
+Julie eased PCF-27 into the alley.
 
-Hartwell had acknowledged a record and a hold.
+Marcus lowered the bay door from inside, came through the pedestrian entrance, and locked it. By the time he reached the van, his limp had become worse with every step he tried to hide. He settled into the passenger seat with the waterproof folder beneath his jacket and turned the mounted service radio low enough to hear without filling the alley.
 
-The trio still held the physical originals.
+When the door closed, the cutout became an ordinary gray service bay again.
 
-Those facts did not yet form one admissible chain. They formed parts that could be separated by jurisdiction, classification, clock dispute, or deliberate explanation.
+For anyone who knew where to look.
 
-That was the next danger.
+Northern Virginia
+ 06:47 Eastern Daylight Time
 
-Ortiz said, “Ms. O’Donnell, you will remain at the driver-side front quarter. Left hand visible. Do not touch the key, vehicle, or either custodian.”
+Julie drove west for two blocks before turning east.
 
-Julie stayed where he placed her.
+The diversion did not confuse a tracking system. It kept the first camera outside the cutout from seeing a direct movement toward Washington if that camera existed and if anyone later recovered it. One turn. One minute. No theater.
 
-Her right wrist throbbed against the brace. She could not steady Elias if his hip failed. She could not lift Marcus from the passenger area. She could not take the case, the folder, or the module without breaking the custody roles they had spent the morning preserving.
+Early contractor traffic had begun filling the commercial roads. Box trucks backed into bakery docks. Utility vans waited at a wholesale electrical supplier. PCF-27 moved among them at the speed of a vehicle whose driver wanted to reach a job, not escape a manhunt.
 
-She could only keep the sequence named.
+Marcus navigated from memory and a folded road map found in the van. He kept the route off the toll road and away from the most obvious federal approaches. He did not claim any road lacked cameras.
 
-“Officer Ortiz.”
+“Arlington Boulevard,” he said. “Then Roosevelt if it is moving. We make the final decision before the river.”
 
-“What?”
+“Parking?” Julie asked.
 
-“Before you separate us, preserve the linkage in your incident narrative. Hartwell hold event number. WSS-four module serial. Aluminum-case serial. Recovery cartridge in Marcus’s folder. APX-DIR-zero-zero-one-nine claim. Three separate custodians and records. Do not let receiving agencies treat them as unrelated seizures.”
+“Commercial loading lane west of the Fenwick block. Morning contractors use it before office restrictions begin. Known van, ordinary context.”
 
-“You are instructing me again.”
+“Plate readers?”
 
-“I am stating the failure condition.”
-
-“You do not control how federal evidence is routed.”
-
-“No.”
-
-“Then understand this: my job is to make the scene safe and preserve what is here. Jurisdiction will be decided above me.”
-
-“That is exactly where the chain can break.”
-
-Ortiz looked at her for a long moment.
-
-He did not promise to solve the conspiracy.
-
-He touched his microphone.
-
-“Dispatch, append linkage request from subject O’Donnell. Hartwell preservation event, electronic module serial, aluminum-case serial, recovery cartridge, paper custody log, and claimed APX service reference to remain cross-referenced under this scene pending receiving-authority assignment. Record as subject request, not verified finding.”
-
-“Copy, Unit Three. Cross-reference entered.”
-
-Julie lowered her chin once.
-
-The request existed.
-
-Whether anyone honored it later remained uncertain.
-
-07:49:29.
-
-The green Hartwell light still burned across the open side of the garage. Masking Window Two had been active for eighty-nine seconds. The WSS-4 blocks remained encrypted. K-17 access remained unconfirmed. The reconstruction profile remained undefined. The physical presenter remained somewhere behind ordinary security, authorized movement, and a record now held but unseen.
-
-Mercer stood outside immediate contact distance under MPD authority.
-
-Marcus remained in the passenger area with the aluminum case between his boots and the waterproof folder against his body.
-
-Elias remained beside the van with the board against his chest and the dual-partition module in his hands.
-
-PCF-27 was silent. The key stayed visible in the ignition.
-
-No officer or civilian had been struck.
-
-No evidence had changed hands.
-
-No receipt was complete.
-
-At 07:49:32 EDT / 17:19:32 IST, the operation belonged to the police.
-
-The remaining four minutes and twenty-eight seconds would decide whether Hartwell’s held challenge, WSS-4’s sealed session, Apex’s preserved directives, and the physical originals beside PCF-27 remained one witness line—or became four records that four institutions could explain apart.
-
----
-
-07:49:32 EDT / 17:19:32 IST
-
-# Chapter 15 - The Split Record
-
-Commercial Garage West of Hartwell
-
-Officer Ortiz made the scene smaller before he made anyone move.
-
-“Ms. O’Donnell, left hand on the roof. Right arm stays where I can see the brace. Officer Park is going to search you.”
-
-Julie turned toward PCF-27 and placed her left palm above the driver’s door. The metal still held a trace of engine vibration, or her wrist supplied one from memory. She kept the injured arm against her body while Park approached from behind and explained every contact before making it.
-
-No weapon.
-
-No phone.
-
-No electronic device.
-
-A mechanical truck key in Julie’s coverall pocket that belonged to a Ford eighty miles away.
-
-Park removed the key, set it on the hood where Ortiz’s body camera could see it, and checked the support around Julie’s right wrist without loosening it.
-
-“Can you close this hand?”
-
-Julie tried. The fingers moved. The thumb stopped before useful pressure formed.
-
-“No.”
-
-“Can you sign?”
-
-“Not reliably.”
-
-“Can you lift the case?”
-
-“No.”
-
-“Can you restrain either of them if they fall?”
-
-Julie looked at Marcus in the passenger opening and Elias braced against the van’s side panel.
-
-“No.”
-
-Park said the answers into her own body camera, then stepped away.
-
-The admission changed the scene more than any claim Julie had made about Hartwell. She could describe the transfer. She could not perform it. If Marcus or Elias failed, the originals would pass to police through whatever sequence Ortiz chose.
-
-Two paramedics came from the east spiral with a monitor bag, oxygen cylinder, and folded stretcher. They moved first toward Marcus. His head rested against the passenger-side frame. Fresh blood had entered the gauze above his ear, and the hand he kept over his ribs no longer disguised how little air he could take.
-
-The lead paramedic crouched outside the door. “Sir, I need your name.”
-
-“Marcus Reed.”
-
-“Do you know where you are?”
-
-“Commercial garage. Level six. Washington.”
-
-“Do you know what happened?”
-
-Marcus looked at Ortiz rather than Julie. “Police closed the west route. We aborted. Evidence inventory started. No transfer completed.”
-
-The paramedic clipped a pulse oximeter to his left index finger.
-
-The display settled at ninety.
-
-“Oxygen,” she said.
-
-Her partner fitted a nasal cannula and opened the cylinder. Marcus tried to straighten for it. His right thigh tightened beneath the cut coveralls, and the damaged boot folded against the floor.
-
-“Do not stand,” the paramedic said. “You’re priority transport.”
-
-“I need three minutes.”
-
-“You have what I give you.”
-
-The answer came without hostility. Medical authority had entered the level and claimed its own clock.
-
-Ortiz looked at the paramedic. “Can he remain seated for an evidence transfer?”
-
-“For the minimum necessary record if he stays oriented and the oxygen comes up. No speeches. No carrying. No standing. If he drops or stops answering, we move.”
-
-Julie saw Marcus calculate what the sentence permitted.
-
-“Do not bargain with it,” she said.
-
-His eyes moved to her. “Wasn’t planning to.”
-
-He was. So was she.
-
-Mercer remained beyond the police contact line with both hands visible near his belt. One Apex operator had moved back toward the ramp. The other stood beside a dark equipment case that did not belong to the trio.
-
-“Apex maintains an immediate classification and property claim,” Mercer said. “The electronics require secure isolation. A public parking level is not an authorized handling location.”
-
-Ortiz turned far enough for his camera to include Mercer without giving up the trio.
-
-“State the claim.”
-
-“Classified strategic telemetry, proprietary validation material, and protected communications removed from Apex and Northbridge systems. Apex requests direct recovery or transfer to an accredited federal receiver.”
-
-“Name the receiver.”
-
-“Joint incident coordination is assigning one.”
-
-“Then no receiver is here.”
-
-“The material cannot remain with the subjects.”
-
-“It won’t.”
-
-Mercer’s gaze went to the case between Marcus’s boots. “Generic classified-media packaging is appropriate until technical personnel can inventory it.”
-
-Julie took her left hand off the roof only after Park told her to turn around.
-
-“Generic is how the chain breaks,” she said.
-
-Ortiz looked at her. “You are not directing intake.”
-
-“No. I am asking whether you want one police incident with separate objects or one phrase that lets seven objects become whatever the next office says they were.”
-
-“Seven?”
-
-“The case. Recovery cartridge. Paper log. Dead telematics module. Waterproof folder. Administrator-token board. Dual-partition incident module.”
-
-Mercer said, “Several of those items are components of the same classified event.”
-
-“They are linked,” Julie replied. “They are not the same object.”
-
-Ortiz raised a hand before the exchange could become another technical argument. “One incident. Separate entries. That is how we were proceeding.”
-
-He touched his shoulder microphone.
-
-“Dispatch, Unit Three. Confirm scene incident.”
-
-The number came back through the speaker.
-
-“Incident one-eight-seven-four-six-three.”
-
-Ortiz repeated it into his body camera, then gave his identifying information.
+“Possible at every garage and major intersection.”
 

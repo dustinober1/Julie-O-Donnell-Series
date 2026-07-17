@@ -1,646 +1,283 @@
-Their own eyes had lost the vehicle.
+Its local audit seal verified against the enclave trust root stored in the incident record. The workstation could not query a current revocation service, but the cartridge carried a hardware time signature and the complete certificate state at the moment the record sealed.
 
-The external record had not necessarily lost it.
+Julie read the event chain from top to bottom.
 
-“Recoverable observation continues through two independent cameras,” she said.
+Elias’s authenticated emergency access.
 
-“Assuming they preserve it,” Marcus replied.
+The restored Payload 88 labels.
 
-“Record the assumption.”
+Her limited disputed packet boundary.
 
-He did.
+The system’s declaration that source provenance was invalid.
 
-The service truck reversed into a loading position. Its rear cleared the holding lane at 07:33:29.
+The suspended external counter-battery commit.
 
-The SUV remained where it had been.
+Mandatory human review.
 
-No one had entered the checkpoint.
+The recovery-session reference.
 
-Julie exhaled once.
+The audit seal written before volatile sanitization.
 
-“Direct visual restored.”
+The physical removal and tamper event.
 
-Elias marked it.
+Nothing in the cartridge showed that Julie had introduced Payload 88. The contaminated assessment was already active when the protected recovery session began.
 
-Below them, a siren entered the garage and stopped.
+Nothing in it turned Elias’s earlier replayed identity into physical use of the board he still possessed.
 
-Marcus turned the service radio higher.
+The system itself had rejected the source.
 
-“Unit Three at commercial garage west. Suspect plate confirmed. Establishing east vehicle exit. Additional units approach west. Garage management reports upper-level access open.”
+Apex’s bulletin claimed Julie had created the corruption she and Elias had documented and stopped.
 
-“They found the garage,” Elias said.
-
-“We expected them to.”
-
-“You did not tell me how much expectation was supposed to help.”
-
-“It keeps surprise from making the decision.”
-
-Julie checked the time.
-
-07:34:02.
-
-Eight minutes and twenty-eight seconds to the hard abort.
-
-A Metropolitan Police cruiser appeared on the east spiral two levels below. Its lights remained off. The driver moved slowly among civilian vehicles.
-
-No tactical rush.
-
-No gunfire.
-
-An honest search becoming physically real.
-
-Marcus closed the custody log and placed it inside the waterproof folder.
-
-“East route is closing.”
-
-“West?”
-
-He looked through the rear of the van toward the descending ramp. “Open. Delivery traffic still moving.”
-
-“Pedestrian stairs?”
-
-“Unknown.”
-
-“Then they do not count.”
-
-The SUV at Hartwell moved forward ten yards and stopped again beneath the outer edge of the covered checkpoint.
-
-Two uniformed security officers approached it.
-
-One opened the front passenger door.
-
-A man in a dark suit stepped out carrying nothing visible.
-
-The rear door opened on the far side, hidden from Julie by the vehicle.
-
-A second person appeared beyond the roofline. Dark coat. Medium height. Hands below the window line.
-
-The first officer moved between Julie and the passenger.
-
-Then three people walked together toward the covered position.
-
-Julie could not see whether any carried a device.
-
-She could see that the vehicle had delivered a staff group into a route separate from the principal motorcade.
-
-“Marker,” she said.
-
-Elias pressed.
-
-HANDLING EVENT 004  
-DEVICE TIME: 07:35:18.771  
-OPERATOR INPUT: MANUAL
-
-Marcus wrote the visible facts and nothing more.
-
-The black sedan reappeared at the western curb. Two people exited there and entered an office building unrelated to Hartwell.
-
-The split became more meaningful.
-
-One vehicle had delivered ordinary staff west.
-
-The motorcade support SUV had remained at the eastern controlled approach.
-
-Still inference.
-
-Stronger than before.
-
-A garage elevator chimed behind them.
-
-Julie turned.
-
-A man wearing a maintenance jacket stepped onto the level carrying a ring of keys and a handheld radio. He saw PCF-27 first. Then Marcus in the passenger seat. Then Julie and Elias at the wall.
-
-His expression changed.
-
-“Vehicle trouble?” he asked.
+Marcus read the three columns. “That is enough to clear you.”
 
 “No,” Julie said.
 
-“Upper level is monthly parking.”
+His expression tightened.
 
-“We have a ticket.”
+“It is enough to contradict Apex. Clearing us requires someone to accept the record before accepting their alert.”
 
-“That van has been on the police channel.”
+Elias looked at the scanner in the next room. “And before they decide the record is another thing I altered.”
 
-His thumb moved on the radio.
+Julie nodded.
 
-Julie was ten feet from him.
+The storage cabinet contained two blank encrypted evidence modules. One failed its self-test. The second passed.
 
-She could take the radio with her left hand.
+Julie selected the smallest set that preserved the incident without duplicating the entire case: the sealed recovery record, restored label map, provenance decision, Payload 88 index, post-archive checksum history, and critical APX-DIR-0019 bridge fragments. She excluded the bulk raw telemetry and detailed K-17 sensor geography.
 
-Marcus could block the elevator door.
+The evidence imager began copying through the write blocker.
 
-Elias could not run if the man shouted.
+ESTIMATED TIME: 08:12
 
-The choices arrived cleanly.
+She recorded the selection, destination serial, encryption state, and start time. When the copy finished, the imager generated new hashes and compared them against the source records.
 
-Julie stepped away from him.
+MATCH.
 
-“We are leaving shortly,” she said.
+Julie sealed the duplicate in a numbered antistatic envelope and logged it as derivative media. The originals remained primary.
 
-The man brought the radio toward his mouth.
+The wall clock showed 06:08.
 
-“Security, sixth level. White Potomac van. I have—”
+Only then did she allow them to combine the sources.
 
-Julie did not strike him.
+The APX-DIR-0019 fragment inside the case had always ended one step too early.
 
-She did not close the distance.
+It showed a director-level service invoking the Payload 88 production bridge, but the service owner field had been stripped from the copied review environment before the capture sealed. Elias’s board carried a second fragment from the mirrored workstation path. It included the signer’s certificate serial but not the human custodian.
 
-The report left.
+The recovery cartridge supplied what both were missing.
 
-“Stay away from us,” she said. “We are not armed.”
+When the protected reconciliation evaluated the executive waiver attached to PAK_RELAY_17A_SOURCE_CORRECTION, the enclave had preserved the entire historical certificate chain rather than trusting the service name.
 
-He backed into the elevator and pressed the door control repeatedly. The doors closed.
+Elias opened the chain beside the two fragments.
 
-The civilian had seen three fugitives and done the correct thing.
+APEX EXECUTIVE AUTHORITY ROOT
+ BUILDING THREE EXECUTIVE OPERATIONS CA
+ HARDWARE AUTHORITY: B3-EXEC-01
+ SERVICE BINDING: APX-DIR-0019
+ REGISTERED CUSTODIAN: VANCE, ARTHUR R.
 
-The operation lost another minute because Julie refused to make him pay for it.
+The certificate serial matched the production-bridge fragment.
 
-Marcus looked at his watch.
+The validity window covered the bridge event.
 
-07:36:11.
+No delegated subordinate certificate appeared in the chain.
 
-“Police know the level.”
+Elias read it twice.
 
-“West route?”
+Marcus did not. “Vance.”
 
-“Still open.”
+Julie kept her eyes on the certificate fields. “Say exactly what it proves.”
 
-“Then we continue.”
+Elias pulled the blanket tighter around his shoulders. “APX-DIR-0019 was invoked through an executive hardware authority registered to Arthur Vance. The authority signed the bridge that moved the post-archive Payload 88 object into production.”
 
-The staff group at Hartwell disappeared behind the first section of the covered checkpoint.
+“Does it prove he typed the command?”
 
-Julie moved farther right along the garage wall. A narrow opening between office buildings gave her a second angle on the lane beyond the cover.
+“No.”
 
-The group emerged.
+“Does it prove he was physically holding the device?”
 
-Four people now.
+“No. The hardware could have been used by someone with authorized access to his executive module.”
 
-The two from the SUV.
+“Could an ordinary administrator have done it?” Marcus asked.
 
-One uniformed Hartwell officer.
+“No. There is no employee delegation in the chain. No engineering subcertificate. No generic automation authority.” Elias pointed at the hardware binding. “An independent examiner could argue about who touched the console. They could not call this an ordinary employee action.”
 
-One person in a dark overcoat who had approached from inside the controlled lane.
+Julie wrote beneath the three columns.
 
-A compact black case appeared between them.
+VANCE EXECUTIVE AUTHORITY CONTROLLED OR AUTHORIZED THE PAYLOAD 88 PRODUCTION BRIDGE.
+ PERSONAL KEYSTROKES UNPROVED.
+ UPSTREAM DIRECTION UNPROVED.
 
-Julie could not tell who had carried it from the SUV.
-
-She could not tell whether the overcoat had brought it from inside.
-
-For three seconds, the case was visible at waist height.
-
-Then the group closed around it.
-
-Elias looked at her.
-
-“Portable signer?”
-
-“Unknown object.”
-
-“It is the right size.”
-
-“So are a thousand secure document cases.”
-
-He pressed the marker at her nod.
-
-HANDLING EVENT 005  
-DEVICE TIME: 07:36:49.330  
-OPERATOR INPUT: MANUAL
-
-Marcus wrote:
-
-COMPACT BLACK CASE VISIBLE WITH STAFF GROUP. SOURCE AND CONTENT UNKNOWN.
-
-The words preserved what they knew and what they did not.
-
-The group moved to a second exterior holding point. The black case disappeared among bodies.
-
-No one entered the final controlled door.
-
-They were waiting for the window.
-
-Or for something unrelated to it.
-
-The police cruiser reached the fifth level.
-
-A second vehicle entered the garage below.
-
-Marcus started PCF-27.
-
-The engine’s vibration moved through the concrete and into Julie’s wrist even from twenty feet away.
-
-“What are you doing?” she asked.
-
-“Preparing the only useful movement I have left.”
-
-“You do not take the east spiral.”
-
-“I know.”
-
-“West ramp only. No pedestrians.”
-
-“I know.”
-
-His left foot rested near the pedals. His right leg remained extended away from them. He could move the van a short distance the way he had at Fenwick. He could not drive a sustained escape.
-
-The plan depended on Julie returning.
-
-The dependency was real. Marcus did not call it anything else.
-
-“Two minutes until they reach us,” he said. “Maybe less.”
-
-Julie looked at the time.
-
-07:38:07.
-
-Four minutes and twenty-three seconds to the abort threshold.
-
-The staff group remained at the second holding point.
-
-A uniformed officer took the black case—or appeared to. The group shifted at the same moment, and a concrete post divided Julie’s sightline. When they cleared it, the case was no longer visible.
-
-“Who has it?” Elias asked.
-
-“Unknown.”
-
-“Did the officer take it?”
-
-“Unknown.”
-
-“Did it go back to the SUV?”
-
-“The SUV has not moved.”
-
-“Then it is in the group.”
-
-“Probably.”
-
-Marcus heard them.
-
-“Write probably?”
-
-“No,” Julie said. “Write not visible after group shift.”
-
-He did.
-
-The module handling log accumulated times. The paper log accumulated observations. The municipal and private cameras might preserve the physical sequence. None of it proved the black case contained SSO-NS-004.
-
-But the support lane was no longer one possibility among every Hartwell entrance.
-
-It was the only observed route carrying a motorcade-linked staff group and a compact secured object toward a timed exterior hold.
-
-The objective had narrowed.
-
-Below them, a car door closed.
-
-A man called Julie’s name through the concrete level.
-
-Daniel Mercer.
-
-He did not shout an accusation.
-
-“Julie O’Donnell. Remain where you are. Keep your hands visible. Metropolitan Police and Apex protective services are entering the level. No one needs to be injured.”
-
-Marcus’s hand closed around the wheel.
-
-The movement tightened his face.
-
-Julie looked toward the internal aisle. Concrete columns concealed Mercer’s exact position.
-
-The garage maintenance worker had given them the level.
-
-The plate had given them the building.
-
-The cameras had done what cameras did.
-
-“Do not run,” Mercer called. “Do not move the van.”
-
-Julie looked at Elias.
-
-“Module.”
-
-“Sealed. Handling journal active.”
-
-“Board.”
-
-“With me.”
-
-“Can you reach the van?”
-
-He looked at the twenty feet between them. “Yes.”
-
-“That is not a speed question.”
+Marcus leaned one hand on the desk. “That’s enough to accuse him.”
 
 “Yes.”
 
-Julie looked at Marcus.
+“Then why are you still looking?”
 
-“Case?”
+“Because Vance is not the end of the wire.”
 
-“Sealed. Cartridge and log with me.”
+The certificate chain carried a routing receipt attached to the executive bridge. It had looked like vendor synchronization metadata in the partial capture. With the full certificate state restored, the tenant identifier resolved into an organizational subject.
 
-“West route?”
+NORTHBRIDGE STRATEGIC INITIATIVES
+ WASHINGTON SECURE SUITE 4
+ TRUST PURPOSE: STRATEGIC-RISK SYNCHRONIZATION
+ APEX CONTRACT STATUS: ACTIVE
 
-He checked the mirror.
+Beneath it sat a hardware-authenticated receipt confirming that the Northbridge endpoint had participated in the bridge exchange. The message body remained encrypted and absent. Only the routing, trust purpose, certificate fingerprints, and timing survived.
 
-A box truck was descending the west ramp. Beyond it, no police vehicle had entered the upper turn.
+Marcus read the name and lowered himself into the second chair.
 
-“Open now. One civilian vehicle between us and the street. It may remain viable ninety seconds.”
+“You know it,” Julie said.
 
-“Can you move?”
+“By reputation.”
 
-“Once.”
+“What kind?”
 
-The answer matched Chapter 11.
+“The respectable kind.” He shifted the cold pack on his thigh. “Northbridge calls itself a strategic-policy institute. Half think tank, half risk consultancy. Former officials write reports there between government appointments. They also hold advisory contracts that let them operate a secure communications suite.”
 
-Once could still be the useful one.
+“Sterling?” Elias asked.
 
-The time changed to 07:40:22.
+“Northbridge’s president once ran Sterling’s national-security staff. Their automated-warning paper became language his committee pushed in the last authorization bill. Two members of the Northbridge board are major donors in his political network.”
 
-Two minutes and eight seconds.
+“Public?” Julie asked.
 
-Mercer spoke again.
+“All of it.”
 
-“Julie, Hartwell security is aware of your position. You will not enter the annex. Set down all electronic media and move away from the vehicle.”
+“Criminal?”
 
-She had never intended to enter.
+“None of it.”
 
-That was the part he did not understand yet.
+Elias turned back to the routing receipt. “But this endpoint was in the deployment path.”
 
-A uniformed Metropolitan Police officer appeared at the far end of the level with both hands visible and his sidearm holstered. Mercer followed ten feet behind him. Two Apex operators remained farther back near the ramp. One carried a less-lethal launcher. No rifle was visible.
+“Yes,” Julie said. “That is operational. The Sterling connection is political and professional.”
 
-The officer stopped behind a concrete column.
+Marcus rubbed at the tape above his ear and stopped when Julie looked at him. “You think Northbridge tasked Vance.”
 
-“Ma’am, I need everyone to stay still.”
+“I think Northbridge participated in an authenticated exchange associated with the bridge. We do not have the communication.”
 
-Julie raised her left hand.
+“It is a Washington policy shop attached to Sterling’s network.”
 
-Her right remained against her body inside the brace.
+“And Apex has a legitimate contract with it. Contact alone can be explained.”
 
-“We have no firearm.”
+“Everything can be explained if you separate it far enough.”
 
-“Keep your hands where I can see them.”
+“That is why we keep the chain together.”
 
-Elias lifted his left hand. His right continued to support the module against his abdomen.
+Julie turned the paper over and drew three headings.
 
-Mercer saw it.
+APEX.
 
-His attention fixed on the casing.
+NORTHBRIDGE / STERLING NETWORK.
 
-“Elias, set the module on the ground.”
+K-17.
 
-“No.”
+Under APEX she wrote what the record supported. Vance’s authority had put a prohibited synthetic object into production. Apex had restricted the review, destroyed the temporary environment, pursued the evidence, and issued an alert accusing Julie of causing the contamination. The likely institutional benefit was clear even if motive remained unproved: preserve Argus, preserve the contract, turn a manufactured crisis into evidence that the platform needed more reach rather than less.
 
-“Your safety is the priority.”
+Under NORTHBRIDGE she wrote fewer words. An authenticated Washington endpoint had participated in the bridge. Northbridge sat inside Sterling’s public policy and donor network. A regional crisis could support emergency appropriations, expanded automated-warning authority, and a larger American technology footprint.
 
-“My custody is the priority.”
+She underlined COULD.
 
-The police officer glanced toward Mercer.
+“That is inference,” she said.
 
-Two authorities sharing a space without sharing the same objective.
+Marcus nodded once. “Strong inference.”
 
-Julie looked back toward Hartwell.
+“Still inference.”
 
-The staff group had begun moving again.
+Under K-17 she wrote what the raw events showed. Five or six trained people had crossed the disputed corridor before the false warning reached peak confidence. Their spacing and timing had been designed to evade correlation. The last confirmed observation, shortly after 05:00, placed them on the route toward Relay K-17.
 
-The challenge window was less than six minutes away.
+Their present position was unknown.
 
-The police officer saw her turn.
+Their objective was unknown.
 
-“Eyes on me, ma’am.”
+The field operation could be intended to alter or remove local logs, maintain a surveillance gap, create physical support for the false warning, or prepare a second stage no one in the cutout could yet see.
 
-“I hear you.”
+Elias studied the page. “You’re describing three different operations.”
 
-“Then face me.”
+“Three interests,” Julie said. “They may overlap without being identical.”
 
-If Julie obeyed, she lost direct observation.
+“Vance needs Argus alive,” Marcus said.
 
-If she refused, he had to decide whether movement toward a concrete wall constituted threat.
+“Northbridge needs a crisis it can use,” Julie replied.
 
-She stepped sideways, not forward, keeping her left hand raised and the Hartwell lane inside her peripheral vision.
+“And the people near K-17 may care more about the relay than the politics,” Elias said.
 
-The officer did not draw.
+Julie nodded. “The aborted strike hurts one objective. It does not tell us what happened to the others.”
 
-Mercer’s voice hardened. “Julie, do not make proximity to the target the reason you break your own rule.”
+Marcus looked toward the garage wall, as if the distance to K-17 could be measured through concrete. “If the team already reached the relay—”
 
-He knew the pattern.
+“We do not know that.”
 
-Chen had given him the abort time or Vance had reconstructed it from Fenwick and the Hartwell schedule.
+“If it withdrew?”
 
-The words reached the wound Marcus had been pressing all morning.
+“We do not know that either.”
 
-Julie looked at the dashboard clock through the van’s windshield.
+The uncertainty remained active because the source that could resolve it had been the target.
 
-07:41:07.
+The copy process had closed one routing object without displaying it. Elias reopened the metadata tree and found a second entry nested beneath the Northbridge receipt.
 
-Eighty-three seconds.
+His posture changed.
 
-“Marcus,” she said. “Observation standard.”
+“What?” Julie asked.
 
-He answered without looking away from the west mirror.
+“A scheduled synchronization.”
 
-“Probable same motorcade support SUV continuously observed from seven-thirty-one-twenty-two except one documented twenty-one-second visual obstruction. Independent traffic and loading cameras cover the obstruction. Staff stream delivered to east controlled approach. Compact black case observed at seven-thirty-six-forty-nine. Contents and custodian unknown.”
+He expanded it.
 
-“Exfiltration.”
+ENDPOINT: NORTHBRIDGE WASHINGTON SECURE SUITE 4
+ WINDOW: 07:08 EASTERN DAYLIGHT TIME
+ PROFILE: K17-PHASE-B
+ AUTHENTICATION: HARDWARE SIGNER PRESENTATION REQUIRED
+ BUFFER RETENTION: TRANSIENT
 
-“West ramp open. Box truck clearing. Police officer and Mercer on this level. East route closed. No one between van and west turn.”
+The wall clock showed 06:17:46.
 
-“Evidence.”
+Marcus leaned closer. “Phase B means they’re inside.”
 
-“Primary case sealed. Latches closed. Display green when last checked. Recovery cartridge and custody log with me.”
+“No,” Elias said at once. “It means whoever built the schedule expected a later phase. This could be a status burst, a completion report, a second Argus manipulation, a relay-log rewrite authorization, or a handoff after physical access. The metadata does not say whether access happened.”
 
-“Elias.”
+“Does it identify the sender?” Julie asked.
 
-“Partition A sealed and unchanged. Partition B sealed with WSS controller seal. Board in my physical custody. Handling journal active.”
+“Only the Northbridge suite as one endpoint. The other side is abstracted behind the task profile.”
 
-The police officer listened.
+“Message content?”
 
-He did not understand every object.
+“Not present.”
 
-He understood procedure.
+“Current team position?”
 
-“Ma’am,” he said, “whatever you are documenting can be preserved in custody. Do not move.”
+“Not present.”
 
-Julie believed he meant it.
+Julie wrote the time in the paper log.
 
-Lawful custody would secure the objects.
+07:08 EDT.
 
-It would end the observation before the physical event.
+A later operational exchange connected to K-17, scheduled through Northbridge.
 
-Both facts could be true.
+The live exchange had not happened yet.
 
-The clock showed 07:41:44.
+“What survives when it does?” Marcus asked.
 
-Forty-six seconds.
+Elias opened the trust policy attached to the schedule. “Very little. The suite creates an encrypted communications buffer when the hardware signer presents. It holds headers, routing receipts, ciphertext, and the signing chain long enough for both sides to acknowledge. Then the buffer purges.”
 
-The staff stream paused beneath the final exterior screen.
+“How long?”
 
-A dark privacy panel blocked the lower half of their bodies. Faces remained visible above it, but the group had turned toward one another. The black case did not reappear.
+“Ninety seconds under the standard profile. Maybe less if it closes cleanly.”
 
-Julie could not identify a hand.
+Julie pointed at the current certificate fingerprint. “We have a Northbridge endpoint certificate.”
 
-She had the route.
+“We have the suite certificate and a fingerprint for the external signer. Not the signer’s full certificate.”
 
-She had the vehicle.
+“Why not?”
 
-She had the time.
+“The full chain is presented live by the hardware device. Northbridge stores the trust fingerprint so it knows what to accept, but the certificate itself may travel with a portable communications unit used by whoever authorizes the session.”
 
-She had cameras outside every institution presently trying to control the record.
+Marcus said, “Sterling.”
 
-She did not have the person.
+Julie shook her head. “Unknown custodian.”
 
-At Fenwick, one more second had become eight.
+“He is tied to Northbridge.”
 
-Here, the absence of a name was the temptation.
+“So are former officials, contractors, and staff. We do not put his name on the device because we want it there.”
 
-Marcus said, “Thirty.”
+Elias enlarged the policy fields. “Capturing ciphertext alone will not be enough. Northbridge can say the buffer was fabricated or that the suite received an unrelated encrypted package. We need the live headers, routing state, hardware signature, and full signing certificate as they appear in the same session.”
 
-Julie watched the conditions, not the desired conclusion.
-
-Observation: continuous or recoverable.
-
-Yes.
-
-Module and board: intact, in custody.
-
-Yes.
-
-Primary evidence: intact.
-
-Yes.
-
-Exfiltration: one viable route.
-
-For the moment.
-
-Civilian harm required: no.
-
-Honest officer harm required: no.
-
-The mission had not failed because the answer remained incomplete. The mission was to reach the event without inventing the answer.
-
-“Ten,” Marcus said.
-
-Mercer shifted one step closer.
-
-The police officer raised a hand to stop him.
-
-Institutional authority divided in real time.
-
-“Five.”
-
-Julie looked at the dashboard clock.
-
-07:42:30.
-
-“Conditions pass,” she said.
-
-Marcus released a breath he had not been taking fully.
-
-The rule had not moved.
-
-For the first time that morning, Julie had reached a hard line and made the decision the line required rather than the decision proximity demanded.
-
-“Continue observation,” she said. “No movement toward Hartwell.”
-
-The police officer heard the last sentence.
-
-Some of the tension left his shoulders.
-
-Mercer’s did not.
-
-“You are still under apprehension,” he said.
-
-“I know.”
-
-“Then set down the media.”
-
-“No.”
-
-The west ramp remained open.
-
-The staff group remained at the exterior screen.
-
-The operation continued by a margin measured in one route and a few minutes.
-
-At 07:43:02, the box truck cleared the west ramp.
-
-A Metropolitan Police cruiser crossed the street beyond the exit, slowed, then continued toward the opposite corner. The civilian gate kept releasing cars.
-
-Marcus looked through the mirror.
-
-“Route narrowing.”
-
-“Closed?”
-
-“No. West gate clear. Cruiser one block out. Civilian traffic between us and it.”
-
-The distinction bought seconds.
-
-Julie backed toward the van one step at a time while maintaining the eastern sightline. Elias moved with her. His hip failed on the second step. He struck the concrete barrier with one shoulder but kept the module against his chest.
-
-Julie reached for him with her right hand.
-
-The wrist refused.
-
-She caught his upper arm with her left and stabilized him without taking the module.
-
-The police officer moved instinctively to help, then stopped when Mercer said, “Hold.”
-
-Elias found his footing.
-
-“I have it.”
-
-Julie released him.
-
-They were ten feet from PCF-27 now.
-
-Close enough for exfiltration.
-
-Far enough to keep the eastern lane visible through the opening beyond the hood.
-
-A second uniformed Hartwell officer joined the staff group. The person in the dark overcoat moved to the rear. The man from the front passenger seat moved to the left. The fourth person stood between them.
-
-Any one of them could hold the signer.
-
-None of them visibly did.
-
-Elias pressed another event marker.
-
-HANDLING EVENT 006  
-DEVICE TIME: 07:43:31.882  
-OPERATOR INPUT: MANUAL
-
-The police officer said, “Sir, stop pressing controls.”
-
-“It is a handling-time marker,” Elias replied. “It does not transmit.”
-
-“You expect me to know that?”
-
-“No.”
-
-The honesty stopped the officer for half a second.
-
-Marcus opened the passenger door.
-
-“Julie.”
-
-The west exit was no longer anonymous.
-
-Police moved toward the gate, exposing the route while civilian cars still cleared one at a time.
-
-The lane remained fully open for PCF-27 to clear the garage and turn west.
-
-Operationally, it had become visible.
-
-“Still viable?” Julie asked.
-
-“West ramp and gate open. You can reach the wheel in five seconds. I can move the van far enough to clear this level if I have to.”
-
-The hard condition required a viable exfiltration route, not a promise that no one waited beyond it.
-
-The route still preserved the evidence and kept them outside Hartwell.
+“And if the message identifies K-17?” Marcus asked.
 

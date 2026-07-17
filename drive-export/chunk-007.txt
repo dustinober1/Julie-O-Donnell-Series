@@ -1,654 +1,258 @@
-Vance’s eyes narrowed slightly.
+Mercer looked to Sarah. An undocumented seizure could later be described as destruction of government evidence. Allowing Marcus to retain the case risked letting proof leave the facility.
 
-Elias understood.
+Sarah chose a third option.
 
-No federal authority had taken control yet.
+“Escort them to Conference Room Four. Colonel Reed may retain the case until counsel arrives.”
 
-Apex wanted the signed statement before anyone outside the company examined the logs.
+Marcus demanded Army counsel rather than Apex lawyers. Sarah answered only that he could request whoever he liked once they reached the room.
 
-“How long do I have?” Elias asked.
+A room controlled by Apex. Telephones controlled by Apex. Counsel contacted after the company had time to define the record.
 
-“Until the final telemetry review concludes.”
+The official version was already being written.
 
-“When?”
+Julie rose. “Lead the way.”
 
-“Sixteen-twenty.”
+The corridor outside Room 402B was lit by emergency fixtures. Mercer walked ahead while Sarah followed behind Marcus and Julie, flanked by the other officers. Julie counted four offices, a secure records room, a service corridor, and the elevator lobby.
 
-The source certification was scheduled for sixteen-thirty.
+No employees.
 
-Ten minutes to process the confession and fix the record before the false intelligence became official.
+“You evacuated the floor,” Julie said. “You didn’t want witnesses.”
 
-“You need me blamed before the packet leaves,” Elias said.
+“We reduced unnecessary personnel movement during the incident. We didn’t want additional exposure to classified material.”
 
-Vance closed the folder.
+At the elevator lobby, Mercer’s badge produced no response. The elevators remained isolated in Sector Four. An officer checked his radio, received a burst of static, then repeated the instruction to hold the “subjects” at the second-floor internal muster area. The word did more than identify them. It converted a technical review into custody without requiring anyone to say they were detained.
 
-“I need an accurate administrative record before speculation contaminates the response.”
+Marcus caught the word.
 
-“Julie has the files.”
+“We’re not going to a conference room. Conference Room Four is on six.”
 
-“Ms. O’Donnell has an incomplete data capture produced during a security incident. She has no current clearance, no chain of custody, and a documented history of disputed analysis involving an earlier Argus deployment.”
+“The location changed,” Sarah said as she entered Stairwell C. “The muster area has secure communications.”
 
-“You already have the story written.”
+Bare concrete and red emergency lights replaced the carpeted corridor. Julie checked the evacuation map: fourth-floor Room 402B, third-floor parking skybridge, second-floor internal muster area behind another controlled boundary.
 
-“I have the system record.”
+At the third-floor landing, she stopped beside a manual fire-alarm station. The independent life-safety panel remained active.
 
-“You have the official version.”
+SECTOR 4 AIR-HANDLING FAULT  
+ACKNOWLEDGMENT PENDING
 
-Something passed across Vance’s face.
+“You locked an occupied room while ventilation was offline,” Julie said.
 
-Recognition, perhaps.
+“It has been restored.”
 
-Then it was gone.
+“The system still shows the fault.”
 
-He stood.
+“Facilities will clear it.”
 
-“A security officer will return with the statement. I encourage you to distinguish between protecting yourself and making a gesture no one will remember.”
-
-The door opened.
-
-Elias looked at the thermostat behind him.
-
-A simple digital unit connected to the building’s environmental-control bus.
-
-Not an evidence terminal.
-
-Not a communication device.
-
-A physical system that had to remain active even when everything else was locked down.
-
-Vance paused at the threshold.
-
-“One more thing.”
-
-Elias looked at him.
-
-“If you removed any component from the maintenance drive before security recovered it, possessing that component will not improve your position.”
-
-The door sealed.
-
-Elias waited until the lock engaged.
-
-Then he touched the Apex badge resting against his chest.
-
-Vance suspected.
-
-That meant Elias had less time than the clock suggested.
-
-Room 214
-
-Manassas, Virginia
-
-13:54 Eastern Daylight Time
-
-The motel room smelled of old smoke, industrial cleaner, and damp carpet.
-
-Julie closed the curtains and moved the table away from the window. Marcus locked the door, slid the chain into place, and positioned the desk chair beneath the handle.
-
-Neither precaution would stop a determined entry.
-
-They would make one noisy.
-
-Julie placed the ThinkPad on the table.
-
-“Bathroom.”
-
-Marcus looked at her.
-
-“What about it?”
-
-“Check the vent, mirror, smoke detector, and light fixtures.”
-
-“You think Apex planted surveillance in a motel room before we arrived?”
-
-“No. I think cheap motels plant cameras for reasons that have nothing to do with Apex.”
-
-Marcus inspected the room.
-
-Julie removed the laptop battery, opened the service panel, and disconnected the wireless card. She took out the internal storage drive next.
-
-When Marcus returned, he held up the smoke detector.
-
-“Battery and dust.”
-
-“Mirror?”
-
-“Wall behind it.”
-
-“Vent?”
-
-“Enough mold to qualify as its own intelligence service.”
-
-Julie connected a clean boot drive purchased from the electronics shop and started the machine.
-
-A basic Linux environment loaded into memory.
-
-No local storage.
-
-No network.
-
-Marcus placed the aluminum case beside her.
-
-“How do we open it?”
-
-Julie examined the drive cradle.
-
-The government evidence device had been designed for field investigators collecting data from classified systems. Its encryption keys were generated when the capture was sealed. Ordinarily, the contents would be opened inside another approved government environment.
-
-A small maintenance port on the back provided a read-only forensic mode.
-
-Julie connected it to the laptop.
-
-The screen displayed an encrypted container.
-
-AUTHENTICATION REQUIRED.
-
-Marcus inserted his physical common access card into the portable reader built into the case.
-
-The system paused.
-
-His credentials had been revoked from the network, but the evidence device was offline. It still recognized the certificate cached when the capture began.
-
-REED-OVERSIGHT-117
-LOCAL SESSION VALID
-NETWORK VERIFICATION UNAVAILABLE
-
-“Your ghost still has authority,” Julie said.
-
-“For how long?”
-
-“Until someone updates the dead.”
-
-He entered his PIN.
-
-The evidence container mounted.
-
-Julie enabled read-only access before opening the manifest.
-
-CAPTURE STATUS: PARTIAL
-FILES SEALED: 136
-FILES INCOMPLETE: 47
-FILES EXCLUDED DURING FINALIZATION: 311
-
-Marcus read the numbers.
-
-“That sounds bad.”
-
-“It sounds incomplete.”
-
-“Is there a difference?”
-
-“Incomplete tells us what we don’t have.”
-
-“And bad?”
-
-“Bad tells us after we rely on it.”
-
-She generated new checksums for every sealed file and compared them against the integrity manifest.
-
-All 136 matched.
-
-That established that the files had not changed since the capture was finalized.
-
-It did not establish that they had been genuine at the time of capture.
-
-Julie began with the raw relay samples.
-
-The impossible packet interval remained.
-
-Eleven-point-two seconds.
-
-The repeated carrier-noise sequence remained.
-
-The path through solid terrain remained.
-
-She opened the Payload 88 index.
-
-The archived package matched the region, scenario, emitter type, and packet interval of the operational feed.
-
-The eighth revision carried Elias Thorne’s author certificate.
-
-A ninth checksum had appeared three weeks after archival.
-
-No author.
-
-No revision notes.
-
-No new package number.
-
-“The ninth version is the bridge,” Marcus said.
-
-“Maybe.”
-
-“What else could it be?”
-
-“A metadata repair. A storage migration. A signing update.”
-
-“You don’t believe that.”
-
-“I believe certainty is expensive.”
-
-Marcus stepped away from the table and paced between the beds.
-
-Julie opened the copied access logs.
-
-Most ended abruptly when Apex sanitized the review partition. Several were incomplete fragments containing only the last blocks written before finalization.
-
-She searched for Package 88.
-
-One fragment appeared.
-
-VAL-088
-ARCHIVE STATUS: CLOSED
-POST-ARCHIVE OBJECT CREATED
-OBJECT ID: PAK_RELAY_17A_SOURCE_CORRECTION
-
-Below it:
-
-DEPLOYMENT BRIDGE: ACTIVE
-AUTHORIZATION CHAIN: APX-DIR-0019
-OPERATIONAL STATUS: LIVE
-
-Marcus stopped pacing.
-
-“That proves it.”
-
-“It proves an object derived from Payload Eighty-Eight entered the operational environment through a director-level service.”
-
-“Director-level means Vance.”
-
-“It means someone with access to a director certificate.”
-
-“Who controls the site?”
-
-“Vance.”
+Marcus understood a fraction before Sarah did.
 
 “Julie.”
 
-“A conclusion is not stronger because we want it quickly.”
+She pulled the handle.
 
-Marcus planted both hands on the table.
+A siren erupted through the concrete shaft. White strobes flashed, and a recorded voice ordered immediate evacuation by the stairs.
 
-“An Apex director credential pushed a synthetic war scenario into a live Pakistan feed. Vance restricted your access, erased the review partition, suspended me, and sent security to take the drive. How much more do you need?”
+Mercer seized Julie’s wrist.
 
-“Enough that another person cannot explain every fact separately.”
+“What the hell are you doing?”
 
-“They don’t need to explain it separately.”
+“Reporting a life-safety failure.”
 
-“That is exactly how they will explain it.”
+“This is a false alarm.”
 
-She pointed toward the screen.
+“The panel says otherwise.”
 
-“The synthetic package resembles the operational feed because it was built from realistic field patterns. The ninth checksum was a routine archive migration. APX-DIR-0019 is an automated deployment service used by dozens of administrators. Vance restricted us because we exceeded scope. The partition was erased because we attempted an unauthorized export. Your credentials were suspended because you helped me.”
+Sarah reached for the reset key on her lanyard, but Marcus stepped between her and the alarm.
 
-Marcus stared at her.
+“Don’t. You kill it before county dispatch clears it, and I add interference with an emergency system to the report.”
 
-“You sound like their lawyer.”
+“Your credentials are suspended.”
 
-“I sound like the person who knows what they will say.”
+“The fire department won’t care. They’ll care why your secure floor lost ventilation while occupied.”
 
-“What does the truth look like to you?”
+Doors opened above and below. Employees entered the stairwell in uneven groups—engineers with emergency bags, office staff carrying coats, a woman hauling an oxygen kit from a wall cabinet. The controlled escort dissolved into evacuation. Mercer released Julie’s wrist and ordered his officers to keep them moving toward the ground-floor assembly point, but every new body made the formation less credible and the witnesses harder to manage.
 
-“A chain they cannot break without contradicting themselves.”
+Sarah leaned close to Marcus. “You think an alarm makes you safe?”
 
-She opened the package-recovery documentation included in the index metadata.
+“No. I think witnesses make you careful.”
 
-VALIDATION OBJECT RECOVERY PROTOCOL
-SOURCE-PROVENANCE CHALLENGE AVAILABLE
-REQUIRED AUTHENTICATION:
+At the third-floor landing, Julie reached for the crash bar marked PARKING SKYBRIDGE / EMERGENCY EGRESS.
 
-VALIDATION AUTHOR BIOMETRIC
+Mercer caught her shoulder. “Ground floor.”
 
-DEPLOYMENT-AUTHORITY CERTIFICATE
+“My vehicle is on three.”
 
-LOCAL PRODUCTION-ROOT ACCESS
+“The parking bridge is not an authorized assembly route,” Sarah said.
 
-Marcus read the list.
+Julie pressed the crash bar. The door moved half an inch before Mercer pulled her back.
 
-“Elias.”
+Marcus set down the case. Mercer’s attention flicked toward it.
 
-“He can supply the author biometric.”
+That was the mistake.
 
-“If he’s involved.”
+Marcus drove his forearm between Mercer’s wrist and the electroshock weapon, redirecting the muzzle. The cartridge discharged with a flat crack. Two barbed probes struck the emergency map and snapped against its plastic cover.
 
-“If he deployed it himself, we need him. If he was framed, we need him more.”
+The stairwell erupted in shouting. Marcus twisted Mercer’s arm until the weapon dropped, shoved him against the handrail, and grabbed the case.
 
-“What does a source-provenance challenge do?”
+“Go.”
 
-Julie opened the next page.
+Julie hit the crash bar. They ran into the third-floor corridor as Sarah ordered security to “contain the bridge”—language chosen for the recording.
 
-“When the operational source matches an archived synthetic package, it restores the original labels and forces Argus to rerun the assessment without the validation data.”
+The biometric turnstiles had retracted into emergency-egress position. Julie and Marcus joined the flow across the skybridge. White strobes multiplied their reflections across the glass. Below them, a county fire engine turned into the campus entrance as the outer bollards retracted. Guards who had controlled every vehicle entering the campus now had to yield to an emergency system whose records would exist outside Apex.
 
-“Would that stop the Indian warning?”
+The alarm had reached someone Apex did not employ.
 
-She read farther.
+Julie cut toward the visitor parking section. Two officers pushed through the evacuees behind them.
 
-“Any downstream release product depending on the challenged source is suspended until human review.”
+“Keys?” Marcus asked.
 
-Marcus checked his watch.
+Julie pulled the mechanical key from her pocket. “They kept the electronic fob.”
 
-“Source certification was at sixteen-thirty.”
+“Can you start it?”
 
-“According to the copied schedule.”
+“It’s a truck, not a space program.”
 
-“Two and a half hours.”
+She unlocked the Ford manually. Marcus climbed into the passenger side with the case. The engine turned once and failed.
 
-“Less now.”
+The officers were twenty yards away.
 
-“What happens after source certification?”
+Julie tried again. The V8 caught with a rough growl.
 
-“The report leaves Apex’s controlled environment. India receives it as a validated American assessment. The executable support product remains on operational hold until zero-five-hundred. We may still invalidate the source before that commit, but the original warning will already be in their system.”
-
-Marcus looked at the evidence drive.
-
-“We send this to Hackett now.”
-
-“From what?”
-
-“The motel phone.”
-
-“Unclassified line.”
-
-“We don’t send the files. We tell him where we are.”
-
-“And bring him here?”
-
-“Bring someone with federal authority.”
-
-“Assuming he believes you.”
-
-“He knows me.”
-
-“So did Hargrove.”
-
-Marcus flinched.
-
-Julie regretted the comparison as soon as she made it.
-
-She did not take it back.
-
-Marcus walked to the telephone beside the bed.
-
-“I have to try.”
-
-“I know.”
-
-He lifted the receiver and dialed the Pentagon’s public switchboard from memory.
-
-Julie continued reviewing the capture while he waited.
-
-“Office of the Deputy Director for Operational Intelligence,” a voice answered through the receiver.
-
-“This is Colonel Marcus Reed. I need General Hackett immediately.”
-
-“May I ask what this concerns?”
-
-“Tell him Reed is calling regarding the South Asia source certification.”
-
-A pause.
-
-“Colonel Reed, hold.”
-
-Marcus turned slightly so Julie could not read his expression.
-
-The hold music lasted eighteen seconds.
-
-Then a man answered.
-
-“Marcus.”
-
-General William Hackett’s voice was recognizable even through the motel receiver. Julie had met him once, years earlier, before the Anwar strike.
-
-“Sir, I need you to listen,” Marcus said. “The Pakistan assessment is compromised. We found synthetic validation data inside the live relay feed.”
-
-“Where are you?”
-
-“I’m not giving a location over this line.”
-
-“Are you with O’Donnell?”
-
-“Yes.”
-
-Another pause.
-
-“Do you have classified material?”
-
-“We have a sealed incident capture from the Reston review environment.”
-
-“You removed it after your authority was suspended.”
-
-“My authority was suspended while I was submitting a source-defect notice.”
-
-“Marcus, Army counterintelligence has received a report that your credentials were used to export restricted program data.”
-
-“From Apex.”
-
-“From the facility security authority.”
-
-“Vance is the subject of the report.”
-
-“You don’t know that.”
-
-“An Apex director certificate deployed a synthetic package into production.”
-
-“Then you bring the device to Fort Belvoir and surrender it through the proper channel.”
-
-“Will the South Asia certification be suspended while it is reviewed?”
-
-Hackett did not answer immediately.
-
-“That decision is being handled.”
-
-“By whom?”
-
-“Return the material, Marcus.”
-
-“Will you suspend certification?”
-
-“I cannot act on data I have not seen.”
-
-“If I turn it over at the gate, Apex will challenge the capture before it reaches you.”
-
-“Apex does not control Army counterintelligence.”
-
-“No. They control the system record counterintelligence will use.”
-
-Hackett’s voice lowered.
-
-“You are on an unsecured line. Stop talking.”
-
-“Then give me a safe channel.”
-
-“Report to Fort Belvoir. Enter through Tulley Gate and request the duty counterintelligence officer.”
-
-“That credential is dead.”
-
-“You will be detained long enough to establish your identity.”
-
-“And the drive?”
-
-“It will be taken into custody.”
-
-“By whom?”
-
-“The appropriate personnel.”
-
-Marcus closed his eyes.
-
-Julie heard what he heard.
-
-No name.
-
-No guarantee.
-
-No hold on the certification.
-
-Hackett was either constrained, uncertain, or already treating Marcus as a security risk.
-
-Possibly all three.
-
-“Sir, the assessment certifies at sixteen-thirty,” Marcus said. “If India acts on it, people die.”
-
-“I understand the stakes.”
-
-“Then stop the packet.”
-
-“I need admissible evidence.”
-
-“We are trying to give you admissible evidence.”
-
-“You are fleeing with it.”
-
-Marcus’s grip tightened around the receiver.
-
-“I trusted the channel six years ago.”
-
-Hackett went silent.
-
-“So did Julie,” Marcus said. “Look what the channel did to her.”
-
-Julie stopped typing.
-
-“Turn yourself in,” Hackett said.
-
-“Sir—”
-
-“That is the only lawful instruction I can give you.”
-
-The line disconnected.
-
-Marcus continued holding the receiver after the dial tone returned.
-
-Julie looked back at the files.
-
-“Was that Hackett?”
-
-“Yes.”
-
-“Did he believe you?”
-
-“He believed I had the drive.”
-
-“That wasn’t the question.”
+“Any chance this thing has a quiet setting?”
 
 “No.”
 
-Marcus placed the receiver in its cradle.
+She backed out. One officer slapped the rear panel and jumped aside. The second ran in front of the hood, one hand near his holstered sidearm.
 
-He sat on the edge of the bed.
+“Turn off the engine!”
 
-For the first time since the escape, he looked tired rather than alert.
+Marcus lowered his window. “Move away from the vehicle.”
 
-“My command has a security report with my name on it.”
+“Colonel, you are not authorized to leave.”
 
-“Probably.”
+“Then call federal law enforcement. They can meet us somewhere your company doesn’t own.”
 
-“Counterintelligence is looking for us.”
+The officer drew an electroshock weapon. Julie shifted into drive.
 
-“Probably.”
+She did not accelerate toward him.
 
-“I’m giving you too much material for that word.”
+He stepped aside.
 
-“It keeps us from pretending we know their reach.”
+Julie drove down the ramp. Sarah was climbing into a black security SUV. Evacuating employees clogged the lower levels, forcing Julie to use the outer spiral and pass two stopped cars before their drivers understood what she was doing.
 
-He rubbed both hands across his face.
+At the exit, raised steel bollards blocked the outbound lane. The inbound lane stood open for an arriving fire engine. Julie crossed the painted divider and slotted the Ford behind it, close enough to disappear in red light and diesel exhaust. The checkpoint guards could not raise the bollards without stopping the emergency response.
 
-“I should have forced the defect report through before we entered the review room.”
+She followed the engine through the gate. At the first intersection, the engine turned right and Julie went left. The black Apex vehicle emerged from the campus behind them. Julie merged into lunchtime traffic on the Fairfax County Parkway between a delivery van and a utility truck. The tail remained two car lengths back, close enough to pressure her and far enough to avoid forcing a public stop.
 
-“They would have called it premature.”
+“Open the case.”
 
-“I should have brought a second oversight officer.”
+Marcus released the latches. The evidence drive rested in its foam cradle. The monochrome display read:
 
-“Apex would have prepared for two.”
+CAPTURE SEALED  
+PARTIAL ARCHIVE  
+INTEGRITY VERIFIED
 
-“I should have backed you six years ago.”
+“What does partial mean?”
 
-Julie’s hands stopped above the keyboard.
+“It means we have enough to make them nervous and not enough to make us safe.” The drive held the archive index, checksums, and matching relay interval, but only part of the deployment record. It did not contain the carrier profile or proof of who had modified the package.
 
-Marcus stared at the carpet.
+Marcus connected his secure Army handset.
 
-“I told myself the panel already knew Hargrove was responsible,” he said. “I told myself confirming that you raised concerns would be enough. When they asked whether you issued a formal recommendation before the final minute, I knew what they wanted.”
+TERM AUTHORITY REVOKED  
+CONTACT SECURITY OPERATIONS
 
-“You gave it to them.”
+“They killed my credentials.”
 
-“Yes.”
+“Someone pushed the suspension beyond Apex. Vance doesn’t need to revoke your commission. He needs a government official to flag your token while they investigate.”
 
-The word was barely audible.
+The handset rejected Marcus’s biometrics and dropped both an emergency attempt and an unclassified call.
 
-“I thought if I challenged the timeline, the investigation would turn toward the classified routing architecture. The program office would close ranks. Hargrove would survive anyway, and I would lose any ability to help you.”
+He wanted to reach Hackett face-to-face. Julie reduced the problem to what mattered: entering the Pentagon with a revoked token, classified data, and an Apex report already defining their escape would result in detention and seizure before anyone examined the files.
 
-“You didn’t help me.”
+“We inspect what survived first,” she said. “Somewhere forgettable.”
 
-“No.”
+The Apex SUV stayed behind them. At a yellow light, Julie held her speed until the last safe moment, then braked hard behind a delivery van. The tail swerved into the adjacent lane to avoid being trapped. Julie turned through a shopping-center entrance before the light changed, crossed the parking lot, passed behind a grocery store, and entered a service lane between loading docks. The lane emptied onto a local road running parallel to the parkway.
 
-Rain began ticking against the motel window.
+No black vehicle followed.
 
-Marcus continued.
+That did not mean they had lost it. The driver could circle ahead, surrender the visible tail, or let traffic cameras continue the work.
 
-“I protected my access because I thought access was influence. I thought staying inside mattered more than telling the panel exactly what happened.”
+After two miles, Marcus laid the dead phone on the console. Julie’s phone and electronic fob remained at Apex. She still had the mechanical key. Apex knew the truck and her Culpeper address.
 
-“And did it?”
+The farm appeared in her mind: listing porch, damaged fence, horses waiting for evening.
 
-“No.”
+They needed only a map.
 
-Julie looked at him.
+“We don’t go to Culpeper.”
 
-“I don’t need an apology today.”
+“I wasn’t suggesting it.”
 
-“I know.”
+“We have files copied from a monitored partition. Vance controlled the source environment and knew the destination device. Until we inspect them, we don’t know whether they let us take poisoned evidence.”
 
-“I need you to decide what you will do when following procedure and doing the right thing stop being the same action.”
+Marcus looked out at the trees, then nodded.
 
-He lifted his eyes.
+“Where?”
 
-“I think that decision happened in the stairwell.”
+Julie saw a sign for Manassas.
 
-“No. The stairwell was survival.”
+“Somewhere forgettable.”
 
-She turned the laptop toward him.
+Forward Post Arjun
 
-“This is the decision.”
+Kashmir
 
-Onscreen, the recovery protocol remained open.
+22:18 Indian Standard Time
 
-VALIDATION AUTHOR BIOMETRIC REQUIRED.
+Major Ananya Sharma read the American assessment twice: first as an officer, then as someone who had spent eleven winters watching machines misunderstand mountains. Wind drove ice against the armored windows. The valley below had disappeared behind cloud and darkness.
 
-“Going back inside?” Marcus asked.
+Lieutenant Sameer Qureshi stood by the console.
 
-“Not yet.”
+“Argus confidence is ninety-nine point eight percent.”
 
-“You’re thinking about it.”
+“I can see the number. Where is the corroboration?”
 
-“I’m thinking Elias Thorne is either the person who deployed Payload Eighty-Eight or the person Vance intends to blame for it.”
+Satellite collection was degraded by weather. Forward acoustic arrays reported intermittent heavy-engine signatures in Sector Zebra-Nine. Two communication relays had caught encrypted command traffic, but the bursts were too short to establish movement independently. There was no ground observation, drones were grounded for icing, and local signals intelligence was inconclusive. Every supporting source offered possibility. Only Argus offered certainty.
 
-“Either way, he’s inside.”
+Red symbols marked a predicted Pakistani artillery formation moving into firing positions beyond the Line of Control. The batteries, command vehicles, and ammunition carriers followed a formation too orderly for the terrain and weather. If accurate, the deployment threatened three forward posts and the supply road behind them. If false, firing first could ignite the sector and make every later movement look like confirmation.
 
-Julie searched the access-log fragments for his employee number.
+“When does the United States certify?”
 
-Three results appeared.
+“Zero-two-hundred local.”
 
-The first showed Elias accessing the production registry.
+“And the support window?”
 
-The second showed an unauthorized-peripheral alert attached to his workstation.
+“The counter-battery product releases at fourteen-thirty. Northern Command has requested firing solutions now.”
 
-The third was a security workflow generated minutes before Julie and Marcus’s review room was quarantined.
+“Requested or ordered?”
 
-SUBJECT: THORNE, ELIAS M.
-ACCESS STATUS: SUSPENDED
-ESCORT REQUEST: ACTIVE
-DESTINATION: ADMINISTRATIVE HOLD
-LOCATION: BUILDING THREE
+“Requested, ma’am.”
 
-“He found it at the same time we did,” Julie said.
+Sharma looked back at the assessment. It described the threat as certain. She had learned to distrust that word long before algorithms began using it.
 
-Marcus came to the table.
+“Bring the batteries to readiness. No ammunition at the guns and no targeting data loaded. We prepare, and we wait for corroboration.”
 
-“How can you tell?”
+“If the American certification arrives unchanged, Northern Command may expect execution.”
 
-“The system flagged his workstation for removable media. Then security locked his account and moved him into administrative hold.”
+“Northern Command is not standing in this bunker.”
 
-“Maybe he was trying to cover his tracks.”
+The console chimed.
 
-“Maybe.”
+SOURCE REVIEW IN PROGRESS  
+FINAL CONFIDENCE CERTIFICATION PENDING
 
-“But you don’t think so.”
+The warning remained for less than a second, then vanished.
+
+CONFIDENCE: 99.8%  
+SOURCE INTEGRITY: VERIFIED
+
+Sharma leaned toward the screen.
+
+“Did you see that?”
+
+“Yes, ma’am.”
+
+“What changed?”
+
+Qureshi opened the history. “No revision is listed.”
+
+“Then someone revised it without leaving a revision.”
 

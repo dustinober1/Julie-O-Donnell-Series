@@ -1,439 +1,298 @@
-Chen said, “Elias, you are still listed as a possible hostage. Step away from Julie and surrender. Your participation can be evaluated separately.”
+A service radio mounted beneath the dash remained alive, still switched to the county fire-interoperability channel. A dispatcher’s voice broke through the fire traffic.
 
-He looked at the speaker.
+“All units, intelligence bulletin follows. Primary subject Julie O’Donnell, former Army intelligence officer, considered armed. Suspected deliberate sabotage at Apex Building Three and theft of classified national-security material. Associated white contractor van, Virginia commercial registration—”
 
-The offer contained a room, a lawyer, and a version of the morning in which every dangerous act belonged to someone else.
+Marcus reached for the radio control, then stopped.
 
-The interface changed.
+Turning it off would not stop the bulletin. It would only make them deaf to it.
 
-EVENT ORDER VERIFIED  
-CONTROLLER SEAL GENERATING
+The utility road carried them away from the campus into the wet pre-dawn darkness. Building Three’s strobes receded in the mirrors. The aluminum case remained wedged behind Julie’s seat. Elias held the signed recovery cartridge against his chest. Marcus watched the security vehicle clear the gate behind them.
 
-Elias did not move.
+“They have the plate,” he said. “Every camera from the dock to the fence. Pursuit will be on us as soon as they clear the fire lane.”
 
-West Loading Lane  
-Washington, D.C.  
-07:09 Eastern Daylight Time
+Julie guided the van onto the first public road with her left hand fixed at the top of the wheel.
 
-Marcus saw the response arrive before the radio confirmed it.
+No one asked where they were going yet.
 
-A dark SUV entered the west end of the block and slowed beside the Fenwick alley. A second stopped at the intersection. Neither carried Apex markings.
-
-The service radio carried a District unit acknowledging a delayed plate-reader match.
-
-“White Potomac Critical Facilities van captured eastbound Theodore Roosevelt Bridge at approximately zero-six-fifty-four. Units check L Street and adjacent commercial corridors.”
-
-The camera had seen them. The systems had needed fifteen minutes to agree.
-
-Marcus looked toward the service entrance.
-
-No Julie. No Elias.
-
-His watch showed 07:09:12.
-
-He pulled the aluminum case into the passenger footwell and wedged his left ankle against it. The folder stayed beneath his jacket.
-
-Two men stepped from the first SUV.
-
-Marcus started the van.
-
-His right thigh tightened before his foot settled on the brake. He shifted sideways and brought his left foot across the pedals. The movement pulled his ribs against the belt and narrowed the windshield until the dizziness passed.
-
-Then he moved.
-
-The east service court required two right turns and a slow passage behind the loading bays. Marcus drove at delivery speed with his left foot. The taped heel of his right boot dragged across the floor.
-
-A marked Metropolitan Police cruiser turned onto L Street behind him without activating its lights.
-
-At 07:09:51, Marcus reached the green canopy.
-
-The code-required exit remained closed.
-
-He pressed the horn twice.
-
-The sound struck the brick and entered the building.
-
-The dark SUVs reached the west alley.
-
-Northbridge Secure Suite 4  
-Washington, D.C.  
-07:10 Eastern Daylight Time
-
-The horn arrived as two flattened notes beneath the alarm.
-
-The wall clock changed to 07:10:00.
-
-CONTROLLER SEAL: 94%  
-DO NOT REMOVE MEDIA
-
-“Pull it,” Julie said.
-
-Elias kept both hands in place. “It isn’t complete.”
-
-“The abort is now.”
-
-“If I pull it, they can say we assembled the event order ourselves.”
-
-“Elias.”
-
-“It isn’t complete.”
-
-A heavy knock struck the secure-domain door.
-
-“Northbridge security. Open the door and step away from all equipment.”
-
-Ninety-six percent.
-
-Chen’s voice came through the speaker. “Julie, your abort time has passed.”
-
-The words landed harder than the alarm.
-
-Vance had reconstructed their objective from the vendor watch and the scheduled session. He had built the trap around the only record they could not create elsewhere.
-
-Ninety-eight percent.
-
-Julie put her left palm against the green crash bar.
-
-She had given Marcus the time.
-
-She had required Elias to repeat it.
-
-The rule existed because success would make breaking it feel reasonable.
-
-“One more second,” Elias said.
-
-The clock changed to 07:10:07.
-
-The interface chimed.
-
-INCIDENT PACKAGE SEALED  
-PARTITION B: COMPLETE  
-EVENT ORDER: VERIFIED  
-NORTHBRIDGE CONTROLLER SEAL: VALID  
-CAPTURE END: 07:10:08.021 EDT
-
-Elias rotated the collar and removed the module.
-
-PARTITION A: SEALED / READ-ONLY / INTEGRITY UNCHANGED  
-PARTITION B: SEALED INCIDENT CAPTURE
-
-Julie opened the fire door.
-
-The seal had cost eight seconds.
-
-The primary exit was gone.
-
-Bell remained beside the wall phone, watching her own controller convert the breach into a record.
-
-“Do not let them erase the local audit,” Julie said.
-
-Bell’s fear hardened into anger.
-
-“Get out of my building.”
-
-Julie nodded once.
-
-She and Elias entered the fire corridor.
-
-They touched no other terminal. They opened no archive. They took nothing that had not entered their own incident module.
-
-Fenwick Annex Service Corridor  
-Washington, D.C.  
-07:11 Eastern Daylight Time
-
-The fire corridor descended around the secure suite in an ordinary concrete stair. Green lights marked each landing. Red alarm contacts flashed above closed doors.
-
-Elias held the module against his chest beneath the rain shell. His left hip shortened each step. Julie stayed one stair below him, close enough to catch a fall with her body because her hands could not.
-
-Voices rose from beneath them.
-
-Building security.
-
-A Northbridge employee came through the door above carrying a laptop and coat. She froze when she saw Julie.
-
-“Go down,” Julie said. “Inside rail. We are not armed.”
-
-The woman hesitated, then passed.
-
-Keeping her between them and security would have bought seconds. Julie waited until she cleared the landing.
-
-A landlord guard appeared below with one hand near his holstered sidearm.
-
-“Stop. Hands where I can see them.”
-
-Julie raised her left. Elias lifted both as far as the module allowed.
-
-“We are leaving,” Julie said.
-
-“You are being detained. Put the device down.”
-
-“No.”
-
-The guard climbed carefully. He was doing the correct job with the information he had.
-
-Julie saw the sign beside the landing door.
-
-SERVICE COURT / EAST EGRESS
-
-She pressed the crash bar, let Elias through, then closed the fire-rated door behind them. She held the bar until the latch caught. No strike. No lock. One legal barrier between them and the guard.
-
-The corridor ran toward daylight.
-
-PCF-27 waited beneath the green canopy with its engine running.
-
-Marcus stood beside the driver’s door, gripping the mirror housing. Fresh blood showed through the dressing above his ear. His right leg barely held him.
-
-“Move.”
-
-A dark Apex vehicle entered from the opposite end.
-
-Daniel Mercer stepped out before it stopped. Two operators followed, one with a less-lethal launcher and one with a compact rifle held low.
-
-Mercer saw Julie, Elias, and the module beneath the rain shell.
-
-“Hands visible. Do not enter the van.”
-
-Julie continued.
-
-The rifle operator shifted for a line. Two building employees stood behind Julie near the loading door, and a Metropolitan Police officer entered the east end of the court.
-
-No clear background.
-
-Mercer raised one hand. “Hold ballistic.”
-
-The rifle stayed down.
-
-Vance’s voice broke through his radio. “Prevent loss of the media.”
-
-Chen answered over the same channel. “Capture priority. No firearm without a deadly threat and clear background.”
-
-Mercer moved toward Elias instead of the van.
-
-The less-lethal launcher came up.
-
-Julie stepped into its line.
-
-The operator held fire.
-
-Mercer reached for Elias’s left arm. Elias recoiled, and the injured hip failed beneath him. His shoulder struck the van, but the module stayed against his chest.
-
-Marcus pulled the side door open. The movement folded him around his ribs.
-
-Elias climbed.
-
-Mercer caught the back of the oversized rain shell.
-
-The fabric stretched. Elias twisted free, leaving the shell in Mercer’s hand. He fell onto the cargo deck in his torn office shirt, arms around the module and board.
-
-Julie reached the driver’s door.
-
-Marcus still blocked it.
-
-“Across.”
-
-“I’m moving.”
-
-He used the wheel to drag himself over the console. His injured thigh struck the aluminum case in the passenger footwell. The impact reopened the scalp wound and drove blood toward his cheek.
-
-Julie got behind the wheel.
-
-The police officer at the east exit kept his sidearm holstered and raised one hand.
-
-“Turn the engine off.”
-
-A linen truck was halfway through the exit. A pedestrian crossed behind it carrying coffee trays.
-
-Julie kept the van still.
-
-Mercer reached the passenger side.
-
-“Engine off,” the officer repeated.
-
-The pedestrian cleared. The linen truck entered the street.
-
-Julie released the brake and followed at walking speed.
-
-She did not drive at the officer. He stepped aside rather than be struck by a van moving through an open commercial exit.
-
-Mercer slapped the passenger door and released it when the van turned. The cruiser at the west end activated its lights but could not cross the loading court without reversing around Apex vehicles and delivery traffic.
-
-Julie did not accelerate until the first intersection.
-
-No one fired.
-
-No one was run down.
-
-Behind them, Fenwick still held ordinary employees, Bell, private security, local police, an Apex team, and an independent local record of the 07:08 exchange.
-
-Downtown Washington  
-07:16 Eastern Daylight Time
-
-The radio returned to news before they cleared three blocks.
-
-“Authorities are responding to an apparent breach at Northbridge Strategic Initiatives, a Washington policy organization involved in sensitive national-security consulting. Sources say the suspects sought protected communications equipment.”
-
-Marcus sat twisted in the passenger seat with the case between his boots and the waterproof folder against his ribs. Elias remained on the cargo floor without the rain shell, holding the incident module in both hands.
-
-Its display showed only handling facts.
-
-PARTITION A  
-SEALED / READ-ONLY  
-INTEGRITY VERIFIED
-
-PARTITION B  
-INCIDENT PACKAGE SEALED  
-WSS-4 CONTROLLER SEAL PRESENT
-
-“Removal time?” Marcus asked.
-
-“Seal at seven-ten-oh-eight,” Elias said. “Media clear four seconds later.”
-
-Marcus opened the custody log over the folder and wrote the time, place, module serial, and Elias’s continuing physical custody. His hand shook. The letters remained legible.
-
-“Partition A?”
-
-“Unchanged.”
-
-“Read the exact display.”
-
-Elias did. Marcus recorded every word.
-
-The radio anchor announced Sterling’s second statement.
-
-“This morning’s attempted penetration of a Washington national-security organization confirms the seriousness of the continuing security emergency. The individuals sought in connection with the sabotage at Apex Building Three have now targeted sensitive communications supporting the United States and its partners.”
-
-The statement used the real breach to reverse the reason for it.
-
-Sterling did not mention Northbridge’s role, the K-17 session, or the signer.
-
-“Law enforcement is coordinating an appropriate federal response. I urge the public to remain calm and permit trained professionals to secure the material at risk.”
-
-The broadcast cut to Apex footage: Julie at the recovery console, Elias at a restricted terminal, Marcus blocking security, white suppression discharge, the aluminum case leaving through the loading dock.
-
-Every image was genuine.
-
-Their order created the lie.
-
-Sterling returned.
-
-“I will proceed to the emergency national-security briefing at the Hartwell Executive Briefing Annex as scheduled. The evolving border threat demands institutional discipline, reliable intelligence, and unified action.”
-
-The dashboard clock showed 07:18.
-
-Elias turned the module toward the front.
-
-“The next authentication is seven-forty-six to seven-forty-eight-thirty. Hartwell local perimeter challenge.”
-
-Marcus stopped writing. “The same device has to answer inside the briefing security domain.”
-
-“SSO-NS-zero-zero-four,” Elias said. “Same serial that answered Northbridge.”
-
-“What does the K-seventeen record give us?”
-
-“Tariq’s registered command authority was accepted. Security Line One had been passed. Relay access was not confirmed. Phase B was waiting for authorization.”
-
-“So the relay is not taken.”
-
-“The record does not prove it is.”
-
-“Second masking window?”
-
-“Seven-forty-eight to seven-fifty-four. Source-reconstruction profile pending. The command blocks are still encrypted.”
-
-Marcus closed the log.
-
-“A Sterling-office device authenticated a K-seventeen operational session and is expected inside Hartwell.”
-
-“Yes,” Julie said.
-
-“And we still cannot identify who carried it.”
-
-“No.”
-
-That was the missing fact.
-
-An aide could hold it. Counsel. Legislative security. A Northbridge intermediary. Sterling himself.
-
-The certificate had named an office and a device. It had not shown a hand.
-
-A traffic bulletin interrupted the statement.
-
-“Restrictions are beginning around the Hartwell Executive Briefing Annex. Senator Sterling’s motorcade is moving east through central Washington.”
-
-Two police motorcycles entered the intersection ahead and stopped cross traffic. Black vehicles approached from the north beneath controlled signals.
-
-The first SUV passed.
-
-Then the armored sedan.
-
-Julie could not see Sterling through the dark glass. She could not see the signer.
-
-She could see the route.
-
-PCF-27 waited at the red light while the motorcade crossed. The service radio transmitted the updated Fenwick alert. District units now had the van, the plate, its direction, and confirmation that Julie and Elias had escaped with electronic media.
-
-Marcus watched the last vehicle pass.
-
-“Hartwell will be locked down before we reach it. Your face is on every screen. The van is confirmed. We are wounded, uncredentialed, and every officer around that briefing has been told you attacked two national-security facilities.”
-
-Julie watched the motorcade move toward the next authentication point.
-
-“Then impossible is where he’ll feel safest.”
+Elias pulled the dead transponder module from its clip and held it in his shaking hand while the radio repeated Julie’s name.
 
 ---
 
-# Chapter 13 - The Carrier Stream
+# Chapter 10 - The Capital Connection
 
-Downtown Washington  
-07:18 Eastern Daylight Time
+Northern Virginia
+05:15 Eastern Daylight Time
 
-The last vehicle in Sterling’s motorcade did not follow the armored sedan.
+The dispatcher repeated the van’s Virginia registration before Julie reached the second intersection.
 
-It cleared the intersection behind two black sport-utility vehicles, held the broad federal avenue for half a block, then moved right without the police motorcycles. No flags. No visible seal. One rear running light burned weaker than the other.
+Rainwater shone across the road in long black bands. Each time the tires crossed one, the steering wheel tugged against her injured wrist. She kept her left hand high on the rim and used her right forearm only when the van tried to wander toward the shoulder.
 
-Julie watched it through the windshield while cross traffic remained stopped.
+The fleet screen had gone dark except for the fault message Elias had created by pulling the telematics connector.
 
-“Support vehicle,” Marcus said.
+FLEET COMMUNICATIONS FAULT
+VEHICLE PCF-27
 
-“Or staff,” Elias replied from the cargo floor.
+The failure changed nothing about the white paint, the Potomac Critical Facilities markings, or the temporary Apex placard still fixed inside the windshield.
 
-“Or nothing connected to the signer,” Julie said.
+Behind them, the service radio continued in a voice built to make alarm sound routine.
 
-The weakened rear light disappeared behind a city bus.
+“Primary subject Julie M. O’Donnell. Former Army intelligence officer. Considered armed. Suspected deliberate sabotage of national-security infrastructure and theft of classified material. Associated vehicle is a white Potomac Critical Facilities maintenance van, fleet identifier PCF-two-seven—”
 
-Ahead, the rest of the motorcade continued beneath controlled signals toward Hartwell. The police motorcycles opened the intersection one lane at a time. A delivery truck moved first. Then a taxi. PCF-27 waited beneath the red light with its known Virginia plate, white Potomac Critical Facilities markings, and three people the city had been told were armed.
+Elias sat sideways in the cargo opening behind the seats. The dead transponder module lay in his left palm. His other hand pressed the signed recovery cartridge and the administrator-token circuit board against his chest beneath the open edge of his coveralls.
 
-The service radio transmitted the Fenwick update again.
+The radio gave Marcus’s name next.
 
-“District units, suspect contractor van confirmed leaving the L Street response area eastbound. Electronic media believed inside. Coordinate with Hartwell traffic restrictions and do not approach without support.”
+Armed accomplice.
 
-The light changed.
+Then Elias’s.
 
-Julie put the van in motion.
+Possible hostage.
 
-Her left hand held the wheel high. The turn pulled against her braced right wrist where her forearm pressed the lower spoke. Pain moved from the base of her thumb into the elbow and stayed there.
+He looked down at the dead module as if it had made the accusation.
 
-Marcus unfolded the road map across his left thigh. Blood had dried to his jaw, but a fresh line had reached the edge of his collar from the reopened scalp wound. The aluminum case stood between his boots. He kept one ankle against it whenever the van changed lanes.
+Marcus watched the side mirror. Blood had dried from the cut above his right ear into the collar of his coveralls. He sat turned toward the window because facing forward forced his bruised ribs against the seat belt. His damaged boot rested flat and useless on the floor.
 
-Elias held the incident module in both hands. The administrator-token board remained inside the padded sleeve beneath his torn shirt. Without the borrowed rain shell, he looked less like a technician than a man who had slept in his clothes and been dragged through machinery.
+“Security vehicle is through,” he said.
 
-“What exactly are we following?” Marcus asked.
+Julie checked the rearview mirror.
 
-“Not Sterling,” Julie said. “The physical path.”
+A pair of headlights had cleared the last rise behind them. Too high for a sedan. No visible emergency lights, but the spacing and speed matched the dark Apex unit that had been trapped at the broken gate.
 
-“To Hartwell.”
+“How far?”
 
-“To the local challenge.”
+“Two intersections. Maybe less if the light changes for them.”
 
-Elias looked at the module. “The same signer serial has to answer from inside the briefing security domain between seven-forty-six and seven-forty-eight-thirty.”
+Julie held forty-five miles an hour.
 
-“We know.”
+Marcus looked at her. “That’s the right speed.”
 
-“We know the device has to be inside. We do not know when it enters.”
+“I know.”
 
-Marcus looked through the windshield toward the avenue where the motorcade had vanished. “It may already be there.”
+“A chase gives every camera a reason to remember us.”
+
+“I know that too.”
+
+The next traffic signal changed to yellow while they were still a hundred yards away. Julie let the van slow.
+
+Elias leaned forward. “You’re stopping?”
+
+“The plate is already known,” she said. “Running a red adds witnesses.”
+
+The van stopped beneath a wet signal arm. A camera housing faced the intersection from the opposite mast. Julie could not tell whether it was recording traffic flow, reading plates, or doing nothing.
+
+She assumed the first two.
+
+Marcus studied the cross street. “Left when it changes.”
+
+“Where?”
+
+“Old technical-support cutout. Fairfax County.”
+
+“Active?”
+
+“No.”
+
+“Erased?”
+
+“No.”
+
+Julie watched the signal remain red. “Connected to you?”
+
+“I used it twice. Eight years ago. The active inventory number was retired when the lease program consolidated.”
+
+“Archived records?”
+
+“Almost certainly.”
+
+“So it buys time.”
+
+“That’s all it ever did.”
+
+The headlights behind them appeared at the far intersection.
+
+Their light turned green.
+
+Julie went left.
+
+The road narrowed between data-center compounds and unfinished office buildings. Ahead, three white contractor vans pulled out of a fenced construction site together, followed by a flatbed carrying cable spools.
+
+Marcus pointed. “Stay behind the flatbed.”
+
+Julie let the early-shift traffic gather around them until PCF-27 became one white work van among several.
+
+“Placard,” she said.
+
+Elias set the transponder beside the aluminum case. He reached for the windshield with his left hand, missed the edge of the temporary Apex pass, and tried again. The adhesive resisted. The placard tore diagonally, leaving a clear corner stuck to the glass.
+
+“Good enough?”
+
+“No.”
+
+Marcus leaned across the console. The movement stopped his breathing for a second. He caught the remaining corner, peeled it free, and dropped both pieces beneath the seat.
+
+“Now it’s a known van without an Apex placard,” he said.
+
+The radio crackled.
+
+“All county units, lookout request expanding from private security incident. Vehicle last observed departing south service perimeter. Do not approach without coordination. Classified material may be present.”
+
+No sirens followed.
+
+That made the response more dangerous. Patrol cars, traffic systems, and ordinary people could begin looking without warning them that the search had reached the next road.
+
+The flatbed turned toward the parkway. Marcus directed Julie onto a service road beneath the transmission lines, behind a water-pumping station and a row of warehouse units whose loading docks faced away from the main road.
+
+“Camera coverage?” Julie asked.
+
+“Private. Uneven. I haven’t been here in years.”
+
+“So assume all of it.”
 
 “Yes.”
 
-“Then this is over before it starts.”
+The Apex vehicle did not appear at the turn. Julie did not treat the empty mirror as success. The driver could have stayed on the parkway, moved ahead, or lost them in the contractor traffic and begun feeding the plate to systems they could not see.
+
+Marcus gave directions in short pieces. Right at the dead warehouse sign. Left beyond the electrical substation. Straight through a light-industrial park where the streetlights still burned against the wet dark.
+
+At 05:31, a local news bulletin interrupted the fire traffic.
+
+Apex Building Three had experienced what the announcer called a verified fire and a classified security event. One former Army officer and two male associates were being sought. The public was instructed not to interfere. Julie’s age and description came before her name.
+
+Elias listened until the announcer repeated that he might be held against his will.
+
+“Turn it off.”
+
+Marcus’s hand moved toward the control, then stopped. “We need it.”
+
+“They’re talking about me.”
+
+“They’re also telling us what response is forming.”
+
+Elias looked at Julie’s profile. “You don’t care what they call me as long as the radio is useful.”
+
+Julie kept her eyes on the road. “I care. I also need to know where the roadblocks will be.”
+
+“There aren’t any yet.”
+
+“Not yet.”
+
+The service road ended at a broad commercial street. Julie waited behind a sanitation truck while cross traffic moved through the intersection. A marked county cruiser passed two lanes away without lights or siren.
+
+No one in the van moved.
+
+The cruiser continued north.
+
+Marcus watched it disappear. “Could have read us. Could have been looking somewhere else.”
+
+“Useful distinction,” Elias said.
+
+“It will be in five minutes.”
+
+Julie followed the sanitation truck through the light, then turned into an older industrial row with low brick fronts and steel service bays facing an alley. Marcus pointed toward a narrow driveway between two buildings.
+
+“Second bay from the end.”
+
+The door was a corrugated roll-up panel painted the same gray as the wall. No government marking remained. A small lockbox sat behind a rain hood beside the frame.
+
+Julie stopped short of the driveway. “Can you open it?”
+
+“If the code hasn’t changed.”
+
+“And if it has?”
+
+“We keep moving.”
+
+The radio repeated the registration.
+
+Julie turned in.
+
+Marcus got out slowly. His right leg nearly folded when the damaged heel touched pavement. He caught the mirror housing, waited, then limped to the lockbox. Rain darkened the blood already dried into his collar.
+
+He entered five numbers.
+
+Nothing happened.
+
+Julie watched the alley entrance in the mirror.
+
+Marcus cleared the keypad and entered six.
+
+The lockbox opened.
+
+Inside hung a brass key attached to an unlabeled steel tag. He unlocked the pedestrian door beside the bay, disappeared inside, and returned pulling a manual chain. The roll-up door rose with a dry rattle loud enough to carry down the block.
+
+Julie drove the van into darkness.
+
+Marcus lowered the door by hand.
+
+The final strip of pre-dawn light disappeared across the concrete floor.
+
+PCF-27 was out of public view.
+
+Its known plate, warm engine, tire tracks, and route into Fairfax County still existed.
+
+Decommissioned Communications Cutout
+ Fairfax County, Virginia
+ 05:42 Eastern Daylight Time
+
+The cutout smelled of dust, cold metal, and insulation that had absorbed ten years of summer heat.
+
+The garage held an empty equipment rack, a stack of acoustic panels, and a workbench scarred by soldering irons. A narrow door led into the main room. Marcus found the breaker panel by touch and brought up two rows of fluorescent lights. One flickered without settling. The other cast a weak blue-white strip over obsolete radio consoles and cabinets with their inventory labels scraped away.
+
+A battery-backed clock showed 05:42:19.
+
+Julie carried the aluminum case through first.
+
+The main room was smaller than the motel room where she and Marcus had inspected the original partial capture, though this one had been built for equipment rather than sleep. Old acoustic tile covered one wall. A disconnected regional map hung opposite it beneath dust. An analog scanner occupied the top of a rack beside a secure telephone with its handset wrapped in yellow decommissioning tape.
+
+A kitchenette opened off the rear wall. Beyond it were a washroom and a narrow observation room with opaque glass facing the alley. A steel fire door offered a second exterior exit.
+
+Marcus pointed from the garage threshold. “Workstation is in the observation room. Medical cabinet under the sink. Storage cabinet beside the rack.”
+
+Julie set the case on the equipment table and reached for the latches.
+
+Behind her, Marcus struck the door frame with one shoulder.
+
+The sound was soft. The collapse was not.
+
+His right leg gave way. He caught the jamb, but the movement pulled across his ribs. He lowered himself too quickly and ended sitting on the concrete with one hand pressed beneath his left arm.
+
+Julie left the case closed.
+
+She crossed to him and crouched.
+
+“Look at me.”
+
+“I know who you are.”
+
+“That wasn’t the test.”
+
+She switched on a flashlight from the first-aid cabinet. One pupil constricted, then the other. Equal. He tracked the beam without losing it.
+
+“Name.”
+
+“Marcus Reed.”
+
+“Location.”
+
+“An abandoned room you’re going to complain about later.”
+
+“Date.”
+
+He gave it correctly.
+
+“Nausea?”
+
+“No.”
+
+“Double vision?”
+
+“No.”
+
+“Loss of consciousness?”
+
+“Not that I noticed.”
+
+“That answer is useless.”
+
+“It’s still no.”
 

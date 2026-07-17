@@ -1,323 +1,434 @@
-Qureshi added a note identifying the fields the superseding package did not supply: no raw-event disposition list, no explanation for the missing K-17 reference stubs, no statement that the events had been disproved. The absence could result from an ordinary reconstruction rule, a classification boundary, or deliberate exclusion. Sharma did not choose among those possibilities.
+“That is normal before a scheduled session,” Bell said.
 
-She preserved the question they created.
+“Available is normal. An unconfirmed buffer self-test is the condition we were sent for.”
 
-“Could the reconstruction have rejected them as contamination?” he asked.
+The panel did not say anyone had sent them.
+
+Bell used her badge to open the detail page.
+
+INCIDENT BUFFER SELF-TEST  
+STATUS: NOT YET CONFIRMED
+
+“It always says that until the test runs.”
+
+“Then whoever called may have mistaken the pre-session state for a fault.”
+
+“I am technical watch.”
+
+“One of them.”
+
+The guard lifted the work order. “I can call Potomac dispatch.”
+
+“Do it,” Bell said.
+
+He dialed the printed number. Hold music answered.
+
+Bell looked at the controller, the paper, then Julie. The workflow had placed responsibility exactly where the false order needed it. Refusing the visit might delay the scheduled session. Accepting it meant sponsoring people no live system recognized.
+
+“You remain in the tenant corridor,” Bell said. “You touch only WSS-four’s local controller. I sponsor a provisional diagnostic, and the exception stays in the audit.”
+
+“Understood.”
+
+“If the ticket fails verification, the session ends.”
+
+She handed them red temporary badges and opened the inner door.
+
+The freight elevator rose through an ordinary office building. Elias kept one hand against the wall until the movement stopped.
+
+Bell noticed. “You all right?”
+
+“Long night.”
+
+“So I heard.”
+
+She meant the border crisis.
+
+The elevator opened onto carpet, framed policy reports, desks, and a coffee machine. One employee wore a headset while watching a map of the India-Pakistan border. Another glanced at the maintenance crew and returned to work.
+
+No one looked like a conspirator.
+
+Bell led them through a controlled internal door to an unmarked gray entrance. She authenticated with her badge and code.
+
+NORTHBRIDGE STRATEGIC INITIATIVES  
+WSS-4 SECURE DOMAIN  
+SPONSOR AUTHENTICATION REQUIRED
+
+“Work order,” she said.
+
+Julie gave it back.
+
+Bell entered the authorization number.
+
+SERVICE FORMAT VALID  
+LIVE TICKET: NOT FOUND  
+PROVISIONAL LOCAL DIAGNOSTIC PERMITTED  
+SPONSOR ACCEPTS RESPONSIBILITY
+
+“That is where this should stop,” Bell said.
+
+The clock in the corner read 07:02:17.
+
+Elias looked at the two available controls.
+
+DECLINE SERVICE  
+AUTHORIZE ESCORTED DIAGNOSTIC
+
+Beneath the first:
+
+PRE-SESSION EXCEPTION MAY REQUIRE OPERATOR REVIEW
+
+“If you decline,” he said, “the controller may hold the signer session until the operator acknowledges the refused maintenance event.”
+
+Bell pressed AUTHORIZE.
+
+The gray door unlocked.
+
+“Five minutes,” she said. “Then you leave whether your dispatcher answers or not.”
+
+Northbridge Secure Suite 4  
+Washington, D.C.  
+07:03 Eastern Daylight Time
+
+WSS-4 occupied less space than Julie expected: a narrow equipment room, a two-person communications workspace, and a short corridor ending at a green-lit fire door. A hardened cabinet held the controller. Beside it stood the protected audit interface Elias had described at the cutout.
+
+A single operator turned from his console.
+
+“Maintenance?”
+
+“Provisional,” Bell said. “Local audit test only. Do not open message content.”
+
+“We’re five minutes from session.”
+
+“I’m aware.”
+
+His concern was professional, not conspiratorial. The synchronization mattered to him. That did not mean he knew what K-17 was.
+
+Bell pointed to the audit interface. “You stay on this side of the yellow line.”
+
+Elias placed the canvas pouch on the service shelf. His hands shook when he opened it.
+
+Julie unfolded the work order beneath the module and recorded the wall-clock time.
+
+07:03:48 — INCIDENT MEDIA SEAL OPENED.
+
+Elias broke the tamper tape and removed the incident module. Bell checked the serial against the paper.
+
+“Matches.”
+
+He opened the protected port.
+
+LOCAL INCIDENT MEDIA DETECTED  
+PARTITION A: SEALED / READ-ONLY / INTEGRITY VERIFIED  
+PARTITION B: EMPTY / WRITE-ARMED
+
+Bell leaned closer. “What is on Partition A?”
+
+“Prior incident material,” Julie said. “The controller cannot write to it.”
+
+“That was not my question.”
+
+“It is outside this service scope.”
+
+“Potomac does not bring one customer’s evidence into another tenant site.”
+
+“Field module shortage.”
+
+The answer sounded thin because it was.
+
+Elias seated the module. His bandaged finger slipped on the collar, leaving the contacts misaligned.
+
+MEDIA CONTACT INCOMPLETE
+
+Bell checked her tablet. “Three minutes.”
+
+He braced his right wrist with his left hand, reseated the module, and locked the collar.
+
+MEDIA CONTACT STABLE
+
+The interface requested the service identifier and audit scope. Elias entered the work-order number.
+
+LIVE SERVICE RECORD NOT FOUND  
+LOCAL SPONSOR EXCEPTION ACTIVE
+
+He selected:
+
+INCIDENT REASON: PRE-SESSION BUFFER RETENTION  
+AUDIT SCOPE: CURRENT SESSION ENVELOPE  
+PRESERVE EXTERNAL TRUST CHAIN: YES
+
+Bell read the last field. “Why preserve the external chain for a buffer test?”
+
+“The reported fault is against the pre-session envelope.”
+
+“No one reported a fault.”
+
+The controller transmitted before Elias could answer.
+
+VENDOR INTEGRITY NOTICE  
+APX SECURE FACILITY 4.2  
+UNSCHEDULED EXTERNAL-CHAIN PRESERVATION REQUEST
+
+Elias stopped.
+
+“What?” Julie asked.
+
+“The controller notified Apex certification.”
+
+Bell picked up the wall phone. “What did you send?”
+
+“The controller sent it.”
+
+“To whom?”
+
+“Apex.”
+
+The Northbridge operator removed one side of his headset. “Does it affect session start?”
+
+“No,” Elias said.
+
+Bell called the service vestibule. She listened, eyes fixed on Julie.
+
+“No active ticket,” she said to the room.
+
+She covered the mouthpiece. “Disconnect the module.”
+
+The local buffer test showed forty percent.
+
+“If I disconnect now,” Elias said, “the controller records an interrupted incident test and leaves the interface open during signer presentation.”
+
+“It already records an unauthorized service call.”
+
+The operator’s console chimed.
+
+PRE-SESSION ROUTING STATE INITIALIZING
+
+“The synchronization is beginning early,” he said.
+
+“It is not the external session yet,” Elias said. “The suite is presenting local identity.”
+
+Bell lowered the phone.
+
+“You know too much about this system for someone who cannot seat a module.”
+
+“I helped design the controller profile.”
+
+The room went still.
+
+Bell looked at his temporary badge. “Who are you?”
+
+A red notification appeared on her tablet.
+
+Her gaze moved from the screen to Julie’s face.
+
+“You are Julie O’Donnell.”
+
+Julie kept both hands visible.
+
+Bell backed toward the secure door and pressed a recessed control. The gray door locked. The green fire exit stayed illuminated.
+
+“You need to step away from the controller.”
+
+“We need ninety seconds.”
+
+“You entered a secure communications facility under a false work order.”
 
 “Yes.”
 
-“Could the earlier product have retained false artifacts?”
+The admission frightened Bell more than another lie would have.
+
+The operator rose.
+
+Julie said, “Neither of us is armed. We are not here for your files, your staff, or anything outside the scheduled session.”
+
+“You are not staying for it.”
+
+Bell reached for the telephone.
+
+Elias watched the interface. “Pulling the module during an open incident session could destroy its directory.”
+
+“That is your problem.”
+
+“The local audit is yours,” Julie said. “Preserve it.”
+
+Bell stared at her.
+
+“WSS-four is about to receive a hardware-authenticated exchange tied to an active foreign operation. Your controller will record the same event we do.”
+
+“You expect me to believe that?”
+
+“No. I expect you to preserve what your system sees.”
+
+Bell stopped the operator with one hand. “Use the public corridor. Clear the other staff.”
+
+He looked from her to Julie.
+
+“Go.”
+
+He authenticated out through the gray door and left.
+
+Bell remained inside. She had not joined Julie. She had reduced the number of people exposed to the breach.
+
+The controller sounded again.
+
+LOCAL SUITE CERTIFICATE PRESENTATION IN PROGRESS
+
+Elias watched the state sequence.
+
+“Northbridge only.”
+
+The clock showed 07:06:11.
+
+Apex Building Three  
+Reston, Virginia  
+07:06 Eastern Daylight Time
+
+The WSS-4 alert reached Sarah Chen through the Apex vendor-certification channel.
+
+It carried no message content. It carried enough.
+
+SITE: FENWICK ANNEX  
+DOMAIN: WSS-4  
+UNSCHEDULED LOCAL INCIDENT SESSION  
+FULL EXTERNAL TRUST-CHAIN PRESERVATION  
+FIELD EVIDENCE MEDIA / DUAL PARTITION  
+VENDOR WATCH: ACTIVE
+
+Arthur Vance had created the watch at 05:24.
+
+The rule followed behavior, not a destination. Any certified facility asked to preserve a full external chain while using field media associated with the protected recovery record would generate a priority notice.
+
+Vance had not known where Julie would go.
+
+He had known what she would need.
+
+Northbridge security added the identification match.
+
+Sarah opened Mercer’s channel.
+
+“Fenwick Annex. L Street Northwest. Rear service approach and tenant secure domain.”
+
+Mercer answered over road noise. “Eastbound. Three minutes from the river.”
+
+He had already been sent toward Washington.
+
+“Coordinate with Metropolitan Police and building security. Clear the tenant corridor. No firearms without an identified deadly threat and a clear background.”
+
+Vance entered on a separate channel.
+
+“Prevent removal of all incident media.”
+
+Mercer asked, “Confirm force standard.”
+
+“Loss of the communications package constitutes imminent national-security harm.”
+
+Sarah opened the joint channel.
+
+“Material loss is not a deadly threat. My force standard stands.”
+
+“They have already compromised one strategic system,” Vance said.
+
+“They are inside an occupied commercial building.”
+
+“They are stealing an authenticated session.”
+
+“Then take them alive and preserve the local audit.”
+
+A short pause.
+
+“Telemetry recovery has priority,” Vance said.
+
+Sarah marked the order into her incident file and opened the vendor conference path to WSS-4.
+
+Northbridge Secure Suite 4  
+Washington, D.C.  
+07:07 Eastern Daylight Time
+
+The audit interface presented the Northbridge certificate.
+
+WSS-4 SUITE CERTIFICATE PRESENTED  
+LOCAL CLOCK: VERIFIED  
+INCIDENT BUFFER: OPEN
+
+Julie’s left hand moved toward CAPTURE.
+
+“No,” Elias said.
+
+“The buffer is open.”
+
+“Northbridge is talking to itself. The external device is not present.”
+
+Bell stood near the fire door with the telephone in one hand.
+
+The wall speaker activated.
+
+“Northbridge Secure Suite Four, this is Sarah Chen, Apex incident coordination.”
+
+Bell lifted the receiver. “Nora Bell. Two unauthorized subjects are inside. The local maintenance session is active.”
+
+“Are you safe?”
 
 “Yes.”
 
-“Then which is correct?”
+“Other employees?”
 
-Sharma looked through the armored window. Cloud still moved across the valley. The mountain did not answer because an American certificate had arrived.
+“I cleared the operator.”
 
-“Neither becomes correct by arriving last.”
+“Stay near the fire door.”
 
-Qureshi brought up the local records under their own custody.
+Bell obeyed.
 
-His photograph of the disappearing source-review notice.
+Chen addressed Julie and Elias through the speaker. “Step away from the controller. The module remains in place until qualified personnel secure it.”
 
-The post’s local sensor-reference list, including the thermal, vibration, and communications event numbers that had existed before the American provenance collapse.
+“Preserve WSS-four’s local audit,” Julie said.
 
-The mission-abort record.
+“You are not in a position to issue evidentiary instructions.”
 
-The fire-direction log showing all batteries held.
+“Vance’s watch triggered when we requested the external chain.”
 
-The no-fire confirmation from each position, including the one loaded tube with its firing circuit safe.
+“I know what triggered it.”
 
-None established that a team had reached K-17. None established that the new reconstruction was false. Together they established that the superseding product’s apparent completeness depended on excluding events the local post could identify by number.
+“Then you know he was waiting for anyone who followed the record.”
 
-The allied terminal opened a confirmation pane.
+“I know you entered a secure facility using a false service call.”
 
-SUPERSEDING PRODUCT ACCEPTED
-PRIOR ACTIONABLE PICTURE WILL BE RETIRED AT 17:24:00 IST
+The controller generated the session identifier.
 
-Qureshi looked at the clock. “Forty-six seconds.”
+NB-WSS4-0708-2217  
+ROUTING STATE: OPENING
 
-“Export both product manifests to local incident storage.”
+“Still Northbridge,” Elias said.
 
-“The prior package is marked for supersession.”
+“The building is being contained,” Chen said. “Metropolitan Police and Apex protective services are approaching. Continuing increases the danger to everyone on the floor.”
 
-“Supersession is not destruction.”
+“We have harmed no one.”
 
-“It may disappear from the operational display.”
+“You have created an armed-insider response in an occupied building.”
 
-“Then preserve the display state, the local cache identifier, and every reference the new product does not carry.”
+“We are not armed.”
 
-Qureshi began the export.
+“The responding officers do not know that.”
 
-Sharma opened a new incident set and named it without accusation.
+Julie looked at Bell. “Tell her.”
 
-CHALLENGED ALLIED RECONSTRUCTION — ARJUN
+“I have not seen a weapon,” Bell said.
 
-She attached the source-review photograph first, not because a photograph was stronger than an authenticated package, but because it had been created before anyone knew it would matter. The local sensor references followed. Then the abort order and no-fire record.
+Chen heard. “That does not change containment. When the interface permits safe removal, set down the module. You will be separated and transported into custody.”
 
-Qureshi added both American product identifiers and their certificate states.
+“Where Vance explains the record first.”
 
-The new package continued to look complete.
+“Where evidence is handled through lawful channels.”
 
-That was what completeness did when its exclusions were hidden inside a decision someone else had already made.
+“Vance authorized deadly force for loss of telemetry.”
 
-“Major,” Qureshi said, “are you rejecting the superseding product?”
+Bell looked toward the speaker.
 
-“No.”
+“My rules do not,” Chen said.
 
-He stopped typing.
+“Preserve his order.”
 
-“I am rejecting the assumption that authentication settles truth.”
+“I already have.”
 
-She ordered the new product used for current allied coordination because it was the official product now available. She also ordered that no local sensor reference be discarded merely because the new package omitted it. Any future operational decision affecting the disputed corridor would require the challenged incident set beside the superseding picture.
+The controller populated a new field.
 
-The clock reached 17:23:58.
-
-The prior product remained visible for two more seconds.
-
-At 17:24:00 IST / 07:54:00 EDT, its status changed from CURRENT to SUPERSEDED.
-
-The counter-battery suspension survived.
-
-The K-17 anomalies did not survive inside the actionable allied picture.
-
-They survived in Sharma’s record.
-
-Commercial Garage West of Hartwell
-07:54:00 EDT / 17:24:00 IST
-
-Ortiz did not know that anything had changed in Kashmir.
-
-He looked at Marcus’s oxygen reading, then at the seven unfinished transfer sheets.
-
-“Ninety-three?” he asked.
-
-The paramedic nodded. “On support. Oriented. One final entry and the handoff. Then he moves.”
-
-Julie remained where Park had placed her near the driver-side front quarter. Her right wrist had swollen against the brace. She could see every object and touch none of them.
-
-“Colonel Reed,” Ortiz said, “you may make one custody entry. Left hand. The log remains supported. If EMS stops you, the entry ends.”
-
-Marcus opened the bound log on top of the folder. Park held the folder level from beneath without taking it from his lap. The arrangement kept the paper in Marcus’s custody and removed the weight his ribs could no longer carry.
-
-Ortiz dictated the calendar date shown on the MPD worksheet into his body camera and had Marcus enter it on the next line. The prose did not matter as much as the fields.
-
-MPD incident 187463.
-
-Interim receiving officer Gabriel Ortiz, badge 4172.
-
-Witness officer Hannah Park, badge 5831.
-
-Transfer authority: Metropolitan Police seizure from a public scene under active detention.
-
-Seven separate object entries.
-
-No final federal receiver.
-
-Marcus’s pen moved badly in his left hand. The first numbers stayed level. The last line descended toward the binding.
-
-“I transfer the listed originals to Officer Ortiz under one incident and seven separate evidence packages,” he wrote aloud as he formed the words. “I do not concede authenticity, interpretation, ownership, classification, guilt, innocence, or final jurisdiction.”
-
-Ortiz stopped him.
-
-“That last sentence is mine.”
-
-Marcus looked up.
-
-Ortiz spoke to both body cameras.
-
-“MPD receipt documents interim seizure and custody only. It does not authenticate contents, adopt any subject’s interpretation, decide classification ownership, determine guilt or innocence, or resolve final jurisdiction.”
-
-Park copied the language onto each worksheet through the carbon set. Beneath it, she repeated the common cross-reference block: Hartwell’s held challenge/access event, the WSS-4 session and local audit, PCF-27, the commercial-garage scene, and the preservation and linkage requests already carried by MPD dispatch.
-
-Julie watched Ortiz take control of the limitation rather than merely permit it. The receipt would not be the trio’s demand attached to police paperwork. It would be MPD’s description of what MPD had and had not done.
-
-“Sign if you can,” Ortiz told Marcus.
-
-Marcus signed. The name broke at the final stroke but remained recognizable.
-
-The paramedic checked him again. “Done.”
-
-“No transfer yet,” Ortiz said. “Now.”
-
-Park removed the clear recovery-cartridge bag from the folder while Marcus kept his left hand on the folder edge. She held it inside the body-camera frame, read the serial and tamper condition, and at 07:54:48 placed it into evidence package MPD-nine-zero-one-four-four-two. She sealed the outer package without opening the inner bag.
-
-The paper log transferred next at 07:54:56. Marcus released it only after Ortiz repeated the incident number, item description, and destination package MPD-nine-zero-one-four-four-three. Park closed the bag with the log still shut.
-
-At 07:55:02, the dead telematics module entered MPD-nine-zero-one-four-four-four. Its original antistatic sleeve remained sealed inside the police package.
-
-At 07:55:06, the emptied waterproof folder and the remaining PCF-27 documents entered MPD-nine-zero-one-four-four-five. Park listed the cartridge, log, and telematics unit as removed into their own packages before sealing the folder.
-
-Marcus’s left hand remained on the aluminum case handle.
-
-Ortiz crouched outside the passenger door.
-
-“Case IC-seven-seven-one-nine-four. Two latches closed. Display green. One hundred thirty-six files stated sealed, forty-seven stated incomplete, three hundred eleven stated excluded. No contents viewed. Do you transfer custody to Metropolitan Police?”
-
-Marcus looked at Julie.
-
-Not for permission.
-
-For the fact that this was the moment six years of defended access had taught him to fear. Once he released the handle, he would have no rank, strength, or possession left to protect the record. Only the sequence.
-
-“Yes,” he said. “Interim custody to Officer Ortiz under incident one-eight-seven-four-six-three.”
-
-He opened his hand.
-
-Ortiz and Park lifted the case together. Marcus did not help. They placed it inside a rigid transport sleeve and applied seal MPD-nine-zero-one-four-four-one across the sleeve closure, leaving both original latches and the local display visible through the inspection panel.
-
-Transfer time: 07:55:11.
-
-The paramedic moved the stretcher closer.
-
-Elias watched from the chair with the board and module held separately against his thighs.
-
-Ortiz went to him next.
-
-“Board EAT-zero-eight-eight-one-one-four-seven. Original exposed circuit board. Unconnected. Secure element visually intact. Scraped corner. Separate from module. Do you understand police are seizing it?”
-
-“Yes.”
-
-“Are you transferring it voluntarily rather than requiring me to take it from you?”
-
-Elias’s fear returned in a visible tremor. “I am voluntarily transferring it to Metropolitan Police under the stated receipt. I am not admitting that I made the original deployment.”
-
-“Recorded.”
-
-Park opened a rigid antistatic evidence box. Elias placed the board inside with his left hand at 07:55:22. His bandaged right index never touched the contacts. Park closed the box and applied seal MPD-nine-zero-one-four-four-six.
-
-The module remained.
-
-Ortiz read its physical serial, then the two partition states from the outward display.
-
-“Partition A described as sealed and read-only. Partition B described as sealed WSS-four capture. One enclosure, two distinct sealed partitions. Handling journal separate. No partition accessed. No control pressed. No connection made.”
-
-Elias said, “Correct.”
-
-“Voluntary transfer?”
-
-“Yes. Same limitation. Transfer does not concede the contents mean what I believe they mean.”
-
-“Covered by the receipt.”
-
-Elias released the module at 07:55:31.
-
-Park placed it in a separate padded radio-frequency-shielding bag without activating any connection or control. She left the display visible through the transparent inner window long enough for both cameras to record the partition states, then closed the outer flap and applied MPD seal nine-zero-one-four-four-seven.
-
-Seven originals or original containers.
-
-Seven entries.
-
-Seven packages.
-
-One incident.
-
-Ortiz tore the carbonless receipt set into two subject copies. Marcus’s copy listed the five items transferred from his custody and cross-referenced Elias’s two. Elias’s copy did the reverse. Both carried the incident number, officer names, seal numbers, transfer times, and the interim-seizure limitation.
-
-Park placed Marcus’s copy beneath his left hand. She folded Elias’s and put it into his shirt pocket after asking permission.
-
-The lead paramedic looked at Marcus’s monitor.
-
-“Ninety-three. Still oriented. We move now.”
-
-The hard abort had approached.
-
-It had not triggered. Marcus had not lost consciousness, become disoriented, or remained below ninety-two after oxygen support.
-
-Julie did not ask for another orientation test or another minute. The hard-abort rule had been created to prevent evidence from turning a living person into one more consumable object. Marcus was above its precise threshold only because oxygen and the paramedic’s attention were keeping him there. That was not spare time. It was borrowed medical capacity.
-
-Six years earlier, four seconds had been described as too little time to change a decision and enough time to change the official record.
-
-Here, seconds would not become an excuse to hold an ambulance.
-
-“Finish exactly what is open,” Julie said. “Nothing new.”
-
-Ortiz looked at her. “That is the plan.”
-
-It was his plan now.
-
-Medical transport no longer waited for a better sentence.
-
-07:55:42 EDT / 17:25:42 IST
-
-The stretcher locked beside PCF-27.
-
-Marcus tried to stand because twenty-seven years in uniform had taught his body to rise when strangers prepared to carry him. His right thigh failed before the damaged boot took a full load. The paramedics caught him under the arms and returned him to the passenger edge.
-
-“Stop helping,” the lead paramedic said.
-
-“I wasn’t.”
-
-“You were standing.”
-
-“Badly.”
-
-They used a transfer sheet beneath him rather than make him pivot. The movement brought a hard sound from behind his teeth when his ribs compressed. Oxygen stayed in place. The monitor leads crossed his chest beneath the open coveralls. Ortiz assigned the second MPD officer at the ramp to accompany the ambulance and maintain detention without taking evidence custody.
-
-Marcus found Julie through the bodies around him.
-
-“The case?”
-
-“With Ortiz,” she said.
-
-“Receipt?”
-
-“Complete.”
-
-He closed his eyes once.
-
-Not relief. Permission to stop holding himself upright.
-
-The stretcher moved toward the west-gate staging area, where the ambulance could leave without crossing the Hartwell-facing side of the level. An MPD officer walked beside it. No formal charge followed Marcus down the ramp. No release did either.
-
-Elias’s transport waited near the east elevator bank, separated from Marcus by PCF-27, two police officers, and the entire width of the level. EMS placed him in a wheeled chair first because his hip could not manage the stretcher height safely. Dizziness returned when they turned him. He held the receipt copy through his shirt pocket with his left hand until the chair stopped moving.
-
-Ortiz approached him one final time.
-
-“Your statement of voluntary transfer is on camera and on the receipt.”
-
-“And the board is separate.”
-
-“Seal four-four-six.”
-
-“The module?”
-
-“Four-four-seven.”
-
-“Partition A and B?”
-
-“Separately described under the module entry.”
-
-Elias nodded. The answer did not protect him from arrest, prosecution, Apex, or the claim that every voluntary act proved the original lie. It gave an examiner a place to begin refusing those shortcuts.
-
-A second medical unit took him from the level under MPD detention. His board and module did not travel with him.
-
-Julie watched both routes until Park stepped into her line of sight.
-
-“Turn around.”
-
-Julie obeyed.
-
-Park checked the wrist brace again and called the injury into her camera. Standard rear-cuffing would place the right hand behind Julie’s back, rotate the damaged wrist, and require grip she did not possess. Ortiz authorized a front transport belt after the paramedic documented the restriction.
-
-Park secured Julie’s left wrist in a double-locked cuff attached to the belt. Her right forearm went into a padded medical restraint outside the brace, fixed to the other side without compressing the thumb or forcing the wrist to turn. Park checked circulation and asked Julie to report numbness beyond what was already present.
-
-The arrangement still restrained her.
-
-It simply did not pretend injury was defiance.
-
-Park slid a property receipt for Julie’s personal key into a separate ordinary-property envelope. It did not enter the evidence chest and did not share an item number with the originals. Julie noticed because the distinction would matter later. Evidence, property, and restrained person were three different custody problems, even when the same officer controlled all of them.
-
-Ortiz told dispatch the three medical destinations would be assigned separately and that no questioning beyond identity, medical status, and immediate safety should delay transport. He did not promise counsel, release, immunity, or a specific charge. He did not call them under arrest. He recorded detention, search, seizure, medical movement, and unresolved charging status as different acts.
-
-That precision made the scene less dramatic to anyone listening for a confession.
-
-It made it more dangerous to anyone depending on the acts being blurred together.
-
-
-Mercer stood where MPD had kept him. The seven sealed packages were now arranged in a locked evidence transport chest beside Ortiz’s marked vehicle. The aluminum case remained visible through its sleeve panel. None had entered an Apex container. None had been handed to a federal agent. No federal agent had appeared.
-
-“Apex requests the seal list and incident number,” Mercer said.
-
-Ortiz gave him the claimant-copy reference, not a receipt transferring property.
+TASK PROFILE: K17-PHASE-B
 

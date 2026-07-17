@@ -1,607 +1,537 @@
-COUNTER-BATTERY SUPPORT PRODUCT
-STATUS: OPERATIONAL HOLD
-EXTERNAL RELEASE: 14:30 IST
+The line disconnected.
 
-Lieutenant Qureshi read the display beside her.
+Marcus continued holding the receiver after the dial tone returned.
 
-“The assessment is certified.”
+Julie looked back at the files.
 
-“The source assessment is certified.”
-
-“Northern Command will treat that as confirmation.”
-
-“They were treating it as confirmation before it arrived.”
-
-The secure line lit before he could answer.
-
-The duty officer’s voice came through without greeting. “Arjun, allied source certification is valid. Move all batteries to full readiness and prepare the counter-battery plan for immediate execution upon support release.”
-
-Sharma looked at the second status block.
-
-“The support product is held until fourteen-thirty.”
-
-“The threat does not wait for software stages.”
-
-“Neither do shells after they leave the tube.”
-
-“Major, the certified assessment establishes hostile preparation.”
-
-“It establishes what the United States is willing to certify.”
-
-A pause followed.
-
-“Do you refuse the readiness order?”
-
-“No. Ammunition may move. Crews may occupy. Mechanical checks may continue. No targeting data enters the firing circuit. No fire-control radar without my order.”
-
-“The support product will arrive unchanged.”
-
-“Then you lose nothing by waiting for it.”
-
-The duty officer ended the call.
-
-Qureshi looked toward the written order on the console.
-
-“Twelve and a half hours.”
-
-Sharma watched the red tracks move across a mountain no one at the post could see.
-
-“Twelve and a half hours for preparation to become evidence that preparation was necessary.”
-
-Outside, another ammunition carrier started down the switchback road.
-
-Reston, Virginia
-
-The rain weakened after sunset and returned twice before midnight.
-
-Julie and Marcus did not leave the abandoned office property. The Ford remained dark beneath the loading overhang, nose pointed toward the service road. They watched the south perimeter through binoculars taken from the truck’s emergency kit and marked every patrol, facilities vehicle, and pump cycle on the back of the county plan.
-
-At 18:06, the stormwater discharge rose high enough to cover the grate completely.
-
-At 21:40, an Apex utility crew inspected the retention basin and left without entering the culvert.
-
-At 00:18, the visible security pattern shifted from search to fixed containment. More vehicles entered Building Three than left it.
-
-At 03:57, the pump beneath the southern berm ran for eleven minutes instead of twenty-three.
-
-The water line began falling.
-
-No one slept.
-
-The second clock continued.
-
-Apex Building Three
-Reston, Virginia
-04:27 Eastern Daylight Time
-
-Elias Thorne waited for the holding-room ventilation fan to begin its next cycle.
-
-The room had become a sequence of mechanical facts: eighty-three seconds of airflow, twenty-seven seconds of quiet, the camera’s refocus click when he stood, the ache in his back from the steel chair, the wall clock moving toward a time Arthur Vance had never mentioned during the first interview.
-
-The source certification had left twelve hours earlier.
-
-The confession remained unsigned.
-
-Elias opened the thermostat faceplate again.
-
-The circuit board shook against the copper filaments. He had removed and replaced it often enough that one corner of the badge casing no longer closed cleanly. The maintenance bus still carried the compressor fault, but an overnight technician had acknowledged it twice without clearing the source node.
-
-Elias transmitted the sequence again.
-
-0088 / COMP-04 / CORE-01
-
-Then he added the second clock.
-
-0500.
-
-The thermostat accepted the linked equipment reference.
-
-0088 / COMP-04 / CORE-01 / 0500
-
-The room door unlocked.
-
-Elias removed the filaments and pressed the faceplate into place before Arthur Vance entered.
-
-Vance wore the same charcoal suit. The tie had shifted less than half an inch. He carried no coffee now, only the leather folder.
-
-“The Indian command has the certified assessment,” he said.
-
-Elias kept both hands on the table.
-
-“Then why am I still here?”
-
-“The operational support package commits at zero-five-hundred.”
-
-“So the first deadline was not irreversible.”
-
-“The first deadline established the record. The second establishes consequence.”
-
-“You mean firing data.”
-
-“I mean a usable decision.”
-
-Vance set the folder in front of him.
-
-The signature line remained blank.
-
-“Sign before four-forty. The statement will be attached to the incident package before the external commit.”
-
-“And if I do not?”
-
-“The record will show that you refused to cooperate after deploying synthetic material into a live strategic system.”
-
-“The token in my badge shows I did not deploy it.”
-
-Vance’s gaze moved to the lanyard.
-
-“Then you should have surrendered it when instructed.”
-
-“You would have destroyed the distinction.”
-
-“No,” Vance said. “We would have resolved it.”
-
-He left the folder and turned toward the door.
-
-Elias looked at the wall clock.
-
-04:29.
-
-Julie had not reached him before the first certification.
-
-That did not prove she had stopped trying.
-
-The maintenance fault remained active after the door sealed.
-
-Apex Campus Utility Easement
-Reston, Virginia
-04:31 Eastern Daylight Time
-
-Rainwater filled the concrete culvert to Julie’s ankles.
-
-She moved sideways through the darkness, one shoulder against the curved wall and a waterproof folder clenched beneath her jacket. The county drainage plans inside showed the stormwater system as it had existed twelve years ago, before Apex Defense Systems acquired the campus and buried most of its modifications behind security classifications.
-
-Marcus moved ahead of her with a red-filtered flashlight held low.
-
-The culvert narrowed beneath the outer security berm. Water accelerated around their boots, carrying leaves, pine needles, and oily foam toward the retention basin behind them.
-
-“You’re sure this reaches the generator yard?” Marcus asked.
-
-“The plans say it does.”
-
-“The plans also call Building Three a commercial research office.”
-
-“It probably was one when the plans were filed.”
-
-A steel grate emerged from the dark.
-
-Marcus stopped.
-
-The grate had been welded across the culvert from floor to ceiling.
-
-“That on your plans?”
-
-“No.”
-
-He examined the frame.
-
-The welds were clean but weathered. Not a recent addition. The county drawing had been obsolete long before Julie downloaded it.
-
-Marcus set down the canvas tool bag.
-
-“Other route?”
-
-“Not before zero-five-hundred.”
-
-He ran his fingers around the grate’s edge.
-
-“Welded to a separate frame. Frame is bolted into the concrete.”
-
-Julie directed the light downward.
-
-Four anchor bolts secured each side. Rust darkened the lower pair where water flowed across them.
-
-Marcus opened the tool bag and removed a compact ratchet with an extended handle.
-
-“You bought that at a hardware store?”
-
-“Along with the coveralls and the least convincing hard hat in Virginia.”
-
-He fitted the socket over the first bolt.
-
-It did not move.
-
-Marcus leaned into it.
-
-Metal groaned.
-
-The bolt shifted a fraction.
-
-“How long?” Julie asked.
-
-“Longer if you keep asking.”
-
-She turned away from the grate and opened the waterproof folder.
-
-Their information was incomplete.
-
-Their motel analysis had established that Elias remained inside Building Three and that someone had altered Payload 88 after it entered the validation archive. The copied production fragments proved the synthetic packet was feeding Argus.
-
-They still lacked the original deployment receipt and the full administrative-service record.
-
-Without Elias, Apex could describe the evidence drive as a corrupted partial capture assembled by an unstable former analyst and a suspended Army officer.
-
-With Elias, they had a witness.
-
-If he had preserved his own logs, they might have proof.
-
-Marcus freed the first bolt.
-
-The second broke at the head.
-
-The third came loose more easily.
-
-The fourth turned halfway, then jammed.
-
-A vehicle moved across the service road above them.
-
-Julie killed the flashlight.
-
-White illumination swept through the drainage opening behind them, reflecting along the water. An engine idled for several seconds.
-
-Marcus remained motionless beside the grate.
-
-The vehicle continued.
-
-Julie waited until the sound faded.
-
-“Security patrol?” he whispered.
-
-“Could be facilities.”
-
-“Comforting.”
-
-He returned to the bolt.
-
-Julie checked her mechanical watch.
-
-04:38.
-
-Twenty-two minutes.
-
-Marcus pulled harder.
-
-The bolt tore free from the concrete.
-
-He gripped the grate and pushed.
-
-The frame shifted several inches, scraping against the culvert wall. Together they forced it aside far enough to pass.
-
-Beyond it, the drainage tunnel climbed toward a maintenance chamber.
-
-Julie followed Marcus through.
-
-At the top, a steel hatch blocked their path. Its underside was marked:
-
-APEX FACILITIES
-STORMWATER PUMP ACCESS
-AUTHORIZED PERSONNEL ONLY
-
-Marcus examined the mechanical latch.
-
-“No electronic contact.”
-
-“That you can see.”
-
-“You’re welcome to go first.”
-
-He pressed his ear against the hatch.
-
-Nothing.
-
-Marcus turned the latch slowly.
-
-The hatch opened into a dark concrete room filled with pipes, electrical cabinets, and the steady vibration of industrial pumps.
-
-They climbed through and closed it behind them.
-
-Julie removed her wet jacket. Beneath it, she wore gray maintenance coveralls purchased for cash from an industrial-supply store. The name patch above the breast pocket read RANDALL.
-
-Marcus’s said STEVE.
-
-He looked down at it.
-
-“Steve?”
-
-“It was that or Kyle.”
-
-“I don’t look like a Steve.”
-
-“You don’t look like an HVAC technician either.”
-
-They pulled on hard hats and removed two battered clipboards from the tool bag.
-
-The disguise would not survive inspection.
-
-It did not need to.
-
-Most people saw clothing before faces. Inside a mechanical space, confidence could buy several seconds.
-
-Julie opened the outer maintenance cabinet.
-
-A small monochrome display showed pump pressure, water levels, and active building faults.
-
-She scrolled.
-
-CHILLER 3 PRESSURE VARIANCE
-COMPRESSOR 04 DIAGNOSTIC FAILURE
-FAULT CODE: 0088
-
-Julie stopped.
-
-The fault repeated three times.
-
-88.
-
-89.
-
-90.
-
-A location string followed.
-
-COMP-04 / CORE-01.
-
-Marcus saw her expression.
-
-“What?”
-
-“That isn’t a normal fault sequence.”
-
-“You know normal chiller codes now?”
-
-“I know messages.”
-
-She wrote the sequence on the clipboard.
-
-“Eighty-eight is the payload number. Comp Four could mean Compliance Room Four. Core One is the production enclave.”
-
-“Elias sent it?”
-
-“Or Vance wants us to think he did.”
-
-“You think Vance knows we’re in the pump room?”
-
-“Not yet.”
-
-The display refreshed.
-
-0088 / COMP-04 / CORE-01.
-
-Marcus looked toward the interior door.
-
-“That’s deliberate.”
+“Was that Hackett?”
 
 “Yes.”
 
-“So he’s alive.”
+“Did he believe you?”
 
-“He was when he sent it.”
+“He believed I had the drive.”
 
-The maintenance display showed the affected device’s network path.
+“That wasn’t the question.”
 
-BUILDING 3
-SUBLEVEL 1
-COMPLIANCE ZONE
-ROOM 04
+“No.”
 
-Julie copied the route.
+Marcus placed the receiver in its cradle.
 
-The interior door opened onto a service corridor running beneath the campus. The air smelled of concrete, lubricant, and treated water. Fluorescent fixtures hummed overhead.
+He sat on the edge of the bed.
 
-No alarm sounded.
+For the first time since the escape, he looked tired rather than alert.
 
-No security officers appeared.
+“My command has a security report with my name on it.”
 
-They moved quickly.
+“Probably.”
 
-The service corridor passed beneath the parking structure and entered Building Three through the environmental plant. Massive chiller units occupied the room, their compressors producing a low vibration Julie felt in her teeth.
+“Counterintelligence is looking for us.”
 
-Marcus checked each intersection before they crossed.
+“Probably.”
 
-Julie watched the maintenance panels.
+“I’m giving you too much material for that word.”
 
-The building had not returned to normal after the earlier fire evacuation. Multiple doors remained in manual inspection mode. Fire-zone alerts and equipment resets cluttered the system. County officials had forced Apex to leave portions of the life-safety network open until the inspection report was complete.
+“It keeps us from pretending we know their reach.”
 
-The previous day’s escape had created the weakness that allowed them back inside.
+He rubbed both hands across his face.
 
-They reached an inner security door.
+“I should have forced the defect report through before we entered the review room.”
 
-Marcus pressed the crash bar.
+“They would have called it premature.”
 
-Locked.
+“I should have brought a second oversight officer.”
 
-A badge reader glowed beside the frame.
+“Apex would have prepared for two.”
 
-“This wasn’t on the maintenance map,” he said.
+“I should have backed you six years ago.”
 
-Julie examined the door.
+Julie’s hands stopped above the keyboard.
 
-A small sign identified it as the boundary between the mechanical plant and the secure technical area.
+Marcus stared at the carpet.
 
-A camera watched from above.
+“I told myself the panel already knew Hargrove was responsible,” he said. “I told myself confirming that you raised concerns would be enough. When they asked whether you issued a formal recommendation before the final minute, I knew what they wanted.”
 
-“We’re recorded,” Marcus said.
+“You gave it to them.”
 
-“We were recorded when we entered the pump room.”
+“Yes.”
 
-“No camera there.”
+The word was barely audible.
 
-“There was a vibration sensor beneath the hatch.”
+“I thought if I challenged the timeline, the investigation would turn toward the classified routing architecture. The program office would close ranks. Hargrove would survive anyway, and I would lose any ability to help you.”
 
-“You didn’t mention that.”
+“You didn’t help me.”
 
-“We needed to come through anyway.”
+“No.”
 
-Marcus looked up at the camera.
+Rain began ticking against the motel window.
 
-“So the disguise is pointless.”
+Marcus continued.
 
-“It got us this far without someone calling for a tactical response.”
+“I protected my access because I thought access was influence. I thought staying inside mattered more than telling the panel exactly what happened.”
 
-He tested the door again.
+“And did it?”
 
-“Can you open it?”
+“No.”
 
-“Not from this side.”
+Julie looked at him.
 
-Footsteps sounded beyond the steel panel.
+“I don’t need an apology today.”
 
-Julie and Marcus moved behind one of the chillers.
+“I know.”
 
-The door unlocked.
+“I need you to decide what you will do when following procedure and doing the right thing stop being the same action.”
 
-A facilities technician entered, pushing a wheeled diagnostic cart. He wore hearing protection and stared at the tablet mounted to the cart, following the compressor fault Elias had generated.
+He lifted his eyes.
 
-The door began closing behind him.
+“I think that decision happened in the stairwell.”
 
-Marcus caught it with his boot.
+“No. The stairwell was survival.”
 
-The technician looked up.
+She turned the laptop toward him.
 
-“Hey.”
+“This is the decision.”
 
-Julie held up her clipboard.
+Onscreen, the recovery protocol remained open.
 
-“Stormwater pressure fault. County follow-up.”
+VALIDATION AUTHOR BIOMETRIC REQUIRED.
 
-“What follow-up?”
+“Going back inside?” Marcus asked.
 
-“The one Apex reported after the alarm.”
+“Not yet.”
 
-“No one told me—”
+“You’re thinking about it.”
 
-Marcus gripped the edge of the technician’s cart and pulled it across the doorway before the door could lock.
+“I’m thinking Elias Thorne is either the person who deployed Payload Eighty-Eight or the person Vance intends to blame for it.”
 
-“We’re already behind schedule,” he said with the weary irritation of a man who had spent the day dealing with facilities failures. “You want to call your supervisor, call him. We need the cross-feed reading first.”
+“Either way, he’s inside.”
 
-The technician looked from Marcus to Julie.
+Julie searched the access-log fragments for his employee number.
 
-Then to their soaked coveralls.
+Three results appeared.
 
-“You came through the stormwater room?”
+The first showed Elias accessing the production registry.
 
-“Do we look dry?”
+The second showed an unauthorized-peripheral alert attached to his workstation.
 
-He considered that.
+The third was a security workflow generated minutes before Julie and Marcus’s review room was quarantined.
 
-“Who signed you in?”
+SUBJECT: THORNE, ELIAS M.
+ACCESS STATUS: SUSPENDED
+ESCORT REQUEST: ACTIVE
+DESTINATION: ADMINISTRATIVE HOLD
+LOCATION: BUILDING THREE
 
-Julie pointed back toward the pump room.
+“He found it at the same time we did,” Julie said.
 
-“The county inspector who is currently documenting the ventilation shutdown on your occupied fourth floor.”
+Marcus came to the table.
 
-The technician’s suspicion turned into dread.
+“How can you tell?”
 
-He did not want the inspector’s name.
+“The system flagged his workstation for removable media. Then security locked his account and moved him into administrative hold.”
 
-He did not want another problem.
+“Maybe he was trying to cover his tracks.”
 
-“Stay in the mechanical zones,” he said. “Your badges won’t open anything else.”
+“Maybe.”
 
-“We know.”
+“But you don’t think so.”
 
-He pushed the diagnostic cart toward Chiller Three.
+“He built Payload Eighty-Eight. If he wanted to hide the deployment, he would not plug a storage device into a monitored production terminal after the alert was already live.”
 
-Marcus held the door.
+“He panicked.”
 
-Julie slipped through.
+“Or he tried to preserve the original logs.”
 
-The moment the door closed behind them, the badge reader flashed amber.
+Marcus read the entries.
 
-TAILGATE EVENT RECORDED.
+“Does the capture show where they took him?”
 
-A camera rotated toward their faces.
+“No room number. Only Building Three.”
 
-Their few borrowed seconds began running out.
+“Could have transferred him.”
 
-Building Three
-Sublevel One
-04:44 Eastern Daylight Time
+“The workflow still lists the hold as active when our partition was erased.”
 
-The secure service corridor was narrower than Julie remembered.
+“That was over an hour ago.”
 
-No windows. No offices. Only white walls, gray doors, and numbered intersections connecting the environmental systems to the rooms above.
+Julie checked the package documentation again.
 
-Marcus led them toward Compliance Zone Four.
+The source-provenance challenge needed Elias’s biometric, a director certificate, and local root access.
 
-At the first junction, a wall terminal activated.
+They had a fragment of the director certificate chain on the evidence drive.
 
-IDENTITY VERIFICATION REQUIRED.
+Elias might have the complete deployment record.
 
-Julie kept walking.
+The production root was inside Apex.
 
-The terminal chimed again.
+Every route led back to the building they had just escaped.
 
-UNIDENTIFIED PERSONNEL DETECTED.
+Marcus understood from her silence.
 
-“Subtle,” Marcus said.
+“No.”
 
-“Faster.”
+Julie looked at him.
 
-They turned right.
+“We don’t have enough evidence to stop the source certification from out here.”
 
-A steel fire door began descending from the ceiling at the far end of the corridor.
+“We have enough to get arrested.”
 
-Marcus ran.
+“That doesn’t stop the packet.”
 
-Julie followed.
+“We take the drive to the press.”
 
-The gap beneath the door narrowed to four feet.
+“They spend days authenticating it.”
 
-Three.
+“An oversight committee.”
 
-Marcus slid the tool bag through, dropped to one knee, and rolled beneath the descending barrier. Julie went after him, flattening herself against the floor as the steel panel passed inches above her back.
+“Same problem.”
 
-She cleared the opening.
+“Hackett.”
 
-The door struck the floor behind them.
+“He told you to surrender it through a channel we cannot verify.”
 
-A containment alarm sounded on the other side.
+Marcus paced away from the table.
 
-Marcus helped her up.
+“You are proposing that we break back into a secure intelligence facility while Army counterintelligence is searching for us.”
 
-“They know exactly where we are.”
+“I am identifying the only path that reaches the system before sixteen-thirty.”
 
-“They know where two unidentified people crossed a sensor.”
+“We don’t know where Elias is.”
 
-“They have our faces.”
+“We know he’s in Building Three.”
 
-“Then stop worrying about the disguise.”
+“We don’t know whether he’ll help.”
 
-Julie removed the hard hat and left it on the floor.
+“He tried to copy the deployment records.”
 
-Marcus pulled off his own and tossed it beside hers.
+“We don’t know whether the certificate fragment on this drive can open the production root.”
 
-The route to Compliance Four ended at a reinforced glass vestibule.
+“No.”
 
-Through it, Julie could see a white corridor and three holding-room doors. A security desk stood empty near the entrance.
+“We don’t know how to reach the core.”
 
-No Elias.
+“Not yet.”
 
-She approached the glass.
+Marcus stopped.
 
-The vestibule door required a badge and fingerprint.
+“You keep saying uncertainty is the reason not to act.”
 
-Marcus checked the adjacent wall.
+“No. I keep saying uncertainty is the reason to understand what action costs.”
 
-“Manual release?”
+“And this action?”
 
-“Inside the desk.”
+“We could be arrested. We could be shot if Apex security believes we are attacking the production system. Elias could refuse. The certificate could fail. The source challenge could expose genuine threat data beneath the synthetic package. And even if we succeed, the review may not finish before source certification.”
 
-“How do we reach it?”
+Marcus looked at the clock.
 
-“We don’t.”
+“What is the alternative?”
 
-A voice came from the ceiling speaker.
+“We surrender the drive and hope the institution moves faster than the lie.”
 
-“Ms. O’Donnell.”
+Neither of them spoke.
+
+Marcus returned to the table.
+
+“What do you need?”
+
+Julie opened the ThinkPad’s network compartment and reconnected the wireless card.
+
+“I need the county plans for the Apex campus.”
+
+“You just disconnected that.”
+
+“We have to accept one controlled exposure.”
+
+“From the motel network?”
+
+“Too close.”
+
+She shut down the laptop and removed the live boot drive.
+
+“There’s a public library three miles west.”
+
+“We walk in looking like this?”
+
+“We change.”
+
+“Use a library computer tied to a camera?”
+
+“I use the ThinkPad from the parking lot. Spoof the hardware address, download public planning records, and disappear before anyone correlates the session.”
+
+“You think Apex monitors county drainage plans?”
+
+“No. I think they will after they realize we downloaded them.”
+
+Marcus checked his watch.
+
+14:32.
+
+“Less than two hours.”
+
+“We’ll need another vehicle.”
+
+“The truck still runs.”
+
+“They know it.”
+
+“They know it leaves oil in private driveways.”
+
+Despite everything, Julie smiled.
+
+Only for a moment.
+
+“We keep the truck until the final approach. Leave it outside the camera perimeter and go in on foot.”
+
+“In through what?”
+
+“That depends on the plans.”
+
+Marcus looked toward the evidence drive.
+
+“And once we find Elias?”
+
+“We get the original deployment record.”
+
+“Then leave?”
+
+“If there is time, we force the source-provenance review from the production root.”
+
+“You know how?”
+
+“No.”
+
+“Does Elias?”
+
+“He wrote the package.”
+
+“That is not an answer.”
+
+“It is the closest one we have.”
+
+Marcus nodded slowly.
+
+The decision settled into him.
+
+Not confidence.
+
+Commitment.
+
+Julie disconnected the evidence drive and returned it to the aluminum case.
+
+Before shutting down the laptop, she opened one final log fragment.
+
+The file had been partially overwritten during the Apex sanitization process. Most fields were unreadable.
+
+One survived.
+
+ALLIED CERTIFICATION WINDOW
+PAK_RELAY_17A
+SOURCE CERTIFICATION: 16:30 EDT
+
+Beneath it was an automated approval state:
+
+SOURCE INTEGRITY: VERIFIED
+
+The system had already accepted the lie.
+
+They had one hour and fifty-eight minutes to make it doubt itself.
+
+Forward Post Arjun
+
+Kashmir
+
+00:14 Indian Standard Time
+
+Major Ananya Sharma watched the first ammunition carrier descend toward the artillery positions.
+
+Its headlights were off. A soldier walked ahead with a shielded lamp, guiding the driver along the ice-darkened road.
+
+Sharma had ordered mechanical readiness only.
+
+Brigade command had ordered ammunition forward.
+
+The difference was procedural.
+
+On the mountain, it looked like escalation.
+
+Lieutenant Qureshi entered the observation room carrying a printed message.
+
+“Northern Command.”
+
+Sharma took it.
+
+PREPARE COUNTER-BATTERY PLAN UPON RECEIPT OF ALLIED SOURCE CERTIFICATION. EXECUTION REQUIRES COUNTER-BATTERY SUPPORT RELEASE.
+
+“Still no independent confirmation?” she asked.
+
+“Acoustic stations report possible tracked movement.”
+
+“Possible.”
+
+“Yes, ma’am.”
+
+“Ground patrols?”
+
+“Unable to observe the sector through the storm.”
+
+“Signals?”
+
+“Encrypted traffic continues.”
+
+“Does it move with the Argus projection?”
+
+Qureshi hesitated.
+
+“Approximately.”
+
+“That means no.”
+
+“The American assessment accounts for terrain masking.”
+
+“The American assessment accounts for everything except being wrong.”
+
+Qureshi looked toward the tactical display.
+
+“Brigade believes the cost of waiting is greater than the cost of acting.”
+
+“Brigade is twenty kilometers behind us.”
+
+Another alert appeared on the monitor.
+
+ARGUS ALLIED SOURCE CERTIFICATION
+EXPECTED 02:00 IST
+COUNTER-BATTERY SUPPORT RELEASE: 14:30 IST
+
+The red symbols representing Pakistani artillery continued advancing across the digital map.
+
+Sharma looked through the observation slit.
+
+The actual valley remained hidden.
+
+“Send a reconnaissance team to Point Kestrel,” she said.
+
+“In this weather?”
+
+“They can observe the western approach from there.”
+
+“It will take ninety minutes.”
+
+“Then they arrive before the recommended firing window.”
+
+Qureshi did not move.
+
+“Major, if the enemy is already deploying, the patrol could walk directly into them.”
+
+“Yes.”
+
+“And if the assessment is false?”
+
+“They will find an empty road.”
+
+Qureshi considered the order.
+
+“Who leads?”
+
+“I do.”
+
+His expression changed.
+
+“You are the battery commander.”
+
+“I am the person delaying the battery.”
+
+“You can send Captain Rao.”
+
+“If I am asking soldiers to walk into a threat I do not believe, I will not do it from behind glass.”
+
+The communications console chimed.
+
+A new data packet appeared.
+
+SOURCE INTEGRITY: VERIFIED
+CONFIDENCE: 99.8%
+
+Sharma watched the percentage.
+
+The closer it moved to certainty, the less she trusted the people demanding she obey it.
+
+“Prepare the patrol,” she said.
+
+Prince William Public Library
+
+14:47 Eastern Daylight Time
+
+Julie sat in the Ford beneath a tree at the far edge of the parking lot.
+
+The ThinkPad rested on her knees. Its battery had fallen to forty-two percent.
+
+She connected to the library’s guest network using a temporary hardware address and searched the county planning archive.
+
+The Apex campus appeared under its former name: Dominion Applied Research Park.
+
+Most current structural records were sealed.
+
+The original civil-engineering plans were public.
+
+She downloaded:
+
+Stormwater drainage.
+
+Utility easements.
+
+Emergency generator access.
+
+Fire-service connections.
+
+Mechanical intake routes.
+
+The environmental-plant footprint beneath Building Three.
+
+Marcus sat beside her, watching the lot.
+
+“Anything?”
+
+“The lower parking structure connects to a stormwater pump chamber.”
+
+“Inside the fence?”
+
+“Under it.”
+
+“Wide enough?”
+
+“The original culvert is forty-eight inches.”
+
+“Original?”
+
+“Apex renovated the campus after acquisition.”
+
+“So it could be sealed.”
+
+“Yes.”
+
+“What is the next option?”
+
+“Generator yard. Too exposed. Loading dock. Biometric access and cameras. Main fire entrance. Watched after this morning.”
+
+“The culvert.”
+
+“The culvert.”
+
+Julie sent the plans to the printer inside the library.
+
+Marcus looked at her.
+
+“You’re going in?”
+
+“Public printer.”
+
+“Cameras.”
+
+“Hat, glasses, and thirty seconds.”
+
+He reached for the door handle.
+
+“I’ll do it.”
+
+“You’re six foot three and currently listed as an Army colonel who fled a classified facility.”
 

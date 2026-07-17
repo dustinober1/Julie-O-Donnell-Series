@@ -1,3 +1,77 @@
+“There was confusion in the room.”
+
+That was the second lie.
+
+Not an outright lie. Something more useful: a sentence shaped to survive review.
+
+The panel cleared Julie of wrongdoing. The finding protected her from formal punishment while leaving the report’s causal story intact. Hargrove received a letter of concern that never entered his permanent record. Argus Beta remained operational while Apex Defense Systems prepared an enterprise update intended to reduce human hesitation during time-sensitive targeting events.
+
+Three months later, Julie placed her resignation on the personnel officer’s desk at Fort Belvoir.
+
+Marcus caught her outside the administration building. Cold rain darkened the shoulders of his uniform and whispered beneath tires crossing the parking lot. Julie carried a cardboard box containing two framed photographs, a coffee mug, and the commendation medal she had not wanted but had been ordered to accept.
+
+“You don’t have to do this,” Marcus said.
+
+“It’s already done.”
+
+“You were cleared.”
+
+Julie stopped. “They changed the timeline.”
+
+“I know.”
+
+“You let them.”
+
+Pain crossed his face, brief and unguarded. “I told the panel you objected.”
+
+“You told them there was confusion.”
+
+“There was.”
+
+“No. There was pressure. Arrogance. A bad system protecting a bad decision. There was no confusion.”
+
+“The board was never going to invalidate the platform over a cached routing discrepancy.”
+
+“Eleven people died.”
+
+“I know.”
+
+“Then say what happened.”
+
+“I did what I could.”
+
+Julie studied him. “No. You did what you could defend.”
+
+She walked past him and dropped the commendation medal into a trash can at the edge of the parking lot. It struck the bottom with a thin metallic sound.
+
+The machine had been wrong.
+
+The record said Julie had been late.
+
+Between those two facts, the Army had chosen the one it could live with.
+
+---
+
+# Chapter 1 - The Official Version
+
+The fence had failed for an honest reason.
+
+Julie O’Donnell could see it in the splintered cedar post, the sagging wire, and the hoofprints stamped into the wet Virginia clay. The mare had leaned too hard for the grass on the other side. The post had rotted below the soil line. Gravity had finished the job.
+
+Cause. Effect. Evidence.
+
+Nothing hidden inside a proprietary model. No confidence score pretending to be truth.
+
+Julie set a replacement post into the hole and checked it with a carpenter’s level. The bubble drifted left. She shifted the base, packed another shovelful of dirt around it, and checked again.
+
+Centered.
+
+The October sun was already burning mist from the back pasture. Ten acres of grass rolled toward oak and hickory. The farmhouse sat behind Julie on a low rise, its paint weathered, its porch listing east. The barn needed a roof, the well pump complained below freezing, and three windows required a rubber mallet before winter. Everything on the property announced failure through weight, sound, pressure, or decay. A broken post did not accuse the person who found it. A clogged line did not invent a cleaner history after the repair. Work done with Julie’s hands stayed done, and the reason for failure remained visible.
+
+Her phone vibrated against the top rail. Julie ignored it and drove the post-hole bar into the soil. The call stopped, then returned from another Northern Virginia number—the sixth attempt since yesterday. She had blocked the first two numbers. The next three had changed. This one showed no caller identification. She waited until it stopped, lifted the canvas jacket covering the phone, and powered it off.
+
+The mare watched her chew grass with the concentration of an animal certain most human problems were self-inflicted. “You’re not wrong.”
+
 An engine sounded beyond the tree line, too quiet for the county grader and too controlled for a delivery van climbing the hill. A black Chevrolet Suburban appeared between the trees, clean enough to have spent little time on county roads. No government plates. Tinted rear windows. Virginia registration. The driver kept the wheels centered through the ruts as though he had studied the approach.
 
 The post, level, and fresh dirt belonged to a morning that had just ended. Julie crossed to the barn, removed the old twelve-gauge from the tack-room rack, checked the chamber, and loaded two shells. By the time the Suburban stopped beside her truck, she stood in the yard with the shotgun against her leg.
@@ -101,114 +175,4 @@ Marcus had requested raw telemetry, packet metadata, relay-health logs, model-in
 “Yesterday Argus displayed one hundred percent confidence for fourteen seconds.”
 
 Julie felt something tighten beneath her ribs. Systems did not report one hundred percent. Marcus said a calibration cycle returned the display to ninety-nine-point-eight. Price’s request to capture the underlying state was the request that preceded his suspension.
-
-The brief display was not proof of manipulation. A display bug, stale cache, rounding error, or failed calibration could produce a number the underlying model did not hold. But the attempt to examine it had removed an auditor from the review.
-
-It was enough to stop letting Apex decide which questions deserved answers.
-
-Julie studied the Suburban. Marcus had changed vehicles at Warrenton, left the government unit in a secured lot, powered down his phone inside a signal pouch, and used a commercial fleet rental. None of those precautions erased the route. A toll reader, rental log, or camera could join both vehicles later.
-
-“Army Intelligence has improved since I left.”
-
-“Only in narrow areas.”
-
-Despite herself, Julie almost smiled. The expression disappeared before it formed.
-
-Julie set the conditions: raw feed, full metadata, relay health, ingestion history, deployment records, and control of the comparisons. No product manager or engineer would stand over her translating the output. Marcus could request a closed room, nothing more.
-
-Independent export remained outside Marcus’s authority. Julie would have to document relevant hashes and submit a defect report through whatever government channel survived inside the facility. Marcus could support the process but could not guarantee Apex did not control part of it.
-
-The honesty was becoming irritating. It also made the request harder to dismiss. Six years earlier, Marcus had protected himself by turning pressure into confusion. Today he was naming the limits before she found them.
-
-Julie picked up the shotgun. Marcus watched her, unable to tell whether the gesture ended the meeting.
-
-She needed to put the horses in, call the neighbor, and change. Marcus’s shoulders lowered by perhaps half an inch. Julie gave him forty minutes to get the access profile in writing and determine whether Price was locked out, under investigation, or in custody. She added that whoever authorized the rental should know it would be towed if it leaked oil.
-
-Marcus glanced back at the Suburban. “It doesn’t leak oil.”
-
-“Then you have one less problem.”
-
-Julie carried the shotgun into the house.
-
-At 10:43, she turned north onto Route 29 in her own truck. Riding with Marcus had received less than a second of consideration.
-
-The Ford was seventeen years old, dented above the rear wheel well, and missing the plastic cover from the passenger-side mirror. Its most advanced feature was a CD player that refused to eject Emmylou Harris. It had no embedded modem, remote ignition service, or touchscreen reporting its location. Anyone following it would need a camera, a person, or a device someone had physically attached.
-
-Julie trusted it more than most people.
-
-Traffic thickened outside Gainesville. Warehouses and data centers replaced wooded stretches, their blank exteriors standing behind fences and ornamental grass. Northern Virginia had changed while Julie was hiding from it. The old military-industrial complex had once announced itself with guard towers, aircraft, and uniforms. Now its fortresses looked like insurance offices and moved their weapons through buried fiber.
-
-A black SUV changed lanes behind her.
-
-Julie’s shoulders locked. Her right foot lifted from the accelerator. The rearview mirror filled with hard white headlights.
-
-For four seconds, she heard the turning of a gray authentication wheel.
-
-Then the SUV passed. A woman in medical scrubs drove with one hand while drinking from a paper cup.
-
-Julie guided the Ford back from the shoulder. “Not there.”
-
-She kept both hands on the wheel.
-
-The Apex campus outside Reston appeared behind pine trees and a landscaped berm. Building Three looked like four stories of tinted glass resting on pale stone. Security began before the building came fully into view: cameras in the trees, a plate reader beneath the entrance sign, a reinforced median, retractable barriers, and concrete planters positioned too evenly to be landscaping. Together they ensured the facility knew who was approaching before the visitor reached anyone required to explain the rules.
-
-Julie handed the guard her license and the temporary credential Marcus had sent. She had printed the authorization at home rather than opening it on-site. The guard scanned the page, compared her face to the license, and looked back at his terminal after her name triggered a second screen.
-
-The Apex Defense Systems chevron appeared before the government access screen.
-
-Corporate infrastructure. Government authority layered on top.
-
-The guard encoded a visitor badge while a wheel turned on his monitor. Julie counted without deciding to.
-
-One second.
-
-Two.
-
-The machine chimed after three.
-
-The badge carried the Apex chevron above the smaller seals of the Department of Defense and Defense Intelligence Agency. The guard directed her to level-three parking and the pedestrian bridge for secondary screening.
-
-Marcus waited in the visitor lobby, now wearing a dark suit coat. A glass wall separated them from biometric turnstiles and a secure interior crowded mostly with contractor badges. Sarah Chen approached from the other side in a navy blazer, a tablet against one forearm. Her Apex credential sat beside a government liaison badge.
-
-Sarah told Marcus they had not expected Julie until noon. Julie looked at the lobby clock and observed that eight minutes seemed survivable. Sarah identified her role in contractor integration and compliance, though the paired badges had already done that. The glass door opened.
-
-At screening, Sarah required every personal electronic device not included in the access request. Julie surrendered her powered-off phone and the digital truck key that could unlock the Ford remotely. Both disappeared into a numbered drawer. She retained the mechanical key, paper notebook, and black ballpoint pen.
-
-Sarah noticed the notebook. “Anything written beyond this point is reviewed before release.”
-
-“By Apex or the government?”
-
-“Facility security.”
-
-“That wasn’t my question.”
-
-Marcus asserted sponsor review authority. Sarah answered with a change neither of them had seen: Director Arthur Vance had altered the access conditions ten minutes earlier under his designated authority over the technical floor. Marcus had requested full government analytic access. Vance approved a supervised sandbox because the architecture was classified and proprietary.
-
-Julie asked to see the profile.
-
-O’DONNELL, JULIE M.  
-STATUS: TEMPORARY TECHNICAL CONSULTANT  
-SPONSOR: REED, MARCUS L.  
-ENVIRONMENT: SUPERVISED ANALYTIC SANDBOX  
-EXPORT PRIVILEGES: DISABLED  
-QUERY MIRRORING: ENABLED  
-COMPLIANCE RECORDING: CONTINUOUS
-
-The modification timestamp was 11:39.
-
-Four minutes after Julie’s truck crossed the outer plate reader.
-
-“They waited until I arrived.”
-
-Sarah called it ordinary review of a nonstandard consultant entering a sensitive environment. Julie called it review of her license plate before she reached the building. Sarah’s expression did not change. “That is generally how security works.”
-
-Julie glanced at Marcus. He looked angry, though not surprised enough. He had known Apex objected. He had not known the profile had changed.
-
-Sarah offered to reschedule after a revised request moved through the appropriate process: three to five business days. The source certification would leave in less than five hours.
-
-“Take us to the room.”
-
-Briefing Room 402B was windowless and cold, furnished with a metal table, four chairs, and a government terminal bolted to the floor. A black dome camera occupied one ceiling corner.
-
-Julie looked up. “Good angle?” No one answered.
 
