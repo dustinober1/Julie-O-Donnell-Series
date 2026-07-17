@@ -33,13 +33,13 @@ No human gate or integrity blocker is stopping the recommended next step.
 
 ## Warnings
 
-- 3 uncommitted file(s) exist.
+- 1 uncommitted file(s) exist.
 
 ## Recent files
 
-- research/source-register.yaml
-- books/book-01/premise-lab.yaml
-- books/book-01/voice-audits.yaml
-- books/book-01/book-strategy.yaml
-- books/book-01/research-ledger.yaml
-- books/book-01/reader-kits/index.yaml
+- series/voice-experiments/VE-001/baseline.md
+- series/voice-experiments/VE-001/variant-c.md
+- series/voice-experiments/VE-001/variant-b.md
+- series/voice-experiments/VE-001/variant-a.md
+- series/voice-experiments/VE-001/source-scene.md
+- series/voice-experiments/VE-001/experiment.yaml
