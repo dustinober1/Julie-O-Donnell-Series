@@ -44,7 +44,7 @@ jobs:
 
           combined = '\n\n---\n\n'.join(path.read_text(encoding='utf-8').rstrip() for path in source_paths) + '\n'
           paragraphs = combined.splitlines(keepends=True)
-          max_chars = 16000
+          max_chars = 12000
           chunks: list[str] = []
           current: list[str] = []
           current_chars = 0
