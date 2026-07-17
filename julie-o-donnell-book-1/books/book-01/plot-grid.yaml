@@ -30,29 +30,29 @@ chapters:
     act: act-1
     causality: "Marcus's arrival with the impossible alert forces Julie out of isolation and into the crisis she fled."
     state_change: "Julie's exile is broken; the crisis reaches her farm."
-    setup_ids: [SU-001, SU-002, SU-003, SU-012]
+    setup_ids: []
     payoff_ids: []
     profile_obligations: [visible_external_pressure, protagonist_agency]
   - chapter: 2
     act: act-1
     causality: "Julie's analysis of the alert reveals the four-second ghost signature she was scapegoated for — but this feed is synthetic."
     state_change: "Julie recognizes the feed is too clean; the machine is lying."
-    setup_ids: [SU-004, SU-005]
-    payoff_ids: [SU-001, SU-002]
+    setup_ids: []
+    payoff_ids: []
     profile_obligations: [protagonist_agency]
   - chapter: 3
     act: act-1
     causality: "Julie negotiates Reston supervised access and learns the dawn deadline that governs the entire crisis."
     state_change: "Julie gains controlled access to the raw feed; the ticking clock begins."
-    setup_ids: [SU-009]
-    payoff_ids: [SU-005]
+    setup_ids: []
+    payoff_ids: []
     profile_obligations: [visible_external_pressure]
   - chapter: 4
     act: act-1
     causality: "Julie's deeper analysis discovers the synthetic injection signature in the data pipeline."
     state_change: "Julie confirms the injection vector — the system is weaponized, not broken."
-    setup_ids: [SU-011]
-    payoff_ids: [SU-004]
+    setup_ids: []
+    payoff_ids: []
     profile_obligations: [protagonist_agency]
   - chapter: 5
     act: act-1
@@ -72,43 +72,43 @@ chapters:
     act: act-2a
     causality: "Julie enters Apex to trace the injection source and registers the $6B contract pressure and hints of a political hand."
     state_change: "Julie is inside the machine's home ground; the stakes escalate from data to institutional power."
-    setup_ids: [SU-006, SU-010]
-    payoff_ids: [SU-011]
+    setup_ids: []
+    payoff_ids: []
     profile_obligations: [opposition_positive_case]
   - chapter: 8
     act: act-2a
     causality: "Julie confronts Vance with proof; he revokes her access and suppresses the finding to protect the contract renewal."
     state_change: "Vance becomes an active adversary; Julie loses institutional access."
     setup_ids: []
-    payoff_ids: [SU-005, SU-006]
+    payoff_ids: []
     profile_obligations: [opposition_positive_case]
   - chapter: 9
     act: act-2a
     causality: "Julie seeks Elias Thorne for technical corroboration; he confirms the injection vector while his trust in process makes him vulnerable."
     state_change: "Julie gains a technical ally; Elias becomes a target."
-    setup_ids: [SU-007]
-    payoff_ids: [SU-003]
+    setup_ids: []
+    payoff_ids: []
     profile_obligations: [protagonist_agency]
   - chapter: 10
     act: act-2a
     causality: "Vance frames Elias as the source of the compromise and detains Julie in the SCIF."
     state_change: "The institution closes around Julie and Elias; both are trapped."
-    setup_ids: [SU-008]
-    payoff_ids: [SU-007]
+    setup_ids: []
+    payoff_ids: []
     profile_obligations: [visible_external_pressure]
   - chapter: 11
     act: midpoint
     causality: "Julie pulls a manual fire alarm to weaponize the SCIF's environmental protocols and escapes detention."
     state_change: "Julie crosses from reluctant analyst to active fugitive; her exile becomes permanent by choice."
     setup_ids: []
-    payoff_ids: [SU-008, SU-012]
+    payoff_ids: []
     profile_obligations: [midpoint_state_change, protagonist_agency]
   - chapter: 12
     act: act-2b
     causality: "Julie destroys her RFID badges, ditches the tracked truck, and goes fully off-grid."
     state_change: "Julie severs every remaining tie to institutional identity."
     setup_ids: []
-    payoff_ids: [SU-012]
+    payoff_ids: []
     profile_obligations: [protagonist_agency]
   - chapter: 13
     act: act-2b
@@ -122,7 +122,7 @@ chapters:
     causality: "The trace surfaces Senator Sterling's involvement — the political hand ensuring Apex's architecture survives."
     state_change: "The conspiracy deepens beyond Vance to political power."
     setup_ids: []
-    payoff_ids: [SU-010]
+    payoff_ids: []
     profile_obligations: [visible_external_pressure]
   - chapter: 15
     act: act-2b
@@ -150,14 +150,14 @@ chapters:
     causality: "Sterling and Apex sacrifice Vance as a rogue actor to preserve the corporate architecture."
     state_change: "Vance is consumed by the system he protected; the architecture survives."
     setup_ids: []
-    payoff_ids: [SU-006, SU-003]
+    payoff_ids: []
     profile_obligations: [opposition_positive_case]
   - chapter: 19
     act: act-3
     causality: "Julie severs the live Payload 88 injection in the final window before Major Sharma's dawn strike authorization."
     state_change: "The kinetic escalation is stopped; the immediate crisis resolves."
     setup_ids: []
-    payoff_ids: [SU-009, SU-011, SU-004]
+    payoff_ids: []
     profile_obligations: [climax_reader_legibility, protagonist_agency]
   - chapter: 20
     act: act-3
@@ -171,7 +171,7 @@ chapters:
     causality: "Julie returns to Culpeper permanently off-grid, carrying the weight of being right."
     state_change: "The four-second ghost is recontextualized; Julie accepts exile as the cost of correctness."
     setup_ids: []
-    payoff_ids: [SU-001, SU-002]
+    payoff_ids: []
     profile_obligations: [protagonist_agency]
 decisions:
   - id: DEC-001
