@@ -2,11 +2,11 @@
 
 ## What needs you
 
-Novel Forge is ready to continue series planning.
+Novel Forge is ready to continue book planning.
 
 ## Recommended action
 
-Define the series promise, escalation, cast pressure, and carry rules.
+Build the active book plan and remarkability contract.
 
 Run: `/novel`
 
@@ -21,7 +21,7 @@ No human gate or integrity blocker is stopping the recommended next step.
 - Profile: thriller
 - Runtime profile: full
 - Active book: book-01
-- Stage: series-planning
+- Stage: book-planning
 - Next gate: none
 - Manuscript words: 0
 - Blocking tickets/conflicts: 0
@@ -37,9 +37,9 @@ No human gate or integrity blocker is stopping the recommended next step.
 
 ## Recent files
 
+- books/book-01/BOOK.yaml
 - PROJECT.yaml
+- series/series-bible.md
 - HANDOFF.md
 - STATUS.md
-- books/book-01/BOOK.yaml
 - series/voice-experiments/index.yaml
-- series/voice-guardrails.yaml
