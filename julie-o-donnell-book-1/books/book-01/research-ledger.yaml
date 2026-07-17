@@ -13,15 +13,15 @@ items:
     story_use:
       chapters: [1, 2, 5, 19]
       decision_affected: "Establishes the validation choke point Julie once held and the mechanism Payload 88 exploits by forcing a false 100% confidence score."
-    notes: "Planned; no sources registered yet. Requires verification of real automated targeting validation flows before drafting."
-    source_ids: []
-    confidence: low
-    verified_on: null
+    notes: "Ready; verified against registered sources SRC-001 (DoD Directive 3000.09, human judgment over use of force), SRC-002 (CNAS kill-chain principles, authorization as human intent), and SRC-003 (Project Maven, AI confidence cuing of human analysts). The underlying real concepts are well grounded; the specific Argus confidence-scoring mechanics remain a fictional composite, so confidence is medium rather than high."
+    source_ids: [SRC-001, SRC-002, SRC-003]
+    confidence: medium
+    verified_on: "2026-07-17"
     risk:
       - "Oversimplifying real targeting-system validation flows"
       - "Technical inaccuracy in confidence-scoring mechanics"
     dramatic_uses: [vulnerability, forensic-clue]
-    status: planned
+    status: ready
   - id: RES-002
     lane: story-world
     claim: "Synthetic telemetry injection can spoof confidence-scoring systems by replaying clean signal signatures that bypass degradation filters, producing alerts indistinguishable from genuine collection."
@@ -101,15 +101,15 @@ items:
     story_use:
       chapters: [1, 2, 11, 21]
       decision_affected: "Grounds Julie's POV behavior and the gap between how her skill reads to the reader versus other characters."
-    notes: "Planned; no sources registered yet. Requires verification of trauma-response hypervigilance presentation in former intelligence personnel."
-    source_ids: []
-    confidence: low
-    verified_on: null
+    notes: "Ready; verified against registered sources SRC-004 (VA National Center for PTSD, DSM-5 Criterion E hypervigilance), SRC-005 (VA/DoD PTSD Clinical Practice Guideline, veteran hyperarousal), and SRC-006 (peer-reviewed study showing combat-threat attentional capture and disengagement difficulty in veterans with PTSD). Non-fictionalized with strong clinical and empirical grounding, so confidence is high."
+    source_ids: [SRC-004, SRC-005, SRC-006]
+    confidence: high
+    verified_on: "2026-07-17"
     risk:
       - "Pathologizing adaptive vigilance"
       - "Inaccurate trauma-response depiction"
     dramatic_uses: [relationship-pressure, credibility-detail]
-    status: planned
+    status: ready
   - id: RES-006
     lane: human-authenticity
     claim: "Defense-contracting institutions under threat exhibit self-protective patterns: isolating whistleblowers, reframing disclosure as administrative violation, and absorbing individual failures as rogue action to preserve architecture."
