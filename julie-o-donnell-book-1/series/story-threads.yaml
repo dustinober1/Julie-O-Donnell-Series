@@ -1,2 +1,85 @@
 schema_version: 1.0.0
-threads: []
+threads:
+  - id: THR-001
+    type: character-trauma
+    setup: "the four-second ghost: Julie's unresolved trauma from the Argus Beta incident where she was overridden, the hard
+      override froze for four seconds, and she was scapegoated for the resulting civilian strike"
+    reader_knows: ""
+    characters_know: {}
+    status: open
+    intended_payoff: Julie must reconcile with her past failure and reclaim her professional identity — not by returning to
+      the system, but by proving her methods were right all along
+    last_advanced_in: null
+  - id: THR-002
+    type: technology-vulnerability
+    setup: "Argus architectural vulnerability: The systemic flaw in Argus Enterprise Build 4.6 that allows synthetic
+      telemetry injection — the machine can be weaponized by anyone who understands its data-pipeline logic"
+    reader_knows: ""
+    characters_know: {}
+    status: open
+    intended_payoff: The vulnerability must be fully understood and either patched or permanently neutralized, requiring
+      Julie to go deeper into the code than anyone has before
+    last_advanced_in: null
+  - id: THR-003
+    type: antagonist-network
+    setup: "Tariq's network: Major Tariq's international operation to destabilize regional powers through synthetic
+      telemetry injection — his ultimate objective and the full scope of his operation remain unknown"
+    reader_knows: ""
+    characters_know: {}
+    status: open
+    intended_payoff: Julie must trace Tariq's international footprint, identify his buyers and sellers, and dismantle his
+      network before he can launch a larger attack
+    last_advanced_in: null
+  - id: THR-004
+    type: character-status
+    setup: "Julie's permanent exile: Julie's status as a permanently off-grid operative — her military and corporate records
+      are burned, she cannot return to legitimate authority, and every future crisis requires her to operate from
+      outside the system"
+    reader_knows: ""
+    characters_know: {}
+    status: open
+    intended_payoff: Julie must either find a way to reclaim legitimacy (unlikely given the series engine) or accept that
+      her exile is permanent and build a sustainable off-grid network
+    last_advanced_in: null
+  - id: THR-005
+    type: institutional-pattern
+    setup: "institutional self-protection: The pattern where the system absorbs individual villains while protecting its
+      architecture — Sterling and Apex survive by sacrificing Vance, proving the cover-up mechanism outlasts any single
+      person"
+    reader_knows: ""
+    characters_know: {}
+    status: open
+    intended_payoff: Julie must either expose the systemic mechanism itself (requiring evidence beyond any single book's
+      crisis) or accept that fighting individual battles is the only viable strategy
+    last_advanced_in: null
+  - id: THR-006
+    type: relationship
+    setup: "Marcus's impossible position: Marcus Reed bridges Julie's isolated world and the institutional world she fled —
+      his loyalty is real but his institutional position creates inevitable conflict with her needs"
+    reader_knows: ""
+    characters_know: {}
+    status: open
+    intended_payoff: Marcus must eventually choose between protecting Julie and protecting his own position, and that choice
+      will cost him something irreversible
+    last_advanced_in: null
+  - id: THR-007
+    type: character-arc
+    setup: "Elias's institutional scars: Elias Thorne understands Argus from the inside and carries guilt about not seeing
+      the vulnerability sooner — his clearance in book 1 gives him freedom but his trust in process creates friction
+      with Julie"
+    reader_knows: ""
+    characters_know: {}
+    status: open
+    intended_payoff: Elias must either adopt Julie's skepticism or face a second institutional betrayal that costs him
+      something he cannot recover
+    last_advanced_in: null
+  - id: THR-008
+    type: institutional-conspiracy
+    setup: "Hargrove's shadow: Lt. Col. Hargrove's role in the original four-second ghost cover-up connects to deeper
+      institutional rot — his actions in the past created the template for how Apex and Sterling handle failures"
+    reader_knows: ""
+    characters_know: {}
+    status: open
+    intended_payoff: Hargrove must be confronted either directly or through the evidence trail that proves his role in the
+      original cover-up, forcing the system to acknowledge what it did to Julie
+    last_advanced_in: null
