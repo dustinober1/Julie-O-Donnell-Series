@@ -7,20 +7,21 @@ The controlling inventory is [`../ACCEPTED_MANUSCRIPT.yaml`](../ACCEPTED_MANUSCR
 ## Current accepted inventory
 
 - Prologue
-- Chapters 1–14
-- Accepted length: **75,593 words**
-- Accepted endpoint: **07:49:32 EDT / 17:19:32 IST**, public parking garage level six beside powered-down PCF-27 under Metropolitan Police scene control
+- Chapters 1–24
+- Accepted length: **124,779 words**
+- Accepted Act III subtotal, Chapters 13–24: **61,124 words**
+- Accepted endpoint: **08:14:44 EDT / 17:44:44 IST**, Julie's farm
 
 ## Directory layout
 
 - `prologue.md`
-- `chapters/chapter-01.md` through `chapters/chapter-14.md`
+- `chapters/chapter-01.md` through `chapters/chapter-24.md`
 - `SOURCE.md` — manuscript authority and migration provenance
 - `STATUS.md` — concise human-readable status pointer
 
 No unaccepted chapter belongs in this directory. No active chapter draft currently exists under `../drafts/`.
 
-Chapter 15 has an approved mission lock at `../control/30-chapter-15-mission-lock.md`, but no Chapter 15 prose exists and no Chapter 15 file belongs here until formal acceptance.
+Chapter 24 is the final accepted Book 1 chapter. No Chapter 25 artifact or complete remainder outline exists or is authorized.
 
 ## Authority
 

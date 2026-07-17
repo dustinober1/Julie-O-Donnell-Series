@@ -5,13 +5,13 @@ The controlling Book 1 accepted manuscript is stored in this repository as Markd
 Accepted prose currently consists of:
 
 - `prologue.md`
-- `chapters/chapter-01.md` through `chapters/chapter-13.md`
+- `chapters/chapter-01.md` through `chapters/chapter-24.md`
 
 These files are the highest authority for accepted events, character behavior, chronology, injuries, evidence, technology, geography, and narrative voice.
 
 ## Draft separation
 
-Unaccepted prose belongs under [`../drafts/`](../drafts/). A draft cannot create canon through existence, filename, title, or planning approval. Chapter 14 has not been drafted.
+Unaccepted prose belongs under [`../drafts/`](../drafts/). A draft cannot create canon through existence, filename, title, or planning approval. No active Book 1 chapter draft currently exists.
 
 ## Migration provenance
 
@@ -24,5 +24,5 @@ Neither external source may override accepted GitHub prose.
 ## Accepted production milestones
 
 - Chapter 5-to-6 continuity repair integrated July 12, 2026: `f6d49cbeae2b2f23daac55dc0bacfeb040428f5f`
-- Chapter 13 accepted as **The Carrier Stream** through `../control/27-chapter-13-acceptance-review.md`
-- Current accepted endpoint: 07:46:00 EDT / 17:16:00 IST outside Hartwell
+- Chapters 13–24 were accepted through the control-pack review sequence ending at `../control/49-chapter-24-acceptance-review.md`
+- Current accepted endpoint: 08:14:44 EDT / 17:44:44 IST, Julie's farm

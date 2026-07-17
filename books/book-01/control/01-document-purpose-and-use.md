@@ -1,21 +1,21 @@
 # 1. DOCUMENT PURPOSE AND USE
 
-This control pack governs continuity, chronology, evidence, technology, character state, institutional authority, plot knowledge, unresolved threads, and production status for *Julie O’Donnell Book 1* through the accepted end of Chapter 13.
+This control pack governs continuity, chronology, evidence, technology, character state, institutional authority, plot knowledge, unresolved threads, and production status for *Julie O’Donnell Book 1* through the accepted end of Chapter 24.
 
 It covers:
 
 - The six-years-ago Prologue.
-- Accepted Chapters 1–13.
-- The completed Act I and Act II story state.
-- The accepted first Act III chapter and the remaining launch conditions for the rest of Act III.
+- Accepted Chapters 1–24.
+- The completed Act I, Act II, and Act III story state.
+- The final accepted Book 1 ending state and deliberate series carryovers.
 - Older planning material only where it remains consistent with the accepted manuscript.
 
-Future chapter prompts should use this document to establish:
+Final QA, continuity checks, packaging prep, and next-book planning should use this document to establish:
 
 - The exact state of Julie, Marcus, Elias, the evidence, the pursuit, and the conspiracy.
 - What each character knows, suspects, and cannot yet prove.
 - Which technology rules and evidence limitations cannot be violated.
-- The current deadlines and unresolved operational questions.
+- The current unresolved operational questions and deliberate carryovers.
 - Which older plans have been superseded.
 
 The accepted manuscript always outranks this pack. If a later reread finds a discrepancy between this document and the accepted prose, the prose controls and this pack must be updated.
