@@ -3,19 +3,19 @@
 - Project: Julie O'Donnell Book 1
 - Active book: book-01
 - Profile: thriller
-- Stage: voice-intake
+- Stage: series-planning
 - Git reference: main @ HEAD
-- Project state hash: 38cc316dce7288a7360ce993618afa1dc6893555623dde3c126734bf5b770b8f
-- Last completed action: voice-profile
-- Active gate or blocker: voice-approval (pending)
+- Project state hash: 99e18c96428011eec332e357a9483065ba93c6d50c77488ce3aadd6424302b02
+- Last completed action: Approved voice-approval
+- Active gate or blocker: none
 - Current chapter: 0
 - Manuscript words: 0
 
 ## Locked and protected state
 
-- 0 writer approvals recorded
+- 1 writer approval recorded
 - book-01 canon remains provisional
-- Current workflow stage is voice-intake
+- Current workflow stage is series-planning
 
 ## Read first
 
@@ -36,10 +36,10 @@
 
 Run exactly: `/novel`
 
-Reason: Voice Profile is ready for your decision.
+Reason: Novel Forge is ready to continue series planning.
 
 ## Continuation prompt
 
 ```text
-Continue the Novel Forge project Julie O'Donnell Book 1. The active book is book-01 (thriller) at stage voice-intake. Read STATUS.md and HANDOFF.md first, then follow the exact recommended action through /novel. Do not edit PROJECT.yaml, BOOK.yaml, STATUS.md, or HANDOFF.md directly and do not bypass the active human gate voice-approval (pending).
+Continue the Novel Forge project Julie O'Donnell Book 1. The active book is book-01 (thriller) at stage series-planning. Read STATUS.md and HANDOFF.md first, then follow the exact recommended action through /novel. Do not edit PROJECT.yaml, BOOK.yaml, STATUS.md, or HANDOFF.md directly and do not bypass the active human gate none.
 ```

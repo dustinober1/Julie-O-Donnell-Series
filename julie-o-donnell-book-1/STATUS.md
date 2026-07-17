@@ -2,17 +2,17 @@
 
 ## What needs you
 
-Voice Profile is ready for your decision.
+Novel Forge is ready to continue series planning.
 
 ## Recommended action
 
-Review the voice profile evidence and approve it or request changes.
+Define the series promise, escalation, cast pressure, and carry rules.
 
 Run: `/novel`
 
 ## Why this stopped
 
-Novel Forge stopped because voice profile requires an explicit writer approval before creative work can continue.
+No human gate or integrity blocker is stopping the recommended next step.
 
 ## Project snapshot
 
@@ -21,15 +21,15 @@ Novel Forge stopped because voice profile requires an explicit writer approval b
 - Profile: thriller
 - Runtime profile: full
 - Active book: book-01
-- Stage: voice-intake
-- Next gate: voice-approval (pending)
+- Stage: series-planning
+- Next gate: none
 - Manuscript words: 0
-- Blocking tickets/conflicts: 1
+- Blocking tickets/conflicts: 0
 - Warnings: 1
 
 ## Blockers
 
-- Human approval required: Voice Profile
+- none
 
 ## Warnings
 
@@ -37,9 +37,9 @@ Novel Forge stopped because voice profile requires an explicit writer approval b
 
 ## Recent files
 
-- books/book-01/BOOK.yaml
 - PROJECT.yaml
+- HANDOFF.md
+- STATUS.md
+- books/book-01/BOOK.yaml
 - series/voice-experiments/index.yaml
 - series/voice-guardrails.yaml
-- series/taste-profile.yaml
-- series/voice-profile.md
