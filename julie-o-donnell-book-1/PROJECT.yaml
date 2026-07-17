@@ -7,7 +7,7 @@ default_profile: thriller
 current_stage: voice-intake
 next_gate: voice-approval
 gates:
-  voice-approval: open
+  voice-approval: pending
   book-plan-approval: open
   first-chapter-approval: open
   act-1-review: open

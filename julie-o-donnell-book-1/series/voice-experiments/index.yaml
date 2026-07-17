@@ -1,2 +1,6 @@
 schema_version: 1.0.0
-experiments: []
+experiments:
+- id: VE-001
+  path: series/voice-experiments/VE-001/experiment.yaml
+  status: accepted
+  baseline_hash: 2e7b01674495431be1af3ed6ea25a8d522a2349554be7a6189d13ce5af60d871

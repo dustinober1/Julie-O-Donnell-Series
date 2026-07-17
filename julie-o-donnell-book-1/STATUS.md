@@ -2,17 +2,17 @@
 
 ## What needs you
 
-Novel Forge is ready to continue voice intake.
+Voice Profile is ready for your decision.
 
 ## Recommended action
 
-Build the voice profile from the writer's evidence.
+Review the voice profile evidence and approve it or request changes.
 
 Run: `/novel`
 
 ## Why this stopped
 
-No human gate or integrity blocker is stopping the recommended next step.
+Novel Forge stopped because voice profile requires an explicit writer approval before creative work can continue.
 
 ## Project snapshot
 
@@ -22,14 +22,14 @@ No human gate or integrity blocker is stopping the recommended next step.
 - Runtime profile: full
 - Active book: book-01
 - Stage: voice-intake
-- Next gate: voice-approval (open)
+- Next gate: voice-approval (pending)
 - Manuscript words: 0
-- Blocking tickets/conflicts: 0
+- Blocking tickets/conflicts: 1
 - Warnings: 1
 
 ## Blockers
 
-- none
+- Human approval required: Voice Profile
 
 ## Warnings
 
@@ -37,9 +37,9 @@ No human gate or integrity blocker is stopping the recommended next step.
 
 ## Recent files
 
-- series/voice-experiments/VE-001/baseline.md
-- series/voice-experiments/VE-001/variant-c.md
-- series/voice-experiments/VE-001/variant-b.md
-- series/voice-experiments/VE-001/variant-a.md
-- series/voice-experiments/VE-001/source-scene.md
-- series/voice-experiments/VE-001/experiment.yaml
+- books/book-01/BOOK.yaml
+- PROJECT.yaml
+- series/voice-experiments/index.yaml
+- series/voice-guardrails.yaml
+- series/taste-profile.yaml
+- series/voice-profile.md

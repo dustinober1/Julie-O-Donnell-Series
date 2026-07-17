@@ -1,10 +1,49 @@
 schema_version: 1.0.0
-must: []
-prefer: []
-avoid: []
-monitor: []
+must:
+- ground tension in verifiable physical cues, timing, routing, custody, or procedural
+  consequence
+- keep close-third narration disciplined and defensive so observation stays ahead
+  of explanation
+- let institutional language carry dramatic pressure when systems or bureaucracy become
+  the threat surface
+prefer:
+- compact paragraphs that tighten as risk accelerates
+- concise adversarial dialogue that changes authority, trust, or available options
+- concrete environmental detail that tests or contradicts system certainty
+- brief fragments at recognition beats or irreversible status changes
+avoid:
+- tutorial-style technical explanation that stalls momentum
+- action-hero swagger or invulnerable competence theater
+- speechmaking that turns institutional critique into overt lecturing
+- stylized digital spectacle or theatrical hacking performance
+monitor:
+- procedural density drifting from pressure into opacity
+- sentence fragmentation flattening scene modulation
+- withholding so much interiority that motive clarity disappears
 baseline:
-  path: null
-  content_hash: null
-  metrics: {}
-pov_signatures: []
+  path: series/voice-experiments/VE-001/baseline.md
+  content_hash: 2e7b01674495431be1af3ed6ea25a8d522a2349554be7a6189d13ce5af60d871
+  metrics:
+    word_count: 895
+    sentence_count: 104
+    average_sentence_words: 8.6058
+    median_sentence_words: 6.5
+    average_paragraph_sentences: 2.4375
+    dialogue_ratio: 0.095
+    fragment_ratio: 0.25
+    rhetorical_question_ratio: 0.0385
+    filter_word_rate_per_1000: 5.5866
+    body_language_repeat_rate_per_1000: 1.1173
+    interiority_rate_per_1000: 5.5866
+pov_signatures:
+- id: primary-close-third
+  pov: close-third protagonist
+  must:
+  - stay inside a defensive observational frame
+  - register stress through perception, timing, and physiology before interpretation
+  prefer:
+  - let trust judgments emerge from what others omit, concede, or delay
+  - narrow attention as institutional pressure escalates
+  avoid:
+  - soft reflective monologue
+  - omniscient explanation beyond what the focal character can verify

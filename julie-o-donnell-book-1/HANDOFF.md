@@ -5,9 +5,9 @@
 - Profile: thriller
 - Stage: voice-intake
 - Git reference: main @ HEAD
-- Project state hash: 968eecdfd5be1f04e1c5da1d4b29c4079c706559bc6737a0835dabd01da6f2bb
-- Last completed action: research-update
-- Active gate or blocker: voice-approval (open)
+- Project state hash: 38cc316dce7288a7360ce993618afa1dc6893555623dde3c126734bf5b770b8f
+- Last completed action: voice-profile
+- Active gate or blocker: voice-approval (pending)
 - Current chapter: 0
 - Manuscript words: 0
 
@@ -36,10 +36,10 @@
 
 Run exactly: `/novel`
 
-Reason: Novel Forge is ready to continue voice intake.
+Reason: Voice Profile is ready for your decision.
 
 ## Continuation prompt
 
 ```text
-Continue the Novel Forge project Julie O'Donnell Book 1. The active book is book-01 (thriller) at stage voice-intake. Read STATUS.md and HANDOFF.md first, then follow the exact recommended action through /novel. Do not edit PROJECT.yaml, BOOK.yaml, STATUS.md, or HANDOFF.md directly and do not bypass the active human gate voice-approval (open).
+Continue the Novel Forge project Julie O'Donnell Book 1. The active book is book-01 (thriller) at stage voice-intake. Read STATUS.md and HANDOFF.md first, then follow the exact recommended action through /novel. Do not edit PROJECT.yaml, BOOK.yaml, STATUS.md, or HANDOFF.md directly and do not bypass the active human gate voice-approval (pending).
 ```

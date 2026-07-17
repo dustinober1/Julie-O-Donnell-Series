@@ -1,14 +1,51 @@
 schema_version: 1.0.0
 precedence:
-  - explicit-writer-decisions
-  - writer-samples
-  - accepted-voice-baseline
-  - approved-voice-profile
-  - influence-references
-  - genre-defaults
-influences: []
-negative_references: []
+- explicit-writer-decisions
+- writer-samples
+- accepted-voice-baseline
+- approved-voice-profile
+- influence-references
+- genre-defaults
+influences:
+- id: INF-001
+  reference: Michael Crichton
+  influence_type: atmosphere
+  admired_for:
+  - relentless claustrophobic pacing as systems fail
+  - cold institutional dread
+  not_for:
+  - long intrusive expository lectures that pause character momentum
+  derived_traits:
+  - escalate dread through cascading system failure
+  - let institutional process feel physically pressurizing
+  - keep technical consequence active inside scene momentum
+  status: approved
+- id: INF-002
+  reference: Tom Clancy — The Hunt for Red October era
+  influence_type: structure
+  admired_for:
+  - grounded weight of high-stakes military-intelligence operations
+  - credible bureaucratic pressure inside operational scenes
+  not_for:
+  - bloated pacing
+  - overly romanticized patriotic triumphalism
+  derived_traits:
+  - treat hierarchy and bureaucracy as active scene pressure
+  - maintain logistical credibility without celebratory rhetoric
+  - let operational detail sharpen stakes instead of broadening spectacle
+  status: approved
+negative_references:
+- id: NEG-001
+  reference: Mr. Robot / standard cyber-thrillers
+  rejected_for:
+  - theatrical stylized hacking tropes
+  - neon-tinted digital spectacle
+  - exaggerated anarchist-hero clichés that break grounded psychological realism
+  derived_avoidances:
+  - avoid glamorized interface spectacle
+  - avoid implausible one-person cyber omnipotence
+  - avoid rebellion mythology that overwhelms institutional realism
 opening_experiment:
-  status: not-started
-  experiment_id: null
-  baseline_path: null
+  status: accepted
+  experiment_id: VE-001
+  baseline_path: series/voice-experiments/VE-001/baseline.md
