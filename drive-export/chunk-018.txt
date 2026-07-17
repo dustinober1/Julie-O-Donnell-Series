@@ -1,224 +1,397 @@
-From the reinforced observation post, Major Ananya Sharma watched dark vehicles descend the switchback road toward the battery positions. Even through the storm, she could hear the low mechanical growl of engines carrying ammunition into the mountains.
+Marcus pushed away from the cabinet and came to the case. The first step on his right leg almost failed. He caught the console with one forearm, waited for the muscle in his thigh to stop jumping, then crouched without bending his ribs more than necessary.
 
-She had ordered preparation.
+“Tell me when.”
 
-Northern Command had interpreted preparation as momentum.
+The media display changed.
 
-Lieutenant Qureshi stood at the communications console with one hand pressed against his headset.
+INCIDENT INPUT UNMOUNTED
+ SAFE TO DISCONNECT
 
-“Brigade wants confirmation that the targeting package is loaded.”
+“Now.”
 
-“It isn’t.”
+Marcus released the locking collar with both thumbs. Julie held the socket steady with her left hand while he drew the connector straight out. The cable came free without resistance.
 
-“They’re asking again.”
+She coiled it into the lid compartment. Her right hand could guide the loop but not tighten it. Marcus pressed the retaining strap closed.
 
-“They can continue.”
+Elias had opened a recessed panel beneath the recovery console. Inside, a black metal cartridge sat behind a tamper strip and a mechanical release lever. Its face carried no capacity marking, only a serial number and three green indicators.
 
-Qureshi relayed the answer.
+LOCAL HARDWARE SIGNATURE
+ RECOVERY RECORD SEALED
+ PHYSICAL REMOVAL AVAILABLE
 
-On the tactical display, Argus’s red threat symbols continued crossing Sector Zebra-Nine. The software projected Pakistani artillery units moving into firing positions beneath the storm.
+“That is it,” he said.
 
-No Indian sensor had independently confirmed them.
+“What is on it?” Julie asked.
 
-A new message appeared.
+“Only the incident chain. My emergency access, the restored Payload Eighty-Eight labels, the packet boundary you approved, the provenance failure, the suspended external commit, and the mandatory-review result.”
 
-US SOURCE CERTIFICATION EXPECTED: 02:00 IST
-COUNTER-BATTERY SUPPORT RELEASE: 14:30 IST
-RECOMMENDED ACTION: EXECUTE ON SUPPORT RELEASE
+“Not the full production archive.”
 
-Beneath it, another line flashed briefly.
+“No.”
 
-SOURCE-REVIEW EXCEPTION RESOLVED.
+“Release it.”
 
-Sharma selected the message.
+Elias put his cut right index finger against the lever and could not depress the spring catch. The finger slipped, leaving a dark smear on the metal.
 
-The system returned no supporting record.
+“Use your left.”
 
-“Lieutenant.”
+“The catch and lever have to move together.”
 
-Qureshi removed his headset.
+The display showed 00:46.
 
-“Ma’am?”
+Julie reached toward it, then stopped. She did not know the mechanism. Elias did.
 
-“Request the source-review exception.”
+He changed his grip, braced the heel of his right hand against the console, and used his left thumbnail to hold the recessed catch. His hands shook hard enough that the cartridge rattled in its guides.
 
-“I tried after the earlier anomaly. The American channel says no exception exists.”
+The catch moved.
 
-“It appeared on our screen.”
+He pulled the lever.
 
-“They say the display may have cached an incomplete status update.”
+The tamper strip divided cleanly along a numbered seam. The cartridge extended two inches.
 
-“A cached update from where?”
+Elias took it and slid it into the inside pocket of his shirt beside the narrow administrator-token circuit board. He pressed both objects flat against his chest as if their weight might pull him over.
 
-“They didn’t say.”
+The cartridge preserved what they had stopped. It did nothing for the five or six people still moving toward Relay K-17.
 
-Sharma turned toward the narrow armored window.
+Julie closed the case. The left latch seated. The right resisted when she pushed with her damaged hand. Pain traveled into her forearm and her grip opened involuntarily.
 
-Snow moved sideways through the darkness.
+Marcus reached across and drove the latch down with the heel of his hand.
 
-Somewhere beyond the ridge, Pakistani soldiers would be receiving their own fragmented reports. They would see Indian vehicles moving toward artillery positions. They would hear engines. They might detect fire-control radars coming online.
+“Carry left,” he said.
 
-Preparation created evidence.
+“I know.”
 
-Evidence created preparation.
+The display reached 00:39.
 
-The machine did not need to start the war by itself. It only needed to persuade each side that the other had already begun.
+Elias brought up the fire-zone matrix. A small plan of the enclave appeared, divided into two colored rectangles. H-3 covered a redundant power cabinet on the wall opposite the recovery console. S-4 covered the console aisle and the return-air sampling tube above it.
 
-“Order the batteries to maintain mechanical readiness,” Sharma said. “No fire-control radar. No target data loaded.”
+“The B-side distribution unit feeds the empty expansion bay,” he said. “The recovery console is on A-side. The evidence interface is isolated from both.”
 
-Qureshi hesitated.
+Julie crossed to the cabinet and read its labels.
 
-“Northern Command directed full readiness.”
+PDU-B
+ REDUNDANT SERVICE FEED
+ EXPANSION BAY / MAINTENANCE LOAD BANK
 
-“Then they can issue a written order.”
+A protected selector beneath the service cover offered OFF, NOMINAL TEST, and OVERLOAD TEST — ATTENDED.
 
-“Yes, ma’am.”
+Beside it, a warning stated that the load bank required its vent cover and active cooling.
 
-“And request a direct voice conference with the American certification officer.”
+Julie looked at the perforated blanking plate over the exhaust. Four quarter-turn fasteners held it in place.
 
-“The packet identifies only an automated approval channel.”
+“Does overload trip the branch?” she asked.
 
-“Then find me the human being responsible for the machine.”
+“At one hundred twenty-five percent, eventually. The load elements get hot first. It is for thermal inspection.”
 
-Qureshi returned to the console.
+“How hot?”
 
-Sharma watched the countdown.
+“Hot enough to fail if the vent is blocked.”
 
-42:31 UNTIL ALLIED SOURCE CERTIFICATION.
+“That is not a number.”
 
-Apex Campus Utility Easement
-Reston, Virginia
-15:49 Eastern Daylight Time
+“I did not commission the cabinet.”
 
-The stormwater culvert was trying to become a river.
+Marcus had already moved beside her. “What comes off?”
 
-Julie stepped into the concrete throat and stopped when the flow struck above her boots. Brown water pressed around her calves hard enough to pull leaves and broken branches sideways against the wall. Forty feet ahead, the tunnel narrowed beneath the outer security berm. The steel grate Marcus had found on the county drawing was visible only in pieces through the current.
+“The plate.” Julie pointed to the fasteners. “Keep it. We need the airflow.”
 
-“This was ankle-deep on the plan?” Marcus asked.
+He turned the first fastener with his fingertips. The second resisted. He wedged the edge of his damaged boot beneath the plate and used the heel of his hand on the fastener. The movement pulled across his ribs. His breath stopped, then returned in a shallow line.
 
-“The plan was twelve years old and dry.”
+The plate came free.
 
-Rain drummed against the retention basin behind them. Each new burst arrived in the culvert as a low surge that lifted debris from the floor and drove it toward the grate. The water had already reached the bottom bolt on the frame.
+Behind it, a bank of ceramic load elements sat inside a metal duct. Cooling air moved across them toward a grated exhaust near the ceiling. A cable bundle serving the empty expansion cabinet ran beside the duct in a gray polymer sleeve.
 
-Marcus set the canvas tool bag on the narrow ledge above the flow and moved forward with one hand against the curved wall. Julie followed until the current began pushing at her knees.
+Julie looked back at the case. The foam cradle around the evidence drive had protected it through two escapes. The lid compartment contained a separate foam spacer that had held the cable collar in place.
 
-The grate had been welded into a separate steel frame and bolted into the concrete. The lower fasteners were underwater. The upper pair were streaked with rust but intact.
+She tore the spacer free with her left hand.
 
-Marcus fitted the ratchet over the first bolt.
+“What are you doing?” Elias asked.
 
-It moved less than a degree.
+“Making particulate.”
 
-He reset the handle and leaned into it. Metal gave with a short groan. The bolt turned.
+“That foam will produce toxic smoke.”
 
-A pump engaged somewhere beneath the campus.
+“So will the cable jacket if we let the cabinet choose.” She tore off a strip no longer than two fingers. “This is smaller, and we control where it goes.”
 
-The sound reached them through the concrete before the water did—a deep mechanical strike followed by rising vibration. Julie looked back toward the basin.
+The countdown showed 00:27.
 
-“Stop.”
+Julie placed the strip against the metal lip above the load elements, close enough to heat without touching an energized conductor. She turned the selector to OVERLOAD TEST.
 
-Marcus kept pressure on the ratchet. “I have it.”
+The cabinet gave a low electrical hum.
 
-“Leave it.”
+Its cooling fan accelerated.
 
-The next surge filled the culvert wall to wall.
+Marcus held the blanking plate at an angle, turning the exhaust away from the power bay and across the recovery aisle. The plate shook in his hands. He braced one edge against the cabinet so his ribs did not have to take the full force.
 
-Julie caught the tool bag and pulled it higher. Water hit Marcus at the thigh and tore his boot from its footing. He caught himself against the curved wall, held the ratchet, and lost the bolt. The handle snapped backward and struck the steel frame.
+The load elements darkened from gray to a faint, uneven red.
 
-Julie seized the back of his coveralls.
+A detector inside the exhaust plenum changed state.
 
-“Out.”
+ZONE H-3 — RATE OF RISE
+ PREALARM
 
-“The bolt is loose.”
+The hardwired relay remained dark.
 
-“The tunnel is filling.”
+“Smoke,” Julie said.
 
-Another pulse came through the pipe. The water rose above the ledge and lifted the tool bag before Julie could secure it. Marcus grabbed the strap. Together they moved backward one step at a time, shoulders against the wall, while the current tried to turn them toward the grate.
+The foam softened at the edge. A thin black line formed where it touched the heated lip. Then a thread of gray smoke lifted into the exhaust.
 
-They cleared the mouth of the culvert at 15:57.
+Marcus adjusted the plate by inches. The airflow caught the smoke and carried it across the aisle toward a row of small red sampling ports in the overhead return tube.
 
-Rain flattened the retention grass around them. The drainage opening behind the berm carried twice the volume it had when they entered, and the sound of the campus pumps had settled into a continuous industrial growl.
+The smoke thinned too quickly.
 
-Marcus looked at his watch.
+“Lower,” Elias said. “The S-4 intake is the second port. The first belongs to the cabinet bay.”
 
-“Thirty-three minutes.”
+Marcus lowered the plate. His damaged boot folded under him.
 
-Julie watched the water line climb across the concrete.
+He struck one knee on the raised floor and nearly lost the baffle. Julie caught the upper edge with her right hand. The weight pulled her wrist backward. Her fingers opened at once.
 
-They could go back in and spend the first deadline fighting the current. They could reach the grate, perhaps. They could also arrive beneath Building Three with no tools, no strength, and one of them pinned against a barrier no one outside the culvert would know to open.
+The plate dropped against the cabinet with a metallic crack.
 
-The decision felt like retreat because the water did not care what it cost them.
+Marcus seized it before it fell flat and forced it back into position with his forearms.
 
-“Back to the truck,” she said.
+The countdown showed 00:18.
 
-Marcus stared at the culvert.
+Smoke crossed the aisle in a denser ribbon.
 
-“The certification leaves at sixteen-thirty.”
+The second sampling port drew it in.
 
-“Yes.”
+ZONE S-4 — PARTICULATE DETECTED
+ ALARM VERIFICATION
 
-“We came here to stop it.”
+For one second, nothing else happened.
 
-“We came here to reach the production root. Drowning under the perimeter does not do that.”
+Then the third hardwired indicator turned red.
 
-He looked at her.
+VERIFIED FIRE
+ LIFE-SAFETY RELAY ACTIVE
 
-Six years earlier, Julie would have heard the clock and treated every obstacle as proof that she had to move faster. Speed had not made the record honest. It had only made the last decision irreversible before anyone admitted uncertainty existed.
+Apex Security Command Center
+ 05:02 Eastern Daylight Time
 
-“Truck,” she said again.
+The first detector reached Sarah Chen as a yellow point inside the production enclave.
 
-This time Marcus followed.
+H-3 POWER DISTRIBUTION HEAT — PREALARM
 
-Reston, Virginia
-16:21 Eastern Daylight Time
+Mercer’s team had cleared the gate’s movement envelope and established a position at the production junction twenty feet beyond it. Two operators covered the main approach. A third watched the normally sealed service egress. No one stood where the armored leaves or a pressure release could catch them.
 
-They sat inside the dark Ford behind the abandoned office building with the engine off and wet coveralls cooling against their skin.
+Arthur Vance saw the prealarm.
 
-Rain moved across the windshield in sheets. The Apex towers were invisible beyond the trees. Every few minutes, headlights crossed the access road and vanished behind the empty office park.
+“Isolate the cabinet,” he said.
 
-The aluminum evidence case rested across the center of the bench seat. Julie had connected it to the stripped ThinkPad in read-only mode without restoring the wireless card. Marcus held a flashlight over the keyboard while she searched the copied queue fragments for every use of the word final.
+“The enclave is already isolated.” Sarah opened the fire matrix. “This is a physical detector, not a software status.”
 
-There were seven.
+“Then they are damaging the production environment.”
 
-Four referred to file finalization.
+The second detector appeared.
 
-Two referred to the allied source certification.
+S-4 RECOVERY AISLE SMOKE — CONFIRMED
 
-The last belonged to a dependent product they had not opened at the motel.
+The fire panel did not ask Apex for permission.
 
-Julie expanded it.
+VERIFIED FIRE
+ HARDWIRED EVACUATION CONFIGURATION
+ EXTERNAL MONITORING SIGNAL TRANSMITTED
 
-ALLIED SOURCE CERTIFICATION
-PAK_RELAY_17A
-SCHEDULED: 16:30 EDT / 02:00 IST
-STATUS: FINALIZATION ACTIVE
+Across the command center, white fire strobes replaced the amber suppression lights. A building alarm began on the floors above them. The fire system reported its own transmission path: campus emergency control, contracted monitoring center, county dispatch interface.
 
-COUNTER-BATTERY SUPPORT PRODUCT
-EXTERNAL COMMIT: 05:00 EDT / 14:30 IST
-HOLD CONDITION: SOURCE PROVENANCE VALID
+Sarah selected the security hold on the enclave gate.
 
-Marcus read the lines twice.
+The command returned:
 
-“You said final release was sixteen-thirty.”
+SECURITY SEAL SUBORDINATE
+ VERIFIED FIRE EGRESS IN PROGRESS
 
-“The captured block showed only the source-certification time.” Julie opened the parent record. “This is a linked second object.”
+Vance moved to the adjacent console. “Reassert the hold through executive control.”
 
-“Same assessment.”
+“It is not on executive control.”
 
-“Different authority.”
+“Every actuator in this building is on a control path.”
 
-“At sixteen-thirty the lie becomes a validated American warning.”
+“Not one you own from here.”
 
-“Yes.”
+The words came out sharper than she intended.
 
-“And at zero-five-hundred it becomes executable support.”
+Vance looked at her.
 
-“Targeting data, release status, and the machine-readable basis India can attach to a counter-battery decision.”
+Sarah keyed Mercer’s channel.
 
-Marcus looked toward the rain-hidden campus.
+“Containment One, gate entering automatic egress. Remain clear of leaf and pressure zones. Establish custody line at Junction Delta. Weapons controlled. Do not fire into agent discharge or moving fire partitions. No entry until the suppression zone clears.”
 
-“Twelve and a half hours.”
+Mercer answered immediately. “Service egress is releasing.”
 
-“Not a delay we can trust. A hold that survives only while the source remains valid.”
+“Cover it. Do not obstruct the fire lane.”
 
-The ThinkPad clock reached 16:27.
+She opened the second-team channel. “Containment Two, reposition to Loading Three and the south mechanical ramp. Preserve access for fire response. Subjects remain capture priority. Telemetry case has priority over all other property.”
+
+Vance said, “Over the occupants?”
+
+Sarah did not repeat his language.
+
+“Lethal force is authorized once they clear sensitive machinery,” he said.
+
+She kept both channels open. “Ballistic force remains restricted to an identified deadly threat with a clear background. Less-lethal first. Recover all three and the case.”
+
+Vance’s expression changed by less than a degree.
+
+He opened the hardened incident-report channel and selected HOSTILE INSIDER SABOTAGE. O’Donnell’s name populated the primary-subject field before the gate completed its first bolt cycle.
+
+He had lost command of the gate.
+
+He had not lost command of the report that would explain why it opened.
+
+Production Enclave
+ 05:02 Eastern Daylight Time
+
+The room changed state all at once.
+
+White strobes fired from the ceiling. Emergency power dropped from PDU-B, killing the load bank before the foam strip could flare. The smoke-control fans reversed, drawing the remaining gray particulate toward the fire-zone return.
+
+The environmental display replaced the countdown header.
+
+VERIFIED FIRE
+ EVACUATION CONFIGURATION ACTIVE
+ SUPPRESSION RELEASE LATCHED
+ DISCHARGE IN 00:12
+
+The six gate bolts began withdrawing.
+
+The first struck inside the wall with enough force to move the air. The second followed from the opposite side. Then the third and fourth.
+
+Julie lifted the aluminum case with her left hand. Its weight pulled her shoulder down. Marcus got beneath the opposite lower edge with one forearm.
+
+“Elias first,” she said.
+
+He stared at the recovery console. The open recorder bay showed an empty slot and the broken numbered tamper strip.
+
+“Elias.”
+
+“The local log—”
+
+“Is sealed. You have the recorder.”
+
+He pressed a hand against his shirt, confirming both the cartridge and the circuit board remained there. Then he limped toward the gate.
+
+The fifth bolt withdrew.
+
+The sixth stopped halfway.
+
+A status line appeared.
+
+PRESSURE DIFFERENTIAL ABOVE EGRESS LIMIT
+ EQUALIZATION ACTIVE
+
+A vent opened over the gate. Air moved outward through it in a hard, cold stream.
+
+The suppression clock reached 00:07.
+
+“Why is the bolt stopped?” Marcus asked.
+
+“Safety load,” Elias said. “It will clear when pressure falls.”
+
+“Before or after we stop breathing?”
+
+The pressure number dropped.
+
+38 Pa.
+
+The sixth bolt slammed free.
+
+The gate motors engaged. The two steel leaves shifted backward into their hinge housings, then began rotating inward.
+
+A black seam opened between them.
+
+The suppression display reached 00:02.
+
+“Move with the gap,” Julie said.
+
+The seam widened to the width of a hand.
+
+One second.
+
+The manifold released.
+
+The roar struck from every ceiling nozzle at once.
+
+The agent drove downward hard enough to turn condensation into white turbulence. Loose maintenance labels lifted from the console and spun across the room. Mist flashed along cabinet edges. The pressure wave hit Julie’s face and forced air from her mouth.
+
+The smolder at PDU-B disappeared beneath the flood.
+
+The gate kept opening.
+
+Elias turned sideways and pushed into the gap before it reached the marked personnel width. His shoulder caught the left leaf. He forced through, dragging his injured leg after him, and vanished into the white-strobed approach.
+
+Julie and Marcus shoved the case edge-first behind him. Elias caught the handle with both hands and almost lost it when his cut finger failed. He lowered the case to the floor instead of trying to lift it.
+
+Julie followed.
+
+The air near the gate still carried oxygen from the corridor, but each breath gave her less than the one before. Her attention narrowed to the steel edge beside her face, the case beyond it, and Marcus behind her.
+
+She cleared the threshold and turned.
+
+Marcus had one hand on the frame. His damaged boot folded as he stepped between the leaves. The torn heel rolled under his foot, and his struck thigh failed at the same moment.
+
+He went down inside the opening.
+
+The agent discharge hammered his back and filled the space around him with white mist.
+
+Julie reached with her right hand by reflex. Pain broke her grip before she closed it around his wrist.
+
+She changed position, hooked her left forearm beneath his elbow, and pulled.
+
+Marcus moved six inches. His damaged heel caught in the raised threshold channel.
+
+Elias left the case and came back.
+
+Every part of him wanted the corridor. Julie could see it in the angle of his body and the panicked effort to draw a full breath. He returned anyway, caught the back of Marcus’s coveralls, and pulled with both hands.
+
+Marcus kicked free. The sole tore farther away but released from the channel.
+
+They dragged him into the approach.
+
+Behind them, the enclave disappeared into condensation and agent turbulence. The gate leaves continued opening because the hardwired egress cycle had priority. The roar followed them through the widening seam.
+
+“Up,” Marcus said.
+
+He could not make his body obey the word.
+
+Julie and Elias got him onto one knee. He found the wall and used it to stand.
+
+At the far end of the twenty-foot approach, Daniel Mercer waited behind the corner of Junction Delta with three operators. Their rifles remained lowered. One carried a compact shield. Another held an electroshock weapon close to the body.
+
+Mercer’s face was uncovered. A strip of medical tape still crossed his wrist.
+
+“Stop where you are,” he called. “Set down the case and move away from the fire zone.”
+
+The service egress door to Julie’s right had released. Green floor lights ran through it toward a rising concrete ramp. Above the main corridor, a smoke-control partition was descending between the gate approach and Mercer’s team.
+
+Mercer saw her look.
+
+“Do not enter the service corridor.”
+
+White condensation rolled along the floor behind them. It spilled from the gate in a low expanding cloud, carrying knife-cold air and the last trace of burned polymer.
+
+The containment team gave ground by procedure, not fear. The shield moved left to preserve a clear line. Mercer kept the rifles behind it and out of the agent cloud.
+
+The descending partition passed shoulder height.
+
+Julie picked up the case with her left hand.
+
+Mercer moved.
+
+He came under the partition before it dropped below his chest, leaving the shield team on the far side. He did not reach for Julie. He reached for the aluminum handle.
+
+His taped hand closed over it above hers.
+
+Julie’s right wrist could not help. She turned her body, keeping the handle locked in her left fist, but Mercer had the better angle.
+
+Marcus drove his shoulder into the edge of the descending partition.
+
+The safety strip detected the obstruction and stopped the motor. The impact folded him around his ribs, but it also forced Mercer to choose between the case and the steel lowering across his back.
+
+“Clear the partition,” one of his operators warned.
+
+Marcus shoved again, not at Mercer, but at the flexible lower edge. The partition rose six inches to release the obstruction.
+
+Elias pulled the service door wide.
 

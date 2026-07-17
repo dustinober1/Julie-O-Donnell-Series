@@ -1,350 +1,407 @@
-“Going back inside?” Marcus asked.
+He caught the shield’s left rim with both hands and drove it into the inside wall of the corridor. The operator behind it absorbed the impact and kept his feet. Mercer stepped in from the right, using his shoulder to square the shield again.
 
-“Not yet.”
+The electroshock weapon appeared over the opposite edge.
 
-“You’re thinking about it.”
+“Left high,” Julie called.
 
-“I’m thinking Elias Thorne is either the person who deployed Payload Eighty-Eight or the person Vance intends to blame for it.”
+Marcus released the shield and struck the operator’s wrist with his forearm. The cartridge discharged into the armored gate frame. Two barbed probes snapped against the steel and hung there on silver wires, sparking uselessly.
 
-“Either way, he’s inside.”
+Marcus backed two steps before the shield hit him.
 
-Julie searched the access-log fragments for his employee number.
+Its upper edge caught the ribs he had bruised on the bridge.
 
-Three results appeared.
+He folded around the impact. The lead operator kept pressure on him, using the shield as a moving wall rather than trying to strike past it. Mercer reached around the edge for Marcus’s right arm.
 
-The first showed Elias accessing the production registry.
+Marcus turned with the grip instead of fighting it. He pulled Mercer half a step across the shield operator’s path and drove his own shoulder into the shield’s side.
 
-The second showed an unauthorized-peripheral alert attached to his workstation.
+For a moment, all three men occupied the same narrow space.
 
-The third was a security workflow generated minutes before Julie and Marcus’s review room was quarantined.
+That was all Marcus needed.
 
-SUBJECT: THORNE, ELIAS M.
-ACCESS STATUS: SUSPENDED
-ESCORT REQUEST: ACTIVE
-DESTINATION: ADMINISTRATIVE HOLD
-LOCATION: BUILDING THREE
+He dropped his weight, twisted free, and retreated behind the armored gate frame.
 
-“He found it at the same time we did,” Julie said.
+He did not come away clean. A baton struck the outside of his right thigh as he moved. His torn boot slipped when the heel folded under him. He hit one knee beside Julie, one hand pressed hard against his ribs.
 
-Marcus came to the table.
+The team recovered its formation immediately.
 
-“How can you tell?”
+No one chased him alone.
 
-“The system flagged his workstation for removable media. Then security locked his account and moved him into administrative hold.”
+On the panel, the pressure difference reached zero.
 
-“Maybe he was trying to cover his tracks.”
+A heavy motor engaged behind the gate.
 
-“Maybe.”
+The two steel slabs shifted backward into their hinge housings by less than an inch. Then they began to pivot inward.
 
-“But you don’t think so.”
+A black seam appeared between them.
 
-“He built Payload Eighty-Eight. If he wanted to hide the deployment, he would not plug a storage device into a monitored production terminal after the alert was already live.”
+Two inches.
 
-“He panicked.”
+Four.
 
-“Or he tried to preserve the original logs.”
+White floor light from inside the enclave cut through the opening.
 
-Marcus read the entries.
+Too narrow for a hand carrying the case.
 
-“Does the capture show where they took him?”
+Too narrow for a person.
 
-“No room number. Only Building Three.”
+The panel displayed:
 
-“Could have transferred him.”
+ENTRY APERTURE: 102 MM
+ FULL SERVICE OPEN: 44 SECONDS
 
-“The workflow still lists the hold as active when our partition was erased.”
+Marcus looked at the team regrouping six feet away.
 
-“That was over an hour ago.”
+“We don’t have forty-four.”
 
-Julie checked the package documentation again.
+“We don’t need full open,” Julie said.
 
-The source-provenance challenge needed Elias’s biometric, a director certificate, and local root access.
+She studied the gate’s movement. Each slab rotated into a recessed arc inside the enclave. Yellow clearance lines glowed along the threshold. A second line on the panel showed the minimum safe aperture for personnel passage.
 
-They had a fragment of the director certificate chain on the evidence drive.
+560 MM.
 
-Elias might have the complete deployment record.
+The gate would reach it in twenty-one seconds.
 
-The production root was inside Apex.
+Mercer saw the opening and changed the order.
 
-Every route led back to the building they had just escaped.
+“Advance to the frame. Control Reed. Do not enter the hinge arcs.”
 
-Marcus understood from her silence.
+Professional. Specific. He understood the gate as well as Elias did.
 
-“No.”
+Julie moved the aluminum case to her left side and crouched beside Marcus.
 
-Julie looked at him.
-
-“We don’t have enough evidence to stop the source certification from out here.”
-
-“We have enough to get arrested.”
-
-“That doesn’t stop the packet.”
-
-“We take the drive to the press.”
-
-“They spend days authenticating it.”
-
-“An oversight committee.”
-
-“Same problem.”
-
-“Hackett.”
-
-“He told you to surrender it through a channel we cannot verify.”
-
-Marcus paced away from the table.
-
-“You are proposing that we break back into a secure intelligence facility while Army counterintelligence is searching for us.”
-
-“I am identifying the only path that reaches the system before sixteen-thirty.”
-
-“We don’t know where Elias is.”
-
-“We know he’s in Building Three.”
-
-“We don’t know whether he’ll help.”
-
-“He tried to copy the deployment records.”
-
-“We don’t know whether the certificate fragment on this drive can open the production root.”
-
-“No.”
-
-“We don’t know how to reach the core.”
-
-“Not yet.”
-
-Marcus stopped.
-
-“You keep saying uncertainty is the reason not to act.”
-
-“No. I keep saying uncertainty is the reason to understand what action costs.”
-
-“And this action?”
-
-“We could be arrested. We could be shot if Apex security believes we are attacking the production system. Elias could refuse. The certificate could fail. The source challenge could expose genuine threat data beneath the synthetic package. And even if we succeed, the review may not finish before source certification.”
-
-Marcus looked at the clock.
-
-“What is the alternative?”
-
-“We surrender the drive and hope the institution moves faster than the lie.”
-
-Neither of them spoke.
-
-Marcus returned to the table.
-
-“What do you need?”
-
-Julie opened the ThinkPad’s network compartment and reconnected the wireless card.
-
-“I need the county plans for the Apex campus.”
-
-“You just disconnected that.”
-
-“We have to accept one controlled exposure.”
-
-“From the motel network?”
-
-“Too close.”
-
-She shut down the laptop and removed the live boot drive.
-
-“There’s a public library three miles west.”
-
-“We walk in looking like this?”
-
-“We change.”
-
-“Use a library computer tied to a camera?”
-
-“I use the ThinkPad from the parking lot. Spoof the hardware address, download public planning records, and disappear before anyone correlates the session.”
-
-“You think Apex monitors county drainage plans?”
-
-“No. I think they will after they realize we downloaded them.”
-
-Marcus checked his watch.
-
-14:32.
-
-“Less than two hours.”
-
-“We’ll need another vehicle.”
-
-“The truck still runs.”
-
-“They know it.”
-
-“They know it leaves oil in private driveways.”
-
-Despite everything, Julie smiled.
-
-Only for a moment.
-
-“We keep the truck until the final approach. Leave it outside the camera perimeter and go in on foot.”
-
-“In through what?”
-
-“That depends on the plans.”
-
-Marcus looked toward the evidence drive.
-
-“And once we find Elias?”
-
-“We get the original deployment record.”
-
-“Then leave?”
-
-“If there is time, we force the source-provenance review from the production root.”
-
-“You know how?”
-
-“No.”
-
-“Does Elias?”
-
-“He wrote the package.”
-
-“That is not an answer.”
-
-“It is the closest one we have.”
-
-Marcus nodded slowly.
-
-The decision settled into him.
-
-Not confidence.
-
-Commitment.
-
-Julie disconnected the evidence drive and returned it to the aluminum case.
-
-Before shutting down the laptop, she opened one final log fragment.
-
-The file had been partially overwritten during the Apex sanitization process. Most fields were unreadable.
-
-One survived.
-
-ALLIED CERTIFICATION WINDOW
-PAK_RELAY_17A
-SOURCE CERTIFICATION: 16:30 EDT
-
-Beneath it was an automated approval state:
-
-SOURCE INTEGRITY: VERIFIED
-
-The system had already accepted the lie.
-
-They had one hour and fifty-eight minutes to make it doubt itself.
-
-Forward Post Arjun
-
-Kashmir
-
-00:14 Indian Standard Time
-
-Major Ananya Sharma watched the first ammunition carrier descend toward the artillery positions.
-
-Its headlights were off. A soldier walked ahead with a shielded lamp, guiding the driver along the ice-darkened road.
-
-Sharma had ordered mechanical readiness only.
-
-Brigade command had ordered ammunition forward.
-
-The difference was procedural.
-
-On the mountain, it looked like escalation.
-
-Lieutenant Qureshi entered the observation room carrying a printed message.
-
-“Northern Command.”
-
-Sharma took it.
-
-PREPARE COUNTER-BATTERY PLAN UPON RECEIPT OF ALLIED SOURCE CERTIFICATION. EXECUTION REQUIRES COUNTER-BATTERY SUPPORT RELEASE.
-
-“Still no independent confirmation?” she asked.
-
-“Acoustic stations report possible tracked movement.”
-
-“Possible.”
-
-“Yes, ma’am.”
-
-“Ground patrols?”
-
-“Unable to observe the sector through the storm.”
-
-“Signals?”
-
-“Encrypted traffic continues.”
-
-“Does it move with the Argus projection?”
-
-Qureshi hesitated.
-
-“Approximately.”
-
-“That means no.”
-
-“The American assessment accounts for terrain masking.”
-
-“The American assessment accounts for everything except being wrong.”
-
-Qureshi looked toward the tactical display.
-
-“Brigade believes the cost of waiting is greater than the cost of acting.”
-
-“Brigade is twenty kilometers behind us.”
-
-Another alert appeared on the monitor.
-
-ARGUS ALLIED SOURCE CERTIFICATION
-EXPECTED 02:00 IST
-COUNTER-BATTERY SUPPORT RELEASE: 14:30 IST
-
-The red symbols representing Pakistani artillery continued advancing across the digital map.
-
-Sharma looked through the observation slit.
-
-The actual valley remained hidden.
-
-“Send a reconnaissance team to Point Kestrel,” she said.
-
-“In this weather?”
-
-“They can observe the western approach from there.”
-
-“It will take ninety minutes.”
-
-“Then they arrive before the recommended firing window.”
-
-Qureshi did not move.
-
-“Major, if the enemy is already deploying, the patrol could walk directly into them.”
+“Can you stand?”
 
 “Yes.”
 
-“And if the assessment is false?”
+“That wasn’t the question.”
 
-“They will find an empty road.”
+He put his good foot under him. “I can stand once.”
 
-Qureshi considered the order.
+“Make it the useful one.”
 
-“Who leads?”
+The shield drove toward them again.
 
-“I do.”
+Marcus rose into it with his left shoulder against the gate frame. He did not try to stop the shield head-on. He let its edge pass him, caught the operator’s forearm when it appeared, and turned the arm into the steel jamb.
 
-His expression changed.
+The movement cost him. The shield drove across his chest and pinned him long enough for Mercer to seize the back of his coveralls.
 
-“You are the battery commander.”
+Julie saw the next operator preparing to come around the shield’s left side.
 
-“I am the person delaying the battery.”
+“Two behind,” she said. “Second one low.”
 
-“You can send Captain Rao.”
+Marcus stamped backward with the boot whose heel still held. His sole struck the lead operator’s shin, breaking the pressure for an instant. He tore free of Mercer’s grip and fell inside the depth of the gate frame.
 
-“If I am asking soldiers to walk into a threat I do not believe, I will not do it from behind glass.”
+The shield followed.
 
-The communications console chimed.
+Its top corner crossed the yellow clearance line.
+
+A warning sounded, and the gate stopped.
+
+HINGE ARC OBSTRUCTION
+ ENTRY CYCLE HOLD
+
+The operator pulled the shield clear. Two seconds later, the slabs resumed opening, but the entire front rank had been forced to stop and reset outside the frame.
+
+Julie understood the yellow lines now. They were not decoration. They marked the volume the armored leaves required to move. The team could control the corridor or enter the frame. It could not do both while carrying the shield.
+
+“Make them choose,” she told Marcus. “Shield or threshold.”
+
+The aperture passed three hundred millimeters.
+
+On the inner face of the right slab, a protected green paddle came into view.
+
+EMERGENCY CYCLE CONTROL
+
+Julie reached through the gap. Pain flared through her injured wrist when the moving steel forced her arm sideways. She got two fingers beneath the cover and flipped it open.
+
+“Close control,” she said. “Once we’re through, I can reverse the cycle.”
+
+“Not before,” Elias warned. “If it senses anyone in the threshold, it holds.”
+
+Julie looked at the shield.
+
+That was the team’s next move. Put equipment or a body across the optical line, and the gate could not seal.
+
+The aperture reached four hundred millimeters.
+
+Mercer abandoned the shield.
+
+He shoved it flat onto the floor instead of letting it block his own team, then stepped over it with the electroshock operator on his shoulder. The rifle stayed back. Chen’s ballistic hold was still in force.
+
+Without the shield, they moved faster.
+
+Marcus met Mercer at the frame. He redirected the first reaching hand, caught the second at the wrist, and used the jamb to keep both men from turning their bodies fully into the fight. There was no room for punches with weight behind them. The struggle became forearms, shoulders, and boots searching for traction on the smooth floor.
+
+Mercer’s taped wrist bent against the frame. He released and drove his other forearm into Marcus’s damaged ribs.
+
+Marcus lost his footing.
+
+The electroshock operator came past Mercer with a fresh cartridge.
+
+Julie stepped in once, keeping the case tight against her left leg.
+
+She caught the operator’s weapon hand with her injured right forearm and drove it down against the top edge of the discarded shield. The cartridge fired. One probe buried itself in the shield’s fabric cover. The other struck the floor and skittered beneath the gate.
+
+Pain flashed from Julie’s thumb to her elbow. Her grip on the operator failed, but she backed away with the case still in her left hand. She had bought Marcus less than a second.
+
+He used it.
+
+Marcus hooked one foot behind the abandoned shield and kicked it sideways. It rotated across the corridor, forcing Mercer and the electroshock operator to step back or be trapped against the frame. The rear team caught them and kept the formation from collapsing.
+
+The gate reached five hundred millimeters.
+
+MINIMUM PERSONNEL APERTURE IN 3
+
+“Elias,” Julie said.
+
+He stared through the widening seam at the white light beyond it.
+
+“Two,” she said.
+
+His injured leg nearly failed when he shifted his weight.
+
+“One. Go.”
+
+The panel chimed.
+
+MINIMUM PERSONNEL APERTURE
+
+The token slot clicked and released the circuit board. Elias caught it against the panel with one shaking hand, then closed his fingers around it.
+
+He turned sideways and entered between the moving slabs. His shoulder struck the right leaf. He twisted through, dragging his left leg after him, and fell against the inner wall.
+
+“Case.”
+
+Julie lifted the aluminum case edge-first. Her right hand could not take the weight. She shoved it through with her left forearm.
+
+Elias caught the handle badly. The case hit the floor inside with a hard metallic knock.
+
+The capture display stayed green.
+
+LOCAL MEDIA INTACT
+
+Julie followed it through. The gate’s steel edge passed inches from her back as the leaves continued opening. Inside, she seized the case with her left hand and turned.
+
+Marcus remained outside.
+
+Mercer’s team surged together.
+
+Two operators stepped over the shield while Mercer drove Marcus against the jamb. A forearm locked across Marcus’s upper chest. The electroshock weapon had no cartridge now, but the operator used its body as a striking tool and hammered it into Marcus’s right thigh where the baton had already landed.
+
+Marcus’s leg gave way.
+
+“Marcus.”
+
+“I’m moving.”
+
+He was not.
+
+The gate aperture reached six hundred millimeters. Wide enough for one unarmored person at a time. Not wide enough for two men fighting at the threshold.
+
+Julie set the case beyond the yellow line and went back.
+
+She caught Marcus’s right wrist with both hands.
+
+Pain shot through her own wrist so sharply that her grip weakened. She changed position, locking his forearm against hers instead of relying on her hand.
+
+“Elias.”
+
+He pushed off the wall and grabbed the back of Marcus’s coveralls.
+
+Mercer held the other side.
+
+Marcus became the line between them for one violent second.
+
+The electroshock operator reached for Julie across his shoulder.
+
+Marcus drove his head backward into Mercer’s face. It was not a clean strike. The back of his skull glanced off Mercer’s cheek and split Marcus’s own scalp against the helmet rim, but Mercer’s grip loosened.
+
+Julie and Elias pulled.
+
+Marcus’s torn heel caught on the threshold.
+
+The sole peeled away with a ripping sound. His foot came free of the boot opening just far enough to clear the optical line, leaving the damaged boot hanging half off.
+
+All three fell inside.
+
+Julie rolled to the green paddle and struck it with the heel of her hand.
+
+ENTRY CYCLE REVERSING
+
+The motors changed pitch.
+
+The steel slabs stopped, held, then began closing toward the center.
+
+Mercer reached through the narrowing gap for Marcus’s coveralls. The optical line caught his arm and the motors paused. Marcus caught the wrist, turned it outward, and shoved it back into the corridor. The leaves resumed closing as soon as the threshold cleared.
+
+The team did not fire. They did not throw a body into the hinge arc. Mercer pulled clear and ordered them off the threshold before the safety system could hold the gate open.
+
+The white corridor became a narrowing vertical strip filled with weapon lights and dark armor.
+
+Sarah Chen’s voice came through Mercer’s radio.
+
+“Do not damage the gate. Begin local override when it seals.”
+
+Then the slabs met.
+
+The seam vanished.
+
+Locking bolts drove home in sequence. One. Two. Three. The impacts traveled through the floor until the sixth bolt seated and the motors went quiet.
+
+GATE SECURED
+ EMERGENCY ENTRY COMPLETE
+
+The enclave held still for half a second.
+
+Then Marcus rolled onto his back and drew one careful breath. Blood darkened the hair above his right ear. His boot hung open at the heel. One hand remained clamped over his ribs, and the muscle in his struck thigh jumped beneath the coveralls.
+
+“Conscious?” Julie asked.
+
+“Unfortunately.”
+
+Elias sat against the wall with one leg extended. He looked at the circuit board clenched in one hand.
+
+A local display above it showed:
+
+EMERGENCY ACCESS RECORDED
+ ADMINISTRATOR: THORNE, ELIAS M.
+ AUDIT SEAL: COMMITTED
+
+His name remained on the screen after every other status line cleared.
+
+Metal struck the outside of the gate.
+
+Once. Pause. Twice.
+
+The override pattern had begun again.
+
+Julie picked up the aluminum case.
+
+Only then did she look beyond the entry chamber.
+
+The production enclave was smaller than the machinery around it had suggested. A compact room extended thirty feet beyond the gate, lit by narrow white strips at floor level. Hardened cabinets occupied two walls. Fiber trunks and cooling lines disappeared beneath a raised service deck. There were no logos, no windows, and no wireless access points. Cold filtered air moved with barely any sound.
+
+Two local terminals stood beneath an independent clock.
+
+04:58:11
+
+The machines had continued working through the pursuit, the quarantine, and the fight outside their door.
+
+The recovery console awakened as the authenticated gate session registered inside the enclave.
+
+EMERGENCY PROVENANCE RECOVERY
+ PRESENT DISPUTED OPERATIONAL SOURCE
+
+Julie held the case but did not open it.
+
+A second display came alive above the console.
+
+ARGUS STRATEGIC RELEASE
+ ASSESSMENT STATE: VALIDATED
+ FINALIZATION ACTIVE
+ EXTERNAL COMMIT QUEUE: ARMED
+
+The last line populated a moment later.
+
+TIME TO EXTERNAL COMMIT: 01:37
+
+Marcus pushed himself onto one elbow. Elias stared at the number as if the panel had made an arithmetic error.
+
+Outside, the override tool struck the gate a third time.
+
+Onscreen, 01:37 became 01:36.
+
+The gate had cost them three minutes. Argus had used every one.
+
+---
+
+# Chapter 8 - The 05:00 Abort
+
+Apex Building Three
+Reston, Virginia
+04:58 Eastern Daylight Time
+
+Julie set the aluminum case beneath the recovery console and turned it so the cable bay faced the wall.
+
+The movement required both hands. Her right wrist failed halfway through, sending a hot line of pain into her thumb, and the case dropped the final inch onto the raised floor.
+
+“Elias. Port.”
+
+He pushed himself upright against the wall. His left leg resisted when he tried to put weight on it, and he crossed the short distance with one hand sliding along a cabinet. The thin circuit board remained clenched in the other.
+
+Marcus rolled onto his side near the gate.
+
+Julie looked at him once. Blood had reached the collar behind his right ear. His damaged boot sat crooked on his foot, the peeled heel opening and closing when he moved. He drew each breath around the ribs instead of through them.
+
+“Stay down,” she said.
+
+“I can watch a door from the floor.”
+
+“Then watch it.”
+
+Another metallic impact struck the outer face of the gate. The sound carried through the six locking bolts and into the deck beneath Julie’s knees.
+
+A narrow status strip beside the interior cycle control changed from green to amber.
+
+LOCAL OVERRIDE DETECTED
+ LOCK ARRAY PRESSURE TEST
+
+Marcus read it. “They’ve started on the bolts.”
+
+Above the recovery console, the release clock continued.
+
+01:31.
+
+Elias reached the terminal and stared across its blank lower panel.
+
+“It should have a forensic input behind the service cover.”
+
+“Should?”
+
+“The console was commissioned after my team’s last recovery exercise.” He pressed beneath the left edge, then the right. Nothing opened. “They changed the housing.”
+
+Julie swept her fingers along the seam. No latch. No fastener. The metal face was interrupted only by a recessed symbol showing two opposing arrows around a sealed square.
+
+“Incident media,” she said.
+
+Elias leaned closer. “Press and hold.”
+
+She used her left thumb.
+
+A section of the panel withdrew and slid sideways. Inside were two shielded receptacles: one shaped for an evidence-device connector, the other a narrow copper-edge slot like the gate panel outside.
+
+The console updated.
+
+FORENSIC INCIDENT INPUT AVAILABLE
+ MEDIA WILL MOUNT IN PROTECTED MODE
+ NO PRODUCTION WRITE PATH PRESENT
+
+Julie opened the case.
+
+The left latch released under her thumb. The right required pressure her injured hand could not give. She changed angle, braced the case with her knee, and forced the latch with the heel of her palm. Pain ran up her forearm, but the metal catch lifted.
+
+Inside, the government evidence drive remained seated in its foam cradle. The shielded cable lay coiled in the lid compartment where she had secured it after the motel review. The small case display still showed green.
+
+CAPTURE SEALED
+ LOCAL MEDIA INTACT
+
+“Read-only?” she asked.
+
+“The protected port has no route into production memory,” Elias said. “It copies selected blocks into a local reconciliation workspace. If the isolation controller is functioning.”
+
+Julie looked at the screen.
+
+“Can we verify that before connection?”
+
+Elias’s fingers moved over the console, too fast at first. His cut right index left a small dark mark on the glass. He stopped, wiped the blood against his shirt, and used his left hand instead.
+
+A topology diagram appeared. The incident input terminated inside a boxed recovery partition. A one-way arrow pointed from the live operational archive into the same partition. Nothing pointed back until a final object labeled PROVENANCE DECISION.
+
+“The comparison can alter source status,” Elias said. “It cannot write packet content into the feed.”
+
+“Good.”
+
+“Julie, once it withdraws provenance, every conclusion built from that source can be suspended.”
+
+“That’s why we came.”
 

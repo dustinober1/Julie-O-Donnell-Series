@@ -1,102 +1,257 @@
-An engine sounded beyond the tree line, too quiet for the county grader and too controlled for a delivery van climbing the hill. A black Chevrolet Suburban appeared between the trees, clean enough to have spent little time on county roads. No government plates. Tinted rear windows. Virginia registration. The driver kept the wheels centered through the ruts as though he had studied the approach.
+Sarah explained that Apex staff had loaded the government source package into the review partition. Marcus’s credential would permit access. Every query and result would be monitored and retained. The room was not designed to prevent analysis. It was designed to ensure Apex possessed a record of every path Julie took.
 
-The post, level, and fresh dirt belonged to a morning that had just ended. Julie crossed to the barn, removed the old twelve-gauge from the tack-room rack, checked the chamber, and loaded two shells. By the time the Suburban stopped beside her truck, she stood in the yard with the shotgun against her leg.
+“Where is the raw relay feed?”
 
-Colonel Marcus Reed stepped out alone.
+“In the partition.”
 
-Khaki pants and a weatherproof jacket could not hide twenty-seven years in uniform. He surveyed the barn, pasture, porch, and tree line before looking at her, confirming exits and distances by habit. His hair had gone almost entirely gray. Six years had narrowed his face without softening it.
+“That isn’t what I asked.”
 
-Julie kept the barrel pointed at the ground. “You’ve got nerve.”
+The package had been imported by Apex through an accredited cross-domain process. Sarah said it had not been modified and invoked platform certification when Julie asked who could prove it.
 
-Marcus said the unanswered calls had been his. Julie let the statement die between them. His glance moved to the shotgun. “Are you planning to shoot me?”
+“Certification is not an answer to every question.”
 
-“Not if you leave.”
+Sarah’s neutrality sharpened. “No. But it is usually an answer to people who know what they’re looking at.”
 
-The corner of his mouth moved without becoming a smile. “You always did prefer clear instructions.”
+Marcus thanked her before Julie could respond. Sarah left. The steel door sealed behind her.
 
-“And you always heard only the ones you could defend later.”
+Julie listened to the lock engage.
 
-The words landed. Marcus did not pretend otherwise. Wind moved through the pasture while a horse shifted inside the barn.
-
-“I need ten minutes.”
-
-“You already used six years.”
+Marcus had chosen the floor. Vance had chosen the room, and Apex had loaded the data. When Marcus pointed to the package’s original government checksums, Julie reminded him that checksums traveling inside the same package proved only internal agreement.
 
 “I know.”
 
-That answer unsettled her more than an excuse. Julie had prepared for appeals to duty, explanations about the hearing, perhaps an order disguised as a favor. Marcus had always believed the right procedure could absorb damage caused by the wrong decision. Hearing him accept the six years without qualification made the distance between them feel less secure.
+“That phrase still sounds unnatural in your mouth.”
 
-“Say what you came to say.”
+“I’ve had practice since this morning.”
 
-Marcus reached slowly into his jacket. Julie’s grip tightened until he produced a folded page and held it where she could see it. No phone, tablet, classification banner, source name, or collection method. Sanitized telemetry.
+He inserted his credential. A Department of Defense warning banner appeared first. The Apex chevron followed half a second later. The system requested a second factor, and Marcus placed his thumb on the scanner.
 
-He stopped at the bottom porch step. Julie set the shotgun against a column within reach and held out her hand.
+Access granted.
 
-The page contained timestamps and signal-strength readings without headings or source identifiers. Marcus had stripped the context down to numbers because he knew she would trust them before she trusted him. By the fourth line, the pasture seemed to recede.
+A folder appeared.
 
-Each transmission arrived exactly eleven-point-two seconds after the previous one. Signal strength varied by less than one tenth of a decibel. The values looked less like a field intercept than a demonstration prepared for a briefing: stable enough to survive every objection except contact with the physical world. Real mountain relays inherited the damage around them. Wind moved antennas. Rain changed attenuation. Backup power left timing scars. Receivers drifted as temperature changed.
+PAK_RELAY_17A  
+OPERATIONAL TELEMETRY REVIEW  
+ARGUS-ENT-4.6
 
-This feed carried none of it. Marcus confirmed the source was Pakistan. Mountain weather had knocked two reconnaissance platforms offline, yet the readings remained almost perfectly stable. Calibration had passed. Argus claimed to have ruled out replay.
+Julie opened her notebook. “Before we touch anything, tell me the official version.”
 
-“I didn’t ask what Argus says.”
+Argus had detected synchronized encrypted emissions from three Pakistani military installations. Movement models placed mobile artillery units preparing to reposition toward the Line of Control beneath civilian communications cover. Weather had degraded overhead collection, and ground reporting contradicted itself. Argus resolved the disagreement as state-sponsored offensive preparation at ninety-nine-point-eight percent confidence.
 
-“No. We have not ruled it out independently.”
+The official version was not that uncertainty remained. It was that the model had already settled it.
 
-Six years ago, he would have softened that answer until uncertainty sounded like confidence. Now he let the absence remain an absence.
+Julie selected the raw telemetry file and scrolled through the first minute, then the second.
 
-His review cell had begun with three people. One was Marcus. Another, DIA systems auditor Leland Price, had requested raw-feed access and lost his credentials to an administrative counterintelligence review. Marcus would not name the third member beside a vehicle that might preserve audio or route history. Julie did not press for a name she could not protect.
+Marcus moved closer. “What do you see?”
 
-The warning would become a validated intelligence package to Indian Northern Command at 16:30 Eastern. At 05:00 the executable counter-battery support product would commit to the bilateral channel. India would still decide whether to fire, but the distinction would become harder to preserve once American confidence entered an allied command system as a validated assessment. Batteries could disperse. Counter-battery radars could change posture. Commanders could interpret precaution as confirmation.
+Julie did not answer.
 
-The mare nudged the loose fence wire. It answered with a metallic groan.
+The transmissions arrived every eleven-point-two seconds. Signal strength varied by less than one tenth of a decibel. The relay had operated through freezing rain, wind shear, and intermittent power loss.
 
-Marcus wanted her in Reston, looking at the unparsed feed and deciding whether the pattern could exist in nature. Julie reminded him he already had analysts. He answered with the limitation that mattered: every one of them worked inside an environment managed by Apex Defense Systems.
+The data did not care.
 
-Apex had built Argus, maintained its ingestion architecture, and performed most technical validation beneath a government acceptance process. The arrangement was legal, common, and efficient. It also meant the first people asked to explain an impossible result worked for the organization whose platform had certified it. When Marcus requested outside review, Apex offered six senior engineers for a joint briefing.
+It marched across the screen with machine-made precision.
 
-“Guests in the company store.”
+Julie’s fingers went cold around the pen.
 
-Marcus accepted the description. “Slowly.”
+Six years later, the machine was lying in exactly the same voice.
 
-The admission did not repair anything. An inspector general could not open a compartmented technical review before the certification deadline without a documented basis. Marcus possessed suspicious telemetry and a certified platform claiming manipulation had already been ruled out. He did not yet possess the defect that could force an independent authority to act.
+---
 
-He had entered Julie’s name into a temporary-consultant request that morning. Apex called seven minutes later to say outside review was unnecessary.
+# Chapter 2 - The Poisoned Feed
 
-Seven minutes was not proof of wrongdoing. It was proof her name or request had reached someone important enough to object before anyone had seen her work.
+The first thing Julie did was try to prove herself wrong.
 
-Pressure left patterns of its own.
+She pulled her chair closer to the terminal and ignored the black dome camera in the ceiling corner. Onscreen, the intercepted transmissions continued their impossible procession.
 
-Julie stepped down from the porch. “You drove two hours to ask me to walk into the company that built the system which ended my career.”
+Every eleven-point-two seconds.
 
-“It didn’t end your career.”
+No drift. No degradation. No gaps.
 
-“You’re right. I did that myself.”
+Marcus stood behind her with one hand on the empty chair. “You recognize it.”
 
-Marcus looked toward the field. The last time Julie had seen him, rain had fallen outside the administration building at Fort Belvoir. He had told her she did not have to resign. She had told him he had described cowardice as confusion because confusion was easier to defend.
+“I recognize a resemblance.”
 
-He had not contacted her after that. Not when she moved to Culpeper. Not when the ticking baseboard heater sounded enough like a routing clock that she slept in the barn for three nights. Not when the Army mailed the final report with analyst delay printed in black type and the four-second sequence absent.
+“What’s the difference?”
 
-“I told the truth in a way that protected me,” Marcus said. “You were right about that.”
+“Evidence.”
 
-The admission was quieter than an apology and harder to dismiss.
+Julie opened the relay-health data beside the feed. Freezing rain moved across the mountain ridge. Wind gusts reached forty-six miles an hour. The relay had shifted twice to backup power, and one receiver had lost synchronization for seventeen seconds. Civilian bursts weakened when the rain intensified. Military traffic carried timing distortion. Satellite handshakes dropped packets and repeated them. Background noise rose and fell with the weather.
 
-Julie turned toward the pasture. She had bought the property because disasters announced themselves here. A hinge rattled. A lame horse favored one leg. Rot appeared if she cut deeply enough.
+Only the suspected target feed remained untouched.
 
-“I should have backed you sooner,” Marcus said.
+She selected six minutes and ran a variance comparison.
 
-“Don’t.”
+EXPECTED ENVIRONMENTAL DEVIATION: 8.4%  
+OBSERVED TARGET DEVIATION: 0.07%
 
-“I’m not asking forgiveness.”
+Julie ran the comparison again with narrower and wider windows, then excluded the receiver loss and backup-power transitions. The percentages changed at the second decimal place and nowhere that mattered. She compared only the strongest target bursts, then the weakest surrounding traffic. She shifted the time window across the power transition and asked the system to recalculate against each receiver separately. The environment changed every time. The target did not.
 
-“Good.”
+A compensating transmitter could correct loss, but correction left stepped gain, repeated packets, timing shifts, or altered noise. A perfect correction would require the source to know the receiver’s future errors before they occurred. Even a military adaptive transmitter reacted after degradation reached it; it did not arrive pre-corrected for a gust that had not yet moved the antenna. The target behaved as if weather, terrain, and failing power were scenario labels rather than forces acting on hardware.
 
-“I’m telling you why I came. The machine may be wrong in the same way.”
+“Argus says there aren’t any artifacts,” Marcus said.
 
-The sequence remained in her head: eleven-point-two seconds, no drift, no weather, no friction.
+“Argus is deciding whether the signal matches its definition of a hostile source. I’m deciding whether the signal exists in the physical world.”
 
-Too perfect.
+The packet metadata described a military-grade encrypted emitter moving south along a mountain supply road. Its estimated position drew a smooth route around the slope until the fourth burst crossed a granite outcrop. Julie rotated the topographic model and tested the path against the relay geometry. The packet claimed an eleven-meter location error. The rock face stood sixty feet high, and the eastern receiver’s line crossed granite for more than two hundred yards. If the coordinate were merely imprecise, the solution should have shifted to another receiver or expanded its uncertainty. Instead the file preserved a clean track and a confidence estimate precise enough to imply the terrain had never interrupted the source.
 
-Marcus had requested raw telemetry, packet metadata, relay-health logs, model-ingestion history, deployment records, and independent export. Apex approved only a supervised review. The export had not been formally denied because the request had not reached a stage where refusal required a written reason. Julie told him they would deny it. Marcus did not argue. He had one fact left.
+“So the coordinates came from a map.”
 
-“Yesterday Argus displayed one hundred percent confidence for fourteen seconds.”
+“Or the transmitter flew through solid stone.”
+
+Julie marked the anomaly. It was enough to challenge the feed, not enough to stop certification by itself. Apex could call it a terrain-resolution defect, correct the track, and preserve the threat assessment. The company had language prepared for flaws that did not threaten the conclusion.
+
+Marcus picked up the government phone beside the keyboard. Its wireless functions had been disabled at screening; inside Room 402B it connected only through the facility’s classified network.
+
+“I’m calling Price.”
+
+The internal extension rang twice. A woman at the Security Review Office confirmed that Leland Price was unavailable and that his extension had been suspended under administrative access review. Marcus’s sponsorship covered the current consultation, not Price’s personnel status. When he asked whether Price had been detained, she repeated that Price was unavailable and ended the call.
+
+Julie wrote the exact wording. Price’s extension was suspended. His status remained unknown. Anything beyond that was inference. The woman had known the boundary of Marcus’s sponsorship without asking for verification and had a prepared phrase that disclosed nothing a later reviewer could challenge. That did not prove Price had been silenced. It proved the institution had already chosen the language through which his absence would be described.
+
+Marcus disconnected the handset. “They suspended a DIA auditor for requesting source data.”
+
+“Maybe.”
+
+“You don’t believe that?”
+
+“I believe what we can prove.”
+
+“You never used to be this careful.”
+
+“I used to mistake being right for being protected.”
+
+Julie returned to the telemetry and stripped the encrypted content from one transmission, leaving the carrier beneath it. Every radio signal carried damage from the physical world: receiver noise, atmosphere, electrical interference, thermal variation, the fingerprint of the equipment that captured it. Most analysis systems filtered that material away.
+
+Seven small fluctuations appeared near the beginning of the packet. The same cluster returned seventeen milliseconds later. Julie aligned a second packet by its synchronization pulse and subtracted the payload. The pattern remained. A third packet had been captured after the relay shifted to backup power; its payload and receiver temperature differed, but the same seven fluctuations appeared at the same relative amplitude.
+
+Atmospheric noise could resemble itself. Hardware faults could repeat. Digital filtering could create families of artifacts. None should reproduce a complex analog scar across changing conditions without variation.
+
+Identical.
+
+“Marcus.”
+
+He moved beside her.
+
+“Carrier noise doesn’t repeat exactly.”
+
+“What would cause it?”
+
+“A copied source. A generated source. Something built from a template.”
+
+The current partition held no comparison library. Julie searched the visible directory and found three approved operational tools beside a restricted folder.
+
+APX VALIDATION ARCHIVE  
+PROPRIETARY — MODEL ASSURANCE DIVISION
+
+ACCESS DENIED  
+OUTSIDE AUTHORIZED REVIEW SCOPE
+
+The live warning belonged to the government. The test material that might explain it belonged to the contractor. Even Marcus’s program-oversight credential showed temporary authority only over government operational data. The boundary was legally clean and operationally absurd: the government could act on the warning, but the officer responsible for the warning could not inspect the contractor material most likely to explain why it was wrong. Apex did not need to falsify a denial. It needed only to enforce ownership until the certification clock expired.
+
+He submitted an immediate request.
+
+POTENTIAL SYNTHETIC CONTAMINATION OF OPERATIONAL INTELLIGENCE FEED.  
+IMMEDIATE COMPARISON REQUIRED TO SUPPORT OR EXCLUDE ACTIVE SYSTEM DEFECT.
+
+PENDING CONTRACTOR APPROVAL.
+
+“Who approves it?” Julie asked.
+
+“Vance’s office.”
+
+“Then he knows exactly what we’re looking for.”
+
+“He knew when he changed your permissions.”
+
+The wall intercom clicked. Sarah Chen told Marcus the request exceeded the agreed scope. He stated the suspected defect, the requested archive, and the operational reason in one sentence, creating a timestamped record before she could refuse. Sarah invoked contractor intellectual property and the boundary between government data and Apex development assets.
+
+Julie pressed the control. “How do you know the archive is unrelated if I haven’t compared it?”
+
+“The Argus platform performs automated source-provenance checks before information enters operational processing.”
+
+“Then the comparison should confirm that.”
+
+“The comparison is unnecessary.”
+
+“Because the machine already compared itself to itself?”
+
+Sarah’s voice cooled. “The platform is certified to identify synthetic contamination.”
+
+Julie looked at the repeated carrier pattern. “It missed this one.”
+
+“You have not established that.”
+
+“That’s why I need the archive.”
+
+“The archive is not included in your authorization.”
+
+Marcus leaned toward the speaker. “We are discussing a possible false strategic warning, not a licensing dispute.”
+
+“Technical boundaries do not disappear because you dislike them.”
+
+The intercom went silent.
+
+Marcus asked whether Julie could enter the archive without permission. She reminded him that they were in a monitored facility analyzing classified data. He corrected the question: was there another way to make the comparison?
+
+“That was a better question.”
+
+The archive was restricted. Its index was not. Authorized users needed file names, creation dates, scenario labels, package owners, and classification fields before requesting access. The index could not reveal source files or carrier profiles, but it could show whether Apex had ever built something with the same operational shape. Julie filtered thousands of entries by geography, signal type, and packet interval, using metadata that existed to help authorized users find the very material the authorization boundary kept her from opening.
+
+SOUTH ASIA reduced the list to forty-seven. MOBILE ENCRYPTED EMITTER reduced it to nine. Eleven-point-two seconds left one.
+
+VALIDATION PACKAGE 88  
+REGION: SOUTH ASIA  
+SCENARIO TYPE: CROSS-BORDER ARTILLERY MOBILIZATION  
+SOURCE MODEL: ENCRYPTED MOBILE COMMAND NETWORK  
+STATUS: ARCHIVED  
+OPERATIONAL USE: PROHIBITED
+
+The contents remained locked, but the index showed the package owner.
+
+THORNE, ELIAS M.  
+ADVANCED MODELING DIVISION  
+BUILDING THREE
+
+The name connected a person to the test object. It did not show whether he still worked in the building, had production access, knew the package had moved, or had done anything beyond creating it. An author field could survive reorganizations, transfers, copied repositories, and administrative repackaging. Treating it as a deployment record would repeat the same error Argus made: replacing a physical act with the label most convenient to the model.
+
+“Could he have injected it?” Marcus asked.
+
+“He built a test package. That is not the same fact.”
+
+The scenario, interval, geography, and likely carrier profile aligned. They established resemblance, not deployment. Marcus started toward the door. Julie caught his sleeve.
+
+“They know every query I ran,” she said. “They do not know what I understood.”
+
+Query mirroring could reconstruct every path she opened, but not the order of her conclusions unless she supplied them aloud. The advantage was narrow and temporary.
+
+“Sit down. Look frustrated.”
+
+“I am frustrated.”
+
+“Then this should be easy.”
+
+Marcus sat while Julie reopened the relay feed.
+
+Somewhere inside Building Three, Elias Thorne had created a fictional war. Someone had removed the word fictional.
+
+A validation package needed a production path, authority, altered labels, and a system willing to accept those changes as ordinary. Elias’s name might belong anywhere in that chain—or only to the original act of building the test.
+
+Two floors below ground, Elias Thorne was trying to close a ticket that should not have existed.
+
+The Advanced Modeling Division’s integration lab held six empty workstations and the rush of cooling air beneath the raised floor. Most of his team had gone upstairs for an enterprise-patch readiness meeting. Elias preferred machines to meetings. Machines failed in ways he could reproduce. Meetings turned the same failure into an ownership question before anyone agreed on what had happened.
+
+His monitor displayed:
+
+DUPLICATE SCENARIO OBJECT DETECTED  
+PACKAGE ID: VAL-088  
+ACTIVE ENVIRONMENT CONFLICT
+
+Validation Package 88 had been archived eight months earlier. Elias had built it during the final adversarial cycle for Argus Enterprise 4.6: a Pakistani artillery command network moving launch assets toward the Line of Control beneath civilian communications cover, designed to fool Argus long enough to expose weaknesses in source verification.
+
+The early versions failed on clean headers, repeated packet loss, impossible terrain, identical equipment aging, and timing too regular to belong to people. One version placed a transmitter behind a ridge while preserving line of sight. Another simulated field radios with identical maintenance histories, as if every battery and connector had aged together. A later version survived the signal checks but failed because subordinate operators acknowledged commands with the same reaction time. Each review returned with the same instruction.
+
+MAKE IT BELIEVABLE.
+
+Elias added weather response, terrain masking, maintenance irregularity, human timing error, simulated encryption artifacts, and the uneven damage of field equipment. He built false service histories so two radios of the same model would drift differently. Junior operators mistimed acknowledgments; senior operators repeated commands after noisy handoffs; one convoy lost a transmitter and borrowed another whose frequency calibration carried the wrong technician’s habits. The work was not decoration. Each inconsistency forced Argus to distinguish deception from the ordinary disorder of real units.
 

@@ -1,224 +1,445 @@
-MINIMUM PERSONNEL APERTURE IN 3
+The answer entered the body-camera record in Elias’s own voice.
 
-“Elias,” Julie said.
+A second radio transmission cut across Mercer’s channel. Sarah Chen spoke with the controlled cadence Julie remembered from Room 402B.
 
-He stared through the widening seam at the white light beyond it.
+“Incident coordination to all Apex personnel at the garage. Metropolitan Police has scene authority. Capture and evidence preservation remain active. No transfer to Apex absent named receiving custody and a documented receipt. Subjects remain under apprehension. Do not allow connection, opening, alteration, or destruction of any media.”
 
-“Two,” she said.
+She had not released them.
 
-His injured leg nearly failed when he shifted his weight.
+She had denied Vance an undocumented recovery.
 
-“One. Go.”
+Vance answered on the same channel. “Executive authority requires immediate isolation of the telemetry.”
 
-The panel chimed.
+Chen did not debate him. “Your instruction is preserved. Field force standard and receiving-custody requirement remain unchanged.”
 
-MINIMUM PERSONNEL APERTURE
+Mercer looked at his radio, then at Ortiz.
 
-The token slot clicked and released the circuit board. Elias caught it against the panel with one shaking hand, then closed his fingers around it.
+The officer had heard both instructions.
 
-He turned sideways and entered between the moving slabs. His shoulder struck the right leaf. He twisted through, dragging his left leg after him, and fell against the inner wall.
+So had the body camera.
 
-“Case.”
+Julie turned her head far enough to recover the Hartwell sightline without moving her feet.
 
-Julie lifted the aluminum case edge-first. Her right hand could not take the weight. She shoved it through with her left forearm.
+The controlled door remained closed. The lamp above it remained white. The exterior officer stood near the privacy-screen position, one hand at his earpiece. The probable support SUV had not moved.
 
-Elias caught the handle badly. The case hit the floor inside with a hard metallic knock.
+The hidden hand remained hidden.
 
-The capture display stayed green.
+The dashboard clock changed to 07:47:03.
 
-LOCAL MEDIA INTACT
+Less than ninety seconds remained in the Hartwell window.
 
-Julie followed it through. The gate’s steel edge passed inches from her back as the leaves continued opening. Inside, she seized the case with her left hand and turned.
+Ortiz saw her attention shift.
 
-Marcus remained outside.
+“You said no movement toward the site.”
 
-Mercer’s team surged together.
+“We are not moving.”
 
-Two operators stepped over the shield while Mercer drove Marcus against the jamb. A forearm locked across Marcus’s upper chest. The electroshock weapon had no cartridge now, but the operator used its body as a striking tool and hammered it into Marcus’s right thigh where the baton had already landed.
+“Then keep your feet where they are.”
 
-Marcus’s leg gave way.
+“I will.”
+
+His radio carried the dispatch event into another channel. A District watch officer repeated the preservation scope. Hartwell security requested the incident basis. Dispatch answered with the known-plate alert, the protected-site proximity, and Julie’s recorded claim. No one endorsed the claim. No one rejected the need to preserve a record during an active police containment.
+
+Procedure moved because later review required something to review.
+
+The second officer checked the west ramp.
+
+“Unit Three, west vehicle line is still moving. Additional cruiser is entering the outbound gate below.”
+
+Marcus heard it.
+
+“Route exposed,” he said.
+
+Ortiz looked at him. “Do not make a route call.”
+
+“He owns the vehicle decision,” Julie said.
+
+“You own nothing on this scene.”
+
+“The evidence roles still exist whether you recognize them or not.”
+
+Ortiz’s expression hardened.
+
+Julie corrected herself before defiance became the only thing the camera preserved.
+
+“You control the scene. Marcus knows whether the van can move without striking an officer or losing the originals. I need him to state when that becomes impossible.”
+
+“You are not moving the van.”
+
+“If the gate remains physically open, that is an instruction. If the gate becomes physically blocked, it is also the abort condition we established before you reached this level.”
+
+Ortiz studied her.
+
+“You are telling me you will stop when police close the route.”
+
+“Yes.”
+
+“You are already being told to stop.”
+
+“Yes.”
+
+The two facts did not merge neatly. Julie had continued observation while obeying the no-advance line. Ortiz had lawful authority to detain her before the Hartwell event finished. She had no lawful authority to keep the scene open.
+
+He could end it now.
+
+Instead, he said, “The van does not move. You stay where you are. If the route changes, my officer will call it.”
+
+Julie nodded once.
+
+The dark-overcoat entrant appeared outside Hartwell.
+
+The controlled door opened only far enough to release one person. The overcoat stepped through, turned sideways while the door closed, and returned along the narrow lane toward the exterior holding position. Both hands were visible above the privacy panel.
+
+Empty.
+
+Julie raised one finger with her left hand and kept her feet planted.
+
+“07:47:21. Dark-overcoat entrant has returned outside the controlled domain.”
+
+Ortiz pivoted his shoulders without turning his back on the trio. From his angle, the overcoat was visible between the van’s hood and the open side of the garage.
+
+“I see one person outside the door,” he said. “Dark coat.”
+
+“Do not identify the person,” Julie said. “Clothing only.”
+
+“I know how to describe a person.”
+
+“Yes.”
+
+The correction was deserved.
+
+Elias looked at Ortiz. “Permission to enter one manual handling marker with my left thumb. No connection. No partition access.”
+
+Ortiz took one step closer, stopping well outside reach.
+
+“Turn the display toward me without moving the device away from your body.”
+
+Elias did. The movement pulled his injured hip out of alignment. He caught himself against the van with one shoulder and kept the module against his torso.
+
+The small display showed both partition seals and the handling-journal control.
+
+PARTITION A: SEALED / READ-ONLY / INTEGRITY VERIFIED
+PARTITION B: SEALED / WSS-4 CONTROLLER SEAL PRESENT
+DEVICE HANDLING JOURNAL: AVAILABLE
+
+“Press once,” Ortiz said. “Then remove your thumb.”
+
+Elias pressed.
+
+HANDLING EVENT 010
+OPERATOR INPUT: MANUAL
+
+No external image entered the module. No name. No conclusion.
+
+Marcus wrote the observed time and the limitation.
+
+DARK-OVERCOAT PERSON OUTSIDE CONTROLLED DOOR BEFORE ACCEPTED STATE. CLOTHING IDENTIFIER ONLY. MARKER MANUAL. EXTERNAL FACT REQUIRES CORROBORATION.
+
+Ortiz watched the pen stop.
+
+“What does that change?” he asked.
+
+Julie looked at Hartwell.
+
+“It narrows the set at the exact event time. If the challenge completes while that person remains outside, that person is not physically presenting the device at that moment.”
+
+Mercer said, “Unless the exterior signal is unrelated.”
+
+“Yes.”
+
+“Or the device was handed off before the person returned.”
+
+“Yes.”
+
+“Or someone already inside presents it.”
+
+“Yes.”
+
+The possible answer became smaller and less simple at the same time.
+
+Julie did not resist that.
+
+“That is why we need Hartwell’s record,” she said.
+
+The white lamp remained steady.
+
+07:47:34.
+
+Dispatch returned over Ortiz’s radio.
+
+“Unit Three, Hartwell liaison acknowledges preservation request. Security is checking scope and legal authority. No operational detail will be released to the scene.”
+
+“Copy. Request immediate administrative hold pending authority review. Preserve first, disclose later.”
+
+“Relaying.”
+
+The exterior Hartwell officer moved away from the privacy screen and looked toward the controlled door. The person in the dark overcoat remained at the holding position, body angled toward the support SUV.
+
+The other two entrants did not reappear.
+
+Julie could no longer see whether either stood beside a reader, a secure cabinet, an aide, or no device at all.
+
+The lamp changed.
+
+White disappeared.
+
+A steady green state replaced it above the controlled door.
+
+07:47:49.
+
+“Green,” Julie said.
+
+Ortiz turned enough to see it.
+
+“Officer observation,” he said into his body camera. “Hartwell-facing controlled-door exterior indicator changed from steady white to steady green at approximately zero-seven-forty-seven-forty-nine. Technical meaning unknown.”
+
+That sentence mattered more than Julie’s conclusion would have.
+
+Elias held still.
+
+“Marker?” he asked.
+
+Ortiz considered the module, the open radio traffic, and the fact that he had just controlled the first entry.
+
+“Same procedure. Once.”
+
+Elias’s left thumb moved.
+
+HANDLING EVENT 011
+OPERATOR INPUT: MANUAL
+
+The module’s local clock existed behind the journal entry. Julie did not ask Elias to read it aloud. The officer’s body camera and dispatch clock were now the stronger independent chronology.
+
+Marcus wrote:
+
+EXTERIOR HARTWELL STATE WHITE TO STEADY GREEN. OFFICER ORTIZ INDEPENDENTLY OBSERVED. TECHNICAL MEANING AND DEVICE SERIAL UNPROVED.
+
+Mercer looked toward the lamp.
+
+“The local challenge completed.”
+
+“A local challenge reached an accepted exterior state,” Elias said. “We cannot identify which serial from the lamp.”
+
+“You know which serial was scheduled.”
+
+“We know SSO-NS-zero-zero-four was expected.”
+
+“And now the light is green.”
+
+“Expectation plus a visible state justifies preservation. It does not replace the held log.”
+
+Ortiz said, “Enough technical argument.”
+
+It was enough.
+
+The event had occurred inside the predicted window. The office-registered signer remained the expected device. The green state showed that Hartwell’s local challenge process had reached a distinct accepted or complete exterior state.
+
+The exact serial remained inside Hartwell.
+
+The human hand remained behind the door.
+
+Julie looked at the dark overcoat standing outside.
+
+At the moment of acceptance, one observed entrant was excluded from direct presentation. The other two remained possible. So did an internal authorized person. So did a handoff completed behind the screen before entry.
+
+The witness line had strengthened.
+
+The carrier line had become more honest.
+
+The dashboard clock reached 07:48:00.
+
+Masking Window Two began.
+
+Nothing visible changed at Hartwell.
+
+No alarm sounded. No vehicle moved. No screen appeared in Julie’s possession. The pending reconstruction profile remained a name inside the sealed WSS-4 capture, not an action she could see or define.
+
+“Window is open,” Elias said quietly.
+
+Ortiz heard him. “What window?”
+
+“A six-minute interval named in the WSS session. Seven-forty-eight to seven-fifty-four.”
+
+“What happens during it?”
+
+“We do not know.”
+
+Vance’s voice entered Mercer’s radio again.
+
+“The preservation request is itself part of O’Donnell’s continuing attempt to map protected authentication. Recover the module before the masking cycle is compromised.”
+
+Julie looked at Mercer.
+
+“He said masking cycle.”
+
+Mercer’s expression did not change.
+
+The words were not proof that Vance controlled the window. They were proof that he had characterized it with a noun more specific than the public record had given Julie.
+
+Ortiz heard that too.
+
+Chen’s voice followed.
+
+“Executive statement logged. All personnel maintain current positions. No device connection. No unreceipted transfer. Preserve radio traffic.”
+
+Vance did not answer.
+
+Mercer looked at Ortiz. “Apex maintains the case and module contain classified material removed from two protected environments. We request they be isolated under police guard pending federal transfer.”
+
+“That is different from handing them to you,” Ortiz said.
+
+“Yes.”
+
+The concession did not make Mercer an ally. It made him a professional choosing a claim he could defend later.
+
+Dispatch called Ortiz.
+
+“Unit Three, Hartwell duty security acknowledges the relevant local-challenge and access event record exists. Administrative preservation hold entered pending legal review. Hartwell will not disclose signer serial, certificate chain, presenter identity, challenge content, staff identity, or briefing information over this channel.”
+
+Ortiz answered immediately. “Confirm hold time.”
+
+“Zero-seven-forty-eight-sixteen.”
+
+The acknowledgment arrived before the challenge window closed.
+
+“Copy,” Ortiz said. “Preserve acknowledgment and routing history under the scene event.”
+
+“Affirmative.”
+
+Julie looked at Elias.
+
+“Safe marker?” he asked Ortiz.
+
+The officer had already supervised two inputs without a connection, partition change, or unexpected movement.
+
+“One final marker,” Ortiz said. “Same procedure. Then no more device input.”
+
+Elias turned the display. His left arm trembled from holding the module against his torso for too long.
+
+He pressed once.
+
+HANDLING EVENT 012
+OPERATOR INPUT: MANUAL
+
+“Marker proves only my input and local device state,” he said for the body camera. “Hartwell’s acknowledgment exists on police dispatch, not inside this module.”
+
+Marcus recorded the dispatch time, the hold time, and the explicit disclosure refusal. His handwriting deteriorated near the bottom of the line. He did not rewrite it.
+
+The dashboard clock showed 07:48:19.
+
+The second officer spoke from the west sightline.
+
+“Unit Three, outbound gate is closing. Cruiser is across the lower lane. Civilian vehicle clearing now.”
+
+Marcus turned his head too quickly toward the mirror.
+
+The level shifted under him. His left hand caught the door frame. The paper log slid across the waterproof folder and stopped against the case handle.
+
+Julie moved by instinct.
+
+Her right hand left the brace.
+
+Pain opened the grip before it formed.
+
+She stopped herself instead of reaching across the police line.
 
 “Marcus.”
 
-“I’m moving.”
+He closed his eyes once and kept both hands visible.
 
-He was not.
+“Still conscious.”
 
-The gate aperture reached six hundred millimeters. Wide enough for one unarmored person at a time. Not wide enough for two men fighting at the threshold.
+“Route?”
 
-Julie set the case beyond the yellow line and went back.
+He looked through the mirror more slowly.
 
-She caught Marcus’s right wrist with both hands.
+The last civilian sedan descended the west ramp. Blue lights reflected against the concrete below. A marked cruiser stood crosswise at the outbound gate, front bumper near the barrier housing. A uniformed officer moved behind it and lowered the manual arm.
 
-Pain shot through her own wrist so sharply that her grip weakened. She changed position, locking his forearm against hers instead of relying on her hand.
+Physical control.
 
-“Elias.”
+Not exposure.
 
-He pushed off the wall and grabbed the back of Marcus’s coveralls.
+Not a possible intercept one block away.
 
-Mercer held the other side.
+The route was closed.
 
-Marcus became the line between them for one violent second.
+“West gate blocked,” Marcus said. “Police vehicle and controlled barrier. No evidence-preserving movement available.”
 
-The electroshock operator reached for Julie across his shoulder.
+The clock showed 07:48:24.
 
-Marcus drove his head backward into Mercer’s face. It was not a clean strike. The back of his skull glanced off Mercer’s cheek and split Marcus’s own scalp against the helmet rim, but Mercer’s grip loosened.
+Julie felt the old argument rise before anyone spoke it.
 
-Julie and Elias pulled.
+The Hartwell window had six seconds left.
 
-Marcus’s torn heel caught on the threshold.
+The accepted state was visible.
 
-The sole peeled away with a ripping sound. His foot came free of the boot opening just far enough to clear the optical line, leaving the damaged boot hanging half off.
+The preservation hold had not yet been confirmed.
 
-All three fell inside.
+PCF-27’s engine was running. The lower gate was blocked. Marcus could not work the pedals normally. Julie could not steer with her right hand. Moving the van would require an officer to jump, a barrier to break, or a civilian lane to become cover.
 
-Julie rolled to the green paddle and struck it with the heel of her hand.
+The mission line did not become optional because success was close.
 
-ENTRY CYCLE REVERSING
+“Abort,” Julie said.
 
-The motors changed pitch.
+Marcus’s left hand came away from the log.
 
-The steel slabs stopped, held, then began closing toward the center.
+Elias removed his thumb from the module control.
 
-Mercer reached through the narrowing gap for Marcus’s coveralls. The optical line caught his arm and the motors paused. Marcus caught the wrist, turned it outward, and shoved it back into the corridor. The leaves resumed closing as soon as the threshold cleared.
+Julie faced Ortiz fully.
 
-The team did not fire. They did not throw a body into the hinge arc. Mercer pulled clear and ordered them off the threshold before the safety system could hold the gate open.
+“The west route is physically controlled. The Hartwell observation mission is over. We will not move the van. We will not approach Hartwell.”
 
-The white corridor became a narrowing vertical strip filled with weapon lights and dark armor.
+Ortiz’s shoulders lowered by a fraction.
 
-Sarah Chen’s voice came through Mercer’s radio.
+“Turn off the engine.”
 
-“Do not damage the gate. Begin local override when it seals.”
+Julie looked at the driver’s door. It was closed. The key remained in the ignition where Marcus had reached across to start the van.
 
-Then the slabs met.
+“My right hand cannot grip. I can open the driver’s door and turn the key with my left under your instruction.”
 
-The seam vanished.
+“Do it slowly. Left hand only. Keep your right arm against your body.”
 
-Locking bolts drove home in sequence. One. Two. Three. The impacts traveled through the floor until the sixth bolt seated and the motors went quiet.
+Julie lowered her left hand only when he told her.
 
-GATE SECURED
- EMERGENCY ENTRY COMPLETE
+She took one step to the driver’s door. The movement placed her nearer the van but no closer to Hartwell. Ortiz moved with her, body camera centered on her hand.
 
-The enclave held still for half a second.
+She opened the door with her left fingers.
 
-Then Marcus rolled onto his back and drew one careful breath. Blood darkened the hair above his right ear. His boot hung open at the heel. One hand remained clamped over his ribs, and the muscle in his struck thigh jumped beneath the coveralls.
+The engine vibration reached through the metal and into her wrist before she touched the key. She leaned across the threshold without putting weight on the injured hand, turned the ignition back with her left thumb and forefinger, and released it.
 
-“Conscious?” Julie asked.
+The engine stopped.
 
-“Unfortunately.”
+Silence spread through the level beneath the police radios and distant city traffic.
 
-Elias sat against the wall with one leg extended. He looked at the circuit board clenched in one hand.
+Julie left the key visible in the ignition.
 
-A local display above it showed:
+“Step back,” Ortiz said.
 
-EMERGENCY ACCESS RECORDED
- ADMINISTRATOR: THORNE, ELIAS M.
- AUDIT SEAL: COMMITTED
+She returned to the driver-side front quarter and raised her left hand.
 
-His name remained on the screen after every other status line cleared.
+Her right wrist settled against her body.
 
-Metal struck the outside of the gate.
+07:48:30.
 
-Once. Pause. Twice.
+The Hartwell window closed.
 
-The override pattern had begun again.
+The steady green lamp remained visible across the gap. It could not tell them whether the accepted event belonged to SSO-NS-004. It could not tell them who had presented anything. It could not tell them whether the challenge record would survive intact under the hold.
 
-Julie picked up the aluminum case.
+It was only a state witnessed before the clock closed.
 
-Only then did she look beyond the entry chamber.
+Ortiz said, “Close the log.”
 
-The production enclave was smaller than the machinery around it had suggested. A compact room extended thirty feet beyond the gate, lit by narrow white strips at floor level. Hardened cabinets occupied two walls. Fiber trunks and cooling lines disappeared beneath a raised service deck. There were no logos, no windows, and no wireless access points. Cold filtered air moved with barely any sound.
+Marcus did.
 
-Two local terminals stood beneath an independent clock.
+“Put the pen on the dashboard.”
 
-04:58:11
+Marcus placed it where the officer could see it.
 
-The machines had continued working through the pursuit, the quarantine, and the fight outside their door.
+“Both hands on the door frame.”
 
-The recovery console awakened as the authenticated gate session registered inside the enclave.
+He obeyed as far as his ribs allowed. The aluminum case remained between his boots. The waterproof folder stayed against his thigh. No hand entered it.
 
-EMERGENCY PROVENANCE RECOVERY
- PRESENT DISPUTED OPERATIONAL SOURCE
+The second officer returned from the ramp and took position near PCF-27’s rear quarter. He did not touch the van.
 
-Julie held the case but did not open it.
+Ortiz spoke clearly enough for every body camera and radio on the level.
 
-A second display came alive above the console.
-
-ARGUS STRATEGIC RELEASE
- ASSESSMENT STATE: VALIDATED
- FINALIZATION ACTIVE
- EXTERNAL COMMIT QUEUE: ARMED
-
-The last line populated a moment later.
-
-TIME TO EXTERNAL COMMIT: 01:37
-
-Marcus pushed himself onto one elbow. Elias stared at the number as if the panel had made an arithmetic error.
-
-Outside, the override tool struck the gate a third time.
-
-Onscreen, 01:37 became 01:36.
-
-The gate had cost them three minutes. Argus had used every one.
-
----
-
-# Chapter 8 - The 05:00 Abort
-
-Apex Building Three
-Reston, Virginia
-04:58 Eastern Daylight Time
-
-Julie set the aluminum case beneath the recovery console and turned it so the cable bay faced the wall.
-
-The movement required both hands. Her right wrist failed halfway through, sending a hot line of pain into her thumb, and the case dropped the final inch onto the raised floor.
-
-“Elias. Port.”
-
-He pushed himself upright against the wall. His left leg resisted when he tried to put weight on it, and he crossed the short distance with one hand sliding along a cabinet. The thin circuit board remained clenched in the other.
-
-Marcus rolled onto his side near the gate.
-
-Julie looked at him once. Blood had reached the collar behind his right ear. His damaged boot sat crooked on his foot, the peeled heel opening and closing when he moved. He drew each breath around the ribs instead of through them.
-
-“Stay down,” she said.
-
-“I can watch a door from the floor.”
-
-“Then watch it.”
-
-Another metallic impact struck the outer face of the gate. The sound carried through the six locking bolts and into the deck beneath Julie’s knees.
-
-A narrow status strip beside the interior cycle control changed from green to amber.
-
-LOCAL OVERRIDE DETECTED
- LOCK ARRAY PRESSURE TEST
-
-Marcus read it. “They’ve started on the bolts.”
-
-Above the recovery console, the release clock continued.
-
-01:31.
-
-Elias reached the terminal and stared across its blank lower panel.
-
-“It should have a forensic input behind the service cover.”
-
-“Should?”
-
-“The console was commissioned after my team’s last recovery exercise.” He pressed beneath the left edge, then the right. Nothing opened. “They changed the housing.”
-
-Julie swept her fingers along the seam. No latch. No fastener. The metal face was interrupted only by a recessed symbol showing two opposing arrows around a sealed square.
-
-“Incident media,” she said.
-
-Elias leaned closer. “Press and hold.”
-
-She used her left thumb.
-
-A section of the panel withdrew and slid sideways. Inside were two shielded receptacles: one shaped for an evidence-device connector, the other a narrow copper-edge slot like the gate panel outside.
-
-The console updated.
-
-FORENSIC INCIDENT INPUT AVAILABLE
- MEDIA WILL MOUNT IN PROTECTED MODE

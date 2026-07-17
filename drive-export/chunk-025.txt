@@ -1,198 +1,599 @@
-Julie crouched and aimed the light across the floor. The marked production corridor had a smooth slab intended for foot traffic and equipment carts. The cooling passage carried paired floor drains, condensate channels, and fresh scuff marks from wheeled maintenance platforms. Air moved through it steadily, drawn toward machinery under load.
+“Available is normal. An unconfirmed buffer self-test is the condition we were sent for.”
 
-A classified enclave could disappear from a public map. Its heat could not.
+The panel did not say anyone had sent them.
 
-Julie stood.
+Bell used her badge to open the detail page.
 
-“He’s right.”
+INCIDENT BUFFER SELF-TEST  
+STATUS: NOT YET CONFIRMED
 
-Marcus looked at the return-line tag, then at Elias. “Or someone labeled a pipe.”
+“It always says that until the test runs.”
 
-“The vibration changes at the junction,” Julie said. “The active load is left. The enclave has to reject heat somewhere, and that loop was added after the original corridor.”
+“Then whoever called may have mistaken the pre-session state for a fault.”
 
-Elias nodded once.
+“I am technical watch.”
 
-Marcus studied the dark passage. “If he’s walking us into containment—”
+“One of them.”
 
-“He isn’t.”
+The guard lifted the work order. “I can call Potomac dispatch.”
 
-“You trust him now?”
+“Do it,” Bell said.
 
-“No.” Julie shifted the telemetry case into her left hand. “I trust the building.”
+He dialed the printed number. Hold music answered.
 
-That was enough for Marcus. He took rear security without another argument.
+Bell looked at the controller, the paper, then Julie. The workflow had placed responsibility exactly where the false order needed it. Refusing the visit might delay the scheduled session. Accepting it meant sponsoring people no live system recognized.
 
-Elias entered the cooling passage first.
+“You remain in the tenant corridor,” Bell said. “You touch only WSS-four’s local controller. I sponsor a provisional diagnostic, and the exception stays in the audit.”
 
-Apex Security Command Center
- 04:53 Eastern Daylight Time
+“Understood.”
 
-Sarah Chen watched the lower-tier diagram lose detail one system at a time.
+“If the ticket fails verification, the session ends.”
 
-Camera feeds had frozen when the production quarantine severed the network bridges. Badge readers no longer reported identities. The map still showed life-safety states, air pressure, fire partitions, and the crude red outline of an environmental fault moving through Building Three’s lowest level.
+She handed them red temporary badges and opened the inner door.
 
-The fault at Shutter L3-7 had been real.
+The freight elevator rose through an ordinary office building. Elias kept one hand against the wall until the movement stopped.
 
-Its closure time exceeded nominal by 1.8 seconds, consistent with an obstruction beneath the lower seal. The local beam counter registered three crossings before the shutter locked.
+Bell noticed. “You all right?”
 
-Julie O’Donnell. Marcus Reed. Elias Thorne.
+“Long night.”
 
-Sarah enlarged the production-tier schematic. The marked approach to the Argus enclave had already entered secure mode. No further door events appeared along it.
+“So I heard.”
 
-Julie had either stopped moving or chosen a route the central system could no longer observe.
+She meant the border crisis.
 
-Sarah did not believe she had stopped.
+The elevator opened onto carpet, framed policy reports, desks, and a coffee machine. One employee wore a headset while watching a map of the India-Pakistan border. Another glanced at the maintenance crew and returned to work.
 
-“Containment One, enter through the south service stair,” she said. “Containment Two holds the production vestibule. Closed-circuit radios only. Do not connect equipment to the quarantined network.”
+No one looked like a conspirator.
 
-The team leader acknowledged with two clicks.
+Bell led them through a controlled internal door to an unmarked gray entrance. She authenticated with her badge and code.
 
-“Objective is to secure the enclave, recover the raw telemetry, and take all three subjects into custody. Preserve the production environment. Weapons remain controlled unless there is an immediate threat to life.”
+NORTHBRIDGE STRATEGIC INITIATIVES  
+WSS-4 SECURE DOMAIN  
+SPONSOR AUTHENTICATION REQUIRED
 
-Professional language. Defensible language. The kind that survived an inquiry because it described a security operation rather than a hunt.
+“Work order,” she said.
 
-Arthur Vance stood behind her, reflected in the dead camera wall.
+Julie gave it back.
 
-“They are not trying to escape,” he said.
+Bell entered the authorization number.
 
-Sarah kept her attention on the schematic. “They cannot escape from the lower tier.”
+SERVICE FORMAT VALID  
+LIVE TICKET: NOT FOUND  
+PROVISIONAL LOCAL DIAGNOSTIC PERMITTED  
+SPONSOR ACCEPTS RESPONSIBILITY
 
-“They are going to Argus.”
+“That is where this should stop,” Bell said.
+
+The clock in the corner read 07:02:17.
+
+Elias looked at the two available controls.
+
+DECLINE SERVICE  
+AUTHORIZE ESCORTED DIAGNOSTIC
+
+Beneath the first:
+
+PRE-SESSION EXCEPTION MAY REQUIRE OPERATOR REVIEW
+
+“If you decline,” he said, “the controller may hold the signer session until the operator acknowledges the refused maintenance event.”
+
+Bell pressed AUTHORIZE.
+
+The gray door unlocked.
+
+“Five minutes,” she said. “Then you leave whether your dispatcher answers or not.”
+
+Northbridge Secure Suite 4  
+Washington, D.C.  
+07:03 Eastern Daylight Time
+
+WSS-4 occupied less space than Julie expected: a narrow equipment room, a two-person communications workspace, and a short corridor ending at a green-lit fire door. A hardened cabinet held the controller. Beside it stood the protected audit interface Elias had described at the cutout.
+
+A single operator turned from his console.
+
+“Maintenance?”
+
+“Provisional,” Bell said. “Local audit test only. Do not open message content.”
+
+“We’re five minutes from session.”
+
+“I’m aware.”
+
+His concern was professional, not conspiratorial. The synchronization mattered to him. That did not mean he knew what K-17 was.
+
+Bell pointed to the audit interface. “You stay on this side of the yellow line.”
+
+Elias placed the canvas pouch on the service shelf. His hands shook when he opened it.
+
+Julie unfolded the work order beneath the module and recorded the wall-clock time.
+
+07:03:48 — INCIDENT MEDIA SEAL OPENED.
+
+Elias broke the tamper tape and removed the incident module. Bell checked the serial against the paper.
+
+“Matches.”
+
+He opened the protected port.
+
+LOCAL INCIDENT MEDIA DETECTED  
+PARTITION A: SEALED / READ-ONLY / INTEGRITY VERIFIED  
+PARTITION B: EMPTY / WRITE-ARMED
+
+Bell leaned closer. “What is on Partition A?”
+
+“Prior incident material,” Julie said. “The controller cannot write to it.”
+
+“That was not my question.”
+
+“It is outside this service scope.”
+
+“Potomac does not bring one customer’s evidence into another tenant site.”
+
+“Field module shortage.”
+
+The answer sounded thin because it was.
+
+Elias seated the module. His bandaged finger slipped on the collar, leaving the contacts misaligned.
+
+MEDIA CONTACT INCOMPLETE
+
+Bell checked her tablet. “Three minutes.”
+
+He braced his right wrist with his left hand, reseated the module, and locked the collar.
+
+MEDIA CONTACT STABLE
+
+The interface requested the service identifier and audit scope. Elias entered the work-order number.
+
+LIVE SERVICE RECORD NOT FOUND  
+LOCAL SPONSOR EXCEPTION ACTIVE
+
+He selected:
+
+INCIDENT REASON: PRE-SESSION BUFFER RETENTION  
+AUDIT SCOPE: CURRENT SESSION ENVELOPE  
+PRESERVE EXTERNAL TRUST CHAIN: YES
+
+Bell read the last field. “Why preserve the external chain for a buffer test?”
+
+“The reported fault is against the pre-session envelope.”
+
+“No one reported a fault.”
+
+The controller transmitted before Elias could answer.
+
+VENDOR INTEGRITY NOTICE  
+APX SECURE FACILITY 4.2  
+UNSCHEDULED EXTERNAL-CHAIN PRESERVATION REQUEST
+
+Elias stopped.
+
+“What?” Julie asked.
+
+“The controller notified Apex certification.”
+
+Bell picked up the wall phone. “What did you send?”
+
+“The controller sent it.”
+
+“To whom?”
+
+“Apex.”
+
+The Northbridge operator removed one side of his headset. “Does it affect session start?”
+
+“No,” Elias said.
+
+Bell called the service vestibule. She listened, eyes fixed on Julie.
+
+“No active ticket,” she said to the room.
+
+She covered the mouthpiece. “Disconnect the module.”
+
+The local buffer test showed forty percent.
+
+“If I disconnect now,” Elias said, “the controller records an interrupted incident test and leaves the interface open during signer presentation.”
+
+“It already records an unauthorized service call.”
+
+The operator’s console chimed.
+
+PRE-SESSION ROUTING STATE INITIALIZING
+
+“The synchronization is beginning early,” he said.
+
+“It is not the external session yet,” Elias said. “The suite is presenting local identity.”
+
+Bell lowered the phone.
+
+“You know too much about this system for someone who cannot seat a module.”
+
+“I helped design the controller profile.”
+
+The room went still.
+
+Bell looked at his temporary badge. “Who are you?”
+
+A red notification appeared on her tablet.
+
+Her gaze moved from the screen to Julie’s face.
+
+“You are Julie O’Donnell.”
+
+Julie kept both hands visible.
+
+Bell backed toward the secure door and pressed a recessed control. The gray door locked. The green fire exit stayed illuminated.
+
+“You need to step away from the controller.”
+
+“We need ninety seconds.”
+
+“You entered a secure communications facility under a false work order.”
 
 “Yes.”
 
-“Then your teams are protecting the wrong thing.”
+The admission frightened Bell more than another lie would have.
 
-“Containment Two is at the enclave.”
+The operator rose.
 
-“Move both teams.”
+Julie said, “Neither of us is armed. We are not here for your files, your staff, or anything outside the scheduled session.”
 
-“That creates a single approach and leaves the south stair unsecured.”
+“You are not staying for it.”
 
-“No data leaves Building Three,” Vance said. “No witnesses leave with it.”
+Bell reached for the telephone.
 
-Sarah’s hand stopped above the console.
+Elias watched the interface. “Pulling the module during an open incident session could destroy its directory.”
 
-The order was quiet enough that no one beyond her station appeared to hear it. Vance had omitted the words custody, infrastructure, and security. He had reduced the operation to information and the people who possessed it.
+“That is your problem.”
 
-“Director,” she said, “my teams have a containment authorization.”
+“The local audit is yours,” Julie said. “Preserve it.”
 
-“And I have given you the containment objective.”
+Bell stared at her.
 
-“Those are different things.”
+“WSS-four is about to receive a hardware-authenticated exchange tied to an active foreign operation. Your controller will record the same event we do.”
 
-His reflection met hers in the black monitor.
+“You expect me to believe that?”
 
-“Only if you fail.”
+“No. I expect you to preserve what your system sees.”
 
-Sarah looked back at the map.
+Bell stopped the operator with one hand. “Use the public corridor. Clear the other staff.”
 
-A local pressure sensor changed state in Cooling Gallery Two. The fluctuation lasted less than a second, then disappeared beneath the quarantine filter.
+He looked from her to Julie.
 
-There.
+“Go.”
 
-Julie had read the building.
+He authenticated out through the gray door and left.
 
-Sarah keyed the team channel. “Containment One, divert west at the lower landing. They are using the cooling galleries. Maintain capture priority. Secure the telemetry intact.”
+Bell remained inside. She had not joined Julie. She had reduced the number of people exposed to the breach.
 
-She did not repeat Vance’s words.
+The controller sounded again.
 
-She did not warn Julie.
+LOCAL SUITE CERTIFICATE PRESENTATION IN PROGRESS
 
-On the dark screen, the route converged on the production enclave.
+Elias watched the state sequence.
 
-Cooling Gallery Two
- 04:53 Eastern Daylight Time
+“Northbridge only.”
 
-The passage dropped beneath the main service level and opened onto a steel gantry suspended above the chiller plant.
+The clock showed 07:06:11.
 
-The chiller plant fell away two stories beneath them. Six cylindrical compressor housings occupied the floor in paired rows, each surrounded by pipes, valves, and vibration mounts. Red strobes revolved along the walls. Their light caught the mist hanging above the machinery and turned it the color of smoke.
+Apex Building Three  
+Reston, Virginia  
+07:06 Eastern Daylight Time
 
-A grated bridge crossed the gap to the far platform.
+The WSS-4 alert reached Sarah Chen through the Apex vendor-certification channel.
 
-It was moving.
+It carried no message content. It carried enough.
 
-The near end had already withdrawn three feet into the wall. A yellow drive chain pulled the bridge toward a recess on the opposite side, isolating the active machinery from the service corridor. The gap widened another inch while Julie watched.
+SITE: FENWICK ANNEX  
+DOMAIN: WSS-4  
+UNSCHEDULED LOCAL INCIDENT SESSION  
+FULL EXTERNAL TRUST-CHAIN PRESERVATION  
+FIELD EVIDENCE MEDIA / DUAL PARTITION  
+VENDOR WATCH: ACTIVE
 
-“Why does a bridge retract during quarantine?” Marcus asked.
+Arthur Vance had created the watch at 05:24.
 
-“To keep an intruder from reaching both halves of the cooling plant,” Elias said. “And to prevent maintenance staff from crossing while the pressure zones isolate.”
+The rule followed behavior, not a destination. Any certified facility asked to preserve a full external chain while using field media associated with the protected recovery record would generate a priority notice.
 
-“How long until it’s gone?”
+Vance had not known where Julie would go.
 
-“Less than a minute.”
+He had known what she would need.
 
-The bridge still reached their platform, but only by eighteen inches. The joint vibrated each time the drive chain advanced.
+Northbridge security added the identification match.
 
-Julie gave Marcus the telemetry case and stepped onto the grating.
+Sarah opened Mercer’s channel.
 
-“Wait,” Elias said. “The surface—”
+“Fenwick Annex. L Street Northwest. Rear service approach and tenant secure domain.”
 
-Her boot slipped half an inch on clear condensate.
+Mercer answered over road noise. “Eastbound. Three minutes from the river.”
 
-Julie lowered her center of gravity and moved along the handrail. Cold air rose through the grating. Beneath her, a compressor shaft turned inside a screened housing, its deep rotational hum transmitting through the steel.
+He had already been sent toward Washington.
 
-The bridge shifted.
+“Coordinate with Metropolitan Police and building security. Clear the tenant corridor. No firearms without an identified deadly threat and a clear background.”
 
-The last overlap at the near platform fell to twelve inches.
+Vance entered on a separate channel.
 
-Julie crossed the midpoint and reached the far side. “Case.”
+“Prevent removal of all incident media.”
 
-Marcus held it low and sent it sliding along the wet grating. Julie stopped it with her boot before it struck the drive housing.
+Mercer asked, “Confirm force standard.”
 
-Elias stared at the bridge.
+“Loss of the communications package constitutes imminent national-security harm.”
 
-“Go,” Marcus said.
+Sarah opened the joint channel.
 
-“I’m going.”
+“Material loss is not a deadly threat. My force standard stands.”
 
-He put one foot onto the grating, then stopped when the chain clanked.
+“They have already compromised one strategic system,” Vance said.
 
-White light appeared in the cooling passage behind Marcus.
+“They are inside an occupied commercial building.”
 
-It vanished with the next red strobe.
+“They are stealing an authenticated session.”
 
-Then returned lower, split into two disciplined beams.
+“Then take them alive and preserve the local audit.”
 
-Marcus looked back once. “Team’s in the corridor. Four, maybe six. Tight spacing.”
+A short pause.
 
-No shouted commands. No running. The containment unit knew the bridge was retracting and understood that speed mattered less than closing every alternative.
+“Telemetry recovery has priority,” Vance said.
 
-Elias stepped onto the grating.
+Sarah marked the order into her incident file and opened the vendor conference path to WSS-4.
 
-The bridge withdrew another three inches.
+Northbridge Secure Suite 4  
+Washington, D.C.  
+07:07 Eastern Daylight Time
 
-He moved too upright, one hand locked around the rail. At the midpoint his shoe struck a wet patch. His feet went out from beneath him.
+The audit interface presented the Northbridge certificate.
 
-He hit the grating on one hip. His left leg slipped through the rail opening and hung above the machinery.
+WSS-4 SUITE CERTIFICATE PRESENTED  
+LOCAL CLOCK: VERIFIED  
+INCIDENT BUFFER: OPEN
 
-Julie started back.
+Julie’s left hand moved toward CAPTURE.
 
-Marcus was closer. He stepped onto the remaining overlap, reached across the gap, and caught Elias by the back of his belt.
+“No,” Elias said.
 
-The bridge moved.
+“The buffer is open.”
 
-Its near end pulled free of the platform.
+“Northbridge is talking to itself. The external device is not present.”
 
-For a second, Marcus stood with one foot on concrete and one on a steel span moving away from him.
+Bell stood near the fire door with the telephone in one hand.
 
-He shoved Elias forward.
+The wall speaker activated.
 
-“Move your hands.”
+“Northbridge Secure Suite Four, this is Sarah Chen, Apex incident coordination.”
 
-Elias crawled. Julie caught his forearm and dragged him across the last yards. Marcus jumped as the gap opened beneath him, struck the far rail with his chest, and folded over it.
+Bell lifted the receiver. “Nora Bell. Two unauthorized subjects are inside. The local maintenance session is active.”
 
-Julie seized his coveralls. Elias grabbed the back of his arm. Together they pulled him onto the platform.
+“Are you safe?”
 
-The bridge disappeared into the opposite wall with a heavy steel crash.
+“Yes.”
 
-Across the opening, two white weapon lights reached the abandoned platform.
+“Other employees?”
 
-They stopped at the edge.
+“I cleared the operator.”
 
-Marcus remained on one knee for a moment, testing his ribs where the rail had caught him. “They won’t cross that.”
+“Stay near the fire door.”
 
-A metallic click sounded on the far side.
+Bell obeyed.
 
-Elias looked toward the drive housing. “There’s a maintenance extension.”
+Chen addressed Julie and Elias through the speaker. “Step away from the controller. The module remains in place until qualified personnel secure it.”
+
+“Preserve WSS-four’s local audit,” Julie said.
+
+“You are not in a position to issue evidentiary instructions.”
+
+“Vance’s watch triggered when we requested the external chain.”
+
+“I know what triggered it.”
+
+“Then you know he was waiting for anyone who followed the record.”
+
+“I know you entered a secure facility using a false service call.”
+
+The controller generated the session identifier.
+
+NB-WSS4-0708-2217  
+ROUTING STATE: OPENING
+
+“Still Northbridge,” Elias said.
+
+“The building is being contained,” Chen said. “Metropolitan Police and Apex protective services are approaching. Continuing increases the danger to everyone on the floor.”
+
+“We have harmed no one.”
+
+“You have created an armed-insider response in an occupied building.”
+
+“We are not armed.”
+
+“The responding officers do not know that.”
+
+Julie looked at Bell. “Tell her.”
+
+“I have not seen a weapon,” Bell said.
+
+Chen heard. “That does not change containment. When the interface permits safe removal, set down the module. You will be separated and transported into custody.”
+
+“Where Vance explains the record first.”
+
+“Where evidence is handled through lawful channels.”
+
+“Vance authorized deadly force for loss of telemetry.”
+
+Bell looked toward the speaker.
+
+“My rules do not,” Chen said.
+
+“Preserve his order.”
+
+“I already have.”
+
+The controller populated a new field.
+
+TASK PROFILE: K17-PHASE-B
+
+Elias pointed without touching. “That is the profile. Wait.”
+
+A field endpoint presented.
+
+FIELD ROUTE CERTIFICATE  
+AUTHORITY: TARIQ, MAJOR / FORWARD LIAISON CELL  
+CHANNEL: K17 OPERATIONAL CONTROL  
+STATUS: ACCEPTED
+
+The registered authority entered the session. The human operator did not.
+
+Structured status followed.
+
+SECURITY LINE ONE: PASSED  
+RELAY K-17 ACCESS: NOT CONFIRMED  
+PHASE B: HOLD FOR AUTHORIZATION
+
+Bell read the fields. “What is K-seventeen?”
+
+Julie kept her attention on the interface.
+
+EXTERNAL SIGNER REQUESTED  
+CHALLENGE ISSUED  
+AWAITING CERTIFICATE PRESENTATION
+
+She moved toward CAPTURE again.
+
+Elias shook his head. “If we start now, Partition B seals around an unidentified fingerprint.”
+
+The interface clock reached 07:08:03.
+
+Certificate blocks began entering.
+
+LEGISLATIVE SECURE SERVICES ROOT  
+SENATE MEMBER OFFICE CERTIFICATION AUTHORITY  
+STERLING OFFICE NATIONAL SECURITY AUTHORITY
+
+The fourth block took longer. A retention timer appeared beside the earliest routing receipt.
+
+BUFFER RETENTION: 00:27
+
+“Clean close can purge the first receipts before ninety seconds,” Elias said.
+
+The final block loaded.
+
+PORTABLE EXECUTIVE SIGNER  
+REGISTERED AUTHORITY: OFFICE OF SENATOR STERLING  
+DEVICE SERIAL: SSO-NS-004
+
+Bell stared at the name.
+
+“That device belongs to Sterling.”
+
+“It is registered to his office,” Julie said.
+
+The interface delivered the challenge.
+
+DEVICE CERTIFICATE ACCEPTED  
+HARDWARE CHALLENGE DELIVERED  
+AWAITING RESPONSE
+
+Two seconds passed.
+
+Then three.
+
+The response arrived.
+
+CHALLENGE RESPONSE VERIFIED  
+HARDWARE SIGNATURE VALID  
+DEVICE TIME: 07:08:09.442 EDT  
+SIGNER STATE: COMPLETE
+
+“Now,” Elias said.
+
+Julie pressed CAPTURE.
+
+The interface requested scope.
+
+CURRENT SESSION ENVELOPE  
+FULL AVAILABLE TRUST CHAIN  
+EVENT ORDER  
+ROUTING RECEIPTS  
+TASK PROFILE  
+MESSAGE BLOCKS  
+LOCAL CONTROLLER SEAL
+
+She selected all.
+
+Partition B tried to mount. The module shifted under Elias’s injured hand.
+
+MEDIA CONTACT UNSTABLE  
+CAPTURE NOT STARTED
+
+His bandaged index slipped against the locking collar. Blood darkened the dressing.
+
+Julie steadied his wrist with her left hand without touching the module.
+
+“You seat it.”
+
+He forced the collar clockwise.
+
+MEDIA CONTACT STABLE
+
+Julie confirmed again.
+
+PARTITION B CAPTURE ACTIVE  
+START TIME: 07:08:13.106 EDT
+
+The event list began writing: suite certificate, session identifier, routing state, K17-PHASE-B, Tariq’s registered field authority, the Sterling-office chain, SSO-NS-004, challenge, response, signature, and device time.
+
+Three substantive blocks arrived as ciphertext.
+
+MESSAGE BLOCK 01: ENCRYPTED  
+MESSAGE BLOCK 02: ENCRYPTED  
+MESSAGE BLOCK 03: ENCRYPTED
+
+A routing field accompanied the third.
+
+NEXT REQUIRED AUTHENTICATION  
+CHANNEL: NSB-EMERGENCY  
+SITE: HARTWELL EXECUTIVE BRIEFING ANNEX  
+WINDOW: 07:46:00–07:48:30 EDT  
+LOCAL PERIMETER CHALLENGE REQUIRED
+
+“The briefing Sterling announced,” Bell said.
+
+“The channel is linked,” Julie replied. “The person is not.”
+
+More structured status followed.
+
+PHASE-B AUTHORIZATION DEADLINE: 07:49 EDT  
+MASKING WINDOW TWO: 07:48–07:54 EDT  
+ARGUS SOURCE RECONSTRUCTION PROFILE: PENDING
+
+The second Argus action had not occurred. It waited behind the next authentication.
+
+Relay access remained unconfirmed. Phase B remained undefined. The messages stayed encrypted.
+
+Chen spoke through the wall speaker. “The building is under containment. Remove neither the module nor Northbridge property.”
+
+“We are taking our own media.”
+
+“The package contains classified communications.”
+
+“The local audit contains the same event.”
+
+“That does not authorize removal.”
+
+“No.”
+
+Julie did not pretend otherwise.
+
+The capture advanced.
+
+EVENTS ACQUIRED: 31  
+EVENT ORDER: VERIFYING  
+LOCAL SEAL: PENDING
+
+The live session acknowledged.
+
+SESSION ACKNOWLEDGMENT COMPLETE  
+TRANSIENT BUFFER PURGE ACTIVE
+
+Routing receipts disappeared from the live screen while Partition B continued writing them from the incident recorder.
+
+Elias kept both hands around the module. His shoulders shook.
 

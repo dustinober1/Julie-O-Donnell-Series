@@ -1,167 +1,215 @@
-“No upload. No public release. We capture, preserve, and leave.”
+Price’s signature was real because the system had required an act only he could perform inside a session he still controlled. That fact did not protect him from the rest of the record.
 
-“What time do I pull you?”
+The request included an expedited-retention flag he had invoked after the program liaison told him to wait for a coordinated review. The flag existed for imminent source loss. Price had used it because the one-hundred-percent state was already disappearing from ordinary views. His audit role allowed him to request preservation. It did not clearly allow him to override the normal coordination sequence.
 
-“Seven-ten.”
+“That is the conduct under review?” Grant asked.
 
-Elias looked at the clock. “The buffer should be gone by then.”
+“One part of it,” the administrative attorney said. “Mr. Price also attempted to reopen the transient-state cache after the program office placed the item under security review.”
 
-“The extra time is for us to get out, not to analyze it.”
+Price looked at Shah.
 
-“And if you are thirty seconds from sealing the export?” Marcus asked.
+She gave him the smallest nod.
 
-“Seven-ten.”
+“I attempted read-only access once,” he said. “The repository rejected it. I did not alter a source, export material, or assign an operational action.”
 
-He held her gaze, measuring whether she believed her own abort condition.
+“You knew the security hold had been entered?”
 
-Julie did. She did not know whether she would obey it. Command required setting the line before fear and proximity made every additional second feel necessary.
+“I knew the program office said the item was under review. The formal suspension notice arrived later.”
 
-Marcus shifted the cold pack aside. “Civilian load?”
+The distinction might save nothing. Price left it in the record anyway.
 
-“Landlord security, cleaners, early policy staff, whoever Northbridge brought in for the regional crisis. We assume every person we see knows nothing about Payload Eighty-Eight.”
+The custodian produced DIA-AR-PRICE-01. Its clock was independent of the office workflow clock and carried its own synchronization statement. The events did not depend on subsecond comparison.
 
-“That includes the person carrying the signer.”
+Price’s last active audit session closed at 17:58:09 the previous day.
 
-“Yes.”
+His classified credential authority was suspended at 18:03:42.
 
-Elias said, “Even if the certificate belongs to Sterling’s office?”
+His extension was disabled at 18:04:01.
 
-“Even then. A certificate is evidence. It is not permission to decide what the person holding it deserves.”
+The later office request had been created at 06:41:18 that morning.
 
-Silence followed.
+Grant displayed only the fields required for the comparison. Price saw his name, his office, and DIA-SAR-PRICE-01 attached to a record class he had never used.
 
-Marcus reached for the paper objective and turned it so he could read it again.
+NSB-EMERGENCY CONTINUITY REQUEST.
 
-“Then we need a way to capture without risking the originals,” he said.
+He stared at it long enough for Shah to touch the edge of his sleeve.
 
-Julie opened the locked storage cabinet.
+“Did you create that record?” Grant asked.
 
-The derivative module remained inside its numbered antistatic envelope. The sealed partition held the recovery record, restored label map, provenance decision, Payload 88 index, checksum history, and the critical bridge fragments. It did not hold the bulk raw telemetry or the sensitive K-17 geography.
+“No.”
 
-Elias examined the module through the clear side of the envelope. “It supports two separately sealed partitions.”
+“Did you assign SSO-NS-004?”
 
-“You are sure?” Julie asked.
+“No.”
 
-“The enclosure is standard field-evidence media. Partition one seals against its own manifest. Partition two can remain blank without changing the first.”
+“Did your original request name WSS-4, Hartwell, K-17, Phase B, or source reconstruction?”
 
-“Can the Northbridge audit port write to it?”
+“No.”
 
-“If the controller still follows the 4.2 profile. The incident interface accepts encrypted removable media and writes a self-contained session package. It should not care what is on the other partition.”
+“Did you ask another person or automated service to add those fields after your access ended?”
 
-“Should.”
+“No.”
 
-“Yes.”
+Shah stopped the questioning there. Price had authenticated what he had done and denied a defined set of acts. He had not waived unrelated personnel issues, speculated about a constructor, or accepted anyone else’s theory.
 
-Julie returned to the workstation.
+Grant asked whether he would sign a voluntary statement attaching the complete original request and the suspension chronology, including his expedited-retention flag and rejected access attempt.
 
-At 06:37:02, she broke the numbered envelope seal and recorded the action. Elias mounted the module through the hardware write blocker and verified the derivative partition. Its hashes matched the values entered in the paper log.
+Price understood the choice. If he refused, the later record would continue using his name while the only authenticated version of his conduct remained inside a personnel system built to judge him. If he agreed, he preserved the limit that separated his request from the operational route—and gave DIA a clean record of the rule he had knowingly pressed.
 
-He created no new copy.
+He looked at the camera rather than Grant.
 
-Instead, he used the module’s physical management utility to expose the unused second partition. The first remained hardware-locked and read-only. The second appeared as an empty encrypted incident volume with a separate serial and no files.
+“Include the rejected access attempt.”
 
-PARTITION A: SEALED DERIVATIVE
- INTEGRITY: VERIFIED
- WRITE STATE: LOCKED
+Shah turned toward him. “Leland.”
 
-PARTITION B: INCIDENT CAPTURE
- CONTENT: EMPTY
- WRITE STATE: ARMED ON LOCAL DEVICE
+“They’ll use it whether I include it or not.” His mouth had gone dry. “I want the sequence complete.”
 
-Julie recorded both states, the module serial, the wall-clock time, and the fact that the workstation clock remained wrong by eleven days. She had Elias verify Partition A again after the change.
+At 11:48:26, Price authenticated the bounded statement with a new voluntary review-session receipt. He did not ask to speak to Julie O’Donnell. He did not thank her. He did not offer to help.
 
-MATCH.
+He placed his real request where the borrowed one could no longer replace it.
 
-Only then did she remove the module and seal it inside a fresh antistatic sleeve. The storage cabinet had no second numbered evidence envelope. She closed the sleeve with tamper tape from the medical cabinet and wrote the module serial across the seam.
+Secure MPD Evidence Intake
+Washington, D.C.
+11:51 Eastern Daylight Time
 
-“The sealed copy travels into Northbridge,” Marcus said.
+Grant returned Price’s statement through the DCIS source channel, not through the office production. The DIA originals remained at DIA. The office original remained under Sterling-office custody. Grant created a derivative set that preserved the two sources as separate components, with separate custodians, clock bases, produced fields, withheld fields, integrity statements, and proof ceilings.
 
-“The originals stay with you.”
+The comparison began with time because time required the least interpretation.
 
-“If you lose the module?”
+Price’s active authority ended more than twelve hours before SO-NS-REQ-6540 was created. The DIA repository showed the authenticated act that created his original request. The administrative-review ledger showed the end of the credential and session authority capable of creating another DIA submission. Neither record claimed authority over the office workflow.
 
-“We lose the limited duplicate and whatever we capture. The case, board record, and recovery cartridge remain.”
+The office produced the complete event classes its system generated for a direct external requestor, an inherited request, and an internal continuity construction between 05:45 and 07:00. It certified that the range was complete for those classes, while withholding protected narrative and unrelated communications.
 
-“The board goes inside,” he said.
+Grant aligned the categories without forcing the clocks into one invented time source.
 
-Elias closed his hand around it. “The board stays with me.”
+Price’s original supplied his authenticated request and repository receipt.
 
-Julie wrote the exception into the log. The board was both original evidence and the only reliable proof of the distinction between Elias’s replayed identity and his voluntary emergency use. It had remained in his custody through every documented step. Taking it away now would not protect the chain. It would create another transfer and separate Elias from the evidence bound to his identity.
+The access-review original supplied the end of his active authority.
 
-She transferred the aluminum case to Marcus at 06:39:16. He checked both latches without opening them and signed beneath the serial. The display remained green. The 136 sealed files remained sealed; the 47 incomplete files remained incomplete; the 311 excluded files remained absent.
+The office original supplied the later construction and the fields it had inherited or added.
 
-The tamper-bagged recovery cartridge went into the waterproof document folder with the custody log. Marcus accepted both and signed again. Julie added the dead fleet transponder in its antistatic bag as an ancillary item. The originals would ride together without being connected to anything.
+The first match was exact: `DIA-SAR-PRICE-01`.
 
-No evidence remained in the cutout’s storage cabinet.
+The second was Price’s identity string.
 
-Apex Building Three
- Reston, Virginia
- 06:39 Eastern Daylight Time
+The office event range showed how the identity had traveled. A source-inheritance service imported Price’s request reference and normalized the requestor field into the office workflow. Forty-three seconds later, a continuity-construction process created the operational branch. The produced record showed the order of those system events and the service categories that owned them. It did not expose the account, certificate, person, or internal instruction that had caused the construction process to run.
 
-Sarah Chen received the capture directive and the lethal-force directive forty-three seconds apart.
+A direct Price submission would have required one of two paths defined by the office custodian: an external credential challenge tied to an active source-agency session, or an office witness release documenting that a source instruction had been received through another authorized channel. The complete event-class production contained neither. The inheritance path had supplied enough identity for the office system to name Price without supplying the act that would make the later instruction his.
 
-The first came through the joint incident desk established after the Building Three fire. It carried federal and county routing numbers, medical instructions, and language selected by people who expected their decisions to be reviewed.
+Grant placed the office transformation beside the DIA original without combining them. The inherited fields aligned at the request reference and identity. The authored fields diverged at the mission.
 
-APPREHEND IF LOCATED.
- SEPARATE SUBJECTS.
- SECURE CLASSIFIED MATERIAL.
- PRESERVE LIFE AND EVIDENCE.
+The differences were larger.
 
-The second appeared on the Apex protective-services channel under Arthur Vance’s executive authority.
+DIA-SAR-PRICE-01 requested preservation and read-only source review. SO-NS-REQ-6540 converted that reference into an `NSB-EMERGENCY` continuity path. It added the signer asset, WSS-4, Hartwell, K17-PHASE-B, and the source-reconstruction category. The office transformation field identified those entries as continuity-routing additions, not terms present in Price’s original.
 
-CONTINUING HOSTILE SABOTAGE TEAM.
- PREVENT TRANSFER OF TELEMETRY MATERIAL.
- DEADLY FORCE AUTHORIZED IF LOSS OF MATERIAL IS IMMINENT.
+Hackett read the list and said, “Someone expanded his request.”
 
-Sarah read the last condition twice.
+“Someone or a service,” Grant said. “The record does not identify the constructor yet.”
 
-Deadly force was justified by an immediate threat to life, not by the possibility that evidence might leave the company’s control. Vance had replaced the legal standard with an operational preference and sent it around her command chain.
+Office counsel seized the distinction. “Continuity systems lawfully inherit source identity and request references. A later route can derive from an earlier need without the original requester entering every operational field.”
 
-Daniel Mercer’s unit acknowledgment remained pending.
+Julie looked at the derivative on the fixed display. “Then who submitted the derived request?”
 
-Sarah opened the voice channel. “Mercer.”
+“The source identity is Price.”
 
-“Here.”
+“That is the field. Who performed the submit act?”
 
-“You received the executive addendum?”
+Counsel said the office had produced the accepted request object and the continuity chain presented to Kessler. Alvarez required the answer from the custodian.
 
-“Yes.”
+The custodian reviewed the event-class declaration. “There is no matching Price PIV challenge, DIA session receipt, office local-release event, witness act, or separately authenticated Price instruction in the produced authorized range.”
 
-“It does not alter my rules of force. Capture priority. Less-lethal where feasible. Firearms only for an identified deadly threat with a clear background.”
+Grant did not let the absence become larger than the range that supported it. “That means the later request is not authenticated as Price’s act. It does not mean the office system could not inherit his identity under a continuity rule.”
 
-A pause. “Director Vance’s office marked telemetry loss as a national-security emergency.”
+“Does the record identify the rule?” Alvarez asked.
 
-“Telemetry does not shoot back.”
+“It identifies a source-inheritance transaction and a continuity-construction service category. The underlying mapping and construction records are preserved but not produced under the current scope.”
 
-Another pause, shorter this time. “Understood.”
+The apparent answer reversed.
 
-Sarah did not order him to stop looking. She did not remove Julie’s alert or tell any agency that the subjects were harmless. Julie had breached a production enclave, removed classified material, triggered a fire, and fled in a stolen contractor vehicle. Sarah still intended to put all three into controlled custody.
+Price’s name had not identified the person who created the instruction. It identified the source identity and request reference the later instruction had used.
 
-She also intended to know whose order Mercer followed when he found them.
+Kessler remained the authorizer. Drennan remained the carrier. SSO-NS-004 remained the device that traveled through WSS-4 and Hartwell. None of those facts supplied the missing submit act.
 
-The traffic desk had no current plate hit for PCF-27. The last confirmed image placed it inside a cluster of contractor vehicles before the route split across several private camera systems. Analysts were requesting footage one owner at a time. A separate search had begun against retired technical-support leases associated with Marcus Reed’s former assignments. The first response was not due for twelve minutes.
+Julie felt the older wound before she named it. Six years earlier, the Army had taken the surviving timestamp and made her late because the missing four seconds were easier to erase than the certified system. Now Price’s name offered the same convenience in a different form: one visible field standing in for the cause no one had authenticated.
 
-No system had found the cutout yet.
+“The named requestor is not the instruction source,” she said.
 
-The media pane on Sarah’s console updated.
+Grant entered the wording into her preliminary comparison.
 
-A prepared statement from Senator Sterling’s office had entered the morning news pool. Its summary described Julie O’Donnell as the suspected architect of a deliberate Argus corruption attempt.
+Office counsel objected. “That is argument.”
 
-Sarah opened her own incident report.
+“No,” Grant said. “The source-controlled finding is narrower: the later request reused Price’s identity or request reference after his active authority ended, added operational routing absent from his original, and contains no matching authenticated Price act in the authorized event range. The constructor remains unproved.”
 
-It said suspected sabotage.
+That sentence weakened every immediate accusation available to Julie.
 
-The technical source review had not assigned authorship. The enclave record had not been recovered. No federal examiner had concluded who introduced the poisoned data.
+It was the strongest result in the room.
 
-The public statement had reached a conclusion before the investigation reached the evidence.
+Sterling’s public account continued on a muted monitor outside the secure intake. A lower-third banner described widening evidence of an insider network. Price’s name had not appeared publicly. Hackett wanted executive pressure applied before the office could characterize the mismatch as routine inheritance. Office counsel wanted the derivative sealed under privilege restrictions. Apex counsel, admitted only for the preservation portion, submitted a written position that automated continuity inheritance could be a lawful response to a source-integrity emergency and that no adverse inference should attach to a missing human signature.
 
-Sarah marked the time, preserved both directives in the incident file, and sent the regional lookout again.
+Each position contained something true enough to survive review.
 
-She did not warn Julie.
+Alvarez asked Julie what she recommended.
 
-Decommissioned Communications Cutout
- Fairfax County, Virginia
- 06:42 Eastern Daylight Time
+The restraint held Julie’s right wrist in a position that made every heartbeat visible beneath the wrap. She could accuse Price and let the public story acquire a second convenient saboteur. She could name Kessler because Kessler had authorized the exception, or Vance because Apex’s architecture could construct inherited identities, or Sterling because the request lived in his office system and served his public narrative.
 
-The work order came from a carbon-copy service book in PCF-27’s glove compartment.
+She could not authenticate any of those acts.
+
+“Preserve Price’s complete original and statement,” Julie said. “Including the expedited-retention flag and the rejected access attempt.”
+
+Hackett looked at her. “Those facts help anyone trying to call him the original insider.”
+
+“They are his facts.”
+
+“They are also a distraction.”
+
+“Then the comparison will show what they are. We do not edit him into innocence because his name was borrowed.”
+
+Price had agency in the record. He had pressed an authority boundary and attempted access after a security warning. He had also not created the later operational route. Protecting the second fact did not erase the first.
+
+Alvarez did not adopt the recommendation immediately. She asked Grant whether preserving the full Price statement would contaminate the comparison with personnel material outside the inquiry. Grant answered that the statement could remain a separately sealed attachment, produced only to establish authenticity, scope, and the completeness of Price’s voluntary account. His disciplinary exposure would not become evidence of the later request. It would remain part of the record explaining why his statement had not been edited into advocacy.
+
+Hackett argued for a public correction limited to the fact that the named DIA requestor had denied the operational instruction. Julie rejected that too. A denial was testimony, not the comparison. Released alone, it would turn Price into either a hero or a liar before the source records could survive attack.
+
+“We keep him in the record,” Julie said. “We do not put him in front of it.”
+
+Julie continued. “No public release. No signer operation. No accusation against Price, Kessler, Drennan, Vance, or Sterling from this comparison. Preserve the construction path.”
+
+“What categories?” Alvarez asked.
+
+“Continuity-broker transactions. Identity mapping. Request construction. Source inheritance. Any parser or service that transformed DIA-SAR-PRICE-01 into SO-NS-REQ-6540. The authority that invoked it. The local release event. Every clock statement and event class needed to distinguish a service action from a human one.”
+
+Chen’s existing Apex preservation index could identify whether Apex held matching categories. It could not provide their contents or make Apex’s record the office record. Alvarez issued separate demands to the Sterling office, DIA, Apex, and the continuity-service custodian identified by the office index. She required each recipient to preserve originals, mappings, construction logs, authority bindings, release events, and deletion or retention schedules without transferring unrelated protected material.
+
+The receipts arrived under different authorities and different clocks.
+
+The office acknowledged preservation of SO-NS-REQ-6540, its identity-mapping and source-inheritance records, and its continuity-construction events.
+
+DIA acknowledged continuing custody of DIA-SAR-PRICE-01 and DIA-AR-PRICE-01.
+
+Apex acknowledged preservation demand categories against APX-B3-IR-5521 without producing Price’s source record or underlying content.
+
+Legislative Secure Services confirmed that SSO-NS-004 remained closed, unused, and stationary under Martin Vann, Marisol Vega, pouch LSS-P-44091, and seal LSS-SL-90418.
+
+Ortiz and Park confirmed that MPD-901441 through MPD-901447 remained sealed, separate, offline, stationary, and inside the same locked chest. Nothing in the comparison had touched them.
+
+Grant completed DCIS-CD-187463-PRICE-01 at 12:14:37. The derivative identified the office and DIA source originals, the creators of each produced component, creation times, clock bases, produced and withheld fields, integrity methods, custody states, and proof ceilings. Her signed finding occupied six lines.
+
+PRICE ORIGINAL: AUTHENTICATED / RAW-SOURCE AND SOURCE-INTEGRITY REVIEW ONLY
+PRICE ACTIVE AUTHORITY: ENDED BEFORE LATER OFFICE REQUEST
+LATER REQUEST: PRICE IDENTITY / REQUEST REFERENCE INHERITED
+OPERATIONAL ROUTING: ADDED AFTER ORIGINAL
+MATCHING AUTHENTICATED PRICE ACT: NOT ESTABLISHED IN AUTHORIZED EVENT RANGE
+REQUEST CONSTRUCTOR: UNPROVED
+
+Alvarez accepted the derivative into incident 187463 without merging it with any original. The office and DIA source records remained where they had been created. Price remained in administrative review. No immunity, charge, exoneration, or privilege ruling followed.
+
+Julie read the finding from the observation alcove.
+
+Elias’s original deployment record had named him without the physical token act required to make the name his. Price’s later continuity request had named him after his authority ended and carried none of the authenticated acts present in his real request. One false identity sat near the beginning of the present operation. The other had opened the path that moved the signer through Washington.
+
+Between them stood the successful remote Argus reconstruction, still without an authenticated author.
+
+The records did not prove one constructor.
+
+They proved the same kind of question had survived twice.
 

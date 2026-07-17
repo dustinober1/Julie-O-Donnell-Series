@@ -1,165 +1,315 @@
-Forty-two minutes and forty-nine seconds remained before the Northbridge window.
+“Then state your limit,” Grant said.
 
-Marcus looked at the clock. “Then what?”
+“I did not continuously observe the case before it was assigned to Mr. Drennan.”
 
-Julie heard the question beneath the question. If there was no recipient they could reach now, what did the word yet require them to do?
+Grant changed the transfer statement. “Transferor confirms no change observed during his own custody interval. No claim before that interval.”
 
-“We stop looking for someone to hand this to before seven-oh-eight,” she said.
+Drennan signed.
 
-Elias’s gaze lifted. “That sounds very much like deciding no one is honest.”
+His hand shook once at the end of his name. Grant did not decide what the movement meant.
 
-“It isn’t.” Julie pulled the paper summary toward her with her left hand. “An inspector general could be honest. FBI counterintelligence could be honest. The first officers who stop that van could be doing exactly what they should.”
+Vann inspected the pouch without opening it. He recorded the exterior seams, closure band visible through the window, pouch serial, case asset plate, transfer time, transferor, receiving custodian, room cameras, and wall-clock source.
 
-“Detain us,” Marcus said.
+At 10:57:18, he accepted physical custody.
 
-“Yes. Separate us. Secure the case. Put Elias under protective custody because the alert calls him a hostage. Treat you as an armed accomplice and me as the person who corrupted Argus.”
+“Legislative Secure Services no-use hold begins now,” he said. “Custodian Martin Vann. Deputy authority Marisol Vega. Device and pouch remain closed. Storage will be in compromise-control locker C-seven under two-person access. No release to the office, DCIS, MPD, Apex, Hartwell, Northbridge, or any other party without Deputy Director Vega’s written order and a recorded receiving authority.”
 
-Marcus’s mouth tightened at the word armed. They possessed no firearm. The bulletin did not need one to exist.
+Vega spoke through the partition microphone. “Add that no order authorizes use.”
 
-Julie continued. “Then someone finds a cleared technical team. Someone determines jurisdiction. Someone asks Apex for the system record. Vance gets to explain every file before anyone compares the certificate chains.”
+Vann added it.
 
-“The inspector general could order a hold,” Marcus said.
+The physical target had stopped moving.
 
-“After intake. After authentication. After they know which inspector general owns the program. Northbridge’s synchronization will be gone before the first custody receipt is signed.”
+Grant felt no relief. The stillness changed the problem rather than ending it.
 
-Elias looked toward the locked storage cabinet. “A reporter?”
+“Now the assignment record,” she said.
 
-“Cannot safely publish the raw material and cannot authenticate it in forty minutes. If we give them the limited copy, Northbridge says its endpoint is part of a legitimate Apex contract. If we give them the case, we expose collection locations and the unresolved K-17 sensor record.”
+Office counsel slid a single-page certification into a separate document tray. “The office will produce a limited custody certificate. The original remains in the office secure-communications ledger.”
 
-“A congressional channel,” Marcus said.
+Grant did not touch the page. Vann moved it beneath the overhead document camera.
 
-Julie looked at the Northbridge certificate still open on the old workstation. “Sterling sits inside the oversight structure we would be asking for help. That does not make every staff member part of this. It means we cannot know where the warning goes before the evidence is secured.”
+The certificate named Drennan as assigned carrier for `SSO-NS-004`. The interval began at 06:54:00 EDT and ended with the 10:57:18 LSS intake. The stated purpose was `EMERGENCY NATIONAL-SECURITY CONTINUITY SUPPORT`. The named office authorizing authority was Diane Kessler, Deputy Director for National Security, Office of Senator Sterling.
 
-The scanner broke through the static with a county unit acknowledging the national lookout. No location followed. No confirmed sighting.
+No destination list appeared.
 
-Marcus waited until the transmission ended. “So the problem isn’t trust.”
+No operational purpose appeared.
 
-“The problem is sequence.” Julie touched the paper summary. “The first honest action is still custody. Understanding comes later.”
+No instruction source appeared.
 
-“And seven-oh-eight comes first,” Elias said.
+Grant read the withheld-fields statement.
 
-Julie looked at the battery clock.
+“Route details, internal requestor, substantive purpose, and office deliberations withheld pending privilege and classification review.”
 
-The three evidence sources could survive examination. They could not create the one record that did not yet exist.
+“Correct,” counsel said.
 
-“We make the missing evidence,” she said.
+“Who created the exception?”
 
-Marcus shifted in the chair. Pain stopped the movement halfway. “Define that before you turn it into a mission.”
+“Kessler authorized it.”
 
-Julie took the pen in her left hand.
+“That was not the question.”
 
-“Northbridge Secure Suite Four receives a hardware-authenticated K-seventeen Phase B synchronization at seven-oh-eight. The suite holds the live session envelope for no more than ninety seconds. While it exists, the Northbridge endpoint, the external signer, the routing state, the hardware time, and the message buffer are all linked.”
+Counsel’s gaze hardened. “The certificate identifies the office authority.”
 
-“Ciphertext,” Marcus said.
+“It does not identify whether she initiated the exception or acted on an instruction.”
 
-“Probably.”
+“That is outside today’s production.”
 
-“So we may leave without the message.”
+Grant looked at the interval.
 
-“We may leave with proof of who authenticated an exchange into the K-seventeen operational channel. Or proof that the signer belongs to someone we have not considered. Or proof that the exchange is less important than we think.”
+06:54:00 began fourteen minutes before the WSS-4 hardware response.
 
-Elias watched her write. “The full external certificate matters more than the name printed on it.”
+It remained open through the 07:47:49 Hartwell challenge.
 
-Marcus looked at him.
+It remained open for more than three hours afterward, until the preservation demand forced the signer into compromise control.
 
-“The certificate gives us the signing authority, device serial, trust chain, and the entity to which the device is registered,” Elias said. “The hardware signature shows that device actually answered the session challenge. It does not prove who was physically holding it.”
+Drennan had carried the device.
 
-Julie wrote that distinction beneath the objective.
+Kessler had authorized the continuity exception.
 
-REGISTERED AUTHORITY IS NOT PHYSICAL POSSESSION.
+The record did not show that Drennan chose the route, knew the message content, understood K-17, or possessed any authority beyond physical custody. It did not show Kessler knew the operational purpose. It did not show who instructed her.
 
-“If the certificate resolves to Sterling?” Marcus asked.
+Vega said through the glass, “DCIS requested immediate federal seizure.”
 
-“It still proves the device, not his hand,” Julie said. “If the content or routing adds his direction, we preserve it. We do not assume it.”
+“Hackett requested it,” Grant said.
 
-“And if it resolves to Northbridge counsel, an Apex executive, or a field contractor?”
+“Would you still recommend against it?”
 
-“We preserve that too.”
+Grant looked at the closed pouch on the transfer surface.
 
-“Who has the device now?” Marcus asked.
+If DCIS took the device, it would gain the object and a new custody fight. The office could characterize Drennan as the responsible possessor. The authorization certificate could remain behind a privilege wall, disconnected from the thing it had placed in his hands.
 
-“The metadata does not say,” Elias replied.
+Under the LSS hold, the signer stayed frozen while the office’s original authorization, LSS transfer record, Hartwell original, and WSS local audit remained separately controlled. None could be replaced by the device itself.
 
-Marcus watched the pen move. “K-seventeen?”
+“Yes,” Grant said. “The carrier is not the authorizer.”
 
-“Still unresolved. The field team’s last confirmed position is more than an hour old. The synchronization profile does not tell us whether they reached the relay, failed, withdrew, or are waiting for another instruction.”
+Drennan looked at her for the first time without anger.
 
-He nodded once. The plan had not improved yet. It had only become honest.
+Grant continued. “And the authorizer is not yet the instruction source.”
 
-Julie wrote the objective in one line.
+Vega gave Vann permission to remove the pouch from the transfer surface.
 
-REACH NORTHBRIDGE SECURE SUITE 4 BEFORE 07:08. CAPTURE THE LIVE BUFFER, ROUTING STATE, FULL SIGNING CHAIN, HARDWARE SIGNATURE, SESSION TIME, AND K17-PHASE-B LINKAGE. LEAVE.
+He placed it inside a rigid secondary container, closed the lid, and applied LSS hold seal `LSS-SL-90418`. Two-person custody followed it through the rear control door. Grant never saw the signer. She saw the institution that had accepted responsibility for not using it.
 
-Marcus read it.
+Vega authorized a certified derivative from the transfer and office-assignment records.
 
-“That is an intelligence requirement,” he said. “Not an entry plan.”
+`LSS-CD-187463-01`
 
-“No.”
+It contained the device serial, pouch and visible closure identifiers, exterior condition, transferor, receiving custodian, witnesses, camera references, LSS clock basis, no-use restrictions, assignment interval, named office authorizing authority, original-record custodians, withheld fields, and proof ceiling.
 
-“Where is the suite?”
+It did not contain the signer’s internal state.
 
-Julie turned the workstation toward Elias. The Northbridge endpoint certificate filled the old display. They had examined the organizational subject and trust fingerprints. The lower fields remained collapsed beneath the service policy.
+It did not contain office deliberations.
 
-“Registered equipment location,” she said.
+It did not claim Drennan knew why the device had been used.
 
-Elias used his left hand on the trackball. The first movement overshot the field. He corrected and expanded the certificate details.
+It did not claim Kessler acted on Sterling’s instruction.
 
-Most of the entries were administrative: contract tenant, certification authority, inspection cycle, hardware class. Near the bottom, a location extension appeared beside the service-access profile.
+Grant signed only after those limits appeared on the first page.
 
-REGISTERED EQUIPMENT SITE: FENWICK ANNEX
- TENANT: NORTHBRIDGE STRATEGIC INITIATIVES
- SERVICE LOCALITY: L STREET NW / WASHINGTON, DC
- FACILITIES ENTRY: REAR SERVICE VESTIBULE
- SECURE DOMAIN: WSS-4
+Secure MPD Evidence Intake
+Washington, D.C.
 
-Marcus leaned forward, then stopped when his ribs objected.
+At 11:08:41, Grant’s image returned to the incident-control display.
 
-“The Fenwick Building,” he said.
+Julie saw the change before Grant spoke. Not triumph. A narrower kind of certainty.
 
-“You know it?” Julie asked.
+“The signer is under LSS no-use hold,” Grant said. “Named custodian Martin Vann. Deputy authority Marisol Vega. Pouch and compact case remain closed. Exterior serial confirmed as `SSO-NS-004`. No operation or technical examination.”
 
-“I know the public side. L Street between Seventeenth and Eighteenth. Narrow commercial building, stone front, private offices above a ground-floor lobby. I attended two policy working groups there before Northbridge took the upper floors.”
+Ortiz read the chest status into the room record.
 
-“Secure annex?”
+“All seven MPD packages remain stationary, separate, sealed, and under MPD physical custody. No package movement during the LSS action.”
 
-“Never saw it. There is a service alley behind the block and a landlord entrance off it. Deliveries, maintenance, cleaning crews. The public elevators are inside the L Street lobby.”
+Park confirmed continuous camera coverage.
 
-Nothing about the building, the public offices, or the existence of a secure contractor suite was illegal. The certificate made it a location. It did not make it a crime scene.
+Alvarez brought `LSS-CD-187463-01` into `DCIS-FR-187463-01` as a certified derivative. The source field identified the office secure-communications ledger and LSS compromise-control receipt separately. The original office authorization remained with the office. The original LSS intake and hold record remained with Legislative Secure Services.
 
-Elias expanded the next field.
+Hackett read the authorizer field.
 
-CONTROLLER PROFILE: APX SECURE FACILITY 4.2
- MAINTENANCE ENROLLMENT: LOCAL / ESCORTED
- PRE-SESSION DIAGNOSTIC WINDOW: ENABLED
- LOCAL AUDIT INTERFACE: REQUIRED
+“Diane Kessler. Sterling’s deputy national-security director.”
 
-He went still.
+“Office authority,” Julie said.
 
-“What?” Julie asked.
+He looked at her.
 
-“I helped design that profile.”
+“She authorized the exception,” Julie continued. “The record does not say who instructed her.”
 
-Marcus looked at him. “For Northbridge?”
+“She works for Sterling.”
 
-“No. For Apex-certified contractor suites. Places that need compartmented communications without turning an ordinary office building into a federal facility.” Elias pulled the blanket away from his hands. “The landlord controls the outer doors. The tenant controller begins after the service vestibule. Public-office badges and secure-suite access are separate.”
+“So do people who schedule meetings, carry briefing books, and answer phones. Employment is not command evidence.”
 
-“Current codes?” Julie asked.
+Hackett’s jaw moved once. “You are protecting the distinction very aggressively.”
 
-“I do not know them.”
+“I am protecting the part that survives counsel.”
 
-“Current staff?”
+Hackett said, “Then seize it now. We have the carrier.”
 
-“No.”
+Grant answered before Julie could. “Legislative Secure Services can preserve or transfer. A transfer before the office production is complete changes custody while leaving the exception record behind.”
 
-“Cameras, guards, floor plan?”
+Alvarez looked toward Julie’s window. “What does immediate possession add?”
 
-“I know the minimum design requirements. I do not know what Northbridge installed or changed.”
+“An easier defendant,” Julie said. “Drennan carried a closed case under an assignment Kessler authorized. Take the signer now and every institution can point at him while the instruction behind the exception disappears into a custody fight.”
 
-“Good.”
+Alvarez made the authority choice herself. “The LSS no-use hold remains. No transfer to DCIS or MPD. Produce the office and WSS records first.”
 
-Elias looked at her. “That is not usually the response to ignorance.”
+Grant said, “The physical carrier was Samuel Drennan. His assignment began at 06:54 and remained active through WSS-4 and Hartwell. He surrendered the closed pouch when the preservation demand triggered LSS compromise control.”
 
-“It is when the alternative is pretending.”
+“Did he present at WSS?” Alvarez asked.
 
-She pointed to the diagnostic-window field. “Explain.”
+“LSS cannot answer from the office record alone.”
+
+“Then we need Northbridge.”
+
+A renewed production request had already reached Nora Bell through counsel and the current lawful WSS-4 custodian. Bell’s answer arrived at 11:11:06.
+
+She did not offer access to the suite.
+
+She did not offer message plaintext.
+
+She offered one certified derivative from the WSS local audit and sponsor record, produced under the existing preservation demand while the original remained in WSS control.
+
+`WSS4-CD-187463-01`
+
+The derivative identified the WSS original source, Bell’s sponsor event, the false service identities recorded at landlord and tenant control, local controller clock basis, session identifier `NB-WSS4-0708-2217`, device serial `SSO-NS-004`, full signer-state completion time, encrypted-block status, fields withheld, production authority, local seal reference, and proof ceiling. It did not identify Samuel Drennan as the WSS carrier.
+
+It did not produce the encrypted message blocks.
+
+It did not identify Drennan as the person who chose the session, understood K-17, or authorized Phase B.
+
+It did not identify Bell, the WSS operator, or Northbridge as knowing participants in the larger operation.
+
+Bell added one sentence in her own certification.
+
+`PRODUCTION IS MADE TO PRESERVE THE WSS-4 RECORD AND DOES NOT CONCEDE THE LAWFULNESS OF THE FALSE SERVICE ENTRY, THE REMOVAL OF INCIDENT MEDIA, OR ANY INTERPRETATION OFFERED BY DCIS, MPD, APEX, OR THE SUBJECTS.`
+
+Julie read it twice.
+
+“Leave that sentence,” she said.
+
+The duty attorney glanced toward her screen. “It is hostile.”
+
+“It is honest.”
+
+Bell did not have to like Julie to preserve the record. Northbridge did not have to accept the entire conspiracy to admit what its own controller had seen.
+
+Alvarez linked the derivative without merging it with Hartwell’s.
+
+The three independently controlled records did not share one clock, and Grant refused to let the matching times appear cleaner than their sources.
+
+Hartwell’s controller time had already been reconciled to the DCIS reference by the offset documented in `HWA-CD-187463-01`. WSS-4’s derivative carried its own controller certificate and a recorded difference of less than two-tenths of a second from the DCIS time service at production. LSS used the wall clock visible in both intake cameras and recorded its last verification before the transfer. The office assignment ledger was less exact: its authorization began at 06:54 by minute, without a displayed seconds field. Alvarez made the difference explicit. The office record could establish that the assignment was active before the 07:08 WSS response and remained active through Hartwell. It could not establish the precise second Drennan received the pouch.
+
+The Arjun acknowledgment remained on IST and supplied no new Washington event time. Its conversion stayed the fixed nine hours thirty minutes already recorded in the received incident, not a silent synchronization with any office system.
+
+Only after every source retained its own clock basis did Alvarez allow the event order onto one comparison page.
+
+The records aligned without sharing identical fields.
+
+WSS fixed `SSO-NS-004` inside the 07:08 session under Bell’s sponsor record.
+
+Hartwell fixed the closed compact case inside the later 07:47:49 challenge-and-return path.
+
+The office and LSS records fixed Samuel Drennan’s assignment and Diane Kessler’s authorization across an interval that covered both events.
+
+WSS established the session-side use. Hartwell established the later challenge and return. LSS established present physical custody and the no-use hold. The office certificate established who had authorized the exception that placed the device in Drennan’s custody across the entire interval.
+
+No record showed Sterling’s hand.
+
+No record showed Kessler’s instruction source.
+
+No record showed Drennan’s knowledge.
+
+The absence no longer emptied the chain. It defined the next missing link.
+
+Alvarez instructed her duty attorney to draft the reconciliation statement.
+
+“Do not write that Kessler authorized WSS or Hartwell,” Julie said.
+
+The attorney stopped.
+
+“She authorized the custody exception that covered the interval,” Julie continued. “The separate site records show what happened during it.”
+
+Grant nodded. “Authority to carry is not authority for every act the device later performed.”
+
+Hackett said, “But without the exception, the device does not reach either site.”
+
+“That is responsibility,” Alvarez said. “Not yet command.”
+
+Office counsel objected from the audio-only line. “The certificate proves no operational nexus. Emergency continuity support is a routine protective function.”
+
+Alvarez did not argue with the characterization. “Then the routine function will be easier to document.”
+
+“It is already documented.”
+
+“Partly. We have the authority and interval. We do not have the initiating request, the reason the normal custodian was bypassed, or the record that selected these two secure sites.”
+
+“Those fields may be privileged.”
+
+“They may be,” Alvarez said. “Preserve them while that is decided.”
+
+The counsel line went silent for four seconds.
+
+Julie watched Alvarez wait without filling the silence. An institution did not have to surrender a protected record merely because the record mattered. It did have to stop pretending a privilege dispute made the record nonexistent.
+
+Office counsel returned. “The original initiating materials will be placed under internal legal hold. That does not concede production.”
+
+“Entered as preservation only,” Alvarez said.
+
+The answer gave them no instruction source. It prevented the source from becoming a future claim that no instruction record had ever existed.
+
+She owned the words now.
+
+The reconciliation statement recorded each original and derivative separately.
+
+Hartwell retained `HWA-LCA-1187`.
+
+`HWA-CD-187463-01` remained a Hartwell-certified derivative.
+
+WSS-4 retained its local audit and sponsor original.
+
+`WSS4-CD-187463-01` remained a narrow WSS derivative.
+
+The Sterling office retained its original authorization and assignment record under preservation demand.
+
+Legislative Secure Services retained the original intake and no-use-hold record and physical custody of the closed signer pouch.
+
+`LSS-CD-187463-01` remained the narrow office/LSS derivative.
+
+Forward Post Arjun retained `ARJ-K17-001`, `ARJ-K17-002`, and `ARJ-K17-003`.
+
+`ARJ-K17-ACK-01` remained a bounded acknowledgment.
+
+MPD retained `MPD-901441` through `MPD-901447`, seven sealed packages in the same locked chest.
+
+DCIS owned responsibility for the received incident and the new derivatives. It did not own every original.
+
+At 11:18:22, Sterling’s statement ended.
+
+The television returned to a studio panel discussing the danger of insider access. None of the speakers knew that the office signer had been placed under a no-use hold. None knew the name Diane Kessler. None knew that Samuel Drennan’s assignment interval covered both WSS-4 and Hartwell.
+
+The public account had not weakened.
+
+Inside the incident, it had become more expensive to maintain.
+
+Hackett asked, “Can we interview Kessler now?”
+
+Alvarez said, “We can request a voluntary interview and preserve her communications. Compulsory process requires a separate legal decision.”
+
+“Can LSS question Drennan?”
+
+“They can take a custody statement within their authority. Grant already took the transfer facts. Anything beyond that needs counsel and scope.”
+
+“What about the signer?”
+
+“It stays closed,” Alvarez said.
+
+Hackett looked toward Julie. “You got the responsibility chain. Are you satisfied?”
+
+The question carried more accusation than curiosity.
+
+Julie looked through the reinforced glass at the locked chest. The case holding the first partial capture remained inside `MPD-901441`. Elias’s board remained inside `MPD-901446`, resealed beneath `MPD-SL-551821`. The WSS module remained untouched inside `MPD-901447`. Every object that had brought them this far was stationary while records outside the room moved toward one another.
+
+Satisfied was the wrong measure.
+
+“Drennan tells us who carried it,” she said. “Kessler tells us who authorized the custody exception. Neither tells us who instructed the exception or what outcome they expected.”
+
+Hackett said, “You think Sterling instructed her.”
 

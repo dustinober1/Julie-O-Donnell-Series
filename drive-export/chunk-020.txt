@@ -1,339 +1,396 @@
-“Along with the coveralls and the least convincing hard hat in Virginia.”
+The next traffic signal changed to yellow while they were still a hundred yards away. Julie let the van slow.
 
-He fitted the socket over the first bolt.
+Elias leaned forward. “You’re stopping?”
 
-It did not move.
+“The plate is already known,” she said. “Running a red adds witnesses.”
 
-Marcus leaned into it.
+The van stopped beneath a wet signal arm. A camera housing faced the intersection from the opposite mast. Julie could not tell whether it was recording traffic flow, reading plates, or doing nothing.
 
-Metal groaned.
+She assumed the first two.
 
-The bolt shifted a fraction.
+Marcus studied the cross street. “Left when it changes.”
 
-“How long?” Julie asked.
+“Where?”
 
-“Longer if you keep asking.”
+“Old technical-support cutout. Fairfax County.”
 
-She turned away from the grate and opened the waterproof folder.
+“Active?”
 
-Their information was incomplete.
+“No.”
 
-Their motel analysis had established that Elias remained inside Building Three and that someone had altered Payload 88 after it entered the validation archive. The copied production fragments proved the synthetic packet was feeding Argus.
+“Erased?”
 
-They still lacked the original deployment receipt and the full administrative-service record.
+“No.”
 
-Without Elias, Apex could describe the evidence drive as a corrupted partial capture assembled by an unstable former analyst and a suspended Army officer.
+Julie watched the signal remain red. “Connected to you?”
 
-With Elias, they had a witness.
+“I used it twice. Eight years ago. The active inventory number was retired when the lease program consolidated.”
 
-If he had preserved his own logs, they might have proof.
+“Archived records?”
 
-Marcus freed the first bolt.
+“Almost certainly.”
 
-The second broke at the head.
+“So it buys time.”
 
-The third came loose more easily.
+“That’s all it ever did.”
 
-The fourth turned halfway, then jammed.
+The headlights behind them appeared at the far intersection.
 
-A vehicle moved across the service road above them.
+Their light turned green.
 
-Julie killed the flashlight.
+Julie went left.
 
-White illumination swept through the drainage opening behind them, reflecting along the water. An engine idled for several seconds.
+The road narrowed between data-center compounds and unfinished office buildings. Ahead, three white contractor vans pulled out of a fenced construction site together, followed by a flatbed carrying cable spools.
 
-Marcus remained motionless beside the grate.
+Marcus pointed. “Stay behind the flatbed.”
 
-The vehicle continued.
+Julie let the early-shift traffic gather around them until PCF-27 became one white work van among several.
 
-Julie waited until the sound faded.
+“Placard,” she said.
 
-“Security patrol?” he whispered.
+Elias set the transponder beside the aluminum case. He reached for the windshield with his left hand, missed the edge of the temporary Apex pass, and tried again. The adhesive resisted. The placard tore diagonally, leaving a clear corner stuck to the glass.
 
-“Could be facilities.”
+“Good enough?”
 
-“Comforting.”
+“No.”
 
-He returned to the bolt.
+Marcus leaned across the console. The movement stopped his breathing for a second. He caught the remaining corner, peeled it free, and dropped both pieces beneath the seat.
 
-Julie checked her mechanical watch.
+“Now it’s a known van without an Apex placard,” he said.
 
-04:38.
+The radio crackled.
 
-Twenty-two minutes.
+“All county units, lookout request expanding from private security incident. Vehicle last observed departing south service perimeter. Do not approach without coordination. Classified material may be present.”
 
-Marcus pulled harder.
+No sirens followed.
 
-The bolt tore free from the concrete.
+That made the response more dangerous. Patrol cars, traffic systems, and ordinary people could begin looking without warning them that the search had reached the next road.
 
-He gripped the grate and pushed.
+The flatbed turned toward the parkway. Marcus directed Julie onto a service road beneath the transmission lines, behind a water-pumping station and a row of warehouse units whose loading docks faced away from the main road.
 
-The frame shifted several inches, scraping against the culvert wall. Together they forced it aside far enough to pass.
+“Camera coverage?” Julie asked.
 
-Beyond it, the drainage tunnel climbed toward a maintenance chamber.
+“Private. Uneven. I haven’t been here in years.”
 
-Julie followed Marcus through.
-
-At the top, a steel hatch blocked their path. Its underside was marked:
-
-APEX FACILITIES
-STORMWATER PUMP ACCESS
-AUTHORIZED PERSONNEL ONLY
-
-Marcus examined the mechanical latch.
-
-“No electronic contact.”
-
-“That you can see.”
-
-“You’re welcome to go first.”
-
-He pressed his ear against the hatch.
-
-Nothing.
-
-Marcus turned the latch slowly.
-
-The hatch opened into a dark concrete room filled with pipes, electrical cabinets, and the steady vibration of industrial pumps.
-
-They climbed through and closed it behind them.
-
-Julie removed her wet jacket. Beneath it, she wore gray maintenance coveralls purchased for cash from an industrial-supply store. The name patch above the breast pocket read RANDALL.
-
-Marcus’s said STEVE.
-
-He looked down at it.
-
-“Steve?”
-
-“It was that or Kyle.”
-
-“I don’t look like a Steve.”
-
-“You don’t look like an HVAC technician either.”
-
-They pulled on hard hats and removed two battered clipboards from the tool bag.
-
-The disguise would not survive inspection.
-
-It did not need to.
-
-Most people saw clothing before faces. Inside a mechanical space, confidence could buy several seconds.
-
-Julie opened the outer maintenance cabinet.
-
-A small monochrome display showed pump pressure, water levels, and active building faults.
-
-She scrolled.
-
-CHILLER 3 PRESSURE VARIANCE
-COMPRESSOR 04 DIAGNOSTIC FAILURE
-FAULT CODE: 0088
-
-Julie stopped.
-
-The fault repeated three times.
-
-88.
-
-89.
-
-90.
-
-A location string followed.
-
-COMP-04 / CORE-01.
-
-Marcus saw her expression.
-
-“What?”
-
-“That isn’t a normal fault sequence.”
-
-“You know normal chiller codes now?”
-
-“I know messages.”
-
-She wrote the sequence on the clipboard.
-
-“Eighty-eight is the payload number. Comp Four could mean Compliance Room Four. Core One is the production enclave.”
-
-“Elias sent it?”
-
-“Or Vance wants us to think he did.”
-
-“You think Vance knows we’re in the pump room?”
-
-“Not yet.”
-
-The display refreshed.
-
-0088 / COMP-04 / CORE-01.
-
-Marcus looked toward the interior door.
-
-“That’s deliberate.”
+“So assume all of it.”
 
 “Yes.”
 
-“So he’s alive.”
+The Apex vehicle did not appear at the turn. Julie did not treat the empty mirror as success. The driver could have stayed on the parkway, moved ahead, or lost them in the contractor traffic and begun feeding the plate to systems they could not see.
 
-“He was when he sent it.”
+Marcus gave directions in short pieces. Right at the dead warehouse sign. Left beyond the electrical substation. Straight through a light-industrial park where the streetlights still burned against the wet dark.
 
-The maintenance display showed the affected device’s network path.
+At 05:31, a local news bulletin interrupted the fire traffic.
 
-BUILDING 3
-SUBLEVEL 1
-COMPLIANCE ZONE
-ROOM 04
+Apex Building Three had experienced what the announcer called a verified fire and a classified security event. One former Army officer and two male associates were being sought. The public was instructed not to interfere. Julie’s age and description came before her name.
 
-Julie copied the route.
+Elias listened until the announcer repeated that he might be held against his will.
 
-The interior door opened onto a service corridor running beneath the campus. The air smelled of concrete, lubricant, and treated water. Fluorescent fixtures hummed overhead.
+“Turn it off.”
 
-No alarm sounded.
+Marcus’s hand moved toward the control, then stopped. “We need it.”
 
-No security officers appeared.
+“They’re talking about me.”
 
-They moved quickly.
+“They’re also telling us what response is forming.”
 
-The service corridor passed beneath the parking structure and entered Building Three through the environmental plant. Massive chiller units occupied the room, their compressors producing a low vibration Julie felt in her teeth.
+Elias looked at Julie’s profile. “You don’t care what they call me as long as the radio is useful.”
 
-Marcus checked each intersection before they crossed.
+Julie kept her eyes on the road. “I care. I also need to know where the roadblocks will be.”
 
-Julie watched the maintenance panels.
+“There aren’t any yet.”
 
-The building had not returned to normal after the earlier fire evacuation. Multiple doors remained in manual inspection mode. Fire-zone alerts and equipment resets cluttered the system. County officials had forced Apex to leave portions of the life-safety network open until the inspection report was complete.
+“Not yet.”
 
-The previous day’s escape had created the weakness that allowed them back inside.
+The service road ended at a broad commercial street. Julie waited behind a sanitation truck while cross traffic moved through the intersection. A marked county cruiser passed two lanes away without lights or siren.
 
-They reached an inner security door.
+No one in the van moved.
 
-Marcus pressed the crash bar.
+The cruiser continued north.
 
-Locked.
+Marcus watched it disappear. “Could have read us. Could have been looking somewhere else.”
 
-A badge reader glowed beside the frame.
+“Useful distinction,” Elias said.
 
-“This wasn’t on the maintenance map,” he said.
+“It will be in five minutes.”
 
-Julie examined the door.
+Julie followed the sanitation truck through the light, then turned into an older industrial row with low brick fronts and steel service bays facing an alley. Marcus pointed toward a narrow driveway between two buildings.
 
-A small sign identified it as the boundary between the mechanical plant and the secure technical area.
+“Second bay from the end.”
 
-A camera watched from above.
+The door was a corrugated roll-up panel painted the same gray as the wall. No government marking remained. A small lockbox sat behind a rain hood beside the frame.
 
-“We’re recorded,” Marcus said.
+Julie stopped short of the driveway. “Can you open it?”
 
-“We were recorded when we entered the pump room.”
+“If the code hasn’t changed.”
 
-“No camera there.”
+“And if it has?”
 
-“There was a vibration sensor beneath the hatch.”
+“We keep moving.”
 
-“You didn’t mention that.”
+The radio repeated the registration.
 
-“We needed to come through anyway.”
+Julie turned in.
 
-Marcus looked up at the camera.
+Marcus got out slowly. His right leg nearly folded when the damaged heel touched pavement. He caught the mirror housing, waited, then limped to the lockbox. Rain darkened the blood already dried into his collar.
 
-“So the disguise is pointless.”
+He entered five numbers.
 
-“It got us this far without someone calling for a tactical response.”
+Nothing happened.
 
-He tested the door again.
+Julie watched the alley entrance in the mirror.
 
-“Can you open it?”
+Marcus cleared the keypad and entered six.
 
-“Not from this side.”
+The lockbox opened.
 
-Footsteps sounded beyond the steel panel.
+Inside hung a brass key attached to an unlabeled steel tag. He unlocked the pedestrian door beside the bay, disappeared inside, and returned pulling a manual chain. The roll-up door rose with a dry rattle loud enough to carry down the block.
 
-Julie and Marcus moved behind one of the chillers.
+Julie drove the van into darkness.
 
-The door unlocked.
+Marcus lowered the door by hand.
 
-A facilities technician entered, pushing a wheeled diagnostic cart. He wore hearing protection and stared at the tablet mounted to the cart, following the compressor fault Elias had generated.
+The final strip of pre-dawn light disappeared across the concrete floor.
 
-The door began closing behind him.
+PCF-27 was out of public view.
 
-Marcus caught it with his boot.
+Its known plate, warm engine, tire tracks, and route into Fairfax County still existed.
 
-The technician looked up.
+Decommissioned Communications Cutout
+ Fairfax County, Virginia
+ 05:42 Eastern Daylight Time
 
-“Hey.”
+The cutout smelled of dust, cold metal, and insulation that had absorbed ten years of summer heat.
 
-Julie held up her clipboard.
+The garage held an empty equipment rack, a stack of acoustic panels, and a workbench scarred by soldering irons. A narrow door led into the main room. Marcus found the breaker panel by touch and brought up two rows of fluorescent lights. One flickered without settling. The other cast a weak blue-white strip over obsolete radio consoles and cabinets with their inventory labels scraped away.
 
-“Stormwater pressure fault. County follow-up.”
+A battery-backed clock showed 05:42:19.
 
-“What follow-up?”
+Julie carried the aluminum case through first.
 
-“The one Apex reported after the alarm.”
+The main room was smaller than the motel room where she and Marcus had inspected the original partial capture, though this one had been built for equipment rather than sleep. Old acoustic tile covered one wall. A disconnected regional map hung opposite it beneath dust. An analog scanner occupied the top of a rack beside a secure telephone with its handset wrapped in yellow decommissioning tape.
 
-“No one told me—”
+A kitchenette opened off the rear wall. Beyond it were a washroom and a narrow observation room with opaque glass facing the alley. A steel fire door offered a second exterior exit.
 
-Marcus gripped the edge of the technician’s cart and pulled it across the doorway before the door could lock.
+Marcus pointed from the garage threshold. “Workstation is in the observation room. Medical cabinet under the sink. Storage cabinet beside the rack.”
 
-“We’re already behind schedule,” he said with the weary irritation of a man who had spent the day dealing with facilities failures. “You want to call your supervisor, call him. We need the cross-feed reading first.”
+Julie set the case on the equipment table and reached for the latches.
 
-The technician looked from Marcus to Julie.
+Behind her, Marcus struck the door frame with one shoulder.
 
-Then to their soaked coveralls.
+The sound was soft. The collapse was not.
 
-“You came through the stormwater room?”
+His right leg gave way. He caught the jamb, but the movement pulled across his ribs. He lowered himself too quickly and ended sitting on the concrete with one hand pressed beneath his left arm.
 
-“Do we look dry?”
+Julie left the case closed.
 
-He considered that.
+She crossed to him and crouched.
 
-“Who signed you in?”
+“Look at me.”
 
-Julie pointed back toward the pump room.
+“I know who you are.”
 
-“The county inspector who is currently documenting the ventilation shutdown on your occupied fourth floor.”
+“That wasn’t the test.”
 
-The technician’s suspicion turned into dread.
+She switched on a flashlight from the first-aid cabinet. One pupil constricted, then the other. Equal. He tracked the beam without losing it.
 
-He did not want the inspector’s name.
+“Name.”
 
-He did not want another problem.
+“Marcus Reed.”
 
-“Stay in the mechanical zones,” he said. “Your badges won’t open anything else.”
+“Location.”
 
-“We know.”
+“An abandoned room you’re going to complain about later.”
 
-He pushed the diagnostic cart toward Chiller Three.
+“Date.”
 
-Marcus held the door.
+He gave it correctly.
 
-Julie slipped through.
+“Nausea?”
 
-The moment the door closed behind them, the badge reader flashed amber.
+“No.”
 
-TAILGATE EVENT RECORDED.
+“Double vision?”
 
-A camera rotated toward their faces.
+“No.”
 
-Their few borrowed seconds began running out.
+“Loss of consciousness?”
 
-Building Three
-Sublevel One
-04:44 Eastern Daylight Time
+“Not that I noticed.”
 
-The secure service corridor was narrower than Julie remembered.
+“That answer is useless.”
 
-No windows. No offices. Only white walls, gray doors, and numbered intersections connecting the environmental systems to the rooms above.
+“It’s still no.”
 
-Marcus led them toward Compliance Zone Four.
+The scalp cut above his right ear was short but dirty, the skin separated where the helmet rim had caught him at the gate. Blood had matted the hair around it. Julie felt no soft depression beneath her fingers, but she did not pretend that cleared him.
 
-At the first junction, a wall terminal activated.
+The cabinet contained sealed gauze, antiseptic, elastic wraps, two chemical cold packs, adhesive tape, and trauma shears with rust beginning at the hinge. The expiration dates ranged from three years old to eight.
 
-IDENTITY VERIFICATION REQUIRED.
+“Elias. Water.”
 
-Julie kept walking.
+He stood too fast. The room shifted under him, and he caught the table with his left hand.
 
-The terminal chimed again.
+Julie looked over. “Sit down.”
 
-UNIDENTIFIED PERSONNEL DETECTED.
+“I can get water.”
+
+“You can get it after the floor stops moving.”
+
+“I’m not—”
+
+“You just missed the chair.”
+
+Elias looked behind him. The chair was a foot from where he had expected it to be.
+
+He sat.
+
+Julie cleaned Marcus’s scalp wound and held pressure until the bleeding slowed. She covered it with gauze and tape that pulled at his hair. Bruising had spread along his side beneath the coveralls. He could draw a shallow breath. A deeper one stopped midway.
+
+“No binding,” she said.
+
+Marcus looked at the elastic wrap in her hand. “Wasn’t asking.”
+
+“Tight wrapping can make breathing worse. You keep taking full breaths when you can, and tell me if the pain changes, if you cough blood, or if you get short of breath sitting still.”
+
+“We’re all short of breath.”
+
+“Different problem.”
+
+His right thigh had begun swelling where the baton and electroshock weapon body had struck him. Julie cut the wet fabric along the outer seam. The skin beneath was darkening but intact. She activated a cold pack, wrapped it in a towel, and secured it with light compression.
+
+The boot had split almost to the arch. She cut away the loose rubber at the heel and reinforced what remained with cloth tape from the workbench. It would keep the sole from folding under him for a few careful steps. It would not make the leg reliable.
+
+When she finished, Marcus remained seated against the cabinet, breathing as though each inhale required permission.
+
+“The case,” he said.
+
+“Stays closed for five more minutes.”
+
+His eyes moved to her right hand. “Your turn.”
+
+Julie tried to flex the wrist. Pain gathered at the base of her thumb and deepened when she attempted to close her fingers.
+
+There was no proper splint. Marcus found a flat strip of rigid plastic in a cable-label drawer. Elias held it beneath Julie’s palm while she wrapped the wrist in a neutral position. His cut index finger could not keep tension on the elastic, so he used his left hand and his teeth.
+
+The support reduced movement. It also made her right hand nearly useless for grip.
+
+Julie irrigated Elias’s finger, checked that he could still feel the fingertip, and covered the cut with a narrow dressing. His hip showed no deformity, but weight bearing brought sharp pain along the outside of the joint. Cold exposure had left his hands pale and slow. He remained dizzy when he turned his head too quickly.
+
+She gave him a wool blanket, water from an intact bottle, and one of three ration bars Marcus found in a cabinet. The dates were old. No one cared.
+
+The analog scanner came alive when Marcus connected it to the battery bus.
+
+Static filled the room, then a county dispatch channel.
+
+“Updated subject information. Elias M. Thorne, Apex Defense Systems employee, may be a hostage or acting under coercion. Do not assume voluntary participation.”
+
+Elias stopped unwrapping the ration bar.
+
+For a moment, relief moved across his face.
+
+Then it hardened into anger.
+
+“They made every choice disappear.”
+
+Julie sat across from him, her wrapped wrist resting against her body. “The local record didn’t.”
+
+“The local record can put me in prison.”
+
+“Yes.”
+
+He looked at her sharply.
+
+Julie did not soften the answer. “It also proves your emergency use was voluntary and separate from the deployment they put in your name.”
+
+“They can call one sabotage and the other sabotage.”
+
+“They can try.”
+
+“You came back into Building Three without an escape plan.”
+
+Marcus shifted against the cabinet. “Elias.”
+
+“No.” Elias kept his eyes on Julie. “She came for me. She told me Vance had already used my name. She put me in front of the gate and said the choice was mine.”
+
+“It was,” Julie said.
+
+“There was no safe choice.”
+
+“No.”
+
+“You knew that.”
+
+“Yes.”
+
+His voice rose only slightly. The fear beneath it did the rest. “Then stop talking as if I chose from a list. I chose between helping you and being buried alone by the same people.”
+
+Julie let the accusation remain where he had put it.
+
+“I did not have a clean exit,” she said. “I told you that.”
+
+“You had none.”
+
+“I had the building and the fire system. I did not know they would be enough.”
+
+“And if they weren’t?”
+
+“We would have died inside.”
+
+Marcus closed his eyes for a moment.
+
+Elias looked away first.
+
+The scanner repeated Julie’s description, the van, and the aluminum case.
+
+“I pressed confirm,” Elias said.
+
+Julie waited.
+
+“I opened the gate. I restored the labels. I pulled the recorder. No one made my hand do any of it.” He looked down at the bandage on his finger. “That doesn’t make it feel like a choice.”
+
+“No,” Julie said. “It makes it yours.”
+
+He absorbed that without forgiving her.
+
+Julie leaned forward.
+
+“I can’t promise safety. I can’t promise immunity. I can’t promise an honest investigator reaches us before the official version does.” Her wrist pressed against the rigid strip when she moved, and pain reminded her how little control she had left. “I am responsible for getting you through what comes next. Both of you.”
+
+Marcus opened his eyes.
+
+Elias studied her as if responsibility were another claim that required proof.
+
+“Start with the evidence,” he said.
+
+Julie stood carefully.
+
+This time, she did not leave either man behind when she crossed to the case.
+
+The observation room had once been used to examine seized radios and removable media before the results entered a government network.
+
+Its forensic workstation was old enough to have a physical key switch. The tower sat beneath a steel desk beside a hardware write blocker, a certificate reader, and an evidence imager with a monochrome display. Dust covered every horizontal surface except the chair Marcus had pulled out.
+
+Julie did not power anything on until they checked the room.
+
+Marcus tested the fire exit and alley window, then wedged the door with a metal chair. He found no alarm contacts newer than the cutout itself. That did not mean the surrounding building lacked cameras or that the dormant lease could not be traced.
+
+Elias removed the workstation’s side panel and confirmed there was no wireless adapter. The Ethernet port ended in a cable cut six inches beyond the chassis. A second line ran to an obsolete microwave interface; he unscrewed the coaxial connector and set it on the table.
+
+“No active network path I can see,” he said.
+
+Julie wrote the qualification down.
+
+She found a bound paper log in the storage cabinet and opened it to the first unused page. The last entry was nine years old.
+
+At the top she wrote the location, the wall-clock time, and the names of all three people present.
+
+05:55:08 EASTERN DAYLIGHT TIME.
+
+She recorded the cutout as a decommissioned technical-surveillance support site known to Marcus Reed, its ownership and maintenance status unverified. She recorded the workstation’s faded asset serial, the absence of visible network interfaces, and the fact that none of its calibration or software status could be independently confirmed.
+
+Marcus watched from the doorway. “You’re documenting why their lawyers shouldn’t trust our equipment.”
+
+“I’m documenting why an investigator should know its limits.”
+
+She turned to the aluminum case.
 

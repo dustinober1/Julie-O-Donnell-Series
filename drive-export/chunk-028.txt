@@ -1,247 +1,646 @@
-Marcus’s gaze moved to the shield, the weapons behind it, and the five-foot corridor that denied them room to pass one another. Then he looked at the recessed fire cabinet beside the armored gate frame.
+Their own eyes had lost the vehicle.
 
-Julie saw the same red pictogram beneath its clear cover.
+The external record had not necessarily lost it.
 
-CO2. Approved for energized equipment.
+“Recoverable observation continues through two independent cameras,” she said.
 
-It could not defeat the team. It could give them a few seconds of cold white blindness in a corridor where Chen’s people could not fire without seeing the gate hardware.
+“Assuming they preserve it,” Marcus replied.
 
-“Marcus,” she said. “Left cabinet.”
+“Record the assumption.”
 
-He nodded once.
+He did.
 
-The token window lit.
+The service truck reversed into a loading position. Its rear cleared the holding lane at 07:33:29.
 
-A new six-digit number appeared.
+The SUV remained where it had been.
 
-Elias began entering it.
+No one had entered the checkpoint.
 
-He struck each key with exaggerated care.
+Julie exhaled once.
 
-Three.
+“Direct visual restored.”
 
-One.
+Elias marked it.
 
-Seven.
+Below them, a siren entered the garage and stopped.
 
-Mercer’s shield moved again.
+Marcus turned the service radio higher.
 
-Marcus opened the fire cabinet. The clear cover swung wide without an alarm. He pulled the extinguisher free with both hands, and the weight brought a sharp contraction across his bruised ribs. He stopped for half a second, forehead against the cylinder, then straightened with it braced against his thigh.
+“Unit Three at commercial garage west. Suspect plate confirmed. Establishing east vehicle exit. Additional units approach west. Garage management reports upper-level access open.”
 
-Nine.
+“They found the garage,” Elias said.
 
-Four.
+“We expected them to.”
 
-The electroshock operator shifted toward the shield’s right edge.
+“You did not tell me how much expectation was supposed to help.”
 
-Julie pointed. “Right side.”
+“It keeps surprise from making the decision.”
 
-Marcus saw the movement and repositioned behind the inside corner of the gate frame, leaving only his left arm and the extinguisher horn exposed.
+Julie checked the time.
 
-Two.
+07:34:02.
 
-Elias pressed ENTER.
+Eight minutes and twenty-eight seconds to the hard abort.
 
-PIN ACCEPTED
- LIVE-FINGER CONFIRMATION REQUIRED
+A Metropolitan Police cruiser appeared on the east spiral two levels below. Its lights remained off. The driver moved slowly among civilian vehicles.
 
-A glass pad extended from the panel.
+No tactical rush.
 
-Elias looked at his right hand. Condensation shone across his fingers. A shallow cut near the base of his index finger had opened again.
+No gunfire.
 
-“Use the other one,” Julie said.
+An honest search becoming physically real.
 
-“The key is bound to my right index.”
+Marcus closed the custody log and placed it inside the waterproof folder.
 
-Mercer gave the signal to advance.
+“East route is closing.”
 
-Marcus pulled the extinguisher pin and squeezed the handles.
+“West?”
 
-White vapor struck the front of the shield and rolled back through the corridor. The weapon lights became solid walls of glare. The shield operator stopped instead of walking blind into the gate approach. Mercer called a hold. No one fired.
+He looked through the rear of the van toward the descending ramp. “Open. Delivery traffic still moving.”
 
-The extinguisher’s discharge filled the narrow space with a dense, freezing cloud. Marcus swept it low, forcing the team to keep its footing while the carbon dioxide boiled across the floor.
+“Pedestrian stairs?”
 
-“Now,” Julie said.
+“Unknown.”
 
-Elias pressed his finger to the glass.
+“Then they do not count.”
 
-The panel displayed a gray outline of his print, then a red warning.
+The SUV at Hartwell moved forward ten yards and stopped again beneath the outer edge of the covered checkpoint.
 
-LIVENESS INDETERMINATE
- SURFACE TEMPERATURE BELOW THRESHOLD
- MAINTAIN CONTACT
+Two uniformed security officers approached it.
 
-“It checks capillary response,” Elias said. “Temperature, blood flow, pressure variation. It won’t take a dead print or a cold one.”
+One opened the front passenger door.
 
-“Keep it there.”
+A man in a dark suit stepped out carrying nothing visible.
 
-“My finger is numb.”
+The rear door opened on the far side, hidden from Julie by the vehicle.
 
-“Then make it not numb.”
+A second person appeared beyond the roofline. Dark coat. Medium height. Hands below the window line.
 
-He rubbed his hand against his shirt, struck his fingertips into his palm, and tried again. His injured hip pressed against the wall to keep his weight off the left leg. The extinguisher hissed behind Julie. Its pressure began to fall.
+The first officer moved between Julie and the passenger.
 
-The scan outline built from the center outward.
+Then three people walked together toward the covered position.
 
-Mercer’s voice came through the cloud. “Reed, put down the cylinder.”
+Julie could not see whether any carried a device.
 
-Marcus kept discharging.
+She could see that the vehicle had delivered a staff group into a route separate from the principal motorcade.
 
-The team changed tactics. The shield descended until its lower edge nearly touched the floor, then advanced through the vapor by inches. One operator used the wall as a guide. Another called distances over the closed circuit in clipped numbers.
+“Marker,” she said.
 
-They did not need to see Marcus. They knew where the gate was.
+Elias pressed.
 
-The biometric outline reached Elias’s first knuckle and stopped.
+HANDLING EVENT 004  
+DEVICE TIME: 07:35:18.771  
+OPERATOR INPUT: MANUAL
 
-APPLY STEADY PRESSURE
+Marcus wrote the visible facts and nothing more.
 
-His finger shifted.
+The black sedan reappeared at the western curb. Two people exited there and entered an office building unrelated to Hartwell.
 
-The image broke apart.
+The split became more meaningful.
 
-“Don’t move,” Julie said.
+One vehicle had delivered ordinary staff west.
 
-“I’m trying.”
+The motorcade support SUV had remained at the eastern controlled approach.
 
-“Try without talking.”
+Still inference.
 
-He stared at the glass, shoulders rigid, and held the finger in place.
+Stronger than before.
 
-The extinguisher coughed.
+A garage elevator chimed behind them.
 
-Marcus released the handles. The last white vapor drifted around him. He set the cylinder lengthwise against the inside corner where the corridor turned into the gate approach. It would not stop the shield. It would make the first operator step around it instead of driving straight through.
+Julie turned.
 
-The panel chimed.
+A man wearing a maintenance jacket stepped onto the level carrying a ring of keys and a handheld radio. He saw PCF-27 first. Then Marcus in the passenger seat. Then Julie and Elias at the wall.
 
-LIVE BIOMETRIC CONFIRMED
- TOKEN PRIVATE KEY UNLOCKED
+His expression changed.
 
-The circuit board’s display changed from the rotating digits to a single line.
+“Vehicle trouble?” he asked.
 
-SIGNING LOCAL CHALLENGE
+“No,” Julie said.
 
-Elias exhaled through his teeth. “The private key never leaves the token. The panel sends a challenge. The secure element signs it only after the live match.”
+“Upper level is monthly parking.”
 
-Julie watched the white cloud thin. “How long?”
+“We have a ticket.”
 
-“It should already—”
+“That van has been on the police channel.”
 
-The display updated.
+His thumb moved on the radio.
 
-CHALLENGE RESPONSE VERIFIED
- EMERGENCY ACCESS RECORD PENDING
+Julie was ten feet from him.
 
-A final screen replaced it.
+She could take the radio with her left hand.
 
-ADMINISTRATOR: THORNE, ELIAS M.
- ROLE: ENCLAVE EMERGENCY ADMINISTRATOR
- ACTION: QUARANTINE GATE RELEASE
+Marcus could block the elevator door.
 
-CONTINUING WILL CREATE AN IMMUTABLE LOCAL AUDIT RECORD AND NOTIFY THE DESIGNATED SECURITY AUTHORITY.
+Elias could not run if the man shouted.
 
-CONFIRM / CANCEL
+The choices arrived cleanly.
 
-Elias did not move.
+Julie stepped away from him.
 
-The shield emerged from the vapor nine feet away.
+“We are leaving shortly,” she said.
 
-Apex Security Command Center
- 04:56 Eastern Daylight Time
+The man brought the radio toward his mouth.
 
-The enclave alarm reached Sarah Chen through a path the quarantine had been designed to preserve.
+“Security, sixth level. White Potomac van. I have—”
 
-A narrow amber box opened over the lower-tier schematic.
+Julie did not strike him.
 
-EMERGENCY ADMINISTRATOR AUTHENTICATION
- THORNE, ELIAS M.
- REAR QUARANTINE GATE
- CHALLENGE RESPONSE VERIFIED
- FINAL CONFIRMATION PENDING
+She did not close the distance.
 
-Sarah read it once.
+The report left.
 
-Arthur Vance read it over her shoulder.
+“Stay away from us,” she said. “We are not armed.”
 
-“Stop him.”
+He backed into the elevator and pressed the door control repeatedly. The doors closed.
 
-Sarah keyed the closed-circuit channel. “Containment One, authentication has reached final confirmation. Prevent completion. Recover the telemetry intact. Do not strike the local panel or gate actuators.”
+The civilian had seen three fugitives and done the correct thing.
 
-Mercer answered through background static. “Shield is inside nine feet. Subjects have discharged a clean-agent extinguisher. No visual on Reed.”
+The operation lost another minute because Julie refused to make him pay for it.
 
-“Less-lethal force authorized. Maintain ballistic hold unless you have an immediate threat to life.”
+Marcus looked at his watch.
 
-Vance leaned closer. “They are initiating active sabotage against a strategic production system.”
+07:36:11.
 
-“They are standing in front of the system you want protected.”
+“Police know the level.”
 
-“Then remove them from it.”
+“West route?”
 
-“The team is doing that.”
+“Still open.”
 
-On the schematic, the rear gate changed from white to pulsing amber. The command center could see the authentication state. It could not cancel it. Apex had built the enclave so a compromised corporate network could not override a local emergency administrator.
+“Then we continue.”
 
-Vance understood the same limitation.
+The staff group at Hartwell disappeared behind the first section of the covered checkpoint.
 
-“Authorize lethal force,” he said.
+Julie moved farther right along the garage wall. A narrow opening between office buildings gave her a second angle on the lane beyond the cover.
 
-Sarah kept the channel open. “No.”
+The group emerged.
 
-The word left no room for confusion.
+Four people now.
 
-Vance’s voice remained quiet. “Excuse me?”
+The two from the SUV.
 
-“A rifle round on that axis can enter the access panel, a locking actuator, or the independent control bus. If the gate faults between states, we lose containment and may corrupt the production environment.”
+One uniformed Hartwell officer.
 
-“Thorne is about to open it.”
+One person in a dark overcoat who had approached from inside the controlled lane.
 
-“I can see that.”
+A compact black case appeared between them.
 
-“Then the production environment is already at risk.”
+Julie could not tell who had carried it from the SUV.
 
-“Which is why I will not order a blind shot through suppressant vapor toward hardened machinery.”
+She could not tell whether the overcoat had brought it from inside.
 
-Vance looked at the dark camera wall. “You are allowing procedure to become cover for them.”
+For three seconds, the case was visible at waist height.
 
-Sarah watched the gate state.
+Then the group closed around it.
 
-“No. I am preventing your urgency from destroying the evidence you claim you want secured.”
+Elias looked at her.
 
-His eyes moved to her.
+“Portable signer?”
 
-There was no accusation in his expression. Only calculation.
+“Unknown object.”
 
-“Prevent them from crossing,” he said. “Recover the case. Subject preservation is subordinate to recovery.”
+“It is the right size.”
 
-The language was deliberate now.
+“So are a thousand secure document cases.”
 
-Sarah keyed the team channel again. “Containment One, coordinated push. Shield lead. Separate Reed from the gate frame. Take O’Donnell and Thorne alive. Telemetry has priority. No rounds into the enclave axis.”
+He pressed the marker at her nod.
 
-She had not repeated Vance’s last sentence.
+HANDLING EVENT 005  
+DEVICE TIME: 07:36:49.330  
+OPERATOR INPUT: MANUAL
 
-She had still sent the team forward.
+Marcus wrote:
 
-Production Enclave Approach
- 04:56 Eastern Daylight Time
+COMPACT BLACK CASE VISIBLE WITH STAFF GROUP. SOURCE AND CONTENT UNKNOWN.
 
-The CONFIRM field waited beneath Elias’s name.
+The words preserved what they knew and what they did not.
 
-Julie did not tell him to press it.
+The group moved to a second exterior holding point. The black case disappeared among bodies.
 
-Mercer’s shield cleared the last of the vapor. The operator behind its right edge brought the electroshock weapon up, keeping the cartridge pointed away from the panel until he had a line on Marcus.
+No one entered the final controlled door.
 
-“Elias,” Julie said.
+They were waiting for the window.
 
-His finger hovered over the screen.
+Or for something unrelated to it.
 
-“If I do this, the record can’t be expunged.”
+The police cruiser reached the fifth level.
+
+A second vehicle entered the garage below.
+
+Marcus started PCF-27.
+
+The engine’s vibration moved through the concrete and into Julie’s wrist even from twenty feet away.
+
+“What are you doing?” she asked.
+
+“Preparing the only useful movement I have left.”
+
+“You do not take the east spiral.”
 
 “I know.”
 
-“It can’t be explained as credential replay. The private-key signature includes the biometric release event.”
+“West ramp only. No pedestrians.”
 
 “I know.”
 
-“They can prosecute me from this screen.”
+His left foot rested near the pedals. His right leg remained extended away from them. He could move the van a short distance the way he had at Fenwick. He could not drive a sustained escape.
+
+The plan depended on Julie returning.
+
+The dependency was real. Marcus did not call it anything else.
+
+“Two minutes until they reach us,” he said. “Maybe less.”
+
+Julie looked at the time.
+
+07:38:07.
+
+Four minutes and twenty-three seconds to the abort threshold.
+
+The staff group remained at the second holding point.
+
+A uniformed officer took the black case—or appeared to. The group shifted at the same moment, and a concrete post divided Julie’s sightline. When they cleared it, the case was no longer visible.
+
+“Who has it?” Elias asked.
+
+“Unknown.”
+
+“Did the officer take it?”
+
+“Unknown.”
+
+“Did it go back to the SUV?”
+
+“The SUV has not moved.”
+
+“Then it is in the group.”
+
+“Probably.”
+
+Marcus heard them.
+
+“Write probably?”
+
+“No,” Julie said. “Write not visible after group shift.”
+
+He did.
+
+The module handling log accumulated times. The paper log accumulated observations. The municipal and private cameras might preserve the physical sequence. None of it proved the black case contained SSO-NS-004.
+
+But the support lane was no longer one possibility among every Hartwell entrance.
+
+It was the only observed route carrying a motorcade-linked staff group and a compact secured object toward a timed exterior hold.
+
+The objective had narrowed.
+
+Below them, a car door closed.
+
+A man called Julie’s name through the concrete level.
+
+Daniel Mercer.
+
+He did not shout an accusation.
+
+“Julie O’Donnell. Remain where you are. Keep your hands visible. Metropolitan Police and Apex protective services are entering the level. No one needs to be injured.”
+
+Marcus’s hand closed around the wheel.
+
+The movement tightened his face.
+
+Julie looked toward the internal aisle. Concrete columns concealed Mercer’s exact position.
+
+The garage maintenance worker had given them the level.
+
+The plate had given them the building.
+
+The cameras had done what cameras did.
+
+“Do not run,” Mercer called. “Do not move the van.”
+
+Julie looked at Elias.
+
+“Module.”
+
+“Sealed. Handling journal active.”
+
+“Board.”
+
+“With me.”
+
+“Can you reach the van?”
+
+He looked at the twenty feet between them. “Yes.”
+
+“That is not a speed question.”
 
 “Yes.”
+
+Julie looked at Marcus.
+
+“Case?”
+
+“Sealed. Cartridge and log with me.”
+
+“West route?”
+
+He checked the mirror.
+
+A box truck was descending the west ramp. Beyond it, no police vehicle had entered the upper turn.
+
+“Open now. One civilian vehicle between us and the street. It may remain viable ninety seconds.”
+
+“Can you move?”
+
+“Once.”
+
+The answer matched Chapter 11.
+
+Once could still be the useful one.
+
+The time changed to 07:40:22.
+
+Two minutes and eight seconds.
+
+Mercer spoke again.
+
+“Julie, Hartwell security is aware of your position. You will not enter the annex. Set down all electronic media and move away from the vehicle.”
+
+She had never intended to enter.
+
+That was the part he did not understand yet.
+
+A uniformed Metropolitan Police officer appeared at the far end of the level with both hands visible and his sidearm holstered. Mercer followed ten feet behind him. Two Apex operators remained farther back near the ramp. One carried a less-lethal launcher. No rifle was visible.
+
+The officer stopped behind a concrete column.
+
+“Ma’am, I need everyone to stay still.”
+
+Julie raised her left hand.
+
+Her right remained against her body inside the brace.
+
+“We have no firearm.”
+
+“Keep your hands where I can see them.”
+
+Elias lifted his left hand. His right continued to support the module against his abdomen.
+
+Mercer saw it.
+
+His attention fixed on the casing.
+
+“Elias, set the module on the ground.”
+
+“No.”
+
+“Your safety is the priority.”
+
+“My custody is the priority.”
+
+The police officer glanced toward Mercer.
+
+Two authorities sharing a space without sharing the same objective.
+
+Julie looked back toward Hartwell.
+
+The staff group had begun moving again.
+
+The challenge window was less than six minutes away.
+
+The police officer saw her turn.
+
+“Eyes on me, ma’am.”
+
+“I hear you.”
+
+“Then face me.”
+
+If Julie obeyed, she lost direct observation.
+
+If she refused, he had to decide whether movement toward a concrete wall constituted threat.
+
+She stepped sideways, not forward, keeping her left hand raised and the Hartwell lane inside her peripheral vision.
+
+The officer did not draw.
+
+Mercer’s voice hardened. “Julie, do not make proximity to the target the reason you break your own rule.”
+
+He knew the pattern.
+
+Chen had given him the abort time or Vance had reconstructed it from Fenwick and the Hartwell schedule.
+
+The words reached the wound Marcus had been pressing all morning.
+
+Julie looked at the dashboard clock through the van’s windshield.
+
+07:41:07.
+
+Eighty-three seconds.
+
+“Marcus,” she said. “Observation standard.”
+
+He answered without looking away from the west mirror.
+
+“Probable same motorcade support SUV continuously observed from seven-thirty-one-twenty-two except one documented twenty-one-second visual obstruction. Independent traffic and loading cameras cover the obstruction. Staff stream delivered to east controlled approach. Compact black case observed at seven-thirty-six-forty-nine. Contents and custodian unknown.”
+
+“Exfiltration.”
+
+“West ramp open. Box truck clearing. Police officer and Mercer on this level. East route closed. No one between van and west turn.”
+
+“Evidence.”
+
+“Primary case sealed. Latches closed. Display green when last checked. Recovery cartridge and custody log with me.”
+
+“Elias.”
+
+“Partition A sealed and unchanged. Partition B sealed with WSS controller seal. Board in my physical custody. Handling journal active.”
+
+The police officer listened.
+
+He did not understand every object.
+
+He understood procedure.
+
+“Ma’am,” he said, “whatever you are documenting can be preserved in custody. Do not move.”
+
+Julie believed he meant it.
+
+Lawful custody would secure the objects.
+
+It would end the observation before the physical event.
+
+Both facts could be true.
+
+The clock showed 07:41:44.
+
+Forty-six seconds.
+
+The staff stream paused beneath the final exterior screen.
+
+A dark privacy panel blocked the lower half of their bodies. Faces remained visible above it, but the group had turned toward one another. The black case did not reappear.
+
+Julie could not identify a hand.
+
+She had the route.
+
+She had the vehicle.
+
+She had the time.
+
+She had cameras outside every institution presently trying to control the record.
+
+She did not have the person.
+
+At Fenwick, one more second had become eight.
+
+Here, the absence of a name was the temptation.
+
+Marcus said, “Thirty.”
+
+Julie watched the conditions, not the desired conclusion.
+
+Observation: continuous or recoverable.
+
+Yes.
+
+Module and board: intact, in custody.
+
+Yes.
+
+Primary evidence: intact.
+
+Yes.
+
+Exfiltration: one viable route.
+
+For the moment.
+
+Civilian harm required: no.
+
+Honest officer harm required: no.
+
+The mission had not failed because the answer remained incomplete. The mission was to reach the event without inventing the answer.
+
+“Ten,” Marcus said.
+
+Mercer shifted one step closer.
+
+The police officer raised a hand to stop him.
+
+Institutional authority divided in real time.
+
+“Five.”
+
+Julie looked at the dashboard clock.
+
+07:42:30.
+
+“Conditions pass,” she said.
+
+Marcus released a breath he had not been taking fully.
+
+The rule had not moved.
+
+For the first time that morning, Julie had reached a hard line and made the decision the line required rather than the decision proximity demanded.
+
+“Continue observation,” she said. “No movement toward Hartwell.”
+
+The police officer heard the last sentence.
+
+Some of the tension left his shoulders.
+
+Mercer’s did not.
+
+“You are still under apprehension,” he said.
+
+“I know.”
+
+“Then set down the media.”
+
+“No.”
+
+The west ramp remained open.
+
+The staff group remained at the exterior screen.
+
+The operation continued by a margin measured in one route and a few minutes.
+
+At 07:43:02, the box truck cleared the west ramp.
+
+A Metropolitan Police cruiser crossed the street beyond the exit, slowed, then continued toward the opposite corner. The civilian gate kept releasing cars.
+
+Marcus looked through the mirror.
+
+“Route narrowing.”
+
+“Closed?”
+
+“No. West gate clear. Cruiser one block out. Civilian traffic between us and it.”
+
+The distinction bought seconds.
+
+Julie backed toward the van one step at a time while maintaining the eastern sightline. Elias moved with her. His hip failed on the second step. He struck the concrete barrier with one shoulder but kept the module against his chest.
+
+Julie reached for him with her right hand.
+
+The wrist refused.
+
+She caught his upper arm with her left and stabilized him without taking the module.
+
+The police officer moved instinctively to help, then stopped when Mercer said, “Hold.”
+
+Elias found his footing.
+
+“I have it.”
+
+Julie released him.
+
+They were ten feet from PCF-27 now.
+
+Close enough for exfiltration.
+
+Far enough to keep the eastern lane visible through the opening beyond the hood.
+
+A second uniformed Hartwell officer joined the staff group. The person in the dark overcoat moved to the rear. The man from the front passenger seat moved to the left. The fourth person stood between them.
+
+Any one of them could hold the signer.
+
+None of them visibly did.
+
+Elias pressed another event marker.
+
+HANDLING EVENT 006  
+DEVICE TIME: 07:43:31.882  
+OPERATOR INPUT: MANUAL
+
+The police officer said, “Sir, stop pressing controls.”
+
+“It is a handling-time marker,” Elias replied. “It does not transmit.”
+
+“You expect me to know that?”
+
+“No.”
+
+The honesty stopped the officer for half a second.
+
+Marcus opened the passenger door.
+
+“Julie.”
+
+The west exit was no longer anonymous.
+
+Police moved toward the gate, exposing the route while civilian cars still cleared one at a time.
+
+The lane remained fully open for PCF-27 to clear the garage and turn west.
+
+Operationally, it had become visible.
+
+“Still viable?” Julie asked.
+
+“West ramp and gate open. You can reach the wheel in five seconds. I can move the van far enough to clear this level if I have to.”
+
+The hard condition required a viable exfiltration route, not a promise that no one waited beyond it.
+
+The route still preserved the evidence and kept them outside Hartwell.
 

@@ -1,383 +1,501 @@
-A new data packet appeared.
+“It can also withdraw conclusions that happen to be right.”
 
-SOURCE INTEGRITY: VERIFIED
+“I know.”
+
+The clock reached 01:12.
+
+Julie removed the cable and seated one end in the case. Her right hand could not hold the collar steady. Marcus dragged himself closer, using the cabinet base and his good heel.
+
+“Give it here.”
+
+“You’re watching the gate.”
+
+“I can do two things badly.”
+
+He took the connector in one hand while Julie aligned the key with her left. Together they locked it into place. Marcus looped the cable beneath the case handle so a pull at the console would not tear it from the evidence drive.
+
+“Gate,” Julie said.
+
+He shifted back until he could see the amber strip. The movement tightened his face, but he made no sound.
+
+Julie plugged the other end into the protected receptacle.
+
+The console detected the case immediately.
+
+SEALED INCIDENT CAPTURE DETECTED
+ SESSION: REED-OVERSIGHT-117
+ NETWORK VERIFICATION: UNAVAILABLE
+
+MOUNT MODE
+ READ-ONLY / DUPLICATE / INGEST
+
+Julie selected READ-ONLY.
+
+VERIFYING INTEGRITY MANIFEST
+
+A gray wheel began to turn.
+
+For half a second, it was six years earlier again: another wheel, another gateway, another request waiting for permission while a weapon reached release criteria.
+
+Julie looked away from the animation and watched the numbers populate beneath it.
+
+FILES SEALED: 136
+ FILES INCOMPLETE: 47
+ FILES EXCLUDED DURING FINALIZATION: 311
+
+The wheel stopped.
+
+SEALED BLOCKS VERIFIED: 136 OF 136
+ ARCHIVE STATUS: PARTIAL
+ SOURCE RECONCILIATION PERMITTED WITH LIMITATIONS
+
+A warning opened below it.
+
+DISPUTED OPERATIONAL SOURCE REQUIRED
+ ASSOCIATED VALIDATION OBJECT REQUIRED
+
+The release clock showed 00:54.
+
+Forward Post Arjun
+ Kashmir
+ 14:29 Indian Standard Time
+
+Major Ananya Sharma stood behind the fire-direction console and listened to Northern Command ask for the same confirmation in a third form.
+
+“Status of local execution authority?” the duty officer said over the secure line.
+
+“Held by me,” Sharma replied.
+
+“The allied assessment remains validated.”
+
+“I can read it.”
+
+“The recommended counter-battery window closes at fourteen-thirty.”
+
+“I can read the clock too.”
+
+Lieutenant Sameer Qureshi kept his eyes on the firing board. Final coordinates for Sector Zebra-Nine were loaded in the planning channel. Ammunition had reached the gun positions. Crews waited beside prepared weapons for a command that had not come.
+
+No Indian sensor had confirmed the artillery formation shown on the screen.
+
+The storm had thinned since dawn, but the western approaches remained hidden beneath cloud. An acoustic array reported heavy-engine noise without a reliable bearing. Two forward relays carried encrypted bursts matching the American pattern because the American pattern had been built partly from those relays. The reconnaissance patrol sent toward Point Kestrel had not yet reached observation ground.
+
+Beside the written fire plan lay the photograph Qureshi had taken of the source-review warning that had appeared and vanished hours earlier. The American channel still claimed no such warning had existed.
+
+Preparation had moved men, ammunition, and machines into positions from which a mistake could travel faster than an explanation.
+
+The mission itself was conventional: artillery against predicted artillery positions across a contested border. Nothing on this mountain would remain local once the first shells landed.
+
+The duty officer spoke again.
+
+“Major, Northern Command directs immediate execution upon receipt of final American release.”
+
+“Send the written order.”
+
+“It is transmitting now.”
+
+The printer beside Qureshi began feeding a page.
+
+Sharma looked at the Argus display.
+
 CONFIDENCE: 99.8%
+ SOURCE INTEGRITY: VERIFIED
+ COUNTER-BATTERY SUPPORT: VALID
 
-Sharma watched the percentage.
+Below it, a smaller timer counted toward the American release.
 
-The closer it moved to certainty, the less she trusted the people demanding she obey it.
+00:00:52.
 
-“Prepare the patrol,” she said.
+Qureshi lowered his voice. “All batteries report ready.”
 
-Prince William Public Library
+“Fire-control data?”
 
-14:47 Eastern Daylight Time
+“Staged, not committed.”
 
-Julie sat in the Ford beneath a tree at the far edge of the parking lot.
+“Keep it that way until I order otherwise.”
 
-The ThinkPad rested on her knees. Its battery had fallen to forty-two percent.
+“Yes, ma’am.”
 
-She connected to the library’s guest network using a temporary hardware address and searched the county planning archive.
+The duty officer heard her. “Major Sharma, the risk of delay now rests with your command.”
 
-The Apex campus appeared under its former name: Dominion Applied Research Park.
+“It always did.”
 
-Most current structural records were sealed.
+She ended the call.
 
-The original civil-engineering plans were public.
+Outside the reinforced post, engines idled on the mountain. Men waited beside weapons that would do exactly what they were told.
 
-She downloaded:
+The screen offered certainty no human observer could support.
 
-Stormwater drainage.
-
-Utility easements.
-
-Emergency generator access.
-
-Fire-service connections.
-
-Mechanical intake routes.
-
-The environmental-plant footprint beneath Building Three.
-
-Marcus sat beside her, watching the lot.
-
-“Anything?”
-
-“The lower parking structure connects to a stormwater pump chamber.”
-
-“Inside the fence?”
-
-“Under it.”
-
-“Wide enough?”
-
-“The original culvert is forty-eight inches.”
-
-“Original?”
-
-“Apex renovated the campus after acquisition.”
-
-“So it could be sealed.”
-
-“Yes.”
-
-“What is the next option?”
-
-“Generator yard. Too exposed. Loading dock. Biometric access and cameras. Main fire entrance. Watched after this morning.”
-
-“The culvert.”
-
-“The culvert.”
-
-Julie sent the plans to the printer inside the library.
-
-Marcus looked at her.
-
-“You’re going in?”
-
-“Public printer.”
-
-“Cameras.”
-
-“Hat, glasses, and thirty seconds.”
-
-He reached for the door handle.
-
-“I’ll do it.”
-
-“You’re six foot three and currently listed as an Army colonel who fled a classified facility.”
-
-“You were the one on every camera inside Apex.”
-
-“Then we’re both memorable.”
-
-Marcus got out.
-
-He returned four minutes later carrying twenty-three pages and a county-government envelope. No one followed him.
-
-Julie powered down the ThinkPad.
-
-She removed the wireless card again and snapped it in half with the multitool.
-
-Marcus handed her the plans.
-
-“Happy?”
-
-“No.”
-
-“Good. I’d worry if you were.”
-
-They drove to a self-service car wash, parked behind the building, and spread the plans across the hood.
-
-The culvert entered the campus through a utility easement along the southern tree line. It passed beneath the security berm and ended at a pump-access chamber beside the environmental plant.
-
-From there, a service corridor reached the interior mechanical spaces.
-
-The plans did not show the newer secure divisions.
-
-They did show where the old building stopped and Apex’s classified renovations began.
-
-Julie marked the route.
-
-“Once we cross here, the plans become guesses.”
-
-Marcus studied the distance.
-
-“Half a mile on foot from the nearest place we can leave the truck.”
-
-“In the rain.”
-
-“Storm’s moving in.”
-
-“Good.”
-
-“Lightning won’t disable cameras.”
-
-“No. It will reduce visibility and give facilities more alarms than personnel.”
-
-Marcus pointed to the pump chamber.
-
-“Mechanical lock?”
-
-“According to a twelve-year-old drawing.”
-
-“And if it’s electronic?”
-
-“We reconsider.”
-
-“At the fence?”
-
-“At the fence.”
-
-He looked toward the dark clouds gathering above Reston.
-
-“You really believe Elias will help us?”
-
-“I believe Vance needs him blamed.”
-
-“That wasn’t the question.”
-
-“No.”
-
-Julie folded the plans into the waterproof folder.
-
-“Belief is for later.”
+Sharma watched it anyway.
 
 Apex Building Three
+ Reston, Virginia
+ 04:59 Eastern Daylight Time
 
-Reston, Virginia
+Elias stared at the second slot inside the recovery panel.
 
-15:12 Eastern Daylight Time
+“My board has the author manifest and the part of the original package that finished copying. It also has my administrator certificate.”
 
-Elias waited until the ventilation fan started its next cycle.
+“Will the console separate them?” Julie asked.
 
-The fan ran for eighty-three seconds.
+“It was designed to. The secure element carries identity. The evidence partition carries the files I copied.”
 
-The camera above the door produced a faint electrical click each time its lens refocused. It did so whenever he stood or moved toward the wall.
+“Has it ever been used like this?”
 
-The thermostat was outside the camera’s direct angle.
+“Not by anyone being hunted through the building.”
 
-Elias rose slowly, crossed to it, and pressed the temperature-down control.
+Metal struck the gate again. A second sound followed it: a low hydraulic strain from inside the lock housings.
 
-The display changed from sixty-seven to sixty-six.
+The status strip advanced.
 
-No alarm.
+LOCAL OVERRIDE
+ STAGE 1 OF 4 COMPLETE
 
-He lowered it again.
+Marcus settled his back against the cabinet. “I’d prefer the part where this works before that says four.”
 
-Sixty-five.
+Elias inserted the circuit board into the narrow slot.
 
-The environmental-control bus registered the command.
+The console paused.
 
-The thermostat’s plastic faceplate flexed beneath his fingers.
+TOKEN CREDENTIAL: ACTIVE EMERGENCY SESSION
+ AUTHOR EVIDENCE PARTITION: READ-ONLY
 
-He worked one corner loose using the edge of the confession form Vance had left behind.
+AUTHOR MATERIAL DETECTED
+ THORNE, ELIAS M.
+ VALIDATION OBJECT: VAL-088
+ ARCHIVE REVISION: 8
+ CONTENT STATUS: PARTIAL
+ AUTHOR SIGNATURE: VALID
 
-The camera clicked.
+Then a red line appeared.
 
-Elias stepped back and pretended to read the document.
+SYNTHETIC-SOURCE LABEL MAP: PRESENT
+ OPERATIONAL OBJECT DERIVATION DETECTED
+ PAK_RELAY_17A_SOURCE_CORRECTION
 
-The lens settled.
+Elias closed his eyes for less than a second.
 
-He waited for the fan.
+“They didn’t just copy the package,” he said. “They built the source-correction object from it.”
 
-Then he returned to the thermostat and removed the faceplate.
+Julie brought the operational lineage onto the center screen.
 
-Four colored wires connected the unit to the wall.
+The chain opened from left to right.
 
-Power.
+PAK_RELAY_17A raw collection.
 
-Ground.
+SIGMA-NORMALIZE-4 reconstruction.
 
-Data.
+PAK_RELAY_17A_SOURCE_CORRECTION.
 
-Control.
+Argus threat-assessment model.
 
-The building-management system was not designed for messaging. It did record fault codes and maintenance requests. Those requests propagated to mechanical panels throughout Building Three.
+The validated source declaration at 99.8 percent.
 
-Elias pulled the thin memory circuit from behind his badge.
+The external counter-battery support product waiting at the far end.
 
-He used one exposed contact to bridge the thermostat’s data wire.
+The first three objects contained thousands of packet blocks. The console highlighted several possible ranges and asked her to select the disputed source boundary.
 
-The display flickered.
+Elias reached for the largest one.
 
-DIAGNOSTIC MODE.
+Julie stopped his hand.
 
-He smiled despite himself.
+“That suspends the whole relay.”
 
-Apex had built layers of encryption around its intelligence systems and left the environmental network protected by a service code printed inside the thermostat housing.
+“It’s the fastest defensible range.”
 
-Elias entered it.
+“It discards everything collected through it, including anything real.”
 
-The display showed the local node:
+“We have forty seconds.”
 
-B3-COMP-04.
+“Then don’t waste one asking me to erase evidence.”
 
-Compliance Room Four.
+She expanded the raw layer.
 
-He generated a compressor fault.
+The familiar emissions appeared as a repeating series of peaks spaced eleven-point-two seconds apart. Weather variation moved through the surrounding traffic in ragged bands. The target signal held its shape with the same impossible smoothness she had seen in Room 402B.
 
-Code 0088.
+Julie isolated the carrier structure.
 
-Payload 88.
+Seven small fluctuations repeated near the beginning of each synthetic packet. The same seven returned seventeen milliseconds later. Identical, every time.
 
-He repeated it.
+She dragged the comparison against the sealed blocks in the case.
 
-Then again.
+MATCHING STRUCTURE: VAL-088
 
-The maintenance system accepted all three.
+The console drew a boundary around the first packet carrying the repeated structure. It extended through the source-correction object and into the model-derived track set.
 
-He needed to tell anyone searching for him where to go next.
+Julie shortened the far edge.
 
-The production core occupied sublevel two.
+Elias looked at her. “Why?”
 
-CORE-01.
+“The correction object kept running after the synthetic bursts began. I want the observed packets beyond the last match preserved.”
 
-He added the location as a linked equipment reference.
+“That leaves contaminated reconstruction in the workspace.”
 
-The resulting fault message read:
+“It leaves it available for comparison. We invalidate what cannot survive the comparison. We do not make the rest disappear because it is inconvenient.”
 
-0088 / COMP-04 / CORE-01
+The clock reached 00:27.
 
-It was not elegant.
+Behind them, the gate bolts gave a deep answering knock.
 
-It was not secure.
+Marcus said, “Stage two.”
 
-It was the only path that did not ask Vance for permission.
+The console accepted Julie’s narrowed boundary.
 
-Elias transmitted it across the facilities bus.
+DISPUTED RANGE SELECTED
+ RAW OBSERVATIONS: PRESERVED
+ RECONSTRUCTED SIGNAL: CHALLENGED
+ VALIDATION-DERIVED ARTIFACTS: CHALLENGED
+ DOWNSTREAM CACHED CONCLUSIONS: INCLUDED
 
-Somewhere in Building Three, a maintenance panel would register the fault.
+Elias opened the recovery rules stored on his board. There were six, each signed months earlier for adversarial-validation cleanup. He selected one labeled RESTORE SOURCE LABELS AND RECOMPUTE DERIVATIONS.
 
-Perhaps no one would notice.
+“You wrote that?” Julie asked.
 
-Perhaps a technician would clear it.
+“My team did. I changed the comparison tolerance after Revision Eight because Argus kept treating partially labeled test data as a collection error.” His voice accelerated as he explained. “Deleting the package would leave the last validated conclusion in cache. This rule tells the system the source was never operationally admissible. Every conclusion depending on it has to establish itself again.”
 
-Perhaps Julie would never return.
+“Can it use the partial archive?”
 
-He replaced the thermostat cover.
+“Not as written.”
 
-The fan stopped.
+He opened one configuration field and changed the required archive state from COMPLETE to VERIFIED SELECTED BLOCKS. The console demanded a reason code. He chose INCIDENT CAPTURE INCOMPLETE — INTEGRITY MANIFEST VALID.
 
-The door remained closed.
+“That is the only change,” he said. “Everything else is the recovery routine we tested.”
 
-Elias returned to the steel table and sat before the camera could refocus.
+The system displayed his name beside it.
 
-The confession waited in front of him.
+RULE ADJUSTMENT AUTHOR: THORNE, ELIAS M.
+ AUDIT ATTACHMENT: IMMUTABLE EMERGENCY SESSION
 
-He turned it over.
+He saw the line and kept going.
 
-On the blank back, he wrote three words with the pen Vance had left behind:
+A new alert covered the lower third of the screen.
 
-THE DATA IS FICTION.
+VOLATILE INCIDENT BUFFER SANITIZATION REQUESTED
+ HARDENED SECURITY CHANNEL
+ EXECUTION IN 00:31
 
-Then he placed the paper face down.
+Marcus looked from the gate to the console. “Vance?”
 
-Reston, Virginia
+“He can request sanitization through the incident path,” Elias said. “He cannot see what we’re selecting. The enclave executes the request locally.”
 
-15:34 Eastern Daylight Time
+“What gets wiped?” Julie asked.
 
-Julie parked the Ford behind an abandoned office building on the southern edge of the Apex campus.
+“The volatile deployment chain first. The signed gate audit survives. The comparison evidence may not.”
 
-Rain had begun as a fine mist, darkening the pavement and softening the tree line.
+The external commit clock showed 00:18.
 
-They changed into the gray coveralls inside the truck.
+Julie selected PRESERVE DISPUTED CHAIN IN RECOVERY RECORD.
 
-Marcus fastened the patch marked STEVE above his pocket.
+The console required validation-author confirmation.
 
-“You did this deliberately.”
+Elias selected AUTHOR CONFIRMATION with his left hand. The active emergency session attached the live biometric and private-key signature already recorded at the gate. No second challenge appeared.
 
-“It was the only one in your size.”
+ORIGINAL SOURCE LABELS
 
-“There was a Randall.”
+SYNTHETIC SOURCE
+ SANDBOX EXECUTION ONLY
+ OPERATIONAL EXPORT PROHIBITED
 
-“I took Randall.”
+RESTORE ALL?
 
-“You look less like a Randall than I do.”
+His hand hovered.
 
-Julie folded the county plans into the waterproof case.
+He was still afraid. Julie could see it in the tremor at the base of his fingers and the way he leaned too much weight into the console to spare his injured hip. He knew every choice from this point forward would remain attached to his name after the building, the company, and everyone inside it had decided what story to tell.
 
-Marcus checked the tool bag.
+He selected RESTORE ALL.
 
-Ratchet set.
+The console built the final action.
 
-Pry bar.
+PROVENANCE RECONCILIATION WILL SUSPEND ACTIVE RELEASE PRODUCTS
+ DOWNSTREAM STRATEGIC ASSESSMENTS MAY BE WITHDRAWN
+ GENUINE SOURCE ACTIVITY WILL BE REEVALUATED
+ MANDATORY HUMAN REVIEW WILL BE REQUIRED
 
-Flashlights.
+AUTHOR CONFIRMATION: THORNE, ELIAS M.
+ ANALYTIC RANGE CONFIRMATION: REQUIRED
 
-Gloves.
+The external commit clock reached 00:11.
 
-Electrical tape.
+Elias looked at Julie.
 
-Wire cutters.
+“This is you.”
 
-Compact first-aid kit.
+The recovery console asked her to certify the range she had chosen.
 
-No firearms.
+The sanitization clock showed 00:22.
 
-A gun would change the meaning of every decision inside the facility. It would also give Apex the attack it was already preparing to describe.
+At the gate, metal struck metal in three rapid blows. The amber strip advanced.
 
-Marcus lifted the aluminum evidence case.
+LOCAL OVERRIDE
+ STAGE 2 OF 4 COMPLETE
+ HYDRAULIC ASSIST CONNECTED
 
-“You ready?”
+Marcus got one knee under him and used the cabinet handle to stand. His damaged boot rolled outward. He corrected by putting most of his weight on the other leg.
 
-“No.”
+“What are you doing?” Julie asked.
 
-He nodded.
+“Preparing to be in the way.”
 
-“Me neither.”
+“You won’t hold that gate.”
 
-Julie looked toward the northern sky.
+“No. But I can tell you when it stops being a gate.”
 
-Beyond the trees and office buildings, Apex’s glass towers reflected the approaching storm.
+The clock fell to nine.
 
-Two hours earlier, they had escaped with a partial copy of the truth.
+Julie read the final action one more time.
 
-Now they were returning for the man who could authenticate it.
+The selected boundary began with the first physically impossible carrier structure. It preserved the raw packets before and after it. It restored the labels Elias’s team had placed on Payload 88. It included every model assumption and cached targeting conclusion derived from the poisoned layer.
 
-The choice made no tactical sense.
+It did not certify that no enemy movement existed.
 
-It was the only choice that made moral sense.
+That was the point.
 
-Julie opened the truck door.
+Six years earlier, the command structure had concealed uncertainty until a weapon was already away. Now the possibility of a genuine threat was being used to preserve manufactured certainty.
 
-“We get Elias,” Marcus said. “We get the original logs. Then we leave.”
+Uncertainty could not authorize a weapon. A lie could not be allowed to do it in uncertainty’s name.
 
-“If there is time.”
+Julie put her left hand on the confirmation field.
 
-“Julie.”
+“Do it,” Marcus said.
 
-“If there is time, we reach the production root and suspend the source certification or the support release built from it.”
+She pressed EXECUTE.
 
-“That isn’t the mission.”
+The external clock showed 00:07.
 
-“The mission is to stop the poisoned assessment.”
+PROVENANCE RECONCILIATION ACTIVE
 
-“The mission is to come back alive.”
+The console divided the operational assessment into layers.
 
-“They may not be compatible.”
+RAW OBSERVATIONS.
 
-Marcus looked at her for a long moment.
+RECONSTRUCTED SIGNAL DATA.
 
-Six years ago, he would have told her to trust the chain of command.
+VALIDATION-DERIVED ARTIFACTS.
+
+MODEL ASSUMPTIONS.
+
+CACHED OPERATIONAL CONCLUSIONS.
+
+Each moved into a separate column. The raw observations remained white. Reconstructed packets carrying the eleven-point-two-second cadence changed to amber. Payload 88’s repeated carrier structure turned red as the restored labels attached to it.
+
+VAL-088
+ SYNTHETIC SOURCE
+ OPERATIONAL USE PROHIBITED
+
+The source-correction object resisted for less than a second, then its lineage opened beneath it.
+
+PAK_RELAY_17A_SOURCE_CORRECTION
+ DERIVED FROM RESTRICTED VALIDATION OBJECT
+ EXECUTIVE WAIVER: INSUFFICIENT FOR SOURCE RECLASSIFICATION
+
+The clock showed 00:04.
+
+The validated-source declaration flickered.
+
+SOURCE INTEGRITY: VERIFIED
+
+became
+
+SOURCE INTEGRITY: UNDER REVIEW
+
+The counter-battery product remained armed.
+
+“Why hasn’t it suspended?” Marcus asked.
+
+“The cached conclusion,” Elias said. “It has to walk the dependency chain.”
+
+Three seconds.
+
+The model assumptions began losing support. Vehicle tracks that had appeared independent collapsed onto identical geolocation curves. Thermal clusters separated into repeated copies of the same six signatures. Terrain compensation revealed two projected movements passing through rock.
+
+Two seconds.
+
+The 99.8 percent confidence value changed to 63.4.
+
+Then 21.7.
+
+Then a dash.
+
+One second.
+
+The external queue reached 00:00.
+
+For one terrible instant, nothing on the release display changed.
+
+Then the counter-battery support product turned gray.
+
+EXTERNAL COMMIT SUSPENDED
+ SOURCE PROVENANCE INVALID
+ MANDATORY HUMAN REVIEW
+
+The volatile sanitization clock continued.
+
+00:13.
+
+Elias selected SEAL RECOVERY RECORD.
+
+The system copied the disputed chain, restored label map, and reconciliation result into the enclave’s immutable incident log.
+
+RECOVERY RECORD SEALED
+ SANITIZATION EXCLUSION APPLIED
+
+The purge reached zero.
+
+Volatile workspace entries disappeared around the sealed record, leaving the evidence they had selected intact.
+
+Marcus lowered his head against the cabinet.
+
+“Tell me the package didn’t leave.”
+
+“The external release is suspended,” Julie said.
+
+“And the guns?”
+
+“Someone still has to decide.”
+
+Forward Post Arjun
+ Kashmir
+ 14:29 Indian Standard Time
+
+The first visible change was duplication.
+
+Major Sharma watched one red artillery track divide into two identical tracks occupying the same road six hundred meters apart. A thermal cluster at the edge of Sector Zebra-Nine separated into three groups, each carrying the same internal spacing and temperature sequence.
+
+The display tried to reconcile them.
+
+It could not.
+
+SOURCE INTEGRITY REVIEW ACTIVE
+
+“Ma’am,” Qureshi said.
+
+“I see it.”
+
+The written execution order lay beside his hand. The local firing clock showed ten seconds to the prepared salvo window.
+
+Argus’s confidence fell from 99.8 percent to 63.4.
+
+The movement model fractured. One projected battery crossed a ridge without slowing. Another occupied two coordinates at once. Uncertainty bands that had been absent from the original assessment returned around every track until the red symbols blurred across half the sector.
+
+Confidence fell again.
+
+21.7 percent.
+
+Then the number disappeared.
+
+SOURCE PROVENANCE: VALIDATION-DERIVED
+ SYNTHETIC COMPONENT DETECTED
+ COUNTER-BATTERY SUPPORT: INVALID
+
+The firing clock showed six seconds.
+
+Northern Command came onto the line.
+
+“Arjun, execute.”
+
+Sharma keyed the battery net.
+
+“All batteries, hold fire. Hold fire.”
+
+Qureshi relayed beside her.
 

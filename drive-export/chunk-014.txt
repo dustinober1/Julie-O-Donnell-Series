@@ -1,334 +1,472 @@
-“The synthetic package resembles the operational feed because it was built from realistic field patterns. The ninth checksum was a routine archive migration. APX-DIR-0019 is an automated deployment service used by dozens of administrators. Vance restricted us because we exceeded scope. The partition was erased because we attempted an unauthorized export. Your credentials were suspended because you helped me.”
+Julie kept her hands away from Elias and the panel. Six years earlier, men with more authority had demanded that she turn doubt into permission. She would not make the same demand now and call it courage.
 
-Marcus stared at her.
+“It has to be yours,” she said. “It also has to be now.”
 
-“You sound like their lawyer.”
+Elias looked at the gate, at the panel, and finally at the thin Apex badge hanging against his shirt.
 
-“I sound like the person who knows what they will say.”
+His fingers missed the clasp on the first attempt.
 
-“What does the truth look like to you?”
+He caught it on the second and pulled the badge free. The plastic casing had already been opened and pressed back together so many times that one edge no longer sat flush. He worked a thumbnail into the seam. His hands were wet from the ladder and cold enough to tremble against the plastic.
 
-“A chain they cannot break without contradicting themselves.”
+The casing separated.
 
-She opened the package-recovery documentation included in the index metadata.
+Inside lay the narrow circuit board he had carried through the lower tier. Copper contacts ran along one end. A dark secure-element package occupied the center beside a thumbnail-sized monochrome window. One corner bore a fresh scrape from the cooling gallery.
 
-VALIDATION OBJECT RECOVERY PROTOCOL
-SOURCE-PROVENANCE CHALLENGE AVAILABLE
-REQUIRED AUTHENTICATION:
+Elias turned the board over twice, checking it.
 
-VALIDATION AUTHOR BIOMETRIC
+“What?” Julie asked.
 
-DEPLOYMENT-AUTHORITY CERTIFICATE
+“If the secure element cracked when I fell, it won’t release anything.”
 
-LOCAL PRODUCTION-ROOT ACCESS
+“Can you tell?”
 
-Marcus read the list.
+“Only by asking it.”
 
-“Elias.”
+He moved to the wall panel. His left leg dragged slightly over the last step, and he caught himself against the armored frame when the injured hip failed to take his weight cleanly.
 
-“He can supply the author biometric.”
+The panel’s lower cover had no latch. Elias pressed two recessed points at once. A narrow slot opened beneath the display with the slow precision of a protected instrument.
 
-“If he’s involved.”
+He aligned the board.
 
-“If he deployed it himself, we need him. If he was framed, we need him more.”
+The copper edge struck the slot and slipped aside.
 
-“What does a source-provenance challenge do?”
+“Damn it.”
 
-Julie opened the next page.
+He tried again. The tremor in his hand worsened as a third white beam reached the bend and separated from the first two. The containment team was arranging itself below the shaft.
 
-“When the operational source matches an archived synthetic package, it restores the original labels and forces Argus to rerun the assessment without the validation data.”
+Julie set the aluminum case upright between her boots. She caught Elias’s wrist with her good hand, steadied it against the frame, then released him.
 
-“Would that stop the Indian warning?”
+“You put it in,” she said.
 
-She read farther.
+He swallowed and guided the contacts home.
 
-“Any downstream release product depending on the challenged source is suspended until human review.”
+The panel changed.
 
-Marcus checked his watch.
+HARDWARE CERTIFICATE DETECTED
+ THORNE, ELIAS M.
 
-“Source certification was at sixteen-thirty.”
+For one second, relief moved across his face.
 
-“According to the copied schedule.”
+Then the next lines appeared.
 
-“Two and a half hours.”
+EMPLOYEE STATUS: REVOKED
+ STANDARD ACCESS: DENIED
 
-“Less now.”
+The slot ejected the board half an inch.
 
-“What happens after source certification?”
+Elias stared at it.
 
-“The report leaves Apex’s controlled environment. India receives it as a validated American assessment. The executable support product remains on operational hold until zero-five-hundred. We may still invalidate the source before that commit, but the original warning will already be in their system.”
+“No,” he said. “That’s the corporate identity.”
 
-Marcus looked at the evidence drive.
+“Can you select another?” Julie asked.
 
-“We send this to Hackett now.”
+“I should be able to. The enclave role is offline. It isn’t supposed to inherit an employment revocation.”
 
-“From what?”
+“Supposed to?” Marcus said from the bend.
 
-“The motel phone.”
+Elias ignored him. He pushed the board back into the slot and held a contact on its upper edge. The tiny window came alive.
 
-“Unclassified line.”
+SELECT IDENTITY DOMAIN
 
-“We don’t send the files. We tell him where we are.”
+Two entries appeared.
 
-“And bring him here?”
+APEX EMPLOYEE
+ ENCLAVE EMERGENCY ADMINISTRATOR
 
-“Bring someone with federal authority.”
+Elias hesitated over the second.
 
-“Assuming he believes you.”
+Julie understood why. The first identity was the person Apex had hired and could fire. The second was authority designed to survive the company, the network, and any later claim that he had acted by mistake.
 
-“He knows me.”
+He selected it.
 
-“So did Hargrove.”
+The panel paused long enough for Julie to hear the controlled scrape of equipment at the corridor bend.
 
-Marcus flinched.
+ENCLAVE ROLE RECOGNIZED
+ LOCAL QUARANTINE AUTHORITY VALID
+ ROTATING PIN REQUIRED
 
-Julie regretted the comparison as soon as she made it.
+A six-digit field opened on the screen.
 
-She did not take it back.
+The board’s small display showed another six digits and a shrinking bar beneath them.
 
-Marcus walked to the telephone beside the bed.
+“Fourteen seconds,” Elias said.
 
-“I have to try.”
+“Enough?”
+
+“It would be if my hand worked.”
+
+He entered the first number. His fingertip struck the edge of the second key and registered the wrong digit.
+
+He cleared the field.
+
+The bar fell below halfway.
+
+A helmet appeared at the bend.
+
+White light flooded the corridor, hard and level. Marcus withdrew one step toward the gate frame. The team did not follow immediately. A compact shield entered first, matte black and narrow enough for the industrial passage. Behind it, Julie saw the taped wrist and dark uniform of Daniel Mercer. A compact rifle remained close to the shoulder of the operator behind him, muzzle held below the line of Elias and the control panel.
+
+Four people were visible. More remained in the shaft approach.
+
+They had arrived with eleven seconds left on Elias’s code.
+
+Mercer’s voice carried clearly through the corridor.
+
+“Thorne, remove your hands from the access panel. O’Donnell, place the aluminum case on the floor and step away from it. Reed, move to the left wall and keep your hands visible.”
+
+Elias’s finger stopped above the fourth digit.
+
+Julie watched the team’s geometry. Shield at the front. Mercer behind its right edge. A second operator over the left shoulder with an electroshock weapon held close to the body. Rifle coverage from the rear, controlled so no muzzle crossed the gate hardware. They had left the bend open behind them for another pair to move up.
+
+They were building a single safe direction and expecting obedience to complete it. The corridor left no room for another outcome.
+
+“Keep entering,” Julie said.
+
+Mercer shifted his attention to her. “Do not complete the authentication.”
+
+“We’re preserving evidence of a contaminated strategic assessment.”
+
+“You are attempting unauthorized entry into a classified production enclave.”
+
+“Then preserve the case and call federal investigators.”
+
+“Place it on the deck.”
+
+“So you can separate it from the witnesses?”
+
+“The case goes down. You move away from Thorne. Reed faces the wall.”
+
+There it was. Three commands, three positions, no chance for them to remain a group.
+
+Julie kept one boot against the case. “No.”
+
+The bar on Elias’s token disappeared.
+
+He pressed the final digit a fraction too late.
+
+PIN WINDOW EXPIRED
+
+The panel cleared the field.
+
+Elias made a small sound that did not become a word.
+
+Mercer raised one hand. The shield advanced a measured step.
+
+“Elias,” Julie said.
+
+“The next code doesn’t generate for six seconds.” He was talking too quickly now. “It prevents overlap. If I pull the token, the emergency role resets, and if the certificate counter increments again the panel may impose a delay.”
+
+“Then leave it in.”
+
+“They’re fifteen feet away.”
 
 “I know.”
 
-He lifted the receiver and dialed the Pentagon’s public switchboard from memory.
+Marcus looked back once. “I can give you fifteen feet. I can’t give you a minute.”
 
-Julie continued reviewing the capture while he waited.
+“You need forty seconds,” Elias said.
 
-“Office of the Deputy Director for Operational Intelligence,” a voice answered through the receiver.
+“Then type fast.”
 
-“This is Colonel Marcus Reed. I need General Hackett immediately.”
+The token display went blank.
 
-“May I ask what this concerns?”
+Mercer’s team took another step.
 
-“Tell him Reed is calling regarding the South Asia source certification.”
+“Final instruction,” he said. “Hands away from the panel. Case on the floor. No one will be harmed if you comply now.”
 
-A pause.
+Marcus’s gaze moved to the shield, the weapons behind it, and the five-foot corridor that denied them room to pass one another. Then he looked at the recessed fire cabinet beside the armored gate frame.
 
-“Colonel Reed, hold.”
+Julie saw the same red pictogram beneath its clear cover.
 
-Marcus turned slightly so Julie could not read his expression.
+CO2. Approved for energized equipment.
 
-The hold music lasted eighteen seconds.
+It could not defeat the team. It could give them a few seconds of cold white blindness in a corridor where Chen’s people could not fire without seeing the gate hardware.
 
-Then a man answered.
+“Marcus,” she said. “Left cabinet.”
 
-“Marcus.”
+He nodded once.
 
-General William Hackett’s voice was recognizable even through the motel receiver. Julie had met him once, years earlier, before the Anwar strike.
+The token window lit.
 
-“Sir, I need you to listen,” Marcus said. “The Pakistan assessment is compromised. We found synthetic validation data inside the live relay feed.”
+A new six-digit number appeared.
 
-“Where are you?”
+Elias began entering it.
 
-“I’m not giving a location over this line.”
+He struck each key with exaggerated care.
 
-“Are you with O’Donnell?”
+Three.
 
-“Yes.”
+One.
 
-Another pause.
+Seven.
 
-“Do you have classified material?”
+Mercer’s shield moved again.
 
-“We have a sealed incident capture from the Reston review environment.”
+Marcus opened the fire cabinet. The clear cover swung wide without an alarm. He pulled the extinguisher free with both hands, and the weight brought a sharp contraction across his bruised ribs. He stopped for half a second, forehead against the cylinder, then straightened with it braced against his thigh.
 
-“You removed it after your authority was suspended.”
+Nine.
 
-“My authority was suspended while I was submitting a source-defect notice.”
+Four.
 
-“Marcus, Army counterintelligence has received a report that your credentials were used to export restricted program data.”
+The electroshock operator shifted toward the shield’s right edge.
 
-“From Apex.”
+Julie pointed. “Right side.”
 
-“From the facility security authority.”
+Marcus saw the movement and repositioned behind the inside corner of the gate frame, leaving only his left arm and the extinguisher horn exposed.
 
-“Vance is the subject of the report.”
+Two.
 
-“You don’t know that.”
+Elias pressed ENTER.
 
-“An Apex director certificate deployed a synthetic package into production.”
+PIN ACCEPTED
+ LIVE-FINGER CONFIRMATION REQUIRED
 
-“Then you bring the device to Fort Belvoir and surrender it through the proper channel.”
+A glass pad extended from the panel.
 
-“Will the South Asia certification be suspended while it is reviewed?”
+Elias looked at his right hand. Condensation shone across his fingers. A shallow cut near the base of his index finger had opened again.
 
-Hackett did not answer immediately.
+“Use the other one,” Julie said.
 
-“That decision is being handled.”
+“The key is bound to my right index.”
 
-“By whom?”
+Mercer gave the signal to advance.
 
-“Return the material, Marcus.”
+Marcus pulled the extinguisher pin and squeezed the handles.
 
-“Will you suspend certification?”
+White vapor struck the front of the shield and rolled back through the corridor. The weapon lights became solid walls of glare. The shield operator stopped instead of walking blind into the gate approach. Mercer called a hold. No one fired.
 
-“I cannot act on data I have not seen.”
+The extinguisher’s discharge filled the narrow space with a dense, freezing cloud. Marcus swept it low, forcing the team to keep its footing while the carbon dioxide boiled across the floor.
 
-“If I turn it over at the gate, Apex will challenge the capture before it reaches you.”
+“Now,” Julie said.
 
-“Apex does not control Army counterintelligence.”
+Elias pressed his finger to the glass.
 
-“No. They control the system record counterintelligence will use.”
+The panel displayed a gray outline of his print, then a red warning.
 
-Hackett’s voice lowered.
+LIVENESS INDETERMINATE
+ SURFACE TEMPERATURE BELOW THRESHOLD
+ MAINTAIN CONTACT
 
-“You are on an unsecured line. Stop talking.”
+“It checks capillary response,” Elias said. “Temperature, blood flow, pressure variation. It won’t take a dead print or a cold one.”
 
-“Then give me a safe channel.”
+“Keep it there.”
 
-“Report to Fort Belvoir. Enter through Tulley Gate and request the duty counterintelligence officer.”
+“My finger is numb.”
 
-“That credential is dead.”
+“Then make it not numb.”
 
-“You will be detained long enough to establish your identity.”
+He rubbed his hand against his shirt, struck his fingertips into his palm, and tried again. His injured hip pressed against the wall to keep his weight off the left leg. The extinguisher hissed behind Julie. Its pressure began to fall.
 
-“And the drive?”
+The scan outline built from the center outward.
 
-“It will be taken into custody.”
+Mercer’s voice came through the cloud. “Reed, put down the cylinder.”
 
-“By whom?”
+Marcus kept discharging.
 
-“The appropriate personnel.”
+The team changed tactics. The shield descended until its lower edge nearly touched the floor, then advanced through the vapor by inches. One operator used the wall as a guide. Another called distances over the closed circuit in clipped numbers.
 
-Marcus closed his eyes.
+They did not need to see Marcus. They knew where the gate was.
 
-Julie heard what he heard.
+The biometric outline reached Elias’s first knuckle and stopped.
 
-No name.
+APPLY STEADY PRESSURE
 
-No guarantee.
+His finger shifted.
 
-No hold on the certification.
+The image broke apart.
 
-Hackett was either constrained, uncertain, or already treating Marcus as a security risk.
+“Don’t move,” Julie said.
 
-Possibly all three.
+“I’m trying.”
 
-“Sir, the assessment certifies at sixteen-thirty,” Marcus said. “If India acts on it, people die.”
+“Try without talking.”
 
-“I understand the stakes.”
+He stared at the glass, shoulders rigid, and held the finger in place.
 
-“Then stop the packet.”
+The extinguisher coughed.
 
-“I need admissible evidence.”
+Marcus released the handles. The last white vapor drifted around him. He set the cylinder lengthwise against the inside corner where the corridor turned into the gate approach. It would not stop the shield. It would make the first operator step around it instead of driving straight through.
 
-“We are trying to give you admissible evidence.”
+The panel chimed.
 
-“You are fleeing with it.”
+LIVE BIOMETRIC CONFIRMED
+ TOKEN PRIVATE KEY UNLOCKED
 
-Marcus’s grip tightened around the receiver.
+The circuit board’s display changed from the rotating digits to a single line.
 
-“I trusted the channel six years ago.”
+SIGNING LOCAL CHALLENGE
 
-Hackett went silent.
+Elias exhaled through his teeth. “The private key never leaves the token. The panel sends a challenge. The secure element signs it only after the live match.”
 
-“So did Julie,” Marcus said. “Look what the channel did to her.”
+Julie watched the white cloud thin. “How long?”
 
-Julie stopped typing.
+“It should already—”
 
-“Turn yourself in,” Hackett said.
+The display updated.
 
-“Sir—”
+CHALLENGE RESPONSE VERIFIED
+ EMERGENCY ACCESS RECORD PENDING
 
-“That is the only lawful instruction I can give you.”
+A final screen replaced it.
 
-The line disconnected.
+ADMINISTRATOR: THORNE, ELIAS M.
+ ROLE: ENCLAVE EMERGENCY ADMINISTRATOR
+ ACTION: QUARANTINE GATE RELEASE
 
-Marcus continued holding the receiver after the dial tone returned.
+CONTINUING WILL CREATE AN IMMUTABLE LOCAL AUDIT RECORD AND NOTIFY THE DESIGNATED SECURITY AUTHORITY.
 
-Julie looked back at the files.
+CONFIRM / CANCEL
 
-“Was that Hackett?”
+Elias did not move.
 
-“Yes.”
+The shield emerged from the vapor nine feet away.
 
-“Did he believe you?”
+Apex Security Command Center
+ 04:56 Eastern Daylight Time
 
-“He believed I had the drive.”
+The enclave alarm reached Sarah Chen through a path the quarantine had been designed to preserve.
 
-“That wasn’t the question.”
+A narrow amber box opened over the lower-tier schematic.
 
-“No.”
+EMERGENCY ADMINISTRATOR AUTHENTICATION
+ THORNE, ELIAS M.
+ REAR QUARANTINE GATE
+ CHALLENGE RESPONSE VERIFIED
+ FINAL CONFIRMATION PENDING
 
-Marcus placed the receiver in its cradle.
+Sarah read it once.
 
-He sat on the edge of the bed.
+Arthur Vance read it over her shoulder.
 
-For the first time since the escape, he looked tired rather than alert.
+“Stop him.”
 
-“My command has a security report with my name on it.”
+Sarah keyed the closed-circuit channel. “Containment One, authentication has reached final confirmation. Prevent completion. Recover the telemetry intact. Do not strike the local panel or gate actuators.”
 
-“Probably.”
+Mercer answered through background static. “Shield is inside nine feet. Subjects have discharged a clean-agent extinguisher. No visual on Reed.”
 
-“Counterintelligence is looking for us.”
+“Less-lethal force authorized. Maintain ballistic hold unless you have an immediate threat to life.”
 
-“Probably.”
+Vance leaned closer. “They are initiating active sabotage against a strategic production system.”
 
-“I’m giving you too much material for that word.”
+“They are standing in front of the system you want protected.”
 
-“It keeps us from pretending we know their reach.”
+“Then remove them from it.”
 
-He rubbed both hands across his face.
+“The team is doing that.”
 
-“I should have forced the defect report through before we entered the review room.”
+On the schematic, the rear gate changed from white to pulsing amber. The command center could see the authentication state. It could not cancel it. Apex had built the enclave so a compromised corporate network could not override a local emergency administrator.
 
-“They would have called it premature.”
+Vance understood the same limitation.
 
-“I should have brought a second oversight officer.”
+“Authorize lethal force,” he said.
 
-“Apex would have prepared for two.”
+Sarah kept the channel open. “No.”
 
-“I should have backed you six years ago.”
+The word left no room for confusion.
 
-Julie’s hands stopped above the keyboard.
+Vance’s voice remained quiet. “Excuse me?”
 
-Marcus stared at the carpet.
+“A rifle round on that axis can enter the access panel, a locking actuator, or the independent control bus. If the gate faults between states, we lose containment and may corrupt the production environment.”
 
-“I told myself the panel already knew Hargrove was responsible,” he said. “I told myself confirming that you raised concerns would be enough. When they asked whether you issued a formal recommendation before the final minute, I knew what they wanted.”
+“Thorne is about to open it.”
 
-“You gave it to them.”
+“I can see that.”
 
-“Yes.”
+“Then the production environment is already at risk.”
 
-The word was barely audible.
+“Which is why I will not order a blind shot through suppressant vapor toward hardened machinery.”
 
-“I thought if I challenged the timeline, the investigation would turn toward the classified routing architecture. The program office would close ranks. Hargrove would survive anyway, and I would lose any ability to help you.”
+Vance looked at the dark camera wall. “You are allowing procedure to become cover for them.”
 
-“You didn’t help me.”
+Sarah watched the gate state.
 
-“No.”
+“No. I am preventing your urgency from destroying the evidence you claim you want secured.”
 
-Rain began ticking against the motel window.
+His eyes moved to her.
 
-Marcus continued.
+There was no accusation in his expression. Only calculation.
 
-“I protected my access because I thought access was influence. I thought staying inside mattered more than telling the panel exactly what happened.”
+“Prevent them from crossing,” he said. “Recover the case. Subject preservation is subordinate to recovery.”
 
-“And did it?”
+The language was deliberate now.
 
-“No.”
+Sarah keyed the team channel again. “Containment One, coordinated push. Shield lead. Separate Reed from the gate frame. Take O’Donnell and Thorne alive. Telemetry has priority. No rounds into the enclave axis.”
 
-Julie looked at him.
+She had not repeated Vance’s last sentence.
 
-“I don’t need an apology today.”
+She had still sent the team forward.
+
+Production Enclave Approach
+ 04:56 Eastern Daylight Time
+
+The CONFIRM field waited beneath Elias’s name.
+
+Julie did not tell him to press it.
+
+Mercer’s shield cleared the last of the vapor. The operator behind its right edge brought the electroshock weapon up, keeping the cartridge pointed away from the panel until he had a line on Marcus.
+
+“Elias,” Julie said.
+
+His finger hovered over the screen.
+
+“If I do this, the record can’t be expunged.”
 
 “I know.”
 
-“I need you to decide what you will do when following procedure and doing the right thing stop being the same action.”
+“It can’t be explained as credential replay. The private-key signature includes the biometric release event.”
 
-He lifted his eyes.
+“I know.”
 
-“I think that decision happened in the stairwell.”
+“They can prosecute me from this screen.”
 
-“No. The stairwell was survival.”
+“Yes.”
 
-She turned the laptop toward him.
+Mercer’s team took another step.
 
-“This is the decision.”
+Elias looked at the case between Julie’s boots. Then at Marcus, bent around his damaged ribs beside an empty extinguisher, waiting for men with armor and weapons to reach him.
 
-Onscreen, the recovery protocol remained open.
+His hand shook hard enough that the tip of his finger moved in a small circle above the glass.
 
-VALIDATION AUTHOR BIOMETRIC REQUIRED.
+He pressed CONFIRM.
+
+The panel gave a low two-note tone.
+
+EMERGENCY ACCESS COMMITTED
+ AUDIT SEAL WRITTEN
+ GATE RELEASE SEQUENCE ACTIVE
+
+The first locking bolt retracted inside the wall with a metallic impact that Julie felt through the floor.
+
+Then the second.
+
+Then the third.
+
+Six bolts withdrew from alternating sides of the frame, each separated by a deliberate pause. The gate did not move.
+
+“Why isn’t it opening?” Marcus asked.
+
+“Independent power check,” Elias said.
+
+The panel advanced.
+
+LOCK ARRAY CLEAR
+ ACTUATOR POWER CONFIRMED
+ PRESSURE EQUALIZATION ACTIVE
+
+A vent opened above the gate. Cold dry air moved outward across Julie’s face, carrying the faint smell of metal and filtered dust. On the panel, the pressure difference fell one number at a time.
+
+42 Pa.
+
+The shield came forward.
+
+Marcus planted his good boot behind the empty extinguisher and waited.
+
+“Reed,” Mercer said. “Last chance.”
+
+Marcus looked at the shield. “You’ve said that twice.”
+
+The lead operator drove forward.
+
+The extinguisher rolled beneath the shield’s lower edge. It did not knock the operator down. It forced him to shorten his stride and lift the shield just enough to clear the cylinder.
+
+Marcus moved during that adjustment.
 

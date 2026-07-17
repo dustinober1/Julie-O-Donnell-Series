@@ -1,189 +1,387 @@
-Julie twisted back.
+“You remain in the van,” she said.
 
-Marcus remained on the other side.
+“I heard you the first time.”
 
-The shutter had dropped below his waist. He was running toward it with the canvas tool bag in one hand, his body shortened into a crouch. Behind him, a security door was cycling open beneath a white strobe.
+“I am checking whether the blood changed your answer.”
 
-“Leave the bag,” Julie shouted.
+“It did not improve my personality.”
 
-Marcus flung it through. The bag struck the floor beside her and split open, scattering a flashlight, a roll of tape, and the compact pry bar.
+She secured the new dressing. “Nothing has.”
 
-The gap narrowed to eighteen inches.
+The exchange almost became familiar. Neither of them allowed it to.
 
-Marcus dove.
+Marcus checked the primary entrance, the ordinary fire exit, and the observation-room window. No vehicle waited in the alley. No footsteps stopped outside. The absence proved only that the search had not reached this door yet.
 
-His hands hit first. Julie seized his right wrist with both of hers and pulled. His shoulder passed beneath the rubber seal. The steel caught the heel of one boot and dragged him backward.
+Julie shut down the forensic workstation through its normal process. She recorded the shutdown time and removed every evidence module. No file had been intentionally written to the workstation’s local storage. She did not wipe it. An examiner might later recover temporary system traces and determine exactly what hardware they had used.
 
-Marcus kicked free.
+The failed blank evidence module remained in the cabinet, labeled FAILED SELF-TEST and empty. The medical supplies stayed where they were. Nothing burned. Nothing was broken for the sake of making departure feel final.
 
-Julie fell onto her back with his weight across her legs as the shutter struck concrete.
+Marcus locked the storage cabinet anyway.
 
-The impact was enormous.
+“You expect to come back?” Elias asked.
 
-Locking dogs drove into the floor channel one after another. A final hydraulic thud traveled through the slab.
+“No,” Julie said.
 
-Then the warning horn stopped.
+The cutout’s archived lease history connected it to Marcus. The van’s route might connect the alley to the lookout. Every minute they remained converted a temporary shelter into a location someone could reconstruct.
 
-For several seconds, the only sound was the three of them moving air through their lungs and the deep mechanical vibration of Building Three below.
+Julie looked once at the obsolete racks, the bound log’s empty shelf, and the flickering fluorescent tube.
 
-Marcus rolled off Julie and sat up. The heel of his boot was torn open, exposing the pale inner lining, but his foot moved when he tested it.
+The place had done what Marcus said it would do.
 
-“You good?” he asked.
+It had bought time.
 
-Julie flexed the hand that had taken his weight. Pain ran from her thumb into her wrist. Nothing felt broken.
+At 06:47:08, Marcus raised the service-bay door by hand. The metal rattled through the quiet alley.
 
-“Elias?”
+Julie waited behind the wheel until the opening was high enough. Her left hand held the rim. Her right forearm rested against the lower spoke without closing around it. The aluminum case was wedged behind the passenger seat. The recovery cartridge remained sealed in its tamper bag, and the paper log lay beside it inside the waterproof folder.
 
-Elias was pressed against the wall beside the telemetry case. One lens of his glasses had fogged. He stared at the shutter as though it might reverse and finish the job.
+Elias sat in the cargo opening behind them. The administrator board was inside a padded sleeve against his chest. The incident module and false work order rested in a small canvas tool pouch beside him.
 
-“It won’t open,” he said.
+Marcus checked both directions from the pedestrian entrance and signaled.
 
-Marcus gathered the pry bar and flashlight. “That sounded convincing.”
+Julie eased PCF-27 into the alley.
 
-“No. I mean it can’t open from this side during a production quarantine. The hydraulic plant is in the corridor we just left.”
+Marcus lowered the bay door from inside, came through the pedestrian entrance, and locked it. By the time he reached the van, his limp had become worse with every step he tried to hide. He settled into the passenger seat with the waterproof folder beneath his jacket and turned the mounted service radio low enough to hear without filling the alley.
 
-Julie rose and examined the seam. No handle. No local panel. The shutter sat inside a steel channel sunk into the walls and floor. Its purpose was fire isolation, not access control, which made it stronger than any ordinary security door.
+When the door closed, the cutout became an ordinary gray service bay again.
 
-A red status display blinked beside it.
+For anyone who knew where to look.
 
-PHYSICAL CONTAINMENT ACTIVE
- LOWER TIER ISOLATED
- 04:52:19
+Northern Virginia
+ 06:47 Eastern Daylight Time
 
-Julie looked down the corridor.
+Julie drove west for two blocks before turning east.
 
-The primary lights were dead. Emergency strobes painted the concrete in alternating bands of red and black. Cable trunks crowded the ceiling above chilled-water pipes thick as her torso. Condensation gathered on the insulation and fell in slow, cold drops. Every few seconds, a heavy compressor engaged somewhere beyond the walls, sending a tremor through the soles of her boots.
+The diversion did not confuse a tracking system. It kept the first camera outside the cutout from seeing a direct movement toward Washington if that camera existed and if anyone later recovered it. One turn. One minute. No theater.
 
-They had not escaped Apex.
+Early contractor traffic had begun filling the commercial roads. Box trucks backed into bakery docks. Utility vans waited at a wholesale electrical supplier. PCF-27 moved among them at the speed of a vehicle whose driver wanted to reach a job, not escape a manhunt.
 
-They had gone deeper into it.
+Marcus navigated from memory and a folded road map found in the van. He kept the route off the toll road and away from the most obvious federal approaches. He did not claim any road lacked cameras.
 
-Marcus closed the tool bag and handed Julie the telemetry case. “Tell me we didn’t come through the wrong side.”
+“Arlington Boulevard,” he said. “Then Roosevelt if it is moving. We make the final decision before the river.”
 
-Julie checked the small display beside the handle.
+“Parking?” Julie asked.
 
-CAPTURE SEALED
- LOCAL MEDIA INTACT
- NETWORK UNAVAILABLE
+“Commercial loading lane west of the Fenwick block. Morning contractors use it before office restrictions begin. Known van, ordinary context.”
 
-The case still held the raw relay packets and the copy of the altered Argus telemetry. It held enough to show that the alert had been manufactured. In a room full of federal investigators, with time to authenticate every record and compel Apex to surrender its logs, it might have been enough.
+“Plate readers?”
 
-They had seven minutes and change.
+“Possible at every garage and major intersection.”
 
-“No external link,” Julie said.
+“Then no garage.”
 
-“Quarantine cut them all,” Elias replied. His voice shook, but the answer came quickly. “Corporate, classified transport, ordinary voice. The production tier goes closed-loop whenever physical containment activates.”
+“We park on the street and accept the clock.”
 
-“Can Chen see us?” Marcus asked.
+Elias leaned forward. “How far from the service entrance?”
 
-“Door events. Environmental faults. Maybe local camera summaries if the buffers are still routing. She won’t have live video down here.” Elias wiped his glasses on the hem of his shirt and put them back on. “Neither will Vance.”
+“Two blocks if the loading lane is open. Three if it isn’t.”
 
-“A blind prison,” Marcus said.
+“Marcus cannot walk that.”
 
-“Temporarily.”
+“Marcus is not walking it,” Julie said.
 
-Julie looked at the pipes, the emergency display, the dark lens mounted over the shutter. The quarantine had severed their path out and most of the pathways in. It also separated the lower tier from the systems Sarah Chen controlled upstairs.
+He looked out the window. “I can see the rear approach from the van if we use the west end of the lane.”
 
-“What remains connected?” Julie asked.
+“And the radio?”
 
-“Life safety. Cooling. Local security. The production enclave.”
+“County, federal interop if they move the search into the District, and whatever the service set picks up. No private channel to you.”
 
-“Argus?”
+Julie nodded. “Fixed clock. Seven-ten.”
 
-Elias nodded. “The enclave is designed to continue through a campus outage or a network attack. Once it isolates, the production process runs locally from the last trusted state.”
+“I know.”
 
-“The poisoned state,” Julie said.
+The mounted service set broke into a regional traffic advisory and returned to law-enforcement traffic. Marcus turned up the van’s ordinary dashboard radio. A local news anchor repeated the Building Three fire, the stolen classified material, and Julie’s name. The language had changed.
+
+Suspected sabotage became suspected architecture of the Argus corruption.
+
+Elias heard it too. “They are making the conclusion stronger each time.”
+
+“Because repetition feels like corroboration,” Julie said.
+
+Traffic slowed near a signal lined with glass office buildings and one twenty-four-hour hotel. Julie stopped behind a plumbing truck. Her right wrist throbbed where the wheel’s vibration passed through the rigid support.
+
+Inside the hotel lobby, a television hung above the reception desk.
+
+Senator Sterling stepped toward a bank of microphones.
+
+The screen divided. Sterling occupied the left half beneath flags and a committee seal. Julie’s consultant photograph filled the right, taken at Apex before the lower-tier descent. Her face looked tired and irritated, which the red banner beneath it converted into intent.
+
+FORMER ARMY ANALYST SOUGHT
+ SUSPECTED ARGUS SABOTAGE ARCHITECT
+
+The van radio carried Sterling’s voice half a second after his mouth moved on the lobby screen.
+
+“This morning, responders in Northern Virginia confronted a grave attempted compromise of American defense infrastructure. Authorities are seeking a former Army intelligence officer, Julie O’Donnell, in connection with the deliberate corruption of the Argus warning architecture and the removal of classified material.”
+
+His delivery was measured. No anger. No demand for punishment.
+
+“I urge the public not to approach the suspects and to allow law enforcement to perform its work. We should also remember the professionalism of the responders who prevented further harm. At a moment of evolving regional danger, the United States cannot permit insider manipulation to weaken the systems protecting our personnel, our allies, and the public trust.”
+
+The camera widened as another reporter raised a hand.
+
+Sterling continued before taking questions.
+
+“I will participate in an emergency national-security briefing later this morning. Until the facts are complete, calm and institutional discipline are essential.”
+
+He had used the operation Julie stopped as proof that Argus required protection.
+
+The false artillery assessment no longer had to produce a strike to serve him. Her attempt to expose it could be presented as the attack. Apex became the victim. The system became the thing responsible people defended from unstable insiders.
+
+Nothing in his statement revealed Payload 88, Northbridge, K-17, or any private knowledge.
+
+That made it stronger.
+
+The light remained red.
+
+On the hotel screen, Sterling turned toward the first question. Julie’s photograph stayed beside him.
+
+Marcus looked at the television, then at the eastbound lanes beyond the intersection. The public statement had placed her face in every lobby, patrol briefing, and morning phone alert between Fairfax and L Street.
+
+He checked his watch.
+
+06:50.
+
+His question was quiet.
+
+“You still intend to take this into Washington?”
+
+Julie watched Sterling’s version settle beneath her name.
+
+The signal changed.
+
+She put the van in motion.
+
+“Now I have to.”
+
+---
+
+# Chapter 12 - The Sterling Trap
+
+Northern Virginia  
+06:50 Eastern Daylight Time
+
+Sterling’s accusation followed PCF-27 toward the Roosevelt Bridge.
+
+Julie held the wheel high with her left hand. Her right forearm rested against the lower spoke because the braced wrist could no longer close around it. The van’s white Potomac Critical Facilities markings remained visible in every mirror they passed.
+
+Marcus watched the eastbound lanes with a folded road map against one thigh. The aluminum telemetry case stood upright behind his seat, close enough for him to reach without turning. The waterproof folder under his jacket held the recovery cartridge, custody log, and dead fleet transponder.
+
+Elias sat on the cargo deck with the incident module and false work order inside the canvas pouch between his boots. The padded sleeve containing his administrator-token board stayed against his chest.
+
+The service radio repeated the van’s Virginia registration.
+
+“They know we’re eastbound,” Elias said.
+
+“They know we were,” Marcus replied. “The systems still have to agree on where.”
+
+A patrol car passed two lanes to the left. The officer’s gaze moved across the Potomac logo and returned to traffic.
+
+Julie did not change speed.
+
+No lights. No turn. Nothing she could call recognition.
+
+The radio anchor replaced Sterling’s measured language with something harder. Suspected architect became accused architect. Attempted compromise became attack.
+
+The bridge rose ahead.
+
+A camera housing waited above the District end.
+
+Elias saw it. “That one gets the plate.”
+
+“Maybe,” Marcus said.
+
+Julie kept the van inside its lane. The camera could capture them without stopping them. Someone still had to retrieve the image, compare the plate, decide who owned the alert, and reach an officer close enough to act.
+
+Separate systems. Borrowed minutes.
+
+At 06:55 the service radio changed.
+
+“District units, be advised, suspect contractor vehicle may be entering the District. No confirmed location. Coordinate before stop. Classified material believed present.”
+
+“Not yet,” Marcus said.
+
+They crossed into Washington.
+
+The commercial loading lane west of the Fenwick block was already full. A bakery truck held two spaces. A refuse vehicle blocked the service gate behind it. A plumbing van occupied the last legal position before the intersection.
+
+Marcus studied the block without twisting far enough to pull his ribs.
+
+“Past the light. Right. West-side lane.”
+
+“That moves us half a block from the service entrance,” Julie said.
+
+“It gives me the alley mouth and the east fire exit.”
+
+Julie made the turn.
+
+The second lane was narrow, crowded, and open. She parked behind a laundry truck with linen carts stacked inside its rear doors.
+
+The Fenwick Annex stood across the next block, hidden behind older commercial buildings and a service alley darkened by exhaust. From the van, Marcus could see the landlord entrance and the green metal canopy over the east egress.
+
+He pointed with the edge of the map. “Primary return is the service vestibule. Two horn taps means I’ve moved to the green canopy. No horn and no van means west to Eighteenth.”
+
+Julie looked at the dashboard clock.
+
+“Seven-ten is abort. Seven-eleven, you move between exits. Seven-thirteen, you leave with the originals.”
+
+Marcus’s expression did not change. “I heard it.”
+
+“You preserve the case.”
+
+“I heard that too.”
+
+“You do not come inside.”
+
+His eyes met hers. “You designed the operation. Don’t let getting inside become the reason you stay.”
+
+Julie turned toward Elias.
+
+He opened the canvas pouch. The tamper tape on the incident module remained intact. The serial across the seam matched the false work order. Partition A held the sealed derivative. Partition B remained empty and write-armed. The administrator board stayed outside the pouch, in Elias’s physical custody.
+
+“Failure condition,” Julie said.
+
+“If they check the live Northbridge queue, there is no ticket.”
+
+“The paper?”
+
+“Genuine Potomac form. Correct tenant code, service format, authorization length, and checksum. False call.”
+
+“What does it buy?”
+
+“Intake.”
+
+“What does it not buy?”
+
+“Access.”
+
+Marcus opened the passenger door. Cold air entered with diesel and bakery exhaust.
+
+“Seven-ten,” he said.
+
+Julie climbed out using her left hand on the door frame. Elias followed through the side door. His injured hip took the first step badly and forced him still until the dizziness passed.
+
+Marcus remained with one hand against the case.
+
+Julie leaned toward the open window. “If response moves early—”
+
+“I change position. I don’t change the abort.”
+
+She nodded and turned away.
+
+Fenwick Annex Service Alley  
+Washington, D.C.  
+06:58 Eastern Daylight Time
+
+The rear of the Fenwick Annex looked built to accept deliveries without admitting that deliveries existed.
+
+A roll-up door occupied one bay. Refrigeration pipes entered the brick above another. A steel service entrance stood beneath a shallow awning with a camera mounted at face level and a black intercom beside the frame.
+
+No guards outside. No checkpoint. No Northbridge sign.
+
+Julie carried the work order in her left hand. Elias carried the pouch. The oversized Potomac rain shell hid his office clothes and made him look like an apprentice wearing borrowed gear.
+
+She pressed the intercom.
+
+A camera motor adjusted.
+
+“Yes?” a man asked.
+
+“Potomac Critical Facilities. Fenwick Annex, WSS-four. Local trust-chain diagnostic.”
+
+“Work-order number?”
+
+Julie held the paper to the lens.
+
+“Closer.”
+
+She moved it within a foot of the glass.
+
+“You’re not on the morning sheet.”
+
+“Call came after it closed.”
+
+“Who called?”
+
+“Tenant technical watch.”
+
+“That a name?”
+
+“Originating desk.”
+
+Silence.
+
+Then the magnetic lock released.
+
+Inside, the service vestibule was small and clean. Gray tile. Security desk. Four camera feeds. A second steel door behind the guard. The tenant directory listed Northbridge among law firms, policy groups, and consulting companies.
+
+The guard wore a dark blazer over a white shirt. His badge belonged to the landlord, not Northbridge.
+
+“Identification.”
+
+Julie pointed to the RANDALL patch.
+
+“Company identification.”
+
+“Fleet dispatcher has it.”
+
+“Then the fleet dispatcher should have called.”
+
+“He did.”
+
+The guard held out his hand. Julie gave him the paper.
+
+He entered the tenant identifier and authorization number into the landlord terminal.
+
+FORMAT VALID  
+TENANT IDENTIFIER CONFIRMED  
+SPONSOR ACKNOWLEDGMENT REQUIRED
+
+“That means the number passes intake,” Elias said. “It doesn’t mean the tenant accepted us.”
+
+The guard looked at him.
+
+“I know what it means.”
+
+Elias lowered his gaze. “Right.”
+
+The guard called upstairs. Julie watched the camera feeds. The alley remained ordinary. The public lobby appeared in the fourth frame, where a muted television showed Sterling beneath flags and Julie’s photograph in the lower corner.
+
+“I have two Potomac technicians for WSS-four,” the guard said into the phone. “Paper order. Local trust-chain diagnostic. No, they aren’t on the sheet.” He listened. “The number validates at landlord intake.”
+
+He ended the call and kept the work order on his desk.
+
+“Northbridge is sending someone down. Sign the service log.”
+
+Julie printed J. RANDALL with her left hand and added the van identifier. Elias wrote E. MASON. His M began like a T before he corrected it.
+
+The guard noticed. “You new?”
+
+“New to the route.”
+
+The inner door opened.
+
+A woman in dark trousers and a pale blue shirt entered carrying a tablet. Her badge identified her as Northbridge.
+
+“Nora Bell. Facilities and technical watch.”
+
+She read the work order. “Pre-session audit buffer retention fault.”
 
 “Yes.”
 
-Marcus checked his watch. “At zero-five-hundred?”
+“We didn’t open a ticket.”
 
-“The current threat package clears its final hold. Argus releases the actionable assessment and the strike-support data attached to it.” Elias looked at the case in Julie’s hand. “Taking the raw telemetry outside later won’t stop that.”
+“Someone did,” Julie said.
 
-Julie already knew. The copied packets could prove the alert false after the deadline. They could not reach inside the sealed production process and make it doubt the data before commanders acted on it.
+“Not in our system.”
 
-“Recovery interface,” she said.
+Elias shifted weight off his left hip. “The controller is already in diagnostic open. If the buffer test generated locally, it may not have reached your queue.”
 
-Elias looked at her.
+Bell studied him. “How would you know the controller state from here?”
 
-“You said the enclave keeps a local maintenance path for a contaminated feed.”
+He pointed to the tenant panel beside the inner door.
 
-“A provenance-recovery console. Inside the gate.”
+WSS-4  
+PRE-SESSION DIAGNOSTIC WINDOW OPEN  
+LOCAL AUDIT CHECK AVAILABLE
 
-“Can it suspend the release?”
-
-“If we restore the original source labels and force a local integrity review.”
-
-“If.”
-
-“The interface was built for damaged deployments, not for three fugitives carrying an incomplete capture.”
-
-“Can it do it?”
-
-Elias glanced at the clock on the shutter panel.
-
-“Yes.”
-
-“Then take us there.”
-
-He did not move.
-
-The red light crossed his face. Fear had stripped away the defensive precision he used when discussing software. He looked younger than he had upstairs and far less certain that knowledge should require action.
-
-“The production tier has no normal exit during quarantine,” he said. “The gate is at the deepest point in the lower level. Once we go there, every route behind us will seal in sequence.”
-
-“We don’t need an exit yet,” Julie said. “We need to prevent what happens at five.”
-
-“And after?”
-
-“After depends on whether we get there.”
-
-“That isn’t a plan.”
-
-“It’s the part of the plan we can afford.”
-
-Marcus moved to the nearest junction and aimed the flashlight down each branch without sending the beam far. “Which way?”
-
-Elias pointed straight ahead. A green evacuation sign identified the corridor as PRODUCTION ACCESS. “That’s the marked route.”
-
-Julie heard the qualification.
-
-“And the route you want?”
-
-Elias pointed left, where a narrower passage descended beneath a web of insulated piping. The wall stencil read COOLING SERVICE — AUTHORIZED MECHANICAL PERSONNEL.
-
-Marcus turned toward him. “Production is straight.”
-
-“The main approach has four security partitions and a manned checkpoint. They’ll seal it from command even without live video.”
-
-“You said command was blind.”
-
-“Blind is not powerless. Sarah can order every door on that route into secure mode.”
-
-“And the cooling passage?” Julie asked.
-
-“Runs beside the primary loop. The enclave needs an independent chilled-water supply, so the gallery continues past the security partitions and reconnects near the rear gate.”
-
-The emergency evacuation map beside the junction showed no connection. The cooling corridor ended in a blank service block twenty yards west of the production enclave.
-
-Marcus tapped the map. “It says dead end.”
-
-“It’s the unclassified life-safety drawing. The enclave expansion isn’t on it.”
-
-“Convenient.”
-
-“I didn’t design the map.”
-
-“You designed enough of this place to get us trapped in it.”
-
-Elias flinched. “I told you where the gate is.”
-
-“You told us to walk away from it.”
-
-The building shuddered as another compressor came online. Julie put one hand against the largest pipe. Cold penetrated the damp insulation. A stamped metal tag identified it as CHW-P1 SUPPLY. An arrow showed flow toward the left-hand passage.
-
-A smaller return pipe ran above it in the opposite direction. Its label had been replaced recently.
-
-CHW-ARGUS-R
- INDEPENDENT PROCESS LOOP
+“That is normal before a scheduled session,” Bell said.
 
