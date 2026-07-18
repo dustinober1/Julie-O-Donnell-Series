@@ -238,6 +238,32 @@ It could not remove the sealed event range without creating another event.
 
 Sarah transferred source control and lost access.
 
+The preserved-room door unlocked behind her. Two internal-security officers waited with an Apex attorney. Neither touched her or asked for the derivative. The source had already crossed into the federal hold.
+
+“You are placed on paid administrative leave pending review of unauthorized disclosure and failure to follow executive incident direction,” the attorney said.
+
+Sarah removed her badge without being asked and placed it in the envelope he held open.
+
+“Preserve the access-suspension event with the release source,” she said.
+
+“That is an employment record.”
+
+“It is also the event that ended my ability to certify the source after production.”
+
+The attorney did not promise. Sarah looked through the fixed camera instead.
+
+“For the incident record: my source access ended after the complete release range sealed. I did not open, alter, or remove the original. Mercer’s declaration remains separate from mine.”
+
+She left Building Three under escort through the same controlled corridor where she had once told Julie certification was an answer to people who knew what they were looking at.
+
+Mercer stayed behind long enough to surrender command of the Apex recovery team. His officers returned weapons and body-camera media under the joint incident hold. He did not claim that his later restraint erased the pursuit or the force orders he had followed.
+
+Vance issued no confession. Through counsel, he stated that the later reconstruction was an authorized continuity product released during an active foreign threat, that the local K-17 failure did not establish the absence of enemy activity, and that his live authentication showed responsible executive action rather than concealment.
+
+The statement fit the source well enough to require a real answer. It did not dispute that he saw the failed local state before release.
+
+The government Argus Configuration Control Office suspended APX-DIR-0019 from new operational release while preserving the certificate for examination. Vance retained legal and corporate rights. He lost the ability to make another product controlling before the argument began.
+
 ---
 
 The two tracks met on Grant’s display.

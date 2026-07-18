@@ -204,6 +204,16 @@ LSS published last. The acknowledgment named the office device, continuity excep
 
 The three receipts resolved through separate systems. None required the MPD chest to open. None required the signer to answer another challenge.
 
+At Forward Post Arjun, Qureshi printed the public Argus notice beside India’s still-classified local acknowledgment. The American document did not claim that Washington had saved the mountain. It stated that the poisoned support product had been withdrawn and that the later reconstruction omitted a failed local event. The decision not to fire remained Sharma’s and Northern Command’s matter.
+
+Northern Command authorized a separate operational statement: no rounds had been fired in Mission Zebra-Nine, the local commander had held execution after the source state failed, and K-17 remained under technical review. It named no American subject, no field authority, and no location beyond the already public sector.
+
+Sharma read the last line twice.
+
+NO ROUNDS FIRED.
+
+The sentence was smaller than everything the night had contained. It was also the result the soldiers at the guns could verify without trusting Argus, Apex, Julie, or the politics in Washington.
+
 News alerts simplified the result within minutes. One called Julie exonerated. Another called Vance the architect of the entire attack. A third said Sterling had been implicated in directing a covert operation.
 
 Grant did not chase the headlines. She checked that the public pages still carried the proof limits and that each receipt resolved to its own signed document.

@@ -162,6 +162,22 @@ NSB-EMERGENCY CONTINUITY REQUEST.
 
 Price stared at his name attached to a record class he had never used. Shah touched the edge of his sleeve, not to stop him, but to keep the silence from answering for him.
 
+The later request preserved phrases from his original: transient source state, integrity review, time-sensitive preservation. Around them sat fields he had never written. The continuity object used the caution in his request as the reason to bypass ordinary delay. It had taken the part of him that distrusted a disappearing display and converted it into an apparent demand for operational action.
+
+Price asked to see the inherited-reference field beside his original receipt. Grant allowed the comparison without exposing the route beyond the categories already produced.
+
+The request number matched exactly. The requestor name matched. The source subject line matched. His original signature did not appear. Instead, the office object identified the inherited reference as sufficient authentication for continuity processing.
+
+“They used the receipt as authority,” Price said.
+
+Grant corrected the scope. “The office workflow treated it as inherited authority. We have not yet shown who caused that workflow to run.”
+
+Price looked at the administrative attorney across from him. “Your report says I tried to persist unauthorized data. This system turned the persistence request into permission to act.”
+
+The attorney did not argue. “The administrative review concerns what you did. The later construction is under separate inquiry.”
+
+For the first time, Price understood why keeping both records separate protected him better than a statement calling him vindicated. His real act would remain visible. The borrowed act would no longer be able to hide inside it.
+
 “Did you create that record?” Grant asked.
 
 “No.”

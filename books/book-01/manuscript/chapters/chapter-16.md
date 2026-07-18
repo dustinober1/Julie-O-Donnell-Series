@@ -132,6 +132,59 @@ The language was defensive. It was also exact.
 
 Julie had assumed Sarah’s compliance vocabulary existed only to protect Apex. Some of it did. The same habit had preserved the moment Vance changed an evidence-recovery problem into a force problem and then an occupied-room suppression act.
 
+---
+
+Apex Building Three
+Reston, Virginia
+09:03 Eastern Daylight Time
+
+Sarah stood at the incident desk while the building generated the first consolidated account.
+
+The draft described Julie as the architect of a deliberate source corruption, Marcus as an armed accomplice, and Elias as a coerced employee whose administrator credential had been exploited during the attack. It listed the fire alarm, production-gate entry, suppression discharge, and stolen telemetry case. Every event had happened. The document placed them in the order most useful to Apex.
+
+The source-contamination discovery appeared after the unauthorized export. Vance’s material-loss force addendum appeared under continuing containment. The occupied-room suppression override appeared as an automated equipment-protection response. Sarah’s refusal to authorize lethal force did not appear at all.
+
+Vance entered the incident room with counsel and told her to certify the summary for government coordination.
+
+“It is a narrative,” Sarah said. “The source index is not complete.”
+
+“The source index contains privileged command traffic and technical details irrelevant to apprehension.”
+
+“It contains the order of the force directives and the suppression override.”
+
+“The executive addendum restated the capture priority.”
+
+“It changed the force condition from threat to life to loss of material.”
+
+Counsel said, “That is your interpretation.”
+
+Sarah turned the two directives on the display. “Then preserve both and let someone else interpret them.”
+
+Vance looked at the draft. “The occupied-room interlock had been defeated by the intruders’ fire action.”
+
+“The room still reported three occupants when APX-DIR-0019 armed suppression.”
+
+“They had compromised the life-safety controller.”
+
+“The hardened status channel is the source saying otherwise.”
+
+Vance’s voice lowered. “You are permitting procedural ambiguity to become their defense.”
+
+“No. I am refusing to make our first report cleaner than the system record.”
+
+Mercer joined from a second station. Sarah asked him to state only what he had directly observed: Julie and Marcus inside the review room, the case in Marcus’s custody, the evacuation, the attempted administrative hold, the lower-tier pursuit, the gate standoff, Vance’s force addendum, and the later order to recover media after the occupied-room override.
+
+Mercer refused one sentence counsel had drafted for him: that Julie had intentionally used fire to damage a strategic system. He had seen her use the life-safety network. He had not seen her intent.
+
+Sarah sealed the source-category index before Vance could replace it with the narrative. She preserved the company’s objections beside it and accepted the internal review notice that followed under her name.
+
+She did not warn Julie. She did not withdraw the alert. She preserved the record in which those acts would later be judged.
+
+---
+
+Secure MPD Evidence Intake
+Washington, D.C.
+
 “I misread her,” Julie said.
 
 Ortiz folded the printed notice. “You can tell her after counsel clears contact.”

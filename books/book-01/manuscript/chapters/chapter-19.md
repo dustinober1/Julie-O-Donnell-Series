@@ -284,6 +284,57 @@ Julie looked at the public photograph of herself still visible on the muted inta
 
 Grant left for Hartwell.
 
+---
+
+Hartwell Executive Briefing Annex
+Washington, D.C.
+11:07 Eastern Daylight Time
+
+Hartwell’s production room had no place for the MPD chest and no authority to ask for it.
+
+Grant entered with the DCIS receiving instrument, a clean encrypted receiver, and a paper scope card. Hartwell duty security officer Renee Collins read the card beneath the local camera and compared every requested field with the administrative hold created the previous morning.
+
+The held record covered the local challenge window, controlled doors, device serial, access classes, challenge result, and institutional custody path immediately before and after. It excluded briefing content, attendees not physically connected to the device, and every camera outside the challenge corridor.
+
+Collins identified the Hartwell clock source and its offset from the government product registry. Grant kept both. A perfect common time would have been easier to read and harder to defend.
+
+The local challenge began at 07:46:58 on October 13.
+
+DEVICE SERIAL: SSO-NS-004
+OFFICE AUTHORITY: STERLING OFFICE NATIONAL SECURITY
+LOCAL PERIMETER CHALLENGE: ACCEPTED
+CHALLENGE RESPONSE: VALID
+
+A compact signer case entered the challenge corridor through a credentialed legislative-support path. The camera showed a closed case, a gloved Hartwell security officer, and an office support courier whose identity remained masked in the first production because LSS controlled the personnel link. The courier never opened the case. The device answered while the case remained inside the marked challenge cradle.
+
+The challenge event did not show Sterling, his hand, or any command from him. It showed an office-registered device arriving under an authorized support path and satisfying the perimeter condition required by the WSS routing message.
+
+At 07:48:21, Hartwell security removed the closed case from the cradle and returned it to the same credentialed office custody class. The event log identified the receiving role, not the person. Less than a minute later, the next authentication window opened elsewhere in the operational chain.
+
+Grant asked Collins whether Hartwell could identify the individual courier.
+
+“LSS owns the identity binding,” Collins said. “Hartwell can certify the credential class, challenge corridor, case serial, and handoff. We cannot unmask the office assignment through this record.”
+
+“Current location?”
+
+“Not Hartwell. The case left through the authorized legislative-support path before the preservation demand reached us.”
+
+That absence became the most urgent fact in the room.
+
+Grant generated a source-limited derivative and verified its first event, last event, count, clock basis, device serial, challenge state, and withheld categories. Collins retained the original. Grant carried only the derivative and an authenticated Hartwell request that Legislative Secure Services locate SSO-NS-004 and place it under no-use control without powering or challenging it.
+
+The signer had entered Hartwell lawfully enough to satisfy the local system and left before anyone asked who held it.
+
+Grant returned to the DCIS channel from Hartwell’s controlled phone.
+
+“The device is confirmed. The physical courier remains an LSS identity. SSO-NS-zero-zero-four is no longer at Hartwell. Locator and no-use request transmitted.”
+
+The result did not identify Sterling.
+
+It converted the signer from a certificate into a moving physical object that an institution now had to find.
+
+---
+
 Alvarez’s receiving instrument remained on the wall beside Sarah’s source index and Arjun’s bounded acknowledgment. Three records. Three custodians. One named receiver responsible for testing whether they described the same operation.
 
 For the first time, no institution could preserve only its own exception and call the work complete.

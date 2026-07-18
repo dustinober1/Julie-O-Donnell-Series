@@ -52,6 +52,12 @@ The room had been designed for map briefings, not wet soldiers. Condensation gat
 
 The patrol had reached Point Kestrel late after ice closed the western traverse and one man lost his footing near the second anchor line. From Kestrel, they observed K-17 through thermal optics and glass for nine minutes. The mast stood. External power appeared normal. The weather cover over the service enclosure remained closed. No person occupied the visible outer compound.
 
+The final approach had cost Pal his footing. A sheet of ice had broken beneath the third man while the patrol crossed a narrow shelf below the relay. Pal caught the man’s harness, struck his own head against the anchor rock, and remained on the line until Rao transferred the weight. The patrol could have turned back under its casualty rule. Pal had passed the field orientation check and insisted that the relay remained visible from the next protected fold.
+
+Rao accepted one more bound, then stopped the patrol at Kestrel long enough to observe before allowing any approach. The delay gave the unseen occupants time to withdraw if they were still outside. It also prevented five exhausted soldiers from walking directly into a compound because a machine in another country had declared what should be there.
+
+When they moved, they did so in pairs with the relay mast between them and the ridgeline. One soldier covered the western escape terrain. One watched the closed inner boundary. Sethi approached only after Rao photographed the wicket from outside its sensor line. The patrol never formed the single cluster the earlier American model had projected onto enemy units. Mountain procedure already knew that real people moved around exposure, injury, weather, and fear.
+
 At the outer security wicket, frozen mud held six partial approach marks and a deeper cut where a rigid tool had been set against the lower frame. The latch was closed when the patrol arrived. A narrow strip of anti-tamper paint had been shaved from the receiver. Behind protective glass, the access indicator showed a steady accepted state.
 
 Rao placed the first image beneath the camera.

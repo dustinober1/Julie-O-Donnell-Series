@@ -300,6 +300,16 @@ October 16
 
 The farm appeared beyond the trees in late light.
 
+Webb's driver stopped at the top of the gravel lane. Julie sat for a moment with her left hand on the door handle and listened to the engine idle. No radio reported her location. No secure line waited for acknowledgment. The ordinary absence of a system felt less like peace than a sense she had forgotten to check one.
+
+Webb had arranged for the neighbor to hold Julie's personal phone until counsel reviewed the messages and for someone else to drive the Ford home from the police lot. Julie had protested both arrangements and lost to the physician's order before the argument became serious.
+
+The Ford stood beside the barn with the mechanical key on the kitchen table. Her phone remained powered down inside a paper evidence-style bag that was not evidence at all, only a boundary Webb knew Julie would understand.
+
+Inside the farmhouse, the refrigerator had begun its uneven hum. A stack of unopened mail waited beneath a feed-store calendar. On the counter sat a note from her neighbor listing the horses' meals, the mare's minor scrape, and the mornings the well pump had complained. Nothing on the page required classification, authority, or a proof ceiling. It required Julie to decide when she could safely climb the barn steps again.
+
+She left the mail unopened and walked toward the pasture.
+
 The sight produced relief first and suspicion behind it. For six years, the farm had been the place where every failure announced itself in wood, wire, mud, or flesh. Returning could become another form of hiding if she let distance make decisions for her.
 
 The porch still leaned east. The barn still needed a roof. Near the lower pasture, the replacement cedar post lay beside the hole Julie had dug before Marcus arrived.

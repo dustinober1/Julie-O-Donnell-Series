@@ -109,6 +109,16 @@ She widened the range by twelve hours in each direction.
 
 Still none.
 
+Grant asked the reader for the board’s lifetime counter, manufacturing initialization, last verified maintenance event, and every increment between them. The total was continuous. No rollover, reset, skipped number, or counter-repair event appeared. The deployment interval sat between two ordinary development signatures without room for the missing act.
+
+Apex counsel argued that the secure element could have entered an emergency shadow mode not exposed to an untrusted reader. Grant requested the public certificate policy stored on the board. The policy listed every event class capable of using the private key. Emergency administrator access remained counter-bound. Backup signing remained counter-bound. Recovery signing remained counter-bound. No uncounted shadow mode appeared.
+
+“That policy could be incomplete,” counsel said.
+
+“It could,” Grant replied. “Produce the signed manufacturer extension or Apex modification that adds the claimed mode. Until then, the physical object exposes one continuous counter.”
+
+Julie watched Grant refuse the temptation to call the missing event impossible. She made Apex carry the mechanism it proposed instead of using confidence in the board as a substitute.
+
 Apex counsel said, “That does not exclude a mirrored-signature service presenting the board certificate without advancing the local counter.”
 
 Grant looked at the screen. “Correct. It excludes physical signing by this board in the displayed range.”

@@ -112,6 +112,22 @@ Ortiz looked at Mercer. “Which instruction are you operating under?”
 
 That was not allegiance to Julie. It was a professional refusing to create an unreceipted disappearance in front of public cameras.
 
+MPD Watch Commander Helena Brooks arrived before the first package moved. She wore no tactical armor, only a uniform shirt beneath a rain shell and the expression of a person who had been briefed by four agencies that each believed it owned the scene.
+
+Brooks ordered the garage ramps held for emergency vehicles and ordinary civilian exit rather than sealed as a tactical box. Office workers trapped on the upper level were allowed to leave through a screened lane after officers photographed the route and warned them not to approach the van. Several carried phones already showing Julie’s Apex photograph. One man stopped long enough to stare at her before Park moved him on.
+
+“Public safety first,” Brooks told Mercer. “No private team establishes a crossfire in a commercial garage. Your people remain behind my line unless Officer Ortiz asks for technical assistance.”
+
+Mercer looked toward the east ramp, where an Apex vehicle waited beyond the police barrier. “If they move the media, I am responsible for failing to recover it.”
+
+“You are responsible for the orders you follow here,” Brooks said. “MPD is responsible for movement.”
+
+She reviewed the two force directives Sarah had preserved. Vance’s executive addendum treated imminent loss of material as a national-security emergency. Sarah’s instruction restricted firearms to an identified deadly threat with a clear background. Brooks signed the scene log accepting Sarah’s narrower standard for every person inside the police perimeter.
+
+Julie watched Mercer read the signature. His face did not show gratitude. It showed the release of one impossible choice: he no longer had to decide whether a man in Reston could turn evidence loss into permission to shoot across civilians in Washington.
+
+Brooks had never seen the feed. She did not know whether Julie was right. She did not need to know before making the garage survivable.
+
 Ortiz began with Marcus.
 
 The aluminum incident-capture case stayed between his boots. He read the etched serial without touching the latches. The display remained green. Marcus stated the summary Julie had taught him to keep separate from interpretation: 136 sealed files, 47 incomplete, 311 excluded during finalization. He did not recite every file or claim the capture proved what Apex had done.
