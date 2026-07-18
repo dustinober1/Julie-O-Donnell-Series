@@ -2,17 +2,17 @@
 
 ## What needs you
 
-Novel Forge is ready to continue drafting.
+First Chapter is ready for your decision.
 
 ## Recommended action
 
-Draft the next ready chapter packet.
+Review the first chapter evidence and approve it or request changes.
 
 Run: `/novel`
 
 ## Why this stopped
 
-No human gate or integrity blocker is stopping the recommended next step.
+Novel Forge stopped because first chapter requires an explicit writer approval before creative work can continue.
 
 ## Project snapshot
 
@@ -22,24 +22,25 @@ No human gate or integrity blocker is stopping the recommended next step.
 - Runtime profile: full
 - Active book: book-01
 - Stage: drafting
-- Next gate: none
-- Manuscript words: 0
-- Blocking tickets/conflicts: 0
-- Warnings: 1
+- Next gate: first-chapter-approval (pending)
+- Manuscript words: 3477
+- Blocking tickets/conflicts: 1
+- Warnings: 2
 
 ## Blockers
 
-- none
+- Human approval required: First Chapter
 
 ## Warnings
 
 - This project records older Novel Forge 1.4.1; upgrade metadata to 1.4.2.
+- 1 uncommitted file(s) exist.
 
 ## Recent files
 
-- books/book-01/research-ledger.yaml
-- research/source-register.yaml
-- HANDOFF.md
-- STATUS.md
 - books/book-01/BOOK.yaml
 - PROJECT.yaml
+- books/book-01/voice-audits.yaml
+- books/book-01/chapter-queue.yaml
+- books/book-01/manuscript/chapters/01-the-farm.md
+- HANDOFF.md
