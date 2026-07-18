@@ -8,10 +8,12 @@ A disgraced Army intelligence analyst discovers that synthetic telemetry is bein
 
 - Prologue plus 24 chapters.
 - Accepted manuscript inventory: `books/book-01/ACCEPTED_MANUSCRIPT.yaml`.
-- Accepted words: **105,081**.
+- Accepted words: **105,144**.
 - Developmental revision completed: **2026-07-18**.
 - Publication-rhythm pass completed: **2026-07-18**.
 - Targeted one-sentence-paragraph repair completed: **2026-07-18**.
+- Public-source desk review completed: **2026-07-18**.
+- Post-research continuity audit completed: **2026-07-18**.
 - Series-opener resolution retained.
 
 ## Structural engines
@@ -45,4 +47,4 @@ The third engine now operates as one accumulating proof sequence across October 
 
 ## Publication state
 
-Developmental edit complete. External specialist review, technical continuity review, line/copyedit, and proofread remain mandatory.
+Developmental edit, public-source desk review, and post-research continuity reconciliation are complete. External specialist review, any resulting technical correction and continuity review, line/copyedit, and proofread remain mandatory.

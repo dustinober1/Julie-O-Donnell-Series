@@ -6,7 +6,7 @@
 
 | Stage | Source / speaker | Public or official claim | Surviving contradiction |
 |---|---|---|---|
-| Immediate operation | Local routing log | Abort begins before weapon release but finishes authentication after release. | Local cache later disappears. |
+| Immediate operation | Local routing log | Formal abort recommendation begins before weapon release but finishes authentication after release. | Local cache later disappears. |
 | Final Army timeline | Investigation panel | Strike authorization, objection, and release appear only at minute resolution; uncertainty in the intelligence section delayed communication. | Julie remembers and had seen the four-second ordering. |
 | Marcus testimony | Marcus | There was confusion in the room. | He knew Hargrove understood Julie's substantive objection. |
 | Institutional result | Army/Apex program | Julie is cleared of misconduct while the causal account remains analyst delay; Argus continues. | Machine/source failure and gateway delay remain unresolved. |
@@ -140,7 +140,7 @@ Explicitly does not establish:
 
 | Character | Corrected public/institutional status by Book 1 end |
 |---|---|
-| Julie | Unsupported source-authorship accusation withdrawn; separate conduct and charging unresolved; conditional release through counsel; no restored clearance. |
+| Julie | Unsupported source-authorship accusation withdrawn; separate conduct and charging unresolved; released from MPD custody under written authorization after prosecutorial consultation, with counsel-arranged transport and preservation undertakings; no restored clearance. |
 | Marcus | No longer simply armed accomplice; own six-years-earlier testimony correction and later conduct remain under review; medical/administrative hold. |
 | Elias | Hostage label removed; original physical-token attribution rejected; later voluntary acts remain his and may carry legal exposure. |
 | Price | Apparent later request attribution rejected; authentic expedited request and rejected access attempt remain under DIA review. |

@@ -7,11 +7,11 @@
 | Time / period | Event | Status |
 |---|---|---|
 | 09:38 local operation time | Strike authorization enters the official minute-level timeline. | LOCKED |
-| 09:41:16 | Julie initiates the abort request. | LOCKED |
+| 09:41:16 | Julie transmits the formal abort recommendation through the emergency strike channel. | LOCKED |
 | 09:41:19 | Weapon release occurs. | LOCKED |
-| 09:41:20 | Gateway authentication completes and the abort reaches the platform after release. | LOCKED / VALIDATE mechanism |
+| 09:41:20 | Gateway authentication completes and the recommendation reaches the strike platform after release. | LOCKED / VALIDATE mechanism |
 | Following impact | Eleven civilians die, including five children; Imran Khalid is misidentified; Anwar's real convoy escapes. | LOCKED |
-| Nine-week investigation | Four-second ordering disappears from the surviving official timeline; Marcus describes the room as confused. | LOCKED / VALIDATE JAG process |
+| Nine-week investigation | Four-second ordering disappears from the surviving official timeline; inquiry focuses on whether Julie formally communicated the recommendation; Marcus describes the room as confused. | LOCKED / VALIDATE JAG process |
 | Three months later | Julie resigns. | LOCKED |
 
 ## October 13 — immediate crisis
@@ -111,8 +111,9 @@ The accepted developmental revision resets the final lower-tier run to the preda
 
 | Time | Event | Status |
 |---|---|---|
-| 09:04 EDT | Julie's restraint-removal and conditional-release proceeding begins. | LOCKED / VALIDATE legal |
-| Later that day | Julie rejects permanent government return, records the terms of future work, and returns to the farm. | LOCKED |
+| 09:04 EDT | Recorded MPD custody review begins; written MPD release authorization and counsel undertaking are presented after federal and D.C. prosecutorial consultation. | LOCKED / VALIDATE legal |
+| Later that day | MPD removes the intake restraint and releases Julie for counsel-arranged medical transport; charging, later process, access, and evidence restrictions remain unresolved or separately controlled. | LOCKED |
+| Later that day | Julie rejects permanent government return, records the terms of future work, and returns to the farm after medical discharge. | LOCKED |
 | Final farm scene | No exact clock timestamp; neighbor holds the post while Julie holds the level. | LOCKED |
 
 ## Open timeline checks after specialist corrections

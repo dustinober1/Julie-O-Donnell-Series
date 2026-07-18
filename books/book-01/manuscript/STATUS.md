@@ -5,12 +5,14 @@
 **_Veridrift_ is developmentally revised, not publication-final.**
 
 - Canonical accepted manuscript: prologue plus Chapters 1–24.
-- Current accepted word count: **105,081**.
+- Current accepted word count: **105,144**.
 - Target range: **105,000–110,000**.
 - Developmental revision completed: **July 18, 2026**.
 - Publication-rhythm pass completed: **July 18, 2026**.
 - Targeted one-sentence-paragraph repair completed: **July 18, 2026**.
-- Prologue and Chapter 1 were preserved from the accepted pre-revision text.
+- Public-source desk review completed: **July 18, 2026**.
+- Post-research continuity audit completed: **July 18, 2026**.
+- Chapter 1 remained unchanged; the Prologue received a targeted authority clarification during the public-source desk review.
 
 ## Revision outcomes
 
@@ -33,8 +35,9 @@
 - heading and scene-spacing inconsistencies;
 - backticked display artifacts;
 - overexplicit Vance confession;
-- unrealistic same-morning federal resolution.
+- unrealistic same-morning federal resolution;
+- stale post-research authority and release metadata.
 
 ## Required before publication
 
-The manuscript still requires the external reviews listed in `../control/50-specialist-review-brief.md`, followed by approved technical revisions, a continuity check, line/copyedit, and proofreading.
+The manuscript still requires the named external reviews listed in `../control/50-specialist-review-brief.md`, followed by any approved technical revisions, a post-correction continuity check, line/copyedit, and proofreading.

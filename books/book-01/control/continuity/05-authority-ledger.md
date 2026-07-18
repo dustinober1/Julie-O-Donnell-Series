@@ -11,9 +11,9 @@ Authority is domain-specific. A person or institution may control a room, system
 ### Julie O'Donnell — six years earlier
 
 - Role: Army intelligence officer in a targeting-support environment.
-- Can: analyze source credibility, raise an objection, and initiate the depicted abort path.
-- Cannot automatically: override every release authority or command channel by personal conclusion.
-- VALIDATE: rank, formal targeting role, abort authority, gateway path, and later investigation.
+- Can: analyze source credibility, raise an objection, and transmit the formal abort recommendation through the depicted emergency channel.
+- Cannot automatically: exercise weapons-release authority, override every release authority, or command the strike platform by personal conclusion.
+- VALIDATE: rank, formal targeting role, recommendation path, gateway path, and later investigation.
 
 ### Lieutenant Colonel Daniel Hargrove
 
@@ -126,12 +126,14 @@ Authority is domain-specific. A person or institution may control a room, system
 - Can: define narrow test questions, select independent tools, make direct technical findings, and request bounded source productions.
 - Cannot: expand consent, source scope, or jurisdiction by technical relevance alone.
 
-### Prosecutor / court
+### Prosecutors, MPD release authority, and counsel
 
-- Prosecutor controls charging decisions, not technical examiners or program sponsors.
-- Court order controls removal of Julie's intake restraint and conditional release terms.
-- Release does not dismiss unfiled charges or restore clearance/access.
-- VALIDATE exact court, prosecutor, detention, and release procedure.
+- Federal and D.C. prosecutors control whether to seek a present charge or detainer within their respective authority; their October 16 decisions do not create a final charging disposition.
+- MPD controls Julie's physical restraint and release from MPD custody through a written authorization accepted by the watch commander after the recorded custody conference.
+- Counsel arranges transport and records availability and preservation undertakings. Those undertakings are not federal pretrial conditions and do not arise from a magistrate order.
+- Release does not dismiss an unfiled charge, prevent a later lawful arrest, warrant, summons, or detainer, or restore clearance/access.
+- Evidence contact remains prohibited without new written authority naming custodian, question, method, and scope.
+- VALIDATE exact prosecutor, MPD, detention, counsel-undertaking, and release procedure.
 
 ## Hartwell authority
 

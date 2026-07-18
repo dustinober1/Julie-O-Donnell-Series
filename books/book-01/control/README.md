@@ -10,6 +10,8 @@ Accepted prose and `../ACCEPTED_MANUSCRIPT.yaml` control canon. This directory c
 - Accepted manuscript status: **developmentally revised**
 - Publication-rhythm pass: **complete**
 - One-sentence-paragraph repair: **complete**
+- Public-source desk review: **complete**
+- Post-research continuity audit: **complete — PASS WITH MINOR REPAIRS**
 - Book 1 structural state: **complete**
 - Publication state: **not approved for publication**
 - Current gate: **external specialist review and copyedit required**
@@ -23,6 +25,12 @@ Accepted prose and `../ACCEPTED_MANUSCRIPT.yaml` control canon. This directory c
 - Senator Sterling's personal knowledge, direction, intent, or command remains unestablished.
 
 These are deliberate series threads, not Book 1 continuity gaps.
+
+## Current technical and continuity records
+
+- Public-source desk review: `58-internet-research-desk-review.md`
+- Post-research continuity audit: `59-post-research-continuity-audit.md`
+- Continuity ledgers: `continuity/01-master-timeline.md` through `continuity/07-public-narrative-ledger.md`
 
 ## Final-chapter records
 
@@ -43,12 +51,11 @@ The historical mission-lock and acceptance files remain useful provenance for Ch
 
 ## Publication program
 
-1. Reconcile all control metadata with the accepted manifest.
-2. Complete the seven tracked specialist reviews in `52-specialist-review-register.md`.
-3. Apply only approved critical and material corrections.
-4. Run a full continuity reconstruction.
-5. Complete the late-act compression, voice differentiation, line/copyedit, and proofread.
-6. Regenerate print and ebook files from the accepted inventory.
-7. Pass `tools/validate_book1_publication_readiness.py` against the final source.
+1. Complete the seven tracked specialist reviews in `52-specialist-review-register.md`.
+2. Apply only approved critical and material corrections.
+3. Run another continuity reconstruction after any further technical correction.
+4. Complete the late-act compression, voice differentiation, line/copyedit, and proofread.
+5. Regenerate print and ebook files from the accepted inventory.
+6. Pass `tools/validate_book1_publication_readiness.py` against the final source.
 
 Publication may not be marked ready while any required specialist area remains unreviewed, any critical finding remains unresolved, or any production output differs from the canonical source inventory.

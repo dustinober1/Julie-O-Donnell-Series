@@ -3,7 +3,7 @@
 **Manuscript:** *Veridrift*  
 **Canonical inventory:** `../ACCEPTED_MANUSCRIPT.yaml`  
 **External-review state:** No named external specialist finding has yet been received.  
-**Internal desk-review state:** Public-source review completed and continuity-validated on 2026-07-18; see `58-internet-research-desk-review.md`.
+**Internal desk-review state:** Public-source review completed on 2026-07-18; see `58-internet-research-desk-review.md`. Post-research continuity reconciliation completed on 2026-07-18; see `59-post-research-continuity-audit.md`.
 
 ## External finding register
 
@@ -25,14 +25,27 @@ These entries are internal editorial findings. They do not satisfy the named-rev
 | DR-06 | Indian Army / artillery / South Asia | Government of India Ministry of Defence / PIB releases | Chapters 2, 4–5, 8, 18, 23 | Retain with limitation | Public sources support surveillance fusion, LC readiness, artillery capability, and escalation awareness, but not the fictional bilateral pilot or exact command chain. | None. | RETAIN | CLOSED AT DESK-REVIEW CEILING |
 | DR-07 | Trauma medicine / injury continuity | CDC mild-TBI guidance; NCBI rib-fracture guidance | Chapters 6–17, 24 | Retain | Capability limits, oxygen concern, imaging, monitoring, and driving/lifting prohibitions are proportionate to the injuries shown. | None. | RETAIN | CLOSED AT DESK-REVIEW CEILING |
 
+## Post-research continuity reconciliation
+
+These are internal continuity classifications, not external specialist findings.
+
+| ID | Classification | Files / passages | Finding | Repair | Status |
+|---|---|---|---|---|---|
+| CR-01 | Confirmed contradiction | `continuity/01-master-timeline.md`; `continuity/05-authority-ledger.md` | Active controls still described October 16 as a court-controlled conditional-release proceeding after Chapter 24 had been corrected to written MPD release authorization following prosecutorial consultation. | Replaced court/proceeding language with the MPD authorization, prosecutor, and counsel-undertaking sequence. | CLOSED / VERIFIED BY CONTINUITY REVIEW |
+| CR-02 | Stale control metadata | `continuity/07-public-narrative-ledger.md` | Julie’s endpoint still used ambiguous “conditional release through counsel” language that could imply pretrial conditions. | Replaced with written MPD release authorization, counsel-arranged transport and preservation undertakings, and unresolved later process. | CLOSED / VERIFIED BY CONTINUITY REVIEW |
+| CR-03 | Stale current-status metadata | `manuscript/STATUS.md`; `control/00-overview.md`; current verification artifacts | Current surfaces retained 105,081 words, an obsolete prologue hash, or a claim that the Prologue was unchanged. | Synchronized to 105,144 words, current protected hashes, and the targeted prologue authority correction. | CLOSED / VERIFIED BY MANIFEST COMPARISON |
+| CR-04 | No issue | Accepted Prologue and Chapters 2, 15–24; all seven continuity ledgers | No accepted prose passage reintroduced weapons authority for Julie, a replayed live biometric/private key, federal pretrial conditions, or an expanded Vance/Sterling proof claim. | None. Accepted prose and manifest unchanged. | CLOSED / NO CHANGE |
+
+**Continuity verdict:** **PASS WITH MINOR REPAIRS**.
+
 ## Verification record
 
 - Accepted total: **105,144 words**.
-- Manifest titles, headings, per-file counts, and SHA-256 values validated.
-- Publication-readiness unit-test suite passed.
-- Accepted-manuscript compiler passed.
-- Final line verified: **The bubble stayed centered.**
-- Durable GitHub workflows passed on PR #79.
+- Accepted prose changed during this reconciliation: **none**.
+- `ACCEPTED_MANUSCRIPT.yaml` counts and SHA-256 values remain controlling and unchanged.
+- Post-research continuity report: `59-post-research-continuity-audit.md`.
+- Durable GitHub workflows remain the required execution proof for the audit branch and pull request.
+- Final line remains locked: **The bubble stayed centered.**
 
 ## Severity
 
