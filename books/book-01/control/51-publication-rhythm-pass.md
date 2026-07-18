@@ -16,9 +16,11 @@ The pass changes paragraph architecture only, plus one punctuation-only cadence 
 - Isolated narrative paragraphs of two words or fewer fell from **261** to **32**.
 - Isolated narrative paragraphs of seven words or fewer fell from **2,117** to **406**.
 - One-sentence narrative paragraphs fell from **2,963** to **513**.
+- The repository-wide prose metric fell from **5,836 / 8,361** one-sentence paragraphs (**69.8%**) to **3,386 / 5,909** (**57.3%**), including dialogue and technical blocks.
 - Dialogue and non-narrative technical formatting remain unchanged.
 - Updated accepted-file hashes are recorded in `books/book-01/ACCEPTED_MANUSCRIPT.yaml`.
-- Full measurements are in `artifacts/book1-publication-rhythm-pass.md`.
+- The developmental analyzer now rejects incomplete accepted-manuscript inventories instead of silently producing an empty report.
+- Full measurements are in `artifacts/book1-publication-rhythm-pass.md` and `artifacts/book1-developmental-analysis.md`.
 
 ## Publication boundary
 
