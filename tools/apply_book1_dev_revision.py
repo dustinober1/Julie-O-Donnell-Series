@@ -62,13 +62,15 @@ def revise_chapter_05(text: str) -> str:
         raise RuntimeError("Chapter 5 thermostat duplicate anchor missing")
 
     family_anchor = "The Argus source certification would transmit in forty-seven minutes."
-    family_insert = (
-        "The Argus source certification would transmit in forty-seven minutes.\n\n"
+    family_detail = (
         "His father expected him in Richmond by seven for a retirement dinner Elias had "
         "spent three weeks promising not to miss. The wrapped gift was still in his "
         "townhouse beside a card he had not finished."
     )
+    family_insert = family_anchor + "\n\n" + family_detail
     text = replace_idempotent(text, family_anchor, family_insert, "Elias family stake")
+    while family_detail + "\n\n" + family_detail in text:
+        text = text.replace(family_detail + "\n\n" + family_detail, family_detail, 1)
 
     confession_old = """“Have you ever considered why systems like Argus exist?”
 
