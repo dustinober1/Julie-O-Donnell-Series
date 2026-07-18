@@ -1,0 +1,56 @@
+name: Book 1 Rhythm Finalize
+
+on:
+  push:
+    branches: [agent/book1-rhythm-repair]
+
+permissions:
+  contents: write
+
+env:
+  PYTHONDONTWRITEBYTECODE: "1"
+
+jobs:
+  regenerate-and-verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: agent/book1-rhythm-repair
+          fetch-depth: 0
+
+      - name: Regenerate developmental metrics
+        run: python3 tools/analyze_book1_revision.py
+
+      - name: Recompile accepted manuscript
+        run: python3 tools/compile_book1_accepted.py
+
+      - name: Run independent final verification
+        run: python3 tools/verify_book1_revision.py
+
+      - name: Run publication-readiness checks
+        run: python3 tools/validate_book1_publication_readiness.py
+
+      - name: Confirm accepted word count
+        run: python3 tools/count_book1_words.py --expect 105081
+
+      - name: Parse synchronized YAML controls
+        run: ruby -e "require 'yaml'; YAML.load_file('PROJECT_STATE.yaml'); YAML.load_file('books/book-01/ACCEPTED_MANUSCRIPT.yaml')"
+
+      - name: Reject generated cache files
+        run: test -z "$(find . -type f \( -name '*.pyc' -o -name '*.pyo' \) -print -quit)"
+
+      - name: Diff hygiene
+        run: git diff --check
+
+      - name: Commit regenerated reports
+        run: |
+          if git diff --quiet; then
+            echo "No report changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add artifacts/book1-developmental-analysis.md artifacts/book1-final-verification.md books/book-01/compiled/current/Julie_O_Donnell_Book_1_REVISED.md
+          git commit -m "verify: regenerate Book 1 rhythm reports [skip ci]"
+          git push origin HEAD:agent/book1-rhythm-repair
