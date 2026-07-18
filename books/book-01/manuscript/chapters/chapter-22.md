@@ -155,9 +155,7 @@ A registered authority could have named Vance without placing him there. The liv
 
 “Do not release over a failed local commit.”
 
-Vance held his palm above the final field.
-
-“The local failure is why the remote product exists.”
+Vance held his palm above the final field. “The local failure is why the remote product exists.”
 
 The sentence did not prove he created Payload 88, initiated the 02:14 identity path, commanded the K-17 team, or acted on Sterling’s instruction. It established that the failed local authentication and zero-write result had been presented to him and that he understood the remote product existed to supersede the local failure.
 

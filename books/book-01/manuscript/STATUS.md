@@ -9,6 +9,7 @@
 - Target range: **105,000–110,000**.
 - Developmental revision completed: **July 18, 2026**.
 - Publication-rhythm pass completed: **July 18, 2026**.
+- Targeted one-sentence-paragraph repair completed: **July 18, 2026**.
 - Prologue and Chapter 1 were preserved from the accepted pre-revision text.
 
 ## Revision outcomes

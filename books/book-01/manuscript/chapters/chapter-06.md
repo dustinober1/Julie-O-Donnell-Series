@@ -96,9 +96,7 @@ Julie already knew. The copied packets could prove the alert false after the dea
 
 “Recovery interface,” she said.
 
-Elias looked at her.
-
-“You said the enclave keeps a local maintenance path for a contaminated feed.”
+Elias looked at her. “You said the enclave keeps a local maintenance path for a contaminated feed.”
 
 “A provenance-recovery console. Inside the gate.”
 
@@ -112,9 +110,7 @@ Elias looked at her.
 
 “Can it do it?”
 
-Elias glanced at the clock on the shutter panel.
-
-“Yes.”
+Elias glanced at the clock on the shutter panel. “Yes.”
 
 “Then take us there.”
 

@@ -18,9 +18,7 @@ Each institution had preserved its part. MPD held seven packages. Hartwell held 
 
 “There is no verified basis for treating an allied acknowledgment, unlawfully removed contractor material, a disputed Hartwell access event, and a local hardware observation as one federal incident.”
 
-Ortiz stood beside the common chest without touching the key clipped inside his vest.
-
-“They are already one MPD incident.”
+Ortiz stood beside the common chest without touching the key clipped inside his vest. “They are already one MPD incident.”
 
 “That is police packaging. It does not create federal jurisdiction.”
 

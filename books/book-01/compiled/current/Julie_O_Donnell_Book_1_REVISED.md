@@ -106,9 +106,7 @@ Marcus turned to Hargrove. “She’s right. Abort it.” He had waited until th
 
 “Then command approved bad intelligence.”
 
-The speaker crackled.
-
-“Hammer One. Release criteria met. Standing by.”
+The speaker crackled. “Hammer One. Release criteria met. Standing by.”
 
 Julie shoved past Hargrove, opened the emergency strike channel, and transmitted the order.
 
@@ -290,9 +288,7 @@ The Suburban stopped beside her truck. The driver’s door opened. Colonel Marcu
 
 “You’ve got nerve.”
 
-Marcus closed the vehicle door without taking his eyes off her.
-
-“I tried calling.”
+Marcus closed the vehicle door without taking his eyes off her. “I tried calling.”
 
 “I noticed.”
 
@@ -300,9 +296,7 @@ Marcus closed the vehicle door without taking his eyes off her.
 
 “That was the idea.”
 
-He glanced at the shotgun.
-
-“Are you planning to shoot me?”
+He glanced at the shotgun. “Are you planning to shoot me?”
 
 “Not if you leave.”
 
@@ -362,9 +356,7 @@ Her gaze lifted to his.
 
 “The relay was operating through a mountain weather system severe enough to knock two reconnaissance platforms offline.”
 
-Julie looked back at the readings.
-
-“Equipment calibration?”
+Julie looked back at the readings. “Equipment calibration?”
 
 “Passed.”
 
@@ -508,9 +500,7 @@ He had not contacted her after that. Not when she moved to Culpeper, or when the
 
 “Does Apex?”
 
-Marcus paused.
-
-“They know I requested temporary consultant access.”
+Marcus paused. “They know I requested temporary consultant access.”
 
 “For whom?”
 
@@ -544,9 +534,7 @@ The admission was quieter than an apology and harder to dismiss. Julie turned aw
 
 “I should have backed you sooner.”
 
-She closed her eyes.
-
-“Don’t.”
+She closed her eyes. “Don’t.”
 
 “I’m not asking you to forgive me.”
 
@@ -594,9 +582,7 @@ Julie turned back toward him. Marcus had always been a poor liar when forced to 
 
 “What else?” she asked.
 
-He hesitated.
-
-“Argus marked the assessment at one hundred percent confidence for fourteen seconds yesterday.”
+He hesitated. “Argus marked the assessment at one hundred percent confidence for fourteen seconds yesterday.”
 
 Something tightened beneath Julie’s ribs.
 
@@ -612,9 +598,7 @@ Something tightened beneath Julie’s ribs.
 
 “That was the request that got Price’s credentials suspended.”
 
-Julie looked again at the black Suburban.
-
-“You brought a security detail?”
+Julie looked again at the black Suburban. “You brought a security detail?”
 
 “No.”
 
@@ -634,9 +618,7 @@ Julie looked again at the black Suburban.
 
 “It’s a fleet rental under a commercial account.”
 
-She raised an eyebrow.
-
-“Army Intelligence has improved since I left.”
+She raised an eyebrow. “Army Intelligence has improved since I left.”
 
 “Only in narrow areas.”
 
@@ -698,15 +680,11 @@ His shoulders lowered by perhaps half an inch.
 
 “Try faster.”
 
-Marcus nodded.
-
-“And the third?”
+Marcus nodded. “And the third?”
 
 “Whoever authorized that vehicle. Tell them their commercial rental is parked on private property and will be towed if it leaks oil.”
 
-He looked back at the Suburban.
-
-“It doesn’t leak oil.”
+He looked back at the Suburban. “It doesn’t leak oil.”
 
 “Then you have one less problem.”
 
@@ -792,17 +770,11 @@ Sarah gave away almost nothing.
 
 “That wasn’t my question.”
 
-Marcus intervened.
+Marcus intervened. “Ms. O’Donnell’s notes fall under my review authority.”
 
-“Ms. O’Donnell’s notes fall under my review authority.”
+Sarah looked at him. “Director Vance adjusted the access conditions ten minutes ago.”
 
-Sarah looked at him.
-
-“Director Vance adjusted the access conditions ten minutes ago.”
-
-Marcus’s jaw tightened.
-
-“On whose request?”
+Marcus’s jaw tightened. “On whose request?”
 
 “The review environment is owned and maintained by Apex. Director Vance is the designated security authority for the technical floor.”
 
@@ -810,9 +782,7 @@ Marcus’s jaw tightened.
 
 “You requested access to restricted proprietary architecture supporting a classified operational system. Director Vance approved a supervised sandbox.”
 
-Julie looked from Sarah to Marcus.
-
-“Show me.”
+Julie looked from Sarah to Marcus. “Show me.”
 
 Sarah turned the tablet. The authorization filled the screen.
 
@@ -828,9 +798,7 @@ At the bottom, a timestamp showed the permissions had been modified at 11:39. Fo
 
 “They waited until I arrived,” Julie said.
 
-Sarah withdrew the tablet.
-
-“The director reviews all nonstandard access.”
+Sarah withdrew the tablet. “The director reviews all nonstandard access.”
 
 “He reviewed my license plate.”
 
@@ -862,9 +830,7 @@ The assessment would enter the allied channel in less than five hours. Sarah kne
 
 “Take us to the room,” Julie said.
 
-Marcus turned toward her.
-
-“Julie—”
+Marcus turned toward her. “Julie—”
 
 “We’re already inside.”
 
@@ -882,9 +848,7 @@ No one answered. Sarah remained at the door.
 
 “That isn’t what I asked.”
 
-Sarah’s eyes narrowed slightly.
-
-“The source package provided by Army Intelligence has been imported without modification.”
+Sarah’s eyes narrowed slightly. “The source package provided by Army Intelligence has been imported without modification.”
 
 “By Apex.”
 
@@ -900,9 +864,7 @@ Julie set her notebook on the table.
 
 “No,” Sarah said. “But it is usually an answer to people who know what they’re looking at.”
 
-Marcus stepped between them before Julie could respond.
-
-“Thank you, Ms. Chen.”
+Marcus stepped between them before Julie could respond. “Thank you, Ms. Chen.”
 
 Sarah held his gaze for a moment, then left. The steel door sealed behind her. Julie listened to the lock engage.
 
@@ -924,9 +886,7 @@ Marcus rubbed one hand over his face.
 
 “Apex technical staff loaded it.”
 
-Julie pulled out a chair.
-
-“So we do not know whether this is the raw feed.”
+Julie pulled out a chair. “So we do not know whether this is the raw feed.”
 
 “It carries the original government checksums.”
 
@@ -934,9 +894,7 @@ Julie pulled out a chair.
 
 “I know.”
 
-She looked at him.
-
-“That phrase sounds unnatural in your mouth.”
+She looked at him. “That phrase sounds unnatural in your mouth.”
 
 “I’ve had practice since this morning.”
 
@@ -946,13 +904,9 @@ PAK_RELAY_17A
 OPERATIONAL TELEMETRY REVIEW
 ARGUS-ENT-4.6
 
-Julie opened her notebook.
+Julie opened her notebook. “Before we touch anything, tell me the official version.”
 
-“Before we touch anything, tell me the official version.”
-
-Marcus remained standing.
-
-“Argus detected synchronized encrypted emissions from three Pakistani military installations. Movement models indicate mobile artillery units are preparing to reposition toward the Line of Control under civilian communications cover. The pattern has been classified as state-sponsored offensive preparation.”
+Marcus remained standing. “Argus detected synchronized encrypted emissions from three Pakistani military installations. Movement models indicate mobile artillery units are preparing to reposition toward the Line of Control under civilian communications cover. The pattern has been classified as state-sponsored offensive preparation.”
 
 “Independent confirmation?”
 
@@ -982,9 +936,7 @@ She scrolled through the first minute of data, then the second. Marcus moved clo
 
 “What do you see?”
 
-Julie did not answer. The transmissions arrived every eleven-point-two seconds. Signal strength varied by less than one tenth of a decibel. The relay had been operating through freezing rain, wind shear, and intermittent power loss. None of it touched the data. The transmissions marched across the screen with machine-made precision.
-
-Julie’s fingers went cold around the pen.
+Julie did not answer. The transmissions arrived every eleven-point-two seconds. Signal strength varied by less than one tenth of a decibel. The relay had been operating through freezing rain, wind shear, and intermittent power loss. None of it touched the data. The transmissions marched across the screen with machine-made precision. Julie’s fingers went cold around the pen.
 
 Six years later, the machine was lying in exactly the same voice.
 
@@ -1041,9 +993,7 @@ Seven small fluctuations appeared near the beginning of the packet. The same clu
 
 “Marcus.”
 
-He moved beside her.
-
-“Carrier noise doesn’t repeat exactly.”
+He moved beside her. “Carrier noise doesn’t repeat exactly.”
 
 “What would cause it?”
 
@@ -1211,9 +1161,7 @@ APX-DIR-0019.
 
 The service had created a temporary mirror of his workstation, replayed his biometric token, and hidden the elevated act behind his identity. The mirror preserved the workstation serial, local clock, credential path, and expected biometric response. The audit trail did not look forged. It looked complete. Anyone reviewing it later would begin with Elias’s name, token, desk, and confirmed authentication. The administrative service sat one layer lower, available only to someone who already doubted the official event enough to look. The system had not fabricated an implausible alibi for itself. It had assembled the exact evidence an investigator had been trained to trust.
 
-His hands began to shake. A message from Martin Keller asked for a clean resolution to Ticket 4811 before the readiness review. Elias did not answer. The drawer beneath his desk held an encrypted maintenance drive used for debugging transfers between isolated systems. Using it outside procedure could cost his clearance.
-
-The risk had already changed shape.
+His hands began to shake. A message from Martin Keller asked for a clean resolution to Ticket 4811 before the readiness review. Elias did not answer. The drawer beneath his desk held an encrypted maintenance drive used for debugging transfers between isolated systems. Using it outside procedure could cost his clearance. The risk had already changed shape.
 
 He inserted the drive.
 
@@ -1230,9 +1178,7 @@ The door would not open. His internal phone rang while the transfer reached 56 p
 
 “Elias, what are you doing?”
 
-Elias muted the microphone.
-
-“Stop the transfer. Compliance flagged a corrupted validation object. They’re isolating the lab.”
+Elias muted the microphone. “Stop the transfer. Compliance flagged a corrupted validation object. They’re isolating the lab.”
 
 Elias unmuted. “Payload Eighty-Eight is in production.” Keller went still. That was answer enough.
 
@@ -1597,9 +1543,7 @@ Sarah’s gaze hardened. “You can continue escalating this, or you can come up
 
 “Convenient.”
 
-Mercer reached for the case, but Marcus took the handle first.
-
-“Colonel, do not make me remove that from you.”
+Mercer reached for the case, but Marcus took the handle first. “Colonel, do not make me remove that from you.”
 
 “Put your name on a custody receipt.”
 
@@ -1741,9 +1685,7 @@ No black vehicle followed. That did not mean they had lost it. The driver could 
 
 “We have files copied from a monitored partition. Vance controlled the source environment and knew the destination device. Until we inspect them, we don’t know whether they let us take poisoned evidence.”
 
-Marcus looked out at the trees, then nodded.
-
-“Where?”
+Marcus looked out at the trees, then nodded. “Where?”
 
 Julie saw a sign for Manassas.
 
@@ -1795,9 +1737,7 @@ The warning remained for less than a second, then vanished.
 CONFIDENCE: 99.8%
 SOURCE INTEGRITY: VERIFIED
 
-Sharma leaned toward the screen.
-
-“Did you see that?”
+Sharma leaned toward the screen. “Did you see that?”
 
 “Yes, ma’am.”
 
@@ -1868,9 +1808,7 @@ Julie’s personal phone remained locked inside the Apex security desk. Her elec
 
 “I think they deleted the partition while I was exporting. I think they knew the destination device. And I think believing evidence because a screen says integrity verified would be a strange lesson to take from today.”
 
-Marcus looked down at the case.
-
-“We can inspect it after Hackett has custody.”
+Marcus looked down at the case. “We can inspect it after Hackett has custody.”
 
 “If Hackett gets custody.”
 
@@ -1926,9 +1864,7 @@ They bought dark rain jackets, work gloves, two pairs of gray coveralls, flashli
 
 “We’ll use a landline.”
 
-Marcus looked toward the motel.
-
-“You trust motel telephones?”
+Marcus looked toward the motel. “You trust motel telephones?”
 
 “No. I understand what they are.”
 
@@ -1954,9 +1890,7 @@ No one had opened the badge casing. Yet. The door unlocked. Arthur Vance entered
 
 “Mr. Thorne.”
 
-Elias did not answer.
-
-“Do you understand why you’re here?”
+Elias did not answer. “Do you understand why you’re here?”
 
 “I found a synthetic validation package inside the live production environment.”
 
@@ -1994,9 +1928,7 @@ He looked farther down. The statement claimed Elias had moved Payload 88 into pr
 
 “You confiscated it.”
 
-Vance folded his hands.
-
-“Facility security recovered an empty maintenance-drive housing.”
+Vance folded his hands. “Facility security recovered an empty maintenance-drive housing.”
 
 The circuit board pressed against Elias’s chest inside the badge. He kept his expression still.
 
@@ -2008,9 +1940,7 @@ The circuit board pressed against Elias’s chest inside the badge. He kept his 
 
 “The distinction may matter to an engineer. It will matter less to a federal investigator reviewing a critical intelligence compromise.”
 
-Elias looked at the confession.
-
-“Is that what you’re calling it? A compromise?”
+Elias looked at the confession. “Is that what you’re calling it? A compromise?”
 
 “What would you call the unauthorized deployment of synthetic threat data?”
 
@@ -2046,13 +1976,9 @@ Elias stared at him. Vance continued.
 
 “You didn’t have to.”
 
-Vance leaned back.
+Vance leaned back. “Ms. O’Donnell reached the same unsupported conclusion.”
 
-“Ms. O’Donnell reached the same unsupported conclusion.”
-
-Elias’s pulse changed.
-
-“She found it?”
+Elias’s pulse changed. “She found it?”
 
 “She and Colonel Reed attempted to remove classified data after accessing restricted development records.”
 
@@ -2104,9 +2030,7 @@ The source certification was scheduled for sixteen-thirty. Ten minutes to proces
 
 “You need me blamed before the packet leaves,” Elias said.
 
-Vance closed the folder.
-
-“I need an accurate administrative record before speculation contaminates the response.”
+Vance closed the folder. “I need an accurate administrative record before speculation contaminates the response.”
 
 “Julie has the files.”
 
@@ -2126,9 +2050,7 @@ The door opened. Elias looked at the thermostat behind him. A simple digital uni
 
 “One more thing.”
 
-Elias looked at him.
-
-“If you removed any component from the maintenance drive before security recovered it, possessing that component will not improve your position.”
+Elias looked at him. “If you removed any component from the maintenance drive before security recovered it, possessing that component will not improve your position.”
 
 The door sealed. Elias waited until the lock engaged. Then he touched the Apex badge resting against his chest. Vance suspected.
 
@@ -2144,9 +2066,7 @@ The motel room smelled of old smoke, industrial cleaner, and damp carpet. Julie 
 
 “Bathroom.”
 
-Marcus looked at her.
-
-“What about it?”
+Marcus looked at her. “What about it?”
 
 “Check the vent, mirror, smoke detector, and light fixtures.”
 
@@ -2193,9 +2113,7 @@ FILES SEALED: 136
 FILES INCOMPLETE: 47
 FILES EXCLUDED DURING FINALIZATION: 311
 
-Marcus read the numbers.
-
-“That sounds bad.”
+Marcus read the numbers. “That sounds bad.”
 
 “It sounds incomplete.”
 
@@ -2236,9 +2154,7 @@ DEPLOYMENT BRIDGE: ACTIVE
 AUTHORIZATION CHAIN: APX-DIR-0019
 OPERATIONAL STATUS: LIVE
 
-Marcus stopped pacing.
-
-“That proves it.”
+Marcus stopped pacing. “That proves it.”
 
 “It proves an object derived from Payload Eighty-Eight entered the operational environment through a director-level service.”
 
@@ -2268,9 +2184,7 @@ She pointed toward the screen.
 
 “The synthetic package resembles the operational feed because it was built from realistic field patterns. The ninth checksum was a routine archive migration. APX-DIR-0019 is an automated deployment service used by dozens of administrators. Vance restricted us because we exceeded scope. The partition was erased because we attempted an unauthorized export. Your credentials were suspended because you helped me.”
 
-Marcus stared at her.
-
-“You sound like their lawyer.”
+Marcus stared at her. “You sound like their lawyer.”
 
 “I sound like the person who knows what they will say.”
 
@@ -2302,19 +2216,13 @@ Marcus read the list.
 
 “What does a source-provenance challenge do?”
 
-Julie opened the next page.
-
-“When the operational source matches an archived synthetic package, it restores the original labels and forces Argus to rerun the assessment without the validation data.”
+Julie opened the next page. “When the operational source matches an archived synthetic package, it restores the original labels and forces Argus to rerun the assessment without the validation data.”
 
 “Would that stop the Indian warning?”
 
-She read farther.
+She read farther. “Any downstream release product depending on the challenged source is suspended until human review.”
 
-“Any downstream release product depending on the challenged source is suspended until human review.”
-
-Marcus checked his watch.
-
-“Source certification was at sixteen-thirty.”
+Marcus checked his watch. “Source certification was at sixteen-thirty.”
 
 “According to the copied schedule.”
 
@@ -2326,9 +2234,7 @@ Marcus checked his watch.
 
 “The report leaves Apex’s controlled environment. India receives it as a validated American assessment. The executable support product remains on operational hold until zero-five-hundred. We may still invalidate the source before that commit, but the original warning will already be in their system.”
 
-Marcus looked at the evidence drive.
-
-“We send this to Hackett now.”
+Marcus looked at the evidence drive. “We send this to Hackett now.”
 
 “From what?”
 
@@ -2364,9 +2270,7 @@ He lifted the receiver and dialed the Pentagon’s public switchboard from memor
 
 “Tell him Reed is calling regarding the South Asia source certification.”
 
-A pause.
-
-“Colonel Reed, hold.”
+A pause. “Colonel Reed, hold.”
 
 Marcus turned slightly so Julie could not read his expression. The hold music lasted eighteen seconds. Then a man answered.
 
@@ -2384,9 +2288,7 @@ General William Hackett’s voice was recognizable even through the motel receiv
 
 “Yes.”
 
-Another pause.
-
-“Do you have classified material?”
+Another pause. “Do you have classified material?”
 
 “We have a sealed incident capture from the Reston review environment.”
 
@@ -2410,9 +2312,7 @@ Another pause.
 
 “Will the South Asia certification be suspended while it is reviewed?”
 
-Hackett did not answer immediately.
-
-“That decision is being handled.”
+Hackett did not answer immediately. “That decision is being handled.”
 
 “By whom?”
 
@@ -2428,9 +2328,7 @@ Hackett did not answer immediately.
 
 “No. They control the system record counterintelligence will use.”
 
-Hackett’s voice lowered.
-
-“You are on an unsecured line. Stop talking.”
+Hackett’s voice lowered. “You are on an unsecured line. Stop talking.”
 
 “Then give me a safe channel.”
 
@@ -2542,23 +2440,17 @@ Rain began ticking against the motel window. Marcus continued.
 
 “No.”
 
-Julie looked at him.
-
-“I don’t need an apology today.”
+Julie looked at him. “I don’t need an apology today.”
 
 “I know.”
 
 “I need you to decide what you will do when following procedure and doing the right thing stop being the same action.”
 
-He lifted his eyes.
-
-“I think that decision happened in the stairwell.”
+He lifted his eyes. “I think that decision happened in the stairwell.”
 
 “No. The stairwell was survival.”
 
-She turned the laptop toward him.
-
-“This is the decision.”
+She turned the laptop toward him. “This is the decision.”
 
 Onscreen, the recovery protocol remained open.
 
@@ -2602,9 +2494,7 @@ Marcus came to the table.
 
 “Or he tried to preserve the original logs.”
 
-Marcus read the entries.
-
-“Does the capture show where they took him?”
+Marcus read the entries. “Does the capture show where they took him?”
 
 “No room number. Only Building Three.”
 
@@ -2618,9 +2508,7 @@ Julie checked the package documentation again. The source-provenance challenge n
 
 “No.”
 
-Julie looked at him.
-
-“We don’t have enough evidence to stop the source certification from out here.”
+Julie looked at him. “We don’t have enough evidence to stop the source certification from out here.”
 
 “We have enough to get arrested.”
 
@@ -2660,9 +2548,7 @@ Marcus paced away from the table.
 
 “Not yet.”
 
-Marcus stopped.
-
-“You keep saying uncertainty is the reason not to act.”
+Marcus stopped. “You keep saying uncertainty is the reason not to act.”
 
 “No. I keep saying uncertainty is the reason to understand what action costs.”
 
@@ -2670,9 +2556,7 @@ Marcus stopped.
 
 “We could be arrested. We could be shot if Apex security believes we are attacking the production system. Elias could refuse. The certificate could fail. The source challenge could expose genuine threat data beneath the synthetic package. And even if we succeed, the review may not finish before source certification.”
 
-Marcus looked at the clock.
-
-“What is the alternative?”
+Marcus looked at the clock. “What is the alternative?”
 
 “We surrender the drive and hope the institution moves faster than the lie.”
 
@@ -2680,9 +2564,7 @@ Neither of them spoke. Marcus returned to the table.
 
 “What do you need?”
 
-Julie opened the ThinkPad’s network compartment and reconnected the wireless card.
-
-“I need the county plans for the Apex campus.”
+Julie opened the ThinkPad’s network compartment and reconnected the wireless card. “I need the county plans for the Apex campus.”
 
 “You just disconnected that.”
 
@@ -2728,9 +2610,7 @@ Despite everything, Julie smiled. Only for a moment.
 
 “That depends on the plans.”
 
-Marcus looked toward the evidence drive.
-
-“And once we find Elias?”
+Marcus looked toward the evidence drive. “And once we find Elias?”
 
 “We get the original deployment record.”
 
@@ -2796,9 +2676,7 @@ PREPARE COUNTER-BATTERY PLAN UPON RECEIPT OF ALLIED SOURCE CERTIFICATION. EXECUT
 
 “Does it move with the Argus projection?”
 
-Qureshi hesitated.
-
-“Approximately.”
+Qureshi hesitated. “Approximately.”
 
 “That means no.”
 
@@ -2806,9 +2684,7 @@ Qureshi hesitated.
 
 “The American assessment accounts for everything except being wrong.”
 
-Qureshi looked toward the tactical display.
-
-“Brigade believes the cost of waiting is greater than the cost of acting.”
+Qureshi looked toward the tactical display. “Brigade believes the cost of waiting is greater than the cost of acting.”
 
 “Brigade is twenty kilometers behind us.”
 
@@ -2830,9 +2706,7 @@ The red symbols representing Pakistani artillery continued advancing across the 
 
 “Then they arrive before the recommended firing window.”
 
-Qureshi did not move.
-
-“Major, if the enemy is already deploying, the patrol could walk directly into them.”
+Qureshi did not move. “Major, if the enemy is already deploying, the patrol could walk directly into them.”
 
 “Yes.”
 
@@ -2840,15 +2714,11 @@ Qureshi did not move.
 
 “They will find an empty road.”
 
-Qureshi considered the order.
-
-“Who leads?”
+Qureshi considered the order. “Who leads?”
 
 “I do.”
 
-His expression changed.
-
-“You are the battery commander.”
+His expression changed. “You are the battery commander.”
 
 “I am the person delaying the battery.”
 
@@ -2871,9 +2741,7 @@ Prince William Public Library
 
 Julie sat in the Ford beneath a tree at the far edge of the parking lot. The ThinkPad rested on her knees. Its battery had fallen to forty-two percent. She connected to the library’s guest network using a temporary hardware address and searched the county planning archive. The Apex campus appeared under its former name: Dominion Applied Research Park.
 
-Most current structural records were sealed.
-
-The original civil-engineering plans were public.
+Most current structural records were sealed. The original civil-engineering plans were public.
 
 She downloaded:
 
@@ -2919,9 +2787,7 @@ Julie sent the plans to the printer inside the library. Marcus looked at her.
 
 “Hat, glasses, and thirty seconds.”
 
-He reached for the door handle.
-
-“I’ll do it.”
+He reached for the door handle. “I’ll do it.”
 
 “You’re six foot three and currently listed as an Army colonel who fled a classified facility.”
 
@@ -2941,9 +2807,7 @@ They drove to a self-service car wash, parked behind the building, and spread th
 
 “Once we cross here, the plans become guesses.”
 
-Marcus studied the distance.
-
-“Half a mile on foot from the nearest place we can leave the truck.”
+Marcus studied the distance. “Half a mile on foot from the nearest place we can leave the truck.”
 
 “In the rain.”
 
@@ -2969,9 +2833,7 @@ Marcus pointed to the pump chamber.
 
 “At the fence.”
 
-He looked toward the dark clouds gathering above Reston.
-
-“You really believe Elias will help us?”
+He looked toward the dark clouds gathering above Reston. “You really believe Elias will help us?”
 
 “I believe Vance needs him blamed.”
 
@@ -3051,9 +2913,7 @@ Julie folded the county plans into the waterproof case. Marcus checked the tool 
 
 “No.”
 
-He nodded.
-
-“Me neither.”
+He nodded. “Me neither.”
 
 Julie looked toward the northern sky. Beyond the trees and office buildings, Apex’s glass towers reflected the approaching storm. Two hours earlier, they had escaped with a partial copy of the truth. Now they were returning for the man who could authenticate it. The choice made no tactical sense. It was the only choice that made moral sense. Julie opened the truck door.
 
@@ -3121,9 +2981,7 @@ Vance placed the leather folder on the table.
 
 “Not to the person locked in the room.”
 
-Vance studied him for a moment.
-
-“Have you ever considered why systems like Argus exist?”
+Vance studied him for a moment. “Have you ever considered why systems like Argus exist?”
 
 Elias almost laughed. “I helped build it.”
 
@@ -3151,9 +3009,7 @@ Vance opened the folder and removed the statement Elias had refused to sign. The
 
 “I am protecting the decision process from an engineer who believes authorship confers command authority.”
 
-Elias looked at the confession.
-
-“You framed me.”
+Elias looked at the confession. “You framed me.”
 
 Vance took a sip of coffee.
 
@@ -3197,9 +3053,7 @@ Elias pushed the paper back across the table.
 
 “The system preserved a lie.”
 
-Vance closed the folder.
-
-“You built Payload Eighty-Eight.”
+Vance closed the folder. “You built Payload Eighty-Eight.”
 
 “In a sandbox.”
 
@@ -3215,17 +3069,13 @@ Vance closed the folder.
 
 “It won’t be difficult. It will be inconvenient.”
 
-Vance stood.
-
-“You have thirty-seven minutes.”
+Vance stood. “You have thirty-seven minutes.”
 
 “Until what?”
 
 “Until the allied source certification becomes the official record.”
 
-Elias looked at the clock.
-
-“You know exactly what that packet will do.”
+Elias looked at the clock. “You know exactly what that packet will do.”
 
 “I know Pakistan has exploited uncertainty along the Line of Control for decades. I know India asked for machine-readable warning integration after previous failures. And I know withdrawing a strategic assessment because its author disputes a source boundary would cripple the program during a possible real threat.”
 
@@ -3269,9 +3119,7 @@ Sharma selected the message. The system returned no supporting record.
 
 “Lieutenant.”
 
-Qureshi removed his headset.
-
-“Ma’am?”
+Qureshi removed his headset. “Ma’am?”
 
 “Request the source-review exception.”
 
@@ -3289,9 +3137,7 @@ Sharma turned toward the narrow armored window. Snow moved sideways through the 
 
 “Order the batteries to maintain mechanical readiness,” Sharma said. “No fire-control radar. No target data loaded.”
 
-Qureshi hesitated.
-
-“Northern Command directed full readiness.”
+Qureshi hesitated. “Northern Command directed full readiness.”
 
 “Then they can issue a written order.”
 
@@ -3377,9 +3223,7 @@ COUNTER-BATTERY SUPPORT PRODUCT
 EXTERNAL COMMIT: 05:00 EDT / 14:30 IST
 HOLD CONDITION: SOURCE PROVENANCE VALID
 
-Marcus read the lines twice.
-
-“You said final release was sixteen-thirty.”
+Marcus read the lines twice. “You said final release was sixteen-thirty.”
 
 “The captured block showed only the source-certification time.” Julie opened the parent record. “This is a linked second object.”
 
@@ -3395,9 +3239,7 @@ Marcus read the lines twice.
 
 “Targeting data, release status, and the machine-readable basis India can attach to a counter-battery decision.”
 
-Marcus looked toward the rain-hidden campus.
-
-“Twelve and a half hours.”
+Marcus looked toward the rain-hidden campus. “Twelve and a half hours.”
 
 “Not a delay we can trust. A hold that survives only while the source remains valid.”
 
@@ -3415,9 +3257,7 @@ The ThinkPad clock reached 16:27. They had no live connection to the allied chan
 
 “Closed because we used it the previous day.”
 
-He looked at the culvert route on the printed plan.
-
-“The water drops when the storm moves.”
+He looked at the culvert route on the printed plan. “The water drops when the storm moves.”
 
 “If the pumps do not keep the line charged.”
 
@@ -3465,9 +3305,7 @@ The secure line lit before he could answer. The duty officer’s voice came thro
 
 “It establishes what the United States is willing to certify.”
 
-A pause followed.
-
-“Do you refuse the readiness order?”
+A pause followed. “Do you refuse the readiness order?”
 
 “No. Ammunition may move. Crews may occupy. Mechanical checks may continue. No targeting data enters the firing circuit. No fire-control radar without my order.”
 
@@ -3647,9 +3485,7 @@ Julie stopped. The fault repeated three times. 88. 89. 90. A location string fol
 
 COMP-04 / CORE-01.
 
-Marcus saw her expression.
-
-“What?”
+Marcus saw her expression. “What?”
 
 “That isn’t a normal fault sequence.”
 
@@ -3673,9 +3509,7 @@ The display refreshed.
 
 0088 / COMP-04 / CORE-01.
 
-Marcus looked toward the interior door.
-
-“That’s deliberate.”
+Marcus looked toward the interior door. “That’s deliberate.”
 
 “Yes.”
 
@@ -3710,9 +3544,7 @@ Julie examined the door. A small sign identified it as the boundary between the 
 
 “We needed to come through anyway.”
 
-Marcus looked up at the camera.
-
-“So the disguise is pointless.”
+Marcus looked up at the camera. “So the disguise is pointless.”
 
 “It got us this far without someone calling for a tactical response.”
 
@@ -3726,9 +3558,7 @@ Footsteps sounded beyond the steel panel. Julie and Marcus moved behind one of t
 
 “Hey.”
 
-Julie held up her clipboard.
-
-“Stormwater pressure fault. County follow-up.”
+Julie held up her clipboard. “Stormwater pressure fault. County follow-up.”
 
 “What follow-up?”
 
@@ -3746,9 +3576,7 @@ The technician looked from Marcus to Julie. Then to their soaked coveralls.
 
 “Do we look dry?”
 
-He considered that.
-
-“Who signed you in?”
+He considered that. “Who signed you in?”
 
 Julie pointed back toward the pump room.
 
@@ -3812,9 +3640,7 @@ Arthur Vance. Julie looked up. His voice remained calm, amplified just enough to
 
 “You have created an unfortunate amount of risk for a conclusion you do not understand.”
 
-Marcus stepped beneath the speaker.
-
-“Open the door.”
+Marcus stepped beneath the speaker. “Open the door.”
 
 “Colonel Reed, your commanding office has been notified that you removed classified material from an accredited facility following suspension of your authority. Army Criminal Investigation Division has been asked to locate you.”
 
@@ -3932,9 +3758,7 @@ Marcus lifted the aluminum case.
 
 “You have the deployment log?” Julie asked.
 
-Elias held up the circuit board.
-
-“Most of it.”
+Elias held up the circuit board. “Most of it.”
 
 “Did Vance deploy Payload Eighty-Eight?”
 
@@ -3954,9 +3778,7 @@ Elias held up the circuit board.
 
 “You sent us to Core One.”
 
-Elias looked toward the ceiling speaker.
-
-“We need to move.”
+Elias looked toward the ceiling speaker. “We need to move.”
 
 The outer security barrier continued rising. Boots appeared beneath it. Marcus opened the aluminum case.
 
@@ -3968,9 +3790,7 @@ The outer security barrier continued rising. Boots appeared beneath it. Marcus o
 
 “Argus has already propagated the assessment into the allied channel. Deleting Payload Eighty-Eight now won’t retract the certified source product. The system will treat the missing source as a collection failure, preserve the last validated conclusion, and release the counter-battery support package at zero-five-hundred.”
 
-Julie understood.
-
-“The lie has become a cached truth.”
+Julie understood. “The lie has become a cached truth.”
 
 “Yes.”
 
@@ -3984,9 +3804,7 @@ Julie understood.
 
 “Then the core.”
 
-Elias nodded.
-
-“The production enclave has an isolated recovery console. We load your captured packet, restore the synthetic headers from my copy, and make Argus compare its operational source against the original validation package.”
+Elias nodded. “The production enclave has an isolated recovery console. We load your captured packet, restore the synthetic headers from my copy, and make Argus compare its operational source against the original validation package.”
 
 “What happens if it recognizes the match?” Marcus asked.
 
@@ -4006,9 +3824,7 @@ A heavy impact struck the glass entrance. Security had reached the vestibule. Me
 
 “Open the door.”
 
-Marcus stepped in front of Julie and Elias.
-
-“Call federal law enforcement.”
+Marcus stepped in front of Julie and Elias. “Call federal law enforcement.”
 
 “They’re en route.”
 
@@ -4042,9 +3858,7 @@ Then Sarah Chen’s voice:
 
 “Mercer, do not engage them in technical discussion. They are attempting to remove classified material. Prepare to breach.”
 
-Mercer continued looking at Julie.
-
-“You heard her,” he said.
+Mercer continued looking at Julie. “You heard her,” he said.
 
 “I heard her refuse the question.”
 
@@ -4060,9 +3874,7 @@ Mercer’s jaw tightened. He raised one hand. The officers behind him shifted in
 
 “Director Vance,” Mercer said into his radio. “Confirm federal custody team and receiving agency.”
 
-Vance answered personally.
-
-“Recovery personnel are approaching the sublevel. Contain all three subjects.”
+Vance answered personally. “Recovery personnel are approaching the sublevel. Contain all three subjects.”
 
 “Receiving agency?”
 
@@ -4078,9 +3890,7 @@ Mercer did not move. Julie saw the decision taking shape behind his eyes. He did
 
 “Open the vestibule,” he said.
 
-Marcus shook his head.
-
-“No.”
+Marcus shook his head. “No.”
 
 “I can’t let you leave.”
 
@@ -4090,9 +3900,7 @@ Marcus shook his head.
 
 “So does the lie.”
 
-Mercer lowered his voice.
-
-“If you go deeper, the recovery team will treat you as an active sabotage threat.”
+Mercer lowered his voice. “If you go deeper, the recovery team will treat you as an active sabotage threat.”
 
 “What recovery team?” Marcus asked.
 
@@ -4128,9 +3936,7 @@ He stepped away. The outer security officers retreated toward the junction. Marc
 
 “He follows procedure,” Julie said. “Vance stopped giving him one.”
 
-Elias crossed to the rear holding-room door.
-
-“There’s a service passage behind the compliance rooms. It connects to the core lift.”
+Elias crossed to the rear holding-room door. “There’s a service passage behind the compliance rooms. It connects to the core lift.”
 
 He pressed his badge against the reader. Red.
 
@@ -4172,13 +3978,9 @@ Julie turned. A camera above the compliance desk had tracked their movement.
 
 “You are using classified strategy to hide a software crime.”
 
-Sarah’s voice hardened.
+Sarah’s voice hardened. “If you force an integrity reset during an active threat window, Argus will withdraw every related assessment. If the Pakistani deployment is real, Indian forces will lose their warning.”
 
-“If you force an integrity reset during an active threat window, Argus will withdraw every related assessment. If the Pakistani deployment is real, Indian forces will lose their warning.”
-
-Julie glanced at Elias.
-
-“Could the underlying threat still be real?”
+Julie glanced at Elias. “Could the underlying threat still be real?”
 
 “Yes,” he said. “Payload Eighty-Eight may have been layered over genuine signals. We won’t know until the system separates them.”
 
@@ -4186,17 +3988,13 @@ Sarah had found the only argument that mattered. Not money. Not authority. Risk.
 
 “What do you need?” he asked.
 
-Julie looked toward the descending passage.
-
-“The raw feed.”
+Julie looked toward the descending passage. “The raw feed.”
 
 “We have it.”
 
 “Not a verdict. The unfiltered data. Argus needs to separate what was observed from what was manufactured.”
 
-Elias nodded.
-
-“The recovery process doesn’t erase the assessment. It restores the source labels and reruns the model with synthetic data excluded.”
+Elias nodded. “The recovery process doesn’t erase the assessment. It restores the source labels and reruns the model with synthetic data excluded.”
 
 “And until it finishes?”
 
@@ -4264,9 +4062,7 @@ ALL PERSONNEL REMAIN IN DESIGNATED SAFE AREAS.
 
 “How long?” Marcus asked.
 
-Elias continued working.
-
-“Longer when people ask me.”
+Elias continued working. “Longer when people ask me.”
 
 Julie almost smiled.
 
@@ -4300,9 +4096,7 @@ The elevator descended. Julie felt the pressure change as they passed beneath Su
 
 “What exactly happens if we reach the recovery console?” he asked.
 
-Elias looked at Julie.
-
-“We mount the captured packets in protected mode, restore the original Payload Eighty-Eight labels, and force every dependent conclusion to establish itself again.”
+Elias looked at Julie. “We mount the captured packets in protected mode, restore the original Payload Eighty-Eight labels, and force every dependent conclusion to establish itself again.”
 
 “How long?”
 
@@ -4318,9 +4112,7 @@ LOWER-TIER INCIDENT TRANSFER
 INDEPENDENT SECURITY DOMAIN
 LOCAL CONTROL BEYOND THIS POINT
 
-Marcus looked at Julie.
-
-“Once those doors open, Vance cannot see us?”
+Marcus looked at Julie. “Once those doors open, Vance cannot see us?”
 
 “He can see the lift event,” Elias said. “He can order containment. He cannot operate the local production route from the corporate network.”
 
@@ -4357,9 +4149,7 @@ Julie set the aluminum case on the floor beside him.
 
 “Then do not ask it to accept the context.”
 
-He looked at her.
-
-“Tell it the director credential is compromised.”
+He looked at her. “Tell it the director credential is compromised.”
 
 “That starts physical containment.”
 
@@ -4379,9 +4169,7 @@ The second-lift indicator reached the lowest level. The white security door bega
 
 “How long from the command to L3-7 sealing?”
 
-Elias read the actuator specification on the panel.
-
-“Eight seconds to the floor. Less if the stored pressure is high.”
+Elias read the actuator specification on the panel. “Eight seconds to the floor. Less if the stored pressure is high.”
 
 “Trigger it.”
 
@@ -4503,9 +4291,7 @@ Julie already knew. The copied packets could prove the alert false after the dea
 
 “Recovery interface,” she said.
 
-Elias looked at her.
-
-“You said the enclave keeps a local maintenance path for a contaminated feed.”
+Elias looked at her. “You said the enclave keeps a local maintenance path for a contaminated feed.”
 
 “A provenance-recovery console. Inside the gate.”
 
@@ -4519,9 +4305,7 @@ Elias looked at her.
 
 “Can it do it?”
 
-Elias glanced at the clock on the shutter panel.
-
-“Yes.”
+Elias glanced at the clock on the shutter panel. “Yes.”
 
 “Then take us there.”
 
@@ -5187,9 +4971,7 @@ The panel displayed:
 ENTRY APERTURE: 102 MM
 FULL SERVICE OPEN: 44 SECONDS
 
-Marcus looked at the team regrouping six feet away.
-
-“We don’t have forty-four.”
+Marcus looked at the team regrouping six feet away. “We don’t have forty-four.”
 
 “We don’t need full open,” Julie said.
 
@@ -5417,9 +5199,7 @@ LOCAL MEDIA INTACT
 
 “The protected port has no route into production memory,” Elias said. “It copies selected blocks into a local reconciliation workspace. If the isolation controller is functioning.”
 
-Julie looked at the screen.
-
-“Can we verify that before connection?”
+Julie looked at the screen. “Can we verify that before connection?”
 
 Elias’s fingers moved over the console, too fast at first. His cut right index left a small dark mark on the glass. He stopped, wiped the blood against his shirt, and used his left hand instead.
 
@@ -5576,9 +5356,7 @@ SYNTHETIC-SOURCE LABEL MAP: PRESENT
 OPERATIONAL OBJECT DERIVATION DETECTED
 PAK_RELAY_17A_SOURCE_CORRECTION
 
-Elias closed his eyes for less than a second.
-
-“They didn’t just copy the package,” he said. “They built the source-correction object from it.”
+Elias closed his eyes for less than a second. “They didn’t just copy the package,” he said. “They built the source-correction object from it.”
 
 Julie brought the operational lineage onto the center screen. The chain opened from left to right. PAK_RELAY_17A raw collection. SIGMA-NORMALIZE-4 reconstruction.
 
@@ -5813,9 +5591,7 @@ Sharma keyed the battery net.
 
 “All batteries, hold fire. Hold fire.”
 
-Qureshi relayed beside her.
-
-“Abort mission Zebra-Nine. Abort. Safe weapons and clear the digital fire plan.”
+Qureshi relayed beside her. “Abort mission Zebra-Nine. Abort. Safe weapons and clear the digital fire plan.”
 
 The clock showed four. A battery commander answered first.
 
@@ -5851,9 +5627,7 @@ Elias sat down hard in front of the console. His injured leg extended beneath hi
 
 “How close?”
 
-Julie looked at the zeroed clock.
-
-“Close enough.”
+Julie looked at the zeroed clock. “Close enough.”
 
 No one celebrated.
 
@@ -6084,9 +5858,7 @@ Mercer answered after a short pause. “Reason?” Sarah looked at the environme
 
 “Suppression pre-discharge is active.”
 
-Another pause.
-
-“Occupied?” Mercer asked.
+Another pause. “Occupied?” Mercer asked.
 
 Vance watched her. Sarah kept her voice level. “Maintain stand-off.” It was not an answer. It was still an order.
 
@@ -6749,9 +6521,7 @@ Marcus leaned across the console. The movement stopped his breathing for a secon
 
 “Now it’s a known van without an Apex placard,” he said.
 
-The radio crackled.
-
-“All county units, lookout request expanding from private security incident. Vehicle last observed departing south service perimeter. Do not approach without coordination. Classified material may be present.”
+The radio crackled. “All county units, lookout request expanding from private security incident. Vehicle last observed departing south service perimeter. Do not approach without coordination. Classified material may be present.”
 
 No sirens followed. That made the response more dangerous. Patrol cars, traffic systems, and ordinary people could begin looking without warning them that the search had reached the next road. The flatbed turned toward the parkway. Marcus directed Julie onto a service road beneath the transmission lines, behind a water-pumping station and a row of warehouse units whose loading docks faced away from the main road.
 
@@ -6839,9 +6609,7 @@ She switched on a flashlight from the first-aid cabinet. One pupil constricted, 
 
 “Date.”
 
-He gave it correctly.
-
-“Nausea?”
+He gave it correctly. “Nausea?”
 
 “No.”
 
@@ -6947,9 +6715,7 @@ Marcus closed his eyes for a moment. Elias looked away first. The scanner repeat
 
 “I pressed confirm,” Elias said.
 
-Julie waited.
-
-“I opened the gate. I restored the labels. I pulled the recorder. No one made my hand do any of it.” He looked down at the bandage on his finger. “That doesn’t make it feel like a choice.”
+Julie waited. “I opened the gate. I restored the labels. I pulled the recorder. No one made my hand do any of it.” He looked down at the bandage on his finger. “That doesn’t make it feel like a choice.”
 
 “No,” Julie said. “It makes it yours.”
 
@@ -6993,9 +6759,7 @@ Elias removed it from inside his shirt with his left hand. The black metal housi
 
 “Transferred voluntarily,” Elias said.
 
-Julie looked up.
-
-“Write that.”
+Julie looked up. “Write that.”
 
 She did. The administrator-token circuit board remained in his other hand. One corner bore the scrape from the cooling gallery. The copper contacts were marked where the gate and recovery console had accepted it. The secure-element package showed no visible fracture.
 
@@ -7009,9 +6773,7 @@ The workstation took nearly two minutes to boot. Its clock was wrong by eleven d
 
 “Cause. Effect. Evidence,” Marcus said from the doorway.
 
-Julie looked at him.
-
-“You used to say it when you wanted everyone else to slow down.”
+Julie looked at him. “You used to say it when you wanted everyone else to slow down.”
 
 “I still do.”
 
@@ -7059,9 +6821,7 @@ Nothing in it turned Elias’s earlier replayed identity into physical use of th
 
 “No,” Julie said.
 
-His expression tightened.
-
-“It is enough to contradict Apex. Clearing us requires someone to accept the record before accepting their alert.”
+His expression tightened. “It is enough to contradict Apex. Clearing us requires someone to accept the record before accepting their alert.”
 
 Elias looked at the scanner in the next room. “And before they decide the record is another thing I altered.” Julie nodded. The storage cabinet contained two blank encrypted evidence modules. One failed its self-test. The second passed.
 
@@ -7264,9 +7024,7 @@ Elias enlarged the policy fields. “Capturing ciphertext alone will not be enou
 
 “Then the link becomes much harder to explain away,” Julie said. “If it contains upstream direction from Sterling’s network, we may have more. We cannot assume it will.”
 
-Elias looked at the wall clock.
-
-“Fifty minutes.”
+Elias looked at the wall clock. “Fifty minutes.”
 
 No one said what reaching the live buffer would require. That belonged to the next decision, and they had not made it. At 06:20, Julie sealed the paper log’s first page with all three signatures. Elias signed left-handed because the dressing on his right index made the pen slip. Beneath his name, he added one sentence in uneven block letters.
 
@@ -7416,9 +7174,7 @@ He nodded once. The plan had not improved yet. It had only become honest. Julie 
 
 REACH NORTHBRIDGE SECURE SUITE 4 BEFORE 07:08. CAPTURE THE LIVE BUFFER, ROUTING STATE, FULL SIGNING CHAIN, HARDWARE SIGNATURE, SESSION TIME, AND K17-PHASE-B LINKAGE. LEAVE.
 
-Marcus read it.
-
-“That is an intelligence requirement,” he said. “Not an entry plan.”
+Marcus read it. “That is an intelligence requirement,” he said. “Not an entry plan.”
 
 “No.”
 
@@ -7436,9 +7192,7 @@ SERVICE LOCALITY: L STREET NW / WASHINGTON, DC
 FACILITIES ENTRY: REAR SERVICE VESTIBULE
 SECURE DOMAIN: WSS-4
 
-Marcus leaned forward, then stopped when his ribs objected.
-
-“The Fenwick Building,” he said.
+Marcus leaned forward, then stopped when his ribs objected. “The Fenwick Building,” he said.
 
 “You know it?” Julie asked.
 
@@ -7679,9 +7433,7 @@ Marcus continued testing the edges. “Search scope?”
 
 “We do not touch him.”
 
-Marcus nodded once.
-
-“Destruction?”
+Marcus nodded once. “Destruction?”
 
 “None. The suite remains operational.”
 
@@ -8023,13 +7775,9 @@ The rear of the Fenwick Annex looked built to accept deliveries without admittin
 
 “Work-order number?”
 
-Julie held the paper to the lens.
+Julie held the paper to the lens. “Closer.”
 
-“Closer.”
-
-She moved it within a foot of the glass.
-
-“You’re not on the morning sheet.”
+She moved it within a foot of the glass. “You’re not on the morning sheet.”
 
 “Call came after it closed.”
 
@@ -8063,9 +7811,7 @@ SPONSOR ACKNOWLEDGMENT REQUIRED
 
 “That means the number passes intake,” Elias said. “It doesn’t mean the tenant accepted us.”
 
-The guard looked at him.
-
-“I know what it means.”
+The guard looked at him. “I know what it means.”
 
 Elias lowered his gaze. “Right.” The guard called upstairs. Julie watched the camera feeds. The alley remained ordinary. The public lobby appeared in the fourth frame, where a muted television showed Sterling beneath flags and Julie’s photograph in the lower corner.
 
@@ -8275,9 +8021,7 @@ PRE-SESSION ROUTING STATE INITIALIZING
 
 “It is not the external session yet,” Elias said. “The suite is presenting local identity.”
 
-Bell lowered the phone.
-
-“You know too much about this system for someone who cannot seat a module.”
+Bell lowered the phone. “You know too much about this system for someone who cannot seat a module.”
 
 “I helped design the controller profile.”
 
@@ -8305,9 +8049,7 @@ Bell reached for the telephone. Elias watched the interface. “Pulling the modu
 
 “The local audit is yours,” Julie said. “Preserve it.”
 
-Bell stared at her.
-
-“WSS-four is about to receive a hardware-authenticated exchange tied to an active foreign operation. Your controller will record the same event we do.”
+Bell stared at her. “WSS-four is about to receive a hardware-authenticated exchange tied to an active foreign operation. Your controller will record the same event we do.”
 
 “You expect me to believe that?”
 
@@ -8358,9 +8100,7 @@ Mercer asked, “Confirm force standard.”
 
 “Loss of the communications package constitutes imminent national-security harm.”
 
-Sarah opened the joint channel.
-
-“Material loss is not a deadly threat. My force standard stands.”
+Sarah opened the joint channel. “Material loss is not a deadly threat. My force standard stands.”
 
 “They have already compromised one strategic system,” Vance said.
 
@@ -8370,9 +8110,7 @@ Sarah opened the joint channel.
 
 “Then take them alive and preserve the local audit.”
 
-A short pause.
-
-“Telemetry recovery has priority,” Vance said.
+A short pause. “Telemetry recovery has priority,” Vance said.
 
 Sarah marked the order into her incident file and opened the vendor conference path to WSS-4.
 
@@ -8453,9 +8191,7 @@ Chen heard. “That does not change containment. When the interface permits safe
 
 “Vance authorized deadly force for loss of telemetry.”
 
-Bell looked toward the speaker.
-
-“My rules do not,” Chen said.
+Bell looked toward the speaker. “My rules do not,” Chen said.
 
 “Preserve his order.”
 
@@ -8732,9 +8468,7 @@ No one fired. No one was run down. Behind them, Fenwick still held ordinary empl
 Downtown Washington
 07:16 Eastern Daylight Time
 
-The radio returned to news before they cleared three blocks.
-
-“Authorities are responding to an apparent breach at Northbridge Strategic Initiatives, a Washington policy organization involved in sensitive national-security consulting. Sources say the suspects sought protected communications equipment.”
+The radio returned to news before they cleared three blocks. “Authorities are responding to an apparent breach at Northbridge Strategic Initiatives, a Washington policy organization involved in sensitive national-security consulting. Sources say the suspects sought protected communications equipment.”
 
 Marcus sat twisted in the passenger seat with the case between his boots and the waterproof folder against his ribs. Elias remained on the cargo floor without the rain shell, holding the incident module in both hands. Its display showed only handling facts.
 
@@ -8790,9 +8524,7 @@ Marcus stopped writing. “The same device has to answer inside the briefing sec
 
 “Seven-forty-eight to seven-fifty-four. Source-reconstruction profile pending. The command blocks are still encrypted.”
 
-Marcus closed the log.
-
-“A Sterling-office device authenticated a K-seventeen operational session and is expected inside Hartwell.”
+Marcus closed the log. “A Sterling-office device authenticated a K-seventeen operational session and is expected inside Hartwell.”
 
 “Yes,” Julie said.
 
@@ -8887,9 +8619,7 @@ The service radio carried a Hartwell traffic advisory. Two approaches were closi
 
 “Good.”
 
-Marcus looked at her.
-
-“You keep using that word when the information is bad.”
+Marcus looked at her. “You keep using that word when the information is bad.”
 
 “I use it when the information admits what it is.”
 
@@ -8933,9 +8663,7 @@ She shut off the engine. The sudden quiet made their breathing audible. Marcus�
 
 “Hard abort is seven-forty-two-thirty,” she said.
 
-Marcus turned toward her.
-
-“Conditions?”
+Marcus turned toward her. “Conditions?”
 
 “We have continuous observation or a defensibly recoverable record of the suspected signer route. The module and board remain intact and with Elias. You retain the originals and a viable way out.”
 
@@ -8951,9 +8679,7 @@ Marcus turned toward her.
 
 “We leave.”
 
-Marcus held her gaze.
-
-“You stayed eight seconds at Fenwick.”
+Marcus held her gaze. “You stayed eight seconds at Fenwick.”
 
 “I know.”
 
@@ -8971,13 +8697,9 @@ Julie did not defend the seal. It had strengthened the evidence. It had also cos
 
 “Seven-forty-two-thirty,” she said. “If the conditions do not pass, the operation ends.”
 
-Marcus waited.
+Marcus waited. “Say the part you do not want to say.”
 
-“Say the part you do not want to say.”
-
-Julie looked through the open wall toward Hartwell.
-
-“If the route is one step from proving Sterling held the device, and the conditions fail, we still leave.”
+Julie looked through the open wall toward Hartwell. “If the route is one step from proving Sterling held the device, and the conditions fail, we still leave.”
 
 “The device,” Elias said. “Not Sterling.”
 
@@ -8995,9 +8717,7 @@ Julie studied the cameras instead. A traffic camera stood above the intersection
 
 “Can the module make event markers without touching either partition?” Julie asked.
 
-Elias looked at her.
-
-“The handling journal can record a local button event and device time.”
+Elias looked at her. “The handling journal can record a local button event and device time.”
 
 “Does it change Partition A?”
 
@@ -9077,9 +8797,7 @@ Vance cut into the channel.
 
 “Telemetry recovery remains the priority.”
 
-Mercer waited for Sarah.
-
-“Capture all three if present,” she said. “Separate them. Secure the case and any electronic media under documented custody. Do not destroy or disconnect anything.”
+Mercer waited for Sarah. “Capture all three if present,” she said. “Separate them. Secure the case and any electronic media under documented custody. Do not destroy or disconnect anything.”
 
 “Receiving authority?”
 
@@ -9100,9 +8818,7 @@ The support vehicle returned from the south. Julie saw the weak left rear light 
 
 “Left rear running light. Same roof rack. Same three-inch gap between the rear bumper and the receiver cover.”
 
-Elias looked at him.
-
-“You saw that while bleeding through your collar?”
+Elias looked at him. “You saw that while bleeding through your collar?”
 
 “I saw vehicles for twenty-seven years.”
 
@@ -9122,9 +8838,7 @@ Julie felt the objective change. They were no longer searching every route. They
 
 “Continuous from here,” she said.
 
-Marcus checked the mirrors inside the garage.
-
-“No police on this level.”
+Marcus checked the mirrors inside the garage. “No police on this level.”
 
 “Ramps?”
 
@@ -9158,9 +8872,7 @@ The sedan moved away. No door opened. No object changed hands. Julie kept the li
 
 “Lost visual,” she said.
 
-Elias looked at the module.
-
-“Marker?”
+Elias looked at the module. “Marker?”
 
 “Yes.”
 
@@ -9316,9 +9028,7 @@ Julie looked at the time. 07:38:07. Four minutes and twenty-three seconds to the
 
 “Probably.”
 
-Marcus heard them.
-
-“Write probably?”
+Marcus heard them. “Write probably?”
 
 “No,” Julie said. “Write not visible after group shift.”
 
@@ -9330,9 +9040,7 @@ Marcus’s hand closed around the wheel. The movement tightened his face. Julie 
 
 “Do not run,” Mercer called. “Do not move the van.”
 
-Julie looked at Elias.
-
-“Module.”
+Julie looked at Elias. “Module.”
 
 “Sealed. Handling journal active.”
 
@@ -9348,9 +9056,7 @@ He looked at the twenty feet between them. “Yes.”
 
 “Yes.”
 
-Julie looked at Marcus.
-
-“Case?”
+Julie looked at Marcus. “Case?”
 
 “Sealed. Cartridge and log with me.”
 
@@ -9498,9 +9204,7 @@ The hard condition required a viable exfiltration route, not a promise that no o
 
 “I know.”
 
-Mercer reached the next column.
-
-“Step away from the van.”
+Mercer reached the next column. “Step away from the van.”
 
 The staff group at Hartwell moved. 07:44:16. The outer screen opened long enough for two people to pass into a narrower lane between temporary barriers. One uniformed officer remained outside. The person in the dark overcoat went first. The man from the SUV followed.
 
@@ -9532,9 +9236,7 @@ The officer’s eyes moved toward Hartwell.
 
 “We do not know.”
 
-Mercer looked at Elias’s module.
-
-“You captured the office certificate at Northbridge.”
+Mercer looked at Elias’s module. “You captured the office certificate at Northbridge.”
 
 “Yes,” Elias said.
 
@@ -9636,9 +9338,7 @@ Ortiz’s gaze passed across Elias, the open passenger area of PCF-27, and Marcu
 
 “What event?” he asked.
 
-Julie looked at the body camera, not at Hartwell.
-
-“At 07:08:09.442 Eastern, a portable executive signer registered to the Office of Senator Sterling answered a hardware challenge inside Northbridge Secure Suite Four. The device serial in that captured session was SSO-NS-zero-zero-four. The same session identified Hartwell as the next required local challenge site and gave a window from 07:46:00 to 07:48:30.”
+Julie looked at the body camera, not at Hartwell. “At 07:08:09.442 Eastern, a portable executive signer registered to the Office of Senator Sterling answered a hardware challenge inside Northbridge Secure Suite Four. The device serial in that captured session was SSO-NS-zero-zero-four. The same session identified Hartwell as the next required local challenge site and gave a window from 07:46:00 to 07:48:30.”
 
 Ortiz’s eyes moved once toward the open side of the garage. Julie continued.
 
@@ -9664,9 +9364,7 @@ Mercer stepped forward half a pace. Ortiz’s raised hand stopped him again. Jul
 
 “The request is not an accusation that Senator Sterling possessed the signer. It is not a claim that the black case contained it. It is a request to preserve the records needed to determine those facts later. Masking Window Two begins at 07:48. I do not know what it does. Phase B has an authorization deadline at 07:49. I do not know what action Phase B authorizes. Relay K-seventeen access was not confirmed in the 07:08 record. The substantive message blocks remain encrypted.”
 
-Ortiz studied her for one second.
-
-“You understand I am not validating any of that.”
+Ortiz studied her for one second. “You understand I am not validating any of that.”
 
 “Yes.”
 
@@ -9682,9 +9380,7 @@ The answer did not make him trust her. It made the request precise enough to rou
 
 “Dispatch, Unit Three. Start an evidentiary-preservation request associated with the Hartwell perimeter incident. Time-sensitive. Requesting hold on local challenge, controlled-door, staff-route, inspection-area, and relevant camera records from zero-seven-forty-six through zero-seven-forty-eight-thirty. Request originates on scene from subject O’Donnell. Record as unverified subject statement. No request for substantive disclosure.”
 
-Static opened and closed.
-
-“Unit Three, confirm challenge record is claimed to be active now.”
+Static opened and closed. “Unit Three, confirm challenge record is claimed to be active now.”
 
 “Affirmative. Claimed window is open now and closes at zero-seven-forty-eight-thirty.”
 
@@ -9802,9 +9498,7 @@ His radio carried the dispatch event into another channel. A District watch offi
 
 “Unit Three, west vehicle line is still moving. Additional cruiser is entering the outbound gate below.”
 
-Marcus heard it.
-
-“Route exposed,” he said.
+Marcus heard it. “Route exposed,” he said.
 
 Ortiz looked at him. “Do not make a route call.”
 
@@ -9822,9 +9516,7 @@ Ortiz’s expression hardened. Julie corrected herself before defiance became th
 
 “If the gate remains physically open, that is an instruction. If the gate becomes physically blocked, it is also the abort condition we established before you reached this level.”
 
-Ortiz studied her.
-
-“You are telling me you will stop when police close the route.”
+Ortiz studied her. “You are telling me you will stop when police close the route.”
 
 “Yes.”
 
@@ -9869,13 +9561,9 @@ No external image entered the module. No name. No conclusion. Marcus wrote the o
 
 DARK-OVERCOAT PERSON OUTSIDE CONTROLLED DOOR BEFORE ACCEPTED STATE. CLOTHING IDENTIFIER ONLY. MARKER MANUAL. EXTERNAL FACT REQUIRES CORROBORATION.
 
-Ortiz watched the pen stop.
+Ortiz watched the pen stop. “What does that change?” he asked.
 
-“What does that change?” he asked.
-
-Julie looked at Hartwell.
-
-“It narrows the set at the exact event time. If the challenge completes while that person remains outside, that person is not physically presenting the device at that moment.”
+Julie looked at Hartwell. “It narrows the set at the exact event time. If the challenge completes while that person remains outside, that person is not physically presenting the device at that moment.”
 
 Mercer said, “Unless the exterior signal is unrelated.”
 
@@ -9905,9 +9593,7 @@ The exterior Hartwell officer moved away from the privacy screen and looked towa
 
 “Green,” Julie said.
 
-Ortiz turned enough to see it.
-
-“Officer observation,” he said into his body camera. “Hartwell-facing controlled-door exterior indicator changed from steady white to steady green at approximately zero-seven-forty-seven-forty-nine. Technical meaning unknown.”
+Ortiz turned enough to see it. “Officer observation,” he said into his body camera. “Hartwell-facing controlled-door exterior indicator changed from steady white to steady green at approximately zero-seven-forty-seven-forty-nine. Technical meaning unknown.”
 
 That sentence mattered more than Julie’s conclusion would have. Elias held still.
 
@@ -9928,9 +9614,7 @@ Marcus wrote:
 
 EXTERIOR HARTWELL STATE WHITE TO STEADY GREEN. OFFICER ORTIZ INDEPENDENTLY OBSERVED. TECHNICAL MEANING AND DEVICE SERIAL UNPROVED.
 
-Mercer looked toward the lamp.
-
-“The local challenge completed.”
+Mercer looked toward the lamp. “The local challenge completed.”
 
 “A local challenge reached an accepted exterior state,” Elias said. “We cannot identify which serial from the lamp.”
 
@@ -9962,9 +9646,7 @@ Vance’s voice entered Mercer’s radio again.
 
 “The preservation request is itself part of O’Donnell’s continuing attempt to map protected authentication. Recover the module before the masking cycle is compromised.”
 
-Julie looked at Mercer.
-
-“He said masking cycle.”
+Julie looked at Mercer. “He said masking cycle.”
 
 Mercer’s expression did not change. The words were not proof that Vance controlled the window. They were proof that he had characterized it with a noun more specific than the public record had given Julie. Ortiz heard that too. Chen’s voice followed.
 
@@ -9990,9 +9672,7 @@ The acknowledgment arrived before the challenge window closed.
 
 “Affirmative.”
 
-Julie looked at Elias.
-
-“Safe marker?” he asked Ortiz.
+Julie looked at Elias. “Safe marker?” he asked Ortiz.
 
 The officer had already supervised two inputs without a connection, partition change, or unexpected movement.
 
@@ -10013,9 +9693,7 @@ Marcus turned his head too quickly toward the mirror. The level shifted under hi
 
 “Marcus.”
 
-He closed his eyes once and kept both hands visible.
-
-“Still conscious.”
+He closed his eyes once and kept both hands visible. “Still conscious.”
 
 “Route?”
 
@@ -10171,9 +9849,7 @@ The channel closed. Ortiz looked at Mercer. “You heard your coordinator.”
 
 “Which instruction are you operating under?”
 
-Mercer held the question for one second.
-
-“Metropolitan Police scene control. Recovery request documented. No contact without your direction.”
+Mercer held the question for one second. “Metropolitan Police scene control. Recovery request documented. No contact without your direction.”
 
 The choice was not loyalty to Julie. It was refusal to create an unreceipted disappearance in front of police cameras. The dashboard clock changed to 07:48:57. Three seconds remained to the Phase B deadline. Nothing at Hartwell changed. The exterior officer stayed near the privacy screen. The dark-overcoat person remained outside. The probable support SUV remained stationary. The other two entrants did not return. Elias watched the time.
 
@@ -11116,9 +10792,7 @@ Each institution had preserved its part. MPD held seven packages. Hartwell held 
 
 “There is no verified basis for treating an allied acknowledgment, unlawfully removed contractor material, a disputed Hartwell access event, and a local hardware observation as one federal incident.”
 
-Ortiz stood beside the common chest without touching the key clipped inside his vest.
-
-“They are already one MPD incident.”
+Ortiz stood beside the common chest without touching the key clipped inside his vest. “They are already one MPD incident.”
 
 “That is police packaging. It does not create federal jurisdiction.”
 
@@ -11431,9 +11105,7 @@ Drennan glanced toward office counsel beyond the camera line. Counsel said, “H
 
 “Pouch serial?”
 
-He read it.
-
-“Exterior device serial?”
+He read it. “Exterior device serial?”
 
 “SSO-NS-004.”
 
@@ -11522,9 +11194,7 @@ Grant signed only after those limits appeared on the first page.
 Secure MPD Evidence Intake
 Washington, D.C.
 
-Grant returned to the incident channel before noon.
-
-“The signer is under LSS no-use hold. Named custodian Martin Vann. Deputy authority Marisol Vega. Exterior serial confirmed as SSO-NS-004. Pouch and case remain closed. No technical examination.”
+Grant returned to the incident channel before noon. “The signer is under LSS no-use hold. Named custodian Martin Vann. Deputy authority Marisol Vega. Exterior serial confirmed as SSO-NS-004. Pouch and case remain closed. No technical examination.”
 
 Alvarez accepted the derivative into incident 187463 without taking the office or LSS originals. Hackett read the authorizer field. “Diane Kessler. Sterling’s deputy national-security director.”
 
@@ -11602,9 +11272,7 @@ Grant appeared by secure video and identified herself. She did not say that Juli
 
 “What later request?”
 
-Grant did not answer the question he was not entitled to ask.
-
-“Did you submit, authorize, or direct any continuity request after your active DIA authority ended?”
+Grant did not answer the question he was not entitled to ask. “Did you submit, authorize, or direct any continuity request after your active DIA authority ended?”
 
 “No.”
 
@@ -11904,9 +11572,7 @@ A registered authority could have named Vance without placing him there. The liv
 
 “Do not release over a failed local commit.”
 
-Vance held his palm above the final field.
-
-“The local failure is why the remote product exists.”
+Vance held his palm above the final field. “The local failure is why the remote product exists.”
 
 The sentence did not prove he created Payload 88, initiated the 02:14 identity path, commanded the K-17 team, or acted on Sterling’s instruction. It established that the failed local authentication and zero-write result had been presented to him and that he understood the remote product existed to supersede the local failure.
 
@@ -12148,9 +11814,7 @@ The refusal disappointed people who believed vindication should immediately beco
 
 “The record is outside this room now.”
 
-Julie looked through the glass at the locked chest.
-
-“The part they are allowed to see is.”
+Julie looked through the glass at the locked chest. “The part they are allowed to see is.”
 
 The public record no longer depended on Julie being free, persuasive, or physically capable of carrying it. The truth had become heavier.
 
@@ -12418,9 +12082,7 @@ Her neighbor packed the first soil around the post with the tamping bar. Julie h
 
 “Toward you,” she said.
 
-He shifted the post.
-
-“Little more.”
+He shifted the post. “Little more.”
 
 He moved it without asking for the reasoning. Julie checked again. The yellow legal pad rested inside a clear sleeve on the fence rail. It held no client, assignment, or promise that any institution would accept her terms. It held the conditions under which she would return and the conditions under which she would refuse. Webb had written one note beneath Julie's four rules before placing the page in the sleeve.
 

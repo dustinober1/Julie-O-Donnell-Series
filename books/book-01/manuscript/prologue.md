@@ -106,9 +106,7 @@ Marcus turned to Hargrove. “She’s right. Abort it.” He had waited until th
 
 “Then command approved bad intelligence.”
 
-The speaker crackled.
-
-“Hammer One. Release criteria met. Standing by.”
+The speaker crackled. “Hammer One. Release criteria met. Standing by.”
 
 Julie shoved past Hargrove, opened the emergency strike channel, and transmitted the order.
 

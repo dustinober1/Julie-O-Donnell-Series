@@ -39,9 +39,7 @@ Julie’s personal phone remained locked inside the Apex security desk. Her elec
 
 “I think they deleted the partition while I was exporting. I think they knew the destination device. And I think believing evidence because a screen says integrity verified would be a strange lesson to take from today.”
 
-Marcus looked down at the case.
-
-“We can inspect it after Hackett has custody.”
+Marcus looked down at the case. “We can inspect it after Hackett has custody.”
 
 “If Hackett gets custody.”
 
@@ -97,9 +95,7 @@ They bought dark rain jackets, work gloves, two pairs of gray coveralls, flashli
 
 “We’ll use a landline.”
 
-Marcus looked toward the motel.
-
-“You trust motel telephones?”
+Marcus looked toward the motel. “You trust motel telephones?”
 
 “No. I understand what they are.”
 
@@ -125,9 +121,7 @@ No one had opened the badge casing. Yet. The door unlocked. Arthur Vance entered
 
 “Mr. Thorne.”
 
-Elias did not answer.
-
-“Do you understand why you’re here?”
+Elias did not answer. “Do you understand why you’re here?”
 
 “I found a synthetic validation package inside the live production environment.”
 
@@ -165,9 +159,7 @@ He looked farther down. The statement claimed Elias had moved Payload 88 into pr
 
 “You confiscated it.”
 
-Vance folded his hands.
-
-“Facility security recovered an empty maintenance-drive housing.”
+Vance folded his hands. “Facility security recovered an empty maintenance-drive housing.”
 
 The circuit board pressed against Elias’s chest inside the badge. He kept his expression still.
 
@@ -179,9 +171,7 @@ The circuit board pressed against Elias’s chest inside the badge. He kept his 
 
 “The distinction may matter to an engineer. It will matter less to a federal investigator reviewing a critical intelligence compromise.”
 
-Elias looked at the confession.
-
-“Is that what you’re calling it? A compromise?”
+Elias looked at the confession. “Is that what you’re calling it? A compromise?”
 
 “What would you call the unauthorized deployment of synthetic threat data?”
 
@@ -217,13 +207,9 @@ Elias stared at him. Vance continued.
 
 “You didn’t have to.”
 
-Vance leaned back.
+Vance leaned back. “Ms. O’Donnell reached the same unsupported conclusion.”
 
-“Ms. O’Donnell reached the same unsupported conclusion.”
-
-Elias’s pulse changed.
-
-“She found it?”
+Elias’s pulse changed. “She found it?”
 
 “She and Colonel Reed attempted to remove classified data after accessing restricted development records.”
 
@@ -275,9 +261,7 @@ The source certification was scheduled for sixteen-thirty. Ten minutes to proces
 
 “You need me blamed before the packet leaves,” Elias said.
 
-Vance closed the folder.
-
-“I need an accurate administrative record before speculation contaminates the response.”
+Vance closed the folder. “I need an accurate administrative record before speculation contaminates the response.”
 
 “Julie has the files.”
 
@@ -297,9 +281,7 @@ The door opened. Elias looked at the thermostat behind him. A simple digital uni
 
 “One more thing.”
 
-Elias looked at him.
-
-“If you removed any component from the maintenance drive before security recovered it, possessing that component will not improve your position.”
+Elias looked at him. “If you removed any component from the maintenance drive before security recovered it, possessing that component will not improve your position.”
 
 The door sealed. Elias waited until the lock engaged. Then he touched the Apex badge resting against his chest. Vance suspected.
 
@@ -315,9 +297,7 @@ The motel room smelled of old smoke, industrial cleaner, and damp carpet. Julie 
 
 “Bathroom.”
 
-Marcus looked at her.
-
-“What about it?”
+Marcus looked at her. “What about it?”
 
 “Check the vent, mirror, smoke detector, and light fixtures.”
 
@@ -364,9 +344,7 @@ FILES SEALED: 136
 FILES INCOMPLETE: 47
 FILES EXCLUDED DURING FINALIZATION: 311
 
-Marcus read the numbers.
-
-“That sounds bad.”
+Marcus read the numbers. “That sounds bad.”
 
 “It sounds incomplete.”
 
@@ -407,9 +385,7 @@ DEPLOYMENT BRIDGE: ACTIVE
 AUTHORIZATION CHAIN: APX-DIR-0019
 OPERATIONAL STATUS: LIVE
 
-Marcus stopped pacing.
-
-“That proves it.”
+Marcus stopped pacing. “That proves it.”
 
 “It proves an object derived from Payload Eighty-Eight entered the operational environment through a director-level service.”
 
@@ -439,9 +415,7 @@ She pointed toward the screen.
 
 “The synthetic package resembles the operational feed because it was built from realistic field patterns. The ninth checksum was a routine archive migration. APX-DIR-0019 is an automated deployment service used by dozens of administrators. Vance restricted us because we exceeded scope. The partition was erased because we attempted an unauthorized export. Your credentials were suspended because you helped me.”
 
-Marcus stared at her.
-
-“You sound like their lawyer.”
+Marcus stared at her. “You sound like their lawyer.”
 
 “I sound like the person who knows what they will say.”
 
@@ -473,19 +447,13 @@ Marcus read the list.
 
 “What does a source-provenance challenge do?”
 
-Julie opened the next page.
-
-“When the operational source matches an archived synthetic package, it restores the original labels and forces Argus to rerun the assessment without the validation data.”
+Julie opened the next page. “When the operational source matches an archived synthetic package, it restores the original labels and forces Argus to rerun the assessment without the validation data.”
 
 “Would that stop the Indian warning?”
 
-She read farther.
+She read farther. “Any downstream release product depending on the challenged source is suspended until human review.”
 
-“Any downstream release product depending on the challenged source is suspended until human review.”
-
-Marcus checked his watch.
-
-“Source certification was at sixteen-thirty.”
+Marcus checked his watch. “Source certification was at sixteen-thirty.”
 
 “According to the copied schedule.”
 
@@ -497,9 +465,7 @@ Marcus checked his watch.
 
 “The report leaves Apex’s controlled environment. India receives it as a validated American assessment. The executable support product remains on operational hold until zero-five-hundred. We may still invalidate the source before that commit, but the original warning will already be in their system.”
 
-Marcus looked at the evidence drive.
-
-“We send this to Hackett now.”
+Marcus looked at the evidence drive. “We send this to Hackett now.”
 
 “From what?”
 
@@ -535,9 +501,7 @@ He lifted the receiver and dialed the Pentagon’s public switchboard from memor
 
 “Tell him Reed is calling regarding the South Asia source certification.”
 
-A pause.
-
-“Colonel Reed, hold.”
+A pause. “Colonel Reed, hold.”
 
 Marcus turned slightly so Julie could not read his expression. The hold music lasted eighteen seconds. Then a man answered.
 
@@ -555,9 +519,7 @@ General William Hackett’s voice was recognizable even through the motel receiv
 
 “Yes.”
 
-Another pause.
-
-“Do you have classified material?”
+Another pause. “Do you have classified material?”
 
 “We have a sealed incident capture from the Reston review environment.”
 
@@ -581,9 +543,7 @@ Another pause.
 
 “Will the South Asia certification be suspended while it is reviewed?”
 
-Hackett did not answer immediately.
-
-“That decision is being handled.”
+Hackett did not answer immediately. “That decision is being handled.”
 
 “By whom?”
 
@@ -599,9 +559,7 @@ Hackett did not answer immediately.
 
 “No. They control the system record counterintelligence will use.”
 
-Hackett’s voice lowered.
-
-“You are on an unsecured line. Stop talking.”
+Hackett’s voice lowered. “You are on an unsecured line. Stop talking.”
 
 “Then give me a safe channel.”
 
@@ -713,23 +671,17 @@ Rain began ticking against the motel window. Marcus continued.
 
 “No.”
 
-Julie looked at him.
-
-“I don’t need an apology today.”
+Julie looked at him. “I don’t need an apology today.”
 
 “I know.”
 
 “I need you to decide what you will do when following procedure and doing the right thing stop being the same action.”
 
-He lifted his eyes.
-
-“I think that decision happened in the stairwell.”
+He lifted his eyes. “I think that decision happened in the stairwell.”
 
 “No. The stairwell was survival.”
 
-She turned the laptop toward him.
-
-“This is the decision.”
+She turned the laptop toward him. “This is the decision.”
 
 Onscreen, the recovery protocol remained open.
 
@@ -773,9 +725,7 @@ Marcus came to the table.
 
 “Or he tried to preserve the original logs.”
 
-Marcus read the entries.
-
-“Does the capture show where they took him?”
+Marcus read the entries. “Does the capture show where they took him?”
 
 “No room number. Only Building Three.”
 
@@ -789,9 +739,7 @@ Julie checked the package documentation again. The source-provenance challenge n
 
 “No.”
 
-Julie looked at him.
-
-“We don’t have enough evidence to stop the source certification from out here.”
+Julie looked at him. “We don’t have enough evidence to stop the source certification from out here.”
 
 “We have enough to get arrested.”
 
@@ -831,9 +779,7 @@ Marcus paced away from the table.
 
 “Not yet.”
 
-Marcus stopped.
-
-“You keep saying uncertainty is the reason not to act.”
+Marcus stopped. “You keep saying uncertainty is the reason not to act.”
 
 “No. I keep saying uncertainty is the reason to understand what action costs.”
 
@@ -841,9 +787,7 @@ Marcus stopped.
 
 “We could be arrested. We could be shot if Apex security believes we are attacking the production system. Elias could refuse. The certificate could fail. The source challenge could expose genuine threat data beneath the synthetic package. And even if we succeed, the review may not finish before source certification.”
 
-Marcus looked at the clock.
-
-“What is the alternative?”
+Marcus looked at the clock. “What is the alternative?”
 
 “We surrender the drive and hope the institution moves faster than the lie.”
 
@@ -851,9 +795,7 @@ Neither of them spoke. Marcus returned to the table.
 
 “What do you need?”
 
-Julie opened the ThinkPad’s network compartment and reconnected the wireless card.
-
-“I need the county plans for the Apex campus.”
+Julie opened the ThinkPad’s network compartment and reconnected the wireless card. “I need the county plans for the Apex campus.”
 
 “You just disconnected that.”
 
@@ -899,9 +841,7 @@ Despite everything, Julie smiled. Only for a moment.
 
 “That depends on the plans.”
 
-Marcus looked toward the evidence drive.
-
-“And once we find Elias?”
+Marcus looked toward the evidence drive. “And once we find Elias?”
 
 “We get the original deployment record.”
 
@@ -967,9 +907,7 @@ PREPARE COUNTER-BATTERY PLAN UPON RECEIPT OF ALLIED SOURCE CERTIFICATION. EXECUT
 
 “Does it move with the Argus projection?”
 
-Qureshi hesitated.
-
-“Approximately.”
+Qureshi hesitated. “Approximately.”
 
 “That means no.”
 
@@ -977,9 +915,7 @@ Qureshi hesitated.
 
 “The American assessment accounts for everything except being wrong.”
 
-Qureshi looked toward the tactical display.
-
-“Brigade believes the cost of waiting is greater than the cost of acting.”
+Qureshi looked toward the tactical display. “Brigade believes the cost of waiting is greater than the cost of acting.”
 
 “Brigade is twenty kilometers behind us.”
 
@@ -1001,9 +937,7 @@ The red symbols representing Pakistani artillery continued advancing across the 
 
 “Then they arrive before the recommended firing window.”
 
-Qureshi did not move.
-
-“Major, if the enemy is already deploying, the patrol could walk directly into them.”
+Qureshi did not move. “Major, if the enemy is already deploying, the patrol could walk directly into them.”
 
 “Yes.”
 
@@ -1011,15 +945,11 @@ Qureshi did not move.
 
 “They will find an empty road.”
 
-Qureshi considered the order.
-
-“Who leads?”
+Qureshi considered the order. “Who leads?”
 
 “I do.”
 
-His expression changed.
-
-“You are the battery commander.”
+His expression changed. “You are the battery commander.”
 
 “I am the person delaying the battery.”
 
@@ -1042,9 +972,7 @@ Prince William Public Library
 
 Julie sat in the Ford beneath a tree at the far edge of the parking lot. The ThinkPad rested on her knees. Its battery had fallen to forty-two percent. She connected to the library’s guest network using a temporary hardware address and searched the county planning archive. The Apex campus appeared under its former name: Dominion Applied Research Park.
 
-Most current structural records were sealed.
-
-The original civil-engineering plans were public.
+Most current structural records were sealed. The original civil-engineering plans were public.
 
 She downloaded:
 
@@ -1090,9 +1018,7 @@ Julie sent the plans to the printer inside the library. Marcus looked at her.
 
 “Hat, glasses, and thirty seconds.”
 
-He reached for the door handle.
-
-“I’ll do it.”
+He reached for the door handle. “I’ll do it.”
 
 “You’re six foot three and currently listed as an Army colonel who fled a classified facility.”
 
@@ -1112,9 +1038,7 @@ They drove to a self-service car wash, parked behind the building, and spread th
 
 “Once we cross here, the plans become guesses.”
 
-Marcus studied the distance.
-
-“Half a mile on foot from the nearest place we can leave the truck.”
+Marcus studied the distance. “Half a mile on foot from the nearest place we can leave the truck.”
 
 “In the rain.”
 
@@ -1140,9 +1064,7 @@ Marcus pointed to the pump chamber.
 
 “At the fence.”
 
-He looked toward the dark clouds gathering above Reston.
-
-“You really believe Elias will help us?”
+He looked toward the dark clouds gathering above Reston. “You really believe Elias will help us?”
 
 “I believe Vance needs him blamed.”
 
@@ -1222,9 +1144,7 @@ Julie folded the county plans into the waterproof case. Marcus checked the tool 
 
 “No.”
 
-He nodded.
-
-“Me neither.”
+He nodded. “Me neither.”
 
 Julie looked toward the northern sky. Beyond the trees and office buildings, Apex’s glass towers reflected the approaching storm. Two hours earlier, they had escaped with a partial copy of the truth. Now they were returning for the man who could authenticate it. The choice made no tactical sense. It was the only choice that made moral sense. Julie opened the truck door.
 

@@ -56,9 +56,7 @@ Grant appeared by secure video and identified herself. She did not say that Juli
 
 “What later request?”
 
-Grant did not answer the question he was not entitled to ask.
-
-“Did you submit, authorize, or direct any continuity request after your active DIA authority ended?”
+Grant did not answer the question he was not entitled to ask. “Did you submit, authorize, or direct any continuity request after your active DIA authority ended?”
 
 “No.”
 

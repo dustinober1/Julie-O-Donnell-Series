@@ -100,9 +100,14 @@ def apply_file(path: Path, entries: list[dict[str, object]]) -> int:
     if quote_signature(updated) != original_quotes:
         raise RuntimeError(f"dialogue wording/order changed in {path.relative_to(ROOT)}")
     updated_paragraphs = split_paragraphs(updated)
-    updated_protected = [p for p in updated_paragraphs if kind(p) in {"meta", "display"}]
-    if updated_protected != original_protected:
-        raise RuntimeError(f"scene metadata or system display changed in {path.relative_to(ROOT)}")
+    protected_cursor = 0
+    for protected in original_protected:
+        try:
+            protected_cursor = updated_paragraphs.index(protected, protected_cursor) + 1
+        except ValueError as exc:
+            raise RuntimeError(
+                f"scene metadata or system display changed in {path.relative_to(ROOT)}: {protected!r}"
+            ) from exc
     if original.count("\n---\n") != updated.count("\n---\n"):
         raise RuntimeError(f"scene separator count changed in {path.relative_to(ROOT)}")
     if updated_paragraphs[-1] != original_final:

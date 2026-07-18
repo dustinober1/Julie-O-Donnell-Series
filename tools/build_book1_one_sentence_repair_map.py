@@ -65,6 +65,7 @@ EXPLICIT_KEEP = {
     ("books/book-01/manuscript/chapters/chapter-05.md", 640): "preserve peak-action rescue beat",
     ("books/book-01/manuscript/chapters/chapter-08.md", 311): "preserve executive-override decision beat",
     ("books/book-01/manuscript/chapters/chapter-12.md", 248): "preserve field-endpoint reveal before display",
+    ("books/book-01/manuscript/chapters/chapter-12.md", 393): "preserve isolated chapter-closing line",
 }
 
 EXPLICIT_ACTION = {
@@ -174,8 +175,8 @@ def main() -> None:
         )
 
     expected = {
-        "attach_next_dialogue": 167,
-        "keep": 60,
+        "attach_next_dialogue": 166,
+        "keep": 61,
         "merge_previous": 2,
         "merge_next": 1,
     }

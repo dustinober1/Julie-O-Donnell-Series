@@ -51,9 +51,7 @@ Seven small fluctuations appeared near the beginning of the packet. The same clu
 
 “Marcus.”
 
-He moved beside her.
-
-“Carrier noise doesn’t repeat exactly.”
+He moved beside her. “Carrier noise doesn’t repeat exactly.”
 
 “What would cause it?”
 
@@ -221,9 +219,7 @@ APX-DIR-0019.
 
 The service had created a temporary mirror of his workstation, replayed his biometric token, and hidden the elevated act behind his identity. The mirror preserved the workstation serial, local clock, credential path, and expected biometric response. The audit trail did not look forged. It looked complete. Anyone reviewing it later would begin with Elias’s name, token, desk, and confirmed authentication. The administrative service sat one layer lower, available only to someone who already doubted the official event enough to look. The system had not fabricated an implausible alibi for itself. It had assembled the exact evidence an investigator had been trained to trust.
 
-His hands began to shake. A message from Martin Keller asked for a clean resolution to Ticket 4811 before the readiness review. Elias did not answer. The drawer beneath his desk held an encrypted maintenance drive used for debugging transfers between isolated systems. Using it outside procedure could cost his clearance.
-
-The risk had already changed shape.
+His hands began to shake. A message from Martin Keller asked for a clean resolution to Ticket 4811 before the readiness review. Elias did not answer. The drawer beneath his desk held an encrypted maintenance drive used for debugging transfers between isolated systems. Using it outside procedure could cost his clearance. The risk had already changed shape.
 
 He inserted the drive.
 
@@ -240,9 +236,7 @@ The door would not open. His internal phone rang while the transfer reached 56 p
 
 “Elias, what are you doing?”
 
-Elias muted the microphone.
-
-“Stop the transfer. Compliance flagged a corrupted validation object. They’re isolating the lab.”
+Elias muted the microphone. “Stop the transfer. Compliance flagged a corrupted validation object. They’re isolating the lab.”
 
 Elias unmuted. “Payload Eighty-Eight is in production.” Keller went still. That was answer enough.
 

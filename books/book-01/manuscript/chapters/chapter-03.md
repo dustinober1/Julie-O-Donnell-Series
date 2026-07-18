@@ -167,9 +167,7 @@ Sarah’s gaze hardened. “You can continue escalating this, or you can come up
 
 “Convenient.”
 
-Mercer reached for the case, but Marcus took the handle first.
-
-“Colonel, do not make me remove that from you.”
+Mercer reached for the case, but Marcus took the handle first. “Colonel, do not make me remove that from you.”
 
 “Put your name on a custody receipt.”
 
@@ -311,9 +309,7 @@ No black vehicle followed. That did not mean they had lost it. The driver could 
 
 “We have files copied from a monitored partition. Vance controlled the source environment and knew the destination device. Until we inspect them, we don’t know whether they let us take poisoned evidence.”
 
-Marcus looked out at the trees, then nodded.
-
-“Where?”
+Marcus looked out at the trees, then nodded. “Where?”
 
 Julie saw a sign for Manassas.
 
@@ -365,9 +361,7 @@ The warning remained for less than a second, then vanished.
 CONFIDENCE: 99.8%
 SOURCE INTEGRITY: VERIFIED
 
-Sharma leaned toward the screen.
-
-“Did you see that?”
+Sharma leaned toward the screen. “Did you see that?”
 
 “Yes, ma’am.”
 

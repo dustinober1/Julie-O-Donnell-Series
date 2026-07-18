@@ -82,9 +82,7 @@ Drennan glanced toward office counsel beyond the camera line. Counsel said, “H
 
 “Pouch serial?”
 
-He read it.
-
-“Exterior device serial?”
+He read it. “Exterior device serial?”
 
 “SSO-NS-004.”
 
@@ -173,9 +171,7 @@ Grant signed only after those limits appeared on the first page.
 Secure MPD Evidence Intake
 Washington, D.C.
 
-Grant returned to the incident channel before noon.
-
-“The signer is under LSS no-use hold. Named custodian Martin Vann. Deputy authority Marisol Vega. Exterior serial confirmed as SSO-NS-004. Pouch and case remain closed. No technical examination.”
+Grant returned to the incident channel before noon. “The signer is under LSS no-use hold. Named custodian Martin Vann. Deputy authority Marisol Vega. Exterior serial confirmed as SSO-NS-004. Pouch and case remain closed. No technical examination.”
 
 Alvarez accepted the derivative into incident 187463 without taking the office or LSS originals. Hackett read the authorizer field. “Diane Kessler. Sterling’s deputy national-security director.”
 

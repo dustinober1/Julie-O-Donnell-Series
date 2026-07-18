@@ -83,13 +83,9 @@ The rear of the Fenwick Annex looked built to accept deliveries without admittin
 
 “Work-order number?”
 
-Julie held the paper to the lens.
+Julie held the paper to the lens. “Closer.”
 
-“Closer.”
-
-She moved it within a foot of the glass.
-
-“You’re not on the morning sheet.”
+She moved it within a foot of the glass. “You’re not on the morning sheet.”
 
 “Call came after it closed.”
 
@@ -123,9 +119,7 @@ SPONSOR ACKNOWLEDGMENT REQUIRED
 
 “That means the number passes intake,” Elias said. “It doesn’t mean the tenant accepted us.”
 
-The guard looked at him.
-
-“I know what it means.”
+The guard looked at him. “I know what it means.”
 
 Elias lowered his gaze. “Right.” The guard called upstairs. Julie watched the camera feeds. The alley remained ordinary. The public lobby appeared in the fourth frame, where a muted television showed Sterling beneath flags and Julie’s photograph in the lower corner.
 
@@ -335,9 +329,7 @@ PRE-SESSION ROUTING STATE INITIALIZING
 
 “It is not the external session yet,” Elias said. “The suite is presenting local identity.”
 
-Bell lowered the phone.
-
-“You know too much about this system for someone who cannot seat a module.”
+Bell lowered the phone. “You know too much about this system for someone who cannot seat a module.”
 
 “I helped design the controller profile.”
 
@@ -365,9 +357,7 @@ Bell reached for the telephone. Elias watched the interface. “Pulling the modu
 
 “The local audit is yours,” Julie said. “Preserve it.”
 
-Bell stared at her.
-
-“WSS-four is about to receive a hardware-authenticated exchange tied to an active foreign operation. Your controller will record the same event we do.”
+Bell stared at her. “WSS-four is about to receive a hardware-authenticated exchange tied to an active foreign operation. Your controller will record the same event we do.”
 
 “You expect me to believe that?”
 
@@ -418,9 +408,7 @@ Mercer asked, “Confirm force standard.”
 
 “Loss of the communications package constitutes imminent national-security harm.”
 
-Sarah opened the joint channel.
-
-“Material loss is not a deadly threat. My force standard stands.”
+Sarah opened the joint channel. “Material loss is not a deadly threat. My force standard stands.”
 
 “They have already compromised one strategic system,” Vance said.
 
@@ -430,9 +418,7 @@ Sarah opened the joint channel.
 
 “Then take them alive and preserve the local audit.”
 
-A short pause.
-
-“Telemetry recovery has priority,” Vance said.
+A short pause. “Telemetry recovery has priority,” Vance said.
 
 Sarah marked the order into her incident file and opened the vendor conference path to WSS-4.
 
@@ -513,9 +499,7 @@ Chen heard. “That does not change containment. When the interface permits safe
 
 “Vance authorized deadly force for loss of telemetry.”
 
-Bell looked toward the speaker.
-
-“My rules do not,” Chen said.
+Bell looked toward the speaker. “My rules do not,” Chen said.
 
 “Preserve his order.”
 
@@ -792,9 +776,7 @@ No one fired. No one was run down. Behind them, Fenwick still held ordinary empl
 Downtown Washington
 07:16 Eastern Daylight Time
 
-The radio returned to news before they cleared three blocks.
-
-“Authorities are responding to an apparent breach at Northbridge Strategic Initiatives, a Washington policy organization involved in sensitive national-security consulting. Sources say the suspects sought protected communications equipment.”
+The radio returned to news before they cleared three blocks. “Authorities are responding to an apparent breach at Northbridge Strategic Initiatives, a Washington policy organization involved in sensitive national-security consulting. Sources say the suspects sought protected communications equipment.”
 
 Marcus sat twisted in the passenger seat with the case between his boots and the waterproof folder against his ribs. Elias remained on the cargo floor without the rain shell, holding the incident module in both hands. Its display showed only handling facts.
 
@@ -850,9 +832,7 @@ Marcus stopped writing. “The same device has to answer inside the briefing sec
 
 “Seven-forty-eight to seven-fifty-four. Source-reconstruction profile pending. The command blocks are still encrypted.”
 
-Marcus closed the log.
-
-“A Sterling-office device authenticated a K-seventeen operational session and is expected inside Hartwell.”
+Marcus closed the log. “A Sterling-office device authenticated a K-seventeen operational session and is expected inside Hartwell.”
 
 “Yes,” Julie said.
 

@@ -1,0 +1,1624 @@
+{
+  "version": 1,
+  "baseline_words": 105081,
+  "baseline_candidates": 230,
+  "target_candidates_max": 75,
+  "action_counts": {
+    "attach_next_dialogue": 166,
+    "keep": 61,
+    "merge_previous": 2,
+    "merge_next": 1
+  },
+  "entries": [
+    {
+      "file": "books/book-01/manuscript/prologue.md",
+      "paragraph_number": 55,
+      "candidate": "The speaker crackled.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/prologue.md",
+      "paragraph_number": 87,
+      "candidate": "Julie turned back to the dead compound.",
+      "action": "keep",
+      "reason": "protected emphasis, countdown, or display handoff"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-01.md",
+      "paragraph_number": 16,
+      "candidate": "Marcus closed the vehicle door without taking his eyes off her.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-01.md",
+      "paragraph_number": 21,
+      "candidate": "He glanced at the shotgun.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-01.md",
+      "paragraph_number": 52,
+      "candidate": "Julie looked back at the readings.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-01.md",
+      "paragraph_number": 125,
+      "candidate": "Marcus paused.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-01.md",
+      "paragraph_number": 143,
+      "candidate": "She closed her eyes.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-01.md",
+      "paragraph_number": 168,
+      "candidate": "He hesitated.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-01.md",
+      "paragraph_number": 177,
+      "candidate": "Julie looked again at the black Suburban.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-01.md",
+      "paragraph_number": 188,
+      "candidate": "She raised an eyebrow.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-01.md",
+      "paragraph_number": 220,
+      "candidate": "Marcus nodded.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-01.md",
+      "paragraph_number": 223,
+      "candidate": "He looked back at the Suburban.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-01.md",
+      "paragraph_number": 267,
+      "candidate": "Marcus intervened.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-01.md",
+      "paragraph_number": 269,
+      "candidate": "Sarah looked at him.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-01.md",
+      "paragraph_number": 271,
+      "candidate": "Marcus’s jaw tightened.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-01.md",
+      "paragraph_number": 276,
+      "candidate": "Julie looked from Sarah to Marcus.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-01.md",
+      "paragraph_number": 282,
+      "candidate": "Sarah withdrew the tablet.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-01.md",
+      "paragraph_number": 299,
+      "candidate": "Marcus turned toward her.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-01.md",
+      "paragraph_number": 309,
+      "candidate": "Sarah’s eyes narrowed slightly.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-01.md",
+      "paragraph_number": 318,
+      "candidate": "Marcus stepped between them before Julie could respond.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-01.md",
+      "paragraph_number": 330,
+      "candidate": "Julie pulled out a chair.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-01.md",
+      "paragraph_number": 335,
+      "candidate": "She looked at him.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-01.md",
+      "paragraph_number": 340,
+      "candidate": "Julie opened her notebook.",
+      "action": "attach_next_dialogue",
+      "reason": "attach reaction to the following spoken response"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-01.md",
+      "paragraph_number": 342,
+      "candidate": "Marcus remained standing.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-01.md",
+      "paragraph_number": 357,
+      "candidate": "Julie’s fingers went cold around the pen.",
+      "action": "merge_previous",
+      "reason": "continue the preceding narrative paragraph"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-02.md",
+      "paragraph_number": 27,
+      "candidate": "He moved beside her.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-02.md",
+      "paragraph_number": 59,
+      "candidate": "The contents remained locked, but the index showed the package owner.",
+      "action": "keep",
+      "reason": "protected emphasis, countdown, or display handoff"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-02.md",
+      "paragraph_number": 102,
+      "candidate": "The risk had already changed shape.",
+      "action": "merge_previous",
+      "reason": "continue the preceding narrative paragraph"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-02.md",
+      "paragraph_number": 110,
+      "candidate": "Elias muted the microphone.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-03.md",
+      "paragraph_number": 13,
+      "candidate": "Marcus did not move.",
+      "action": "keep",
+      "reason": "protected emphasis, countdown, or display handoff"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-03.md",
+      "paragraph_number": 32,
+      "candidate": "Sarah did not answer.",
+      "action": "keep",
+      "reason": "protected emphasis, countdown, or display handoff"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-03.md",
+      "paragraph_number": 84,
+      "candidate": "Mercer reached for the case, but Marcus took the handle first.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-03.md",
+      "paragraph_number": 154,
+      "candidate": "Marcus looked out at the trees, then nodded.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-03.md",
+      "paragraph_number": 176,
+      "candidate": "The console chimed.",
+      "action": "keep",
+      "reason": "protected emphasis, countdown, or display handoff"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-03.md",
+      "paragraph_number": 178,
+      "candidate": "The warning remained for less than a second, then vanished.",
+      "action": "keep",
+      "reason": "protected emphasis, countdown, or display handoff"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-03.md",
+      "paragraph_number": 180,
+      "candidate": "Sharma leaned toward the screen.",
+      "action": "attach_next_dialogue",
+      "reason": "attach reaction to the following spoken response"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 21,
+      "candidate": "Marcus looked down at the case.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 50,
+      "candidate": "Marcus looked toward the motel.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 64,
+      "candidate": "Elias did not answer.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 83,
+      "candidate": "Vance folded his hands.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 90,
+      "candidate": "Elias looked at the confession.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 109,
+      "candidate": "Vance leaned back.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 111,
+      "candidate": "Elias’s pulse changed.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 138,
+      "candidate": "Vance closed the folder.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 149,
+      "candidate": "Elias looked at him.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 158,
+      "candidate": "Marcus looked at her.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 180,
+      "candidate": "Marcus read the numbers.",
+      "action": "attach_next_dialogue",
+      "reason": "attach reaction to the following spoken response"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 199,
+      "candidate": "Marcus stopped pacing.",
+      "action": "attach_next_dialogue",
+      "reason": "attach reaction to the following spoken response"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 215,
+      "candidate": "Marcus stared at her.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 220,
+      "candidate": "She opened the package-recovery documentation included in the index metadata.",
+      "action": "keep",
+      "reason": "preserve speaker-safe trigger into protected display"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 231,
+      "candidate": "Julie opened the next page.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 234,
+      "candidate": "She read farther.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 236,
+      "candidate": "Marcus checked his watch.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 243,
+      "candidate": "Marcus looked at the evidence drive.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 262,
+      "candidate": "A pause.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 272,
+      "candidate": "Another pause.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 285,
+      "candidate": "Hackett did not answer immediately.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 294,
+      "candidate": "Hackett’s voice lowered.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 313,
+      "candidate": "Hackett went silent.",
+      "action": "keep",
+      "reason": "speaker attribution would become ambiguous"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 315,
+      "candidate": "Julie stopped typing.",
+      "action": "keep",
+      "reason": "speaker attribution would become ambiguous"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 351,
+      "candidate": "Julie looked at him.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 355,
+      "candidate": "He lifted his eyes.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 358,
+      "candidate": "She turned the laptop toward him.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 379,
+      "candidate": "Marcus read the entries.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 387,
+      "candidate": "Julie looked at him.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 408,
+      "candidate": "Marcus stopped.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 413,
+      "candidate": "Marcus looked at the clock.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 418,
+      "candidate": "Julie opened the ThinkPad’s network compartment and reconnected the wireless card.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 442,
+      "candidate": "Marcus looked toward the evidence drive.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 464,
+      "candidate": "Sharma took it.",
+      "action": "keep",
+      "reason": "preserve speaker-safe trigger into protected display"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 475,
+      "candidate": "Qureshi hesitated.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 480,
+      "candidate": "Qureshi looked toward the tactical display.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 491,
+      "candidate": "Qureshi did not move.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 496,
+      "candidate": "Qureshi considered the order.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 499,
+      "candidate": "His expression changed.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 511,
+      "candidate": "Most current structural records were sealed.",
+      "action": "merge_next",
+      "reason": "pair sealed and public planning-record contrast"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 535,
+      "candidate": "He reached for the door handle.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 546,
+      "candidate": "Marcus studied the distance.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 560,
+      "candidate": "He looked toward the dark clouds gathering above Reston.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-04.md",
+      "paragraph_number": 601,
+      "candidate": "He nodded.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-05.md",
+      "paragraph_number": 21,
+      "candidate": "Vance studied him for a moment.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-05.md",
+      "paragraph_number": 36,
+      "candidate": "Elias looked at the confession.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-05.md",
+      "paragraph_number": 59,
+      "candidate": "Vance closed the folder.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-05.md",
+      "paragraph_number": 68,
+      "candidate": "Vance stood.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-05.md",
+      "paragraph_number": 72,
+      "candidate": "Elias looked at the clock.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-05.md",
+      "paragraph_number": 94,
+      "candidate": "Qureshi removed his headset.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-05.md",
+      "paragraph_number": 104,
+      "candidate": "Qureshi hesitated.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-05.md",
+      "paragraph_number": 138,
+      "candidate": "This time Marcus followed.",
+      "action": "keep",
+      "reason": "preserve speaker-safe trigger into protected display"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-05.md",
+      "paragraph_number": 144,
+      "candidate": "Marcus read the lines twice.",
+      "action": "attach_next_dialogue",
+      "reason": "attach reaction to the following spoken response"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-05.md",
+      "paragraph_number": 153,
+      "candidate": "Marcus looked toward the rain-hidden campus.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-05.md",
+      "paragraph_number": 163,
+      "candidate": "He looked at the culvert route on the printed plan.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-05.md",
+      "paragraph_number": 185,
+      "candidate": "A pause followed.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-05.md",
+      "paragraph_number": 205,
+      "candidate": "0500.",
+      "action": "keep",
+      "reason": "preserve second-clock reveal"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-05.md",
+      "paragraph_number": 272,
+      "candidate": "Marcus saw her expression.",
+      "action": "attach_next_dialogue",
+      "reason": "attach reaction to the following spoken response"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-05.md",
+      "paragraph_number": 283,
+      "candidate": "The display refreshed.",
+      "action": "keep",
+      "reason": "preserve speaker-safe trigger into protected display"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-05.md",
+      "paragraph_number": 285,
+      "candidate": "Marcus looked toward the interior door.",
+      "action": "attach_next_dialogue",
+      "reason": "attach reaction to the following spoken response"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-05.md",
+      "paragraph_number": 302,
+      "candidate": "Marcus looked up at the camera.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-05.md",
+      "paragraph_number": 310,
+      "candidate": "Julie held up her clipboard.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-05.md",
+      "paragraph_number": 320,
+      "candidate": "He considered that.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-05.md",
+      "paragraph_number": 352,
+      "candidate": "Marcus stepped beneath the speaker.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-05.md",
+      "paragraph_number": 410,
+      "candidate": "Marcus lifted the aluminum case.",
+      "action": "keep",
+      "reason": "speaker attribution would become ambiguous"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-05.md",
+      "paragraph_number": 412,
+      "candidate": "Elias held up the circuit board.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-05.md",
+      "paragraph_number": 423,
+      "candidate": "Elias looked toward the ceiling speaker.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-05.md",
+      "paragraph_number": 430,
+      "candidate": "Julie understood.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-05.md",
+      "paragraph_number": 438,
+      "candidate": "Elias nodded.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-05.md",
+      "paragraph_number": 449,
+      "candidate": "Marcus stepped in front of Julie and Elias.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-05.md",
+      "paragraph_number": 467,
+      "candidate": "Mercer continued looking at Julie.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-05.md",
+      "paragraph_number": 476,
+      "candidate": "Vance answered personally.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-05.md",
+      "paragraph_number": 485,
+      "candidate": "Marcus shook his head.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-05.md",
+      "paragraph_number": 491,
+      "candidate": "Mercer lowered his voice.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-05.md",
+      "paragraph_number": 510,
+      "candidate": "Elias crossed to the rear holding-room door.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-05.md",
+      "paragraph_number": 532,
+      "candidate": "Sarah’s voice hardened.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-05.md",
+      "paragraph_number": 534,
+      "candidate": "Julie glanced at Elias.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-05.md",
+      "paragraph_number": 539,
+      "candidate": "Julie looked toward the descending passage.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-05.md",
+      "paragraph_number": 543,
+      "candidate": "Elias nodded.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-05.md",
+      "paragraph_number": 561,
+      "candidate": "She closed the service door.",
+      "action": "keep",
+      "reason": "preserve speaker-safe trigger into protected display"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-05.md",
+      "paragraph_number": 577,
+      "candidate": "Elias continued working.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-05.md",
+      "paragraph_number": 593,
+      "candidate": "Elias looked at Julie.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-05.md",
+      "paragraph_number": 601,
+      "candidate": "Marcus looked at Julie.",
+      "action": "attach_next_dialogue",
+      "reason": "attach reaction to the following spoken response"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-05.md",
+      "paragraph_number": 619,
+      "candidate": "He looked at her.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-05.md",
+      "paragraph_number": 630,
+      "candidate": "Elias read the actuator specification on the panel.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-05.md",
+      "paragraph_number": 637,
+      "candidate": "A second line followed.",
+      "action": "keep",
+      "reason": "bridges two protected display blocks"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-05.md",
+      "paragraph_number": 640,
+      "candidate": "Julie caught Elias by the shoulder.",
+      "action": "keep",
+      "reason": "preserve peak-action rescue beat"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-06.md",
+      "paragraph_number": 47,
+      "candidate": "Elias looked at her.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-06.md",
+      "paragraph_number": 55,
+      "candidate": "Elias glanced at the clock on the shutter panel.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-07.md",
+      "paragraph_number": 104,
+      "candidate": "The image broke apart.",
+      "action": "keep",
+      "reason": "protected emphasis, countdown, or display handoff"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-07.md",
+      "paragraph_number": 114,
+      "candidate": "The display updated.",
+      "action": "keep",
+      "reason": "protected emphasis, countdown, or display handoff"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-07.md",
+      "paragraph_number": 162,
+      "candidate": "The panel advanced.",
+      "action": "keep",
+      "reason": "protected emphasis, countdown, or display handoff"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-07.md",
+      "paragraph_number": 181,
+      "candidate": "Marcus looked at the team regrouping six feet away.",
+      "action": "attach_next_dialogue",
+      "reason": "attach reaction to the following spoken response"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-07.md",
+      "paragraph_number": 263,
+      "candidate": "Onscreen, 01:37 became 01:36.",
+      "action": "keep",
+      "reason": "protected emphasis, countdown, or display handoff"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-08.md",
+      "paragraph_number": 25,
+      "candidate": "Julie looked at the screen.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-08.md",
+      "paragraph_number": 49,
+      "candidate": "The wheel stopped.",
+      "action": "keep",
+      "reason": "protected emphasis, countdown, or display handoff"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-08.md",
+      "paragraph_number": 93,
+      "candidate": "Elias closed his eyes for less than a second.",
+      "action": "attach_next_dialogue",
+      "reason": "attach reaction to the following spoken response"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-08.md",
+      "paragraph_number": 152,
+      "candidate": "She pressed EXECUTE.",
+      "action": "keep",
+      "reason": "protected emphasis, countdown, or display handoff"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-08.md",
+      "paragraph_number": 165,
+      "candidate": "The clock showed 00:04.",
+      "action": "keep",
+      "reason": "protected emphasis, countdown, or display handoff"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-08.md",
+      "paragraph_number": 186,
+      "candidate": "The display tried to reconcile them.",
+      "action": "keep",
+      "reason": "protected emphasis, countdown, or display handoff"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-08.md",
+      "paragraph_number": 198,
+      "candidate": "Qureshi relayed beside her.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-08.md",
+      "paragraph_number": 202,
+      "candidate": "Then another.",
+      "action": "keep",
+      "reason": "protected emphasis, countdown, or display handoff"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-08.md",
+      "paragraph_number": 216,
+      "candidate": "Julie looked at the zeroed clock.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-08.md",
+      "paragraph_number": 226,
+      "candidate": "Julie looked at the words she had accepted under the clock.",
+      "action": "keep",
+      "reason": "preserve speaker-safe trigger into protected display"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-08.md",
+      "paragraph_number": 240,
+      "candidate": "Not artillery.",
+      "action": "keep",
+      "reason": "protected emphasis, countdown, or display handoff"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-08.md",
+      "paragraph_number": 287,
+      "candidate": "Elias went still.",
+      "action": "keep",
+      "reason": "protected emphasis, countdown, or display handoff"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-08.md",
+      "paragraph_number": 291,
+      "candidate": "Julie watched the override request remain pending.",
+      "action": "keep",
+      "reason": "preserve speaker-safe trigger into protected display"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-08.md",
+      "paragraph_number": 311,
+      "candidate": "Vance opened the executive override field.",
+      "action": "keep",
+      "reason": "preserve executive-override decision beat"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-08.md",
+      "paragraph_number": 317,
+      "candidate": "Vance entered the override.",
+      "action": "keep",
+      "reason": "preserve speaker-safe trigger into protected display"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-08.md",
+      "paragraph_number": 323,
+      "candidate": "Another pause.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-09.md",
+      "paragraph_number": 45,
+      "candidate": "The media display changed.",
+      "action": "keep",
+      "reason": "protected emphasis, countdown, or display handoff"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-09.md",
+      "paragraph_number": 68,
+      "candidate": "Julie crossed to the cabinet and read its labels.",
+      "action": "keep",
+      "reason": "preserve speaker-safe trigger into protected display"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-10.md",
+      "paragraph_number": 40,
+      "candidate": "The radio crackled.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-10.md",
+      "paragraph_number": 84,
+      "candidate": "He gave it correctly.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-10.md",
+      "paragraph_number": 138,
+      "candidate": "Julie waited.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-10.md",
+      "paragraph_number": 159,
+      "candidate": "Julie looked up.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-10.md",
+      "paragraph_number": 167,
+      "candidate": "Julie looked at him.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-10.md",
+      "paragraph_number": 191,
+      "candidate": "His expression tightened.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-10.md",
+      "paragraph_number": 238,
+      "candidate": "Julie turned the paper over and drew three headings.",
+      "action": "keep",
+      "reason": "preserve speaker-safe trigger into protected display"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-10.md",
+      "paragraph_number": 260,
+      "candidate": "He expanded it.",
+      "action": "keep",
+      "reason": "preserve speaker-safe trigger into protected display"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-10.md",
+      "paragraph_number": 287,
+      "candidate": "Elias looked at the wall clock.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-10.md",
+      "paragraph_number": 312,
+      "candidate": "Marcus looked at the 07:08 entry.",
+      "action": "keep",
+      "reason": "speaker attribution would become ambiguous"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-11.md",
+      "paragraph_number": 43,
+      "candidate": "Marcus read it.",
+      "action": "attach_next_dialogue",
+      "reason": "attach reaction to the following spoken response"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-11.md",
+      "paragraph_number": 51,
+      "candidate": "Marcus leaned forward, then stopped when his ribs objected.",
+      "action": "attach_next_dialogue",
+      "reason": "attach reaction to the following spoken response"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-11.md",
+      "paragraph_number": 59,
+      "candidate": "He went still.",
+      "action": "keep",
+      "reason": "speaker attribution would become ambiguous"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-11.md",
+      "paragraph_number": 171,
+      "candidate": "Marcus nodded once.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-12.md",
+      "paragraph_number": 36,
+      "candidate": "She nodded and turned away.",
+      "action": "keep",
+      "reason": "preserve speaker-safe trigger into protected display"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-12.md",
+      "paragraph_number": 42,
+      "candidate": "Julie held the paper to the lens.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-12.md",
+      "paragraph_number": 44,
+      "candidate": "She moved it within a foot of the glass.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-12.md",
+      "paragraph_number": 61,
+      "candidate": "The guard looked at him.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-12.md",
+      "paragraph_number": 118,
+      "candidate": "He opened the protected port.",
+      "action": "keep",
+      "reason": "preserve speaker-safe trigger into protected display"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-12.md",
+      "paragraph_number": 140,
+      "candidate": "Elias stopped.",
+      "action": "keep",
+      "reason": "speaker attribution would become ambiguous"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-12.md",
+      "paragraph_number": 158,
+      "candidate": "Bell lowered the phone.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-12.md",
+      "paragraph_number": 173,
+      "candidate": "Bell stared at her.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-12.md",
+      "paragraph_number": 184,
+      "candidate": "The clock showed 07:06:11.",
+      "action": "keep",
+      "reason": "preserve speaker-safe trigger into protected display"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-12.md",
+      "paragraph_number": 196,
+      "candidate": "Sarah opened the joint channel.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-12.md",
+      "paragraph_number": 202,
+      "candidate": "A short pause.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-12.md",
+      "paragraph_number": 241,
+      "candidate": "Bell looked toward the speaker.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-12.md",
+      "paragraph_number": 248,
+      "candidate": "A field endpoint presented.",
+      "action": "keep",
+      "reason": "preserve field-endpoint reveal before display"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-12.md",
+      "paragraph_number": 259,
+      "candidate": "The final block loaded.",
+      "action": "keep",
+      "reason": "preserve speaker-safe trigger into protected display"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-12.md",
+      "paragraph_number": 285,
+      "candidate": "More structured status followed.",
+      "action": "keep",
+      "reason": "preserve speaker-safe trigger into protected display"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-12.md",
+      "paragraph_number": 295,
+      "candidate": "The live session acknowledged.",
+      "action": "keep",
+      "reason": "bridges two protected display blocks"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-12.md",
+      "paragraph_number": 299,
+      "candidate": "Elias did not move.",
+      "action": "keep",
+      "reason": "bridges two protected display blocks"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-12.md",
+      "paragraph_number": 356,
+      "candidate": "The radio returned to news before they cleared three blocks.",
+      "action": "attach_next_dialogue",
+      "reason": "attach reaction to the following spoken response"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-12.md",
+      "paragraph_number": 383,
+      "candidate": "Marcus closed the log.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-12.md",
+      "paragraph_number": 393,
+      "candidate": "Julie watched the motorcade move toward the next authentication point.",
+      "action": "keep",
+      "reason": "preserve isolated chapter-closing line"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-13.md",
+      "paragraph_number": 37,
+      "candidate": "Marcus looked at her.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-13.md",
+      "paragraph_number": 60,
+      "candidate": "Marcus turned toward her.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-13.md",
+      "paragraph_number": 69,
+      "candidate": "Marcus held her gaze.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-13.md",
+      "paragraph_number": 79,
+      "candidate": "Marcus waited.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-13.md",
+      "paragraph_number": 81,
+      "candidate": "Julie looked through the open wall toward Hartwell.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-13.md",
+      "paragraph_number": 91,
+      "candidate": "Elias looked at her.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-13.md",
+      "paragraph_number": 118,
+      "candidate": "They kept watching.",
+      "action": "keep",
+      "reason": "preserve speaker-safe trigger into protected display"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-13.md",
+      "paragraph_number": 129,
+      "candidate": "Mercer waited for Sarah.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-13.md",
+      "paragraph_number": 140,
+      "candidate": "Elias looked at him.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-13.md",
+      "paragraph_number": 150,
+      "candidate": "Marcus checked the mirrors inside the garage.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-13.md",
+      "paragraph_number": 168,
+      "candidate": "Elias looked at the module.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-13.md",
+      "paragraph_number": 171,
+      "candidate": "He pressed it.",
+      "action": "keep",
+      "reason": "preserve speaker-safe trigger into protected display"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-13.md",
+      "paragraph_number": 195,
+      "candidate": "Elias pressed.",
+      "action": "keep",
+      "reason": "preserve speaker-safe trigger into protected display"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-13.md",
+      "paragraph_number": 244,
+      "candidate": "Marcus heard them.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-13.md",
+      "paragraph_number": 251,
+      "candidate": "Julie looked at Elias.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-13.md",
+      "paragraph_number": 260,
+      "candidate": "Julie looked at Marcus.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-13.md",
+      "paragraph_number": 334,
+      "candidate": "Mercer reached the next column.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-13.md",
+      "paragraph_number": 339,
+      "candidate": "Elias pressed.",
+      "action": "keep",
+      "reason": "preserve speaker-safe trigger into protected display"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-13.md",
+      "paragraph_number": 350,
+      "candidate": "Mercer looked at Elias’s module.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-13.md",
+      "paragraph_number": 366,
+      "candidate": "Marcus corrected the entry.",
+      "action": "keep",
+      "reason": "preserve speaker-safe trigger into protected display"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-14.md",
+      "paragraph_number": 25,
+      "candidate": "Julie looked at the body camera, not at Hartwell.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-14.md",
+      "paragraph_number": 39,
+      "candidate": "Ortiz studied her for one second.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-14.md",
+      "paragraph_number": 48,
+      "candidate": "Static opened and closed.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-14.md",
+      "paragraph_number": 108,
+      "candidate": "Marcus heard it.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-14.md",
+      "paragraph_number": 118,
+      "candidate": "Ortiz studied her.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-14.md",
+      "paragraph_number": 136,
+      "candidate": "Elias pressed.",
+      "action": "keep",
+      "reason": "preserve speaker-safe trigger into protected display"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-14.md",
+      "paragraph_number": 140,
+      "candidate": "Ortiz watched the pen stop.",
+      "action": "attach_next_dialogue",
+      "reason": "attach reaction to the following spoken response"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-14.md",
+      "paragraph_number": 142,
+      "candidate": "Julie looked at Hartwell.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-14.md",
+      "paragraph_number": 158,
+      "candidate": "Ortiz turned enough to see it.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-14.md",
+      "paragraph_number": 164,
+      "candidate": "Elias’s left thumb moved.",
+      "action": "keep",
+      "reason": "preserve speaker-safe trigger into protected display"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-14.md",
+      "paragraph_number": 169,
+      "candidate": "Mercer looked toward the lamp.",
+      "action": "attach_next_dialogue",
+      "reason": "attach reaction to the following spoken response"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-14.md",
+      "paragraph_number": 186,
+      "candidate": "Julie looked at Mercer.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-14.md",
+      "paragraph_number": 200,
+      "candidate": "Julie looked at Elias.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-14.md",
+      "paragraph_number": 211,
+      "candidate": "He closed his eyes once and kept both hands visible.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-14.md",
+      "paragraph_number": 290,
+      "candidate": "Mercer held the question for one second.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-19.md",
+      "paragraph_number": 9,
+      "candidate": "Ortiz stood beside the common chest without touching the key clipped inside his vest.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-19.md",
+      "paragraph_number": 34,
+      "candidate": "Alvarez asked, “Interpretation?”",
+      "action": "keep",
+      "reason": "contains spoken dialogue and is not a narrative defect"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-19.md",
+      "paragraph_number": 68,
+      "candidate": "The first line appeared.",
+      "action": "keep",
+      "reason": "protected emphasis, countdown, or display handoff"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-20.md",
+      "paragraph_number": 25,
+      "candidate": "Hackett began to object.",
+      "action": "keep",
+      "reason": "speaker attribution would become ambiguous"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-20.md",
+      "paragraph_number": 39,
+      "candidate": "He read it.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-20.md",
+      "paragraph_number": 84,
+      "candidate": "Grant returned to the incident channel before noon.",
+      "action": "attach_next_dialogue",
+      "reason": "attach reaction to the following spoken response"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-21.md",
+      "paragraph_number": 26,
+      "candidate": "Grant did not answer the question he was not entitled to ask.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-21.md",
+      "paragraph_number": 89,
+      "candidate": "Grant sealed the finding.",
+      "action": "keep",
+      "reason": "protected emphasis, countdown, or display handoff"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-22.md",
+      "paragraph_number": 8,
+      "candidate": "Hackett said, “Produce it.”",
+      "action": "keep",
+      "reason": "contains spoken dialogue and is not a narrative defect"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-22.md",
+      "paragraph_number": 14,
+      "candidate": "Alvarez opened two production tracks.",
+      "action": "keep",
+      "reason": "preserve speaker-safe trigger into protected display"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-22.md",
+      "paragraph_number": 67,
+      "candidate": "Vance held his palm above the final field.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-23.md",
+      "paragraph_number": 77,
+      "candidate": "Julie looked through the glass at the locked chest.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    },
+    {
+      "file": "books/book-01/manuscript/chapters/chapter-24.md",
+      "paragraph_number": 129,
+      "candidate": "He shifted the post.",
+      "action": "attach_next_dialogue",
+      "reason": "attach routine action to the acting character's following speech"
+    }
+  ]
+}

@@ -154,9 +154,7 @@ The refusal disappointed people who believed vindication should immediately beco
 
 “The record is outside this room now.”
 
-Julie looked through the glass at the locked chest.
-
-“The part they are allowed to see is.”
+Julie looked through the glass at the locked chest. “The part they are allowed to see is.”
 
 The public record no longer depended on Julie being free, persuasive, or physically capable of carrying it. The truth had become heavier.
 

@@ -78,9 +78,7 @@ Marcus leaned across the console. The movement stopped his breathing for a secon
 
 “Now it’s a known van without an Apex placard,” he said.
 
-The radio crackled.
-
-“All county units, lookout request expanding from private security incident. Vehicle last observed departing south service perimeter. Do not approach without coordination. Classified material may be present.”
+The radio crackled. “All county units, lookout request expanding from private security incident. Vehicle last observed departing south service perimeter. Do not approach without coordination. Classified material may be present.”
 
 No sirens followed. That made the response more dangerous. Patrol cars, traffic systems, and ordinary people could begin looking without warning them that the search had reached the next road. The flatbed turned toward the parkway. Marcus directed Julie onto a service road beneath the transmission lines, behind a water-pumping station and a row of warehouse units whose loading docks faced away from the main road.
 
@@ -168,9 +166,7 @@ She switched on a flashlight from the first-aid cabinet. One pupil constricted, 
 
 “Date.”
 
-He gave it correctly.
-
-“Nausea?”
+He gave it correctly. “Nausea?”
 
 “No.”
 
@@ -276,9 +272,7 @@ Marcus closed his eyes for a moment. Elias looked away first. The scanner repeat
 
 “I pressed confirm,” Elias said.
 
-Julie waited.
-
-“I opened the gate. I restored the labels. I pulled the recorder. No one made my hand do any of it.” He looked down at the bandage on his finger. “That doesn’t make it feel like a choice.”
+Julie waited. “I opened the gate. I restored the labels. I pulled the recorder. No one made my hand do any of it.” He looked down at the bandage on his finger. “That doesn’t make it feel like a choice.”
 
 “No,” Julie said. “It makes it yours.”
 
@@ -322,9 +316,7 @@ Elias removed it from inside his shirt with his left hand. The black metal housi
 
 “Transferred voluntarily,” Elias said.
 
-Julie looked up.
-
-“Write that.”
+Julie looked up. “Write that.”
 
 She did. The administrator-token circuit board remained in his other hand. One corner bore the scrape from the cooling gallery. The copper contacts were marked where the gate and recovery console had accepted it. The secure-element package showed no visible fracture.
 
@@ -338,9 +330,7 @@ The workstation took nearly two minutes to boot. Its clock was wrong by eleven d
 
 “Cause. Effect. Evidence,” Marcus said from the doorway.
 
-Julie looked at him.
-
-“You used to say it when you wanted everyone else to slow down.”
+Julie looked at him. “You used to say it when you wanted everyone else to slow down.”
 
 “I still do.”
 
@@ -388,9 +378,7 @@ Nothing in it turned Elias’s earlier replayed identity into physical use of th
 
 “No,” Julie said.
 
-His expression tightened.
-
-“It is enough to contradict Apex. Clearing us requires someone to accept the record before accepting their alert.”
+His expression tightened. “It is enough to contradict Apex. Clearing us requires someone to accept the record before accepting their alert.”
 
 Elias looked at the scanner in the next room. “And before they decide the record is another thing I altered.” Julie nodded. The storage cabinet contained two blank encrypted evidence modules. One failed its self-test. The second passed.
 
@@ -593,9 +581,7 @@ Elias enlarged the policy fields. “Capturing ciphertext alone will not be enou
 
 “Then the link becomes much harder to explain away,” Julie said. “If it contains upstream direction from Sterling’s network, we may have more. We cannot assume it will.”
 
-Elias looked at the wall clock.
-
-“Fifty minutes.”
+Elias looked at the wall clock. “Fifty minutes.”
 
 No one said what reaching the live buffer would require. That belonged to the next decision, and they had not made it. At 06:20, Julie sealed the paper log’s first page with all three signatures. Elias signed left-handed because the dressing on his right index made the pen slip. Beneath his name, he added one sentence in uneven block letters.
 
