@@ -41,12 +41,23 @@ jobs:
         run: python3 tools/validate_book1_publication_readiness.py
       - name: Run independent final verification
         if: steps.gate.outputs.run == 'true'
-        run: python3 tools/verify_book1_revision.py
-      - name: Verify diff hygiene
+        id: final_verification
+        continue-on-error: true
+        run: python3 tools/verify_book1_revision.py > artifacts/book1-final-verification-current.txt 2>&1
+      - name: Show independent verification result
         if: steps.gate.outputs.run == 'true'
+        run: cat artifacts/book1-final-verification-current.txt
+      - name: Persist failing verification diagnostic
+        if: steps.gate.outputs.run == 'true' && steps.final_verification.outcome == 'failure'
+        run: |
+          git add artifacts/book1-final-verification-current.txt
+          git commit -m "test: record Book 1 final verification failure"
+          git push origin HEAD:${{ github.event.pull_request.head.ref }}
+      - name: Verify diff hygiene
+        if: steps.gate.outputs.run == 'true' && steps.final_verification.outcome == 'success'
         run: git diff --check
       - name: Commit verified compilation, controls, and report
-        if: steps.gate.outputs.run == 'true'
+        if: steps.gate.outputs.run == 'true' && steps.final_verification.outcome == 'success'
         run: |
           git add \
             README.md \
@@ -58,10 +69,14 @@ jobs:
             books/book-01/control/16-chapter-by-chapter-status-record.md \
             books/book-01/control/24-thread-disposition-matrix.md \
             series/recurring-character-ledger.md \
-            artifacts/book1-final-verification.md
+            artifacts/book1-final-verification.md \
+            artifacts/book1-final-verification-current.txt
           if git diff --cached --quiet; then
             echo "Verified outputs unchanged"
           else
             git commit -m "build: add verified Book 1 revision compilation"
             git push origin HEAD:${{ github.event.pull_request.head.ref }}
           fi
+      - name: Enforce independent verification
+        if: steps.gate.outputs.run == 'true' && steps.final_verification.outcome == 'failure'
+        run: exit 1
