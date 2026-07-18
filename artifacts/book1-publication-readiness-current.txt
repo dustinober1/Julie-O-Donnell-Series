@@ -1,2 +1,2 @@
-WARN: accepted word count 102,677 is outside 105,000–110,000
-PASS: Book 1 publication-readiness checks; accepted words=102,677
+WARN: accepted word count 104,163 is outside 105,000–110,000
+PASS: Book 1 publication-readiness checks; accepted words=104,163
