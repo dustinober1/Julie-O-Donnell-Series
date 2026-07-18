@@ -17,20 +17,40 @@ jobs:
         with:
           fetch-depth: 0
           ref: ${{ github.event.pull_request.head.ref }}
+      - name: Configure commit identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
       - name: Apply idempotent editorial patches
         run: python3 tools/apply_book1_dev_revision.py
       - name: Verify diff hygiene
         run: git diff --check
       - name: Commit generated manuscript changes
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           if git diff --quiet; then
-            echo "No changes to commit"
+            echo "No manuscript changes to commit"
           else
             git add books/book-01/manuscript/chapters
             git commit -m "fix: apply Book 1 publication blocker patch"
             git push origin HEAD:${{ github.event.pull_request.head.ref }}
           fi
-      - name: Validate blocker pass
-        run: python3 tools/validate_book1_publication_readiness.py --pre-revision
+      - name: Capture blocker validation
+        id: readiness
+        continue-on-error: true
+        run: |
+          mkdir -p artifacts
+          python3 tools/validate_book1_publication_readiness.py --pre-revision > artifacts/book1-publication-readiness-current.txt 2>&1
+      - name: Commit readiness diagnostic
+        run: |
+          git add artifacts/book1-publication-readiness-current.txt
+          if git diff --cached --quiet; then
+            echo "Readiness diagnostic unchanged"
+          else
+            git commit -m "test: record Book 1 readiness diagnostic"
+            git push origin HEAD:${{ github.event.pull_request.head.ref }}
+          fi
+      - name: Enforce blocker validation
+        if: steps.readiness.outcome == 'failure'
+        run: |
+          cat artifacts/book1-publication-readiness-current.txt
+          exit 1
