@@ -8,19 +8,19 @@ Washington, D.C.
 
 Julie remained attached to the rail the morning after the correction became public. The three public records no longer depended on her possession or persuasion. That did not decide whether her entries, removals, deception, and seven seconds past the Northbridge abort would be charged. Public causality and personal exposure occupied different documents under different authorities.
 
-Dana Webb, appointed for Julie’s immediate custody review, stood beside Ortiz with a court order held beneath the intake camera. Alvarez appeared on the federal channel. Grant sat at evidence control without an open source window. The common chest remained behind glass, closed and out of Julie’s reach. Webb began with the part no headline had decided.
+Dana Webb, appointed for Julie’s immediate custody review, stood beside Ortiz with a written MPD release authorization and counsel undertaking held beneath the intake camera. Alvarez appeared on the federal channel. Grant sat at evidence control without an open source window. The common chest remained behind glass, closed and out of Julie’s reach. Webb began with the part no headline had decided.
 
-“DCIS has withdrawn its request for continued investigative detention. The United States Attorney’s Office is not seeking a present federal detainer. Neither decision is a charging disposition.”
+“DCIS has withdrawn its request for continued investigative detention. The United States Attorney’s Office is not seeking a present federal detainer. The D.C. prosecutor has declined to paper a local charge today. None of those decisions is a final charging disposition.”
 
 Julie looked at Alvarez. “Who can remove the restraint?”
 
-“MPD, after the watch commander accepts the court order.”
+“MPD, after the watch commander accepts the release authorization.”
 
-The order had been entered by a federal magistrate after a recorded conference involving Webb, the duty prosecutor, MPD counsel, Alvarez, and the receiving hospital. It authorized removal of the intake restraint and guarded transport for imaging, immobilization, observation, and treatment. If the attending physician later approved discharge, Julie would be released to transportation arranged through counsel.
+The authorization followed a recorded custody conference involving Webb, the duty federal and D.C. prosecutors, MPD counsel, Alvarez, and the receiving hospital. It directed MPD to remove the intake restraint and release Julie for counsel-arranged transport for imaging, immobilization, observation, and treatment. If the attending physician later approved discharge, she would remain outside custody unless a lawful arrest, warrant, summons, or detainer issued.
 
-The order did not dismiss a charge that had not been filed. It did not decide admissibility, privilege, classification, employment, clearance, or the lawfulness of any act she had taken after leaving Apex. Its conditions were narrower than custody and wider than freedom.
+The authorization did not dismiss a charge that had not been filed. It did not decide admissibility, privilege, classification, employment, clearance, or the lawfulness of any act she had taken after leaving Apex. The accompanying counsel undertaking was narrower than custody and wider than an ordinary promise.
 
-Julie had to remain available through Webb, appear on lawful notice, avoid contact with the seven MPD packages and every source original, enter no classified system, use no borrowed or suspended credential, and perform no investigative work on her own case. Any later evidence access required a new written authority naming the custodian, question, method, and scope.
+Julie agreed through Webb to remain available, appear on lawful notice, avoid contact with the seven MPD packages and every source original, enter no classified system, use no borrowed or suspended credential, and perform no investigative work on her own case. Any later evidence access required a new written authority naming the custodian, question, method, and scope.
 
 “The public correction is attached only to explain why continued detention is not requested,” Webb said. “It is not the basis for a merits ruling.”
 
@@ -30,7 +30,7 @@ Webb glanced at her. “Most clients would prefer more.”
 
 “More is how a useful sentence becomes false.”
 
-MPD Watch Commander Helena Brooks entered the intake, identified herself to both cameras, and accepted the order. Ortiz approached Julie only after confirming that the chest remained sealed and stationary. Brooks authorized release of Julie’s left wrist. The medical brace remained untouched.
+MPD Watch Commander Helena Brooks entered the intake, identified herself to both cameras, and accepted the release authorization and recorded undertaking. Ortiz approached Julie only after confirming that the chest remained sealed and stationary. Brooks authorized release of Julie’s left wrist. The medical brace remained untouched.
 
 The key entered the cuff. Metal opened with less resistance than Julie expected. She kept her hand on the rail until Ortiz stepped back and the camera showed the empty restraint. The skin beneath it carried a pale band and two small pressure marks. No sudden change moved through her body. The room remained the same size.
 
@@ -40,7 +40,7 @@ CHARGING: UNRESOLVED
 CLASSIFIED ACCESS: NOT RESTORED
 EVIDENCE CONTACT: PROHIBITED WITHOUT NEW WRITTEN AUTHORITY
 
-The common chest did not accompany her. Neither did a public statement masquerading as a release credential. Webb placed a sealed copy of the release conditions in Julie's property envelope and kept another.
+The common chest did not accompany her. Neither did a public statement masquerading as a release credential. Webb placed a sealed copy of the release authorization and undertaking in Julie's property envelope and kept another.
 
 “If a reporter, agency, contractor, congressional office, or former colleague contacts you about the facts, you refer them to me. If someone offers access, a clearance workaround, or a private copy of evidence, you refuse and tell me. If you discover something from public reporting, you do not test it against anyone connected to the case.”
 

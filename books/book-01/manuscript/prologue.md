@@ -108,7 +108,7 @@ Marcus turned to Hargrove. “She’s right. Abort it.” He had waited until th
 
 The speaker crackled. “Hammer One. Release criteria met. Standing by.”
 
-Julie shoved past Hargrove, opened the emergency strike channel, and transmitted the order.
+Julie shoved past Hargrove, opened the emergency strike channel, and transmitted the formal abort recommendation.
 
 “Overwatch to Hammer One. Abort. Abort strike. Target intelligence is compromised.”
 

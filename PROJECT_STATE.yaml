@@ -15,24 +15,25 @@ book_1:
   title: "Veridrift"
   status: "developmentally_revised"
   publication_readiness: "specialist_review_and_copyedit_required"
-  accepted_words: 105081
+  accepted_words: 105144
   target_words_min: 105000
   target_words_max: 110000
   structure:
-    prologue: "accepted; unchanged in developmental revision"
+    prologue: "accepted; targeted public-source authority clarification applied"
     chapters: 24
     crisis_day: "October 13"
     investigation_and_release: "October 14-16"
   revision_completed: "2026-07-18"
   publication_rhythm_pass_completed: "2026-07-18"
   one_sentence_paragraph_repair_completed: "2026-07-18"
+  public_source_desk_review_completed: "2026-07-18"
   preserved_ending: "The bubble stayed centered."
   open_series_threads:
     - "human or upstream instruction behind the original 02:14 construction"
     - "Senator Sterling's personal knowledge, direction, intent, or command"
   required_next_steps:
-    - "six external specialist reviews"
-    - "continuity review after technical corrections"
+    - "seven named external specialist reviews"
+    - "continuity review after any further technical corrections"
     - "line and copyedit"
     - "proofread and production export"
 
@@ -40,4 +41,5 @@ quality_controls:
   publication_readiness_validator: "tools/validate_book1_publication_readiness.py"
   developmental_metrics: "tools/analyze_book1_revision.py"
   specialist_review_brief: "books/book-01/control/50-specialist-review-brief.md"
-  current_validation: "passing at 105081 accepted words"
+  public_source_desk_review: "books/book-01/control/58-internet-research-desk-review.md"
+  current_validation: "passing at 105144 accepted words"

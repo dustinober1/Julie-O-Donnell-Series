@@ -6,7 +6,7 @@ Accepted prose and `../ACCEPTED_MANUSCRIPT.yaml` control canon. This directory c
 
 - Book title: **Veridrift**
 - Accepted canon: **Prologue and Chapters 1–24**
-- Accepted baseline: **105,081 words**
+- Accepted baseline: **105,144 words**
 - Accepted manuscript status: **developmentally revised**
 - Publication-rhythm pass: **complete**
 - One-sentence-paragraph repair: **complete**
