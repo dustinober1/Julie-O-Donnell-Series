@@ -8,7 +8,7 @@ on:
     branches: [main]
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
   audit:
@@ -34,14 +34,9 @@ jobs:
       - name: Diff hygiene
         run: git diff --check
 
-      - name: Commit audit report
-        run: |
-          if git diff --quiet; then
-            echo "Audit report already current."
-            exit 0
-          fi
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add artifacts/book1-one-sentence-paragraph-audit.md
-          git commit -m "audit: record Book 1 one-sentence paragraph findings [skip ci]"
-          git push origin HEAD:agent/book1-one-sentence-audit
+      - name: Upload audit report
+        uses: actions/upload-artifact@v4
+        with:
+          name: book1-one-sentence-paragraph-audit
+          path: artifacts/book1-one-sentence-paragraph-audit.md
+          if-no-files-found: error
