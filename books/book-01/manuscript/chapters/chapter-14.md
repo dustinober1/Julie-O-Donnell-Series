@@ -4,9 +4,7 @@
 
 Commercial Garage West of Hartwell
 
-The controlled door opened, admitted the three-person stream, and began closing before Julie could separate one body from another.
-
-The person in the dark overcoat disappeared first. The man associated with the probable motorcade-support SUV followed. The fourth person passed last, turning just enough for the door frame to hide both hands.
+The controlled door opened, admitted the three-person stream, and began closing before Julie could separate one body from another. The person in the dark overcoat disappeared first. The man associated with the probable motorcade-support SUV followed. The fourth person passed last, turning just enough for the door frame to hide both hands.
 
 The compact black case did not reappear.
 
@@ -56,9 +54,7 @@ Ortiz did not look back. “Mr. Mercer, hold your position.”
 
 Mercer stopped where he was.
 
-Two authorities shared the level. Only one controlled the public scene.
-
-Ortiz returned his attention to Julie. “The camera is operating.”
+Two authorities shared the level. Only one controlled the public scene. Ortiz returned his attention to Julie. “The camera is operating.”
 
 “Then I need to make a preservation statement before the event completes.”
 
@@ -82,9 +78,7 @@ Julie continued.
 
 “Registration proves the office responsible for the device. It does not prove Senator Sterling held it. A hardware response proves the device answered. It does not prove a human hand. We observed a probable motorcade-support vehicle deliver a staff stream to Hartwell’s eastern controlled approach. We observed a compact black case enter that stream. We do not know what the case contains. We observed three people pass through the controlled door at 07:46. We cannot see who carried the signer, whether it was handed off behind the privacy screen, or whether an authorized person already inside has it.”
 
-The clock on the van’s dashboard showed 07:46:19.
-
-Ortiz said, “You expect a device to authenticate in that building.”
+The clock on the van’s dashboard showed 07:46:19. Ortiz said, “You expect a device to authenticate in that building.”
 
 “Yes.”
 
@@ -122,11 +116,7 @@ Ortiz studied her for one second.
 
 “Yes.”
 
-The answer did not make him trust her.
-
-It made the request precise enough to route.
-
-Ortiz touched his shoulder microphone without taking his eyes from Julie.
+The answer did not make him trust her. It made the request precise enough to route. Ortiz touched his shoulder microphone without taking his eyes from Julie.
 
 “Dispatch, Unit Three. Start an evidentiary-preservation request associated with the Hartwell perimeter incident. Time-sensitive. Requesting hold on local challenge, controlled-door, staff-route, inspection-area, and relevant camera records from zero-seven-forty-six through zero-seven-forty-eight-thirty. Request originates on scene from subject O’Donnell. Record as unverified subject statement. No request for substantive disclosure.”
 
@@ -182,9 +172,7 @@ The pen shook. The words remained legible.
 
 07:46:42.
 
-The dispatch request existed outside the trio’s own chronology before Hartwell’s event completed.
-
-Mercer moved into the open space Ortiz had left between the columns. He stopped at the officer’s boundary.
+The dispatch request existed outside the trio’s own chronology before Hartwell’s event completed. Mercer moved into the open space Ortiz had left between the columns. He stopped at the officer’s boundary.
 
 “Officer Ortiz, Apex Defense Systems asserts ownership and security authority over the classified telemetry case and the electronic module. Both were removed from an accredited facility during an active sabotage event. They require immediate recovery by authorized program personnel.”
 
@@ -224,9 +212,7 @@ Julie saw the officer’s attention change. The object looked worse because Vanc
 
 “No radio. No network connection. No Hartwell connection. It contains two sealed partitions and a local handling journal.”
 
-Mercer said, “He used similar media to capture a protected Northbridge session.”
-
-Elias’s fear showed in the speed of his next breath, not in the answer.
+Mercer said, “He used similar media to capture a protected Northbridge session.” Elias’s fear showed in the speed of his next breath, not in the answer.
 
 “Yes. At Northbridge, it was physically connected to a local audit port under a sponsor exception obtained by deception. It is not connected now. It cannot read Hartwell. It cannot penetrate Hartwell. It cannot identify a certificate across the street.”
 
@@ -256,9 +242,7 @@ Ortiz’s eyes went to Elias’s left thumb.
 
 “Nothing by itself.”
 
-The answer entered the body-camera record in Elias’s own voice.
-
-A second radio transmission cut across Mercer’s channel. Sarah Chen spoke with the controlled cadence Julie remembered from Room 402B.
+The answer entered the body-camera record in Elias’s own voice. A second radio transmission cut across Mercer’s channel. Sarah Chen spoke with the controlled cadence Julie remembered from Room 402B.
 
 “Incident coordination to all Apex personnel at the garage. Metropolitan Police has scene authority. Capture and evidence preservation remain active. No transfer to Apex absent named receiving custody and a documented receipt. Subjects remain under apprehension. Do not allow connection, opening, alteration, or destruction of any media.”
 
@@ -266,19 +250,13 @@ She had not released them.
 
 She had denied Vance an undocumented recovery.
 
-Vance answered on the same channel. “Executive authority requires immediate isolation of the telemetry.”
-
-Chen did not debate him. “Your instruction is preserved. Field force standard and receiving-custody requirement remain unchanged.”
-
-Mercer looked at his radio, then at Ortiz.
+Vance answered on the same channel. “Executive authority requires immediate isolation of the telemetry.” Chen did not debate him. “Your instruction is preserved. Field force standard and receiving-custody requirement remain unchanged.” Mercer looked at his radio, then at Ortiz.
 
 The officer had heard both instructions.
 
 So had the body camera.
 
-Julie turned her head far enough to recover the Hartwell sightline without moving her feet.
-
-The controlled door remained closed. The lamp above it remained white. The exterior officer stood near the privacy-screen position, one hand at his earpiece. The probable support SUV had not moved.
+Julie turned her head far enough to recover the Hartwell sightline without moving her feet. The controlled door remained closed. The lamp above it remained white. The exterior officer stood near the privacy-screen position, one hand at his earpiece. The probable support SUV had not moved.
 
 The hidden hand remained hidden.
 
@@ -366,15 +344,11 @@ Ortiz pivoted his shoulders without turning his back on the trio. From his angle
 
 The correction was deserved.
 
-Elias looked at Ortiz. “Permission to enter one manual handling marker with my left thumb. No connection. No partition access.”
-
-Ortiz took one step closer, stopping well outside reach.
+Elias looked at Ortiz. “Permission to enter one manual handling marker with my left thumb. No connection. No partition access.” Ortiz took one step closer, stopping well outside reach.
 
 “Turn the display toward me without moving the device away from your body.”
 
-Elias did. The movement pulled his injured hip out of alignment. He caught himself against the van with one shoulder and kept the module against his torso.
-
-The small display showed both partition seals and the handling-journal control.
+Elias did. The movement pulled his injured hip out of alignment. He caught himself against the van with one shoulder and kept the module against his torso. The small display showed both partition seals and the handling-journal control.
 
 PARTITION A: SEALED / READ-ONLY / INTEGRITY VERIFIED
 PARTITION B: SEALED / WSS-4 CONTROLLER SEAL PRESENT
@@ -387,9 +361,7 @@ Elias pressed.
 HANDLING EVENT 010
 OPERATOR INPUT: MANUAL
 
-No external image entered the module. No name. No conclusion.
-
-Marcus wrote the observed time and the limitation.
+No external image entered the module. No name. No conclusion. Marcus wrote the observed time and the limitation.
 
 DARK-OVERCOAT PERSON OUTSIDE CONTROLLED DOOR BEFORE ACCEPTED STATE. CLOTHING IDENTIFIER ONLY. MARKER MANUAL. EXTERNAL FACT REQUIRES CORROBORATION.
 
@@ -496,9 +468,7 @@ The exact serial remained inside Hartwell.
 
 The human hand remained behind the door.
 
-Julie looked at the dark overcoat standing outside.
-
-At the moment of acceptance, one observed entrant was excluded from direct presentation. The other two remained possible. So did an internal authorized person. So did a handoff completed behind the screen before entry.
+Julie looked at the dark overcoat standing outside. At the moment of acceptance, one observed entrant was excluded from direct presentation. The other two remained possible. So did an internal authorized person. So did a handoff completed behind the screen before entry.
 
 The witness line had strengthened.
 
@@ -589,9 +559,7 @@ The second officer spoke from the west sightline.
 
 “Unit Three, outbound gate is closing. Cruiser is across the lower lane. Civilian vehicle clearing now.”
 
-Marcus turned his head too quickly toward the mirror.
-
-The level shifted under him. His left hand caught the door frame. The paper log slid across the waterproof folder and stopped against the case handle.
+Marcus turned his head too quickly toward the mirror. The level shifted under him. His left hand caught the door frame. The paper log slid across the waterproof folder and stopped against the case handle.
 
 Julie moved by instinct.
 
@@ -631,17 +599,11 @@ The Hartwell window had six seconds left.
 
 The accepted state was visible.
 
-The preservation hold had not yet been confirmed.
-
-PCF-27’s engine was running. The lower gate was blocked. Marcus could not work the pedals normally. Julie could not steer with her right hand. Moving the van would require an officer to jump, a barrier to break, or a civilian lane to become cover.
-
-The mission line did not become optional because success was close.
+The preservation hold had not yet been confirmed. PCF-27’s engine was running. The lower gate was blocked. Marcus could not work the pedals normally. Julie could not steer with her right hand. Moving the van would require an officer to jump, a barrier to break, or a civilian lane to become cover. The mission line did not become optional because success was close.
 
 “Abort,” Julie said.
 
-Marcus’s left hand came away from the log.
-
-Elias removed his thumb from the module control.
+Marcus’s left hand came away from the log. Elias removed his thumb from the module control.
 
 Julie faced Ortiz fully.
 
@@ -657,19 +619,13 @@ Julie looked at the driver’s door. It was closed. The key remained in the igni
 
 “Do it slowly. Left hand only. Keep your right arm against your body.”
 
-Julie lowered her left hand only when he told her.
-
-She took one step to the driver’s door. The movement placed her nearer the van but no closer to Hartwell. Ortiz moved with her, body camera centered on her hand.
-
-She opened the door with her left fingers.
+Julie lowered her left hand only when he told her. She took one step to the driver’s door. The movement placed her nearer the van but no closer to Hartwell. Ortiz moved with her, body camera centered on her hand. She opened the door with her left fingers.
 
 The engine vibration reached through the metal and into her wrist before she touched the key. She leaned across the threshold without putting weight on the injured hand, turned the ignition back with her left thumb and forefinger, and released it.
 
 The engine stopped.
 
-Silence spread through the level beneath the police radios and distant city traffic.
-
-Julie left the key visible in the ignition.
+Silence spread through the level beneath the police radios and distant city traffic. Julie left the key visible in the ignition.
 
 “Step back,” Ortiz said.
 
@@ -681,9 +637,7 @@ Her right wrist settled against her body.
 
 The Hartwell window closed.
 
-The steady green lamp remained visible across the gap. It could not tell them whether the accepted event belonged to SSO-NS-004. It could not tell them who had presented anything. It could not tell them whether the challenge record would survive intact under the hold.
-
-It was only a state witnessed before the clock closed.
+The steady green lamp remained visible across the gap. It could not tell them whether the accepted event belonged to SSO-NS-004. It could not tell them who had presented anything. It could not tell them whether the challenge record would survive intact under the hold. It was only a state witnessed before the clock closed.
 
 Ortiz said, “Close the log.”
 
@@ -695,11 +649,7 @@ Marcus placed it where the officer could see it.
 
 “Both hands on the door frame.”
 
-He obeyed as far as his ribs allowed. The aluminum case remained between his boots. The waterproof folder stayed against his thigh. No hand entered it.
-
-The second officer returned from the ramp and took position near PCF-27’s rear quarter. He did not touch the van.
-
-Ortiz spoke clearly enough for every body camera and radio on the level.
+He obeyed as far as his ribs allowed. The aluminum case remained between his boots. The waterproof folder stayed against his thigh. No hand entered it. The second officer returned from the ramp and took position near PCF-27’s rear quarter. He did not touch the van. Ortiz spoke clearly enough for every body camera and radio on the level.
 
 “Metropolitan Police has scene control. All three subjects are detained pending identification of federal receiving authority and safe evidence-custody procedure. No one opens, connects, alters, or transfers any item. Apex personnel remain outside contact distance. Evidence inventory will begin on camera. Subject separation will not occur until object custody and medical movement are addressed.”
 
@@ -789,9 +739,7 @@ Marcus looked at Ortiz, not at Mercer.
 
 “Yes. The legality is disputed. The physical chronology is not improved by hiding it.”
 
-The sentence sounded like the man Julie had needed six years ago.
-
-It was not yet the correction he owed.
+The sentence sounded like the man Julie had needed six years ago. It was not yet the correction he owed.
 
 It was movement toward it.
 
@@ -871,9 +819,7 @@ Julie did not stop him. The clock itself was not classified, and the deadline al
 
 No visible answer came.
 
-No Hartwell door opened. No alarm crossed the city. No field status reached the garage. The steady green exterior state did not change.
-
-Phase B could have been authorized inside a record they could not see.
+No Hartwell door opened. No alarm crossed the city. No field status reached the garage. The steady green exterior state did not change. Phase B could have been authorized inside a record they could not see.
 
 It could have been held.
 
@@ -881,9 +827,7 @@ It could have failed for a reason unrelated to them.
 
 The deadline passed without becoming knowledge.
 
-Julie said, “Phase B state unknown at deadline.”
-
-Ortiz repeated it into the body camera as a subject statement, not a police conclusion.
+Julie said, “Phase B state unknown at deadline.” Ortiz repeated it into the body camera as a subject statement, not a police conclusion.
 
 Mercer looked toward Hartwell.
 
@@ -913,11 +857,7 @@ Still no receipt.
 
 Julie watched the records begin to multiply.
 
-MPD body camera held her pre-event statement, every limitation, the visible green transition, the dark-overcoat return, Vance’s recovery language, Chen’s custody language, Marcus’s inventory, Elias’s voluntary statement, and the engine shutdown.
-
-Dispatch held the preservation request before the challenge window closed.
-
-Hartwell had acknowledged a record and a hold.
+MPD body camera held her pre-event statement, every limitation, the visible green transition, the dark-overcoat return, Vance’s recovery language, Chen’s custody language, Marcus’s inventory, Elias’s voluntary statement, and the engine shutdown. Dispatch held the preservation request before the challenge window closed. Hartwell had acknowledged a record and a hold.
 
 The trio still held the physical originals.
 
@@ -951,9 +891,7 @@ She could only keep the sequence named.
 
 “That is exactly where the chain can break.”
 
-Ortiz looked at her for a long moment.
-
-He did not promise to solve the conspiracy.
+Ortiz looked at her for a long moment. He did not promise to solve the conspiracy.
 
 He touched his microphone.
 
@@ -971,11 +909,7 @@ Whether anyone honored it later remained uncertain.
 
 The green Hartwell light still burned across the open side of the garage. Masking Window Two had been active for eighty-nine seconds. The WSS-4 blocks remained encrypted. K-17 access remained unconfirmed. The reconstruction profile remained undefined. The physical presenter remained somewhere behind ordinary security, authorized movement, and a record now held but unseen.
 
-Mercer stood outside immediate contact distance under MPD authority.
-
-Marcus remained in the passenger area with the aluminum case between his boots and the waterproof folder against his body.
-
-Elias remained beside the van with the board against his chest and the dual-partition module in his hands.
+Mercer stood outside immediate contact distance under MPD authority. Marcus remained in the passenger area with the aluminum case between his boots and the waterproof folder against his body. Elias remained beside the van with the board against his chest and the dual-partition module in his hands.
 
 PCF-27 was silent. The key stayed visible in the ignition.
 

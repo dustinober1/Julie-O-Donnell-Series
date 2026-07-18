@@ -356,6 +356,14 @@ Julie checked again.
 
 The yellow legal pad rested inside a clear sleeve on the fence rail. It held no client, assignment, or promise that any institution would accept her terms. It held the conditions under which she would return and the conditions under which she would refuse.
 
+Webb had written one note beneath Julie's four rules before placing the page in the sleeve.
+
+A TERM THAT CANNOT BE ENFORCED IS A PREFERENCE.
+
+Julie had disliked the sentence because it turned principle into future work. Mandates would need withdrawal clauses. Custody agreements would need remedies when a source holder changed scope. Participants would need someone other than Julie to receive a stop decision when she was the person most convinced the work had to continue.
+
+The practice did not exist yet. Its first unfinished task was building rules capable of restraining its founder.
+
 The neighbor packed the ground again. This time Julie did not reach for the bar or test whether her injured hand might take some of the load.
 
 “Lawyer said you aren't supposed to be working,” he said.

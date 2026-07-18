@@ -3,11 +3,7 @@
 Downtown Washington
 07:18 Eastern Daylight Time
 
-The last vehicle in Sterling’s motorcade did not follow the armored sedan.
-
-It cleared the intersection behind two black sport-utility vehicles, held the broad federal avenue for half a block, then moved right without the police motorcycles. No flags. No visible seal. One rear running light burned weaker than the other.
-
-Julie watched it through the windshield while cross traffic remained stopped.
+The last vehicle in Sterling’s motorcade did not follow the armored sedan. It cleared the intersection behind two black sport-utility vehicles, held the broad federal avenue for half a block, then moved right without the police motorcycles. No flags. No visible seal. One rear running light burned weaker than the other. Julie watched it through the windshield while cross traffic remained stopped.
 
 “Support vehicle,” Marcus said.
 
@@ -135,9 +131,7 @@ The digital clock changed to 07:22.
 
 Julie drove upward.
 
-Each level opened around rows of commuter cars and concrete columns striped with old paint. The lower floors were nearly full. On the fourth, two maintenance crews unloaded ladders from unmarked pickups. On the fifth, the eastern wall opened into broad rectangular bays.
-
-Beyond them, the federal district spread beneath pale morning light.
+Each level opened around rows of commuter cars and concrete columns striped with old paint. The lower floors were nearly full. On the fourth, two maintenance crews unloaded ladders from unmarked pickups. On the fifth, the eastern wall opened into broad rectangular bays. Beyond them, the federal district spread beneath pale morning light.
 
 Hartwell did not announce itself with a sign visible from the garage. Traffic control did. Police motorcycles held the broad northern approach. Black vehicles passed through a temporary outer vehicle line and disappeared between federal buildings. To the east, a narrower lane ran behind a row of offices toward a controlled staff-and-service approach.
 
@@ -225,21 +219,11 @@ She opened the driver’s door with her left hand.
 
 The wind across the upper deck carried traffic noise and the intermittent chirp of reversing trucks. Julie crossed twenty feet to the open wall. Elias followed with the incident module held against his abdomen. His left leg shortened every third step. He used the concrete columns instead of Julie’s arm.
 
-Marcus remained in the van with the aluminum case, the recovery cartridge, the paper custody log, and the dead transponder.
+Marcus remained in the van with the aluminum case, the recovery cartridge, the paper custody log, and the dead transponder. The role cost him more than movement would have. Julie could see it in the way he watched them go.
 
-The role cost him more than movement would have.
+They stopped behind a waist-high barrier at the east edge. From there, the outer Hartwell traffic divided into three visible streams. The north approach carried the principal motorcade, marked security vehicles, and police control.
 
-Julie could see it in the way he watched them go.
-
-They stopped behind a waist-high barrier at the east edge.
-
-From there, the outer Hartwell traffic divided into three visible streams.
-
-The north approach carried the principal motorcade, marked security vehicles, and police control.
-
-A western curb held media vans and staff cars waiting beneath temporary restrictions.
-
-The east lane carried deliveries, technical support, and office vehicles toward a covered checkpoint that sat outside the buildings hiding Hartwell’s secure interior.
+A western curb held media vans and staff cars waiting beneath temporary restrictions. The east lane carried deliveries, technical support, and office vehicles toward a covered checkpoint that sat outside the buildings hiding Hartwell’s secure interior.
 
 None of the routes identified SSO-NS-004.
 
@@ -317,11 +301,7 @@ The hand shook. The words remained legible.
 
 He wrote that too.
 
-For the next ninety seconds, they watched ordinary vehicles.
-
-A food-service truck entered the east lane and stopped at a delivery barrier. The driver presented paperwork. A uniformed guard directed him toward a loading position.
-
-A gray government sedan arrived from the north and continued to the western staff curb.
+For the next ninety seconds, they watched ordinary vehicles. A food-service truck entered the east lane and stopped at a delivery barrier. The driver presented paperwork. A uniformed guard directed him toward a loading position. A gray government sedan arrived from the north and continued to the western staff curb.
 
 Two black SUVs entered the principal approach and disappeared behind the outer motorcade line.
 
@@ -383,11 +363,7 @@ Arthur Vance’s executive channel opened beside it.
 
 Sarah looked at the words.
 
-He had not asked whether Julie was in the garage.
-
-He had not asked whether the signer was there.
-
-He had placed the material and the Hartwell event inside one sentence.
+He had not asked whether Julie was in the garage. He had not asked whether the signer was there. He had placed the material and the Hartwell event inside one sentence.
 
 She marked the time in her incident file.
 
@@ -415,9 +391,7 @@ Mercer waited for Sarah.
 
 It was not the answer Vance wanted.
 
-It was an answer Mercer could put on a receipt.
-
-Sarah transmitted the vehicle image, the garage plan, and the two exits. She did not warn Julie. She assigned units to the public ramps and pedestrian stairs and asked Hartwell security to preserve its outer-camera records.
+It was an answer Mercer could put on a receipt. Sarah transmitted the vehicle image, the garage plan, and the two exits. She did not warn Julie. She assigned units to the public ramps and pedestrian stairs and asked Hartwell security to preserve its outer-camera records.
 
 The request was denied pending federal review.
 
@@ -478,11 +452,7 @@ Julie felt the objective change.
 
 They were no longer searching every route.
 
-They had one physical stream connected to Sterling’s motorcade and separated from his public arrival.
-
-That did not make it the signer stream.
-
-It made it the first route worth preserving.
+They had one physical stream connected to Sterling’s motorcade and separated from his public arrival. That did not make it the signer stream. It made it the first route worth preserving.
 
 “Continuous from here,” she said.
 
@@ -612,9 +582,7 @@ Julie checked the time.
 
 07:34:02.
 
-Eight minutes and twenty-eight seconds to the hard abort.
-
-A Metropolitan Police cruiser appeared on the east spiral two levels below. Its lights remained off. The driver moved slowly among civilian vehicles.
+Eight minutes and twenty-eight seconds to the hard abort. A Metropolitan Police cruiser appeared on the east spiral two levels below. Its lights remained off. The driver moved slowly among civilian vehicles.
 
 No tactical rush.
 
@@ -642,17 +610,9 @@ Two uniformed security officers approached it.
 
 One opened the front passenger door.
 
-A man in a dark suit stepped out carrying nothing visible.
+A man in a dark suit stepped out carrying nothing visible. The rear door opened on the far side, hidden from Julie by the vehicle. A second person appeared beyond the roofline. Dark coat. Medium height. Hands below the window line.
 
-The rear door opened on the far side, hidden from Julie by the vehicle.
-
-A second person appeared beyond the roofline. Dark coat. Medium height. Hands below the window line.
-
-The first officer moved between Julie and the passenger.
-
-Then three people walked together toward the covered position.
-
-Julie could not see whether any carried a device.
+The first officer moved between Julie and the passenger. Then three people walked together toward the covered position. Julie could not see whether any carried a device.
 
 She could see that the vehicle had delivered a staff group into a route separate from the principal motorcade.
 
@@ -664,9 +624,7 @@ HANDLING EVENT 004
 DEVICE TIME: 07:35:18.771
 OPERATOR INPUT: MANUAL
 
-Marcus wrote the visible facts and nothing more.
-
-The black sedan reappeared at the western curb. Two people exited there and entered an office building unrelated to Hartwell.
+Marcus wrote the visible facts and nothing more. The black sedan reappeared at the western curb. Two people exited there and entered an office building unrelated to Hartwell.
 
 The split became more meaningful.
 
@@ -724,11 +682,7 @@ The report left.
 
 “Stay away from us,” she said. “We are not armed.”
 
-He backed into the elevator and pressed the door control repeatedly. The doors closed.
-
-The civilian had seen three fugitives and done the correct thing.
-
-The operation lost another minute because Julie refused to make him pay for it.
+He backed into the elevator and pressed the door control repeatedly. The doors closed. The civilian had seen three fugitives and done the correct thing. The operation lost another minute because Julie refused to make him pay for it.
 
 Marcus looked at his watch.
 
@@ -742,9 +696,7 @@ Marcus looked at his watch.
 
 “Then we continue.”
 
-The staff group at Hartwell disappeared behind the first section of the covered checkpoint.
-
-Julie moved farther right along the garage wall. A narrow opening between office buildings gave her a second angle on the lane beyond the cover.
+The staff group at Hartwell disappeared behind the first section of the covered checkpoint. Julie moved farther right along the garage wall. A narrow opening between office buildings gave her a second angle on the lane beyond the cover.
 
 The group emerged.
 
@@ -758,11 +710,7 @@ One person in a dark overcoat who had approached from inside the controlled lane
 
 A compact black case appeared between them.
 
-Julie could not tell who had carried it from the SUV.
-
-She could not tell whether the overcoat had brought it from inside.
-
-For three seconds, the case was visible at waist height.
+Julie could not tell who had carried it from the SUV. She could not tell whether the overcoat had brought it from inside. For three seconds, the case was visible at waist height.
 
 Then the group closed around it.
 
@@ -786,9 +734,7 @@ Marcus wrote:
 
 COMPACT BLACK CASE VISIBLE WITH STAFF GROUP. SOURCE AND CONTENT UNKNOWN.
 
-The words preserved what they knew and what they did not.
-
-The group moved to a second exterior holding point. The black case disappeared among bodies.
+The words preserved what they knew and what they did not. The group moved to a second exterior holding point. The black case disappeared among bodies.
 
 No one entered the final controlled door.
 
@@ -828,11 +774,7 @@ Julie looked at the time.
 
 07:38:07.
 
-Four minutes and twenty-three seconds to the abort threshold.
-
-The staff group remained at the second holding point.
-
-A uniformed officer took the black case—or appeared to. The group shifted at the same moment, and a concrete post divided Julie’s sightline. When they cleared it, the case was no longer visible.
+Four minutes and twenty-three seconds to the abort threshold. The staff group remained at the second holding point. A uniformed officer took the black case—or appeared to. The group shifted at the same moment, and a concrete post divided Julie’s sightline. When they cleared it, the case was no longer visible.
 
 “Who has it?” Elias asked.
 
@@ -858,11 +800,7 @@ Marcus heard them.
 
 He did.
 
-The module handling log accumulated times. The paper log accumulated observations. The municipal and private cameras might preserve the physical sequence. None of it proved the black case contained SSO-NS-004.
-
-But the support lane was no longer one possibility among every Hartwell entrance.
-
-It was the only observed route carrying a motorcade-linked staff group and a compact secured object toward a timed exterior hold.
+The module handling log accumulated times. The paper log accumulated observations. The municipal and private cameras might preserve the physical sequence. None of it proved the black case contained SSO-NS-004. But the support lane was no longer one possibility among every Hartwell entrance. It was the only observed route carrying a motorcade-linked staff group and a compact secured object toward a timed exterior hold.
 
 The objective had narrowed.
 
@@ -880,9 +818,7 @@ Marcus’s hand closed around the wheel.
 
 The movement tightened his face.
 
-Julie looked toward the internal aisle. Concrete columns concealed Mercer’s exact position.
-
-The garage maintenance worker had given them the level.
+Julie looked toward the internal aisle. Concrete columns concealed Mercer’s exact position. The garage maintenance worker had given them the level.
 
 The plate had given them the building.
 
@@ -940,9 +876,7 @@ Mercer spoke again.
 
 She had never intended to enter.
 
-That was the part he did not understand yet.
-
-A uniformed Metropolitan Police officer appeared at the far end of the level with both hands visible and his sidearm holstered. Mercer followed ten feet behind him. Two Apex operators remained farther back near the ramp. One carried a less-lethal launcher. No rifle was visible.
+That was the part he did not understand yet. A uniformed Metropolitan Police officer appeared at the far end of the level with both hands visible and his sidearm holstered. Mercer followed ten feet behind him. Two Apex operators remained farther back near the ramp. One carried a less-lethal launcher. No rifle was visible.
 
 The officer stopped behind a concrete column.
 
@@ -990,9 +924,7 @@ The police officer saw her turn.
 
 If Julie obeyed, she lost direct observation.
 
-If she refused, he had to decide whether movement toward a concrete wall constituted threat.
-
-She stepped sideways, not forward, keeping her left hand raised and the Hartwell lane inside her peripheral vision.
+If she refused, he had to decide whether movement toward a concrete wall constituted threat. She stepped sideways, not forward, keeping her left hand raised and the Hartwell lane inside her peripheral vision.
 
 The officer did not draw.
 
@@ -1000,11 +932,7 @@ Mercer’s voice hardened. “Julie, do not make proximity to the target the rea
 
 He knew the pattern.
 
-Chen had given him the abort time or Vance had reconstructed it from Fenwick and the Hartwell schedule.
-
-The words reached the wound Marcus had been pressing all morning.
-
-Julie looked at the dashboard clock through the van’s windshield.
+Chen had given him the abort time or Vance had reconstructed it from Fenwick and the Hartwell schedule. The words reached the wound Marcus had been pressing all morning. Julie looked at the dashboard clock through the van’s windshield.
 
 07:41:07.
 
@@ -1048,9 +976,7 @@ The clock showed 07:41:44.
 
 Forty-six seconds.
 
-The staff stream paused beneath the final exterior screen.
-
-A dark privacy panel blocked the lower half of their bodies. Faces remained visible above it, but the group had turned toward one another. The black case did not reappear.
+The staff stream paused beneath the final exterior screen. A dark privacy panel blocked the lower half of their bodies. Faces remained visible above it, but the group had turned toward one another. The black case did not reappear.
 
 Julie could not identify a hand.
 
@@ -1064,9 +990,7 @@ She had cameras outside every institution presently trying to control the record
 
 She did not have the person.
 
-At Fenwick, one more second had become eight.
-
-Here, the absence of a name was the temptation.
+At Fenwick, one more second had become eight. Here, the absence of a name was the temptation.
 
 Marcus said, “Thirty.”
 
@@ -1134,11 +1058,7 @@ Mercer’s did not.
 
 The west ramp remained open.
 
-The staff group remained at the exterior screen.
-
-The operation continued by a margin measured in one route and a few minutes.
-
-At 07:43:02, the box truck cleared the west ramp.
+The staff group remained at the exterior screen. The operation continued by a margin measured in one route and a few minutes. At 07:43:02, the box truck cleared the west ramp.
 
 A Metropolitan Police cruiser crossed the street beyond the exit, slowed, then continued toward the opposite corner. The civilian gate kept releasing cars.
 
@@ -1152,15 +1072,11 @@ Marcus looked through the mirror.
 
 The distinction bought seconds.
 
-Julie backed toward the van one step at a time while maintaining the eastern sightline. Elias moved with her. His hip failed on the second step. He struck the concrete barrier with one shoulder but kept the module against his chest.
-
-Julie reached for him with her right hand.
+Julie backed toward the van one step at a time while maintaining the eastern sightline. Elias moved with her. His hip failed on the second step. He struck the concrete barrier with one shoulder but kept the module against his chest. Julie reached for him with her right hand.
 
 The wrist refused.
 
-She caught his upper arm with her left and stabilized him without taking the module.
-
-The police officer moved instinctively to help, then stopped when Mercer said, “Hold.”
+She caught his upper arm with her left and stabilized him without taking the module. The police officer moved instinctively to help, then stopped when Mercer said, “Hold.”
 
 Elias found his footing.
 
@@ -1172,11 +1088,7 @@ They were ten feet from PCF-27 now.
 
 Close enough for exfiltration.
 
-Far enough to keep the eastern lane visible through the opening beyond the hood.
-
-A second uniformed Hartwell officer joined the staff group. The person in the dark overcoat moved to the rear. The man from the front passenger seat moved to the left. The fourth person stood between them.
-
-Any one of them could hold the signer.
+Far enough to keep the eastern lane visible through the opening beyond the hood. A second uniformed Hartwell officer joined the staff group. The person in the dark overcoat moved to the rear. The man from the front passenger seat moved to the left. The fourth person stood between them. Any one of them could hold the signer.
 
 None of them visibly did.
 
@@ -1202,9 +1114,7 @@ Marcus opened the passenger door.
 
 The west exit was no longer anonymous.
 
-Police moved toward the gate, exposing the route while civilian cars still cleared one at a time.
-
-The lane remained fully open for PCF-27 to clear the garage and turn west.
+Police moved toward the gate, exposing the route while civilian cars still cleared one at a time. The lane remained fully open for PCF-27 to clear the garage and turn west.
 
 Operationally, it had become visible.
 
@@ -1212,9 +1122,7 @@ Operationally, it had become visible.
 
 “West ramp and gate open. You can reach the wheel in five seconds. I can move the van far enough to clear this level if I have to.”
 
-The hard condition required a viable exfiltration route, not a promise that no one waited beyond it.
-
-The route still preserved the evidence and kept them outside Hartwell.
+The hard condition required a viable exfiltration route, not a promise that no one waited beyond it. The route still preserved the evidence and kept them outside Hartwell.
 
 Julie accepted the limit.
 
@@ -1234,15 +1142,9 @@ The outer screen opened long enough for two people to pass into a narrower lane 
 
 The fourth person did not.
 
-The black case appeared again behind the privacy panel.
+The black case appeared again behind the privacy panel. A hand placed it on a waist-high inspection surface. From the garage, Julie could see the case.
 
-A hand placed it on a waist-high inspection surface.
-
-From the garage, Julie could see the case.
-
-She could not see the wrist attached to the hand.
-
-The panel, the officer, and the other bodies concealed it.
+She could not see the wrist attached to the hand. The panel, the officer, and the other bodies concealed it.
 
 “Marker,” she said.
 
@@ -1264,11 +1166,7 @@ The physical custodian remained unresolved.
 
 Mercer heard the description.
 
-His gaze shifted toward Hartwell for the first time.
-
-He could not see the inspection surface from his angle.
-
-He could see Julie refusing to move toward it.
+His gaze shifted toward Hartwell for the first time. He could not see the inspection surface from his angle. He could see Julie refusing to move toward it.
 
 The police officer spoke more quietly.
 
@@ -1302,9 +1200,7 @@ Mercer looked at Elias’s module.
 
 “Unknown.”
 
-Each answer denied him the simple accusation and the simple exoneration.
-
-A second police officer reached the level behind Mercer.
+Each answer denied him the simple accusation and the simple exoneration. A second police officer reached the level behind Mercer.
 
 The first kept his hand raised.
 
@@ -1318,19 +1214,13 @@ Traffic continued beneath them.
 
 Office workers entered the garage.
 
-A delivery truck reversed against a loading dock.
-
-The country did not stop because the truth had narrowed to an obscured hand.
-
-At 07:45:11, the black case disappeared from the inspection surface.
+A delivery truck reversed against a loading dock. The country did not stop because the truth had narrowed to an obscured hand. At 07:45:11, the black case disappeared from the inspection surface.
 
 No person emerged from behind the privacy panel carrying it.
 
 The exterior officer remained outside.
 
-The two staff members inside the narrow lane continued toward a controlled door.
-
-The fourth person appeared beside them without the case visible.
+The two staff members inside the narrow lane continued toward a controlled door. The fourth person appeared beside them without the case visible.
 
 “Transfer occurred behind screen,” Marcus said.
 

@@ -236,6 +236,12 @@ Mercer read the amended alert from an Apex administrative room after surrenderin
 
 The correction did not make the next officer trust Julie. It changed what the officer was officially permitted to assume before meeting her.
 
+The original Apex bulletin remained preserved beside every amendment. The coordination center would not overwrite it with a cleaner final alert. Investigators could later see when the armed-architect language entered, which authority supplied it, when Elias changed from possible hostage to voluntary subject, and how long each unsupported premise remained active after the underlying evidence contradicted it.
+
+Ortiz received the amended bulletin in the same intake room where the seven packages had arrived. He compared the new language with his scene report and added no personal conclusion. Brooks reviewed the force note and released the extra tactical team that had remained outside the hospital solely because the original alert treated evidence loss as an imminent deadly threat.
+
+The officers did not become witnesses for Julie. They became people no longer ordered to meet her through Vance's description.
+
 It could still accuse Julie of unlawful conduct. It could defend Argus, challenge DCIS authority, and attack the preservation methods. It could no longer present Julie’s authorship of the poison as an uncontested official fact without contradicting three public records.
 
 Nothing in the intake room opened when the truth became public.

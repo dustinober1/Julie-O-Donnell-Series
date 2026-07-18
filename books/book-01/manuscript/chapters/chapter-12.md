@@ -3,11 +3,7 @@
 Northern Virginia
 06:50 Eastern Daylight Time
 
-Sterling’s accusation followed PCF-27 toward the Roosevelt Bridge.
-
-Julie held the wheel high with her left hand. Her right forearm rested against the lower spoke because the braced wrist could no longer close around it. The van’s white Potomac Critical Facilities markings remained visible in every mirror they passed.
-
-Marcus watched the eastbound lanes with a folded road map against one thigh. The aluminum telemetry case stood upright behind his seat, close enough for him to reach without turning. The waterproof folder under his jacket held the recovery cartridge, custody log, and dead fleet transponder.
+Sterling’s accusation followed PCF-27 toward the Roosevelt Bridge. Julie held the wheel high with her left hand. Her right forearm rested against the lower spoke because the braced wrist could no longer close around it. The van’s white Potomac Critical Facilities markings remained visible in every mirror they passed. Marcus watched the eastbound lanes with a folded road map against one thigh. The aluminum telemetry case stood upright behind his seat, close enough for him to reach without turning. The waterproof folder under his jacket held the recovery cartridge, custody log, and dead fleet transponder.
 
 Elias sat on the cargo deck with the incident module and false work order inside the canvas pouch between his boots. The padded sleeve containing his administrator-token board stayed against his chest.
 
@@ -21,15 +17,11 @@ A patrol car passed two lanes to the left. The officer’s gaze moved across the
 
 Julie did not change speed.
 
-No lights. No turn. Nothing she could call recognition.
-
-The radio anchor replaced Sterling’s measured language with something harder. Suspected architect became accused architect. Attempted compromise became attack.
+No lights. No turn. Nothing she could call recognition. The radio anchor replaced Sterling’s measured language with something harder. Suspected architect became accused architect. Attempted compromise became attack.
 
 The bridge rose ahead.
 
-A camera housing waited above the District end.
-
-Elias saw it. “That one gets the plate.”
+A camera housing waited above the District end. Elias saw it. “That one gets the plate.”
 
 “Maybe,” Marcus said.
 
@@ -45,9 +37,7 @@ At 06:55 the service radio changed.
 
 They crossed into Washington.
 
-The commercial loading lane west of the Fenwick block was already full. A bakery truck held two spaces. A refuse vehicle blocked the service gate behind it. A plumbing van occupied the last legal position before the intersection.
-
-Marcus studied the block without twisting far enough to pull his ribs.
+The commercial loading lane west of the Fenwick block was already full. A bakery truck held two spaces. A refuse vehicle blocked the service gate behind it. A plumbing van occupied the last legal position before the intersection. Marcus studied the block without twisting far enough to pull his ribs.
 
 “Past the light. Right. West-side lane.”
 
@@ -57,11 +47,7 @@ Marcus studied the block without twisting far enough to pull his ribs.
 
 Julie made the turn.
 
-The second lane was narrow, crowded, and open. She parked behind a laundry truck with linen carts stacked inside its rear doors.
-
-The Fenwick Annex stood across the next block, hidden behind older commercial buildings and a service alley darkened by exhaust. From the van, Marcus could see the landlord entrance and the green metal canopy over the east egress.
-
-He pointed with the edge of the map. “Primary return is the service vestibule. Two horn taps means I’ve moved to the green canopy. No horn and no van means west to Eighteenth.”
+The second lane was narrow, crowded, and open. She parked behind a laundry truck with linen carts stacked inside its rear doors. The Fenwick Annex stood across the next block, hidden behind older commercial buildings and a service alley darkened by exhaust. From the van, Marcus could see the landlord entrance and the green metal canopy over the east egress. He pointed with the edge of the map. “Primary return is the service vestibule. Two horn taps means I’ve moved to the green canopy. No horn and no van means west to Eighteenth.”
 
 Julie looked at the dashboard clock.
 
@@ -101,9 +87,7 @@ Marcus opened the passenger door. Cold air entered with diesel and bakery exhaus
 
 “Seven-ten,” he said.
 
-Julie climbed out using her left hand on the door frame. Elias followed through the side door. His injured hip took the first step badly and forced him still until the dizziness passed.
-
-Marcus remained with one hand against the case.
+Julie climbed out using her left hand on the door frame. Elias followed through the side door. His injured hip took the first step badly and forced him still until the dizziness passed. Marcus remained with one hand against the case.
 
 Julie leaned toward the open window. “If response moves early—”
 
@@ -115,11 +99,7 @@ Fenwick Annex Service Alley
 Washington, D.C.
 06:58 Eastern Daylight Time
 
-The rear of the Fenwick Annex looked built to accept deliveries without admitting that deliveries existed.
-
-A roll-up door occupied one bay. Refrigeration pipes entered the brick above another. A steel service entrance stood beneath a shallow awning with a camera mounted at face level and a black intercom beside the frame.
-
-No guards outside. No checkpoint. No Northbridge sign.
+The rear of the Fenwick Annex looked built to accept deliveries without admitting that deliveries existed. A roll-up door occupied one bay. Refrigeration pipes entered the brick above another. A steel service entrance stood beneath a shallow awning with a camera mounted at face level and a black intercom beside the frame. No guards outside. No checkpoint. No Northbridge sign.
 
 Julie carried the work order in her left hand. Elias carried the pouch. The oversized Potomac rain shell hid his office clothes and made him look like an apprentice wearing borrowed gear.
 
@@ -155,9 +135,7 @@ Silence.
 
 Then the magnetic lock released.
 
-Inside, the service vestibule was small and clean. Gray tile. Security desk. Four camera feeds. A second steel door behind the guard. The tenant directory listed Northbridge among law firms, policy groups, and consulting companies.
-
-The guard wore a dark blazer over a white shirt. His badge belonged to the landlord, not Northbridge.
+Inside, the service vestibule was small and clean. Gray tile. Security desk. Four camera feeds. A second steel door behind the guard. The tenant directory listed Northbridge among law firms, policy groups, and consulting companies. The guard wore a dark blazer over a white shirt. His badge belonged to the landlord, not Northbridge.
 
 “Identification.”
 
@@ -171,9 +149,7 @@ Julie pointed to the RANDALL patch.
 
 “He did.”
 
-The guard held out his hand. Julie gave him the paper.
-
-He entered the tenant identifier and authorization number into the landlord terminal.
+The guard held out his hand. Julie gave him the paper. He entered the tenant identifier and authorization number into the landlord terminal.
 
 FORMAT VALID
 TENANT IDENTIFIER CONFIRMED
@@ -217,11 +193,7 @@ She read the work order. “Pre-session audit buffer retention fault.”
 
 “Not in our system.”
 
-Elias shifted weight off his left hip. “The controller is already in diagnostic open. If the buffer test generated locally, it may not have reached your queue.”
-
-Bell studied him. “How would you know the controller state from here?”
-
-He pointed to the tenant panel beside the inner door.
+Elias shifted weight off his left hip. “The controller is already in diagnostic open. If the buffer test generated locally, it may not have reached your queue.” Bell studied him. “How would you know the controller state from here?” He pointed to the tenant panel beside the inner door.
 
 WSS-4
 PRE-SESSION DIAGNOSTIC WINDOW OPEN
@@ -231,9 +203,7 @@ LOCAL AUDIT CHECK AVAILABLE
 
 “Available is normal. An unconfirmed buffer self-test is the condition we were sent for.”
 
-The panel did not say anyone had sent them.
-
-Bell used her badge to open the detail page.
+The panel did not say anyone had sent them. Bell used her badge to open the detail page.
 
 INCIDENT BUFFER SELF-TEST
 STATUS: NOT YET CONFIRMED
@@ -250,9 +220,7 @@ The guard lifted the work order. “I can call Potomac dispatch.”
 
 “Do it,” Bell said.
 
-He dialed the printed number. Hold music answered.
-
-Bell looked at the controller, the paper, then Julie. The workflow had placed responsibility exactly where the false order needed it. Refusing the visit might delay the scheduled session. Accepting it meant sponsoring people no live system recognized.
+He dialed the printed number. Hold music answered. Bell looked at the controller, the paper, then Julie. The workflow had placed responsibility exactly where the false order needed it. Refusing the visit might delay the scheduled session. Accepting it meant sponsoring people no live system recognized.
 
 “You remain in the tenant corridor,” Bell said. “You touch only WSS-four’s local controller. I sponsor a provisional diagnostic, and the exception stays in the audit.”
 
@@ -260,9 +228,7 @@ Bell looked at the controller, the paper, then Julie. The workflow had placed re
 
 “If the ticket fails verification, the session ends.”
 
-She handed them red temporary badges and opened the inner door.
-
-The freight elevator rose through an ordinary office building. Elias kept one hand against the wall until the movement stopped.
+She handed them red temporary badges and opened the inner door. The freight elevator rose through an ordinary office building. Elias kept one hand against the wall until the movement stopped.
 
 Bell noticed. “You all right?”
 
@@ -330,11 +296,7 @@ A single operator turned from his console.
 
 “I’m aware.”
 
-His concern was professional, not conspiratorial. The synchronization mattered to him. That did not mean he knew what K-17 was.
-
-Bell pointed to the audit interface. “You stay on this side of the yellow line.”
-
-Elias placed the canvas pouch on the service shelf. His hands shook when he opened it.
+His concern was professional, not conspiratorial. The synchronization mattered to him. That did not mean he knew what K-17 was. Bell pointed to the audit interface. “You stay on this side of the yellow line.” Elias placed the canvas pouch on the service shelf. His hands shook when he opened it.
 
 Julie unfolded the work order beneath the module and recorded the wall-clock time.
 
@@ -493,9 +455,7 @@ He looked from her to Julie.
 
 “Go.”
 
-He authenticated out through the gray door and left.
-
-Bell remained inside. She had not joined Julie. She had reduced the number of people exposed to the breach.
+He authenticated out through the gray door and left. Bell remained inside. She had not joined Julie. She had reduced the number of people exposed to the breach.
 
 The controller sounded again.
 
@@ -511,9 +471,7 @@ Apex Building Three
 Reston, Virginia
 07:06 Eastern Daylight Time
 
-The WSS-4 alert reached Sarah Chen through the Apex vendor-certification channel.
-
-It carried no message content. It carried enough.
+The WSS-4 alert reached Sarah Chen through the Apex vendor-certification channel. It carried no message content. It carried enough.
 
 SITE: FENWICK ANNEX
 DOMAIN: WSS-4
@@ -522,11 +480,7 @@ FULL EXTERNAL TRUST-CHAIN PRESERVATION
 FIELD EVIDENCE MEDIA / DUAL PARTITION
 VENDOR WATCH: ACTIVE
 
-Arthur Vance had created the watch at 05:24.
-
-The rule followed behavior, not a destination. Any certified facility asked to preserve a full external chain while using field media associated with the protected recovery record would generate a priority notice.
-
-Vance had not known where Julie would go.
+Arthur Vance had created the watch at 05:24. The rule followed behavior, not a destination. Any certified facility asked to preserve a full external chain while using field media associated with the protected recovery record would generate a priority notice. Vance had not known where Julie would go.
 
 He had known what she would need.
 
@@ -754,9 +708,7 @@ Partition B tried to mount. The module shifted under Elias’s injured hand.
 MEDIA CONTACT UNSTABLE
 CAPTURE NOT STARTED
 
-His bandaged index slipped against the locking collar. Blood darkened the dressing.
-
-Julie steadied his wrist with her left hand without touching the module.
+His bandaged index slipped against the locking collar. Blood darkened the dressing. Julie steadied his wrist with her left hand without touching the module.
 
 “You seat it.”
 
@@ -795,11 +747,7 @@ PHASE-B AUTHORIZATION DEADLINE: 07:49 EDT
 MASKING WINDOW TWO: 07:48–07:54 EDT
 ARGUS SOURCE RECONSTRUCTION PROFILE: PENDING
 
-The second Argus action had not occurred. It waited behind the next authentication.
-
-Relay access remained unconfirmed. Phase B remained undefined. The messages stayed encrypted.
-
-Chen spoke through the wall speaker. “The building is under containment. Remove neither the module nor Northbridge property.”
+The second Argus action had not occurred. It waited behind the next authentication. Relay access remained unconfirmed. Phase B remained undefined. The messages stayed encrypted. Chen spoke through the wall speaker. “The building is under containment. Remove neither the module nor Northbridge property.”
 
 “We are taking our own media.”
 
@@ -824,11 +772,7 @@ The live session acknowledged.
 SESSION ACKNOWLEDGMENT COMPLETE
 TRANSIENT BUFFER PURGE ACTIVE
 
-Routing receipts disappeared from the live screen while Partition B continued writing them from the incident recorder.
-
-Elias kept both hands around the module. His shoulders shook.
-
-Chen said, “Elias, you are still listed as a possible hostage. Step away from Julie and surrender. Your participation can be evaluated separately.”
+Routing receipts disappeared from the live screen while Partition B continued writing them from the incident recorder. Elias kept both hands around the module. His shoulders shook. Chen said, “Elias, you are still listed as a possible hostage. Step away from Julie and surrender. Your participation can be evaluated separately.”
 
 He looked at the speaker.
 
@@ -845,11 +789,7 @@ West Loading Lane
 Washington, D.C.
 07:09 Eastern Daylight Time
 
-Marcus saw the response arrive before the radio confirmed it.
-
-A dark SUV entered the west end of the block and slowed beside the Fenwick alley. A second stopped at the intersection. Neither carried Apex markings.
-
-The service radio carried a District unit acknowledging a delayed plate-reader match.
+Marcus saw the response arrive before the radio confirmed it. A dark SUV entered the west end of the block and slowed beside the Fenwick alley. A second stopped at the intersection. Neither carried Apex markings. The service radio carried a District unit acknowledging a delayed plate-reader match.
 
 “White Potomac Critical Facilities van captured eastbound Theodore Roosevelt Bridge at approximately zero-six-fifty-four. Units check L Street and adjacent commercial corridors.”
 
@@ -871,9 +811,7 @@ His right thigh tightened before his foot settled on the brake. He shifted sidew
 
 Then he moved.
 
-The east service court required two right turns and a slow passage behind the loading bays. Marcus drove at delivery speed with his left foot. The taped heel of his right boot dragged across the floor.
-
-A marked Metropolitan Police cruiser turned onto L Street behind him without activating its lights.
+The east service court required two right turns and a slow passage behind the loading bays. Marcus drove at delivery speed with his left foot. The taped heel of his right boot dragged across the floor. A marked Metropolitan Police cruiser turned onto L Street behind him without activating its lights.
 
 At 07:09:51, Marcus reached the green canopy.
 
@@ -971,9 +909,7 @@ Fenwick Annex Service Corridor
 Washington, D.C.
 07:11 Eastern Daylight Time
 
-The fire corridor descended around the secure suite in an ordinary concrete stair. Green lights marked each landing. Red alarm contacts flashed above closed doors.
-
-Elias held the module against his chest beneath the rain shell. His left hip shortened each step. Julie stayed one stair below him, close enough to catch a fall with her body because her hands could not.
+The fire corridor descended around the secure suite in an ordinary concrete stair. Green lights marked each landing. Red alarm contacts flashed above closed doors. Elias held the module against his chest beneath the rain shell. His left hip shortened each step. Julie stayed one stair below him, close enough to catch a fall with her body because her hands could not.
 
 Voices rose from beneath them.
 
@@ -985,9 +921,7 @@ A Northbridge employee came through the door above carrying a laptop and coat. S
 
 The woman hesitated, then passed.
 
-Keeping her between them and security would have bought seconds. Julie waited until she cleared the landing.
-
-A landlord guard appeared below with one hand near his holstered sidearm.
+Keeping her between them and security would have bought seconds. Julie waited until she cleared the landing. A landlord guard appeared below with one hand near his holstered sidearm.
 
 “Stop. Hands where I can see them.”
 
@@ -999,9 +933,7 @@ Julie raised her left. Elias lifted both as far as the module allowed.
 
 “No.”
 
-The guard climbed carefully. He was doing the correct job with the information he had.
-
-Julie saw the sign beside the landing door.
+The guard climbed carefully. He was doing the correct job with the information he had. Julie saw the sign beside the landing door.
 
 SERVICE COURT / EAST EGRESS
 
@@ -1009,17 +941,11 @@ She pressed the crash bar, let Elias through, then closed the fire-rated door be
 
 The corridor ran toward daylight.
 
-PCF-27 waited beneath the green canopy with its engine running.
-
-Marcus stood beside the driver’s door, gripping the mirror housing. Fresh blood showed through the dressing above his ear. His right leg barely held him.
+PCF-27 waited beneath the green canopy with its engine running. Marcus stood beside the driver’s door, gripping the mirror housing. Fresh blood showed through the dressing above his ear. His right leg barely held him.
 
 “Move.”
 
-A dark Apex vehicle entered from the opposite end.
-
-Daniel Mercer stepped out before it stopped. Two operators followed, one with a less-lethal launcher and one with a compact rifle held low.
-
-Mercer saw Julie, Elias, and the module beneath the rain shell.
+A dark Apex vehicle entered from the opposite end. Daniel Mercer stepped out before it stopped. Two operators followed, one with a less-lethal launcher and one with a compact rifle held low. Mercer saw Julie, Elias, and the module beneath the rain shell.
 
 “Hands visible. Do not enter the van.”
 
@@ -1033,11 +959,7 @@ Mercer raised one hand. “Hold ballistic.”
 
 The rifle stayed down.
 
-Vance’s voice broke through his radio. “Prevent loss of the media.”
-
-Chen answered over the same channel. “Capture priority. No firearm without a deadly threat and clear background.”
-
-Mercer moved toward Elias instead of the van.
+Vance’s voice broke through his radio. “Prevent loss of the media.” Chen answered over the same channel. “Capture priority. No firearm without a deadly threat and clear background.” Mercer moved toward Elias instead of the van.
 
 The less-lethal launcher came up.
 
@@ -1045,15 +967,11 @@ Julie stepped into its line.
 
 The operator held fire.
 
-Mercer reached for Elias’s left arm. Elias recoiled, and the injured hip failed beneath him. His shoulder struck the van, but the module stayed against his chest.
-
-Marcus pulled the side door open. The movement folded him around his ribs.
+Mercer reached for Elias’s left arm. Elias recoiled, and the injured hip failed beneath him. His shoulder struck the van, but the module stayed against his chest. Marcus pulled the side door open. The movement folded him around his ribs.
 
 Elias climbed.
 
-Mercer caught the back of the oversized rain shell.
-
-The fabric stretched. Elias twisted free, leaving the shell in Mercer’s hand. He fell onto the cargo deck in his torn office shirt, arms around the module and board.
+Mercer caught the back of the oversized rain shell. The fabric stretched. Elias twisted free, leaving the shell in Mercer’s hand. He fell onto the cargo deck in his torn office shirt, arms around the module and board.
 
 Julie reached the driver’s door.
 
@@ -1079,15 +997,9 @@ Mercer reached the passenger side.
 
 “Engine off,” the officer repeated.
 
-The pedestrian cleared. The linen truck entered the street.
+The pedestrian cleared. The linen truck entered the street. Julie released the brake and followed at walking speed. She did not drive at the officer. He stepped aside rather than be struck by a van moving through an open commercial exit.
 
-Julie released the brake and followed at walking speed.
-
-She did not drive at the officer. He stepped aside rather than be struck by a van moving through an open commercial exit.
-
-Mercer slapped the passenger door and released it when the van turned. The cruiser at the west end activated its lights but could not cross the loading court without reversing around Apex vehicles and delivery traffic.
-
-Julie did not accelerate until the first intersection.
+Mercer slapped the passenger door and released it when the van turned. The cruiser at the west end activated its lights but could not cross the loading court without reversing around Apex vehicles and delivery traffic. Julie did not accelerate until the first intersection.
 
 No one fired.
 
@@ -1132,9 +1044,7 @@ The radio anchor announced Sterling’s second statement.
 
 “This morning’s attempted penetration of a Washington national-security organization confirms the seriousness of the continuing security emergency. The individuals sought in connection with the sabotage at Apex Building Three have now targeted sensitive communications supporting the United States and its partners.”
 
-The statement used the real breach to reverse the reason for it.
-
-Sterling did not mention Northbridge’s role, the K-17 session, or the signer.
+The statement used the real breach to reverse the reason for it. Sterling did not mention Northbridge’s role, the K-17 session, or the signer.
 
 “Law enforcement is coordinating an appropriate federal response. I urge the public to remain calm and permit trained professionals to secure the material at risk.”
 
@@ -1182,9 +1092,7 @@ Marcus closed the log.
 
 That was the missing fact.
 
-An aide could hold it. Counsel. Legislative security. A Northbridge intermediary. Sterling himself.
-
-The certificate had named an office and a device. It had not shown a hand.
+An aide could hold it. Counsel. Legislative security. A Northbridge intermediary. Sterling himself. The certificate had named an office and a device. It had not shown a hand.
 
 A traffic bulletin interrupted the statement.
 

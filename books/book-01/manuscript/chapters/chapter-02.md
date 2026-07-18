@@ -230,6 +230,23 @@ DEPLOYMENT STATUS: LIVE
 
 The sandbox restriction had been disabled, the synthetic-source label removed, and the export prohibition replaced by an executive waiver without a visible government approver. Each safeguard had failed differently: switched off, deleted, overruled. The pattern looked less like a broken deployment than one designed to survive three kinds of audit.
 
+A transformation manifest sat beneath the waiver. Elias opened it expecting a list of copied files. Instead it described how the post-archive object consumed Revision Eight.
+
+REVISION 8 VARIATION MAP: INPUT
+ENVIRONMENTAL IRREGULARITY CLASS: COLLECTION DAMAGE
+TIMING VARIANCE: RECONSTRUCT TO REFERENCE
+DEVICE-AGING DRIFT: RECONSTRUCT TO REFERENCE
+CONFLICTING CARRIER EVENTS: CORRECTION-DEPENDENT
+REFERENCE ENVELOPE: PACKET 0001
+
+He read the fields twice. The mess he had added to make the test believable had not been deleted from the archived package. It had been reclassified. SIGMA would receive every deliberate irregularity as evidence that the collected signal needed repair. The first packet became the reference envelope. Later packets inherited its carrier structure while timing and equipment drift were pulled toward the same model state.
+
+The process explained the live feed Julie was seeing without requiring Revision Eight itself to have been clean. Human reaction differences became correction targets. Independent radio aging became damage. Weather response became something to compensate away. Observations that contradicted the reconstructed formation but shared its carrier family moved into a dependent side table instead of reaching the threat model.
+
+The object did not merely add synthetic artillery. It used the believable version as raw material and then removed the very disorder that had taught Argus to distrust it.
+
+Elias copied the manifest path to the maintenance drive. The field that identified who approved the transformation was not visible at his level.
+
 Payload 88 was no longer pretending to be intelligence inside a test environment.
 
 It was intelligence.
