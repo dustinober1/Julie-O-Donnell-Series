@@ -21,7 +21,23 @@ jobs:
       - name: Build reviewed repair map
         run: python3 tools/build_book1_one_sentence_repair_map.py
       - name: Apply reviewed paragraph integrations
-        run: python3 tools/apply_book1_one_sentence_repair.py
+        id: apply
+        continue-on-error: true
+        run: |
+          set -o pipefail
+          python3 tools/apply_book1_one_sentence_repair.py 2>&1 | tee artifacts/book1-one-sentence-repair-run.log
+      - name: Upload repair diagnostics
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: book1-one-sentence-repair-diagnostics
+          path: |
+            artifacts/book1-one-sentence-repair-run.log
+            books/book-01/control/52-one-sentence-repair-map.json
+          if-no-files-found: error
+      - name: Stop after repair failure
+        if: steps.apply.outcome == 'failure'
+        run: exit 1
       - name: Recompile accepted manuscript
         run: python3 tools/compile_book1_accepted.py
       - name: Regenerate developmental metrics
