@@ -42,4 +42,4 @@ quality_controls:
   developmental_metrics: "tools/analyze_book1_revision.py"
   specialist_review_brief: "books/book-01/control/50-specialist-review-brief.md"
   public_source_desk_review: "books/book-01/control/58-internet-research-desk-review.md"
-  current_validation: "pending automated verification at 105144 accepted words"
+  current_validation: "passing at 105144 accepted words"
