@@ -999,9 +999,7 @@ Marcus helped her up.
 
 “Then stop worrying about the disguise.”
 
-Julie removed the hard hat and left it on the floor. Marcus pulled off his own and tossed it beside hers. The route to Compliance Four ended at a reinforced glass vestibule.
-
-Through it, Julie could see a white corridor and three holding-room doors. A security desk stood empty near the entrance.
+Julie removed the hard hat and left it on the floor. Marcus pulled off his own and tossed it beside hers. The route to Compliance Four ended at a reinforced glass vestibule. Through it, Julie could see a white corridor and three holding-room doors. A security desk stood empty near the entrance.
 
 No Elias.
 

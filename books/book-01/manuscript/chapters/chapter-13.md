@@ -219,9 +219,7 @@ She opened the driver’s door with her left hand.
 
 The wind across the upper deck carried traffic noise and the intermittent chirp of reversing trucks. Julie crossed twenty feet to the open wall. Elias followed with the incident module held against his abdomen. His left leg shortened every third step. He used the concrete columns instead of Julie’s arm.
 
-Marcus remained in the van with the aluminum case, the recovery cartridge, the paper custody log, and the dead transponder. The role cost him more than movement would have. Julie could see it in the way he watched them go.
-
-They stopped behind a waist-high barrier at the east edge. From there, the outer Hartwell traffic divided into three visible streams. The north approach carried the principal motorcade, marked security vehicles, and police control.
+Marcus remained in the van with the aluminum case, the recovery cartridge, the paper custody log, and the dead transponder. The role cost him more than movement would have. Julie could see it in the way he watched them go. They stopped behind a waist-high barrier at the east edge. From there, the outer Hartwell traffic divided into three visible streams. The north approach carried the principal motorcade, marked security vehicles, and police control.
 
 A western curb held media vans and staff cars waiting beneath temporary restrictions. The east lane carried deliveries, technical support, and office vehicles toward a covered checkpoint that sat outside the buildings hiding Hartwell’s secure interior.
 
@@ -363,9 +361,7 @@ Arthur Vance’s executive channel opened beside it.
 
 Sarah looked at the words.
 
-He had not asked whether Julie was in the garage. He had not asked whether the signer was there. He had placed the material and the Hartwell event inside one sentence.
-
-She marked the time in her incident file.
+He had not asked whether Julie was in the garage. He had not asked whether the signer was there. He had placed the material and the Hartwell event inside one sentence. She marked the time in her incident file.
 
 Daniel Mercer answered over vehicle noise.
 
@@ -610,11 +606,7 @@ Two uniformed security officers approached it.
 
 One opened the front passenger door.
 
-A man in a dark suit stepped out carrying nothing visible. The rear door opened on the far side, hidden from Julie by the vehicle. A second person appeared beyond the roofline. Dark coat. Medium height. Hands below the window line.
-
-The first officer moved between Julie and the passenger. Then three people walked together toward the covered position. Julie could not see whether any carried a device.
-
-She could see that the vehicle had delivered a staff group into a route separate from the principal motorcade.
+A man in a dark suit stepped out carrying nothing visible. The rear door opened on the far side, hidden from Julie by the vehicle. A second person appeared beyond the roofline. Dark coat. Medium height. Hands below the window line. The first officer moved between Julie and the passenger. Then three people walked together toward the covered position. Julie could not see whether any carried a device. She could see that the vehicle had delivered a staff group into a route separate from the principal motorcade.
 
 “Marker,” she said.
 
@@ -1058,9 +1050,7 @@ Mercer’s did not.
 
 The west ramp remained open.
 
-The staff group remained at the exterior screen. The operation continued by a margin measured in one route and a few minutes. At 07:43:02, the box truck cleared the west ramp.
-
-A Metropolitan Police cruiser crossed the street beyond the exit, slowed, then continued toward the opposite corner. The civilian gate kept releasing cars.
+The staff group remained at the exterior screen. The operation continued by a margin measured in one route and a few minutes. At 07:43:02, the box truck cleared the west ramp. A Metropolitan Police cruiser crossed the street beyond the exit, slowed, then continued toward the opposite corner. The civilian gate kept releasing cars.
 
 Marcus looked through the mirror.
 
@@ -1142,9 +1132,7 @@ The outer screen opened long enough for two people to pass into a narrower lane 
 
 The fourth person did not.
 
-The black case appeared again behind the privacy panel. A hand placed it on a waist-high inspection surface. From the garage, Julie could see the case.
-
-She could not see the wrist attached to the hand. The panel, the officer, and the other bodies concealed it.
+The black case appeared again behind the privacy panel. A hand placed it on a waist-high inspection surface. From the garage, Julie could see the case. She could not see the wrist attached to the hand. The panel, the officer, and the other bodies concealed it.
 
 “Marker,” she said.
 
@@ -1214,9 +1202,7 @@ Traffic continued beneath them.
 
 Office workers entered the garage.
 
-A delivery truck reversed against a loading dock. The country did not stop because the truth had narrowed to an obscured hand. At 07:45:11, the black case disappeared from the inspection surface.
-
-No person emerged from behind the privacy panel carrying it.
+A delivery truck reversed against a loading dock. The country did not stop because the truth had narrowed to an obscured hand. At 07:45:11, the black case disappeared from the inspection surface. No person emerged from behind the privacy panel carrying it.
 
 The exterior officer remained outside.
 

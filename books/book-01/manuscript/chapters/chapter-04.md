@@ -1294,9 +1294,7 @@ Prince William Public Library
 
 14:47 Eastern Daylight Time
 
-Julie sat in the Ford beneath a tree at the far edge of the parking lot. The ThinkPad rested on her knees. Its battery had fallen to forty-two percent. She connected to the library’s guest network using a temporary hardware address and searched the county planning archive.
-
-The Apex campus appeared under its former name: Dominion Applied Research Park.
+Julie sat in the Ford beneath a tree at the far edge of the parking lot. The ThinkPad rested on her knees. Its battery had fallen to forty-two percent. She connected to the library’s guest network using a temporary hardware address and searched the county planning archive. The Apex campus appeared under its former name: Dominion Applied Research Park.
 
 Most current structural records were sealed.
 
@@ -1556,9 +1554,7 @@ Reston, Virginia
 
 15:34 Eastern Daylight Time
 
-Julie parked the Ford behind an abandoned office building on the southern edge of the Apex campus. Rain had begun as a fine mist, darkening the pavement and softening the tree line. They changed into the gray coveralls inside the truck.
-
-Marcus fastened the patch marked STEVE above his pocket.
+Julie parked the Ford behind an abandoned office building on the southern edge of the Apex campus. Rain had begun as a fine mist, darkening the pavement and softening the tree line. They changed into the gray coveralls inside the truck. Marcus fastened the patch marked STEVE above his pocket.
 
 “You did this deliberately.”
 

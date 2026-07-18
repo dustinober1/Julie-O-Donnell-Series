@@ -997,9 +997,7 @@ Mercer reached the passenger side.
 
 “Engine off,” the officer repeated.
 
-The pedestrian cleared. The linen truck entered the street. Julie released the brake and followed at walking speed. She did not drive at the officer. He stepped aside rather than be struck by a van moving through an open commercial exit.
-
-Mercer slapped the passenger door and released it when the van turned. The cruiser at the west end activated its lights but could not cross the loading court without reversing around Apex vehicles and delivery traffic. Julie did not accelerate until the first intersection.
+The pedestrian cleared. The linen truck entered the street. Julie released the brake and followed at walking speed. She did not drive at the officer. He stepped aside rather than be struck by a van moving through an open commercial exit. Mercer slapped the passenger door and released it when the van turned. The cruiser at the west end activated its lights but could not cross the loading court without reversing around Apex vehicles and delivery traffic. Julie did not accelerate until the first intersection.
 
 No one fired.
 

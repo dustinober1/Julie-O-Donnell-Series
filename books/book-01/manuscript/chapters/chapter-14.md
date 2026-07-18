@@ -619,9 +619,7 @@ Julie looked at the driver’s door. It was closed. The key remained in the igni
 
 “Do it slowly. Left hand only. Keep your right arm against your body.”
 
-Julie lowered her left hand only when he told her. She took one step to the driver’s door. The movement placed her nearer the van but no closer to Hartwell. Ortiz moved with her, body camera centered on her hand. She opened the door with her left fingers.
-
-The engine vibration reached through the metal and into her wrist before she touched the key. She leaned across the threshold without putting weight on the injured hand, turned the ignition back with her left thumb and forefinger, and released it.
+Julie lowered her left hand only when he told her. She took one step to the driver’s door. The movement placed her nearer the van but no closer to Hartwell. Ortiz moved with her, body camera centered on her hand. She opened the door with her left fingers. The engine vibration reached through the metal and into her wrist before she touched the key. She leaned across the threshold without putting weight on the injured hand, turned the ignition back with her left thumb and forefinger, and released it.
 
 The engine stopped.
 
@@ -909,9 +907,7 @@ Whether anyone honored it later remained uncertain.
 
 The green Hartwell light still burned across the open side of the garage. Masking Window Two had been active for eighty-nine seconds. The WSS-4 blocks remained encrypted. K-17 access remained unconfirmed. The reconstruction profile remained undefined. The physical presenter remained somewhere behind ordinary security, authorized movement, and a record now held but unseen.
 
-Mercer stood outside immediate contact distance under MPD authority. Marcus remained in the passenger area with the aluminum case between his boots and the waterproof folder against his body. Elias remained beside the van with the board against his chest and the dual-partition module in his hands.
-
-PCF-27 was silent. The key stayed visible in the ignition.
+Mercer stood outside immediate contact distance under MPD authority. Marcus remained in the passenger area with the aluminum case between his boots and the waterproof folder against his body. Elias remained beside the van with the board against his chest and the dual-partition module in his hands. PCF-27 was silent. The key stayed visible in the ignition.
 
 No officer or civilian had been struck.
 
