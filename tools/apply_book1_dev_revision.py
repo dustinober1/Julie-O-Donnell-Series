@@ -20,10 +20,10 @@ META_REPLACEMENTS = {
 
 
 def replace_idempotent(text: str, old: str, new: str, label: str) -> str:
-    if old in text:
-        return text.replace(old, new)
     if new in text:
         return text
+    if old in text:
+        return text.replace(old, new)
     raise RuntimeError(f"expected editorial anchor missing: {label}")
 
 
@@ -54,14 +54,14 @@ def revise_chapter_05(text: str) -> str:
         "anyone had noticed before Vance did.\n\n"
         "Arthur Vance entered without knocking."
     )
-    if duplicate_pattern.search(text):
+    if replacement in text:
+        pass
+    elif duplicate_pattern.search(text):
         text = duplicate_pattern.sub(replacement, text, count=1)
-    elif replacement not in text:
+    else:
         raise RuntimeError("Chapter 5 thermostat duplicate anchor missing")
 
-    family_anchor = (
-        "The Argus source certification would transmit in forty-seven minutes."
-    )
+    family_anchor = "The Argus source certification would transmit in forty-seven minutes."
     family_insert = (
         "The Argus source certification would transmit in forty-seven minutes.\n\n"
         "His father expected him in Richmond by seven for a retirement dinner Elias had "
