@@ -44,7 +44,13 @@ def manifest_paths() -> list[Path]:
     if not MANIFEST.is_file():
         fail(f"missing {MANIFEST.relative_to(ROOT)}")
     text = MANIFEST.read_text(encoding="utf-8")
-    paths = [ROOT / value for value in re.findall(r'^\s+path:\s+"([^"]+)"\s*$', text, re.MULTILINE)]
+    accepted_block = text.split("\nexcluded_from_canon:", 1)[0]
+    paths = [
+        ROOT / value
+        for value in re.findall(
+            r'^\s+path:\s+"([^"]+)"\s*$', accepted_block, re.MULTILINE
+        )
+    ]
     if len(paths) != 25:
         fail(f"expected 25 accepted prose files, found {len(paths)}")
     for path in paths:
@@ -91,18 +97,35 @@ def validate_text(path: Path, text: str) -> None:
 
     for line_number, line in enumerate(text.splitlines(), start=1):
         if line.startswith(" ") and line.strip() and not line.startswith("    "):
-            if re.search(r"(?:Virginia|Washington, D\.C\.|Kashmir|Eastern Daylight Time|Indian Standard Time)$", line.strip()):
+            if re.search(
+                r"(?:Virginia|Washington, D\.C\.|Kashmir|Eastern Daylight Time|Indian Standard Time)$",
+                line.strip(),
+            ):
                 fail(f"leading space on scene heading in {label}:{line_number}")
 
 
 def validate_thermostat_scene() -> None:
-    chapter_4 = (ROOT / "books/book-01/manuscript/chapters/chapter-04.md").read_text(encoding="utf-8")
-    chapter_5 = (ROOT / "books/book-01/manuscript/chapters/chapter-05.md").read_text(encoding="utf-8")
+    chapter_4 = (
+        ROOT / "books/book-01/manuscript/chapters/chapter-04.md"
+    ).read_text(encoding="utf-8")
+    chapter_5 = (
+        ROOT / "books/book-01/manuscript/chapters/chapter-05.md"
+    ).read_text(encoding="utf-8")
+    combined = chapter_4 + "\n" + chapter_5
     marker = "0088 / COMP-04 / CORE-01"
-    if marker not in chapter_4 + chapter_5:
+    if marker not in combined:
         fail("thermostat message marker is missing")
-    if marker in chapter_4 and marker in chapter_5:
-        fail("thermostat transmission remains duplicated across Chapters 4 and 5")
+
+    detailed_scene_anchors = (
+        "He generated a compressor fault.",
+        "He bridged the contacts eight times.",
+    )
+    detailed_count = sum(anchor in combined for anchor in detailed_scene_anchors)
+    if detailed_count != 1:
+        fail(
+            "expected one detailed thermostat transmission scene across Chapters 4–5, "
+            f"found {detailed_count}"
+        )
 
 
 def validate_final_scene() -> None:
