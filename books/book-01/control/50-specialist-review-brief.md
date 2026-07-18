@@ -1,10 +1,11 @@
 # Book 1 Specialist Review Brief
 
 **Manuscript:** *Veridrift*  
-**Revision state:** Developmental revision complete on `agent/book1-developmental-revision`  
-**Status of every specialist area below:** **UNREVIEWED**
+**Revision state:** Developmental revision complete; canonical inventory in `../ACCEPTED_MANUSCRIPT.yaml`  
+**Status of every specialist area below:** **UNREVIEWED**  
+**Tracking register:** `52-specialist-review-register.md`
 
-This brief identifies the precise scenes, mechanisms, and questions that require qualified external review before copyediting and publication. It does not imply that any specialist has approved the manuscript.
+This brief identifies the precise scenes, mechanisms, and questions that require qualified external review before copyediting and publication. It does not imply that any specialist has approved the manuscript. A specialist area remains **UNREVIEWED** until a named qualified reviewer supplies a dated deliverable that follows the required format below.
 
 ## 1. SIGINT / ELINT / Sensor-Provenance Review — UNREVIEWED
 
@@ -119,15 +120,34 @@ This brief identifies the precise scenes, mechanisms, and questions that require
 7. Does the U.S.–India warning integration create geopolitical or sovereignty implications that require additional setup or different wording?
 8. Are Pakistan-facing terminology, escalation assumptions, and field behavior balanced and plausible rather than simplified for the plot?
 
-## Review Deliverable Requested
+## 7. Trauma Medicine / Injury Continuity Review — UNREVIEWED
 
-For each specialist area, request:
+### Primary scenes
 
-- factual or procedural errors ranked as **critical**, **material**, or **minor**;
+- Chapters 6–15: Julie's wrist injury; Marcus's rib, scalp, thigh, boot, breathing, balance, and concussion symptoms; Elias's hip injury, dizziness, cold exposure, and injured biometric finger.
+- Chapters 15–17 and 24: paramedic assessment, oxygen saturation, hospital transport, imaging, restraint accommodations, representation limits, and discharge restrictions.
+
+### Questions
+
+1. Can Julie plausibly drive, handle the case, brace doors, and continue through Hartwell with the described wrist and ligament injury?
+2. Can Marcus plausibly fight, walk, drive briefly with his left foot, maintain custody, and remain oriented with the described rib injury, scalp wound, low oxygen saturation, thigh trauma, and concussion symptoms?
+3. Can Elias plausibly walk, use stairs, manipulate the module, and authenticate with the described hip injury, dizziness, cold exposure, and cut finger?
+4. Are the field assessments and first-aid choices credible, including pupil checks, no rib binding, wound cleaning, makeshift wrist support, cold packs, and movement limits?
+5. Are the paramedic, hospital, restraint, oxygen, imaging, observation, and discharge decisions plausible?
+6. Which actions require reduced duration, assistance, changed injury severity, or different medical description?
+7. Provide a chapter-by-chapter capability ceiling for Julie, Marcus, and Elias.
+
+## Review Deliverable Required
+
+For each specialist area, provide:
+
+- reviewer's name, relevant qualifications, and review date;
+- factual or procedural errors ranked as **critical**, **material**, **minor**, or **preference**;
 - exact chapter and passage affected;
 - the smallest correction that preserves plot, timing, character decisions, and suspense;
 - any term that should be replaced with authentic professional language;
 - any scene that remains implausible even after terminology changes;
-- confirmation of what is credible and should not be overcorrected.
+- confirmation of what is credible and should not be overcorrected;
+- a final disposition of **approved**, **approved with corrections**, or **not approved**.
 
-No specialist correction should be incorporated without a subsequent continuity review across the accepted manuscript and control files.
+No specialist correction should be incorporated without a subsequent continuity review across the accepted manuscript and control files. No area may be marked reviewed without a named, dated, qualification-backed deliverable.
