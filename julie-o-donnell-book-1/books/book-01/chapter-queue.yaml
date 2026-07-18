@@ -1,33 +1,6 @@
 schema_version: 1.0.0
 active_window: blocked
 packets:
-  - chapter: 4
-    title: The Signature
-    status: blocked
-    pov: close-third-protagonist
-    purpose: Julie discovers the synthetic injection signature in the data pipeline.
-    scene_engine: analysis
-    pressure_movement: The proof sharpens as Julie maps the injection vector.
-    character_movement: Julie's analytical certainty hardens into purpose.
-    relationship_movement: Julie's isolation deepens as only she can see the pattern.
-    story_thread_refs:
-      - THR-002
-    continuity_refs:
-      - FCT-007
-      - FCT-019
-    character_refs:
-      - Julie
-    required_research:
-      - RES-002
-    profile_fields:
-      threat_delta: The synthetic injection vector is mapped; the system is confirmed weaponized, not broken.
-      evidence_delta: Julie discovers the synthetic injection signature in the data pipeline; it proves an injection exists
-        but not who planted it or why.
-      reader_forecast_change: The reader moves from suspecting the machine might be wrong to knowing it is being deliberately fed lies.
-      protagonist_choice: Julie's analytical certainty hardens into purpose, and she owns the finding alone.
-    ending_hook: Julie confirms the injection vector — the system is weaponized, not broken.
-    milestone_gate: null
-    target_words: 5500
   - chapter: 5
     title: The System Lying
     status: blocked
