@@ -1,40 +1,6 @@
 schema_version: 1.0.0
 active_window: blocked
 packets:
-  - chapter: 2
-    title: The Ghost Pattern
-    status: blocked
-    pov: close-third-protagonist
-    purpose: Julie analyzes the alert and recognizes the four-second ghost signature — but this feed is synthetic.
-    scene_engine: analysis
-    pressure_movement: The recognition that the machine is lying lands as bodily memory.
-    character_movement: Julie's hyper-vigilance becomes the only skill that can read the feed.
-    relationship_movement: Julie tests whether Marcus will admit the institution has not ruled out replay independently.
-    story_thread_refs:
-      - THR-001
-      - THR-002
-    continuity_refs:
-      - FCT-003
-      - FCT-004
-      - FCT-013
-    character_refs:
-      - Julie
-      - Marcus
-    required_research:
-      - RES-001
-      - RES-002
-      - RES-005
-    profile_fields:
-      threat_delta: The too-clean feed reveals the alert is a weaponized injection rather than a malfunction; the machine is
-        being deliberately fed lies.
-      evidence_delta: Reading the raw feed under supervised access, Julie recognizes the four-second ghost signature; it is
-        signal-shape inference from the Reston console, not yet the mapped injection vector.
-      reader_forecast_change: The reader understands the danger is manufactured; someone is feeding Argus false certainty.
-      protagonist_choice: Julie commits her hyper-vigilance, the skill others read as paranoia, to a feed the institution has
-        certified as real.
-    ending_hook: Julie recognizes the too-clean feed and the old recognition comes as bodily memory.
-    milestone_gate: null
-    target_words: 5500
   - chapter: 3
     title: The Access
     status: blocked

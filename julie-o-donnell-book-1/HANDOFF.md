@@ -5,11 +5,11 @@
 - Profile: thriller
 - Stage: drafting
 - Git reference: main @ HEAD
-- Project state hash: 6e8956a5e9e7e34015313b4aaddf318c9941d61b47f8b3d9e629d808e1a9187f
-- Last completed action: research-update
+- Project state hash: d463199383f266fee41c269f6a62fa3dbaa1aece0781190c63cc822d1026bcca
+- Last completed action: draft-chapter chapter 2
 - Active gate or blocker: none
-- Current chapter: 1
-- Manuscript words: 3477
+- Current chapter: 2
+- Manuscript words: 7216
 
 ## Locked and protected state
 

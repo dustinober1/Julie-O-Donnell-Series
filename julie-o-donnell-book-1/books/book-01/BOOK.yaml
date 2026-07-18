@@ -2,9 +2,9 @@ schema_version: 1.0.0
 book_id: book-01
 title: Untitled Book 1
 profile: thriller
-status: review
-current_chapter: 1
+status: drafting
+current_chapter: 2
 target_words: 125000
-actual_words: 3477
+actual_words: 7216
 act_checkpoint: null
 canon_locked: false
