@@ -17,7 +17,18 @@ jobs:
         with:
           fetch-depth: 0
       - name: Count accepted Book 1 words
-        run: python3 tools/count_book1_words.py --expect 105081
+        run: |
+          EXPECTED=$(python3 - <<'PY'
+          import re
+          from pathlib import Path
+          text = Path('books/book-01/ACCEPTED_MANUSCRIPT.yaml').read_text(encoding='utf-8')
+          match = re.search(r'^total_accepted_words:\s*(\d+)\s*$', text, re.MULTILINE)
+          if not match:
+              raise SystemExit('manifest missing total_accepted_words')
+          print(match.group(1))
+          PY
+          )
+          python3 tools/count_book1_words.py --expect "$EXPECTED"
       - name: Run publication-readiness checks
         run: python3 tools/validate_book1_publication_readiness.py
       - name: Compile permanent Book 1 validators
