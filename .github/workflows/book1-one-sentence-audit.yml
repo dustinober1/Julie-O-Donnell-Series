@@ -4,6 +4,8 @@ on:
   workflow_dispatch:
   push:
     branches: [agent/book1-rhythm-repair]
+  pull_request:
+    branches: [main]
 
 permissions:
   contents: write
@@ -39,7 +41,7 @@ jobs:
             exit 0
           fi
           git config user.name "github-actions[bot]"
-          git config user.email "4189822+github-actions[bot]@users.noreply.github.com"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add artifacts/book1-one-sentence-paragraph-audit.md
           git commit -m "audit: record Book 1 one-sentence paragraph findings [skip ci]"
           git push origin HEAD:agent/book1-rhythm-repair
