@@ -33,7 +33,7 @@ jobs:
       - name: Apply final manuscript passes
         if: steps.gate.outputs.run == 'true'
         run: |
-          python3 tools/apply_book1_final_1000.py
+          python3 tools/run_book1_final_1000_tolerant.py
           python3 tools/reflow_book1_narrative_paragraphs.py
       - name: Verify diff hygiene
         if: steps.gate.outputs.run == 'true'
