@@ -19,46 +19,49 @@
 
 ---
 
-### Task 1: Reconcile the canonical state
+### Task 1: Reconcile the canonical state — COMPLETE
 
 **Files:**
 - Modify: `books/book-01/control/README.md`
-- Modify: `books/book-01/ACCEPTED_MANUSCRIPT.yaml` only if generated hashes or counts change
 - Create: `books/book-01/control/51-publication-readiness-status.md`
-- Modify: `README.md` if repository status changes
+- Modify: `README.md`
 
-- [ ] Replace stale 124,779-word and obsolete endpoint claims with the current accepted manifest state.
-- [ ] State explicitly that generated compilations and historical Word exports are noncanonical.
-- [ ] Record the publication gate as external specialist review, approved corrections, continuity validation, copyedit, proofread, and production export.
-- [ ] Verify all active control files agree on title, chapter count, word count, ending, and open series threads.
+- [x] Replace stale 124,779-word and obsolete endpoint claims with the current accepted manifest state.
+- [x] State explicitly that generated compilations and historical Word exports are noncanonical.
+- [x] Record the publication gate as external specialist review, approved corrections, continuity validation, copyedit, proofread, and production export.
+- [x] Verify active control files agree on title, chapter count, word count, ending, and open series threads through automated validation.
 
-### Task 2: Strengthen automated canon validation
+### Task 2: Strengthen automated canon validation — COMPLETE
 
 **Files:**
 - Modify: `tools/validate_book1_publication_readiness.py`
 - Create: `tools/test_validate_book1_publication_readiness.py`
+- Create: `tools/test_compile_book1_from_manifest.py`
+- Create: `.github/workflows/book1-publication-readiness.yml`
 
-- [ ] Parse accepted titles, word counts, and hashes from the manifest.
-- [ ] Verify each file's actual word count and SHA-256 against the manifest.
-- [ ] Verify the manifest total equals the summed file totals.
-- [ ] Verify control-pack status does not contain stale accepted totals or obsolete endpoint claims.
-- [ ] Verify the final line and deliberate unresolved threads remain present.
-- [ ] Add fixture-driven tests for count drift, hash drift, stale control metadata, missing files, heading errors, and final-line changes.
+- [x] Parse accepted titles, word counts, and hashes from the manifest.
+- [x] Verify each file's actual word count and SHA-256 against the manifest.
+- [x] Verify the manifest total equals the summed file totals.
+- [x] Verify control-pack status does not contain stale accepted totals or obsolete endpoint claims.
+- [x] Verify the final line and deliberate unresolved threads remain present.
+- [x] Add fixture-driven tests for count drift, hash drift, stale control metadata, headings, final-line changes, and Chapter 25 creation.
+- [x] Add CI to run tests, validation, diagnostics, manifest compilation, and final-line verification.
 
-### Task 3: Create specialist review tracking
+### Task 3: Create specialist review tracking — COMPLETE; EXTERNAL REVIEWS OPEN
 
 **Files:**
 - Modify: `books/book-01/control/50-specialist-review-brief.md`
 - Create: `books/book-01/control/52-specialist-review-register.md`
 - Create: `books/book-01/control/review-packets/README.md`
-- Create seven review packet files for SIGINT, targeting/JAG, facility/fire, PKI/forensics, federal legal process, Indian Army/South Asia, and trauma medicine.
+- Create seven specialist packet files.
 
-- [ ] Give each area an owner, status, review date, findings count, and approval ceiling.
-- [ ] Require critical/material/minor/preference severity and the smallest story-preserving correction.
-- [ ] State that no review is complete until a named qualified reviewer supplies a dated deliverable.
-- [ ] Open one GitHub issue per specialist area.
+- [x] Give each area an issue owner, status, review fields, and approval ceiling.
+- [x] Require critical/material/minor/preference severity and the smallest story-preserving correction.
+- [x] State that no review is complete until a named qualified reviewer supplies a dated deliverable.
+- [x] Open one GitHub issue per specialist area: #70–#76.
+- [ ] Obtain the seven external deliverables. **BLOCKED: requires named qualified human reviewers.**
 
-### Task 4: Create continuity ledgers
+### Task 4: Create continuity ledgers — COMPLETE BASELINE
 
 **Files:**
 - Create: `books/book-01/control/continuity/00-readme.md`
@@ -70,22 +73,21 @@
 - Create: `06-technology-ledger.md`
 - Create: `07-public-narrative-ledger.md`
 
-- [ ] Record the controlling facts already established by the accepted manuscript.
-- [ ] Mark every field that must be revalidated after specialist corrections.
-- [ ] Preserve the difference between registered authority, physical possession, personal operation, command, and motive.
+- [x] Record controlling facts already established by the accepted manuscript.
+- [x] Mark fields requiring revalidation after specialist corrections.
+- [x] Preserve the difference between registered authority, institutional custody, physical possession, personal operation, command, and motive.
+- [ ] Reconcile the ledgers against future accepted specialist corrections. **BLOCKED: no findings yet.**
 
-### Task 5: Intake and adjudicate specialist findings
+### Task 5: Intake and adjudicate specialist findings — INFRASTRUCTURE COMPLETE
 
 **Files:**
 - Create: `books/book-01/control/53-specialist-findings-ledger.md`
 
-- [ ] Enter every finding with area, chapter, severity, explanation, smallest correction, downstream impact, decision, and status.
-- [ ] Accept critical findings unless disproved by stronger evidence.
-- [ ] Accept material corrections when they preserve the locked story.
-- [ ] Batch minor terminology corrections into copyedit.
-- [ ] Reject unsupported preference edits.
+- [x] Create fields for area, chapter, severity, explanation, smallest correction, downstream impact, decision, and status.
+- [x] Define acceptance, modified acceptance, copyedit deferral, reconciliation, rejection, and content-lock reopening decisions.
+- [ ] Enter and adjudicate findings. **BLOCKED: external findings not yet received.**
 
-### Task 6: Apply approved technical corrections
+### Task 6: Apply approved technical corrections — BLOCKED
 
 **Files:**
 - Modify only affected accepted manuscript chapters and relevant control files.
@@ -98,75 +100,77 @@
 - [ ] Correct injury capability and treatment last.
 - [ ] Regenerate manifest counts and hashes after each approved correction set.
 
-### Task 7: Reconstruct continuity after technical corrections
+**Blocker:** Applying unreviewed technical changes would invent expert approval and could create new cross-domain errors.
+
+### Task 7: Reconstruct continuity after technical corrections — BASELINE COMPLETE / FINAL PASS BLOCKED
+
+- [x] Create baseline EDT/IST and local-clock timeline.
+- [x] Create baseline evidence custody, seal, derivative, and source-original map.
+- [x] Create baseline injury capability map.
+- [x] Create baseline character knowledge and proof-ceiling map.
+- [x] Create baseline institutional authority and public narrative maps.
+- [ ] Reconcile all ledgers after technical corrections. **BLOCKED by Task 6.**
+
+### Task 8: Tighten the late procedural act — AUDIT COMPLETE / PROSE EDIT BLOCKED
 
 **Files:**
-- Modify all continuity ledgers.
-- Modify: `tools/validate_book1_publication_readiness.py`
-
-- [ ] Reconcile EDT/IST and all local clock offsets.
-- [ ] Reconcile evidence custody, seal state, derivatives, and original-source location.
-- [ ] Reconcile injuries and physical capability chapter by chapter.
-- [ ] Reconcile character knowledge and proof ceilings.
-- [ ] Reconcile institutional authority and public narrative chronology.
-
-### Task 8: Tighten the late procedural act
-
-**Files:**
-- Modify as necessary: Chapters 15–23.
 - Create: `books/book-01/control/54-late-act-compression-report.md`
+- Create: `tools/analyze_book1_publication_style.py`
 
-- [ ] Remove repeated full inventories after common custody is stable.
-- [ ] Reduce repeated explanations of registered authority versus physical possession.
-- [ ] Reduce repeated camera, visible-hands, and clock protocol after the procedure is established.
-- [ ] Preserve the MPD handoff, board examination, K-17 local record, Hartwell production, signer custody exception, Price finding, construction/release split, Vance release, and aborted public overclaim.
-- [ ] Record before/after word counts and every retained story function.
+- [x] Identify repeated inventory, proof-ceiling, camera, visible-hands, clock, and objection patterns.
+- [x] Protect the MPD handoff, board examination, K-17 local record, Hartwell production, signer custody exception, Price finding, construction/release split, Vance release, and aborted public overclaim.
+- [x] Set a controlled 1,200–1,800-word preferred reduction rather than an unsafe quota.
+- [ ] Apply the chapter edits and record before/after counts. **BLOCKED until legal, PKI, and provenance corrections stabilize the language.**
 
-### Task 9: Differentiate dialogue voices and reduce cast load
+### Task 9: Differentiate dialogue voices and reduce cast load — DESIGN COMPLETE / PROSE EDIT BLOCKED
 
 **Files:**
-- Modify affected dialogue only.
 - Create: `books/book-01/control/55-character-voice-and-cast-report.md`
 
-- [ ] Keep Julie grounded in physical cause and proof limits.
-- [ ] Keep Marcus grounded in command, responsibility, and access.
-- [ ] Keep Elias grounded in mechanisms, fear, consent, and identity ownership.
-- [ ] Keep Sarah grounded in categories, order, and defensible procedure.
-- [ ] Keep Grant grounded in narrow questions and replicable method.
-- [ ] Keep Ortiz grounded in observable scene facts and custody.
-- [ ] Keep Sharma grounded in terrain, soldiers, and local command.
-- [ ] Add role reminders for late-returning secondary characters and merge only roles with no distinct story function.
+- [x] Define Julie's physical-cause/proof-limit voice.
+- [x] Define Marcus's command/responsibility/access voice.
+- [x] Define Elias's mechanism/consent/identity voice.
+- [x] Define Sarah's category/order/procedure voice.
+- [x] Define Grant's narrow-question/replication voice.
+- [x] Define Ortiz's observable-scene/custody voice.
+- [x] Define Sharma's terrain/soldiers/local-command voice.
+- [x] Define role reminders and strict consolidation criteria.
+- [ ] Apply dialogue-only changes. **BLOCKED until specialist terminology and compression stabilize.**
 
-### Task 10: Strengthen Vance's institutional credibility
+### Task 10: Strengthen Vance's institutional credibility — DEFERRED
+
+- [x] Define the permitted addition: at most two brief references showing why competent officials valued Argus or Vance.
+- [x] Prohibit villain monologue, personal backstory, original-constructor proof, and Sterling-command proof.
+- [ ] Add the smallest approved passage. **DEFERRED until specialist corrections identify the safest early location and authentic terminology.**
+
+### Task 11: Complete line/copyedit and production proof — CONTROLS COMPLETE / EXECUTION BLOCKED
 
 **Files:**
-- Modify the smallest suitable early chapter passage.
-
-- [ ] Add no more than two brief references showing why competent officials considered Argus or Vance valuable before the crisis.
-- [ ] Do not add a villain monologue, personal backstory, original-constructor proof, or Sterling-command proof.
-
-### Task 11: Complete line/copyedit and production proof
-
-**Files:**
-- Modify accepted manuscript files.
 - Create: `books/book-01/control/56-copyedit-style-sheet.md`
 - Create: `books/book-01/control/57-production-proof-report.md`
+- Create: `tools/compile_book1_from_manifest.py`
 
-- [ ] Remove remaining repetitive AI cadence and excessive isolated beats.
-- [ ] Standardize ranks, agencies, time notation, serials, headings, system displays, punctuation, and spelling.
-- [ ] Generate Word, EPUB, PDF, and Markdown review outputs from the accepted inventory.
-- [ ] Verify print layout, EPUB reflow, headings, scene breaks, and final line.
-- [ ] Feed every production correction back into canonical source files before regenerating outputs.
+- [x] Create the full copyedit style sheet and proof-language rules.
+- [x] Create print, EPUB, Word, Markdown, checksum, layout, and device-proof gates.
+- [x] Create manifest-driven Markdown compiler with build-provenance sidecar.
+- [ ] Apply final line/copyedit to accepted prose. **BLOCKED by technical corrections and continuity pass.**
+- [ ] Generate final Word, EPUB, PDF, and Markdown production outputs. **BLOCKED by copyedit.**
+- [ ] Complete human print/device proof. **BLOCKED by outputs.**
 
-### Task 12: Final publication gate
+### Task 12: Final publication gate — STATUS CONTROL COMPLETE / APPROVAL BLOCKED
 
 **Files:**
 - Modify: `books/book-01/control/51-publication-readiness-status.md`
 - Modify: `README.md`
 
+- [x] Record completed infrastructure and active blockers.
+- [x] Confirm the immediate crisis and Julie's Book 1 arc resolve while the original constructor and Sterling's personal command remain open.
+- [x] Lock the final line in validator and control files.
 - [ ] Confirm all seven specialist areas have named dated dispositions.
 - [ ] Confirm all critical findings are fixed and material findings are fixed or intentionally accepted.
-- [ ] Confirm validators pass against the final manifest.
-- [ ] Confirm the immediate crisis and Julie's Book 1 arc are resolved while the original constructor and Sterling's personal command remain open.
-- [ ] Confirm the manuscript still ends with `The bubble stayed centered.`
+- [ ] Confirm validators pass against the post-correction final manifest.
 - [ ] Mark publication readiness only after copyedit and production proof are complete.
+
+## Current implementation verdict
+
+All work that can be completed honestly before external specialist findings has been implemented on `agent/book1-publication-readiness`. Remaining unchecked tasks are not deferred for convenience: they require evidence that does not yet exist—qualified external reviews—or depend sequentially on those reviews. The branch must remain a draft publication-readiness program, not a claim that the book is already publication approved.
