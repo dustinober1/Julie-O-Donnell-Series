@@ -1,62 +1,110 @@
 schema_version: 1.0.0
 sources:
-  - id: SRC-001
-    type: government-directive
-    title: "DoD Directive 3000.09, Autonomy in Weapon Systems"
-    location: "https://media.defense.gov/2023/Jan/25/2003149928/-1/-1/0/DOD-DIRECTIVE-3000.09-AUTONOMY-IN-WEAPON-SYSTEMS.PDF"
-    verified_on: "2026-07-17"
-    supports: ["autonomous-targeting-human-judgment"]
-    notes: "Official U.S. Department of Defense directive (originally Nov 2012; current update dated Jan 25, 2023). Requires autonomous and semi-autonomous weapon systems be designed so commanders and operators exercise appropriate levels of human judgment over the use of force, and mandates test, evaluation, validation, and verification before fielding. Supports the 'human validation as the final authorization gate before kinetic commitment' element."
-    reliability: primary
-    observed_on: "2023-01-25"
-    supports_research_ids: ["RES-001"]
-  - id: SRC-002
-    type: defense-analysis
-    title: "Principles for the Combat Employment of Weapon Systems with Autonomous Functionalities"
-    location: "https://www.cnas.org/publications/reports/proposed-dod-principles-for-the-combat-employment-of-weapon-systems-with-autonomous-functionalities"
-    verified_on: "2026-07-17"
-    supports: ["kill-chain-human-judgment"]
-    notes: "Center for a New American Security (CNAS) report by Robert Work (former Deputy Secretary of Defense). Articulates the detect-to-engage 'kill chain' and the principle that initiating or authorizing a sequence of actions that may result in lethal force is the sole province of human intent and judgment; characterizes human-in/on-the-loop control as discretionary rather than mandatory. Supports the validation choke point a human analyst holds."
-    reliability: high
-    observed_on: "2026-07-17"
-    supports_research_ids: ["RES-001"]
-  - id: SRC-003
-    type: official-news
-    title: "Project Maven to Deploy Computer Algorithms to War Zone by Year's End"
-    location: "https://www.defense.gov/News/News-Stories/Article/Article/1254719/project-maven-to-deploy-computer-algorithms-to-war-zone-by-years-end/"
-    verified_on: "2026-07-17"
-    supports: ["ai-confidence-cuing-human-analysts"]
-    notes: "Official U.S. Department of Defense news story on Project Maven (the Algorithmic Warfare Cross-Functional Team, stood up 2017), which applies computer-vision and AI to multi-source full-motion-video and imagery to flag candidate objects for human analyst review. Supports the pattern of automated, confidence-scored telemetry cueing human validation rather than replacing it."
-    reliability: high
-    observed_on: "2026-07-17"
-    supports_research_ids: ["RES-001"]
-  - id: SRC-004
-    type: clinical-reference
-    title: "DSM-5 Criteria for PTSD (U.S. Department of Veterans Affairs, National Center for PTSD)"
-    location: "https://www.ptsd.va.gov/professional/treat/essentials/dsm5_ptsd.asp"
-    verified_on: "2026-07-17"
-    supports: ["hypervigilance-diagnostic-criterion"]
-    notes: "VA National Center for PTSD professional reference enumerating DSM-5 PTSD criteria; lists hypervigilance and exaggerated startle under Criterion E (marked alterations in arousal and reactivity) as trauma-linked symptoms that emerge or worsen after the traumatic event. Supports hypervigilance as a clinically established post-trauma presentation."
-    reliability: high
-    observed_on: "2026-07-17"
-    supports_research_ids: ["RES-005"]
-  - id: SRC-005
-    type: clinical-practice-guideline
-    title: "VA/DoD Clinical Practice Guideline for the Management of Posttraumatic Stress Disorder and Acute Stress Disorder"
-    location: "https://www.healthquality.va.gov/guidelines/MH/ptsd/"
-    verified_on: "2026-07-17"
-    supports: ["veteran-hyperarousal-clinical-framing"]
-    notes: "Joint U.S. Department of Veterans Affairs and Department of Defense clinical practice guideline for PTSD and acute stress disorder. Describes arousal and reactivity symptom clusters (persistent vigilance, exaggerated startle, physiological stress registration, irritability) in service members and veterans. Supports the depiction of vigilance that is functional in analysis yet read as paranoia socially."
-    reliability: primary
-    observed_on: "2026-07-17"
-    supports_research_ids: ["RES-005"]
-  - id: SRC-006
-    type: peer-reviewed-study
-    title: "Heightened Attentional Capture by Threat in Veterans with PTSD"
-    location: "https://pmc.ncbi.nlm.nih.gov/articles/PMC4104529/"
-    verified_on: "2026-07-17"
-    supports: ["combat-veteran-threat-detection-bias"]
-    notes: "Peer-reviewed empirical study (Most, Chun, Widders and Zald, Journal of Abnormal Psychology, 2012;122(2):397-405; doi:10.1037/a0030440). Using an emotional attentional-blink task, shows veterans with PTSD display heightened automatic attentional capture by combat-related threat cues and prolonged difficulty disengaging, relative to trauma-exposed veterans without PTSD and nonveteran controls. Supports reflexive environmental threat assessment that is adaptive for analysis yet reads as paranoia socially."
-    reliability: high
-    observed_on: "2012-11-12"
-    supports_research_ids: ["RES-005"]
+- id: SRC-001
+  type: government-directive
+  title: DoD Directive 3000.09, Autonomy in Weapon Systems
+  location: https://media.defense.gov/2023/Jan/25/2003149928/-1/-1/0/DOD-DIRECTIVE-3000.09-AUTONOMY-IN-WEAPON-SYSTEMS.PDF
+  verified_on: '2026-07-17'
+  supports:
+  - autonomous-targeting-human-judgment
+  notes: Official U.S. Department of Defense directive (originally Nov 2012; current update dated Jan 25, 2023). Requires autonomous and semi-autonomous weapon systems be designed so commanders and operators exercise appropriate levels of human judgment over the use of force, and mandates test, evaluation, validation, and verification before fielding. Supports the 'human validation as the final authorization gate before kinetic commitment' element.
+  reliability: primary
+  observed_on: '2023-01-25'
+  supports_research_ids:
+  - RES-001
+- id: SRC-002
+  type: defense-analysis
+  title: Principles for the Combat Employment of Weapon Systems with Autonomous Functionalities
+  location: https://www.cnas.org/publications/reports/proposed-dod-principles-for-the-combat-employment-of-weapon-systems-with-autonomous-functionalities
+  verified_on: '2026-07-17'
+  supports:
+  - kill-chain-human-judgment
+  notes: Center for a New American Security (CNAS) report by Robert Work (former Deputy Secretary of Defense). Articulates the detect-to-engage 'kill chain' and the principle that initiating or authorizing a sequence of actions that may result in lethal force is the sole province of human intent and judgment; characterizes human-in/on-the-loop control as discretionary rather than mandatory. Supports the validation choke point a human analyst holds.
+  reliability: high
+  observed_on: '2026-07-17'
+  supports_research_ids:
+  - RES-001
+- id: SRC-003
+  type: official-news
+  title: Project Maven to Deploy Computer Algorithms to War Zone by Year's End
+  location: https://www.defense.gov/News/News-Stories/Article/Article/1254719/project-maven-to-deploy-computer-algorithms-to-war-zone-by-years-end/
+  verified_on: '2026-07-17'
+  supports:
+  - ai-confidence-cuing-human-analysts
+  notes: Official U.S. Department of Defense news story on Project Maven (the Algorithmic Warfare Cross-Functional Team, stood up 2017), which applies computer-vision and AI to multi-source full-motion-video and imagery to flag candidate objects for human analyst review. Supports the pattern of automated, confidence-scored telemetry cueing human validation rather than replacing it.
+  reliability: high
+  observed_on: '2026-07-17'
+  supports_research_ids:
+  - RES-001
+- id: SRC-004
+  type: clinical-reference
+  title: DSM-5 Criteria for PTSD (U.S. Department of Veterans Affairs, National Center for PTSD)
+  location: https://www.ptsd.va.gov/professional/treat/essentials/dsm5_ptsd.asp
+  verified_on: '2026-07-17'
+  supports:
+  - hypervigilance-diagnostic-criterion
+  notes: VA National Center for PTSD professional reference enumerating DSM-5 PTSD criteria; lists hypervigilance and exaggerated startle under Criterion E (marked alterations in arousal and reactivity) as trauma-linked symptoms that emerge or worsen after the traumatic event. Supports hypervigilance as a clinically established post-trauma presentation.
+  reliability: high
+  observed_on: '2026-07-17'
+  supports_research_ids:
+  - RES-005
+- id: SRC-005
+  type: clinical-practice-guideline
+  title: VA/DoD Clinical Practice Guideline for the Management of Posttraumatic Stress Disorder and Acute Stress Disorder
+  location: https://www.healthquality.va.gov/guidelines/MH/ptsd/
+  verified_on: '2026-07-17'
+  supports:
+  - veteran-hyperarousal-clinical-framing
+  notes: Joint U.S. Department of Veterans Affairs and Department of Defense clinical practice guideline for PTSD and acute stress disorder. Describes arousal and reactivity symptom clusters (persistent vigilance, exaggerated startle, physiological stress registration, irritability) in service members and veterans. Supports the depiction of vigilance that is functional in analysis yet read as paranoia socially.
+  reliability: primary
+  observed_on: '2026-07-17'
+  supports_research_ids:
+  - RES-005
+- id: SRC-006
+  type: peer-reviewed-study
+  title: Heightened Attentional Capture by Threat in Veterans with PTSD
+  location: https://pmc.ncbi.nlm.nih.gov/articles/PMC4104529/
+  verified_on: '2026-07-17'
+  supports:
+  - combat-veteran-threat-detection-bias
+  notes: Peer-reviewed empirical study (Most, Chun, Widders and Zald, Journal of Abnormal Psychology, 2012;122(2):397-405; doi:10.1037/a0030440). Using an emotional attentional-blink task, shows veterans with PTSD display heightened automatic attentional capture by combat-related threat cues and prolonged difficulty disengaging, relative to trauma-exposed veterans without PTSD and nonveteran controls. Supports reflexive environmental threat assessment that is adaptive for analysis yet reads as paranoia socially.
+  reliability: high
+  observed_on: '2012-11-12'
+  supports_research_ids:
+  - RES-005
+- id: SRC-007
+  type: government-reference
+  title: 'NIST CSRC Glossary: replay attack'
+  location: https://csrc.nist.gov/glossary/term/replay_attack
+  verified_on: '2025-08-15'
+  supports:
+  - replay-attack-definition
+  notes: 'NIST glossary definition of replay attack: capture of transmitted authentication or access-control information and later retransmission to produce an unauthorized effect. Grounds the core mechanism of reusing previously captured messages or telemetry artifacts rather than inventing wholly new signals.'
+  reliability: primary
+  observed_on: '2025-08-15'
+  supports_research_ids:
+  - RES-002
+- id: SRC-008
+  type: government-publication
+  title: A Survey of Physics-Based Attack Detection in Cyber-Physical Systems
+  location: https://www.nist.gov/publications/survey-physics-based-attack-detection-cyber-physical-systems
+  verified_on: '2025-08-15'
+  supports:
+  - false-sensor-reading-detection-cps
+  notes: NIST publication page for the ACM Computing Surveys article by Giraldo et al. (2018). The abstract states that security monitors model time-series sensor readings to identify anomalies and detect false sensor readings or false control commands. Supports the idea that replayed or injected telemetry can look valid enough that defenders must detect it through anomaly signatures rather than obvious corruption.
+  reliability: primary
+  observed_on: '2018-03-30'
+  supports_research_ids:
+  - RES-002
+- id: SRC-009
+  type: peer-reviewed-study
+  title: A Survey on Cyber-Physical Systems Security
+  location: https://ittc.ku.edu/~bluo/pubs/humayed2017.pdf
+  verified_on: '2025-08-15'
+  supports:
+  - replay-and-false-data-injection-cps
+  notes: Humayed et al. survey (IEEE Access, 2017) catalogs replay attacks, false-data-injection attacks, and sensor spoofing across cyber-physical systems, including cases where attackers tamper with sensed data or replay previously captured signals/commands. Supports the plausibility of a synthetic telemetry injection being constructed from clean, previously valid-looking signal patterns.
+  reliability: high
+  observed_on: '2025-08-15'
+  supports_research_ids:
+  - RES-002
