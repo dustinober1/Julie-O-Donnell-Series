@@ -3,7 +3,7 @@
 **Manuscript:** *Veridrift*  
 **Canonical inventory:** `../ACCEPTED_MANUSCRIPT.yaml`  
 **External-review state:** No named external specialist finding has yet been received.  
-**Internal desk-review state:** Public-source review completed 2026-07-18; see `58-internet-research-desk-review.md`.
+**Internal desk-review state:** Public-source review completed and continuity-validated on 2026-07-18; see `58-internet-research-desk-review.md`.
 
 ## External finding register
 
@@ -17,13 +17,22 @@ These entries are internal editorial findings. They do not satisfy the named-rev
 
 | ID | Area | Source basis | Chapter / passage | Severity | Finding | Correction | Decision | Status |
 |---|---|---|---|---|---|---|---|---|
-| DR-01 | Military targeting / UAS / JAG | USAF AFDP 3-60; USAF MQ-9 fact sheet | Prologue, emergency strike-channel transmission | Material | “Transmitted the order” overstates Julie’s engagement authority while the later inquiry correctly calls it an abort recommendation. | Change to “transmitted the formal abort recommendation.” | ACCEPT-MODIFIED | Applied; automated verification pending |
-| DR-02 | PKI / hardware token / digital forensics | NIST SP 800-63B; RFC 5280 | Chapter 2, APX-DIR-0019 mirror | Material | A non-exportable private-key act and fresh biometric activation cannot be established by replaying identity metadata; the existing line conflicts with Chapter 17’s counter evidence. | Replace biometric-token replay with identity/public-certificate mirroring and a server-side confirmation assertion; state that no live finger or physical private-key act was reproduced. | ACCEPT | Applied; automated verification pending |
-| DR-03 | Federal investigation / custody / legal process | Fed. R. Crim. P. 5; D.C. Courts arrest/no-paper guidance; U.S. Courts pretrial guidance | Chapter 24, release authority | Material | A federal magistrate is assigned release authority over MPD custody after no federal detainer and no filed charge. | Use written MPD release authorization after federal/local prosecutorial consultation and counsel preservation undertakings. | ACCEPT-MODIFIED | Applied; automated verification pending |
-| DR-04 | SIGINT / ELINT / source provenance | NIST provenance and research-data framework | Prologue; Chapters 1–2, 8, 10, 18 | Retain | The distinction among originals, transformations, labels, derived products, and proof limits is conceptually sound; classified implementation remains unverifiable publicly. | None. | RETAIN | Closed at desk-review ceiling |
-| DR-05 | Secure facility / fire / suppression | OSHA egress and fixed-suppression guidance; NIST clean-agent research | Chapters 2–3, 5–9 | Retain with limitation | Hardwired fire egress and hazardous total flooding are plausible; disabled occupied-room abort must remain clearly malicious, not normal design. | None. | RETAIN | Closed at desk-review ceiling |
-| DR-06 | Indian Army / artillery / South Asia | Government of India Ministry of Defence / PIB releases | Chapters 2, 4–5, 8, 18, 23 | Retain with limitation | Public sources support surveillance fusion, LC readiness, artillery capability, and escalation awareness, but not the fictional bilateral pilot or exact command chain. | None. | RETAIN | Closed at desk-review ceiling |
-| DR-07 | Trauma medicine / injury continuity | CDC mild-TBI guidance; NCBI rib-fracture guidance | Chapters 6–17, 24 | Retain | Capability limits, oxygen concern, imaging, monitoring, and driving/lifting prohibitions are proportionate to the injuries shown. | None. | RETAIN | Closed at desk-review ceiling |
+| DR-01 | Military targeting / UAS / JAG | USAF AFDP 3-60; USAF MQ-9 fact sheet | Prologue, emergency strike-channel transmission | Material | “Transmitted the order” overstates Julie’s engagement authority while the later inquiry correctly calls it an abort recommendation. | Changed to “transmitted the formal abort recommendation.” | ACCEPT-MODIFIED | CLOSED / VERIFIED |
+| DR-02 | PKI / hardware token / digital forensics | NIST SP 800-63B; RFC 5280 | Chapter 2, APX-DIR-0019 mirror | Material | A non-exportable private-key act and fresh biometric activation cannot be established by replaying identity metadata; the prior line conflicted with Chapter 17’s counter evidence. | Replaced biometric-token replay with identity/public-certificate mirroring and a server-side confirmation assertion; stated that no live finger or physical private-key act was reproduced. | ACCEPT | CLOSED / VERIFIED |
+| DR-03 | Federal investigation / custody / legal process | Fed. R. Crim. P. 5; D.C. Courts arrest/no-paper guidance; U.S. Courts pretrial guidance | Chapter 24, release authority | Material | A federal magistrate was assigned release authority over MPD custody after no federal detainer and no filed charge. | Replaced with written MPD release authorization after federal/local prosecutorial consultation and counsel preservation undertakings. | ACCEPT-MODIFIED | CLOSED / VERIFIED |
+| DR-04 | SIGINT / ELINT / source provenance | NIST provenance and research-data framework | Prologue; Chapters 1–2, 8, 10, 18 | Retain | The distinction among originals, transformations, labels, derived products, and proof limits is conceptually sound; classified implementation remains unverifiable publicly. | None. | RETAIN | CLOSED AT DESK-REVIEW CEILING |
+| DR-05 | Secure facility / fire / suppression | OSHA egress and fixed-suppression guidance; NIST clean-agent research | Chapters 2–3, 5–9 | Retain with limitation | Hardwired fire egress and hazardous total flooding are plausible; disabled occupied-room abort remains clearly malicious, not normal design. | None. | RETAIN | CLOSED AT DESK-REVIEW CEILING |
+| DR-06 | Indian Army / artillery / South Asia | Government of India Ministry of Defence / PIB releases | Chapters 2, 4–5, 8, 18, 23 | Retain with limitation | Public sources support surveillance fusion, LC readiness, artillery capability, and escalation awareness, but not the fictional bilateral pilot or exact command chain. | None. | RETAIN | CLOSED AT DESK-REVIEW CEILING |
+| DR-07 | Trauma medicine / injury continuity | CDC mild-TBI guidance; NCBI rib-fracture guidance | Chapters 6–17, 24 | Retain | Capability limits, oxygen concern, imaging, monitoring, and driving/lifting prohibitions are proportionate to the injuries shown. | None. | RETAIN | CLOSED AT DESK-REVIEW CEILING |
+
+## Verification record
+
+- Accepted total: **105,144 words**.
+- Manifest titles, headings, per-file counts, and SHA-256 values validated.
+- Publication-readiness unit-test suite passed.
+- Accepted-manuscript compiler passed.
+- Final line verified: **The bubble stayed centered.**
+- Durable GitHub workflows passed on PR #79.
 
 ## Severity
 
