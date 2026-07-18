@@ -2,10 +2,10 @@
 
 Generated from the accepted-manuscript inventory on the current branch.
 
-- Accepted words: **98,170**
-- Prose paragraphs: **8,322**
-- One-sentence paragraphs: **5,979**
-- Paragraphs of seven words or fewer: **4,378**
+- Accepted words: **100,726**
+- Prose paragraphs: **8,417**
+- One-sentence paragraphs: **6,017**
+- Paragraphs of seven words or fewer: **4,392**
 - Isolated `Not`/`No` fragments: **82**
 - Explicit proof/limitation constructions: **10**
 
@@ -26,16 +26,16 @@ Generated from the accepted-manuscript inventory on the current branch.
 | chapter-12.md | 5,614 | 561 | 397 | 296 | 4 | 0 |
 | chapter-13.md | 6,177 | 700 | 583 | 437 | 13 | 1 |
 | chapter-14.md | 5,763 | 492 | 347 | 263 | 8 | 2 |
-| chapter-15.md | 1,988 | 114 | 50 | 39 | 0 | 0 |
-| chapter-16.md | 1,740 | 95 | 54 | 27 | 0 | 0 |
-| chapter-17.md | 2,149 | 121 | 70 | 38 | 2 | 0 |
-| chapter-18.md | 2,288 | 140 | 85 | 50 | 0 | 0 |
-| chapter-19.md | 1,980 | 139 | 94 | 50 | 0 | 0 |
+| chapter-15.md | 2,293 | 122 | 50 | 39 | 0 | 0 |
+| chapter-16.md | 2,175 | 120 | 68 | 33 | 0 | 0 |
+| chapter-17.md | 2,320 | 126 | 71 | 39 | 2 | 0 |
+| chapter-18.md | 2,498 | 143 | 85 | 50 | 0 | 0 |
+| chapter-19.md | 2,488 | 162 | 107 | 54 | 0 | 0 |
 | chapter-20.md | 2,024 | 123 | 80 | 43 | 3 | 0 |
-| chapter-21.md | 1,933 | 120 | 82 | 48 | 5 | 0 |
-| chapter-22.md | 2,002 | 120 | 75 | 37 | 0 | 0 |
-| chapter-23.md | 2,344 | 126 | 73 | 38 | 0 | 0 |
-| chapter-24.md | 2,515 | 167 | 111 | 69 | 0 | 0 |
+| chapter-21.md | 2,168 | 128 | 83 | 48 | 5 | 0 |
+| chapter-22.md | 2,325 | 133 | 81 | 38 | 0 | 0 |
+| chapter-23.md | 2,491 | 131 | 75 | 40 | 0 | 0 |
+| chapter-24.md | 2,737 | 172 | 112 | 69 | 0 | 0 |
 
 ## Revision target
 
