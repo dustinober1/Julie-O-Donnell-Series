@@ -1,0 +1,44 @@
+name: Book 1 One-Sentence Audit
+
+on:
+  push:
+    branches: [agent/book1-rhythm-repair]
+
+permissions:
+  contents: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: agent/book1-rhythm-repair
+          fetch-depth: 0
+
+      - name: Generate one-sentence paragraph audit
+        run: python3 tools/audit_book1_one_sentence_paragraphs.py
+
+      - name: Compile audit tool
+        run: python3 -m py_compile tools/audit_book1_one_sentence_paragraphs.py
+
+      - name: Confirm manuscript validation remains green
+        run: |
+          python3 tools/count_book1_words.py --expect 105081
+          python3 tools/validate_book1_publication_readiness.py
+          python3 tools/verify_book1_revision.py
+
+      - name: Diff hygiene
+        run: git diff --check
+
+      - name: Commit audit report
+        run: |
+          if git diff --quiet; then
+            echo "Audit report already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add artifacts/book1-one-sentence-paragraph-audit.md
+          git commit -m "audit: record Book 1 one-sentence paragraph findings [skip ci]"
+          git push origin HEAD:agent/book1-rhythm-repair
