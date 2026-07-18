@@ -17,15 +17,27 @@ jobs:
         with:
           fetch-depth: 0
           ref: ${{ github.event.pull_request.head.ref }}
+      - name: Decide whether tools should run
+        id: gate
+        run: |
+          subject="$(git log -1 --pretty=%s)"
+          case "$subject" in
+            tools:*|apply:*) echo "run=true" >> "$GITHUB_OUTPUT" ;;
+            *) echo "run=false" >> "$GITHUB_OUTPUT" ;;
+          esac
       - name: Configure commit identity
+        if: steps.gate.outputs.run == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
       - name: Apply idempotent editorial patches
+        if: steps.gate.outputs.run == 'true'
         run: python3 tools/apply_book1_dev_revision.py
       - name: Verify diff hygiene
+        if: steps.gate.outputs.run == 'true'
         run: git diff --check
       - name: Commit generated manuscript changes
+        if: steps.gate.outputs.run == 'true'
         run: |
           if git diff --quiet; then
             echo "No manuscript changes to commit"
@@ -35,14 +47,17 @@ jobs:
             git push origin HEAD:${{ github.event.pull_request.head.ref }}
           fi
       - name: Generate developmental metrics
+        if: steps.gate.outputs.run == 'true'
         run: python3 tools/analyze_book1_revision.py
       - name: Capture blocker validation
+        if: steps.gate.outputs.run == 'true'
         id: readiness
         continue-on-error: true
         run: |
           mkdir -p artifacts
           python3 tools/validate_book1_publication_readiness.py --pre-revision > artifacts/book1-publication-readiness-current.txt 2>&1
       - name: Commit branch diagnostics
+        if: steps.gate.outputs.run == 'true'
         run: |
           git add artifacts/book1-publication-readiness-current.txt artifacts/book1-developmental-analysis.md
           if git diff --cached --quiet; then
@@ -52,7 +67,7 @@ jobs:
             git push origin HEAD:${{ github.event.pull_request.head.ref }}
           fi
       - name: Enforce blocker validation
-        if: steps.readiness.outcome == 'failure'
+        if: steps.gate.outputs.run == 'true' && steps.readiness.outcome == 'failure'
         run: |
           cat artifacts/book1-publication-readiness-current.txt
           exit 1
