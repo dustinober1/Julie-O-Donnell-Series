@@ -25,7 +25,7 @@ No human gate or integrity blocker is stopping the recommended next step.
 - Next gate: none
 - Manuscript words: 3177
 - Blocking tickets/conflicts: 0
-- Warnings: 2
+- Warnings: 1
 
 ## Blockers
 
@@ -34,13 +34,12 @@ No human gate or integrity blocker is stopping the recommended next step.
 ## Warnings
 
 - This project records older Novel Forge 1.4.1; upgrade metadata to 1.4.2.
-- 2 uncommitted file(s) exist.
 
 ## Recent files
 
 - books/book-01/research-ledger.yaml
 - research/source-register.yaml
-- books/book-01/audio/01-the-farm.wav
 - HANDOFF.md
 - STATUS.md
+- books/book-01/audio/01-the-farm.wav
 - PROJECT.yaml

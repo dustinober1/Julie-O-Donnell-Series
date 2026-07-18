@@ -108,3 +108,87 @@ sources:
   observed_on: '2025-08-15'
   supports_research_ids:
   - RES-002
+- id: SRC-010
+  type: government-guidance
+  title: UFC 4-010-05 SCIF/SAPF Planning, Design, and Construction
+  location: https://www.wbdg.org/FFC/DOD/UFC/ufc_4_010_05_2023.pdf
+  verified_on: '2025-08-15'
+  supports:
+  - scif-emergency-exit-monitoring-life-safety
+  notes: Unified Facilities Criteria for SCIF/SAPF design. Publicly states that emergency exit doors must be alarmed 24/7 with local annunciation, recommends delayed egress where code-compliant, and requires monitoring of emergency exit doors 24 hours a day. Also sets ACS expectations for card reader plus keypad at primary entrances. Supports the real access-control and emergency-exit constraints behind Julie's detention and escape mechanic.
+  reliability: primary
+  observed_on: '2023-05-26'
+  supports_research_ids:
+  - RES-004
+- id: SRC-011
+  type: government-guidance
+  title: UFC 4-021-02 Electronic Security Systems
+  location: https://www.wbdg.org/FFC/DOD/UFC/ufc_4_021_02_2025.pdf
+  verified_on: '2025-08-15'
+  supports:
+  - acs-logs-door-monitoring-free-egress
+  notes: Unified Facilities Criteria for DoD electronic security systems. States that access control systems log and archive transactions and events, alert on unauthorized entry attempts, forced entries, and door-held-open events, and monitor door position for access-controlled and emergency-exit doors. It also states free egress must be maintained and that designers must balance security with life-safety and fire-alarm interface requirements. Supports the procedural reality that emergency conditions and access control are tightly coupled rather than cinematic magic.
+  reliability: primary
+  observed_on: '2025-07-28'
+  supports_research_ids:
+  - RES-004
+- id: SRC-012
+  type: government-report
+  title: 'GAO-17-506, Whistleblower Protection: Opportunities Exist for DOD to Improve the Timeliness and Quality of Civilian and Contractor Reprisal Investigations'
+  location: https://www.gao.gov/assets/gao-17-506.pdf
+  verified_on: '2025-08-15'
+  supports:
+  - dod-reprisal-investigation-delays
+  notes: GAO report finding major delays and quality concerns in DOD civilian and contractor reprisal investigations. The report states DODIG missed timeliness goals in more than 83 percent of closed investigations during fiscal years 2013-2015. Supports the institutional reality that protected disclosure can become a slow, punishing process rather than a clean corrective channel.
+  reliability: primary
+  observed_on: '2025-08-15'
+  supports_research_ids:
+  - RES-006
+- id: SRC-013
+  type: government-report
+  title: 'Whistleblower Protection: Analysis of DOD''s Actions to Improve Case Timeliness and Safeguard Confidentiality'
+  location: https://www.gao.gov/products/gao-19-198
+  verified_on: '2025-08-15'
+  supports:
+  - dod-whistleblower-confidentiality-gaps
+  notes: GAO review finding that DOD inspector general offices met some but not all timeliness goals, that about 85 percent of DODIG reprisal and senior-official-misconduct investigations exceeded timeliness goals, and that employees had access to sensitive whistleblower information without a need to know. Supports the pattern that institutional handling can itself expose and isolate the reporter.
+  reliability: primary
+  observed_on: '2025-08-15'
+  supports_research_ids:
+  - RES-006
+- id: SRC-014
+  type: government-investigative-summary
+  title: Findings of Whistleblower Retaliation by Army and Contractor Jacobs Technologies Management Officials
+  location: https://oig.hhs.gov/fraud/whistleblower/whistleblower-retaliation-investigation/findings-of-whistleblower-retaliation-army-jacob-tech/
+  verified_on: '2025-08-15'
+  supports:
+  - contractor-whistleblower-retaliation-case
+  notes: HHS OIG investigative summary involving a Jacobs Technologies contractor employee working at DoD who was terminated after reporting possible security breaches. OIG found retaliation occurred and recommended remedies and additional whistleblower training. Supports the concrete risk that disclosure inside a defense-adjacent program can trigger personnel retaliation rather than correction.
+  reliability: primary
+  observed_on: '2025-08-15'
+  supports_research_ids:
+  - RES-006
+- id: SRC-015
+  type: congressional-analysis
+  title: DOD Cost Overruns and The Nunn-McCurdy Act
+  location: https://www.congress.gov/crs_external_products/IF/PDF/IF13027/IF13027.1.pdf
+  verified_on: '2025-08-15'
+  supports:
+  - critical-breach-national-security-certification
+  notes: CRS summary of the Nunn-McCurdy framework. States that a critical breach occurs at 25 percent cost growth over the current baseline or 50 percent over the original baseline, and that DOD must either certify within 60 days that continuation is essential to national security and provide root-cause analysis or notify Congress of program termination. Supports the real institutional pressure around admitting serious program flaws.
+  reliability: high
+  observed_on: '2025-06-12'
+  supports_research_ids:
+  - RES-003
+- id: SRC-016
+  type: official-news
+  title: DOD Releases First Defense Industrial Strategy
+  location: https://www.defense.gov/News/News-Stories/Article/Article/3644527/dod-releases-first-defense-industrial-strategy/
+  verified_on: '2025-08-15'
+  supports:
+  - defense-industrial-base-workforce-and-resilience-pressure
+  notes: Official Defense Department release describing the 2024 National Defense Industrial Strategy. It emphasizes resilient supply chains, workforce readiness, flexible acquisition, and economic deterrence, and frames the defense industrial base as a national-security priority requiring public-private investment and continuity. Supports the logic that a critical flaw can carry workforce, supply-chain, and institutional-survival pressure beyond pure technical merit.
+  reliability: high
+  observed_on: '2024-01-11'
+  supports_research_ids:
+  - RES-003

@@ -78,7 +78,7 @@ items:
   status: ready
 - id: RES-003
   lane: story-world
-  claim: Major Pentagon defense contracts face renewal deadlines where disclosure of a critical system flaw threatens both the contract value and sustained employment at scale.
+  claim: Major defense acquisition and industrial-base programs can face continuation, funding, and workforce pressure when a critical system flaw threatens program certification, schedule, or confidence in the supplier base.
   fictionalization:
     status: composite
     reason: The $6B Apex contract is fictional but composites real defense-procurement renewal pressure and political oversight dynamics.
@@ -97,23 +97,25 @@ items:
     - 14
     - 17
     decision_affected: Motivates Vance's suppression and gives the opposition a legible positive case beyond villainy.
-  notes: Planned; no sources registered yet. Requires verification of real major defense contract renewal mechanics.
-  source_ids: []
+  notes: Ready; verified against registered sources SRC-015 (CRS summary of the Nunn-McCurdy critical-breach certification or termination framework) and SRC-016 (DoD Defense Industrial Strategy on industrial-base resilience, workforce readiness, and economic deterrence). Grounds the institutional logic that disclosure of a serious flaw can threaten continuation, executive visibility, and workforce pressure. The exact $6B Friday renewal clock remains thriller compression, so confidence stays low.
+  source_ids:
+  - SRC-015
+  - SRC-016
   confidence: low
-  verified_on: null
+  verified_on: '2025-08-15'
   risk:
   - Misrepresenting defense-procurement timelines
   - Overstating political leverage in contract renewal
   dramatic_uses:
   - obstacle
   - moral-choice
-  status: planned
+  status: ready
 - id: RES-004
   lane: story-world
-  claim: SCIFs log all access, restrict egress, and rely on environmental emergency protocols such as fire suppression and evacuation that can be triggered independently of security systems.
+  claim: SCIFs log and archive access events, restrict ingress and egress, and must preserve monitored emergency-exit and life-safety behavior alongside security controls.
   fictionalization:
     status: simplified
-    reason: SCIF protocols are simplified for narrative clarity while preserving the core constraints of access logging, egress restriction, and environmental emergency independence.
+    reason: SCIF protocols are simplified for narrative clarity while preserving the core constraints of logged access, restricted egress, emergency-exit monitoring, and life-safety coordination. Julie's fire-alarm exploit is a bounded narrative extrapolation rather than a documentary claim.
   knowledge_scope:
     known_by:
     - Julie (protocol behavior)
@@ -127,17 +129,19 @@ items:
     - 10
     - 11
     decision_affected: Enables Julie's SCIF detention and her fire-alarm escape mechanic.
-  notes: Planned; no sources registered yet. Requires verification of real SCIF physical security and environmental emergency protocols.
-  source_ids: []
-  confidence: low
-  verified_on: null
+  notes: 'Ready; verified against registered sources SRC-010 (UFC 4-010-05: emergency exit doors alarmed 24/7 with local annunciation, delayed-egress recommendation, and emergency-exit monitoring) and SRC-011 (UFC 4-021-02: ACS logs and archives events, monitors door positions including emergency exits, preserves free egress, and must be coordinated with life-safety and fire-alarm interface requirements). Grounds the detention/access-control reality and the fact that an emergency condition can interact with security in a one-time exploitable way. The exact fire-alarm escape remains a simplified thriller extrapolation, so confidence is medium.'
+  source_ids:
+  - SRC-010
+  - SRC-011
+  confidence: medium
+  verified_on: '2025-08-15'
   risk:
   - Inaccurate SCIF egress and environmental protocol behavior
   - Implausible fire-alarm escape mechanic
   dramatic_uses:
   - procedural-constraint
   - obstacle
-  status: planned
+  status: ready
 - id: RES-005
   lane: human-authenticity
   claim: Former intelligence officers with past operational trauma exhibit hypervigilance that manifests as environmental scanning, physiological stress registration, and reflexive threat assessment — functional in analysis, read as paranoia socially.
@@ -173,7 +177,7 @@ items:
   status: ready
 - id: RES-006
   lane: human-authenticity
-  claim: 'Defense-contracting institutions under threat exhibit self-protective patterns: isolating whistleblowers, reframing disclosure as administrative violation, and absorbing individual failures as rogue action to preserve architecture.'
+  claim: Defense and defense-adjacent institutions under threat can expose whistleblowers to retaliation, confidentiality failures, delayed handling, and need-to-know breakdowns that turn protected disclosure into personal risk.
   fictionalization:
     status: composite
     reason: Composites observed institutional self-protection patterns across defense and corporate contexts.
@@ -194,10 +198,13 @@ items:
     - 17
     - 18
     decision_affected: Grounds Vance's and Sterling's behavior and the ending where the system consumes Vance to survive.
-  notes: Planned; no sources registered yet. Requires verification of institutional self-protection patterns in defense contracting.
-  source_ids: []
-  confidence: low
-  verified_on: null
+  notes: 'Ready; verified against registered sources SRC-012 (GAO-17-506: major timeliness and quality failures in DOD civilian and contractor reprisal investigations), SRC-013 (GAO-19-198: confidentiality gaps and excessive access to sensitive whistleblower information without a need to know), and SRC-014 (HHS OIG Jacobs Technologies case: contractor employee terminated after reporting possible security breaches). Grounds the pattern that reporting a problem inside a defense-adjacent institution can isolate the reporter and convert disclosure into administrative and personal exposure. The Sterling/Vance endgame of sacrificing one actor to preserve the broader architecture remains a composite dramatic extension, so confidence is medium rather than high.'
+  source_ids:
+  - SRC-012
+  - SRC-013
+  - SRC-014
+  confidence: medium
+  verified_on: '2025-08-15'
   risk:
   - Caricaturing institutional behavior
   - Overgeneralizing from limited examples
@@ -205,7 +212,7 @@ items:
   - obstacle
   - false-assumption
   - moral-choice
-  status: planned
+  status: ready
 - id: RES-007
   lane: taste-and-voice
   claim: The established voice profile — close-third defensive observation, institutional language as pressure, procedural density that sharpens rather than pauses — delivers this book's intended dread.

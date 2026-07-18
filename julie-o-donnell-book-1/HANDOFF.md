@@ -5,7 +5,7 @@
 - Profile: thriller
 - Stage: drafting
 - Git reference: main @ HEAD
-- Project state hash: 2e47b3cfb817a84d73536a9ec4ccc5ef33a2a6e86ed88d645d32d531207dad36
+- Project state hash: 6e8956a5e9e7e34015313b4aaddf318c9941d61b47f8b3d9e629d808e1a9187f
 - Last completed action: research-update
 - Active gate or blocker: none
 - Current chapter: 1
