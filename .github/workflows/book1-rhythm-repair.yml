@@ -1,0 +1,56 @@
+name: Book 1 Rhythm Repair
+
+on:
+  push:
+    branches: [agent/book1-rhythm-repair]
+
+permissions:
+  contents: write
+
+jobs:
+  repair-and-verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: agent/book1-rhythm-repair
+          fetch-depth: 0
+
+      - name: Apply content-safe publication-rhythm pass
+        run: python3 tools/reflow_book1_publication_rhythm.py
+
+      - name: Recompile accepted Book 1 manuscript
+        run: python3 tools/compile_book1_accepted.py
+
+      - name: Regenerate developmental metrics
+        run: python3 tools/analyze_book1_revision.py
+
+      - name: Verify revised accepted inventory
+        run: python3 tools/verify_book1_revision.py
+
+      - name: Run publication-readiness checks
+        run: python3 tools/validate_book1_publication_readiness.py
+
+      - name: Confirm accepted word count
+        run: python3 tools/count_book1_words.py --expect 105081
+
+      - name: Compile validation tools
+        run: python3 -m py_compile tools/reflow_book1_publication_rhythm.py tools/compile_book1_accepted.py tools/analyze_book1_revision.py tools/verify_book1_revision.py tools/validate_book1_publication_readiness.py
+
+      - name: Parse synchronized YAML controls
+        run: ruby -e "require 'yaml'; YAML.load_file('PROJECT_STATE.yaml'); YAML.load_file('books/book-01/ACCEPTED_MANUSCRIPT.yaml')"
+
+      - name: Diff hygiene
+        run: git diff --check
+
+      - name: Commit completed rhythm pass
+        run: |
+          if git diff --quiet; then
+            echo "No manuscript changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "edit: complete Book 1 publication rhythm pass [skip ci]"
+          git push origin HEAD:agent/book1-rhythm-repair
