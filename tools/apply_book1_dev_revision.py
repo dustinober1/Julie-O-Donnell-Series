@@ -29,6 +29,12 @@ def replace_idempotent(text: str, old: str, new: str, label: str) -> str:
 
 def normalize_manuscript(text: str) -> str:
     text = re.sub(r"(?m)^# Chapter (\d+) - ", r"# Chapter \1 — ", text)
+    text = re.sub(
+        r"\A(\d{2}:\d{2}:\d{2} (?:EDT|EST) / \d{2}:\d{2}:\d{2} IST)\n\n"
+        r"(# Chapter \d+ — [^\n]+)\n\n",
+        r"\2\n\n\1\n\n",
+        text,
+    )
     for old, new in META_REPLACEMENTS.items():
         text = text.replace(old, new)
     text = text.replace("`", "")
