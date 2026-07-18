@@ -1,3 +1,4 @@
+# One-shot, idempotent correction runner for the public-source desk review.
 name: Apply Book 1 Internet Research Corrections
 
 on:
