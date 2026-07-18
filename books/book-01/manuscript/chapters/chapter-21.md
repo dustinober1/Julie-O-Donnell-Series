@@ -1,6 +1,6 @@
 11:26:32 EDT / 20:56:32 IST
 
-# Chapter 21 - The Borrowed Name
+# Chapter 21 — The Borrowed Name
 
 Secure MPD Evidence Intake
 Washington, D.C.
@@ -19,7 +19,7 @@ Counsel’s expression did not change. “The office has acknowledged a continui
 
 “That is Kessler’s act. I’m asking for the initiating act.”
 
-General Hackett remained on the authenticated military channel. Miriam Alvarez occupied the DCIS pane beside him, with Special Agent Leila Grant at a fixed terminal in the adjacent incident-control position. Ortiz stood at the locked common chest. Park kept the camera-continuity log open on a separate screen. The seven MPD packages remained where the previous receiving act had left them—sealed, offline, stationary, and separate. Legislative Secure Services still held `SSO-NS-004` closed and unused under Martin Vann, deputy authority Marisol Vega, and seal `LSS-SL-90418`. Marcus remained in guarded medical care on four liters of oxygen at ninety-two to ninety-three percent saturation. Elias remained in separate guarded medical custody. Neither man had been contacted for the production, and neither had performed a technical act.
+General Hackett remained on the authenticated military channel. Miriam Alvarez occupied the DCIS pane beside him, with Special Agent Leila Grant at a fixed terminal in the adjacent incident-control position. Ortiz stood at the locked common chest. Park kept the camera-continuity log open on a separate screen. The seven MPD packages remained where the previous receiving act had left them—sealed, offline, stationary, and separate. Legislative Secure Services still held SSO-NS-004 closed and unused under Martin Vann, deputy authority Marisol Vega, and seal LSS-SL-90418. Marcus remained in guarded medical care on four liters of oxygen at ninety-two to ninety-three percent saturation. Elias remained in separate guarded medical custody. Neither man had been contacted for the production, and neither had performed a technical act.
 
 Alvarez addressed the office custodian rather than counsel. “Can your source system produce a narrow index identifying the initiating record, its creation time, apparent requestor, inherited request reference, and custody state without producing deliberative content?”
 
@@ -35,7 +35,7 @@ Counsel intervened. “That does not waive privilege, speech-or-debate protectio
 
 The distinction cost another four minutes. Counsel preserved objections to federal scope, source identification, and the danger of allowing a preliminary inquiry to turn an internal continuity process into an accusation against a legislative office. Alvarez preserved the fact that the office had already named Kessler’s authorization and could not make the initiating material disappear by calling its identity protected. Neither side pretended the disagreement had been resolved.
 
-At 11:31:46, the records custodian created `SO-CD-187463-02`, a source-limited derivative from the office original. She stated her name, authority, the source system, and the office clock basis. She identified the fields produced, the categories withheld, the integrity method, the derivative seal, and the fact that the original would remain under office custody and legal hold.
+At 11:31:46, the records custodian created SO-CD-187463-02, a source-limited derivative from the office original. She stated her name, authority, the source system, and the office clock basis. She identified the fields produced, the categories withheld, the integrity method, the derivative seal, and the fact that the original would remain under office custody and legal hold.
 
 Grant did not import the file into a composite record. She opened the derivative in its own read-only pane.
 
@@ -46,7 +46,7 @@ APPARENT REQUESTOR: PRICE, LELAND / DIA SYSTEMS AUDIT
 INHERITED REQUEST REFERENCE: DIA-SAR-PRICE-01
 AUTHORIZATION RECIPIENT: KESSLER, DIANE
 
-Below those fields, the derivative listed withheld narrative, protected source description, and unrelated office communications. It also listed the operational fields the office had agreed were part of the request’s routing structure: `SSO-NS-004`, `WSS-4`, Hartwell, `K17-PHASE-B`, and a source-reconstruction continuity category.
+Below those fields, the derivative listed withheld narrative, protected source description, and unrelated office communications. It also listed the operational fields the office had agreed were part of the request’s routing structure: SSO-NS-004, WSS-4, Hartwell, K17-PHASE-B, and a source-reconstruction continuity category.
 
 No message body appeared.
 
@@ -258,7 +258,7 @@ The access-review original supplied the end of his active authority.
 
 The office original supplied the later construction and the fields it had inherited or added.
 
-The first match was exact: `DIA-SAR-PRICE-01`.
+The first match was exact: DIA-SAR-PRICE-01.
 
 The second was Price’s identity string.
 
@@ -270,7 +270,7 @@ Grant placed the office transformation beside the DIA original without combining
 
 The differences were larger.
 
-DIA-SAR-PRICE-01 requested preservation and read-only source review. SO-NS-REQ-6540 converted that reference into an `NSB-EMERGENCY` continuity path. It added the signer asset, WSS-4, Hartwell, K17-PHASE-B, and the source-reconstruction category. The office transformation field identified those entries as continuity-routing additions, not terms present in Price’s original.
+DIA-SAR-PRICE-01 requested preservation and read-only source review. SO-NS-REQ-6540 converted that reference into an NSB-EMERGENCY continuity path. It added the signer asset, WSS-4, Hartwell, K17-PHASE-B, and the source-reconstruction category. The office transformation field identified those entries as continuity-routing additions, not terms present in Price’s original.
 
 Hackett read the list and said, “Someone expanded his request.”
 
@@ -387,4 +387,4 @@ At 12:18:04 EDT / 21:48:04 IST, Alvarez sealed the comparison finding and the fo
 
 The next proof question was no longer whether Leland Price had issued the continuity request.
 
-It was who constructed and submitted the `NSB-EMERGENCY` continuity request after Price’s authority ended—and whether that construction path connected the false identity placed on Elias’s original deployment to the successful remote Argus reconstruction.
+It was who constructed and submitted the NSB-EMERGENCY continuity request after Price’s authority ended—and whether that construction path connected the false identity placed on Elias’s original deployment to the successful remote Argus reconstruction.

@@ -1,6 +1,6 @@
 13:12:44 EDT / 22:42:44 IST
 
-# Chapter 23 - The Official Correction
+# Chapter 23 — The Official Correction
 
 Secure MPD Evidence Intake
 Washington, D.C.
@@ -11,11 +11,11 @@ Julie read it from the wall display while Leila Grant stood at the incident-cont
 
 It could survive classification review because it barely survived meaning.
 
-Julie remained in the same restraint geometry in which Chapter 22 had ended. Her left wrist was fixed at the front rail. Her right forearm lay inside the padded brace, swollen enough that the edge pressed against the skin whenever she shifted. The hand could not close around a pen, a cup, or the page Alvarez had placed beyond her reach. Through reinforced glass, the locked common chest remained beneath two MPD cameras. The seven package indicators, `MPD-901441` through `MPD-901447`, showed green without movement.
+Julie remained in the same restraint geometry preserved after the release comparison. Her left wrist was fixed at the front rail. Her right forearm lay inside the padded brace, swollen enough that the edge pressed against the skin whenever she shifted. The hand could not close around a pen, a cup, or the page Alvarez had placed beyond her reach. Through reinforced glass, the locked common chest remained beneath two MPD cameras. The seven package indicators, MPD-901441 through MPD-901447, showed green without movement.
 
 Grant enlarged the release-preparation record.
 
-`DCIS-PRP-187463-01`
+DCIS-PRP-187463-01
 
 Its releasable range began with the synthetic-source finding and ended with the later remote-release consequence. It excluded the seven sealed MPD packages, WSS plaintext, active collection geography, uninvolved staff identities, privileged material outside the approved range, and every incomplete or excluded file in the aluminum case. The case remained limited to 136 sealed files, 47 incomplete files, and 311 excluded files; none was reconstructed for release. The public document would be new. It would not rename any evidence object or turn a derivative into an original.
 
@@ -35,11 +35,11 @@ Six years earlier, the record had not needed to lie about every event. It had on
 
 Grant opened a clean first page and placed two proof ceilings above the body text.
 
-`VANCE PERSONAL FINDING: LIMITED TO THE LATER REMOTE RELEASE`
+VANCE PERSONAL FINDING: LIMITED TO THE LATER REMOTE RELEASE
 
-`STERLING PERSONAL COMMAND: NOT ESTABLISHED`
+STERLING PERSONAL COMMAND: NOT ESTABLISHED
 
-The classification attorney read them, then the source list beneath them: `DCIS-BF-187463-02`; the Argus program registry derivative; the source-limited Apex release derivative; the LSS office/device derivative; the preserved Arjun acknowledgment. No sealed package appeared. No WSS message block appeared. Each source retained its own clock and custodian.
+The classification attorney read them, then the source list beneath them: DCIS-BF-187463-02; the Argus program registry derivative; the source-limited Apex release derivative; the LSS office/device derivative; the preserved Arjun acknowledgment. No sealed package appeared. No WSS message block appeared. Each source retained its own clock and custodian.
 
 “That page can be released,” he said. “The body still requires institutional authority.”
 
@@ -53,7 +53,7 @@ Grant built the public-facing sheet as a map rather than a verdict. Each materia
 
 The classification attorney added a withholding schedule to the first page. It named categories rather than secrets: active collection geography, WSS encrypted content, unrelated personnel, privileged communications outside the approved ranges, incomplete and excluded case contents, and every sealed-package field not already lawfully produced. Julie had spent the morning learning that omission could be honest only when the reader could see the shape of what had been omitted.
 
-Alvarez made the decision her own. She authorized a source-limited correction package under `DCIS-PRP-187463-01`, conditioned on the proof ceilings remaining on the first public-facing page and on each institution signing only the facts within its authority.
+Alvarez made the decision her own. She authorized a source-limited correction package under DCIS-PRP-187463-01, conditioned on the proof ceilings remaining on the first public-facing page and on each institution signing only the facts within its authority.
 
 At 13:22:00 EDT, the useless sentence was removed.
 
@@ -91,11 +91,11 @@ Alvarez did not defend Julie. “DCIS is not publishing political advocacy.”
 
 Grant rewrote the second statement while the recorded channel remained open. Routine legal language moved through summary: pending charging decisions, representation rights, classification reservations, and preserved jurisdiction. The consequential sentence stayed visible.
 
-`THE AUTHENTICATED RECORD DOES NOT SUPPORT THE CLAIM THAT O’DONNELL, REED, THORNE, OR PRICE ORIGINATED THE POISONED SOURCE OR CONSTRUCTED THE OPERATIONAL ROUTE.`
+THE AUTHENTICATED RECORD DOES NOT SUPPORT THE CLAIM THAT O’DONNELL, REED, THORNE, OR PRICE ORIGINATED THE POISONED SOURCE OR CONSTRUCTED THE OPERATIONAL ROUTE.
 
 Below it, Grant required the limitation.
 
-`THIS CORRECTION DOES NOT RESOLVE SEPARATE UNAUTHORIZED CONDUCT, ADMINISTRATIVE EXPOSURE, ADMISSIBILITY, CHARGING, EMPLOYMENT, OR LATER LAWFUL PROCESS.`
+THIS CORRECTION DOES NOT RESOLVE SEPARATE UNAUTHORIZED CONDUCT, ADMINISTRATIVE EXPOSURE, ADMISSIBILITY, CHARGING, EMPLOYMENT, OR LATER LAWFUL PROCESS.
 
 Price’s counsel entered a narrow objection. Naming him publicly could deepen the administrative harm before DIA completed its review. Omitting him would leave the public allegation attached to a request bearing his name.
 
@@ -113,7 +113,7 @@ Julie would not be released from the consequences of breaking into two secure fa
 
 Grant read the complete bounded correction aloud once. Then she signed the method certification.
 
-`COMPLETE BOUNDED CORRECTION — NOT EXCULPATORY ADVOCACY`
+COMPLETE BOUNDED CORRECTION — NOT EXCULPATORY ADVOCACY
 
 Hackett did not withdraw his objection. He attached it under his own name and accepted the narrower language as the only version he could defend from the source records.
 
@@ -133,7 +133,7 @@ No institution would sign the whole truth.
 
 Dr. Rachel Nwosu appeared for the government Argus Program Integrity and Configuration Control Office. Her authority covered the government registry sequence, the program’s source-integrity status, and the suspension already entered against Vance’s operational role. It did not cover Apex’s original human-operator record, LSS custody, the Sterling office’s continuity exception, or DCIS’s investigative conclusions.
 
-Marisol Vega appeared for Legislative Secure Services from the same compromise-control environment that held `SSO-NS-004`. She confirmed that Martin Vann remained physical custodian, that Vega remained deputy authority, and that seal `LSS-SL-90418` remained intact. The signer was powered down, isolated, closed, and unused. LSS could acknowledge the office/device and continuity-exception chain. It could not authenticate who had possessed the device during the earlier WSS session or claim what Sterling knew.
+Marisol Vega appeared for Legislative Secure Services from the same compromise-control environment that held SSO-NS-004. She confirmed that Martin Vann remained physical custodian, that Vega remained deputy authority, and that seal LSS-SL-90418 remained intact. The signer was powered down, isolated, closed, and unused. LSS could acknowledge the office/device and continuity-exception chain. It could not authenticate who had possessed the device during the earlier WSS session or claim what Sterling knew.
 
 Alvarez controlled the DCIS investigative-status correction. Grant controlled the method. Neither could compel Nwosu or Vega to adopt another institution’s source.
 
@@ -151,17 +151,17 @@ The Argus program-integrity notice would establish that synthetic or validation-
 
 The DCIS correction would establish only that the authenticated record did not support the public claim that Julie, Marcus, Elias, or Price originated the poisoned source or constructed the operational route. It would preserve every separate adverse record and every unresolved legal status.
 
-The LSS acknowledgment would establish that `SSO-NS-004` and the continuity exception belonged to the Sterling-office institutional chain; that the signer remained closed and unused under the no-use hold; and that an independent office/device review had been opened. It would state that Sterling’s personal possession, operation, knowledge, direction, intent, and command were not established.
+The LSS acknowledgment would establish that SSO-NS-004 and the continuity exception belonged to the Sterling-office institutional chain; that the signer remained closed and unused under the no-use hold; and that an independent office/device review had been opened. It would state that Sterling’s personal possession, operation, knowledge, direction, intent, and command were not established.
 
 Vega entered the review docket herself.
 
-`LSS-IDR-90418-01`
+LSS-IDR-90418-01
 
-`AUTHORITY: MARISOL VEGA / DEPUTY COMPROMISE-CONTROL AUTHORITY`
+AUTHORITY: MARISOL VEGA / DEPUTY COMPROMISE-CONTROL AUTHORITY
 
-`SCOPE: OFFICE ASSIGNMENT, DEVICE CUSTODY, CONTINUITY EXCEPTION, AUTHORIZED ACCESS PATHS`
+SCOPE: OFFICE ASSIGNMENT, DEVICE CUSTODY, CONTINUITY EXCEPTION, AUTHORIZED ACCESS PATHS
 
-`SIGNER USE: PROHIBITED`
+SIGNER USE: PROHIBITED
 
 The docket did not open the device. It created an independent review around the chain that had assigned and moved it. Vega specified that the review would begin with assignment records, custody receipts, continuity-exception authority, access rosters, and the existing source-limited derivatives. Any later request to image or challenge the signer would require a separate authority decision, a new seal event, and notice to the current custodian. The public acknowledgment could therefore impose consequence without spending the evidence it was meant to protect.
 
@@ -171,7 +171,7 @@ Apex counsel objected to the Argus notice because the program office relied part
 
 Sterling-office counsel objected that public identification of the office device before completion of the LSS review would imply personal wrongdoing. Vega answered by moving the non-finding to the first page.
 
-`STERLING PERSONAL COMMAND: NOT ESTABLISHED.`
+STERLING PERSONAL COMMAND: NOT ESTABLISHED.
 
 No one in the recorded room could sign beyond that line.
 
@@ -211,7 +211,7 @@ The coordinator looked to Alvarez. “Supervisory Special Agent, we can restore 
 
 Julie felt the old four-second wound open without image or sound. Release first. Correct later. Let the completed act become the fact everyone else had to overcome.
 
-“No,” she said. “Record the aborted release under `DCIS-PRP-187463-01`. Page-one proof ceilings removed. Vance finding expanded beyond the later remote release. Office responsibility converted into Sterling’s personal direction.”
+“No,” she said. “Record the aborted release under DCIS-PRP-187463-01. Page-one proof ceilings removed. Vance finding expanded beyond the later remote release. Office responsibility converted into Sterling’s personal direction.”
 
 She had no authority to stop Nwosu, Vega, or Alvarez. She had authority only over her recorded participation and consent.
 
@@ -233,9 +233,9 @@ Alvarez directed the release desk to preserve both versions, the redline source,
 
 The corrected first page returned at 13:59:18.
 
-`VANCE PERSONAL FINDING: LIMITED TO THE LATER REMOTE RELEASE`
+VANCE PERSONAL FINDING: LIMITED TO THE LATER REMOTE RELEASE
 
-`STERLING PERSONAL COMMAND: NOT ESTABLISHED`
+STERLING PERSONAL COMMAND: NOT ESTABLISHED
 
 Grant compared the page against each signed authority block. Nwosu reauthenticated only the Argus notice. Alvarez reauthenticated only the DCIS correction. Vega reauthenticated only the LSS acknowledgment and docket notice. The coordinated sheet named all three documents but adopted none as a universal proof object.
 
@@ -249,21 +249,21 @@ The three statements did not publish at the same second. Synchronization meant t
 
 The Argus office went first at 14:06:11 on the government program portal. Its page displayed the two proof ceilings before the summary and named Dr. Rachel Nwosu as publishing authority. The notice identified its source classes, withheld fields, registry clock, and proof limit. A SHA-256 publication hash appeared beneath the signed PDF.
 
-`ARGUS-PI-187463-01`
+ARGUS-PI-187463-01
 
-`PUBLICATION HASH: 5f1f2ec21a9eac91e4f905472fa1aa8f9db786e1f8d368d5d40f14e87c2a7b31`
+PUBLICATION HASH: 5f1f2ec21a9eac91e4f905472fa1aa8f9db786e1f8d368d5d40f14e87c2a7b31
 
-`PUBLIC RECEIPT: ARGUS-PUB-140611-01`
+PUBLIC RECEIPT: ARGUS-PUB-140611-01
 
 The notice stated that synthetic or validation-derived contamination had entered the actionable chain before Julie’s intervention. K-17 local authentication had failed and written zero records. The later remote reconstruction was separate. Vance’s personally authenticated act applied only to the later remote release. His operational authority remained suspended pending review.
 
 At 14:08:37, DCIS published its investigative-status correction under Alvarez’s name.
 
-`DCIS-ISC-187463-01`
+DCIS-ISC-187463-01
 
-`PUBLICATION HASH: 9b4a7f0f6c7c58cc67cb2fd8acfe67fb90d4ab1d53033fb5f64ee22b5b08df27`
+PUBLICATION HASH: 9b4a7f0f6c7c58cc67cb2fd8acfe67fb90d4ab1d53033fb5f64ee22b5b08df27
 
-`PUBLIC RECEIPT: DCIS-PUB-140837-01`
+PUBLIC RECEIPT: DCIS-PUB-140837-01
 
 The correction said the authenticated record did not support the claim that Julie, Marcus, Elias, or Price had originated the poisoned source or constructed the operational route. The next paragraph preserved the unauthorized conduct, testimony failure and later correction, voluntary emergency acts, rejected access attempt, authority crossing, administrative review, and unresolved legal consequences attached to each person.
 
@@ -275,13 +275,13 @@ It did not say released.
 
 At 14:10:54, LSS published the office/device acknowledgment and independent-review docket.
 
-`LSS-ACK-90418-01`
+LSS-ACK-90418-01
 
-`PUBLICATION HASH: 3c0a78ce8b3062604ba38869b0f7f4867da617d46d88ab5b4dbd65b3924dfea4`
+PUBLICATION HASH: 3c0a78ce8b3062604ba38869b0f7f4867da617d46d88ab5b4dbd65b3924dfea4
 
-`PUBLIC RECEIPT: LSS-PUB-141054-01`
+PUBLIC RECEIPT: LSS-PUB-141054-01
 
-The first page named `SSO-NS-004`, the Sterling-office institutional chain, the continuity exception, Martin Vann’s physical custody, Marisol Vega’s deputy authority, and seal `LSS-SL-90418`. It stated that the signer remained powered down, isolated, closed, and unused. It announced docket `LSS-IDR-90418-01` and stated that Sterling’s personal possession, operation, knowledge, direction, intent, and command were not established.
+The first page named SSO-NS-004, the Sterling-office institutional chain, the continuity exception, Martin Vann’s physical custody, Marisol Vega’s deputy authority, and seal LSS-SL-90418. It stated that the signer remained powered down, isolated, closed, and unused. It announced docket LSS-IDR-90418-01 and stated that Sterling’s personal possession, operation, knowledge, direction, intent, and command were not established.
 
 The three public receipts propagated through separate systems. Grant watched each resolve from provisional to durable. None depended on an MPD package opening. None required the signer to answer a challenge. The locked chest remained untouched behind the glass.
 
@@ -309,9 +309,9 @@ At 14:17:00, the public fracture was complete.
 
 Nothing in the room opened when the truth became public.
 
-The left restraint remained locked. Julie’s right arm remained braced against her body, the hand unable to lift the water Park had placed within reach of her left one. The seven MPD packages remained in the chest. `SSO-NS-004` remained under LSS seal and no-use hold. Marcus remained in guarded medical care on four liters of oxygen at approximately 92–93 percent saturation, with his rib, scalp, thigh, boot, balance, breathing, and possible-concussion limits unchanged. Elias remained in separate guarded medical custody with his hip injury, dizziness, exhaustion, tremor, and right-index limitations unchanged, and with no board, terminal, or new technical role. Price remained represented and under bounded DIA review.
+The left restraint remained locked. Julie’s right arm remained braced against her body, the hand unable to lift the water Park had placed within reach of her left one. The seven MPD packages remained in the chest. SSO-NS-004 remained under LSS seal and no-use hold. Marcus remained in guarded medical care on four liters of oxygen at approximately 92–93 percent saturation, with his rib, scalp, thigh, boot, balance, breathing, and possible-concussion limits unchanged. Elias remained in separate guarded medical custody with his hip injury, dizziness, exhaustion, tremor, and right-index limitations unchanged, and with no board, terminal, or new technical role. Price remained represented and under bounded DIA review.
 
-Grant preserved the three public receipts beside `DCIS-PRP-187463-01` as publication records, not evidence originals. Each hash proved the public document had not changed after release. It did not make the underlying source true by repetition. The source originals remained at Apex, the government registry, LSS, DIA, WSS, Hartwell, Forward Post Arjun, and the other named custodians.
+Grant preserved the three public receipts beside DCIS-PRP-187463-01 as publication records, not evidence originals. Each hash proved the public document had not changed after release. It did not make the underlying source true by repetition. The source originals remained at Apex, the government registry, LSS, DIA, WSS, Hartwell, Forward Post Arjun, and the other named custodians.
 
 Alvarez recorded the aborted first release and the restored limitations. The failed version remained part of the administrative history because someone had tried to convert institutional responsibility into personal command and a later release into original authorship. The correction’s durability included the record of almost getting it wrong.
 

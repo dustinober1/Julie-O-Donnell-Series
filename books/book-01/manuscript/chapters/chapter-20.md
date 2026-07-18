@@ -1,6 +1,6 @@
 10:44:12 EDT / 20:14:12 IST
 
-# Chapter 20 - The Custody Exception
+# Chapter 20 — The Custody Exception
 
 Secure MPD Evidence Intake
 Washington, D.C.
@@ -9,10 +9,10 @@ At 10:44:12 Eastern Daylight Time, the first answer to the recovery request arri
 
 Julie O’Donnell watched the Legislative Secure Services response populate beneath the question Alvarez had entered less than a minute earlier.
 
-`SSO-NS-004`
-`DEVICE STATUS: LOCATED WITHIN LEGISLATIVE SECURITY CONTROL`
-`FEDERAL TRANSFER: NOT AUTHORIZED`
-`COMPROMISE-CONTROL INTAKE: PENDING`
+SSO-NS-004
+DEVICE STATUS: LOCATED WITHIN LEGISLATIVE SECURITY CONTROL
+FEDERAL TRANSFER: NOT AUTHORIZED
+COMPROMISE-CONTROL INTAKE: PENDING
 
 The words located and pending belonged to different clocks.
 
@@ -48,9 +48,9 @@ Hackett turned toward her window. “And if the office retrieves it?”
 
 A second message entered the record.
 
-`LSS DUTY SUPERVISOR: DEPUTY DIRECTOR MARISOL VEGA`
-`PROPOSED RECEIVING CUSTODIAN: LSS COMPROMISE-CONTROL OFFICER MARTIN VANN`
-`PROPOSED CONTROL: EXTERIOR-ONLY INVENTORY / NO USE / NO POWER / NO NETWORK / NO REKEY`
+LSS DUTY SUPERVISOR: DEPUTY DIRECTOR MARISOL VEGA
+PROPOSED RECEIVING CUSTODIAN: LSS COMPROMISE-CONTROL OFFICER MARTIN VANN
+PROPOSED CONTROL: EXTERIOR-ONLY INVENTORY / NO USE / NO POWER / NO NETWORK / NO REKEY
 
 The second response supplied what the first had lacked: named people whose authority and physical responsibility could be reviewed later.
 
@@ -128,7 +128,7 @@ Grant said, “Send me the supplemental scope.”
 
 Alvarez signed it.
 
-The secure system recorded the time, source, and limits. Grant’s Hartwell window closed. Her next destination appeared only as `LSS CONTROL INTAKE`, with no street address, office suite, or route entered into the common incident display.
+The secure system recorded the time, source, and limits. Grant’s Hartwell window closed. Her next destination appeared only as LSS CONTROL INTAKE, with no street address, office suite, or route entered into the common incident display.
 
 Before she disconnected, Julie said, “Do not let them call the person carrying it the person who authorized it.”
 
@@ -167,11 +167,11 @@ Counsel said, “He can identify the container without waiving any privilege.”
 
 Grant waited.
 
-Drennan turned back to the table. “One closed legislative secure-communications pouch, pouch serial `LSS-P-44091`, containing one closed compact signer case assigned to my custody under office emergency continuity authorization.”
+Drennan turned back to the table. “One closed legislative secure-communications pouch, pouch serial LSS-P-44091, containing one closed compact signer case assigned to my custody under office emergency continuity authorization.”
 
 “Device serial?”
 
-“Exterior case label reads `SSO-NS-004`.”
+“Exterior case label reads SSO-NS-004.”
 
 “Did you open the pouch after sealing?”
 
@@ -189,9 +189,9 @@ Grant looked at Vann. “You are not adopting that statement as fact.”
 
 The pouch had a clear evidence window no larger than a playing card. Through it, Grant could see the compact case’s exterior asset plate and one corner of a numbered closure band. She could not see the signer itself. She did not need to.
 
-The asset plate read `SSO-NS-004`.
+The asset plate read SSO-NS-004.
 
-The closure band number matched the Hartwell departure field in `HWA-CD-187463-01`.
+The closure band number matched the Hartwell departure field in HWA-CD-187463-01.
 
 Grant read both numbers aloud. Vann repeated them. Drennan confirmed only that the pouch and case appeared in the same exterior condition in which he had delivered them.
 
@@ -227,7 +227,7 @@ Office counsel slid a single-page certification into a separate document tray. �
 
 Grant did not touch the page. Vann moved it beneath the overhead document camera.
 
-The certificate named Drennan as assigned carrier for `SSO-NS-004`. The interval began at 06:54:00 EDT and ended with the 10:57:18 LSS intake. The stated purpose was `EMERGENCY NATIONAL-SECURITY CONTINUITY SUPPORT`. The named office authorizing authority was Diane Kessler, Deputy Director for National Security, Office of Senator Sterling.
+The certificate named Drennan as assigned carrier for SSO-NS-004. The interval began at 06:54:00 EDT and ended with the 10:57:18 LSS intake. The stated purpose was EMERGENCY NATIONAL-SECURITY CONTINUITY SUPPORT. The named office authorizing authority was Diane Kessler, Deputy Director for National Security, Office of Senator Sterling.
 
 No destination list appeared.
 
@@ -287,11 +287,11 @@ Grant continued. “And the authorizer is not yet the instruction source.”
 
 Vega gave Vann permission to remove the pouch from the transfer surface.
 
-He placed it inside a rigid secondary container, closed the lid, and applied LSS hold seal `LSS-SL-90418`. Two-person custody followed it through the rear control door. Grant never saw the signer. She saw the institution that had accepted responsibility for not using it.
+He placed it inside a rigid secondary container, closed the lid, and applied LSS hold seal LSS-SL-90418. Two-person custody followed it through the rear control door. Grant never saw the signer. She saw the institution that had accepted responsibility for not using it.
 
 Vega authorized a certified derivative from the transfer and office-assignment records.
 
-`LSS-CD-187463-01`
+LSS-CD-187463-01
 
 It contained the device serial, pouch and visible closure identifiers, exterior condition, transferor, receiving custodian, witnesses, camera references, LSS clock basis, no-use restrictions, assignment interval, named office authorizing authority, original-record custodians, withheld fields, and proof ceiling.
 
@@ -312,7 +312,7 @@ At 11:08:41, Grant’s image returned to the incident-control display.
 
 Julie saw the change before Grant spoke. Not triumph. A narrower kind of certainty.
 
-“The signer is under LSS no-use hold,” Grant said. “Named custodian Martin Vann. Deputy authority Marisol Vega. Pouch and compact case remain closed. Exterior serial confirmed as `SSO-NS-004`. No operation or technical examination.”
+“The signer is under LSS no-use hold,” Grant said. “Named custodian Martin Vann. Deputy authority Marisol Vega. Pouch and compact case remain closed. Exterior serial confirmed as SSO-NS-004. No operation or technical examination.”
 
 Ortiz read the chest status into the room record.
 
@@ -320,7 +320,7 @@ Ortiz read the chest status into the room record.
 
 Park confirmed continuous camera coverage.
 
-Alvarez brought `LSS-CD-187463-01` into `DCIS-FR-187463-01` as a certified derivative. The source field identified the office secure-communications ledger and LSS compromise-control receipt separately. The original office authorization remained with the office. The original LSS intake and hold record remained with Legislative Secure Services.
+Alvarez brought LSS-CD-187463-01 into DCIS-FR-187463-01 as a certified derivative. The source field identified the office secure-communications ledger and LSS compromise-control receipt separately. The original office authorization remained with the office. The original LSS intake and hold record remained with Legislative Secure Services.
 
 Hackett read the authorizer field.
 
@@ -366,9 +366,9 @@ She did not offer message plaintext.
 
 She offered one certified derivative from the WSS local audit and sponsor record, produced under the existing preservation demand while the original remained in WSS control.
 
-`WSS4-CD-187463-01`
+WSS4-CD-187463-01
 
-The derivative identified the WSS original source, Bell’s sponsor event, the false service identities recorded at landlord and tenant control, local controller clock basis, session identifier `NB-WSS4-0708-2217`, device serial `SSO-NS-004`, full signer-state completion time, encrypted-block status, fields withheld, production authority, local seal reference, and proof ceiling. It did not identify Samuel Drennan as the WSS carrier.
+The derivative identified the WSS original source, Bell’s sponsor event, the false service identities recorded at landlord and tenant control, local controller clock basis, session identifier NB-WSS4-0708-2217, device serial SSO-NS-004, full signer-state completion time, encrypted-block status, fields withheld, production authority, local seal reference, and proof ceiling. It did not identify Samuel Drennan as the WSS carrier.
 
 It did not produce the encrypted message blocks.
 
@@ -378,7 +378,7 @@ It did not identify Bell, the WSS operator, or Northbridge as knowing participan
 
 Bell added one sentence in her own certification.
 
-`PRODUCTION IS MADE TO PRESERVE THE WSS-4 RECORD AND DOES NOT CONCEDE THE LAWFULNESS OF THE FALSE SERVICE ENTRY, THE REMOVAL OF INCIDENT MEDIA, OR ANY INTERPRETATION OFFERED BY DCIS, MPD, APEX, OR THE SUBJECTS.`
+PRODUCTION IS MADE TO PRESERVE THE WSS-4 RECORD AND DOES NOT CONCEDE THE LAWFULNESS OF THE FALSE SERVICE ENTRY, THE REMOVAL OF INCIDENT MEDIA, OR ANY INTERPRETATION OFFERED BY DCIS, MPD, APEX, OR THE SUBJECTS.
 
 Julie read it twice.
 
@@ -394,7 +394,7 @@ Alvarez linked the derivative without merging it with Hartwell’s.
 
 The three independently controlled records did not share one clock, and Grant refused to let the matching times appear cleaner than their sources.
 
-Hartwell’s controller time had already been reconciled to the DCIS reference by the offset documented in `HWA-CD-187463-01`. WSS-4’s derivative carried its own controller certificate and a recorded difference of less than two-tenths of a second from the DCIS time service at production. LSS used the wall clock visible in both intake cameras and recorded its last verification before the transfer. The office assignment ledger was less exact: its authorization began at 06:54 by minute, without a displayed seconds field. Alvarez made the difference explicit. The office record could establish that the assignment was active before the 07:08 WSS response and remained active through Hartwell. It could not establish the precise second Drennan received the pouch.
+Hartwell’s controller time had already been reconciled to the DCIS reference by the offset documented in HWA-CD-187463-01. WSS-4’s derivative carried its own controller certificate and a recorded difference of less than two-tenths of a second from the DCIS time service at production. LSS used the wall clock visible in both intake cameras and recorded its last verification before the transfer. The office assignment ledger was less exact: its authorization began at 06:54 by minute, without a displayed seconds field. Alvarez made the difference explicit. The office record could establish that the assignment was active before the 07:08 WSS response and remained active through Hartwell. It could not establish the precise second Drennan received the pouch.
 
 The Arjun acknowledgment remained on IST and supplied no new Washington event time. Its conversion stayed the fixed nine hours thirty minutes already recorded in the received incident, not a silent synchronization with any office system.
 
@@ -402,7 +402,7 @@ Only after every source retained its own clock basis did Alvarez allow the event
 
 The records aligned without sharing identical fields.
 
-WSS fixed `SSO-NS-004` inside the 07:08 session under Bell’s sponsor record.
+WSS fixed SSO-NS-004 inside the 07:08 session under Bell’s sponsor record.
 
 Hartwell fixed the closed compact case inside the later 07:47:49 challenge-and-return path.
 
@@ -458,25 +458,25 @@ She owned the words now.
 
 The reconciliation statement recorded each original and derivative separately.
 
-Hartwell retained `HWA-LCA-1187`.
+Hartwell retained HWA-LCA-1187.
 
-`HWA-CD-187463-01` remained a Hartwell-certified derivative.
+HWA-CD-187463-01 remained a Hartwell-certified derivative.
 
 WSS-4 retained its local audit and sponsor original.
 
-`WSS4-CD-187463-01` remained a narrow WSS derivative.
+WSS4-CD-187463-01 remained a narrow WSS derivative.
 
 The Sterling office retained its original authorization and assignment record under preservation demand.
 
 Legislative Secure Services retained the original intake and no-use-hold record and physical custody of the closed signer pouch.
 
-`LSS-CD-187463-01` remained the narrow office/LSS derivative.
+LSS-CD-187463-01 remained the narrow office/LSS derivative.
 
-Forward Post Arjun retained `ARJ-K17-001`, `ARJ-K17-002`, and `ARJ-K17-003`.
+Forward Post Arjun retained ARJ-K17-001, ARJ-K17-002, and ARJ-K17-003.
 
-`ARJ-K17-ACK-01` remained a bounded acknowledgment.
+ARJ-K17-ACK-01 remained a bounded acknowledgment.
 
-MPD retained `MPD-901441` through `MPD-901447`, seven sealed packages in the same locked chest.
+MPD retained MPD-901441 through MPD-901447, seven sealed packages in the same locked chest.
 
 DCIS owned responsibility for the received incident and the new derivatives. It did not own every original.
 
@@ -504,7 +504,7 @@ Hackett looked toward Julie. “You got the responsibility chain. Are you satisf
 
 The question carried more accusation than curiosity.
 
-Julie looked through the reinforced glass at the locked chest. The case holding the first partial capture remained inside `MPD-901441`. Elias’s board remained inside `MPD-901446`, resealed beneath `MPD-SL-551821`. The WSS module remained untouched inside `MPD-901447`. Every object that had brought them this far was stationary while records outside the room moved toward one another.
+Julie looked through the reinforced glass at the locked chest. The case holding the first partial capture remained inside MPD-901441. Elias’s board remained inside MPD-901446, resealed beneath MPD-SL-551821. The WSS module remained untouched inside MPD-901447. Every object that had brought them this far was stationary while records outside the room moved toward one another.
 
 Satisfied was the wrong measure.
 
@@ -530,19 +530,19 @@ It also created a place to continue.
 
 Alvarez entered the final incident state at 11:25:48.
 
-`SSO-NS-004: LSS NO-USE HOLD / CUSTODIAN MARTIN VANN / SEAL LSS-SL-90418`
-`LSS-CD-187463-01: RECEIVED / SOURCE-LIMITED DERIVATIVE`
-`WSS4-CD-187463-01: RECEIVED / SOURCE-LIMITED DERIVATIVE`
-`HWA-CD-187463-01: RETAINED / HARTWELL DERIVATIVE`
-`MPD-901441 THROUGH MPD-901447: SEALED / STATIONARY / MPD CUSTODY`
-`ORIGINALS: RETAINED BY SOURCE CUSTODIANS`
+SSO-NS-004: LSS NO-USE HOLD / CUSTODIAN MARTIN VANN / SEAL LSS-SL-90418
+LSS-CD-187463-01: RECEIVED / SOURCE-LIMITED DERIVATIVE
+WSS4-CD-187463-01: RECEIVED / SOURCE-LIMITED DERIVATIVE
+HWA-CD-187463-01: RETAINED / HARTWELL DERIVATIVE
+MPD-901441 THROUGH MPD-901447: SEALED / STATIONARY / MPD CUSTODY
+ORIGINALS: RETAINED BY SOURCE CUSTODIANS
 
 Below the custody lines, she entered the proof statement.
 
-`CARRIER: SAMUEL DRENNAN`
-`OFFICE CONTINUITY AUTHORITY: DIANE KESSLER`
-`ASSIGNMENT INTERVAL: 06:54:00–10:57:18 EDT`
-`STERLING PERSONAL POSSESSION / OPERATION / COMMAND: NOT ESTABLISHED`
+CARRIER: SAMUEL DRENNAN
+OFFICE CONTINUITY AUTHORITY: DIANE KESSLER
+ASSIGNMENT INTERVAL: 06:54:00–10:57:18 EDT
+STERLING PERSONAL POSSESSION / OPERATION / COMMAND: NOT ESTABLISHED
 
 Then she opened one empty field.
 
@@ -550,7 +550,7 @@ Ortiz read the time from the independent MPD wall clock.
 
 “Eleven twenty-six thirty-two.”
 
-At 11:26:32 EDT / 20:56:32 IST, `SSO-NS-004` was no longer moving, but the instruction that put it into the operational chain remained outside the record.
+At 11:26:32 EDT / 20:56:32 IST, SSO-NS-004 was no longer moving, but the instruction that put it into the operational chain remained outside the record.
 
 Alvarez asked, “Next question?”
 

@@ -1,6 +1,6 @@
 09:12:52 EDT / 18:42:52 IST
 
-# Chapter 18 - The Local Record
+# Chapter 18 — The Local Record
 
 Forward Post Arjun
 Kashmir
@@ -63,11 +63,11 @@ Qureshi opened the local incident register on a standalone terminal. Sharma kept
 
 He entered the time from Arjun’s disciplined wall clock rather than the wet patrol watches.
 
-INCIDENT: ARJ-K17-018  
-CREATED: 18:44:09 IST  
-LOCATION: FORWARD POST ARJUN  
-SUBJECT: RELAY K-17 LOCAL ACCESS / PHYSICAL INSPECTION  
-STATUS: OPEN / PRESERVATION HOLD  
+INCIDENT: ARJ-K17-018
+CREATED: 18:44:09 IST
+LOCATION: FORWARD POST ARJUN
+SUBJECT: RELAY K-17 LOCAL ACCESS / PHYSICAL INSPECTION
+STATUS: OPEN / PRESERVATION HOLD
 
 “Custody roles,” Sharma said.
 
@@ -179,14 +179,14 @@ Sethi confirmed the number from his patrol copy. Rao confirmed that he had watch
 
 Qureshi created the original-media reference.
 
-ARJ-K17-001  
-ITEM: ORIGINAL K-17 INCIDENT / ACCESS-CONTROLLER CARTRIDGE  
-SOURCE CONTAINER: PKT-K17-04  
-FIELD SEAL: K17-FS-1176 / INTACT ON ARRIVAL  
-TRANSFEROR: NAIB SUBEDAR VIKRAM SETHI  
-RECIPIENT: LT SAMEER QURESHI  
-WITNESS: CAPT ARVIND RAO / MAJ ANANYA SHARMA  
-TIME SOURCE: ARJUN DISCIPLINED WALL CLOCK  
+ARJ-K17-001
+ITEM: ORIGINAL K-17 INCIDENT / ACCESS-CONTROLLER CARTRIDGE
+SOURCE CONTAINER: PKT-K17-04
+FIELD SEAL: K17-FS-1176 / INTACT ON ARRIVAL
+TRANSFEROR: NAIB SUBEDAR VIKRAM SETHI
+RECIPIENT: LT SAMEER QURESHI
+WITNESS: CAPT ARVIND RAO / MAJ ANANYA SHARMA
+TIME SOURCE: ARJUN DISCIPLINED WALL CLOCK
 
 Rao placed his wrist beside the camera. Qureshi read the chain number and photographed the closed lock before cutting it. The transit box went onto the first tray. Sethi became transferor. Qureshi became recipient. Rao signed as patrol witness. Sharma signed as receiving witness and local incident authority.
 
@@ -220,11 +220,11 @@ They did not trust either paper alone.
 
 Sethi verified the model. Rao verified the empty ports. Sharma watched Qureshi insert a reference cartridge carrying a known six-event test chain. The reader exposed the six events in order, reported zero source writes, and left the reference cartridge’s before-and-after state unchanged.
 
-REFERENCE EVENTS: 6 / 6  
-ORDER: VERIFIED  
-SOURCE WRITES: 0  
-READER: IRR-2041  
-EXTERNAL PATHS: NONE DETECTED  
+REFERENCE EVENTS: 6 / 6
+ORDER: VERIFIED
+SOURCE WRITES: 0
+READER: IRR-2041
+EXTERNAL PATHS: NONE DETECTED
 
 Qureshi photographed the test result and removed the reference cartridge.
 
@@ -240,12 +240,12 @@ Match.
 
 He created the derivative destination on blank local media.
 
-ARJ-K17-003  
-SOURCE: ARJ-K17-001 / K17-AC-44719  
-METHOD: ISOLATED READ-ONLY EVENT EXPORT  
-READER: IRR-2041  
-SOURCE WRITE PATH: NOT PRESENT  
-EVENT ORDER: PENDING VERIFICATION  
+ARJ-K17-003
+SOURCE: ARJ-K17-001 / K17-AC-44719
+METHOD: ISOLATED READ-ONLY EVENT EXPORT
+READER: IRR-2041
+SOURCE WRITE PATH: NOT PRESENT
+EVENT ORDER: PENDING VERIFICATION
 
 The export began without a progress wheel. Event identifiers advanced in a narrow column, each carrying the K-17 hardware time and the state exposed by the local journal. Qureshi read the identifiers. Sethi checked the sequence against the cartridge display. Sharma watched the order, not the volume.
 
@@ -257,14 +257,14 @@ K-17’s controller clock had last checked against the regional relay time at 17
 
 The first relevant event appeared at 17:11:46.217 on the K-17 clock.
 
-SECURITY LINE ONE: CHALLENGE RECEIVED  
-ORIGIN: FIELD ROUTE  
-RESULT: ACCEPTED  
+SECURITY LINE ONE: CHALLENGE RECEIVED
+ORIGIN: FIELD ROUTE
+RESULT: ACCEPTED
 
 Four tenths of a second later:
 
-SECURITY LINE ONE: PASS  
-OUTER WICKET STATE: OPEN / CLOSE COMPLETE  
+SECURITY LINE ONE: PASS
+OUTER WICKET STATE: OPEN / CLOSE COMPLETE
 
 Rao looked at the photograph of the closed latch.
 
@@ -276,10 +276,10 @@ Neither source improved the other. Together they showed sequence.
 
 The next exposed event carried a certificate subject and fingerprint.
 
-FIELD ROUTE CERTIFICATE: ACCEPTED  
-REGISTERED AUTHORITY: TARIQ, MAJOR / FORWARD LIAISON CELL  
-CERTIFICATE FINGERPRINT: 7A:3C:19:55:0D:8E:21:44  
-PHYSICAL OPERATOR: NOT RECORDED  
+FIELD ROUTE CERTIFICATE: ACCEPTED
+REGISTERED AUTHORITY: TARIQ, MAJOR / FORWARD LIAISON CELL
+CERTIFICATE FINGERPRINT: 7A:3C:19:55:0D:8E:21:44
+PHYSICAL OPERATOR: NOT RECORDED
 
 The room changed around the name.
 
@@ -293,15 +293,15 @@ He entered the exposed certificate subject and fingerprint exactly.
 
 The next event showed the task profile.
 
-SESSION PROFILE: K17-PHASE-B  
-SESSION STATE: LOCAL CHALLENGE OPEN  
-RELAY ACCESS: CONTROLLER REACHED / FINAL AUTHORIZATION PENDING  
+SESSION PROFILE: K17-PHASE-B
+SESSION STATE: LOCAL CHALLENGE OPEN
+RELAY ACCESS: CONTROLLER REACHED / FINAL AUTHORIZATION PENDING
 
 The derivative export paused between blocks because the local cartridge had rolled its journal segment. Qureshi did not reconnect, refresh, or ask the reader to infer the missing transition. The next event identifier followed the previous one without a gap.
 
-EVENT ORDER: CONTINUOUS  
-SEGMENT BOUNDARY: VERIFIED  
-LOCAL SOURCE-RECORD WRITES: 0  
+EVENT ORDER: CONTINUOUS
+SEGMENT BOUNDARY: VERIFIED
+LOCAL SOURCE-RECORD WRITES: 0
 
 Rao let out a breath through his nose.
 
@@ -317,11 +317,11 @@ He accepted the correction.
 
 At 17:12:14.606, K-17 received a structured action request. It contained no message plaintext and no human instruction. The exposed fields belonged to the relay’s maintenance protocol.
 
-TASK: K17-PHASE-B  
-ACTION CLASS: LOCAL SOURCE-RECORD RECONSTRUCTION  
-SUBACTION: MAINTENANCE COMMIT  
-TARGET: CURRENT LOCAL SOURCE-STATE INDEX  
-LIVE WRITE STATE: NOT AUTHORIZED  
+TASK: K17-PHASE-B
+ACTION CLASS: LOCAL SOURCE-RECORD RECONSTRUCTION
+SUBACTION: MAINTENANCE COMMIT
+TARGET: CURRENT LOCAL SOURCE-STATE INDEX
+LIVE WRITE STATE: NOT AUTHORIZED
 
 Qureshi stopped reading.
 
@@ -343,10 +343,10 @@ Sethi kept his answer narrow. “It would replace the relay’s current source-s
 
 “What authority did it require?”
 
-REQUIRED AUTHORITY: REGISTERED FIELD ROUTE + LOCAL MAINTENANCE CONFIRMATION  
-FIELD ROUTE: PRESENT  
-LOCAL MAINTENANCE CONFIRMATION: ABSENT  
-LOCAL COMMIT CHALLENGE: ISSUED  
+REQUIRED AUTHORITY: REGISTERED FIELD ROUTE + LOCAL MAINTENANCE CONFIRMATION
+FIELD ROUTE: PRESENT
+LOCAL MAINTENANCE CONFIRMATION: ABSENT
+LOCAL COMMIT CHALLENGE: ISSUED
 
 The next six minutes contained repeated local state checks, one denied attempt to invoke a maintenance confirmation path, and no new certificate subject. The journal did not expose a user name, a device serial, or a body. It recorded the failure of the required second authority.
 
@@ -354,11 +354,11 @@ At 17:18:57.901, the field route submitted a second response. The controller acc
 
 At 17:19:00.000, the authorization window expired.
 
-PHASE B: FINAL AUTHORIZATION EXPIRED  
-MAINTENANCE COMMIT: NOT EXECUTED  
-LOCAL SOURCE-STATE INDEX: UNCHANGED  
-SOURCE WRITES: 0  
-SESSION: CLOSED BY TIMEOUT  
+PHASE B: FINAL AUTHORIZATION EXPIRED
+MAINTENANCE COMMIT: NOT EXECUTED
+LOCAL SOURCE-STATE INDEX: UNCHANGED
+SOURCE WRITES: 0
+SESSION: CLOSED BY TIMEOUT
 
 The field operation had reached the relay controller, passed the outer line, and attempted to open a commit requiring local physical authority.
 
@@ -368,14 +368,14 @@ Qureshi continued to the departure events. A vibration input at the outer wicket
 
 The original remained seated in read-only mode until the destination hash and event count matched. Then Qureshi closed the session and removed K17-AC-44719 by its edges.
 
-ARJ-K17-003  
-EVENT COUNT: 186  
-FIRST EVENT: MATCH  
-LAST EVENT: MATCH  
-EVENT ORDER: VERIFIED  
-SOURCE JOURNAL SEAL: MATCH  
-SOURCE WRITES DURING READ: 0  
-STATUS: READ-ONLY DERIVATIVE COMPLETE  
+ARJ-K17-003
+EVENT COUNT: 186
+FIRST EVENT: MATCH
+LAST EVENT: MATCH
+EVENT ORDER: VERIFIED
+SOURCE JOURNAL SEAL: MATCH
+SOURCE WRITES DURING READ: 0
+STATUS: READ-ONLY DERIVATIVE COMPLETE
 
 The original and derivative now carried the same exposed event order. They were not the same object. The original remained the local source. The derivative existed so the event chain could be reviewed without reconnecting the cartridge.
 
@@ -487,21 +487,21 @@ The form exposed only the categories the route was permitted to carry.
 
 Qureshi entered:
 
-REFERENCE: ARJ-K17-ACK-01  
-LOCAL UMBRELLA: ARJ-K17-018  
-ORIGINAL: ARJ-K17-001 / K17-AC-44719  
-PATROL RECORD: ARJ-K17-002  
-READ-ONLY DERIVATIVE: ARJ-K17-003  
-TIME SOURCE: FORWARD POST ARJUN DISCIPLINED CLOCK  
-SECURITY LINE ONE: PASS  
-FIELD CERTIFICATE SUBJECT: TARIQ, MAJOR / FORWARD LIAISON CELL  
-FIELD CERTIFICATE FINGERPRINT: 7A:3C:19:55:0D:8E:21:44  
-TASK PROFILE: K17-PHASE-B  
-REQUESTED ACTION CLASS: LOCAL SOURCE-RECORD RECONSTRUCTION / MAINTENANCE COMMIT  
-FINAL LOCAL AUTHENTICATION / COMMIT: NOT COMPLETE / NOT EXECUTED  
-LOCAL SOURCE-RECORD WRITES: 0  
-SUPERSEDING-PRODUCT COMPARISON: LOCAL EVENTS OMITTED  
-ORIGINAL CUSTODY: RETAINED LOCALLY / NOT TRANSFERRED  
+REFERENCE: ARJ-K17-ACK-01
+LOCAL UMBRELLA: ARJ-K17-018
+ORIGINAL: ARJ-K17-001 / K17-AC-44719
+PATROL RECORD: ARJ-K17-002
+READ-ONLY DERIVATIVE: ARJ-K17-003
+TIME SOURCE: FORWARD POST ARJUN DISCIPLINED CLOCK
+SECURITY LINE ONE: PASS
+FIELD CERTIFICATE SUBJECT: TARIQ, MAJOR / FORWARD LIAISON CELL
+FIELD CERTIFICATE FINGERPRINT: 7A:3C:19:55:0D:8E:21:44
+TASK PROFILE: K17-PHASE-B
+REQUESTED ACTION CLASS: LOCAL SOURCE-RECORD RECONSTRUCTION / MAINTENANCE COMMIT
+FINAL LOCAL AUTHENTICATION / COMMIT: NOT COMPLETE / NOT EXECUTED
+LOCAL SOURCE-RECORD WRITES: 0
+SUPERSEDING-PRODUCT COMPARISON: LOCAL EVENTS OMITTED
+ORIGINAL CUSTODY: RETAINED LOCALLY / NOT TRANSFERRED
 
 Sharma added the caveats herself.
 
@@ -533,12 +533,12 @@ Outside, the sleet shifted against the windows. The patrol’s wet boots had lef
 
 The acknowledgment updated.
 
-PRESERVATION ROUTE: ACCEPTED  
-REFERENCE: ARJ-K17-ACK-01  
-CONTENT: BOUNDED FIELD RESULT / CAVEATS PRESENT  
-ORIGINAL MEDIA: NOT TRANSFERRED  
-MERITS DETERMINATION: NONE  
-RECEIPT TIME: 19:31:12 IST  
+PRESERVATION ROUTE: ACCEPTED
+REFERENCE: ARJ-K17-ACK-01
+CONTENT: BOUNDED FIELD RESULT / CAVEATS PRESENT
+ORIGINAL MEDIA: NOT TRANSFERRED
+MERITS DETERMINATION: NONE
+RECEIPT TIME: 19:31:12 IST
 
 At 10:01:12 Eastern Daylight Time / 19:31:12 Indian Standard Time, the preservation route returned its receipt.
 

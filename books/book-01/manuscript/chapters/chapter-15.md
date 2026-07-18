@@ -1,6 +1,6 @@
 07:49:32 EDT / 17:19:32 IST
 
-# Chapter 15 - The Split Record
+# Chapter 15 — The Split Record
 
 Commercial Garage West of Hartwell
 
@@ -186,7 +186,7 @@ Marcus read the serial etched into the upper rim.
 
 “IC-seven-seven-one-nine-four.”
 
-Park found the same number on the scene card begun in Chapter 14 and read it back. Marcus confirmed it.
+Park found the same number on the intake chronology begun at Hartwell and read it back. Marcus confirmed it.
 
 “Description,” Ortiz said.
 

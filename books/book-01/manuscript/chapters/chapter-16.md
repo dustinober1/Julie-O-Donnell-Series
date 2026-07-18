@@ -1,6 +1,6 @@
 07:56:40 EDT / 17:26:40 IST
 
-# Chapter 16 - The Hold Order
+# Chapter 16 — The Hold Order
 
 Public Commercial Garage
 Washington, D.C.
@@ -18,7 +18,7 @@ The request named a destination category, not a person. The aluminum case was to
 
 One incident would become three.
 
-The request treated the package labels as routing suggestions. MPD had created them as custody facts. `MPD-901441` did not mean technical exploitation. It meant the closed aluminum case had entered police custody under a particular seal after a particular transfer. `MPD-901446` and `MPD-901447` did not become related because both contained electronics. One carried the administrator board. The other carried the dual-partition module whose internal states had been described without being examined. Splitting them might be necessary later. Doing it now, under different receiving teams and different incident numbers, would make the first complete sequence harder to reconstruct before anyone had assessed what the objects were.
+The request treated the package labels as routing suggestions. MPD had created them as custody facts. MPD-901441 did not mean technical exploitation. It meant the closed aluminum case had entered police custody under a particular seal after a particular transfer. MPD-901446 and MPD-901447 did not become related because both contained electronics. One carried the administrator board. The other carried the dual-partition module whose internal states had been described without being examined. Splitting them might be necessary later. Doing it now, under different receiving teams and different incident numbers, would make the first complete sequence harder to reconstruct before anyone had assessed what the objects were.
 
 Julie could not see inside the steel chest. She could see the red evidence-compartment seal threaded through its locking bar. Park had positioned the chest so the seal number, package labels, and transport door appeared in one body-camera frame. When the evidence driver asked whether he should load it, she told him to wait. The driver obeyed without argument. His role began after Ortiz decided where custody went.
 
@@ -38,7 +38,7 @@ Another delay.
 
 The watch desk could not accept seal conditions over an unsecured radio path.
 
-Ortiz looked at the chest. Seven white package labels faced Park’s camera in an uneven row: `MPD-901441` through `MPD-901447`. Nothing on them claimed the contents were true. They claimed only that MPD had received seven distinct objects from named people at recorded times and closed each object behind its own seal.
+Ortiz looked at the chest. Seven white package labels faced Park’s camera in an uneven row: MPD-901441 through MPD-901447. Nothing on them claimed the contents were true. They claimed only that MPD had received seven distinct objects from named people at recorded times and closed each object behind its own seal.
 
 The evidence transport driver waited with both hands visible above the steering wheel. A supervisor near the ramp spoke into a phone, trying to determine whether the federal request was an order, a recommendation, or an office expressing interest before someone else made the decision.
 
@@ -120,7 +120,7 @@ The sergeant glanced toward Julie, as though checking whether the sentence had b
 
 Ortiz saw it. “This is not her standard. It is ours. I am not sending seven sealed packages to an undisclosed location so people I cannot name can decide which parts belong together.”
 
-He told Park to log the requesting office, time, and exact deficiency. The claim would remain attached to incident `187463`. It would not move the chest.
+He told Park to log the requesting office, time, and exact deficiency. The claim would remain attached to incident 187463. It would not move the chest.
 
 The federal desk requested that at least the administrator board and dual-partition module be isolated for immediate specialist control.
 
@@ -128,7 +128,7 @@ The federal desk requested that at least the administrator board and dual-partit
 
 The dispatcher relayed that isolation meant placement under certified technical authority.
 
-Ortiz’s gaze settled on `MPD-901446` and `MPD-901447`. “Those packages stay closed.”
+Ortiz’s gaze settled on MPD-901446 and MPD-901447. “Those packages stay closed.”
 
 No one argued from the radio. The request changed form instead. The federal watch desk asked MPD to hold position until an appropriate team could be assembled.
 
@@ -368,7 +368,7 @@ Ortiz asked for a written copy through verified government and MPD command chann
 
 The sentence made the choice irreversible.
 
-An MPD dispatcher confirmed that the hold request had entered incident `187463` and that the incomplete federal transfer claim would remain logged as a claim. The evidence transport was authorized to proceed to secure MPD intake with Ortiz retaining physical responsibility.
+An MPD dispatcher confirmed that the hold request had entered incident 187463 and that the incomplete federal transfer claim would remain logged as a claim. The evidence transport was authorized to proceed to secure MPD intake with Ortiz retaining physical responsibility.
 
 The lead paramedic looked at Marcus.
 
@@ -526,7 +526,7 @@ The outer gate opened.
 
 The evidence transport entered a fenced vehicle lane and stopped at a second barrier. Julie’s car followed into a parallel custody lane. Steel closed behind both vehicles before the inner doors moved.
 
-A mobile printer in Ortiz’s unit produced the verified written instruction. Park carried it to the evidence transport camera and held each page in view. The first page identified Hackett and incident `187463`. The second listed `MPD-901441` through `MPD-901447`. The third carried the handling conditions and the external preservation targets. The final paragraph repeated what the order did not decide.
+A mobile printer in Ortiz’s unit produced the verified written instruction. Park carried it to the evidence transport camera and held each page in view. The first page identified Hackett and incident 187463. The second listed MPD-901441 through MPD-901447. The third carried the handling conditions and the external preservation targets. The final paragraph repeated what the order did not decide.
 
 Julie watched Park return the pages to a clear evidence-document sleeve rather than place them inside any package.
 
@@ -640,7 +640,7 @@ Ortiz read the name, then asked the only question that mattered.
 
 “All seven?”
 
-The answer, carried through dispatch, applied only to `MPD-901441`.
+The answer, carried through dispatch, applied only to MPD-901441.
 
 Ortiz recorded the offer and refused it. A named person accepting one package did not satisfy a hold written around the complete incident. The existence of a name made the deficiency more precise. It did not make the transfer whole.
 

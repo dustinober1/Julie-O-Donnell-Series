@@ -1,4 +1,4 @@
-# Chapter 5 - The Second Clock
+# Chapter 5 — The Second Clock
 
 Apex Building Three
 
@@ -6,80 +6,7 @@ Reston, Virginia
 
 15:41 Eastern Daylight Time
 
-Elias Thorne had built a message out of a thermostat because every approved communication device in the room belonged to the people holding him.
-
-He sat at the steel table with his hands beneath it, shielding his work from the camera mounted above the door. The thin circuit board from the maintenance drive rested against his left palm. Two copper filaments, stripped from the thermostat wiring, extended from its exposed contacts.
-
-The device had not been designed to survive outside its plastic housing. One careless movement could snap it in half.
-
-That would destroy the only copy of the production bridge record that Apex had not already erased.
-
-Elias pressed one filament against the thermostat’s service port.
-
-The display flickered.
-
-ROOM TEMPERATURE: 67°F
-
-He touched the second wire to a diagnostic contact.
-
-The temperature vanished.
-
-FACILITIES BUS ACTIVE
-NODE: B3-COMP-04
-
-Apex had isolated the holding room from the corporate network, but the environmental controls remained connected to the building-management system. Fire codes required the room to report heat, smoke, airflow, and carbon-dioxide levels even during a security quarantine.
-
-The environmental network could not reach the internet.
-
-It did not need to.
-
-It reached every mechanical room in Building Three.
-
-Elias entered the only message he could send without a keyboard.
-
-He bridged the contacts eight times.
-
-Paused.
-
-Eight times again.
-
-The thermostat recorded each bridge as a compressor-pressure fault.
-
-FAULT 0088
-FAULT 0088
-FAULT 0088
-
-He changed the node identifier to the maintenance zone nearest the room.
-
-B3-COMP-04.
-
-Then he added the destination that mattered.
-
-B2-CORE-01.
-
-The final diagnostic line read:
-
-0088 / COMP-04 / CORE-01
-
-Anyone else would see corrupted equipment telemetry.
-
-Julie O’Donnell might see a trail.
-
-Assuming she was still free.
-
-Assuming she had escaped the facility.
-
-Assuming she had found his name inside the archive.
-
-Assuming she had any reason to believe he was not the person who deployed the false package.
-
-Elias removed the filaments.
-
-The thermostat returned to normal.
-
-He slid the circuit board behind his Apex identification card and pressed the badge casing closed.
-
-The room’s steel door opened.
+The maintenance message had already gone out through the thermostat: 0088 / COMP-04 / CORE-01. The building bus had accepted it, the display had returned to sixty-seven degrees, and Elias Thorne now sat beneath the camera with the circuit board hidden behind his Apex badge, waiting to learn whether anyone had noticed before Vance did.
 
 Arthur Vance entered without knocking.
 
@@ -90,6 +17,8 @@ Elias looked toward the wall clock.
 15:43.
 
 The Argus source certification would transmit in forty-seven minutes.
+
+His father expected him in Richmond by seven for a retirement dinner Elias had spent three weeks promising not to miss. The wrapped gift was still in his townhouse beside a card he had not finished.
 
 Vance sat across from him.
 
@@ -123,49 +52,31 @@ Vance studied him for a moment.
 
 “Have you ever considered why systems like Argus exist?”
 
-Elias almost laughed.
+Elias almost laughed. “I helped build it.”
 
-“I helped build it.”
-
-“You helped build a component. I’m asking whether you understand the purpose.”
-
-“To analyze threat data.”
-
-“To reduce ambiguity.”
-
-“Those aren’t the same thing.”
-
-“They are to the people responsible for acting.”
-
-Vance opened the folder and removed the confession Elias had refused to sign earlier. The blank signature line waited at the bottom.
-
-“Commanders do not have the luxury of your distinctions,” Vance said. “They receive incomplete information under time pressure. They need a defensible course of action.”
+“You helped build a component. Commanders receive incomplete information under time pressure. They need a defensible course of action.”
 
 “You gave them fictional data.”
 
-“We gave the model a complete pattern.”
+“The model received a source-correction object derived from validated threat patterns.”
 
-“You removed the synthetic labels.”
+“Without the synthetic labels.”
 
-“We corrected a test-environment limitation.”
+“The operational configuration is under review.”
 
-Elias stared at him.
+“By the people who approved it.”
 
-Vance did not appear to realize he had admitted anything.
+Vance opened the folder and removed the statement Elias had refused to sign. The blank signature line waited at the bottom.
 
-Or he knew Elias would never be allowed to repeat it.
+“Your source-boundary objection does not establish that the strategic warning is false,” Vance said.
 
-“People will die,” Elias said.
+“It establishes that you made fiction admissible.”
 
-“People die when governments miscalculate.”
+“It establishes a dispute about provenance. Until an authorized review resolves it, I will not withdraw a warning that may be correct.”
 
-“You are manufacturing the calculation.”
+“You are protecting the conclusion.”
 
-“I am ensuring the system reaches the correct strategic conclusion.”
-
-“The correct conclusion according to whom?”
-
-“According to people who understand consequences beyond a single software package.”
+“I am protecting the decision process from an engineer who believes authorship confers command authority.”
 
 Elias looked at the confession.
 
@@ -251,17 +162,11 @@ Elias looked at the clock.
 
 “You know exactly what that packet will do.”
 
-“I know that Pakistan has exploited uncertainty along the Line of Control for decades. I know India has repeatedly asked for more reliable American intelligence integration. And I know a controlled demonstration of Argus’s value will save the program from people who would dismantle it because they are frightened by its capabilities.”
+“I know Pakistan has exploited uncertainty along the Line of Control for decades. I know India asked for machine-readable warning integration after previous failures. And I know withdrawing a strategic assessment because its author disputes a source boundary would cripple the program during a possible real threat.”
 
-“Controlled?”
+“So you need the warning to be right.”
 
-“Regional actors understand escalation.”
-
-“Then why fabricate an attack?”
-
-Vance picked up his coffee.
-
-“Because institutions rarely correct themselves in response to hypothetical danger.”
+Vance picked up his coffee. “I need authorized people to decide whether it is wrong.”
 
 The door opened behind him.
 

@@ -1,4 +1,4 @@
-# Chapter 7 - The Human Key
+# Chapter 7 — The Human Key
 
 Apex Building Three
 Reston, Virginia
@@ -83,14 +83,14 @@ He swallowed and guided the contacts home.
 The panel changed.
 
 HARDWARE CERTIFICATE DETECTED
- THORNE, ELIAS M.
+THORNE, ELIAS M.
 
 For one second, relief moved across his face.
 
 Then the next lines appeared.
 
 EMPLOYEE STATUS: REVOKED
- STANDARD ACCESS: DENIED
+STANDARD ACCESS: DENIED
 
 The slot ejected the board half an inch.
 
@@ -111,7 +111,7 @@ SELECT IDENTITY DOMAIN
 Two entries appeared.
 
 APEX EMPLOYEE
- ENCLAVE EMERGENCY ADMINISTRATOR
+ENCLAVE EMERGENCY ADMINISTRATOR
 
 Elias hesitated over the second.
 
@@ -122,8 +122,8 @@ He selected it.
 The panel paused long enough for Julie to hear the controlled scrape of equipment at the corridor bend.
 
 ENCLAVE ROLE RECOGNIZED
- LOCAL QUARANTINE AUTHORITY VALID
- ROTATING PIN REQUIRED
+LOCAL QUARANTINE AUTHORITY VALID
+ROTATING PIN REQUIRED
 
 A six-digit field opened on the screen.
 
@@ -258,7 +258,7 @@ Two.
 Elias pressed ENTER.
 
 PIN ACCEPTED
- LIVE-FINGER CONFIRMATION REQUIRED
+LIVE-FINGER CONFIRMATION REQUIRED
 
 A glass pad extended from the panel.
 
@@ -283,8 +283,8 @@ Elias pressed his finger to the glass.
 The panel displayed a gray outline of his print, then a red warning.
 
 LIVENESS INDETERMINATE
- SURFACE TEMPERATURE BELOW THRESHOLD
- MAINTAIN CONTACT
+SURFACE TEMPERATURE BELOW THRESHOLD
+MAINTAIN CONTACT
 
 “It checks capillary response,” Elias said. “Temperature, blood flow, pressure variation. It won’t take a dead print or a cold one.”
 
@@ -329,7 +329,7 @@ Marcus released the handles. The last white vapor drifted around him. He set the
 The panel chimed.
 
 LIVE BIOMETRIC CONFIRMED
- TOKEN PRIVATE KEY UNLOCKED
+TOKEN PRIVATE KEY UNLOCKED
 
 The circuit board’s display changed from the rotating digits to a single line.
 
@@ -344,13 +344,13 @@ Julie watched the white cloud thin. “How long?”
 The display updated.
 
 CHALLENGE RESPONSE VERIFIED
- EMERGENCY ACCESS RECORD PENDING
+EMERGENCY ACCESS RECORD PENDING
 
 A final screen replaced it.
 
 ADMINISTRATOR: THORNE, ELIAS M.
- ROLE: ENCLAVE EMERGENCY ADMINISTRATOR
- ACTION: QUARANTINE GATE RELEASE
+ROLE: ENCLAVE EMERGENCY ADMINISTRATOR
+ACTION: QUARANTINE GATE RELEASE
 
 CONTINUING WILL CREATE AN IMMUTABLE LOCAL AUDIT RECORD AND NOTIFY THE DESIGNATED SECURITY AUTHORITY.
 
@@ -361,17 +361,17 @@ Elias did not move.
 The shield emerged from the vapor nine feet away.
 
 Apex Security Command Center
- 04:56 Eastern Daylight Time
+04:56 Eastern Daylight Time
 
 The enclave alarm reached Sarah Chen through a path the quarantine had been designed to preserve.
 
 A narrow amber box opened over the lower-tier schematic.
 
 EMERGENCY ADMINISTRATOR AUTHENTICATION
- THORNE, ELIAS M.
- REAR QUARANTINE GATE
- CHALLENGE RESPONSE VERIFIED
- FINAL CONFIRMATION PENDING
+THORNE, ELIAS M.
+REAR QUARANTINE GATE
+CHALLENGE RESPONSE VERIFIED
+FINAL CONFIRMATION PENDING
 
 Sarah read it once.
 
@@ -436,7 +436,7 @@ She had not repeated Vance’s last sentence.
 She had still sent the team forward.
 
 Production Enclave Approach
- 04:56 Eastern Daylight Time
+04:56 Eastern Daylight Time
 
 The CONFIRM field waited beneath Elias’s name.
 
@@ -471,8 +471,8 @@ He pressed CONFIRM.
 The panel gave a low two-note tone.
 
 EMERGENCY ACCESS COMMITTED
- AUDIT SEAL WRITTEN
- GATE RELEASE SEQUENCE ACTIVE
+AUDIT SEAL WRITTEN
+GATE RELEASE SEQUENCE ACTIVE
 
 The first locking bolt retracted inside the wall with a metallic impact that Julie felt through the floor.
 
@@ -489,8 +489,8 @@ Six bolts withdrew from alternating sides of the frame, each separated by a deli
 The panel advanced.
 
 LOCK ARRAY CLEAR
- ACTUATOR POWER CONFIRMED
- PRESSURE EQUALIZATION ACTIVE
+ACTUATOR POWER CONFIRMED
+PRESSURE EQUALIZATION ACTIVE
 
 A vent opened above the gate. Cold dry air moved outward across Julie’s face, carrying the faint smell of metal and filtered dust. On the panel, the pressure difference fell one number at a time.
 
@@ -559,7 +559,7 @@ Too narrow for a person.
 The panel displayed:
 
 ENTRY APERTURE: 102 MM
- FULL SERVICE OPEN: 44 SECONDS
+FULL SERVICE OPEN: 44 SECONDS
 
 Marcus looked at the team regrouping six feet away.
 
@@ -610,7 +610,7 @@ Its top corner crossed the yellow clearance line.
 A warning sounded, and the gate stopped.
 
 HINGE ARC OBSTRUCTION
- ENTRY CYCLE HOLD
+ENTRY CYCLE HOLD
 
 The operator pulled the shield clear. Two seconds later, the slabs resumed opening, but the entire front rank had been forced to stop and reset outside the frame.
 
@@ -761,7 +761,7 @@ The seam vanished.
 Locking bolts drove home in sequence. One. Two. Three. The impacts traveled through the floor until the sixth bolt seated and the motors went quiet.
 
 GATE SECURED
- EMERGENCY ENTRY COMPLETE
+EMERGENCY ENTRY COMPLETE
 
 The enclave held still for half a second.
 
@@ -776,8 +776,8 @@ Elias sat against the wall with one leg extended. He looked at the circuit board
 A local display above it showed:
 
 EMERGENCY ACCESS RECORDED
- ADMINISTRATOR: THORNE, ELIAS M.
- AUDIT SEAL: COMMITTED
+ADMINISTRATOR: THORNE, ELIAS M.
+AUDIT SEAL: COMMITTED
 
 His name remained on the screen after every other status line cleared.
 
@@ -802,16 +802,16 @@ The machines had continued working through the pursuit, the quarantine, and the 
 The recovery console awakened as the authenticated gate session registered inside the enclave.
 
 EMERGENCY PROVENANCE RECOVERY
- PRESENT DISPUTED OPERATIONAL SOURCE
+PRESENT DISPUTED OPERATIONAL SOURCE
 
 Julie held the case but did not open it.
 
 A second display came alive above the console.
 
 ARGUS STRATEGIC RELEASE
- ASSESSMENT STATE: VALIDATED
- FINALIZATION ACTIVE
- EXTERNAL COMMIT QUEUE: ARMED
+ASSESSMENT STATE: VALIDATED
+FINALIZATION ACTIVE
+EXTERNAL COMMIT QUEUE: ARMED
 
 The last line populated a moment later.
 

@@ -1,4 +1,4 @@
-# Chapter 4 - Burn Notice
+# Chapter 4 — Burn Notice
 
 Prince William County, Virginia
 

@@ -1,6 +1,6 @@
 12:18:04 EDT / 21:48:04 IST
 
-# Chapter 22 - The Release Record
+# Chapter 22 — The Release Record
 
 Secure MPD Evidence Intake
 Washington, D.C.
@@ -9,13 +9,13 @@ The first answer to Julie’s question arrived with the event order removed.
 
 Apex called it a preservation response.
 
-The document opened in Grant’s window under the identifier already attached to Building Three’s preserved categories, `APX-B3-IR-5521`. It confirmed that identity-mapping records, remote-product records, executive release records, camera segments, access events, and command traffic remained held. Beneath the list, a corporate summary reduced them to one sentence.
+The document opened in Grant’s window under the identifier already attached to Building Three’s preserved categories, APX-B3-IR-5521. It confirmed that identity-mapping records, remote-product records, executive release records, camera segments, access events, and command traffic remained held. Beneath the list, a corporate summary reduced them to one sentence.
 
-`REMOTE RECONSTRUCTION EXECUTED AFTER FAILURE OF LOCAL FIELD AUTHORIZATION UNDER CONTINUITY RESPONSE AUTHORITY.`
+REMOTE RECONSTRUCTION EXECUTED AFTER FAILURE OF LOCAL FIELD AUTHORIZATION UNDER CONTINUITY RESPONSE AUTHORITY.
 
 No request object appeared before the reconstruction. No local conflict appeared before the release. No person appeared at all.
 
-Julie remained in the camera-covered alcove with her left wrist fixed to the front restraint. Her right forearm lay inside the padded brace, the swollen hand open because it could not close. Through the reinforced glass, Ortiz stood beside the locked common chest. Park occupied the witness position. Seven green package states remained in the same order they had held at the end of Chapter 21.
+Julie remained in the camera-covered alcove with her left wrist fixed to the front restraint. Her right forearm lay inside the padded brace, the swollen hand open because it could not close. Through the reinforced glass, Ortiz stood beside the locked common chest. Park occupied the witness position. Seven green package states remained in the same order they had held at the close of the borrowed-identity comparison.
 
 Grant read the source list, then the summary. “Apex acknowledges every category we demanded and produces none of the source events.”
 
@@ -33,11 +33,11 @@ The pressure of the restraint had turned the skin beneath Julie’s left cuff wh
 
 Grant enlarged the category index. The executive-release line carried an original identifier that had not appeared in the summary.
 
-`APX-B3-RR-0754`
+APX-B3-RR-0754
 
-`RETENTION: SOURCE-NATIVE / COMPLETE EVENT RANGE`
+RETENTION: SOURCE-NATIVE / COMPLETE EVENT RANGE
 
-`LOCAL OPERATOR STATE: PRESERVED`
+LOCAL OPERATOR STATE: PRESERVED
 
 The last field changed the room.
 
@@ -69,7 +69,7 @@ The counsel line went silent long enough for Julie to hear the muted television 
 
 Ortiz read the chest state into the fixed camera.
 
-“`MPD-901441` through `MPD-901447`: sealed, separate, offline, stationary. Common chest locked. No movement.”
+“MPD-901441 through MPD-901447: sealed, separate, offline, stationary. Common chest locked. No movement.”
 
 Park confirmed it.
 
@@ -83,25 +83,25 @@ The continuity broker’s original remained inside a Legislative Secure Services
 
 Marisol Vega appeared through an authenticated LSS source window. Her camera showed only her face, a fixed wall clock, and the top edge of a sealed records console. She identified the original before exposing any event.
 
-“Source original `SO-CB-6540-01`. Legislative Secure Services continuity-broker journal for office request object `SO-NS-REQ-6540`. Current custodian: LSS compromise-control records under my deputy authority. Authorized event range begins with receipt of the inherited request reference and ends with delivery of the routed request object. The range is complete for broker processing. It does not include office deliberations before receipt or actions after delivery.”
+“Source original SO-CB-6540-01. Legislative Secure Services continuity-broker journal for office request object SO-NS-REQ-6540. Current custodian: LSS compromise-control records under my deputy authority. Authorized event range begins with receipt of the inherited request reference and ends with delivery of the routed request object. The range is complete for broker processing. It does not include office deliberations before receipt or actions after delivery.”
 
 Grant had Vega state the clock basis, the read-only production method, the camera references, and the fields withheld. Internal office text, privileged communications, unrelated request traffic, and identities outside the mapped roles remained sealed. The derivative would preserve event order, field inheritance, authority bindings, request destinations, and the broker’s own proof limit.
 
 Vega advanced the original one event at a time.
 
-The broker received Price’s authentic request reference after his active authority had ended. It inherited his name, role identifier, request number, and the raw-source/source-integrity subject line. The next event invoked a continuity map registered as `APX-ICF-4`.
+The broker received Price’s authentic request reference after his active authority had ended. It inherited his name, role identifier, request number, and the raw-source/source-integrity subject line. The next event invoked a continuity map registered as APX-ICF-4.
 
 The map did not carry a person’s name.
 
 It carried rules.
 
-`SOURCE IDENTITY: INHERIT`
+SOURCE IDENTITY: INHERIT
 
-`SUBJECT REFERENCE: INHERIT`
+SUBJECT REFERENCE: INHERIT
 
-`OPERATIONAL ROUTING: MAP FROM AUTHORITY OBJECT`
+OPERATIONAL ROUTING: MAP FROM AUTHORITY OBJECT
 
-`AUTHORITY-BINDING FAMILY: APX-EXEC-CONTINUITY`
+AUTHORITY-BINDING FAMILY: APX-EXEC-CONTINUITY
 
 The broker then added fields absent from Price’s original: WSS-4, Hartwell, K-17, Phase B, emergency routing, and an Argus reconstruction destination. The resulting object retained Price’s request reference while becoming something Price had never asked for.
 
@@ -109,9 +109,9 @@ Hackett said, “Who invoked the map?”
 
 Vega exposed the next field.
 
-`CONSTRUCTOR SERVICE: LSS CONTINUITY BROKER`
+CONSTRUCTOR SERVICE: LSS CONTINUITY BROKER
 
-`CALLING HUMAN IDENTITY: NOT RECORDED IN BROKER JOURNAL`
+CALLING HUMAN IDENTITY: NOT RECORDED IN BROKER JOURNAL
 
 Office counsel entered immediately. “The service performed an automated continuity function. No evidence establishes improper human intervention.”
 
@@ -119,35 +119,35 @@ Office counsel entered immediately. “The service performed an automated contin
 
 The complete broker range contained no PIV event, biometric, live operator state, office workstation identity, or witness field capable of naming the person who invoked the workflow. Absence mattered because the range was complete for broker processing. It did not turn the service into the author.
 
-Vega generated `SO-CD-187463-03`. The derivative named `SO-CB-6540-01`, LSS as current custodian, the complete event range, the LSS clock basis, every inherited and added field, the `APX-ICF-4` mapping reference, the authority-binding family, produced and withheld fields, the read-only extraction method, and the new derivative seal.
+Vega generated SO-CD-187463-03. The derivative named SO-CB-6540-01, LSS as current custodian, the complete event range, the LSS clock basis, every inherited and added field, the APX-ICF-4 mapping reference, the authority-binding family, produced and withheld fields, the read-only extraction method, and the new derivative seal.
 
 Its first-page limit was blunt.
 
-`CONTINUITY BROKER IDENTIFIES CONSTRUCTION MECHANISM. HUMAN CONSTRUCTOR NOT RECORDED.`
+CONTINUITY BROKER IDENTIFIES CONSTRUCTION MECHANISM. HUMAN CONSTRUCTOR NOT RECORDED.
 
 The original did not move. Vega kept the broker journal inside LSS compromise control, and the derivative crossed only after its event count, first identifier, last identifier, and source seal matched the source console. Office counsel’s privilege objection traveled with it. So did the statement that the withheld deliberative fields might contain an instruction the broker itself could not record. The production preserved both the usable mechanism and the possibility that a different lawful process might later reach the human request behind it.
 
-Julie watched Grant place it beside Price’s DIA original and the Chapter 21 comparison. The clean request and the later object now met at a mechanism rather than a person.
+Julie watched Grant place it beside Price’s DIA original and the borrowed-identity comparison. The clean request and the later object now met at a mechanism rather than a person.
 
 Apex’s identity production came next.
 
-Sarah Chen appeared only as source certifier at this stage, framed by a fixed camera in Building Three. She identified the Apex original as `APX-B3-IDM-0214`, an identity-mapping and workstation-mirror journal associated with the Elias-attributed 02:14 deployment. The original remained inside the Building Three preserved-record domain under the active federal hold. Chen stated that the source range covered mirror creation, identity binding, bridge presentation, and closure. It did not include an authenticated human operator event because the original recorded none.
+Sarah Chen appeared only as source certifier at this stage, framed by a fixed camera in Building Three. She identified the Apex original as APX-B3-IDM-0214, an identity-mapping and workstation-mirror journal associated with the Elias-attributed 02:14 deployment. The original remained inside the Building Three preserved-record domain under the active federal hold. Chen stated that the source range covered mirror creation, identity binding, bridge presentation, and closure. It did not include an authenticated human operator event because the original recorded none.
 
-The derivative `APX-CD-187463-02` exposed the mapping family.
+The derivative APX-CD-187463-02 exposed the mapping family.
 
-`IDENTITY-CONSTRUCTION FAMILY: APX-ICF-4`
+IDENTITY-CONSTRUCTION FAMILY: APX-ICF-4
 
-`AUTHORITY-BINDING FAMILY: APX-EXEC-CONTINUITY`
+AUTHORITY-BINDING FAMILY: APX-EXEC-CONTINUITY
 
-`BRIDGE AUTHORITY: APX-DIR-0019`
+BRIDGE AUTHORITY: APX-DIR-0019
 
-`EMPLOYEE IDENTITY PRESENTED: THORNE, ELIAS M.`
+EMPLOYEE IDENTITY PRESENTED: THORNE, ELIAS M.
 
-`PHYSICAL TOKEN SIGNING EVENT: ABSENT IN COMPLETE RANGE`
+PHYSICAL TOKEN SIGNING EVENT: ABSENT IN COMPLETE RANGE
 
-Chen’s production declaration fixed the Apex operations clock, first and last mirror events, original journal seal, and read-only extraction method. Unrelated employee identities, proprietary mapping libraries outside `APX-ICF-4`, and later voluntary Elias activity remained withheld or separately controlled. The original stayed write-disabled inside the Building Three preserved-record domain. The derivative seal established what Apex had produced; it did not turn an absent operator field into proof that no person had initiated the mirror somewhere upstream.
+Chen’s production declaration fixed the Apex operations clock, first and last mirror events, original journal seal, and read-only extraction method. Unrelated employee identities, proprietary mapping libraries outside APX-ICF-4, and later voluntary Elias activity remained withheld or separately controlled. The original stayed write-disabled inside the Building Three preserved-record domain. The derivative seal established what Apex had produced; it did not turn an absent operator field into proof that no person had initiated the mirror somewhere upstream.
 
-The same family had assembled Price’s borrowed request and Elias’s framed workstation identity. It had inherited one person’s request reference and another person’s deployment identity. `APX-DIR-0019` appeared at the authority-binding layer in both paths.
+The same family had assembled Price’s borrowed request and Elias’s framed workstation identity. It had inherited one person’s request reference and another person’s deployment identity. APX-DIR-0019 appeared at the authority-binding layer in both paths.
 
 Hackett looked at the two derivatives. “Same construction family. Same executive binding.”
 
@@ -181,7 +181,7 @@ On Sarah’s left screen, the Apex summary waited for her certification.
 
 On the right, the original release record remained open.
 
-`APX-B3-RR-0754`
+APX-B3-RR-0754
 
 The event range began at 07:51:38.006 EDT on the Building Three disciplined operations clock and ended at 07:52:19.771. The range was complete for the release object. Sarah had verified its first and last event identifiers against the source journal before Alvarez’s demand reached the room.
 
@@ -195,7 +195,7 @@ Apex counsel spoke through the overhead channel. “Certify the consolidated res
 
 A second line entered beneath counsel’s name.
 
-`CERTIFYING OFFICIAL ACCESS REVIEW INITIATED`
+CERTIFYING OFFICIAL ACCESS REVIEW INITIATED
 
 Sarah read it and did not look away from the original.
 
@@ -215,39 +215,39 @@ He left it out.
 
 The release original opened with the government conflict receipt attached to the proposed reconstruction.
 
-`K17 LOCAL AUTHENTICATION: INCOMPLETE`
+K17 LOCAL AUTHENTICATION: INCOMPLETE
 
-`LOCAL MAINTENANCE COMMIT: NOT EXECUTED`
+LOCAL MAINTENANCE COMMIT: NOT EXECUTED
 
-`LOCAL SOURCE-STATE WRITES: 0`
+LOCAL SOURCE-STATE WRITES: 0
 
-`CONFLICT RECEIVED: 07:49:08.214 EDT`
+CONFLICT RECEIVED: 07:49:08.214 EDT
 
-The next object was `ARGUS-K17-RC-0751`, a remote reconstruction assembled after the K-17 local authorization expired. Its source list included the prior actionable product and a continuity-routed request derived through `APX-ICF-4`. The object did not claim the K-17 commit had succeeded. It offered a remote product-level reconstruction that would omit the failed local events from the actionable picture.
+The next object was ARGUS-K17-RC-0751, a remote reconstruction assembled after the K-17 local authorization expired. Its source list included the prior actionable product and a continuity-routed request derived through APX-ICF-4. The object did not claim the K-17 commit had succeeded. It offered a remote product-level reconstruction that would omit the failed local events from the actionable picture.
 
 At 07:51:59.890, the release console presented the conflict again.
 
-`SOURCE-STATE CONFLICT AVAILABLE`
+SOURCE-STATE CONFLICT AVAILABLE
 
-`FAILED LOCAL AUTHENTICATION INCLUDED`
+FAILED LOCAL AUTHENTICATION INCLUDED
 
-`ZERO-WRITE RESULT INCLUDED`
+ZERO-WRITE RESULT INCLUDED
 
-`EXECUTIVE RELEASE REQUIRED`
+EXECUTIVE RELEASE REQUIRED
 
 Sarah had been in the room that morning. The source did not need her memory to establish the display. Her memory mattered for the person standing in front of it.
 
-The fixed camera segment `APX-B3-CAM-CR2-0752` placed Arthur Vance inside the operator box from 07:51:43.201 through 07:52:18.904. The access journal showed his credential entering the room. No second person entered the operator box. Sarah remained at the compliance position beyond the yellow line. Mercer stood in the open doorway after receiving the order to secure the record-control corridor.
+The fixed camera segment APX-B3-CAM-CR2-0752 placed Arthur Vance inside the operator box from 07:51:43.201 through 07:52:18.904. The access journal showed his credential entering the room. No second person entered the operator box. Sarah remained at the compliance position beyond the yellow line. Mercer stood in the open doorway after receiving the order to secure the record-control corridor.
 
 The local authentication began at 07:52:06.334.
 
-`OPERATOR PROFILE: VANCE, ARTHUR R.`
+OPERATOR PROFILE: VANCE, ARTHUR R.
 
-`LIVE PALM CONFIRMATION: ACCEPTED`
+LIVE PALM CONFIRMATION: ACCEPTED
 
-`LOCAL CHALLENGE RESPONSE: VERIFIED`
+LOCAL CHALLENGE RESPONSE: VERIFIED
 
-`EXECUTIVE AUTHORITY: APX-DIR-0019`
+EXECUTIVE AUTHORITY: APX-DIR-0019
 
 A registered certificate could have named Vance without placing him there. The live operator event placed a living hand against the local challenge, and the camera placed Vance at the reader when it happened.
 
@@ -263,13 +263,13 @@ Mercer’s declaration added only what he had observed: Vance inside the operato
 
 At 07:52:11.884, the source recorded the act.
 
-`REMOTE RECONSTRUCTION RELEASE: COMMITTED`
+REMOTE RECONSTRUCTION RELEASE: COMMITTED
 
-`RELEASE OBJECT: ARGUS-K17-RC-0751`
+RELEASE OBJECT: ARGUS-K17-RC-0751
 
-`OPERATOR AUTHENTICATION: VANCE, ARTHUR R. / LIVE LOCAL EVENT`
+OPERATOR AUTHENTICATION: VANCE, ARTHUR R. / LIVE LOCAL EVENT
 
-`LOCAL CONFLICT STATE: PRESENTED BEFORE RELEASE`
+LOCAL CONFLICT STATE: PRESENTED BEFORE RELEASE
 
 Six-tenths of a second later, the Apex output route accepted the object. The government registry received it on its own clock at 07:52:12.117. Forward Post Arjun received the authenticated superseding package at 07:52:20 and made it controlling at 07:54:00. Those were three source events, not one perfected time.
 
@@ -281,9 +281,9 @@ Apex counsel interrupted. “The camera cannot authenticate what the console dis
 
 Her access banner changed.
 
-`SOURCE CERTIFIER ROLE: SUSPENDED PENDING INTERNAL REVIEW`
+SOURCE CERTIFIER ROLE: SUSPENDED PENDING INTERNAL REVIEW
 
-The original remained open for forty seconds before the new role could close her session. Sarah selected source-native seal, named the original, camera segment, access journal, and command channel, then generated `APX-CD-187463-03`. The derivative included the complete release range, local operator state, executive authority, conflict display, release time, product identifiers, source clock, fixed-camera and access references, current custodian, produced and withheld fields, and proof limit. Privileged executive communications outside the release event, unrelated camera views, personnel records, and motive remained withheld.
+The original remained open for forty seconds before the new role could close her session. Sarah selected source-native seal, named the original, camera segment, access journal, and command channel, then generated APX-CD-187463-03. The derivative included the complete release range, local operator state, executive authority, conflict display, release time, product identifiers, source clock, fixed-camera and access references, current custodian, produced and withheld fields, and proof limit. Privileged executive communications outside the release event, unrelated camera views, personnel records, and motive remained withheld.
 
 She attached her declaration separately.
 
@@ -297,7 +297,7 @@ Apex could remove Sarah from the console.
 
 It could not make the source leave with her.
 
-At 12:47:09, `APX-CD-187463-03`, `CHEN-DECL-187463-01`, and `MERCER-DECL-187463-01` sealed on the government receiver.
+At 12:47:09, APX-CD-187463-03, CHEN-DECL-187463-01, and MERCER-DECL-187463-01 sealed on the government receiver.
 
 Secure MPD Evidence Intake
 Washington, D.C.
@@ -353,19 +353,19 @@ The words were recommendation, not order. Julie left them there.
 
 Alvarez muted herself. Her window showed her speaking to the duty attorney, the government product custodian, and someone beyond the camera frame. Hackett did not fill the silence. Grant kept the release derivative open with its proof limit visible.
 
-`PERSONAL FINDING LIMITED TO LATER REMOTE RELEASE.`
+PERSONAL FINDING LIMITED TO LATER REMOTE RELEASE.
 
-`ORIGINAL 02:14 HUMAN OPERATOR: NOT ESTABLISHED.`
+ORIGINAL 02:14 HUMAN OPERATOR: NOT ESTABLISHED.
 
-`REQUEST-CONSTRUCTION HUMAN INVOKER: NOT ESTABLISHED.`
+REQUEST-CONSTRUCTION HUMAN INVOKER: NOT ESTABLISHED.
 
-`STERLING PERSONAL COMMAND: NOT ESTABLISHED.`
+STERLING PERSONAL COMMAND: NOT ESTABLISHED.
 
 The muted television showed Sterling entering another corridor beneath a protective-services escort. The caption called the Building Three and Northbridge events a coordinated assault on strategic warning integrity. The country still had a complete person and a complete story. The private record had a narrower person attached to one exact act.
 
 Alvarez returned at 12:56:41.
 
-“DCIS order `DCIS-OAR-187463-01` is effective on acceptance by the government program authority,” she said. “Arthur Vance is removed from all Argus operational-release, security-incident, source-custody, and preservation-administration authority pending independent review. Apex employment status is not decided. No arrest, charge, guilt finding, or final personnel disposition is made.”
+“DCIS order DCIS-OAR-187463-01 is effective on acceptance by the government program authority,” she said. “Arthur Vance is removed from all Argus operational-release, security-incident, source-custody, and preservation-administration authority pending independent review. Apex employment status is not decided. No arrest, charge, guilt finding, or final personnel disposition is made.”
 
 Hackett inserted his program credential.
 
@@ -375,7 +375,7 @@ The government configuration custodian confirmed that Vance’s release authorit
 
 The Building Three originals remained in place under the joint hold. Sarah Chen’s certifier access remained suspended by Apex, but her source seal and declaration were already outside the company’s exclusive control. Mercer’s declaration remained separate.
 
-Julie felt the restraint pull tighter when her left hand tried to close. The swelling in her right forearm had forced Park to loosen the outer support once during Chapter 21; no one touched it now because her color and attention remained stable. That was the medical boundary of her influence: she could continue speaking, and nothing more.
+Julie felt the restraint pull tighter when her left hand tried to close. The swelling in her right forearm had forced Park to loosen the outer support once during the borrowed-identity comparison; no one touched it now because her color and attention remained stable. That was the medical boundary of her influence: she could continue speaking, and nothing more.
 
 Sterling remained unaccused by name in the finding. The choice protected him from the accusation the public expected Julie to make and from the shortcut Hackett had nearly taken. It also protected the record from collapsing the first time office counsel asked where his instruction appeared.
 
@@ -401,47 +401,47 @@ Grant refused to normalize them into one line.
 
 She built the finding as six separate acts.
 
-Price’s authentic request came first because it was the baseline, not because it caused what followed. `DIA-SAR-PRICE-01` showed a raw-source and source-integrity review. His authority ended before the later office request. The complete range showed no authenticated Price act matching the constructed object.
+Price’s authentic request came first because it was the baseline, not because it caused what followed. DIA-SAR-PRICE-01 showed a raw-source and source-integrity review. His authority ended before the later office request. The complete range showed no authenticated Price act matching the constructed object.
 
-The second act was the borrowed Price path. `SO-CB-6540-01` and `SO-CD-187463-03` showed inheritance of his identity and request reference, then the addition of WSS-4, Hartwell, K-17, Phase B, emergency routing, and Argus reconstruction fields through `APX-ICF-4`.
+The second act was the borrowed Price path. SO-CB-6540-01 and SO-CD-187463-03 showed inheritance of his identity and request reference, then the addition of WSS-4, Hartwell, K-17, Phase B, emergency routing, and Argus reconstruction fields through APX-ICF-4.
 
-The third was Elias’s framed original deployment identity. `APX-B3-IDM-0214`, `APX-CD-187463-02`, and the accepted board finding showed the same construction family and `APX-DIR-0019` binding. Elias’s physical board had no corresponding signing event. The identity was presented. The hand was not.
+The third was Elias’s framed original deployment identity. APX-B3-IDM-0214, APX-CD-187463-02, and the accepted board finding showed the same construction family and APX-DIR-0019 binding. Elias’s physical board had no corresponding signing event. The identity was presented. The hand was not.
 
-The fourth act belonged to K-17. `ARJ-K17-ACK-01` showed Security Line One passed under a Tariq-registered authority, a local source-record reconstruction was requested, final local authentication failed, the maintenance commit did not execute, and local writes remained zero. The source did not place Tariq on the mountain or identify the field team.
+The fourth act belonged to K-17. ARJ-K17-ACK-01 showed Security Line One passed under a Tariq-registered authority, a local source-record reconstruction was requested, final local authentication failed, the maintenance commit did not execute, and local writes remained zero. The source did not place Tariq on the mountain or identify the field team.
 
-The fifth was the successful remote reconstruction. The government Argus registry original, retained by the Argus Configuration Control Office, produced `ARGUS-CD-187463-01` through a read-only source export. The derivative named the complete registry range, separate source clocks, product identifiers, event order, produced and withheld fields, and integrity seal.
+The fifth was the successful remote reconstruction. The government Argus registry original, retained by the Argus Configuration Control Office, produced ARGUS-CD-187463-01 through a read-only source export. The derivative named the complete registry range, separate source clocks, product identifiers, event order, produced and withheld fields, and integrity seal.
 
-`PRIOR ACTIONABLE PRODUCT: ARGUS-K17-AP-0719`
+PRIOR ACTIONABLE PRODUCT: ARGUS-K17-AP-0719
 
-`LOCAL CONFLICT RECEIPT: K17 FINAL AUTHENTICATION INCOMPLETE / WRITES 0`
+LOCAL CONFLICT RECEIPT: K17 FINAL AUTHENTICATION INCOMPLETE / WRITES 0
 
-`REMOTE RECONSTRUCTION OBJECT: ARGUS-K17-RC-0751`
+REMOTE RECONSTRUCTION OBJECT: ARGUS-K17-RC-0751
 
-`RELEASE ACCEPTED: 07:52:12.117 EDT / GOVERNMENT REGISTRY CLOCK`
+RELEASE ACCEPTED: 07:52:12.117 EDT / GOVERNMENT REGISTRY CLOCK
 
-`SUPERSEDING PRODUCT: ARGUS-K17-SP-0754`
+SUPERSEDING PRODUCT: ARGUS-K17-SP-0754
 
-`ARJUN RECEIPT: 07:52:20 EDT / 17:22:20 IST`
+ARJUN RECEIPT: 07:52:20 EDT / 17:22:20 IST
 
-`CONTROLLING STATE: 07:54:00 EDT / 17:24:00 IST`
+CONTROLLING STATE: 07:54:00 EDT / 17:24:00 IST
 
 The derivative established that the failed local commit did not generate the later product. A distinct remote object entered the registry after the local failure. The superseding product omitted the failed local events from the actionable picture. It did not establish why the reconstruction was built or who instructed Apex.
 
-The sixth act was Vance’s later release. `APX-B3-RR-0754` and `APX-CD-187463-03` supplied the source-native live operator event. The camera and access records placed Vance at the console. Chen and Mercer supplied independent direct observations. The conflict state was present before his live palm confirmation. The release committed at 07:52:11.884.
+The sixth act was Vance’s later release. APX-B3-RR-0754 and APX-CD-187463-03 supplied the source-native live operator event. The camera and access records placed Vance at the console. Chen and Mercer supplied independent direct observations. The conflict state was present before his live palm confirmation. The release committed at 07:52:11.884.
 
 Grant made the finding read all six source limitations before its conclusion.
 
-`COMMON CONSTRUCTION FAMILY: ESTABLISHED`
+COMMON CONSTRUCTION FAMILY: ESTABLISHED
 
-`COMMON HUMAN INVOKER: NOT ESTABLISHED`
+COMMON HUMAN INVOKER: NOT ESTABLISHED
 
-`FAILED LOCAL COMMIT AND SUCCESSFUL REMOTE RECONSTRUCTION: DISTINCT EVENTS`
+FAILED LOCAL COMMIT AND SUCCESSFUL REMOTE RECONSTRUCTION: DISTINCT EVENTS
 
-`VANCE PERSONAL PARTICIPATION: ESTABLISHED FOR LATER REMOTE RELEASE ONLY`
+VANCE PERSONAL PARTICIPATION: ESTABLISHED FOR LATER REMOTE RELEASE ONLY
 
-`VANCE ORIGINAL 02:14 DEPLOYMENT ACT: NOT ESTABLISHED`
+VANCE ORIGINAL 02:14 DEPLOYMENT ACT: NOT ESTABLISHED
 
-`STERLING PERSONAL COMMAND: NOT ESTABLISHED`
+STERLING PERSONAL COMMAND: NOT ESTABLISHED
 
 Office counsel objected that the continuity broker belonged to routine legislative support. Apex counsel objected that the mapping family was proprietary and the release was a protected operational judgment. The government registry custodian withheld unrelated product traffic, source geography, and methods. WSS kept its encrypted message blocks. Hartwell kept unrelated briefing records. DIA kept Price’s complete adverse and favorable material. Forward Post Arjun kept the local originals.
 
@@ -449,7 +449,7 @@ Every objection remained attached to the source it challenged.
 
 No objection became permission to erase event order.
 
-Grant signed the bounded finding as `DCIS-BF-187463-02`. Alvarez signed as federal receiving authority. Hackett signed only as military-program supporting authority and registry-access sponsor. Vega certified the office/LSS derivative. The government Argus custodian certified the product derivative. Sarah’s and Mercer’s declarations stayed separate. The Apex release and identity derivatives remained distinct from each other.
+Grant signed the bounded finding as DCIS-BF-187463-02. Alvarez signed as federal receiving authority. Hackett signed only as military-program supporting authority and registry-access sponsor. Vega certified the office/LSS derivative. The government Argus custodian certified the product derivative. Sarah’s and Mercer’s declarations stayed separate. The Apex release and identity derivatives remained distinct from each other.
 
 Ortiz read the chest state again at 13:06:51.
 
@@ -473,7 +473,7 @@ At 13:08:20, the bounded finding sealed.
 
 The private record was ready for an act no one in the room had authority to perform yet.
 
-Alvarez opened a release-preparation instrument without opening a press channel. `DCIS-PRP-187463-01` named the facts eligible for later authenticated public correction: the poisoned-source chain, the failed K-17 local commit, the distinct remote reconstruction, the borrowed Price and Elias identities, Vance’s later personal release, and his removal from operational control.
+Alvarez opened a release-preparation instrument without opening a press channel. DCIS-PRP-187463-01 named the facts eligible for later authenticated public correction: the poisoned-source chain, the failed K-17 local commit, the distinct remote reconstruction, the borrowed Price and Elias identities, Vance’s later personal release, and his removal from operational control.
 
 Sterling’s personal command was excluded from the releasable finding.
 
@@ -485,7 +485,7 @@ The Sterling office objected.
 
 The government Argus custodian required classification review.
 
-Alvarez recorded all three and assigned DCIS Office of General Counsel as the named controller of the authenticated counterrecord and public-correction preparation. The instrument named `DCIS-BF-187463-02` as its bounded merits source, listed every derivative and declaration by separate identifier, and prohibited any public draft from describing the common construction family as one human conspiracy. It also required the Vance release sentence to carry the words later remote release wherever it appeared.
+Alvarez recorded all three and assigned DCIS Office of General Counsel as the named controller of the authenticated counterrecord and public-correction preparation. The instrument named DCIS-BF-187463-02 as its bounded merits source, listed every derivative and declaration by separate identifier, and prohibited any public draft from describing the common construction family as one human conspiracy. It also required the Vance release sentence to carry the words later remote release wherever it appeared.
 
 The instrument authorized preservation, review, and drafting of a later public act. It authorized no release now.
 
@@ -509,7 +509,7 @@ The difference was private, lawful, and incomplete.
 
 “Seal it,” Julie said.
 
-At 13:12:44 EDT / 22:42:44 IST, DCIS controlled an authenticated counterrecord ready for later public use. `SSO-NS-004` remained closed and unused. All seven MPD packages remained sealed and stationary. Julie remained detained.
+At 13:12:44 EDT / 22:42:44 IST, DCIS controlled an authenticated counterrecord ready for later public use. SSO-NS-004 remained closed and unused. All seven MPD packages remained sealed and stationary. Julie remained detained.
 
 The next question was no longer whether the contradiction could survive.
 

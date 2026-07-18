@@ -1,6 +1,6 @@
-# Chapter 13 - The Carrier Stream
+# Chapter 13 — The Carrier Stream
 
-Downtown Washington  
+Downtown Washington
 07:18 Eastern Daylight Time
 
 The last vehicle in Sterling’s motorcade did not follow the armored sedan.
@@ -293,8 +293,8 @@ He gave her a tired look. “You are becoming predictable.”
 
 Elias used his left thumb to open the module’s handling screen. He kept his bandaged right index curled against the case.
 
-PARTITION A: SEALED / READ-ONLY / INTEGRITY VERIFIED  
-PARTITION B: SEALED / WSS-4 CONTROLLER SEAL PRESENT  
+PARTITION A: SEALED / READ-ONLY / INTEGRITY VERIFIED
+PARTITION B: SEALED / WSS-4 CONTROLLER SEAL PRESENT
 DEVICE HANDLING JOURNAL: AVAILABLE
 
 He selected EVENT MARK MODE.
@@ -337,8 +337,8 @@ Julie raised one finger.
 
 Elias pressed the event control.
 
-HANDLING EVENT 001  
-DEVICE TIME: 07:27:14.118  
+HANDLING EVENT 001
+DEVICE TIME: 07:27:14.118
 OPERATOR INPUT: MANUAL
 
 Marcus recorded the visible movement.
@@ -361,8 +361,8 @@ Julie watched the lane remain open.
 
 They kept watching.
 
-Apex Building Three  
-Reston, Virginia  
+Apex Building Three
+Reston, Virginia
 07:28 Eastern Daylight Time
 
 The plate hit reached Sarah Chen through Hartwell security, not Apex.
@@ -429,7 +429,7 @@ Julie had not escaped observation.
 
 She had moved to where every institution would have to explain what it saw.
 
-Commercial Garage West of Hartwell  
+Commercial Garage West of Hartwell
 07:31 Eastern Daylight Time
 
 The support vehicle returned from the south.
@@ -460,8 +460,8 @@ Marcus wrote.
 
 Elias pressed the marker.
 
-HANDLING EVENT 002  
-DEVICE TIME: 07:31:22.604  
+HANDLING EVENT 002
+DEVICE TIME: 07:31:22.604
 OPERATOR INPUT: MANUAL
 
 The motorcycle released the lane.
@@ -560,8 +560,8 @@ Elias looked at the module.
 
 He pressed it.
 
-HANDLING EVENT 003  
-DEVICE TIME: 07:33:11.093  
+HANDLING EVENT 003
+DEVICE TIME: 07:33:11.093
 OPERATOR INPUT: MANUAL
 
 Marcus wrote the obstruction time.
@@ -660,8 +660,8 @@ She could see that the vehicle had delivered a staff group into a route separate
 
 Elias pressed.
 
-HANDLING EVENT 004  
-DEVICE TIME: 07:35:18.771  
+HANDLING EVENT 004
+DEVICE TIME: 07:35:18.771
 OPERATOR INPUT: MANUAL
 
 Marcus wrote the visible facts and nothing more.
@@ -778,8 +778,8 @@ Elias looked at her.
 
 He pressed the marker at her nod.
 
-HANDLING EVENT 005  
-DEVICE TIME: 07:36:49.330  
+HANDLING EVENT 005
+DEVICE TIME: 07:36:49.330
 OPERATOR INPUT: MANUAL
 
 Marcus wrote:
@@ -926,7 +926,7 @@ A box truck was descending the west ramp. Beyond it, no police vehicle had enter
 
 “Once.”
 
-The answer matched Chapter 11.
+The answer matched the earlier custody record.
 
 Once could still be the useful one.
 
@@ -1182,8 +1182,8 @@ None of them visibly did.
 
 Elias pressed another event marker.
 
-HANDLING EVENT 006  
-DEVICE TIME: 07:43:31.882  
+HANDLING EVENT 006
+DEVICE TIME: 07:43:31.882
 OPERATOR INPUT: MANUAL
 
 The police officer said, “Sir, stop pressing controls.”
@@ -1248,8 +1248,8 @@ The panel, the officer, and the other bodies concealed it.
 
 Elias pressed.
 
-HANDLING EVENT 007  
-DEVICE TIME: 07:44:19.407  
+HANDLING EVENT 007
+DEVICE TIME: 07:44:19.407
 OPERATOR INPUT: MANUAL
 
 Marcus wrote from the passenger seat.

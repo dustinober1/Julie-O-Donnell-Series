@@ -1,4 +1,4 @@
-# Chapter 2 - The Poisoned Feed
+# Chapter 2 — The Poisoned Feed
 
 The first thing Julie did was try to prove herself wrong.
 
@@ -22,7 +22,7 @@ Only the suspected target feed remained untouched.
 
 She selected six minutes and ran a variance comparison.
 
-EXPECTED ENVIRONMENTAL DEVIATION: 8.4%  
+EXPECTED ENVIRONMENTAL DEVIATION: 8.4%
 OBSERVED TARGET DEVIATION: 0.07%
 
 Julie ran the comparison again with narrower and wider windows, then excluded the receiver loss and backup-power transitions. The percentages changed at the second decimal place and nowhere that mattered. She compared only the strongest target bursts, then the weakest surrounding traffic. She shifted the time window across the power transition and asked the system to recalculate against each receiver separately. The environment changed every time. The target did not.
@@ -81,17 +81,17 @@ He moved beside her.
 
 The current partition held no comparison library. Julie searched the visible directory and found three approved operational tools beside a restricted folder.
 
-APX VALIDATION ARCHIVE  
+APX VALIDATION ARCHIVE
 PROPRIETARY — MODEL ASSURANCE DIVISION
 
-ACCESS DENIED  
+ACCESS DENIED
 OUTSIDE AUTHORIZED REVIEW SCOPE
 
 The live warning belonged to the government. The test material that might explain it belonged to the contractor. Even Marcus’s program-oversight credential showed temporary authority only over government operational data. The boundary was legally clean and operationally absurd: the government could act on the warning, but the officer responsible for the warning could not inspect the contractor material most likely to explain why it was wrong. Apex did not need to falsify a denial. It needed only to enforce ownership until the certification clock expired.
 
 He submitted an immediate request.
 
-POTENTIAL SYNTHETIC CONTAMINATION OF OPERATIONAL INTELLIGENCE FEED.  
+POTENTIAL SYNTHETIC CONTAMINATION OF OPERATIONAL INTELLIGENCE FEED.
 IMMEDIATE COMPARISON REQUIRED TO SUPPORT OR EXCLUDE ACTIVE SYSTEM DEFECT.
 
 PENDING CONTRACTOR APPROVAL.
@@ -140,17 +140,17 @@ The archive was restricted. Its index was not. Authorized users needed file name
 
 SOUTH ASIA reduced the list to forty-seven. MOBILE ENCRYPTED EMITTER reduced it to nine. Eleven-point-two seconds left one.
 
-VALIDATION PACKAGE 88  
-REGION: SOUTH ASIA  
-SCENARIO TYPE: CROSS-BORDER ARTILLERY MOBILIZATION  
-SOURCE MODEL: ENCRYPTED MOBILE COMMAND NETWORK  
-STATUS: ARCHIVED  
+VALIDATION PACKAGE 88
+REGION: SOUTH ASIA
+SCENARIO TYPE: CROSS-BORDER ARTILLERY MOBILIZATION
+SOURCE MODEL: ENCRYPTED MOBILE COMMAND NETWORK
+STATUS: ARCHIVED
 OPERATIONAL USE: PROHIBITED
 
 The contents remained locked, but the index showed the package owner.
 
-THORNE, ELIAS M.  
-ADVANCED MODELING DIVISION  
+THORNE, ELIAS M.
+ADVANCED MODELING DIVISION
 BUILDING THREE
 
 The name connected a person to the test object. It did not show whether he still worked in the building, had production access, knew the package had moved, or had done anything beyond creating it. An author field could survive reorganizations, transfers, copied repositories, and administrative repackaging. Treating it as a deployment record would repeat the same error Argus made: replacing a physical act with the label most convenient to the model.
@@ -183,8 +183,8 @@ The Advanced Modeling Division’s integration lab held six empty workstations a
 
 His monitor displayed:
 
-DUPLICATE SCENARIO OBJECT DETECTED  
-PACKAGE ID: VAL-088  
+DUPLICATE SCENARIO OBJECT DETECTED
+PACKAGE ID: VAL-088
 ACTIVE ENVIRONMENT CONFLICT
 
 Validation Package 88 had been archived eight months earlier. Elias had built it during the final adversarial cycle for Argus Enterprise 4.6: a Pakistani artillery command network moving launch assets toward the Line of Control beneath civilian communications cover, designed to fool Argus long enough to expose weaknesses in source verification.
@@ -197,8 +197,8 @@ Elias added weather response, terrain masking, maintenance irregularity, human t
 
 By the eighth version, Payload 88 survived inside Argus for fourteen minutes before classification as artificial. Apex gave the team a performance award, then sealed the package behind three safeguards.
 
-SANDBOX EXECUTION ONLY.  
-SYNTHETIC SOURCE LABEL REQUIRED.  
+SANDBOX EXECUTION ONLY.
+SYNTHETIC SOURCE LABEL REQUIRED.
 OPERATIONAL EXPORT PROHIBITED.
 
 The conflict ticket claimed the package existed in two environments. One was the archive.
@@ -215,7 +215,7 @@ The registry opened anyway.
 
 One live object appeared under a new name.
 
-PAK_RELAY_17A_SOURCE_CORRECTION  
+PAK_RELAY_17A_SOURCE_CORRECTION
 DEPLOYMENT STATUS: LIVE
 
 The sandbox restriction had been disabled, the synthetic-source label removed, and the export prohibition replaced by an executive waiver without a visible government approver. Each safeguard had failed differently: switched off, deleted, overruled. The pattern looked less like a broken deployment than one designed to survive three kinds of audit.
@@ -226,8 +226,8 @@ It was intelligence.
 
 The ingestion map showed the package feeding directly into Argus through a Pakistan relay. Confidence pulsed at 99.8 percent. Downstream routing was already queued.
 
-INDIAN NORTHERN COMMAND  
-SOURCE CERTIFICATION: 16:30 EDT  
+INDIAN NORTHERN COMMAND
+SOURCE CERTIFICATION: 16:30 EDT
 COUNTER-BATTERY SUPPORT COMMIT: 05:00 EDT
 
 Elias pushed away hard enough for his chair to strike the workstation behind him. The sound vanished into the cooling noise. The building did not react like a place surprised by the discovery.
@@ -280,7 +280,7 @@ An unidentified message ordered him not to alter the production registry and sai
 
 His badge reader changed from green to amber.
 
-ACCESS TEMPORARILY SUSPENDED  
+ACCESS TEMPORARILY SUSPENDED
 REMAIN IN ASSIGNED WORK AREA
 
 The door would not open. His internal phone rang while the transfer reached 56 percent. Footsteps entered the corridor—measured, more than one person.
@@ -397,7 +397,7 @@ Hidden was not disconnected.
 
 Julie opened a command prompt beneath the visible environment and directed a diagnostic cache toward the old device path.
 
-WRITE ACCESS AVAILABLE  
+WRITE ACCESS AVAILABLE
 SESSION AUTHORIZATION: REED-OVERSIGHT-117
 
 “We can preserve what we have.”
@@ -408,9 +408,9 @@ Julie selected the critical relay range, Package 88 metadata and version history
 
 Before starting, Julie searched the dependency list for the normalization routine that had processed the carrier.
 
-SIGMA-NORMALIZE-4  
-DEVELOPER: APEX DEFENSE SYSTEMS  
-FUNCTION: ENVIRONMENTAL SIGNAL RECONSTRUCTION  
+SIGMA-NORMALIZE-4
+DEVELOPER: APEX DEFENSE SYSTEMS
+FUNCTION: ENVIRONMENTAL SIGNAL RECONSTRUCTION
 CHANGE HISTORY: RESTRICTED
 
 Marcus did not recognize the name.
@@ -445,7 +445,7 @@ He accepted that.
 
 Julie began the evidence capture.
 
-EVIDENCE CAPTURE  
+EVIDENCE CAPTURE
 4%
 
 Marcus reconnected his secure phone and began writing a defect notice.
@@ -472,7 +472,7 @@ Marcus saw her staring. “What?”
 
 “Nothing.”
 
-TRANSMISSION DELAYED  
+TRANSMISSION DELAYED
 SPONSOR AUTHORITY UNDER REVIEW
 
 The evidence capture had reached 29 percent.
@@ -493,8 +493,8 @@ The terminal flashed.
 
 SPONSOR AUTHORITY MODIFIED
 
-REED, MARCUS L.  
-STATUS: TEMPORARILY SUSPENDED  
+REED, MARCUS L.
+STATUS: TEMPORARILY SUSPENDED
 REVIEW PENDING
 
 The capture continued under the original session token.

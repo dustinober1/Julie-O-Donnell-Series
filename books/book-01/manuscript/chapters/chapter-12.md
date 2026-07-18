@@ -1,6 +1,6 @@
-# Chapter 12 - The Sterling Trap
+# Chapter 12 — The Sterling Trap
 
-Northern Virginia  
+Northern Virginia
 06:50 Eastern Daylight Time
 
 Sterling’s accusation followed PCF-27 toward the Roosevelt Bridge.
@@ -111,8 +111,8 @@ Julie leaned toward the open window. “If response moves early—”
 
 She nodded and turned away.
 
-Fenwick Annex Service Alley  
-Washington, D.C.  
+Fenwick Annex Service Alley
+Washington, D.C.
 06:58 Eastern Daylight Time
 
 The rear of the Fenwick Annex looked built to accept deliveries without admitting that deliveries existed.
@@ -175,8 +175,8 @@ The guard held out his hand. Julie gave him the paper.
 
 He entered the tenant identifier and authorization number into the landlord terminal.
 
-FORMAT VALID  
-TENANT IDENTIFIER CONFIRMED  
+FORMAT VALID
+TENANT IDENTIFIER CONFIRMED
 SPONSOR ACKNOWLEDGMENT REQUIRED
 
 “That means the number passes intake,” Elias said. “It doesn’t mean the tenant accepted us.”
@@ -223,8 +223,8 @@ Bell studied him. “How would you know the controller state from here?”
 
 He pointed to the tenant panel beside the inner door.
 
-WSS-4  
-PRE-SESSION DIAGNOSTIC WINDOW OPEN  
+WSS-4
+PRE-SESSION DIAGNOSTIC WINDOW OPEN
 LOCAL AUDIT CHECK AVAILABLE
 
 “That is normal before a scheduled session,” Bell said.
@@ -235,7 +235,7 @@ The panel did not say anyone had sent them.
 
 Bell used her badge to open the detail page.
 
-INCIDENT BUFFER SELF-TEST  
+INCIDENT BUFFER SELF-TEST
 STATUS: NOT YET CONFIRMED
 
 “It always says that until the test runs.”
@@ -278,8 +278,8 @@ No one looked like a conspirator.
 
 Bell led them through a controlled internal door to an unmarked gray entrance. She authenticated with her badge and code.
 
-NORTHBRIDGE STRATEGIC INITIATIVES  
-WSS-4 SECURE DOMAIN  
+NORTHBRIDGE STRATEGIC INITIATIVES
+WSS-4 SECURE DOMAIN
 SPONSOR AUTHENTICATION REQUIRED
 
 “Work order,” she said.
@@ -288,9 +288,9 @@ Julie gave it back.
 
 Bell entered the authorization number.
 
-SERVICE FORMAT VALID  
-LIVE TICKET: NOT FOUND  
-PROVISIONAL LOCAL DIAGNOSTIC PERMITTED  
+SERVICE FORMAT VALID
+LIVE TICKET: NOT FOUND
+PROVISIONAL LOCAL DIAGNOSTIC PERMITTED
 SPONSOR ACCEPTS RESPONSIBILITY
 
 “That is where this should stop,” Bell said.
@@ -299,7 +299,7 @@ The clock in the corner read 07:02:17.
 
 Elias looked at the two available controls.
 
-DECLINE SERVICE  
+DECLINE SERVICE
 AUTHORIZE ESCORTED DIAGNOSTIC
 
 Beneath the first:
@@ -314,8 +314,8 @@ The gray door unlocked.
 
 “Five minutes,” she said. “Then you leave whether your dispatcher answers or not.”
 
-Northbridge Secure Suite 4  
-Washington, D.C.  
+Northbridge Secure Suite 4
+Washington, D.C.
 07:03 Eastern Daylight Time
 
 WSS-4 occupied less space than Julie expected: a narrow equipment room, a two-person communications workspace, and a short corridor ending at a green-lit fire door. A hardened cabinet held the controller. Beside it stood the protected audit interface Elias had described at the cutout.
@@ -346,8 +346,8 @@ Elias broke the tamper tape and removed the incident module. Bell checked the se
 
 He opened the protected port.
 
-LOCAL INCIDENT MEDIA DETECTED  
-PARTITION A: SEALED / READ-ONLY / INTEGRITY VERIFIED  
+LOCAL INCIDENT MEDIA DETECTED
+PARTITION A: SEALED / READ-ONLY / INTEGRITY VERIFIED
 PARTITION B: EMPTY / WRITE-ARMED
 
 Bell leaned closer. “What is on Partition A?”
@@ -376,13 +376,13 @@ MEDIA CONTACT STABLE
 
 The interface requested the service identifier and audit scope. Elias entered the work-order number.
 
-LIVE SERVICE RECORD NOT FOUND  
+LIVE SERVICE RECORD NOT FOUND
 LOCAL SPONSOR EXCEPTION ACTIVE
 
 He selected:
 
-INCIDENT REASON: PRE-SESSION BUFFER RETENTION  
-AUDIT SCOPE: CURRENT SESSION ENVELOPE  
+INCIDENT REASON: PRE-SESSION BUFFER RETENTION
+AUDIT SCOPE: CURRENT SESSION ENVELOPE
 PRESERVE EXTERNAL TRUST CHAIN: YES
 
 Bell read the last field. “Why preserve the external chain for a buffer test?”
@@ -393,8 +393,8 @@ Bell read the last field. “Why preserve the external chain for a buffer test?�
 
 The controller transmitted before Elias could answer.
 
-VENDOR INTEGRITY NOTICE  
-APX SECURE FACILITY 4.2  
+VENDOR INTEGRITY NOTICE
+APX SECURE FACILITY 4.2
 UNSCHEDULED EXTERNAL-CHAIN PRESERVATION REQUEST
 
 Elias stopped.
@@ -507,19 +507,19 @@ Elias watched the state sequence.
 
 The clock showed 07:06:11.
 
-Apex Building Three  
-Reston, Virginia  
+Apex Building Three
+Reston, Virginia
 07:06 Eastern Daylight Time
 
 The WSS-4 alert reached Sarah Chen through the Apex vendor-certification channel.
 
 It carried no message content. It carried enough.
 
-SITE: FENWICK ANNEX  
-DOMAIN: WSS-4  
-UNSCHEDULED LOCAL INCIDENT SESSION  
-FULL EXTERNAL TRUST-CHAIN PRESERVATION  
-FIELD EVIDENCE MEDIA / DUAL PARTITION  
+SITE: FENWICK ANNEX
+DOMAIN: WSS-4
+UNSCHEDULED LOCAL INCIDENT SESSION
+FULL EXTERNAL TRUST-CHAIN PRESERVATION
+FIELD EVIDENCE MEDIA / DUAL PARTITION
 VENDOR WATCH: ACTIVE
 
 Arthur Vance had created the watch at 05:24.
@@ -568,14 +568,14 @@ A short pause.
 
 Sarah marked the order into her incident file and opened the vendor conference path to WSS-4.
 
-Northbridge Secure Suite 4  
-Washington, D.C.  
+Northbridge Secure Suite 4
+Washington, D.C.
 07:07 Eastern Daylight Time
 
 The audit interface presented the Northbridge certificate.
 
-WSS-4 SUITE CERTIFICATE PRESENTED  
-LOCAL CLOCK: VERIFIED  
+WSS-4 SUITE CERTIFICATE PRESENTED
+LOCAL CLOCK: VERIFIED
 INCIDENT BUFFER: OPEN
 
 Julie’s left hand moved toward CAPTURE.
@@ -622,7 +622,7 @@ Chen addressed Julie and Elias through the speaker. “Step away from the contro
 
 The controller generated the session identifier.
 
-NB-WSS4-0708-2217  
+NB-WSS4-0708-2217
 ROUTING STATE: OPENING
 
 “Still Northbridge,” Elias said.
@@ -665,25 +665,25 @@ Elias pointed without touching. “That is the profile. Wait.”
 
 A field endpoint presented.
 
-FIELD ROUTE CERTIFICATE  
-AUTHORITY: TARIQ, MAJOR / FORWARD LIAISON CELL  
-CHANNEL: K17 OPERATIONAL CONTROL  
+FIELD ROUTE CERTIFICATE
+AUTHORITY: TARIQ, MAJOR / FORWARD LIAISON CELL
+CHANNEL: K17 OPERATIONAL CONTROL
 STATUS: ACCEPTED
 
 The registered authority entered the session. The human operator did not.
 
 Structured status followed.
 
-SECURITY LINE ONE: PASSED  
-RELAY K-17 ACCESS: NOT CONFIRMED  
+SECURITY LINE ONE: PASSED
+RELAY K-17 ACCESS: NOT CONFIRMED
 PHASE B: HOLD FOR AUTHORIZATION
 
 Bell read the fields. “What is K-seventeen?”
 
 Julie kept her attention on the interface.
 
-EXTERNAL SIGNER REQUESTED  
-CHALLENGE ISSUED  
+EXTERNAL SIGNER REQUESTED
+CHALLENGE ISSUED
 AWAITING CERTIFICATE PRESENTATION
 
 She moved toward CAPTURE again.
@@ -694,8 +694,8 @@ The interface clock reached 07:08:03.
 
 Certificate blocks began entering.
 
-LEGISLATIVE SECURE SERVICES ROOT  
-SENATE MEMBER OFFICE CERTIFICATION AUTHORITY  
+LEGISLATIVE SECURE SERVICES ROOT
+SENATE MEMBER OFFICE CERTIFICATION AUTHORITY
 STERLING OFFICE NATIONAL SECURITY AUTHORITY
 
 The fourth block took longer. A retention timer appeared beside the earliest routing receipt.
@@ -706,8 +706,8 @@ BUFFER RETENTION: 00:27
 
 The final block loaded.
 
-PORTABLE EXECUTIVE SIGNER  
-REGISTERED AUTHORITY: OFFICE OF SENATOR STERLING  
+PORTABLE EXECUTIVE SIGNER
+REGISTERED AUTHORITY: OFFICE OF SENATOR STERLING
 DEVICE SERIAL: SSO-NS-004
 
 Bell stared at the name.
@@ -718,8 +718,8 @@ Bell stared at the name.
 
 The interface delivered the challenge.
 
-DEVICE CERTIFICATE ACCEPTED  
-HARDWARE CHALLENGE DELIVERED  
+DEVICE CERTIFICATE ACCEPTED
+HARDWARE CHALLENGE DELIVERED
 AWAITING RESPONSE
 
 Two seconds passed.
@@ -728,9 +728,9 @@ Then three.
 
 The response arrived.
 
-CHALLENGE RESPONSE VERIFIED  
-HARDWARE SIGNATURE VALID  
-DEVICE TIME: 07:08:09.442 EDT  
+CHALLENGE RESPONSE VERIFIED
+HARDWARE SIGNATURE VALID
+DEVICE TIME: 07:08:09.442 EDT
 SIGNER STATE: COMPLETE
 
 “Now,” Elias said.
@@ -739,19 +739,19 @@ Julie pressed CAPTURE.
 
 The interface requested scope.
 
-CURRENT SESSION ENVELOPE  
-FULL AVAILABLE TRUST CHAIN  
-EVENT ORDER  
-ROUTING RECEIPTS  
-TASK PROFILE  
-MESSAGE BLOCKS  
+CURRENT SESSION ENVELOPE
+FULL AVAILABLE TRUST CHAIN
+EVENT ORDER
+ROUTING RECEIPTS
+TASK PROFILE
+MESSAGE BLOCKS
 LOCAL CONTROLLER SEAL
 
 She selected all.
 
 Partition B tried to mount. The module shifted under Elias’s injured hand.
 
-MEDIA CONTACT UNSTABLE  
+MEDIA CONTACT UNSTABLE
 CAPTURE NOT STARTED
 
 His bandaged index slipped against the locking collar. Blood darkened the dressing.
@@ -766,23 +766,23 @@ MEDIA CONTACT STABLE
 
 Julie confirmed again.
 
-PARTITION B CAPTURE ACTIVE  
+PARTITION B CAPTURE ACTIVE
 START TIME: 07:08:13.106 EDT
 
 The event list began writing: suite certificate, session identifier, routing state, K17-PHASE-B, Tariq’s registered field authority, the Sterling-office chain, SSO-NS-004, challenge, response, signature, and device time.
 
 Three substantive blocks arrived as ciphertext.
 
-MESSAGE BLOCK 01: ENCRYPTED  
-MESSAGE BLOCK 02: ENCRYPTED  
+MESSAGE BLOCK 01: ENCRYPTED
+MESSAGE BLOCK 02: ENCRYPTED
 MESSAGE BLOCK 03: ENCRYPTED
 
 A routing field accompanied the third.
 
-NEXT REQUIRED AUTHENTICATION  
-CHANNEL: NSB-EMERGENCY  
-SITE: HARTWELL EXECUTIVE BRIEFING ANNEX  
-WINDOW: 07:46:00–07:48:30 EDT  
+NEXT REQUIRED AUTHENTICATION
+CHANNEL: NSB-EMERGENCY
+SITE: HARTWELL EXECUTIVE BRIEFING ANNEX
+WINDOW: 07:46:00–07:48:30 EDT
 LOCAL PERIMETER CHALLENGE REQUIRED
 
 “The briefing Sterling announced,” Bell said.
@@ -791,8 +791,8 @@ LOCAL PERIMETER CHALLENGE REQUIRED
 
 More structured status followed.
 
-PHASE-B AUTHORIZATION DEADLINE: 07:49 EDT  
-MASKING WINDOW TWO: 07:48–07:54 EDT  
+PHASE-B AUTHORIZATION DEADLINE: 07:49 EDT
+MASKING WINDOW TWO: 07:48–07:54 EDT
 ARGUS SOURCE RECONSTRUCTION PROFILE: PENDING
 
 The second Argus action had not occurred. It waited behind the next authentication.
@@ -815,13 +815,13 @@ Julie did not pretend otherwise.
 
 The capture advanced.
 
-EVENTS ACQUIRED: 31  
-EVENT ORDER: VERIFYING  
+EVENTS ACQUIRED: 31
+EVENT ORDER: VERIFYING
 LOCAL SEAL: PENDING
 
 The live session acknowledged.
 
-SESSION ACKNOWLEDGMENT COMPLETE  
+SESSION ACKNOWLEDGMENT COMPLETE
 TRANSIENT BUFFER PURGE ACTIVE
 
 Routing receipts disappeared from the live screen while Partition B continued writing them from the incident recorder.
@@ -836,13 +836,13 @@ The offer contained a room, a lawyer, and a version of the morning in which ever
 
 The interface changed.
 
-EVENT ORDER VERIFIED  
+EVENT ORDER VERIFIED
 CONTROLLER SEAL GENERATING
 
 Elias did not move.
 
-West Loading Lane  
-Washington, D.C.  
+West Loading Lane
+Washington, D.C.
 07:09 Eastern Daylight Time
 
 Marcus saw the response arrive before the radio confirmed it.
@@ -885,15 +885,15 @@ The sound struck the brick and entered the building.
 
 The dark SUVs reached the west alley.
 
-Northbridge Secure Suite 4  
-Washington, D.C.  
+Northbridge Secure Suite 4
+Washington, D.C.
 07:10 Eastern Daylight Time
 
 The horn arrived as two flattened notes beneath the alarm.
 
 The wall clock changed to 07:10:00.
 
-CONTROLLER SEAL: 94%  
+CONTROLLER SEAL: 94%
 DO NOT REMOVE MEDIA
 
 “Pull it,” Julie said.
@@ -936,15 +936,15 @@ The clock changed to 07:10:07.
 
 The interface chimed.
 
-INCIDENT PACKAGE SEALED  
-PARTITION B: COMPLETE  
-EVENT ORDER: VERIFIED  
-NORTHBRIDGE CONTROLLER SEAL: VALID  
+INCIDENT PACKAGE SEALED
+PARTITION B: COMPLETE
+EVENT ORDER: VERIFIED
+NORTHBRIDGE CONTROLLER SEAL: VALID
 CAPTURE END: 07:10:08.021 EDT
 
 Elias rotated the collar and removed the module.
 
-PARTITION A: SEALED / READ-ONLY / INTEGRITY UNCHANGED  
+PARTITION A: SEALED / READ-ONLY / INTEGRITY UNCHANGED
 PARTITION B: SEALED INCIDENT CAPTURE
 
 Julie opened the fire door.
@@ -967,8 +967,8 @@ She and Elias entered the fire corridor.
 
 They touched no other terminal. They opened no archive. They took nothing that had not entered their own incident module.
 
-Fenwick Annex Service Corridor  
-Washington, D.C.  
+Fenwick Annex Service Corridor
+Washington, D.C.
 07:11 Eastern Daylight Time
 
 The fire corridor descended around the secure suite in an ordinary concrete stair. Green lights marked each landing. Red alarm contacts flashed above closed doors.
@@ -1095,7 +1095,7 @@ No one was run down.
 
 Behind them, Fenwick still held ordinary employees, Bell, private security, local police, an Apex team, and an independent local record of the 07:08 exchange.
 
-Downtown Washington  
+Downtown Washington
 07:16 Eastern Daylight Time
 
 The radio returned to news before they cleared three blocks.
@@ -1106,12 +1106,12 @@ Marcus sat twisted in the passenger seat with the case between his boots and the
 
 Its display showed only handling facts.
 
-PARTITION A  
-SEALED / READ-ONLY  
+PARTITION A
+SEALED / READ-ONLY
 INTEGRITY VERIFIED
 
-PARTITION B  
-INCIDENT PACKAGE SEALED  
+PARTITION B
+INCIDENT PACKAGE SEALED
 WSS-4 CONTROLLER SEAL PRESENT
 
 “Removal time?” Marcus asked.

@@ -1,4 +1,4 @@
-# Chapter 8 - The 05:00 Abort
+# Chapter 8 — The 05:00 Abort
 
 Apex Building Three
 Reston, Virginia
@@ -27,7 +27,7 @@ Another metallic impact struck the outer face of the gate. The sound carried thr
 A narrow status strip beside the interior cycle control changed from green to amber.
 
 LOCAL OVERRIDE DETECTED
- LOCK ARRAY PRESSURE TEST
+LOCK ARRAY PRESSURE TEST
 
 Marcus read it. “They’ve started on the bolts.”
 
@@ -56,8 +56,8 @@ A section of the panel withdrew and slid sideways. Inside were two shielded rece
 The console updated.
 
 FORENSIC INCIDENT INPUT AVAILABLE
- MEDIA WILL MOUNT IN PROTECTED MODE
- NO PRODUCTION WRITE PATH PRESENT
+MEDIA WILL MOUNT IN PROTECTED MODE
+NO PRODUCTION WRITE PATH PRESENT
 
 Julie opened the case.
 
@@ -66,7 +66,7 @@ The left latch released under her thumb. The right required pressure her injured
 Inside, the government evidence drive remained seated in its foam cradle. The shielded cable lay coiled in the lid compartment where she had secured it after the motel review. The small case display still showed green.
 
 CAPTURE SEALED
- LOCAL MEDIA INTACT
+LOCAL MEDIA INTACT
 
 “Read-only?” she asked.
 
@@ -113,11 +113,11 @@ Julie plugged the other end into the protected receptacle.
 The console detected the case immediately.
 
 SEALED INCIDENT CAPTURE DETECTED
- SESSION: REED-OVERSIGHT-117
- NETWORK VERIFICATION: UNAVAILABLE
+SESSION: REED-OVERSIGHT-117
+NETWORK VERIFICATION: UNAVAILABLE
 
 MOUNT MODE
- READ-ONLY / DUPLICATE / INGEST
+READ-ONLY / DUPLICATE / INGEST
 
 Julie selected READ-ONLY.
 
@@ -130,25 +130,25 @@ For half a second, it was six years earlier again: another wheel, another gatewa
 Julie looked away from the animation and watched the numbers populate beneath it.
 
 FILES SEALED: 136
- FILES INCOMPLETE: 47
- FILES EXCLUDED DURING FINALIZATION: 311
+FILES INCOMPLETE: 47
+FILES EXCLUDED DURING FINALIZATION: 311
 
 The wheel stopped.
 
 SEALED BLOCKS VERIFIED: 136 OF 136
- ARCHIVE STATUS: PARTIAL
- SOURCE RECONCILIATION PERMITTED WITH LIMITATIONS
+ARCHIVE STATUS: PARTIAL
+SOURCE RECONCILIATION PERMITTED WITH LIMITATIONS
 
 A warning opened below it.
 
 DISPUTED OPERATIONAL SOURCE REQUIRED
- ASSOCIATED VALIDATION OBJECT REQUIRED
+ASSOCIATED VALIDATION OBJECT REQUIRED
 
 The release clock showed 00:54.
 
 Forward Post Arjun
- Kashmir
- 14:29 Indian Standard Time
+Kashmir
+14:29 Indian Standard Time
 
 Major Ananya Sharma stood behind the fire-direction console and listened to Northern Command ask for the same confirmation in a third form.
 
@@ -189,8 +189,8 @@ The printer beside Qureshi began feeding a page.
 Sharma looked at the Argus display.
 
 CONFIDENCE: 99.8%
- SOURCE INTEGRITY: VERIFIED
- COUNTER-BATTERY SUPPORT: VALID
+SOURCE INTEGRITY: VERIFIED
+COUNTER-BATTERY SUPPORT: VALID
 
 Below it, a smaller timer counted toward the American release.
 
@@ -219,8 +219,8 @@ The screen offered certainty no human observer could support.
 Sharma watched it anyway.
 
 Apex Building Three
- Reston, Virginia
- 04:59 Eastern Daylight Time
+Reston, Virginia
+04:59 Eastern Daylight Time
 
 Elias stared at the second slot inside the recovery panel.
 
@@ -239,7 +239,7 @@ Metal struck the gate again. A second sound followed it: a low hydraulic strain 
 The status strip advanced.
 
 LOCAL OVERRIDE
- STAGE 1 OF 4 COMPLETE
+STAGE 1 OF 4 COMPLETE
 
 Marcus settled his back against the cabinet. “I’d prefer the part where this works before that says four.”
 
@@ -248,20 +248,20 @@ Elias inserted the circuit board into the narrow slot.
 The console paused.
 
 TOKEN CREDENTIAL: ACTIVE EMERGENCY SESSION
- AUTHOR EVIDENCE PARTITION: READ-ONLY
+AUTHOR EVIDENCE PARTITION: READ-ONLY
 
 AUTHOR MATERIAL DETECTED
- THORNE, ELIAS M.
- VALIDATION OBJECT: VAL-088
- ARCHIVE REVISION: 8
- CONTENT STATUS: PARTIAL
- AUTHOR SIGNATURE: VALID
+THORNE, ELIAS M.
+VALIDATION OBJECT: VAL-088
+ARCHIVE REVISION: 8
+CONTENT STATUS: PARTIAL
+AUTHOR SIGNATURE: VALID
 
 Then a red line appeared.
 
 SYNTHETIC-SOURCE LABEL MAP: PRESENT
- OPERATIONAL OBJECT DERIVATION DETECTED
- PAK_RELAY_17A_SOURCE_CORRECTION
+OPERATIONAL OBJECT DERIVATION DETECTED
+PAK_RELAY_17A_SOURCE_CORRECTION
 
 Elias closed his eyes for less than a second.
 
@@ -332,10 +332,10 @@ Marcus said, “Stage two.”
 The console accepted Julie’s narrowed boundary.
 
 DISPUTED RANGE SELECTED
- RAW OBSERVATIONS: PRESERVED
- RECONSTRUCTED SIGNAL: CHALLENGED
- VALIDATION-DERIVED ARTIFACTS: CHALLENGED
- DOWNSTREAM CACHED CONCLUSIONS: INCLUDED
+RAW OBSERVATIONS: PRESERVED
+RECONSTRUCTED SIGNAL: CHALLENGED
+VALIDATION-DERIVED ARTIFACTS: CHALLENGED
+DOWNSTREAM CACHED CONCLUSIONS: INCLUDED
 
 Elias opened the recovery rules stored on his board. There were six, each signed months earlier for adversarial-validation cleanup. He selected one labeled RESTORE SOURCE LABELS AND RECOMPUTE DERIVATIONS.
 
@@ -354,15 +354,15 @@ He opened one configuration field and changed the required archive state from CO
 The system displayed his name beside it.
 
 RULE ADJUSTMENT AUTHOR: THORNE, ELIAS M.
- AUDIT ATTACHMENT: IMMUTABLE EMERGENCY SESSION
+AUDIT ATTACHMENT: IMMUTABLE EMERGENCY SESSION
 
 He saw the line and kept going.
 
 A new alert covered the lower third of the screen.
 
 VOLATILE INCIDENT BUFFER SANITIZATION REQUESTED
- HARDENED SECURITY CHANNEL
- EXECUTION IN 00:31
+HARDENED SECURITY CHANNEL
+EXECUTION IN 00:31
 
 Marcus looked from the gate to the console. “Vance?”
 
@@ -383,8 +383,8 @@ Elias selected AUTHOR CONFIRMATION with his left hand. The active emergency sess
 ORIGINAL SOURCE LABELS
 
 SYNTHETIC SOURCE
- SANDBOX EXECUTION ONLY
- OPERATIONAL EXPORT PROHIBITED
+SANDBOX EXECUTION ONLY
+OPERATIONAL EXPORT PROHIBITED
 
 RESTORE ALL?
 
@@ -397,12 +397,12 @@ He selected RESTORE ALL.
 The console built the final action.
 
 PROVENANCE RECONCILIATION WILL SUSPEND ACTIVE RELEASE PRODUCTS
- DOWNSTREAM STRATEGIC ASSESSMENTS MAY BE WITHDRAWN
- GENUINE SOURCE ACTIVITY WILL BE REEVALUATED
- MANDATORY HUMAN REVIEW WILL BE REQUIRED
+DOWNSTREAM STRATEGIC ASSESSMENTS MAY BE WITHDRAWN
+GENUINE SOURCE ACTIVITY WILL BE REEVALUATED
+MANDATORY HUMAN REVIEW WILL BE REQUIRED
 
 AUTHOR CONFIRMATION: THORNE, ELIAS M.
- ANALYTIC RANGE CONFIRMATION: REQUIRED
+ANALYTIC RANGE CONFIRMATION: REQUIRED
 
 The external commit clock reached 00:11.
 
@@ -417,8 +417,8 @@ The sanitization clock showed 00:22.
 At the gate, metal struck metal in three rapid blows. The amber strip advanced.
 
 LOCAL OVERRIDE
- STAGE 2 OF 4 COMPLETE
- HYDRAULIC ASSIST CONNECTED
+STAGE 2 OF 4 COMPLETE
+HYDRAULIC ASSIST CONNECTED
 
 Marcus got one knee under him and used the cabinet handle to stand. His damaged boot rolled outward. He corrected by putting most of his weight on the other leg.
 
@@ -469,14 +469,14 @@ CACHED OPERATIONAL CONCLUSIONS.
 Each moved into a separate column. The raw observations remained white. Reconstructed packets carrying the eleven-point-two-second cadence changed to amber. Payload 88’s repeated carrier structure turned red as the restored labels attached to it.
 
 VAL-088
- SYNTHETIC SOURCE
- OPERATIONAL USE PROHIBITED
+SYNTHETIC SOURCE
+OPERATIONAL USE PROHIBITED
 
 The source-correction object resisted for less than a second, then its lineage opened beneath it.
 
 PAK_RELAY_17A_SOURCE_CORRECTION
- DERIVED FROM RESTRICTED VALIDATION OBJECT
- EXECUTIVE WAIVER: INSUFFICIENT FOR SOURCE RECLASSIFICATION
+DERIVED FROM RESTRICTED VALIDATION OBJECT
+EXECUTIVE WAIVER: INSUFFICIENT FOR SOURCE RECLASSIFICATION
 
 The clock showed 00:04.
 
@@ -515,8 +515,8 @@ For one terrible instant, nothing on the release display changed.
 Then the counter-battery support product turned gray.
 
 EXTERNAL COMMIT SUSPENDED
- SOURCE PROVENANCE INVALID
- MANDATORY HUMAN REVIEW
+SOURCE PROVENANCE INVALID
+MANDATORY HUMAN REVIEW
 
 The volatile sanitization clock continued.
 
@@ -527,7 +527,7 @@ Elias selected SEAL RECOVERY RECORD.
 The system copied the disputed chain, restored label map, and reconciliation result into the enclave’s immutable incident log.
 
 RECOVERY RECORD SEALED
- SANITIZATION EXCLUSION APPLIED
+SANITIZATION EXCLUSION APPLIED
 
 The purge reached zero.
 
@@ -544,8 +544,8 @@ Marcus lowered his head against the cabinet.
 “Someone still has to decide.”
 
 Forward Post Arjun
- Kashmir
- 14:29 Indian Standard Time
+Kashmir
+14:29 Indian Standard Time
 
 The first visible change was duplication.
 
@@ -574,8 +574,8 @@ Confidence fell again.
 Then the number disappeared.
 
 SOURCE PROVENANCE: VALIDATION-DERIVED
- SYNTHETIC COMPONENT DETECTED
- COUNTER-BATTERY SUPPORT: INVALID
+SYNTHETIC COMPONENT DETECTED
+COUNTER-BATTERY SUPPORT: INVALID
 
 The firing clock showed six seconds.
 
@@ -630,8 +630,8 @@ Sharma looked at the contaminated-source warning.
 “The evidence no longer supports fire,” she said. “The mission is aborted.”
 
 Apex Building Three
- Reston, Virginia
- 05:00 Eastern Daylight Time
+Reston, Virginia
+05:00 Eastern Daylight Time
 
 For five seconds, the enclave contained no countdown.
 
@@ -656,7 +656,7 @@ No one celebrated.
 The system began the post-reconciliation review automatically. A new pane opened beneath the withdrawn assessment.
 
 GENUINE SOURCE ACTIVITY WILL BE REEVALUATED
- RETAINED RAW OBSERVATIONS: PRESENT
+RETAINED RAW OBSERVATIONS: PRESENT
 
 Julie moved back to the console.
 
@@ -763,8 +763,8 @@ A heavy impact struck the gate.
 The status strip advanced.
 
 LOCAL OVERRIDE
- STAGE 3 OF 4 COMPLETE
- LOCKING PRESSURE REDUCED
+STAGE 3 OF 4 COMPLETE
+LOCKING PRESSURE REDUCED
 
 Marcus turned his head toward it. “They’re almost through.”
 
@@ -777,7 +777,7 @@ White floor strips dimmed. Amber lamps appeared along the ceiling, one above eac
 The recovery console disappeared beneath an environmental warning.
 
 REMOTE LIFE-SAFETY COMMAND RECEIVED
- HARDENED INCIDENT CHANNEL
+HARDENED INCIDENT CHANNEL
 
 Julie looked toward the ceiling.
 
@@ -786,12 +786,12 @@ Round discharge nozzles sat between the cooling returns. She had noticed them wh
 The system began verifying room status.
 
 OCCUPANCY: THREE PERSONS CONFIRMED
- SUPPRESSION INTERLOCK: ACTIVE
+SUPPRESSION INTERLOCK: ACTIVE
 
 Then the second line changed.
 
 SUPPRESSION INTERLOCK: OVERRIDE REQUESTED
- AUTHORITY: EXECUTIVE EMERGENCY CONTROL
+AUTHORITY: EXECUTIVE EMERGENCY CONTROL
 
 Elias went still.
 
@@ -804,13 +804,13 @@ Elias went still.
 Julie watched the override request remain pending.
 
 Apex Security Command Center
- 05:00 Eastern Daylight Time
+05:00 Eastern Daylight Time
 
 Sarah Chen saw only the outcome.
 
 ARGUS EXTERNAL COMMIT: SUSPENDED
- PROVENANCE REVIEW: ACTIVE
- RECOVERY RECORD: SEALED
+PROVENANCE REVIEW: ACTIVE
+RECOVERY RECORD: SEALED
 
 The hardened status channel did not show what Julie had selected or how Elias had changed the source state. It showed enough for Arthur Vance.
 
@@ -875,7 +875,7 @@ Vance opened the executive override field.
 Vance entered the override.
 
 OCCUPIED-ROOM STATUS: OVERRIDDEN
- EXECUTIVE AUTHORITY: APX-DIR-0019
+EXECUTIVE AUTHORITY: APX-DIR-0019
 
 Sarah understood the order now without language selected to survive review.
 
@@ -906,7 +906,7 @@ It was not an answer.
 It was still an order.
 
 Production Enclave
- 05:01 Eastern Daylight Time
+05:01 Eastern Daylight Time
 
 The gate-override pump stopped outside.
 
@@ -915,8 +915,8 @@ In the sudden quiet, Julie heard valves shifting in the ceiling.
 The recovery console displayed the final warning.
 
 INERT AGENT RELEASE ARMED
- OCCUPIED-ROOM STATUS: OVERRIDDEN
- DISCHARGE IN 01:30
+OCCUPIED-ROOM STATUS: OVERRIDDEN
+DISCHARGE IN 01:30
 
 A protected red control opened beside the gate.
 
@@ -927,7 +927,7 @@ Julie crossed the room. Her damaged wrist struck a cabinet when the torn heel of
 The display changed.
 
 MANUAL ABORT DISABLED
- EXTERNAL PHYSICAL RESET REQUIRED
+EXTERNAL PHYSICAL RESET REQUIRED
 
 “Again,” Marcus said.
 

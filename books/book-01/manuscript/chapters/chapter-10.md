@@ -1,4 +1,4 @@
-# Chapter 10 - The Capital Connection
+# Chapter 10 — The Capital Connection
 
 Northern Virginia
 05:15 Eastern Daylight Time
@@ -211,8 +211,8 @@ PCF-27 was out of public view.
 Its known plate, warm engine, tire tracks, and route into Fairfax County still existed.
 
 Decommissioned Communications Cutout
- Fairfax County, Virginia
- 05:42 Eastern Daylight Time
+Fairfax County, Virginia
+05:42 Eastern Daylight Time
 
 The cutout smelled of dust, cold metal, and insulation that had absorbed ten years of summer heat.
 
@@ -451,10 +451,10 @@ She turned to the aluminum case.
 The seal indicator remained green. She copied the serial etched beside the hinge, the integrity-manifest identifier, and the case display exactly as it appeared.
 
 CAPTURE SEALED
- FILES SEALED: 136
- FILES INCOMPLETE: 47
- FILES EXCLUDED: 311
- LOCAL MEDIA INTACT
+FILES SEALED: 136
+FILES INCOMPLETE: 47
+FILES EXCLUDED: 311
+LOCAL MEDIA INTACT
 
 She noted everyone who had handled it since Building Three: Marcus at the loading dock, Julie in the van, both during entry into the cutout. Elias had not touched the case after the escape.
 
@@ -539,8 +539,8 @@ The difference was visible in the hardware counter and the live-biometric releas
 Julie added the conclusion under BOARD.
 
 PHYSICAL TOKEN NOT USED FOR ORIGINAL DEPLOYMENT.
- EARLIER IDENTITY PATH MIRRORED OR REPLAYED.
- LIVE EMERGENCY USE DISTINCT AND AUTHENTICATED.
+EARLIER IDENTITY PATH MIRRORED OR REPLAYED.
+LIVE EMERGENCY USE DISTINCT AND AUTHENTICATED.
 
 The board’s evidence partition also carried Elias’s Revision Eight author material, the original synthetic-source labels, the sandbox restriction, and the operational-export prohibition. Those safeguards had existed when his approved work ended.
 
@@ -619,10 +619,10 @@ When the protected reconciliation evaluated the executive waiver attached to PAK
 Elias opened the chain beside the two fragments.
 
 APEX EXECUTIVE AUTHORITY ROOT
- BUILDING THREE EXECUTIVE OPERATIONS CA
- HARDWARE AUTHORITY: B3-EXEC-01
- SERVICE BINDING: APX-DIR-0019
- REGISTERED CUSTODIAN: VANCE, ARTHUR R.
+BUILDING THREE EXECUTIVE OPERATIONS CA
+HARDWARE AUTHORITY: B3-EXEC-01
+SERVICE BINDING: APX-DIR-0019
+REGISTERED CUSTODIAN: VANCE, ARTHUR R.
 
 The certificate serial matched the production-bridge fragment.
 
@@ -653,8 +653,8 @@ Elias pulled the blanket tighter around his shoulders. “APX-DIR-0019 was invok
 Julie wrote beneath the three columns.
 
 VANCE EXECUTIVE AUTHORITY CONTROLLED OR AUTHORIZED THE PAYLOAD 88 PRODUCTION BRIDGE.
- PERSONAL KEYSTROKES UNPROVED.
- UPSTREAM DIRECTION UNPROVED.
+PERSONAL KEYSTROKES UNPROVED.
+UPSTREAM DIRECTION UNPROVED.
 
 Marcus leaned one hand on the desk. “That’s enough to accuse him.”
 
@@ -667,9 +667,9 @@ Marcus leaned one hand on the desk. “That’s enough to accuse him.”
 The certificate chain carried a routing receipt attached to the executive bridge. It had looked like vendor synchronization metadata in the partial capture. With the full certificate state restored, the tenant identifier resolved into an organizational subject.
 
 NORTHBRIDGE STRATEGIC INITIATIVES
- WASHINGTON SECURE SUITE 4
- TRUST PURPOSE: STRATEGIC-RISK SYNCHRONIZATION
- APEX CONTRACT STATUS: ACTIVE
+WASHINGTON SECURE SUITE 4
+TRUST PURPOSE: STRATEGIC-RISK SYNCHRONIZATION
+APEX CONTRACT STATUS: ACTIVE
 
 Beneath it sat a hardware-authenticated receipt confirming that the Northbridge endpoint had participated in the bridge exchange. The message body remained encrypted and absent. Only the routing, trust purpose, certificate fingerprints, and timing survived.
 
@@ -772,10 +772,10 @@ His posture changed.
 He expanded it.
 
 ENDPOINT: NORTHBRIDGE WASHINGTON SECURE SUITE 4
- WINDOW: 07:08 EASTERN DAYLIGHT TIME
- PROFILE: K17-PHASE-B
- AUTHENTICATION: HARDWARE SIGNER PRESENTATION REQUIRED
- BUFFER RETENTION: TRANSIENT
+WINDOW: 07:08 EASTERN DAYLIGHT TIME
+PROFILE: K17-PHASE-B
+AUTHENTICATION: HARDWARE SIGNER PRESENTATION REQUIRED
+BUFFER RETENTION: TRANSIENT
 
 The wall clock showed 06:17:46.
 

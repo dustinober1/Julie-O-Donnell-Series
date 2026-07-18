@@ -1,4 +1,4 @@
-# Chapter 17 - The First Examination
+# Chapter 17 — The First Examination
 
 Secure MPD Evidence Intake
 Washington, D.C.
@@ -572,7 +572,7 @@ Grant returned to her worksheet. She wrote by hand first, then entered the same 
 
 At 09:01:14, Grant read the preliminary observation aloud.
 
-“On July thirteenth, under DCIS preliminary-inquiry and technical-assistance authority and with Metropolitan Police consent, I conducted a read-only examination of physical administrator-token board EAT-0881147 removed from MPD package 901446 under recorded seal continuity. The board’s declared evidence interface exposed secure-element identity, protected monotonic signing history, preserved partial deployment-reference fields, and later authenticated event records without private-key operation, biometric input, network access, or write activity.”
+“On October thirteenth, under DCIS preliminary-inquiry and technical-assistance authority and with Metropolitan Police consent, I conducted a read-only examination of physical administrator-token board EAT-0881147 removed from MPD package 901446 under recorded seal continuity. The board’s declared evidence interface exposed secure-element identity, protected monotonic signing history, preserved partial deployment-reference fields, and later authenticated event records without private-key operation, biometric input, network access, or write activity.”
 
 She paused at the finding.
 

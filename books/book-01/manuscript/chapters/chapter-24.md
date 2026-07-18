@@ -1,13 +1,13 @@
 15:04:44 EDT / 00:34:44 IST
 
-# Chapter 24 - The Terms of Return
+# Chapter 24 — The Terms of Return
 
 Secure MPD Evidence Intake
 Washington, D.C.
 
 Forty minutes after the correction became public, Julie remained attached to the same rail.
 
-Her left wrist lay inside the padded restraint. Her right forearm rested higher in the medical brace, the swelling held in a position that made the hand unusable without making the injury look dramatic. Beyond the reinforced glass, the locked common chest remained beneath two cameras. Seven green indicators showed `MPD-901441` through `MPD-901447` in the same order and the same place.
+Her left wrist lay inside the padded restraint. Her right forearm rested higher in the medical brace, the swelling held in a position that made the hand unusable without making the injury look dramatic. Beyond the reinforced glass, the locked common chest remained beneath two cameras. Seven green indicators showed MPD-901441 through MPD-901447 in the same order and the same place.
 
 The correction now lived in three public systems and no longer depended on Julie’s custody or persuasion. Relief existed in that fact. It did not remove responsibility for the entries, removals, deceptions, and seven seconds still attached to her name.
 
@@ -23,9 +23,9 @@ Julie looked at Alvarez. “Who can take off the restraint?”
 
 The order had been entered on a miscellaneous custody-review docket by United States Magistrate Judge Elena Ward after a recorded conference with Webb, the duty prosecutor, MPD counsel, and Alvarez. Its title occupied three lines.
 
-`EMERGENCY MEDICAL TRANSFER AND CONDITIONAL RELEASE ORDER`
-`DOCKET 26-MJ-187463-ER`
-`EFFECTIVE UPON MPD ACCEPTANCE`
+EMERGENCY MEDICAL TRANSFER AND CONDITIONAL RELEASE ORDER
+DOCKET 26-MJ-187463-ER
+EFFECTIVE UPON MPD ACCEPTANCE
 
 It authorized removal of the intake restraint and guarded transport for imaging, immobilization, observation, and any treatment the receiving hospital considered necessary. If the attending physician approved discharge after observation, Julie would be released to transportation arranged through counsel. The order did not dismiss or prevent a later complaint. It did not decide admissibility, privilege, classification, employment, clearance, or whether any act committed during the morning could be charged.
 
@@ -53,10 +53,10 @@ The first movement she made as a person no longer physically detained was to lea
 
 Webb placed the acknowledgment on the rail. Julie signed with her left hand. The letters leaned backward, uneven but legible. Beneath the signature, the order preserved continuing exposure in plain language.
 
-`CHARGING: UNRESOLVED`
-`ADMISSIBILITY: UNRESOLVED`
-`CLASSIFIED ACCESS: SUSPENDED / NOT RESTORED`
-`EVIDENCE CONTACT: PROHIBITED ABSENT NEW WRITTEN AUTHORITY`
+CHARGING: UNRESOLVED
+ADMISSIBILITY: UNRESOLVED
+CLASSIFIED ACCESS: SUSPENDED / NOT RESTORED
+EVIDENCE CONTACT: PROHIBITED ABSENT NEW WRITTEN AUTHORITY
 
 The chest stayed where it was as a hospital transport chair entered the alcove. No package accompanied her. No copy of the public correction became a release credential. At 15:14, MPD transferred Julie to the medical team under the order and recorded the name of every person who crossed the threshold.
 
@@ -267,7 +267,7 @@ Julie looked at the backward-slanting lines. “Then the refusal clause will be 
 
 Webb signed as witness to the terms, not as approval of a business. Grant asked for no copy. Alvarez entered only that Julie had declined permanent government return and identified a future professional structure outside the current investigation. Hackett recorded his offer and her refusal under his own authority.
 
-Before the hospital released her, Grant read the unchanged custody state into the recorded channel. `MPD-901441` through `MPD-901447` remained sealed and separate. The aluminum case remained 136 sealed files, 47 incomplete files, and 311 excluded files. Legislative Secure Services confirmed `SSO-NS-004` powered down, isolated, closed, unused, and under `LSS-SL-90418`; docket `LSS-IDR-90418-01` remained an investigation, not a guilt finding.
+Before the hospital released her, Grant read the unchanged custody state into the recorded channel. MPD-901441 through MPD-901447 remained sealed and separate. The aluminum case remained 136 sealed files, 47 incomplete files, and 311 excluded files. Legislative Secure Services confirmed SSO-NS-004 powered down, isolated, closed, unused, and under LSS-SL-90418; docket LSS-IDR-90418-01 remained an investigation, not a guilt finding.
 
 The unresolved matters remained unresolved: the original 02:14 operator, the human constructor behind the borrowed request path, any connection between those human acts, Vance’s earlier role and upstream direction, Sterling’s personal knowledge or command, Tariq’s physical operation, the WSS plaintext, and the wider network. Julie did not convert the list into a new mission. The existing custodians and investigations already owned those questions. Her own case belonged among them, beyond her reach until a lawful process decided what she had done and what the evidence could support.
 
@@ -293,6 +293,6 @@ Julie adjusted the level once. Her neighbor shifted the post and packed the grou
 
 The yellow pad lay inside its clear sleeve on the top rail. It contained no new assignment, no client, and no promise that the institutions would accept her terms. It contained the limits under which she would return when lawful work existed and the limits under which she would refuse.
 
-At exactly 08:14:44 EDT / 17:44:44 IST, Julie lifted her left hand from the level.
+Julie lifted her left hand from the level.
 
 The bubble stayed centered.
