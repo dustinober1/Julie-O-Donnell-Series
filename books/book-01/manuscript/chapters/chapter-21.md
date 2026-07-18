@@ -8,7 +8,7 @@ Washington, D.C.
 
 Sterling’s office produced the requestor’s name before it produced the act.
 
-The source-limited derivative appeared in Grant’s window under a fixed camera.
+The source-limited derivative appeared in Grant’s window under a fixed camera. An office records custodian sat at a controlled terminal with both hands visible. Counsel remained beside her. No original had moved.
 
 OFFICE ORIGINAL: SO-NS-REQ-6540
 CLASS: NSB-EMERGENCY CONTINUITY REQUEST
@@ -17,84 +17,152 @@ APPARENT REQUESTOR: PRICE, LELAND / DIA SYSTEMS AUDIT
 INHERITED REFERENCE: DIA-SAR-PRICE-01
 AUTHORIZATION RECIPIENT: KESSLER, DIANE
 
-The routing fields named SSO-NS-004, WSS-4, Hartwell, K17-PHASE-B, and source reconstruction. The office withheld deliberative content, protected source description, and unrelated communications. It certified the existence and order of the produced fields.
+The routing fields named SSO-NS-004, WSS-4, Hartwell, K17-PHASE-B, and source reconstruction. The office withheld deliberative content, protected source description, and unrelated communications. It certified the existence and order of the fields it produced and the categories it refused.
 
-Kessler’s separate authorization showed that she received the request as an accepted continuity action and approved the device-custody exception. It did not show her building the request, choosing Price’s identity, or receiving instructions from Sterling.
+Kessler’s separate authorization showed that she received the object as an accepted continuity request and approved the device-custody exception at 06:54. It did not show her building the request, selecting Price’s identity, or receiving instruction from Sterling.
 
 The office had produced a source label.
 
 It had not produced the source.
 
-Hackett said, “Price initiated the audit request that started this. Put him on the channel.”
+Leland Price’s name fit the empty space too easily.
 
-Julie knew Price through three facts Marcus had given her on the farm and one suspended extension inside Apex: DIA auditor, raw-feed request, access review, unavailable. His name fit the empty space too easily.
+Hackett leaned toward his camera. “Price initiated the audit request that started the review. His access was suspended before Reed brought O’Donnell into Apex. Put him on the channel.”
 
-“So did Elias’s name,” she said. “His physical board did not sign the deployment.”
+Julie knew Price through three facts Marcus had given her at the farm and one dead extension inside Building Three: DIA systems auditor, raw-feed request, administrative suspension, unavailable. She had never met him.
 
-Grant asked the office custodian whether SO-NS-REQ-6540 contained a direct external credential challenge, local signing act, or witness release authenticated to Price.
+“So did Elias’s name fit the deployment,” she said. “His physical board did not sign it.”
 
-“Not in the derivative,” the custodian said.
+Office counsel replied, “The requestor field is part of the contemporaneous office original.”
 
-“Is the complete event range for those classes produced?”
+Grant addressed the records custodian rather than counsel.
 
-“Not yet.”
+“Does SO-NS-REQ-6540 contain a direct external credential challenge, local signing event, or office witness release authenticated to Price?”
 
-“Then Price is an apparent requestor, not an authenticated one.”
+The custodian answered carefully. “The current derivative identifies Price as requestor and DIA-SAR-PRICE-01 as the inherited source reference. It contains no separate physical-signature field.”
 
-Alvarez issued a separate request to DIA. The office could not produce a DIA original it did not own, and DCIS would not use a Senate derivative to compel a personnel conclusion.
+“Is the complete office event range for a direct external request, inherited request, and continuity construction included?”
 
-DIA acknowledged two originals: Price’s source-audit request and the administrative-review chronology that ended his access. Price was alive, represented, and on restricted administrative status. He had not agreed to a general interview. He would authenticate a bounded record if the questions excluded the MPD packages, WSS content, Hartwell material, and theories naming Vance, Sterling, Tariq, or anyone else.
+“Not in this production.”
 
-Alvarez accepted the terms.
+“Then Price is an apparent requestor. We need the complete event classes and the DIA originals before assigning the act.”
 
-Julie said, “He can tell us what he sent.”
+Counsel objected that DCIS could not compel DIA personnel records through a Senate production.
 
-Grant answered, “And the records can tell us what happened after.”
+Alvarez agreed. “The office cannot provide an original it does not own. We will request it from DIA.”
 
-That was better than asking Price to explain a conspiracy he might never have seen.
+She issued a separate demand limited to Price’s authentic source-review submission, repository receipt, active-authority end state, and event classes required to authenticate or exclude a later act under his identity.
+
+The office derivative stayed open beside the request. Price’s name had become the apparent answer. Julie refused to let appearance become sequence.
+
+DIA acknowledged two originals nine minutes later.
+
+DIA-SAR-PRICE-01 remained in the systems-audit repository.
+
+DIA-AR-PRICE-01 remained in the administrative-review system.
+
+Price was alive, represented, and not in criminal detention. He remained a DIA employee in restricted administrative status. His classified access and extension were suspended. He had not agreed to a general interview. He would authenticate a bounded factual record if DCIS identified what it intended to ask and what information would be withheld from him.
+
+Hackett said, “He may be the only person who can tell us who sent the office request.”
+
+“He can tell us what he sent,” Julie said.
+
+Grant answered, “And the records can show what happened after.”
+
+Alvarez set the interview conditions. Price would receive no MPD package facts, WSS content, Hartwell source material, K-17 field detail, or theory naming Sterling, Vance, Tariq, or another actor. His counsel and a DIA records custodian would remain present. Grant would ask only about his original request, the end of his authority, and a defined set of later acts bearing his name.
+
+The office derivative would not be shown until Price authenticated his own record.
+
+That was better than asking a frightened auditor to explain a conspiracy he might never have seen.
 
 ---
 
 DIA Administrative Review Unit
 Joint Base Anacostia-Bolling
 
-Leland Price sat at a fixed table with his counsel, Rina Shah, beside him. A DIA records custodian enabled one source at a time on a standalone terminal. Grant appeared by secure video.
+Leland Price had spent two days in a room designed to contain neither secrets nor people, only the movement between them.
 
-She told him only that a later continuity request carried his name and referenced his original source-audit record.
+The table was fixed to the floor. The terminal had no network connection until the custodian enabled one source at a time. A camera covered the door, table, wall clock, and Price’s hands. His attorney, Rina Shah, sat to his left with a yellow pad she had barely used. A DIA administrative-review attorney occupied the chair across from them.
 
-“Did you submit, authorize, or direct any continuity request after your classified authority ended?”
+Grant appeared by secure video and identified herself. She did not say that Julie O’Donnell had challenged the use of Price’s name. She stated only that a later continuity request carried his identity and referenced his source-audit submission.
+
+Price felt the first response in his stomach and kept it out of his voice.
+
+“What later request?”
+
+Grant did not answer the question he was not entitled to ask.
+
+“Did you submit, authorize, or direct any continuity request after your active DIA authority ended?”
 
 “No.”
 
-Shah raised a hand. “We will authenticate his conduct and the access chronology. We do not stipulate to a later office record we have not received.”
+Shah raised one hand. “We will authenticate his original conduct and the access chronology. We do not stipulate to the accuracy, lawfulness, or meaning of a later office record we have not received.”
 
-Grant agreed.
+“Understood.”
 
-Price’s original request opened.
+The custodian opened DIA-SAR-PRICE-01 in read-only mode.
 
-He had written it after Argus displayed one hundred percent confidence for fourteen seconds, then returned to ninety-nine-point-eight without changing the underlying state. His request asked DIA to preserve the transient display and permit read-only review of raw packets, source-integrity flags, calibration events, ingestion lineage, and the display correction. It prohibited operational use of any retained audit copy.
+Price had written it the afternoon of October 12 after Argus displayed one hundred percent confidence for fourteen seconds, then returned to ninety-nine-point-eight. The displayed correction did not change the underlying state. It changed only the value ordinary users could see.
 
-It named no signer, no continuity route, no Hartwell, no K-17, and no action outside source review.
+His request asked DIA systems audit to preserve the transient state and permit read-only review of raw source packets, source-integrity flags, the calibration event, ingestion lineage, and the display correction. It prohibited downstream operational use of any retained audit copy.
 
-The repository showed Price’s active DIA audit credential, workstation session, PIV challenge, and source receipt. He authenticated each one.
+No signer.
 
-His own conduct was not spotless. He had used an expedited-retention flag after a program liaison told him to await coordinated review. Later, while the item was under security review, he attempted one read-only access to the transient cache. The system rejected it. The administrative inquiry called that an unauthorized persistence attempt.
+No continuity route.
 
-Grant asked whether he had altered, exported, or operationalized anything.
+No Hartwell.
 
-“No. I asked the repository to preserve a state that was disappearing. I tried once to reopen it. I did not assign a signer or an operation.”
+No K-17.
+
+No authority beyond source review.
+
+Price remembered selecting the expedited-retention flag. The program liaison had told him the one-hundred-percent display was a calibration artifact and that a coordinated review would follow. Price had watched the transient state begin to age out of the ordinary audit view while the liaison spoke. He chose preservation before permission because the evidence could disappear before the coordination meeting existed.
+
+That choice had been professionally reckless enough without anyone improving it for him.
+
+The administrative notice on the table used the phrase unauthorized persistence attempt. The phrase was harsher than Price’s memory and not wholly false. After the program office placed the item under security review, he attempted one read-only reopening of the cache. The repository denied it. Security officers arrived at his desk before he could call Marcus.
+
+Grant asked how he authenticated the original request.
+
+“Active DIA audit credential, local workstation session, PIV challenge, and repository receipt.”
+
+The custodian confirmed all four events existed and that the original had never left DIA custody.
+
+Price read every line before saying the request was his.
+
+Grant did not help him hide the part under review.
+
+“You used the expedited flag after being told to await coordination?”
+
+“Yes.”
+
+“You attempted access after the item entered security review?”
+
+“One read-only attempt. The repository rejected it.”
+
+“Did you alter, export, assign, or operationalize anything?”
+
+“No.”
+
+“You understood the instruction was to stop?”
+
+“I understood the program office said a review would happen. The formal suspension arrived after the rejected attempt.”
+
+The distinction might save nothing. Price left it in the record anyway.
+
+The custodian opened DIA-AR-PRICE-01.
 
 Price’s last active audit session ended at 17:58 on October 12. His classified authority was suspended five minutes later. His extension was disabled nineteen seconds after that.
 
-The office request was created the next morning at 06:41.
+The office request had been created the next morning at 06:41.
 
 Grant displayed only the fields required for the comparison.
 
 NSB-EMERGENCY CONTINUITY REQUEST.
 
-Price stared at his name attached to a record class he had never used.
+Price stared at his name attached to a record class he had never used. Shah touched the edge of his sleeve, not to stop him, but to keep the silence from answering for him.
 
-“Did you create that record?”
+“Did you create that record?” Grant asked.
 
 “No.”
 
@@ -110,51 +178,58 @@ Price stared at his name attached to a record class he had never used.
 
 “No.”
 
-Shah stopped the questioning there.
+“Did you have active authority capable of making another DIA submission when that office record was created?”
 
-Grant asked whether Price would attach his complete original request and access chronology to a voluntary statement, including the expedited flag and rejected access attempt.
+“No.”
 
-Price understood the cost. Refusing would leave the later record using his name while the authenticated version of his conduct stayed inside a personnel system built to judge him. Agreeing would preserve the boundary and document the rule he had knowingly pressed.
+Shah ended the questioning there. Price had authenticated what he did and denied a defined set of acts. He had not speculated about the constructor or accepted another person’s theory.
+
+Grant asked whether he would attach the complete original request and access chronology to a voluntary statement, including the expedited flag and rejected access attempt.
+
+Price understood the choice. Refusing would leave the later record using his name while the complete version of his conduct remained inside a personnel system built to judge him. Agreeing would preserve the boundary and give DIA a clean account of the rule he had pressed.
 
 “Include the rejected attempt,” he said.
 
 Shah turned toward him. “Leland.”
 
-“They’ll use it whether I include it or not. I want the sequence complete.”
+“They will use it whether I include it or not. I want the sequence complete.”
 
-He signed the bounded statement. He did not ask to speak with Julie, offer to join the investigation, or ask the record to make him blameless.
+He authenticated the bounded statement under a new review-session receipt. He did not ask to speak with Julie, offer technical help, or request that anyone call him a whistleblower.
 
-He put his real request where the borrowed one could no longer replace it.
+He put his real mistake where the borrowed act could no longer replace it.
 
 ---
 
-Grant returned Price’s statement through the DIA source channel. The DIA originals remained at DIA. The office original remained with Sterling’s office. The comparison preserved separate custodians, clocks, withheld fields, and integrity statements.
+Secure MPD Evidence Intake
+Washington, D.C.
+
+Grant returned Price’s statement through the DIA source channel. The DIA originals remained at DIA. The office original remained in Sterling’s office. Grant built a comparison that preserved the two custodians, clock bases, produced fields, withheld fields, and integrity statements.
 
 Time required the least interpretation.
 
-Price’s active authority ended more than twelve hours before SO-NS-REQ-6540 was created. His original showed an authenticated preservation request. The administrative ledger showed the end of the authority that could create another DIA submission.
+Price’s active authority ended more than twelve hours before SO-NS-REQ-6540 was created. His original showed the authenticated act he had performed. The administrative ledger showed the end of his authority and the rejected attempt that followed.
 
-The office produced the complete event classes for a direct external request, an inherited request, and an internal continuity construction between 05:45 and 07:00. It withheld narrative and unrelated communications but certified that the event-class range was complete.
+The office now produced the complete event classes for a direct external request, an inherited request, and an internal continuity construction between 05:45 and 07:00. It withheld narrative and unrelated communications but certified the range complete for those classes.
 
 The first match was exact: DIA-SAR-PRICE-01.
 
 The second was Price’s identity string.
 
-Then the paths diverged.
+The office events showed how both traveled. A source-inheritance service imported the request reference and normalized the requestor field into the office workflow. Forty-three seconds later, a continuity-construction process created an operational branch.
 
-A source-inheritance service imported Price’s reference and normalized the requestor field into the office workflow. Forty-three seconds later, a continuity-construction process created the operational branch. A direct Price submission would have required either an external credential challenge tied to an active DIA session or an office witness release documenting receipt through another authorized channel.
+A direct Price submission would have required one of two events defined by the office custodian: an external credential challenge tied to an active DIA session, or an office witness release documenting that a source instruction arrived through another authorized channel.
 
-The complete production contained neither.
+The complete event-class production contained neither.
 
 Identity and reference had crossed.
 
 The act had not.
 
-Price’s original requested preservation and read-only review. The office construction added the emergency route, signer asset, WSS-4, Hartwell, K17-PHASE-B, and source reconstruction. Those were continuity additions, not terms inherited from Price.
+Price’s original requested preservation and read-only source review. The office construction added the emergency route, signer asset, WSS-4, Hartwell, K17-PHASE-B, and source reconstruction. The office transformation field identified those entries as continuity-routing additions, not terms inherited from Price.
 
 Hackett said, “Someone expanded his request.”
 
-“Someone or a service,” Grant replied. “The constructor is not identified in this production.”
+“Someone or a service,” Grant replied. “This production does not identify the constructor.”
 
 Office counsel argued that continuity systems lawfully transformed source requests into executable support actions.
 
@@ -162,7 +237,7 @@ Office counsel argued that continuity systems lawfully transformed source reques
 
 The office preserved its objections and produced no answer.
 
-The comparison sealed with a narrow finding:
+Grant sealed the finding.
 
 PRICE AUTHENTICATED DIA-SAR-PRICE-01.
 PRICE AUTHORITY ENDED BEFORE SO-NS-REQ-6540.
@@ -171,6 +246,8 @@ DIRECT PRICE AUTHENTICATION OR WITNESS RELEASE: ABSENT FROM COMPLETE EVENT-CLASS
 CONTINUITY CONSTRUCTOR AND INSTRUCTION SOURCE: NOT IDENTIFIED.
 
 Julie read the last line twice.
+
+Price had been wrong to press past the instruction. The later system had taken the reason for that choice and converted it into permission for an operation he had never seen.
 
 The borrowed name was resolved.
 
