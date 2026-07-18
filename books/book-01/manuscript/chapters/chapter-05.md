@@ -20,8 +20,6 @@ The Argus source certification would transmit in forty-seven minutes.
 
 His father expected him in Richmond by seven for a retirement dinner Elias had spent three weeks promising not to miss. The wrapped gift was still in his townhouse beside a card he had not finished.
 
-His father expected him in Richmond by seven for a retirement dinner Elias had spent three weeks promising not to miss. The wrapped gift was still in his townhouse beside a card he had not finished.
-
 Vance sat across from him.
 
 “You’ve had time to think.”
