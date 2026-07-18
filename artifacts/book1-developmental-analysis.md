@@ -2,10 +2,10 @@
 
 Generated from the accepted-manuscript inventory on the current branch.
 
-- Accepted words: **104,626**
-- Prose paragraphs: **8,344**
-- One-sentence paragraphs: **5,829**
-- Paragraphs of seven words or fewer: **4,415**
+- Accepted words: **104,909**
+- Prose paragraphs: **8,356**
+- One-sentence paragraphs: **5,833**
+- Paragraphs of seven words or fewer: **4,418**
 - Isolated `Not`/`No` fragments: **81**
 - Explicit proof/limitation constructions: **10**
 
@@ -19,7 +19,7 @@ Generated from the accepted-manuscript inventory on the current branch.
 | chapter-05.md | 7,964 | 914 | 768 | 619 | 9 | 1 |
 | chapter-06.md | 3,961 | 300 | 179 | 137 | 2 | 0 |
 | chapter-07.md | 4,911 | 396 | 269 | 198 | 1 | 0 |
-| chapter-08.md | 5,112 | 449 | 321 | 241 | 2 | 0 |
+| chapter-08.md | 5,395 | 461 | 325 | 244 | 2 | 0 |
 | chapter-09.md | 5,518 | 379 | 223 | 153 | 1 | 1 |
 | chapter-10.md | 5,989 | 452 | 291 | 221 | 2 | 2 |
 | chapter-11.md | 5,560 | 369 | 202 | 167 | 2 | 1 |
