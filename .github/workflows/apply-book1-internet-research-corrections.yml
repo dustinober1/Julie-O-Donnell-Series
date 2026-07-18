@@ -1,0 +1,58 @@
+name: Apply Book 1 Internet Research Corrections
+
+on:
+  push:
+    branches:
+      - agent/book1-internet-research-review
+    paths:
+      - tools/apply_book1_internet_research_corrections.py
+      - .github/workflows/apply-book1-internet-research-corrections.yml
+
+permissions:
+  contents: write
+
+jobs:
+  apply-and-verify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out review branch
+        uses: actions/checkout@v4
+        with:
+          ref: agent/book1-internet-research-review
+          fetch-depth: 0
+
+      - name: Apply exact source-backed corrections
+        run: python tools/apply_book1_internet_research_corrections.py
+
+      - name: Run validator and unit tests
+        run: |
+          python tools/validate_book1_publication_readiness.py
+          python -m unittest \
+            tools/test_validate_book1_publication_readiness.py \
+            tools/test_compile_book1_from_manifest.py
+
+      - name: Compile accepted manuscript
+        run: |
+          python tools/compile_book1_from_manifest.py \
+            --output artifacts/Veridrift-internet-research-review.md \
+            --provenance artifacts/Veridrift-internet-research-review.provenance.json
+          tail -n 1 artifacts/Veridrift-internet-research-review.md | grep -Fx "The bubble stayed centered."
+
+      - name: Commit corrected canon
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add \
+            README.md \
+            books/book-01/ACCEPTED_MANUSCRIPT.yaml \
+            books/book-01/control/README.md \
+            books/book-01/control/51-publication-readiness-status.md \
+            books/book-01/manuscript/prologue.md \
+            books/book-01/manuscript/chapters/chapter-02.md \
+            books/book-01/manuscript/chapters/chapter-24.md
+          if git diff --cached --quiet; then
+            echo "No correction diff to commit."
+          else
+            git commit -m "Apply source-backed Book 1 corrections"
+            git push origin HEAD:agent/book1-internet-research-review
+          fi
