@@ -10,7 +10,7 @@ MODEL_PATH = Path("models/kokoro-v1.0.onnx")
 VOICES_PATH = Path("models/voices-v1.0.bin")
 VOICE = "af_sky"
 LANG = "en-us"
-SPEED = 1.0
+SPEED = 1.2
 
 
 def strip_markdown(text: str) -> str:
