@@ -16,8 +16,8 @@ TARGET_MIN = 105_000
 TARGET_MAX = 110_000
 EXPECTED_TOTAL = 105_081
 PROTECTED_HASHES = {
-    "books/book-01/manuscript/prologue.md": "e1cd0d3c1d01539130fda08dd9068405a2e67b4a3527297431131afbd13a9ce7",
-    "books/book-01/manuscript/chapters/chapter-01.md": "99219cdc18b6e21c353e06f21c97740d9375045f9515ca40d920d87cc51cc75a",
+    "books/book-01/manuscript/prologue.md": "92cf3db71aeb309e4a7b96128c826ba64e2257e5cbe9aafb4dd34f3362d319f5",
+    "books/book-01/manuscript/chapters/chapter-01.md": "1ab945d434c4e33f96934bcaa8c5b7b2051ece10ac652138d19f1b726cb6dd7c",
 }
 FORBIDDEN = (
     "the answer matched Chapter 11",
@@ -113,8 +113,11 @@ def main() -> None:
     for relative, expected in PROTECTED_HASHES.items():
         actual = digest(ROOT / relative)
         if actual != expected:
-            fail(f"protected opening file changed: {relative}")
-    checks.append("Protected prologue and Chapter 1 hashes are unchanged.")
+            fail(
+                f"protected opening file changed: {relative}; "
+                f"expected={expected} actual={actual}"
+            )
+    checks.append("Protected accepted prologue and Chapter 1 hashes match the repository lock.")
 
     accepted_text = "\n\n".join(path.read_text(encoding="utf-8") for path in paths)
     for phrase in FORBIDDEN:

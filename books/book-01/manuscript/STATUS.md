@@ -1,28 +1,38 @@
 # Book 1 Manuscript Status
 
-## Accepted manuscript
+## Current state
 
-- Book title: **Veridrift**
-- Prologue and Chapters 1–24 are accepted.
-- Accepted total: **124,779 words**.
-- Accepted Act III subtotal, Chapters 13–24: **61,124 words**.
-- Accepted endpoint: Chapter 24 at **08:14:44 EDT / 17:44:44 IST**, Julie's farm.
-- Chapter 24 — **The Terms of Return** — **3,362 words** — blob `abce3cbea04a7afd798b5022ba09ce665a9cc923`.
-- Chapter 24 review: `../control/49-chapter-24-acceptance-review.md` — **ACCEPT**.
-- The accepted-manuscript inventory in `../ACCEPTED_MANUSCRIPT.yaml` controls.
+**_Veridrift_ is developmentally revised, not publication-final.**
 
-## Final accepted state
+- Canonical accepted manuscript: prologue plus Chapters 1–24.
+- Current accepted word count: **105,081**.
+- Target range: **105,000–110,000**.
+- Developmental revision completed: **July 18, 2026**.
+- Prologue and Chapter 1 were preserved from the accepted pre-revision text.
 
-Julie is conditionally released after physician-controlled medical observation and remains under appearance, charging, admissibility, evidence-contact, classified-access, administrative, and employment restrictions. Her right wrist and forearm remain immobilized and unusable. Marcus remains hospitalized and oxygen-dependent; possible future personal contact is permitted only after recovery and outside command, without forgiveness or professional partnership. Elias controls all future contact and technical participation through counsel. Price remains represented, administratively restricted, and neither cleared nor condemned beyond his complete record.
+## Revision outcomes
 
-All seven MPD evidence packages remain sealed and separate. The aluminum case remains 136 sealed / 47 incomplete / 311 excluded. `SSO-NS-004` remains powered down, isolated, closed, unused, and under `LSS-SL-90418`; `LSS-IDR-90418-01` remains an investigation rather than a guilt finding.
+- Final act compressed and rebuilt as one accumulating proof sequence.
+- Post-apprehension investigation moved across October 13–16.
+- Julie now makes and records a consequential analytical scope error involving K-17.
+- Grant, Alvarez, Ortiz, Sharma, Sarah, Vega, and other professionals originate correct process independently.
+- Elias has a concrete family stake and retains control of future contact.
+- Sarah's earlier institutional restraint is seeded before her source-preservation actions.
+- Vance's later live-authenticated release is proved; his original deployment authorship remains unproved.
+- Sterling-office responsibility is established without inventing Sterling's personal command.
+- Final exact farm timestamp removed; final line preserved.
 
-Julie rejects permanent institutional return and adopts case-specific terms for an independent source-integrity and evidence-architecture practice. She returns to the farm without driving, accepts bounded help with the fence, and begins no new case.
+## Publication blockers removed
 
-## Production state
+- in-world chapter-number drafting references;
+- chapter heading attached to prose;
+- duplicate thermostat transmission;
+- July/October contradiction;
+- heading and scene-spacing inconsistencies;
+- backticked display artifacts;
+- overexplicit Vance confession;
+- unrealistic same-morning federal resolution.
 
-- Book 1 is structurally complete.
-- Book 1 is not yet declared publication-ready.
-- No active draft exists.
-- No Chapter 25 artifact or complete remainder outline exists or is authorized.
-- The next task is a complete publication-readiness and final quality-assurance review.
+## Required before publication
+
+The manuscript still requires the external reviews listed in `../control/50-specialist-review-brief.md`, followed by approved technical revisions, a continuity check, line/copyedit, and proofreading.

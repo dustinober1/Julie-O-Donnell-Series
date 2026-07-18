@@ -15,7 +15,7 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 MANIFEST = REPO_ROOT / "books/book-01/ACCEPTED_MANUSCRIPT.yaml"
-PATH_RE = re.compile(r'^\s{4}path:\s*["\']?([^"\']+?)["\']?\s*$')
+PATH_RE = re.compile(r'^\s+(?:-\s+)?path:\s*["\']?([^"\']+?)["\']?\s*$')
 
 
 def accepted_paths(manifest: Path = MANIFEST) -> list[Path]:
@@ -34,6 +34,8 @@ def accepted_paths(manifest: Path = MANIFEST) -> list[Path]:
                 paths.append(REPO_ROOT / match.group(1))
     if not paths:
         raise ValueError(f"No accepted prose paths found in {manifest}")
+    if len(paths) != 25:
+        raise ValueError(f"Expected 25 accepted prose paths, found {len(paths)}")
     return paths
 
 

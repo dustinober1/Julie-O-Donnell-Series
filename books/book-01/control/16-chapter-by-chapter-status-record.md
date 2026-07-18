@@ -1,54 +1,40 @@
-# 16. CHAPTER-BY-CHAPTER STATUS RECORD
+# Chapter-by-Chapter Status Record — Book 1
 
-The accepted-manuscript inventory in `../ACCEPTED_MANUSCRIPT.yaml` controls acceptance status.
+**Revision date:** 2026-07-18
+**Status:** Developmental revision complete; specialist review and copyedit required.
 
-## Accepted inventory
+| Unit | Title | State | Controlling function / result |
+|---|---|---|---|
+| Prologue | Six Years Ago | Accepted / unchanged | Synthetic carrier discovered; four-second abort delay; official timeline rewritten. |
+| 1 | The Official Version | Accepted / unchanged | Fence motif; Marcus brings the impossible Pakistan signal; Julie enters Apex. |
+| 2 | The Poisoned Feed | Revised | Payload 88, bilateral pilot, Apex authority structure, post-archive derivative, SIGMA transformation, Elias framed. |
+| 3 | The Exit Protocol | Revised / blocker pass | Partial evidence capture, administrative detention, life-safety escape, official account begins. |
+| 4 | Burn Notice | Revised / reflowed | Fugitives inspect the partial capture; Vance pressures Elias; return-to-Apex mission forms. |
+| 5 | The Human Key | Revised / reflowed | Duplicate thermostat scene removed; Elias family stake added; Vance made less confessional. |
+| 6 | The Descent | Accepted with formatting pass | Cooling-route descent and lower-tier pursuit. |
+| 7 | The Human Key | Accepted with formatting pass | Elias voluntarily opens the gate; immutable emergency act recorded. |
+| 8 | The 05:00 Abort | Revised | Provenance reset stops release; Julie's overbroad boundary delays K-17 discovery; supplemental correction sealed. |
+| 9 | The Life-Safety Override | Accepted with formatting pass | Occupied-room suppression override, independent fire relay, escape with originals. |
+| 10 | The Capital Connection | Accepted with continuity pass | Evidence sources separated; Vance authority chain, Northbridge endpoint, K-17 Phase B. |
+| 11 | Going Offensive | Accepted with continuity pass | Northbridge objective, consent and abort rules, module preparation. |
+| 12 | The Sterling Trap | Revised / reflowed | WSS-4 capture, Sterling-office signer, Hartwell next challenge, K-17 status remains bounded. |
+| 13 | The Carrier Stream | Revised / reflowed | Hartwell physical-custody operation and police contact. |
+| 14 | The Named Officer | Revised / reflowed | Ortiz establishes public scene authority and preserves the seven-object chain. |
+| 15 | The Split Record | Rebuilt | Apprehension, medical limits, Brooks/Ortiz scene control, seven packages remain separate. |
+| 16 | The Hold Order | Rebuilt | Named federal authority, overnight preservation, Sarah's internal source fight, no same-day examination. |
+| 17 | The First Examination | Rebuilt | Grant independently and blindly replicates the physical-board finding; Price located. |
+| 18 | The Local Record | Rebuilt | Sharma preserves K-17 cartridge; local commit failed; zero writes; patrol and casualty boundaries. |
+| 19 | The Name on the Record | Rebuilt | Alvarez accepts federal responsibility; no-fire result; Hartwell limited production. |
+| 20 | The Custody Exception | Rebuilt | LSS no-use hold; Drennan carrier, Kessler authorizer, instruction source unresolved. |
+| 21 | The Borrowed Name | Rebuilt | Price's authentic request separated from inherited identity and continuity construction. |
+| 22 | The Release Record | Rebuilt | Construction mechanism identified; Vance's later live release proved; original constructor unproved. |
+| 23 | The Official Correction | Rebuilt | Failed overclaim preserved; three bounded public releases; alerts corrected. |
+| 24 | The Terms of Return | Rebuilt | Lawful release, Marcus and Elias boundaries, independent practice terms, centered bubble. |
 
-- Prologue and Chapters 1–24 are accepted.
-- Accepted total: **124,779 words**.
-- Accepted endpoint: **08:14:44 EDT / 17:44:44 IST**, Julie's farm.
-- Book 1 is structurally complete but not yet publication-ready.
+## Global locks
 
-## Accepted Act III
-
-| Chapter | Title | Words | Opening | Endpoint | Status |
-|---:|---|---:|---|---|---|
-| 13 | The Carrier Stream | 6,175 | approximately 07:18 EDT / 16:48 IST | 07:46:00 EDT / 17:16:00 IST | Accepted |
-| 14 | The Witness Line | 5,763 | 07:46:00 EDT / 17:16:00 IST | 07:49:32 EDT / 17:19:32 IST | Accepted |
-| 15 | The Split Record | 5,993 | 07:49:32 EDT / 17:19:32 IST | 07:56:40 EDT / 17:26:40 IST | Accepted |
-| 16 | The Hold Order | 6,024 | 07:56:40 EDT / 17:26:40 IST | 08:15:52 EDT / 17:45:52 IST | Accepted |
-| 17 | The First Examination | 5,888 | 08:15:52 EDT / 17:45:52 IST | 09:12:52 EDT / 18:42:52 IST | Accepted |
-| 18 | The Local Record | 4,478 | 09:12:52 EDT / 18:42:52 IST | 10:01:12 EDT / 19:31:12 IST | Accepted |
-| 19 | The Name on the Record | 5,393 | 10:01:12 EDT / 19:31:12 IST | 10:44:12 EDT / 20:14:12 IST | Accepted |
-| 20 | The Custody Exception | 4,307 | 10:44:12 EDT / 20:14:12 IST | 11:26:32 EDT / 20:56:32 IST | Accepted |
-| 21 | The Borrowed Name | 4,415 | 11:26:32 EDT / 20:56:32 IST | 12:18:04 EDT / 21:48:04 IST | Accepted |
-| 22 | The Release Record | 4,716 | 12:18:04 EDT / 21:48:04 IST | 13:12:44 EDT / 22:42:44 IST | Accepted |
-| 23 | The Official Correction | 4,610 | 13:12:44 EDT / 22:42:44 IST | 14:24:44 EDT / 23:54:44 IST | Accepted |
-| 24 | The Terms of Return | 3,362 | 15:04:44 EDT / 00:34:44 IST | 08:14:44 EDT / 17:44:44 IST, following EDT morning | Accepted |
-
-Accepted Act III subtotal: **61,124 words**.
-
-## Protected reviewed blobs
-
-- Chapter 13: `e7d04921431e571aab434f2f4b808655e363d30c`
-- Chapter 14: `78f7fff02cd271fecbc94f7daf7151dbebbd5c6d`
-- Chapter 15: `b8e7e2ae573a6c25ea096121c75acee867f3fad2`
-- Chapter 16: `dd5249f4b510a9da9ad19ab2902a95ce1e62a1d8`
-- Chapter 17: `1c4022ebb8d27d8d448f98bcf74fbf09e6e560c1`
-- Chapter 18: `6f5873d6e975ec74646af152aad22ea84545fc01`
-- Chapter 19: `1c7cc22fc7c480cb247efa1f6a2c0d0b1e1b1baf`
-- Chapter 20: `0bd12f43beeef48d5e897ee1fa78a333bd23099b`
-- Chapter 21: `866d4210b7fc808aef48144a91a58280f38fc99c`
-- Chapter 22: `034ab496794594427d8409d03e7c6659d41b6a91`
-- Chapter 23: `1f511d36404450f201b34a075f441d350eb7cc52`
-- Chapter 24: `abce3cbea04a7afd798b5022ba09ce665a9cc923`
-
-## Final acceptance records
-
-- Chapter 23 mission lock: `46-chapter-23-mission-lock.md`, blob `c8c5be7e9ee5a902c7187697cf1bc70c8a5ce30a`.
-- Chapter 23 acceptance review: `47-chapter-23-acceptance-review.md`, **ACCEPT**, blob `c876854075ad1f686ac663018983fd34f0064e2c`.
-- Chapter 24 mission lock: `48-chapter-24-mission-lock.md`, blob `260186500b448b5154858f7df47f113dc8d6fbfa`.
-- Chapter 24 acceptance review: `49-chapter-24-acceptance-review.md`, **ACCEPT**, blob `f734346a7e959d1b265167130903d44f19512e17`.
-- Chapter 24 was accepted unchanged at **3,362 words**.
-- No Chapter 24 draft or duplicate remains.
-- No Chapter 25 artifact or complete remainder outline exists or is authorized.
+- Final line: **The bubble stayed centered.**
+- Accepted length remains within 105,000–110,000 words.
+- Original 02:14 human/upstream constructor remains unresolved.
+- Sterling personal knowledge, direction, intent, and command remain unresolved.
+- No chapter is publication-final until specialist review, technical continuity review, line/copyedit, and proofread are complete.

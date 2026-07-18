@@ -1,134 +1,145 @@
-schema_version: 3
+version: 2
 book: 1
 title: "Veridrift"
-status: "Controlling accepted-manuscript inventory; Book 1 structurally complete"
-last_verified: "2026-07-16"
-accepted_words: 124779
-word_count_method:
-  name: "UTF-8 Markdown whitespace-delimited token count"
-  implementation: "For each accepted file, len(Path(path).read_text(encoding='utf-8').split()); sum the accepted inventory"
-  utility: "tools/count_book1_words.py"
-  note: "All visible Markdown tokens are counted consistently, including headings, datelines, and screen-field text"
-accepted_endpoint:
-  chapter: 24
-  eastern: "08:14:44 EDT"
-  india: "17:44:44 IST"
-  location: "Julie's farm; legal and medical restrictions remain active; Julie has chosen case-specific independent source-integrity and evidence-architecture terms; no new assignment has begun"
-
+status: "developmentally_revised"
+generated_on: "2026-07-18"
+developmental_revision_completed: "2026-07-18"
+publication_readiness: "specialist_review_and_copyedit_required"
+target_words_min: 105000
+target_words_max: 110000
+total_accepted_words: 105081
 accepted_files:
-  - sequence: 0
-    type: "prologue"
+  - path: "books/book-01/manuscript/prologue.md"
     title: "Six Years Ago"
-    path: "books/book-01/manuscript/prologue.md"
-  - sequence: 1
-    type: "chapter"
+    accepted_on: "2026-07-18"
+    words: 2108
+    sha256: "92cf3db71aeb309e4a7b96128c826ba64e2257e5cbe9aafb4dd34f3362d319f5"
+  - path: "books/book-01/manuscript/chapters/chapter-01.md"
     title: "The Official Version"
-    path: "books/book-01/manuscript/chapters/chapter-01.md"
-  - sequence: 2
-    type: "chapter"
+    accepted_on: "2026-07-18"
+    words: 4232
+    sha256: "1ab945d434c4e33f96934bcaa8c5b7b2051ece10ac652138d19f1b726cb6dd7c"
+  - path: "books/book-01/manuscript/chapters/chapter-02.md"
     title: "The Poisoned Feed"
-    path: "books/book-01/manuscript/chapters/chapter-02.md"
-  - sequence: 3
-    type: "chapter"
+    accepted_on: "2026-07-18"
+    words: 5122
+    sha256: "3cb0effa5263ccaca01f9f4493cd155e4fe2815205bd48c06600edaa01819e28"
+  - path: "books/book-01/manuscript/chapters/chapter-03.md"
     title: "The Exit Protocol"
-    path: "books/book-01/manuscript/chapters/chapter-03.md"
-  - sequence: 4
-    type: "chapter"
+    accepted_on: "2026-07-18"
+    words: 3094
+    sha256: "8edb2af0b9606fbbaea85dc76d9b5bd46078b4160955ab355dd9a6e0d7232a8a"
+  - path: "books/book-01/manuscript/chapters/chapter-04.md"
     title: "Burn Notice"
-    path: "books/book-01/manuscript/chapters/chapter-04.md"
-  - sequence: 5
-    type: "chapter"
+    accepted_on: "2026-07-18"
+    words: 6386
+    sha256: "14da7a2fedec6f799ca342b97e1e40348cf9691dce267f3fea81f7f1f762656b"
+  - path: "books/book-01/manuscript/chapters/chapter-05.md"
     title: "The Second Clock"
-    path: "books/book-01/manuscript/chapters/chapter-05.md"
-  - sequence: 6
-    type: "chapter"
+    accepted_on: "2026-07-18"
+    words: 7964
+    sha256: "9bae031be73152dea38391c127e89aa1ff0154aa92ac2dc2114e1395f3598bee"
+  - path: "books/book-01/manuscript/chapters/chapter-06.md"
     title: "The Descent"
-    path: "books/book-01/manuscript/chapters/chapter-06.md"
-  - sequence: 7
-    type: "chapter"
+    accepted_on: "2026-07-18"
+    words: 3961
+    sha256: "acf8f603383e01ebddfb49f395a1d552dd72735063a14d25b45786d22dc18646"
+  - path: "books/book-01/manuscript/chapters/chapter-07.md"
     title: "The Human Key"
-    path: "books/book-01/manuscript/chapters/chapter-07.md"
-  - sequence: 8
-    type: "chapter"
+    accepted_on: "2026-07-18"
+    words: 4911
+    sha256: "0b51f9cc7c4e966dcfacfe18b9b316b332a0047bc894cf18926868d752c3fd36"
+  - path: "books/book-01/manuscript/chapters/chapter-08.md"
     title: "The 05:00 Abort"
-    path: "books/book-01/manuscript/chapters/chapter-08.md"
-  - sequence: 9
-    type: "chapter"
+    accepted_on: "2026-07-18"
+    words: 5395
+    sha256: "9d0a11172306ab02310b163feb90110bf673693e414fd0b3f541848dc7d5ffb3"
+  - path: "books/book-01/manuscript/chapters/chapter-09.md"
     title: "The Life-Safety Override"
-    path: "books/book-01/manuscript/chapters/chapter-09.md"
-  - sequence: 10
-    type: "chapter"
+    accepted_on: "2026-07-18"
+    words: 5518
+    sha256: "0bd83c2a62487170ae7375dadd108172557ace14233efd7e8ee068d8d72a7754"
+  - path: "books/book-01/manuscript/chapters/chapter-10.md"
     title: "The Capital Connection"
-    path: "books/book-01/manuscript/chapters/chapter-10.md"
-  - sequence: 11
-    type: "chapter"
+    accepted_on: "2026-07-18"
+    words: 5989
+    sha256: "da80715c422c77d8c3686c233aeeca30543306b6b1328a8f6a2123ee07653071"
+  - path: "books/book-01/manuscript/chapters/chapter-11.md"
     title: "Going Offensive"
-    path: "books/book-01/manuscript/chapters/chapter-11.md"
-  - sequence: 12
-    type: "chapter"
+    accepted_on: "2026-07-18"
+    words: 5560
+    sha256: "814ebb7fff29e516b2f151cd00dd024a7268996ad62d3a3ea628f15bc7ef2d6c"
+  - path: "books/book-01/manuscript/chapters/chapter-12.md"
     title: "The Sterling Trap"
-    path: "books/book-01/manuscript/chapters/chapter-12.md"
-  - sequence: 13
-    type: "chapter"
+    accepted_on: "2026-07-18"
+    words: 5614
+    sha256: "22cbf2aef5a0e99dba9121dcd67737ffe487007eea71e8cb301236c03c06fa36"
+  - path: "books/book-01/manuscript/chapters/chapter-13.md"
     title: "The Carrier Stream"
-    path: "books/book-01/manuscript/chapters/chapter-13.md"
-  - sequence: 14
-    type: "chapter"
+    accepted_on: "2026-07-18"
+    words: 6177
+    sha256: "c572047103dc42b5044c08110bc561e53a92d80680ad024115a005f78c24bc2a"
+  - path: "books/book-01/manuscript/chapters/chapter-14.md"
     title: "The Witness Line"
-    path: "books/book-01/manuscript/chapters/chapter-14.md"
-  - sequence: 15
-    type: "chapter"
+    accepted_on: "2026-07-18"
+    words: 5763
+    sha256: "46d98223f227764ed4df31a9c7fe55ea852bf6eb6e025d798e0b1a9778010ebc"
+  - path: "books/book-01/manuscript/chapters/chapter-15.md"
     title: "The Split Record"
-    path: "books/book-01/manuscript/chapters/chapter-15.md"
-  - sequence: 16
-    type: "chapter"
+    accepted_on: "2026-07-18"
+    words: 2738
+    sha256: "a0d162a9bcfb5d5b11acec67da2742ce9ea856d85dc907745f6bbc7709fd2d56"
+  - path: "books/book-01/manuscript/chapters/chapter-16.md"
     title: "The Hold Order"
-    path: "books/book-01/manuscript/chapters/chapter-16.md"
-  - sequence: 17
-    type: "chapter"
+    accepted_on: "2026-07-18"
+    words: 2770
+    sha256: "62375f9849a0fb5d7daf9d6ae6748a22684cbd5ce959dc60d89634ebc1ee543e"
+  - path: "books/book-01/manuscript/chapters/chapter-17.md"
     title: "The First Examination"
-    path: "books/book-01/manuscript/chapters/chapter-17.md"
-  - sequence: 18
-    type: "chapter"
+    accepted_on: "2026-07-18"
+    words: 2634
+    sha256: "7bc713d7bce5210bd8b60d9e263b4ec26bff7fb28ed3f2c7f8075f248ac3489e"
+  - path: "books/book-01/manuscript/chapters/chapter-18.md"
     title: "The Local Record"
-    path: "books/book-01/manuscript/chapters/chapter-18.md"
-  - sequence: 19
-    type: "chapter"
+    accepted_on: "2026-07-18"
+    words: 2953
+    sha256: "5d4ba4df399c29aa4c179ea897e17e710419b10aacadea76a8b03c383cf1f737"
+  - path: "books/book-01/manuscript/chapters/chapter-19.md"
     title: "The Name on the Record"
-    path: "books/book-01/manuscript/chapters/chapter-19.md"
-  - sequence: 20
-    type: "chapter"
+    accepted_on: "2026-07-18"
+    words: 2745
+    sha256: "71224dfb406b162def7d2edc1119483ccd33ee08a17a79d59111a8363db54aec"
+  - path: "books/book-01/manuscript/chapters/chapter-20.md"
     title: "The Custody Exception"
-    path: "books/book-01/manuscript/chapters/chapter-20.md"
-  - sequence: 21
-    type: "chapter"
+    accepted_on: "2026-07-18"
+    words: 2361
+    sha256: "5d568972ed1e60fc1b2aec19ec1f54c8a850f4c9b89aeb861bed4351669d3100"
+  - path: "books/book-01/manuscript/chapters/chapter-21.md"
     title: "The Borrowed Name"
-    path: "books/book-01/manuscript/chapters/chapter-21.md"
-  - sequence: 22
-    type: "chapter"
+    accepted_on: "2026-07-18"
+    words: 2486
+    sha256: "fcca37f6946c92b6da86004cd61c1417053519a7f6aa69253331e0abc3770721"
+  - path: "books/book-01/manuscript/chapters/chapter-22.md"
     title: "The Release Record"
-    path: "books/book-01/manuscript/chapters/chapter-22.md"
-  - sequence: 23
-    type: "chapter"
+    accepted_on: "2026-07-18"
+    words: 2602
+    sha256: "d664d56529ced049ed2e78d5f42237aa42226e8d2df7802415c6f738eb87e2a5"
+  - path: "books/book-01/manuscript/chapters/chapter-23.md"
     title: "The Official Correction"
-    path: "books/book-01/manuscript/chapters/chapter-23.md"
-  - sequence: 24
-    type: "chapter"
+    accepted_on: "2026-07-18"
+    words: 2918
+    sha256: "1e80b9569831d25a83453980756f5fbc00d659bd281173d090f2e27cc48fa783"
+  - path: "books/book-01/manuscript/chapters/chapter-24.md"
     title: "The Terms of Return"
-    path: "books/book-01/manuscript/chapters/chapter-24.md"
-
+    accepted_on: "2026-07-18"
+    words: 3080
+    sha256: "169d1b98734ffb08bec7d4cc9eae5f4512db1f49e2bc61e83568dd19444d93d8"
 excluded_from_canon:
   - path: "books/book-01/drafts/"
-    reason: "Unaccepted prose only; no active Book 1 chapter draft after Chapter 24 promotion"
+    reason: "Unaccepted prose and historical drafting material."
   - path: "archive/"
-    reason: "Historical provenance only"
+    reason: "Historical provenance only."
   - path: "docs/superpowers/"
-    reason: "Design and implementation records, not story canon"
-
-rules:
-  - "Only files listed under accepted_files are accepted prose."
-  - "The accepted total excludes all draft, archive, planning, repair-history, and design files."
-  - "Adding a file to manuscript without updating this manifest does not accept it."
-  - "Adding a file to this manifest without an explicit acceptance review and matching prose commit is invalid."
-  - "Every promotion commit must update accepted_words, accepted_endpoint, PROJECT_STATE.yaml, chapter status, materially affected control ledgers, and permanent validation."
-  - "Book 1 structural completion does not equal publication readiness; a separate final QA and publication-readiness review is required."
+    reason: "Design and implementation records, not story canon."
+  - path: "books/book-01/compiled/current/Julie_O_Donnell_Book_1_REVISED.md"
+    reason: "Generated compilation for review; canonical prose remains the accepted file inventory."

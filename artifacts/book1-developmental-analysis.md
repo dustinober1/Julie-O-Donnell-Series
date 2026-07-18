@@ -2,9 +2,9 @@
 
 Generated from the accepted-manuscript inventory on the current branch.
 
-- Accepted words: **104,909**
-- Prose paragraphs: **8,356**
-- One-sentence paragraphs: **5,833**
+- Accepted words: **105,081**
+- Prose paragraphs: **8,361**
+- One-sentence paragraphs: **5,836**
 - Paragraphs of seven words or fewer: **4,418**
 - Isolated `Not`/`No` fragments: **81**
 - Explicit proof/limitation constructions: **10**
@@ -29,7 +29,7 @@ Generated from the accepted-manuscript inventory on the current branch.
 | chapter-15.md | 2,738 | 138 | 55 | 40 | 0 | 0 |
 | chapter-16.md | 2,770 | 147 | 81 | 36 | 0 | 0 |
 | chapter-17.md | 2,634 | 139 | 76 | 41 | 2 | 0 |
-| chapter-18.md | 2,781 | 156 | 89 | 53 | 0 | 0 |
+| chapter-18.md | 2,953 | 161 | 92 | 53 | 0 | 0 |
 | chapter-19.md | 2,745 | 171 | 111 | 55 | 0 | 0 |
 | chapter-20.md | 2,361 | 139 | 86 | 46 | 3 | 0 |
 | chapter-21.md | 2,486 | 142 | 89 | 50 | 5 | 0 |

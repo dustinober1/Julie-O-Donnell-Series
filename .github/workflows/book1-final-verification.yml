@@ -33,7 +33,7 @@ jobs:
       - name: Compile accepted manuscript
         if: steps.gate.outputs.run == 'true'
         run: python3 tools/compile_book1_accepted.py
-      - name: Register generated compilation
+      - name: Synchronize canonical inventory and controls
         if: steps.gate.outputs.run == 'true'
         run: python3 tools/register_book1_compiled_output.py
       - name: Run publication-readiness validator
@@ -41,17 +41,64 @@ jobs:
         run: python3 tools/validate_book1_publication_readiness.py
       - name: Run independent final verification
         if: steps.gate.outputs.run == 'true'
-        run: python3 tools/verify_book1_revision.py
-      - name: Verify diff hygiene
-        if: steps.gate.outputs.run == 'true'
-        run: git diff --check
-      - name: Commit verified compilation and report
+        id: final_verification
+        continue-on-error: true
+        run: python3 tools/verify_book1_revision.py > artifacts/book1-final-verification-current.txt 2>&1
+      - name: Append protected opening hashes
         if: steps.gate.outputs.run == 'true'
         run: |
-          git add books/book-01/compiled/current/Julie_O_Donnell_Book_1_REVISED.md books/book-01/ACCEPTED_MANUSCRIPT.yaml artifacts/book1-final-verification.md
+          {
+            echo
+            echo "PROTECTED_HASHES_CURRENT"
+            sha256sum \
+              books/book-01/manuscript/prologue.md \
+              books/book-01/manuscript/chapters/chapter-01.md
+          } >> artifacts/book1-final-verification-current.txt
+      - name: Show independent verification result
+        if: steps.gate.outputs.run == 'true'
+        run: cat artifacts/book1-final-verification-current.txt
+      - name: Persist failing verification diagnostic
+        if: steps.gate.outputs.run == 'true' && steps.final_verification.outcome == 'failure'
+        run: |
+          git add artifacts/book1-final-verification-current.txt
+          git commit -m "test: record Book 1 final verification failure"
+          git push origin HEAD:${{ github.event.pull_request.head.ref }}
+      - name: Verify diff hygiene
+        if: steps.gate.outputs.run == 'true' && steps.final_verification.outcome == 'success'
+        id: diff_hygiene
+        continue-on-error: true
+        run: git diff --check > artifacts/book1-diff-check-current.txt 2>&1
+      - name: Show diff hygiene result
+        if: steps.gate.outputs.run == 'true' && steps.final_verification.outcome == 'success'
+        run: cat artifacts/book1-diff-check-current.txt
+      - name: Persist failing diff diagnostic
+        if: steps.gate.outputs.run == 'true' && steps.final_verification.outcome == 'success' && steps.diff_hygiene.outcome == 'failure'
+        run: |
+          git add artifacts/book1-diff-check-current.txt
+          git commit -m "test: record Book 1 diff-hygiene failure"
+          git push origin HEAD:${{ github.event.pull_request.head.ref }}
+      - name: Commit verified compilation, controls, and report
+        if: steps.gate.outputs.run == 'true' && steps.final_verification.outcome == 'success' && steps.diff_hygiene.outcome == 'success'
+        run: |
+          git add \
+            README.md \
+            PROJECT_STATE.yaml \
+            books/book-01/ACCEPTED_MANUSCRIPT.yaml \
+            books/book-01/compiled/current/Julie_O_Donnell_Book_1_REVISED.md \
+            books/book-01/manuscript/STATUS.md \
+            books/book-01/control/00-overview.md \
+            books/book-01/control/16-chapter-by-chapter-status-record.md \
+            books/book-01/control/24-thread-disposition-matrix.md \
+            series/recurring-character-ledger.md \
+            artifacts/book1-final-verification.md \
+            artifacts/book1-final-verification-current.txt \
+            artifacts/book1-diff-check-current.txt
           if git diff --cached --quiet; then
             echo "Verified outputs unchanged"
           else
             git commit -m "build: add verified Book 1 revision compilation"
             git push origin HEAD:${{ github.event.pull_request.head.ref }}
           fi
+      - name: Enforce verification and diff hygiene
+        if: steps.gate.outputs.run == 'true' && (steps.final_verification.outcome == 'failure' || steps.diff_hygiene.outcome == 'failure')
+        run: exit 1

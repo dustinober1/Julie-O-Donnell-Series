@@ -1,1 +1,1 @@
-FAIL: accepted word count 104,909 is outside 105,000–110,000
+PASS: Book 1 publication-readiness checks; accepted words=105,081

@@ -1,57 +1,40 @@
-# 24. THREAD DISPOSITION MATRIX
+# Thread Disposition Matrix — End of Book 1
 
-## Final accepted baseline
+## Resolved in Book 1
 
-- Accepted manuscript: Prologue and Chapters 1–24
-- Accepted words: **124,779**
-- Accepted Act III subtotal: **61,124**
-- Accepted endpoint: **08:14:44 EDT / 17:44:44 IST**, Julie's farm
-- Chapter 24: **The Terms of Return**, **3,362 words**, blob `abce3cbea04a7afd798b5022ba09ce665a9cc923`
-- Chapter 24 review: `49-chapter-24-acceptance-review.md` — **ACCEPT**
-- No Chapter 24 draft or duplicate remains
-- No Chapter 25 artifact or complete remainder outline exists or is authorized
+| Thread | Disposition |
+|---|---|
+| False artillery certainty / immediate war risk | Provenance reset suspends the U.S. counter-battery product; Sharma holds fire; no Indian rounds are fired. |
+| Payload 88 relation to live feed | Post-archive derivative and `SIGMA-NORMALIZE-4` transform messy Revision Eight into the unnaturally clean operational source. |
+| Elias as original deployer | Physical board did not sign at 02:14; identity was mirrored/constructed. His later voluntary acts remain his. |
+| Price as operational requestor | Price authenticated only his source-review request; the office workflow inherited his identity and reference after his authority ended. |
+| K-17 local commit | Field authority reaches the controller; local authentication fails; zero writes occur; later product omits the events. |
+| Julie's analytical infallibility | Her first lineage boundary defers fourteen genuine observation references for forty-three seconds; she signs the supplemental correction. |
+| Vance's later operational act | Apex source, camera/access evidence, live palm event, and government registry establish his later remote reconstruction release. |
+| False public authorship accusation | Three bounded releases withdraw the claim that Julie, Marcus, Elias, or Price originated the poison or constructed the route. |
+| Marcus's six-year testimony | He files a complete sworn correction without obtaining automatic forgiveness. |
+| Evidence custody | Seven objects enter common MPD custody, then named federal receiving authority, without being merged. |
 
-Disposition labels: **PAID**, **B1-PARTIAL / SERIES**, **SERIES**, **OPTIONAL**.
+## Deliberately unresolved series threads
 
-| Thread | Final disposition | Accepted endpoint |
-|---|---|---|
-| Julie immediate custody/medical state | PAID | Named court/MPD authority, guarded treatment, physician-controlled conditional release, continuing restrictions |
-| Julie future role | PAID | Rejects permanent institutional return; writes ten case-specific practice terms; no new assignment |
-| Julie home/fence image | PAID | Returns through authorized transport, accepts bounded help, holds level with left hand, bubble centered |
-| Marcus earlier testimony | PAID materially | Complete sworn correction owns defensible partial truth and its cost |
-| Marcus relationship with Julie | PAID for Book 1 | Possible personal contact after recovery and outside command; no forgiveness, intimacy, work, or restored trust |
-| Elias original deployment framing | PAID materially | Board history still contradicts original physical signing |
-| Elias voluntary later acts | PAID for Book 1 | Owns acts despite unsafe choices; represented, medically impaired, legally exposed |
-| Elias future availability | PAID for Book 1 | Controls all contact and technical participation through counsel; no permanent-team assumption |
-| Price authentic request / borrowed path | PAID materially | Complete sequence preserved; restricted administrative status; no immunity, exoneration, clearance restoration, discipline, or criminal judgment |
-| Chen / Mercer / Bell | PAID at bounded level | Source-native seal, direct observations/force orders, and WSS local audit preserved; no alliance or recruitment |
-| Seven MPD packages | PAID custody state | `MPD-901441` through `MPD-901447` remain sealed, separate, stationary, unused |
-| Aluminum case | PAID custody state | 136 sealed / 47 incomplete / 311 excluded; no new access or derivative |
-| `SSO-NS-004` | B1-PARTIAL / SERIES | Powered down, isolated, closed, unused under `LSS-SL-90418`; review docket not guilt finding |
-| Original 02:14 human operator | B1-PARTIAL / SERIES | Not established; deliberate carryover |
-| Human borrowed-path constructor | B1-PARTIAL / SERIES | Not established; deliberate carryover |
-| Common human source for both paths | B1-PARTIAL / SERIES | Not established; common mechanism is not common human authorship |
-| Vance later remote release | PAID | Personal live later-release act and operational suspension established |
-| Vance original/upstream role | B1-PARTIAL / SERIES | Original deployment, sole architecture, upstream direction, motive, and final legal/employment result unresolved |
-| Sterling office/device chain | PAID materially | Publicly acknowledged; independent LSS review active |
-| Sterling personal role | B1-PARTIAL / SERIES | Possession, operation, knowledge, intent, direction, and command not established |
-| Tariq physical role | B1-PARTIAL / SERIES | Registered authority only; physical operation not established |
-| WSS plaintext | B1-PARTIAL / SERIES | Encrypted/unavailable; no invention |
-| Wider network | SERIES | Not declared destroyed; membership and durability unresolved |
-| Sharma/Qureshi thread | B1-PARTIAL / SERIES | Independent no-fire/local-record autonomy preserved |
-| Final legal and institutional consequences | SERIES | Charging, admissibility, clearance, employment, discipline, civil liability, review, and reform remain with lawful processes |
+| Thread | End-of-book boundary |
+|---|---|
+| Original 02:14 constructor | APX-ICF-4 and `APX-DIR-0019` mechanism/authority binding established; human or upstream initiating instruction not recorded in produced sources. |
+| Sterling personal command | Sterling-office device and continuity chain established; personal possession, knowledge, direction, intent, and command not proved. |
 
-## No-retcon rules
+## Continuing legal and professional consequences
 
-- Vance finding applies only to the later remote release.
-- Office/device responsibility does not prove Sterling personal command.
-- Conditional release and public correction do not equal exoneration or final adjudication.
-- Common architecture does not prove common human authorship.
-- Derivatives and public instruments do not replace originals.
-- Marcus's injuries are not punishment or forgiveness currency.
-- Elias's prior emergency consent does not create future availability.
-- Julie's terms create case-specific conditions, not standing authority.
+| Character / institution | Open consequence |
+|---|---|
+| Julie | Charging, admissibility, and unauthorized-conduct review unresolved; prohibited from working on her own case. |
+| Marcus | Medical and Army administrative review; testimony consequences unresolved. |
+| Elias | Legal, clearance, and employment consequences for voluntary emergency acts unresolved; future contact controlled by him. |
+| Price | DIA administrative decision unresolved; later borrowed identity cannot be treated as his authenticated act. |
+| Sarah | Apex access suspended; preserved source record remains under federal hold. |
+| Vance | Operational authority suspended; charging and original-deployment attribution unresolved. |
+| Sterling office | Device remains under LSS no-use hold; continuity instruction source and personal responsibility unresolved. |
+| K-17 | Physical inner boundary and field-team identity remain unresolved; original local media retained by Arjun. |
 
-## Completion gate
+## Book 2 handoff rule
 
-All mandatory Book 1 ending obligations are complete. The next task is a manuscript-wide publication-readiness and final quality-assurance review, not Chapter 25.
+A later book may investigate the two deliberate series threads through a new lawful mandate. Julie may not use Book 1 evidence or access to investigate her own unresolved case without separate authority and safeguards.
