@@ -7,7 +7,7 @@ Canonical repository for the contemporary geopolitical techno-thriller series ce
 **Book 1: _Veridrift_**
 
 - Prologue plus 24 chapters.
-- Accepted revised manuscript: **105,081 words**.
+- Accepted revised manuscript: **105,144 words**.
 - Developmental revision completed **July 18, 2026**.
 - Publication-rhythm pass completed **July 18, 2026**, reducing routine isolated narrative beats while preserving dialogue, scene metadata, system displays, and story content.
 - Targeted one-sentence-paragraph repair completed **July 18, 2026**, integrating reviewed routine reactions and technical transitions without changing accepted words.

@@ -2,7 +2,7 @@
 
 **Book:** *Veridrift*  
 **Canonical inventory:** `../ACCEPTED_MANUSCRIPT.yaml`  
-**Accepted baseline:** 105,081 words  
+**Accepted baseline:** 105,144 words  
 **Accepted structure:** Prologue + Chapters 1–24  
 **Current verdict:** **CONDITIONAL PASS — NOT APPROVED FOR PUBLICATION**
 
@@ -26,7 +26,7 @@
 
 ### Publication-readiness implementation
 
-- [x] Canonical control metadata reconciled to 105,081 words and 24 chapters.
+- [x] Canonical control metadata reconciled to 105,144 words and 24 chapters.
 - [x] Obsolete twelve-chapter Word export formally excluded from authority.
 - [x] Seven specialist review areas defined with named-reviewer closure rules.
 - [x] GitHub issues #70–#76 opened for the external reviews.

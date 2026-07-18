@@ -8,13 +8,13 @@ publication_rhythm_pass_completed: "2026-07-18"
 publication_readiness: "specialist_review_and_copyedit_required"
 target_words_min: 105000
 target_words_max: 110000
-total_accepted_words: 105081
+total_accepted_words: 105144
 accepted_files:
   - path: "books/book-01/manuscript/prologue.md"
     title: "Six Years Ago"
     accepted_on: "2026-07-18"
-    words: 2108
-    sha256: "52a6da201cf11bfb257db6befa068173ea2b623b67ee964261fa65698b51c02b"
+    words: 2110
+    sha256: "9f1285a83b3379b8f34ced719ad7b2d9d79b645a8eb5587aa38822710683506e"
   - path: "books/book-01/manuscript/chapters/chapter-01.md"
     title: "The Official Version"
     accepted_on: "2026-07-18"
@@ -23,8 +23,8 @@ accepted_files:
   - path: "books/book-01/manuscript/chapters/chapter-02.md"
     title: "The Poisoned Feed"
     accepted_on: "2026-07-18"
-    words: 5122
-    sha256: "17022e4635f92605956e9fefbb18a6d0cf338a6e7e9083aaaff45f786ccd6428"
+    words: 5148
+    sha256: "21983e8d0ad58cdcf1e19c0e51b99faaff2f2edb3b1ec5f0d9d1109c6538aaf4"
   - path: "books/book-01/manuscript/chapters/chapter-03.md"
     title: "The Exit Protocol"
     accepted_on: "2026-07-18"
@@ -133,8 +133,8 @@ accepted_files:
   - path: "books/book-01/manuscript/chapters/chapter-24.md"
     title: "The Terms of Return"
     accepted_on: "2026-07-18"
-    words: 3080
-    sha256: "92750b4d83160a028daeab59eccab61b5d85d1c85dfd54d0421fe4790fbdf690"
+    words: 3115
+    sha256: "75ee3cbf08977baa87569933145ca8aa5c82a43eacf7913d617c338612f200ab"
 excluded_from_canon:
   - path: "books/book-01/drafts/"
     reason: "Unaccepted prose and historical drafting material."
