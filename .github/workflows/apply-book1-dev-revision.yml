@@ -34,19 +34,21 @@ jobs:
             git commit -m "fix: apply Book 1 publication blocker patch"
             git push origin HEAD:${{ github.event.pull_request.head.ref }}
           fi
+      - name: Generate developmental metrics
+        run: python3 tools/analyze_book1_revision.py
       - name: Capture blocker validation
         id: readiness
         continue-on-error: true
         run: |
           mkdir -p artifacts
           python3 tools/validate_book1_publication_readiness.py --pre-revision > artifacts/book1-publication-readiness-current.txt 2>&1
-      - name: Commit readiness diagnostic
+      - name: Commit branch diagnostics
         run: |
-          git add artifacts/book1-publication-readiness-current.txt
+          git add artifacts/book1-publication-readiness-current.txt artifacts/book1-developmental-analysis.md
           if git diff --cached --quiet; then
-            echo "Readiness diagnostic unchanged"
+            echo "Branch diagnostics unchanged"
           else
-            git commit -m "test: record Book 1 readiness diagnostic"
+            git commit -m "test: refresh Book 1 developmental diagnostics"
             git push origin HEAD:${{ github.event.pull_request.head.ref }}
           fi
       - name: Enforce blocker validation
