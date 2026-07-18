@@ -84,9 +84,7 @@ He nodded once. The plan had not improved yet. It had only become honest. Julie 
 
 REACH NORTHBRIDGE SECURE SUITE 4 BEFORE 07:08. CAPTURE THE LIVE BUFFER, ROUTING STATE, FULL SIGNING CHAIN, HARDWARE SIGNATURE, SESSION TIME, AND K17-PHASE-B LINKAGE. LEAVE.
 
-Marcus read it.
-
-“That is an intelligence requirement,” he said. “Not an entry plan.”
+Marcus read it. “That is an intelligence requirement,” he said. “Not an entry plan.”
 
 “No.”
 
@@ -104,9 +102,7 @@ SERVICE LOCALITY: L STREET NW / WASHINGTON, DC
 FACILITIES ENTRY: REAR SERVICE VESTIBULE
 SECURE DOMAIN: WSS-4
 
-Marcus leaned forward, then stopped when his ribs objected.
-
-“The Fenwick Building,” he said.
+Marcus leaned forward, then stopped when his ribs objected. “The Fenwick Building,” he said.
 
 “You know it?” Julie asked.
 
@@ -347,9 +343,7 @@ Marcus continued testing the edges. “Search scope?”
 
 “We do not touch him.”
 
-Marcus nodded once.
-
-“Destruction?”
+Marcus nodded once. “Destruction?”
 
 “None. The suite remains operational.”
 

@@ -11,6 +11,7 @@ A disgraced Army intelligence analyst discovers that synthetic telemetry is bein
 - Accepted words: **105,081**.
 - Developmental revision completed: **2026-07-18**.
 - Publication-rhythm pass completed: **2026-07-18**.
+- Targeted one-sentence-paragraph repair completed: **2026-07-18**.
 - Series-opener resolution retained.
 
 ## Structural engines

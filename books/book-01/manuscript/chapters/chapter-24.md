@@ -260,9 +260,7 @@ Her neighbor packed the first soil around the post with the tamping bar. Julie h
 
 “Toward you,” she said.
 
-He shifted the post.
-
-“Little more.”
+He shifted the post. “Little more.”
 
 He moved it without asking for the reasoning. Julie checked again. The yellow legal pad rested inside a clear sleeve on the fence rail. It held no client, assignment, or promise that any institution would accept her terms. It held the conditions under which she would return and the conditions under which she would refuse. Webb had written one note beneath Julie's four rules before placing the page in the sleeve.
 

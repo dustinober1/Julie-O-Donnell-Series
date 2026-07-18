@@ -71,9 +71,7 @@ The service radio carried a Hartwell traffic advisory. Two approaches were closi
 
 “Good.”
 
-Marcus looked at her.
-
-“You keep using that word when the information is bad.”
+Marcus looked at her. “You keep using that word when the information is bad.”
 
 “I use it when the information admits what it is.”
 
@@ -117,9 +115,7 @@ She shut off the engine. The sudden quiet made their breathing audible. Marcus�
 
 “Hard abort is seven-forty-two-thirty,” she said.
 
-Marcus turned toward her.
-
-“Conditions?”
+Marcus turned toward her. “Conditions?”
 
 “We have continuous observation or a defensibly recoverable record of the suspected signer route. The module and board remain intact and with Elias. You retain the originals and a viable way out.”
 
@@ -135,9 +131,7 @@ Marcus turned toward her.
 
 “We leave.”
 
-Marcus held her gaze.
-
-“You stayed eight seconds at Fenwick.”
+Marcus held her gaze. “You stayed eight seconds at Fenwick.”
 
 “I know.”
 
@@ -155,13 +149,9 @@ Julie did not defend the seal. It had strengthened the evidence. It had also cos
 
 “Seven-forty-two-thirty,” she said. “If the conditions do not pass, the operation ends.”
 
-Marcus waited.
+Marcus waited. “Say the part you do not want to say.”
 
-“Say the part you do not want to say.”
-
-Julie looked through the open wall toward Hartwell.
-
-“If the route is one step from proving Sterling held the device, and the conditions fail, we still leave.”
+Julie looked through the open wall toward Hartwell. “If the route is one step from proving Sterling held the device, and the conditions fail, we still leave.”
 
 “The device,” Elias said. “Not Sterling.”
 
@@ -179,9 +169,7 @@ Julie studied the cameras instead. A traffic camera stood above the intersection
 
 “Can the module make event markers without touching either partition?” Julie asked.
 
-Elias looked at her.
-
-“The handling journal can record a local button event and device time.”
+Elias looked at her. “The handling journal can record a local button event and device time.”
 
 “Does it change Partition A?”
 
@@ -261,9 +249,7 @@ Vance cut into the channel.
 
 “Telemetry recovery remains the priority.”
 
-Mercer waited for Sarah.
-
-“Capture all three if present,” she said. “Separate them. Secure the case and any electronic media under documented custody. Do not destroy or disconnect anything.”
+Mercer waited for Sarah. “Capture all three if present,” she said. “Separate them. Secure the case and any electronic media under documented custody. Do not destroy or disconnect anything.”
 
 “Receiving authority?”
 
@@ -284,9 +270,7 @@ The support vehicle returned from the south. Julie saw the weak left rear light 
 
 “Left rear running light. Same roof rack. Same three-inch gap between the rear bumper and the receiver cover.”
 
-Elias looked at him.
-
-“You saw that while bleeding through your collar?”
+Elias looked at him. “You saw that while bleeding through your collar?”
 
 “I saw vehicles for twenty-seven years.”
 
@@ -306,9 +290,7 @@ Julie felt the objective change. They were no longer searching every route. They
 
 “Continuous from here,” she said.
 
-Marcus checked the mirrors inside the garage.
-
-“No police on this level.”
+Marcus checked the mirrors inside the garage. “No police on this level.”
 
 “Ramps?”
 
@@ -342,9 +324,7 @@ The sedan moved away. No door opened. No object changed hands. Julie kept the li
 
 “Lost visual,” she said.
 
-Elias looked at the module.
-
-“Marker?”
+Elias looked at the module. “Marker?”
 
 “Yes.”
 
@@ -500,9 +480,7 @@ Julie looked at the time. 07:38:07. Four minutes and twenty-three seconds to the
 
 “Probably.”
 
-Marcus heard them.
-
-“Write probably?”
+Marcus heard them. “Write probably?”
 
 “No,” Julie said. “Write not visible after group shift.”
 
@@ -514,9 +492,7 @@ Marcus’s hand closed around the wheel. The movement tightened his face. Julie 
 
 “Do not run,” Mercer called. “Do not move the van.”
 
-Julie looked at Elias.
-
-“Module.”
+Julie looked at Elias. “Module.”
 
 “Sealed. Handling journal active.”
 
@@ -532,9 +508,7 @@ He looked at the twenty feet between them. “Yes.”
 
 “Yes.”
 
-Julie looked at Marcus.
-
-“Case?”
+Julie looked at Marcus. “Case?”
 
 “Sealed. Cartridge and log with me.”
 
@@ -682,9 +656,7 @@ The hard condition required a viable exfiltration route, not a promise that no o
 
 “I know.”
 
-Mercer reached the next column.
-
-“Step away from the van.”
+Mercer reached the next column. “Step away from the van.”
 
 The staff group at Hartwell moved. 07:44:16. The outer screen opened long enough for two people to pass into a narrower lane between temporary barriers. One uniformed officer remained outside. The person in the dark overcoat went first. The man from the SUV followed.
 
@@ -716,9 +688,7 @@ The officer’s eyes moved toward Hartwell.
 
 “We do not know.”
 
-Mercer looked at Elias’s module.
-
-“You captured the office certificate at Northbridge.”
+Mercer looked at Elias’s module. “You captured the office certificate at Northbridge.”
 
 “Yes,” Elias said.
 

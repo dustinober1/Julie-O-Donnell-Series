@@ -383,9 +383,7 @@ The panel displayed:
 ENTRY APERTURE: 102 MM
 FULL SERVICE OPEN: 44 SECONDS
 
-Marcus looked at the team regrouping six feet away.
-
-“We don’t have forty-four.”
+Marcus looked at the team regrouping six feet away. “We don’t have forty-four.”
 
 “We don’t need full open,” Julie said.
 

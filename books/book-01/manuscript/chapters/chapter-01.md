@@ -28,9 +28,7 @@ The Suburban stopped beside her truck. The driver’s door opened. Colonel Marcu
 
 “You’ve got nerve.”
 
-Marcus closed the vehicle door without taking his eyes off her.
-
-“I tried calling.”
+Marcus closed the vehicle door without taking his eyes off her. “I tried calling.”
 
 “I noticed.”
 
@@ -38,9 +36,7 @@ Marcus closed the vehicle door without taking his eyes off her.
 
 “That was the idea.”
 
-He glanced at the shotgun.
-
-“Are you planning to shoot me?”
+He glanced at the shotgun. “Are you planning to shoot me?”
 
 “Not if you leave.”
 
@@ -100,9 +96,7 @@ Her gaze lifted to his.
 
 “The relay was operating through a mountain weather system severe enough to knock two reconnaissance platforms offline.”
 
-Julie looked back at the readings.
-
-“Equipment calibration?”
+Julie looked back at the readings. “Equipment calibration?”
 
 “Passed.”
 
@@ -246,9 +240,7 @@ He had not contacted her after that. Not when she moved to Culpeper, or when the
 
 “Does Apex?”
 
-Marcus paused.
-
-“They know I requested temporary consultant access.”
+Marcus paused. “They know I requested temporary consultant access.”
 
 “For whom?”
 
@@ -282,9 +274,7 @@ The admission was quieter than an apology and harder to dismiss. Julie turned aw
 
 “I should have backed you sooner.”
 
-She closed her eyes.
-
-“Don’t.”
+She closed her eyes. “Don’t.”
 
 “I’m not asking you to forgive me.”
 
@@ -332,9 +322,7 @@ Julie turned back toward him. Marcus had always been a poor liar when forced to 
 
 “What else?” she asked.
 
-He hesitated.
-
-“Argus marked the assessment at one hundred percent confidence for fourteen seconds yesterday.”
+He hesitated. “Argus marked the assessment at one hundred percent confidence for fourteen seconds yesterday.”
 
 Something tightened beneath Julie’s ribs.
 
@@ -350,9 +338,7 @@ Something tightened beneath Julie’s ribs.
 
 “That was the request that got Price’s credentials suspended.”
 
-Julie looked again at the black Suburban.
-
-“You brought a security detail?”
+Julie looked again at the black Suburban. “You brought a security detail?”
 
 “No.”
 
@@ -372,9 +358,7 @@ Julie looked again at the black Suburban.
 
 “It’s a fleet rental under a commercial account.”
 
-She raised an eyebrow.
-
-“Army Intelligence has improved since I left.”
+She raised an eyebrow. “Army Intelligence has improved since I left.”
 
 “Only in narrow areas.”
 
@@ -436,15 +420,11 @@ His shoulders lowered by perhaps half an inch.
 
 “Try faster.”
 
-Marcus nodded.
-
-“And the third?”
+Marcus nodded. “And the third?”
 
 “Whoever authorized that vehicle. Tell them their commercial rental is parked on private property and will be towed if it leaks oil.”
 
-He looked back at the Suburban.
-
-“It doesn’t leak oil.”
+He looked back at the Suburban. “It doesn’t leak oil.”
 
 “Then you have one less problem.”
 
@@ -530,17 +510,11 @@ Sarah gave away almost nothing.
 
 “That wasn’t my question.”
 
-Marcus intervened.
+Marcus intervened. “Ms. O’Donnell’s notes fall under my review authority.”
 
-“Ms. O’Donnell’s notes fall under my review authority.”
+Sarah looked at him. “Director Vance adjusted the access conditions ten minutes ago.”
 
-Sarah looked at him.
-
-“Director Vance adjusted the access conditions ten minutes ago.”
-
-Marcus’s jaw tightened.
-
-“On whose request?”
+Marcus’s jaw tightened. “On whose request?”
 
 “The review environment is owned and maintained by Apex. Director Vance is the designated security authority for the technical floor.”
 
@@ -548,9 +522,7 @@ Marcus’s jaw tightened.
 
 “You requested access to restricted proprietary architecture supporting a classified operational system. Director Vance approved a supervised sandbox.”
 
-Julie looked from Sarah to Marcus.
-
-“Show me.”
+Julie looked from Sarah to Marcus. “Show me.”
 
 Sarah turned the tablet. The authorization filled the screen.
 
@@ -566,9 +538,7 @@ At the bottom, a timestamp showed the permissions had been modified at 11:39. Fo
 
 “They waited until I arrived,” Julie said.
 
-Sarah withdrew the tablet.
-
-“The director reviews all nonstandard access.”
+Sarah withdrew the tablet. “The director reviews all nonstandard access.”
 
 “He reviewed my license plate.”
 
@@ -600,9 +570,7 @@ The assessment would enter the allied channel in less than five hours. Sarah kne
 
 “Take us to the room,” Julie said.
 
-Marcus turned toward her.
-
-“Julie—”
+Marcus turned toward her. “Julie—”
 
 “We’re already inside.”
 
@@ -620,9 +588,7 @@ No one answered. Sarah remained at the door.
 
 “That isn’t what I asked.”
 
-Sarah’s eyes narrowed slightly.
-
-“The source package provided by Army Intelligence has been imported without modification.”
+Sarah’s eyes narrowed slightly. “The source package provided by Army Intelligence has been imported without modification.”
 
 “By Apex.”
 
@@ -638,9 +604,7 @@ Julie set her notebook on the table.
 
 “No,” Sarah said. “But it is usually an answer to people who know what they’re looking at.”
 
-Marcus stepped between them before Julie could respond.
-
-“Thank you, Ms. Chen.”
+Marcus stepped between them before Julie could respond. “Thank you, Ms. Chen.”
 
 Sarah held his gaze for a moment, then left. The steel door sealed behind her. Julie listened to the lock engage.
 
@@ -662,9 +626,7 @@ Marcus rubbed one hand over his face.
 
 “Apex technical staff loaded it.”
 
-Julie pulled out a chair.
-
-“So we do not know whether this is the raw feed.”
+Julie pulled out a chair. “So we do not know whether this is the raw feed.”
 
 “It carries the original government checksums.”
 
@@ -672,9 +634,7 @@ Julie pulled out a chair.
 
 “I know.”
 
-She looked at him.
-
-“That phrase sounds unnatural in your mouth.”
+She looked at him. “That phrase sounds unnatural in your mouth.”
 
 “I’ve had practice since this morning.”
 
@@ -684,13 +644,9 @@ PAK_RELAY_17A
 OPERATIONAL TELEMETRY REVIEW
 ARGUS-ENT-4.6
 
-Julie opened her notebook.
+Julie opened her notebook. “Before we touch anything, tell me the official version.”
 
-“Before we touch anything, tell me the official version.”
-
-Marcus remained standing.
-
-“Argus detected synchronized encrypted emissions from three Pakistani military installations. Movement models indicate mobile artillery units are preparing to reposition toward the Line of Control under civilian communications cover. The pattern has been classified as state-sponsored offensive preparation.”
+Marcus remained standing. “Argus detected synchronized encrypted emissions from three Pakistani military installations. Movement models indicate mobile artillery units are preparing to reposition toward the Line of Control under civilian communications cover. The pattern has been classified as state-sponsored offensive preparation.”
 
 “Independent confirmation?”
 
@@ -720,8 +676,6 @@ She scrolled through the first minute of data, then the second. Marcus moved clo
 
 “What do you see?”
 
-Julie did not answer. The transmissions arrived every eleven-point-two seconds. Signal strength varied by less than one tenth of a decibel. The relay had been operating through freezing rain, wind shear, and intermittent power loss. None of it touched the data. The transmissions marched across the screen with machine-made precision.
-
-Julie’s fingers went cold around the pen.
+Julie did not answer. The transmissions arrived every eleven-point-two seconds. Signal strength varied by less than one tenth of a decibel. The relay had been operating through freezing rain, wind shear, and intermittent power loss. None of it touched the data. The transmissions marched across the screen with machine-made precision. Julie’s fingers went cold around the pen.
 
 Six years later, the machine was lying in exactly the same voice.

@@ -3,7 +3,7 @@
 **Result:** PASS
 
 **Accepted words:** 105,081
-**Compiled SHA-256:** `41eb6415bbee450ed08499f3e29367afd5859d5d9d08084ed1e3a89716672652`
+**Compiled SHA-256:** `a40da54a49a17ebc9b5515ea4c15d21bc587dcee0037c5350fcfb2bb4432183e`
 
 ## Checks
 
@@ -17,7 +17,7 @@
 - PASS — Compiled revised manuscript exactly matches accepted inventory.
 - PASS — Six required specialist reviews are explicitly marked UNREVIEWED.
 - PASS — Primary control files report the current accepted word count.
-- PASS — Paragraph rhythm gate passes: 3,386/5,909 one-sentence paragraphs (57.3%).
+- PASS — Paragraph rhythm gate passes: 3,084/5,740 one-sentence paragraphs (53.7%).
 
 ## Publication gate
 

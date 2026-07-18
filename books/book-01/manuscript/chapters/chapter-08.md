@@ -52,9 +52,7 @@ LOCAL MEDIA INTACT
 
 “The protected port has no route into production memory,” Elias said. “It copies selected blocks into a local reconciliation workspace. If the isolation controller is functioning.”
 
-Julie looked at the screen.
-
-“Can we verify that before connection?”
+Julie looked at the screen. “Can we verify that before connection?”
 
 Elias’s fingers moved over the console, too fast at first. His cut right index left a small dark mark on the glass. He stopped, wiped the blood against his shirt, and used his left hand instead.
 
@@ -211,9 +209,7 @@ SYNTHETIC-SOURCE LABEL MAP: PRESENT
 OPERATIONAL OBJECT DERIVATION DETECTED
 PAK_RELAY_17A_SOURCE_CORRECTION
 
-Elias closed his eyes for less than a second.
-
-“They didn’t just copy the package,” he said. “They built the source-correction object from it.”
+Elias closed his eyes for less than a second. “They didn’t just copy the package,” he said. “They built the source-correction object from it.”
 
 Julie brought the operational lineage onto the center screen. The chain opened from left to right. PAK_RELAY_17A raw collection. SIGMA-NORMALIZE-4 reconstruction.
 
@@ -448,9 +444,7 @@ Sharma keyed the battery net.
 
 “All batteries, hold fire. Hold fire.”
 
-Qureshi relayed beside her.
-
-“Abort mission Zebra-Nine. Abort. Safe weapons and clear the digital fire plan.”
+Qureshi relayed beside her. “Abort mission Zebra-Nine. Abort. Safe weapons and clear the digital fire plan.”
 
 The clock showed four. A battery commander answered first.
 
@@ -486,9 +480,7 @@ Elias sat down hard in front of the console. His injured leg extended beneath hi
 
 “How close?”
 
-Julie looked at the zeroed clock.
-
-“Close enough.”
+Julie looked at the zeroed clock. “Close enough.”
 
 No one celebrated.
 
@@ -719,9 +711,7 @@ Mercer answered after a short pause. “Reason?” Sarah looked at the environme
 
 “Suppression pre-discharge is active.”
 
-Another pause.
-
-“Occupied?” Mercer asked.
+Another pause. “Occupied?” Mercer asked.
 
 Vance watched her. Sarah kept her voice level. “Maintain stand-off.” It was not an answer. It was still an order.
 

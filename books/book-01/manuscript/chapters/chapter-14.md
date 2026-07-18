@@ -46,9 +46,7 @@ Ortiz’s gaze passed across Elias, the open passenger area of PCF-27, and Marcu
 
 “What event?” he asked.
 
-Julie looked at the body camera, not at Hartwell.
-
-“At 07:08:09.442 Eastern, a portable executive signer registered to the Office of Senator Sterling answered a hardware challenge inside Northbridge Secure Suite Four. The device serial in that captured session was SSO-NS-zero-zero-four. The same session identified Hartwell as the next required local challenge site and gave a window from 07:46:00 to 07:48:30.”
+Julie looked at the body camera, not at Hartwell. “At 07:08:09.442 Eastern, a portable executive signer registered to the Office of Senator Sterling answered a hardware challenge inside Northbridge Secure Suite Four. The device serial in that captured session was SSO-NS-zero-zero-four. The same session identified Hartwell as the next required local challenge site and gave a window from 07:46:00 to 07:48:30.”
 
 Ortiz’s eyes moved once toward the open side of the garage. Julie continued.
 
@@ -74,9 +72,7 @@ Mercer stepped forward half a pace. Ortiz’s raised hand stopped him again. Jul
 
 “The request is not an accusation that Senator Sterling possessed the signer. It is not a claim that the black case contained it. It is a request to preserve the records needed to determine those facts later. Masking Window Two begins at 07:48. I do not know what it does. Phase B has an authorization deadline at 07:49. I do not know what action Phase B authorizes. Relay K-seventeen access was not confirmed in the 07:08 record. The substantive message blocks remain encrypted.”
 
-Ortiz studied her for one second.
-
-“You understand I am not validating any of that.”
+Ortiz studied her for one second. “You understand I am not validating any of that.”
 
 “Yes.”
 
@@ -92,9 +88,7 @@ The answer did not make him trust her. It made the request precise enough to rou
 
 “Dispatch, Unit Three. Start an evidentiary-preservation request associated with the Hartwell perimeter incident. Time-sensitive. Requesting hold on local challenge, controlled-door, staff-route, inspection-area, and relevant camera records from zero-seven-forty-six through zero-seven-forty-eight-thirty. Request originates on scene from subject O’Donnell. Record as unverified subject statement. No request for substantive disclosure.”
 
-Static opened and closed.
-
-“Unit Three, confirm challenge record is claimed to be active now.”
+Static opened and closed. “Unit Three, confirm challenge record is claimed to be active now.”
 
 “Affirmative. Claimed window is open now and closes at zero-seven-forty-eight-thirty.”
 
@@ -212,9 +206,7 @@ His radio carried the dispatch event into another channel. A District watch offi
 
 “Unit Three, west vehicle line is still moving. Additional cruiser is entering the outbound gate below.”
 
-Marcus heard it.
-
-“Route exposed,” he said.
+Marcus heard it. “Route exposed,” he said.
 
 Ortiz looked at him. “Do not make a route call.”
 
@@ -232,9 +224,7 @@ Ortiz’s expression hardened. Julie corrected herself before defiance became th
 
 “If the gate remains physically open, that is an instruction. If the gate becomes physically blocked, it is also the abort condition we established before you reached this level.”
 
-Ortiz studied her.
-
-“You are telling me you will stop when police close the route.”
+Ortiz studied her. “You are telling me you will stop when police close the route.”
 
 “Yes.”
 
@@ -279,13 +269,9 @@ No external image entered the module. No name. No conclusion. Marcus wrote the o
 
 DARK-OVERCOAT PERSON OUTSIDE CONTROLLED DOOR BEFORE ACCEPTED STATE. CLOTHING IDENTIFIER ONLY. MARKER MANUAL. EXTERNAL FACT REQUIRES CORROBORATION.
 
-Ortiz watched the pen stop.
+Ortiz watched the pen stop. “What does that change?” he asked.
 
-“What does that change?” he asked.
-
-Julie looked at Hartwell.
-
-“It narrows the set at the exact event time. If the challenge completes while that person remains outside, that person is not physically presenting the device at that moment.”
+Julie looked at Hartwell. “It narrows the set at the exact event time. If the challenge completes while that person remains outside, that person is not physically presenting the device at that moment.”
 
 Mercer said, “Unless the exterior signal is unrelated.”
 
@@ -315,9 +301,7 @@ The exterior Hartwell officer moved away from the privacy screen and looked towa
 
 “Green,” Julie said.
 
-Ortiz turned enough to see it.
-
-“Officer observation,” he said into his body camera. “Hartwell-facing controlled-door exterior indicator changed from steady white to steady green at approximately zero-seven-forty-seven-forty-nine. Technical meaning unknown.”
+Ortiz turned enough to see it. “Officer observation,” he said into his body camera. “Hartwell-facing controlled-door exterior indicator changed from steady white to steady green at approximately zero-seven-forty-seven-forty-nine. Technical meaning unknown.”
 
 That sentence mattered more than Julie’s conclusion would have. Elias held still.
 
@@ -338,9 +322,7 @@ Marcus wrote:
 
 EXTERIOR HARTWELL STATE WHITE TO STEADY GREEN. OFFICER ORTIZ INDEPENDENTLY OBSERVED. TECHNICAL MEANING AND DEVICE SERIAL UNPROVED.
 
-Mercer looked toward the lamp.
-
-“The local challenge completed.”
+Mercer looked toward the lamp. “The local challenge completed.”
 
 “A local challenge reached an accepted exterior state,” Elias said. “We cannot identify which serial from the lamp.”
 
@@ -372,9 +354,7 @@ Vance’s voice entered Mercer’s radio again.
 
 “The preservation request is itself part of O’Donnell’s continuing attempt to map protected authentication. Recover the module before the masking cycle is compromised.”
 
-Julie looked at Mercer.
-
-“He said masking cycle.”
+Julie looked at Mercer. “He said masking cycle.”
 
 Mercer’s expression did not change. The words were not proof that Vance controlled the window. They were proof that he had characterized it with a noun more specific than the public record had given Julie. Ortiz heard that too. Chen’s voice followed.
 
@@ -400,9 +380,7 @@ The acknowledgment arrived before the challenge window closed.
 
 “Affirmative.”
 
-Julie looked at Elias.
-
-“Safe marker?” he asked Ortiz.
+Julie looked at Elias. “Safe marker?” he asked Ortiz.
 
 The officer had already supervised two inputs without a connection, partition change, or unexpected movement.
 
@@ -423,9 +401,7 @@ Marcus turned his head too quickly toward the mirror. The level shifted under hi
 
 “Marcus.”
 
-He closed his eyes once and kept both hands visible.
-
-“Still conscious.”
+He closed his eyes once and kept both hands visible. “Still conscious.”
 
 “Route?”
 
@@ -581,9 +557,7 @@ The channel closed. Ortiz looked at Mercer. “You heard your coordinator.”
 
 “Which instruction are you operating under?”
 
-Mercer held the question for one second.
-
-“Metropolitan Police scene control. Recovery request documented. No contact without your direction.”
+Mercer held the question for one second. “Metropolitan Police scene control. Recovery request documented. No contact without your direction.”
 
 The choice was not loyalty to Julie. It was refusal to create an unreceipted disappearance in front of police cameras. The dashboard clock changed to 07:48:57. Three seconds remained to the Phase B deadline. Nothing at Hartwell changed. The exterior officer stayed near the privacy screen. The dark-overcoat person remained outside. The probable support SUV remained stationary. The other two entrants did not return. Elias watched the time.
 
