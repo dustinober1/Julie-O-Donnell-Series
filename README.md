@@ -11,6 +11,8 @@ Canonical repository for the contemporary geopolitical techno-thriller series ce
 - Developmental revision completed **July 18, 2026**.
 - Publication-rhythm pass completed **July 18, 2026**, reducing routine isolated narrative beats while preserving dialogue, scene metadata, system displays, and story content.
 - Targeted one-sentence-paragraph repair completed **July 18, 2026**, integrating reviewed routine reactions and technical transitions without changing accepted words.
+- Public-source desk review completed **July 18, 2026**, with three narrow corrections to targeting authority, PKI identity proof, and MPD release procedure.
+- Post-research continuity audit completed **July 18, 2026** with minor control and status repairs and no accepted prose changes.
 - Final act unfolds across October 13–16 rather than a single implausibly compressed morning.
 - Publication blockers, drafting metatext, duplicated thermostat transmission, date conflicts, heading inconsistencies, and system-display artifacts have been removed.
 - The causal chain from Validation Package 88 through `SIGMA-NORMALIZE-4` and the live poisoned feed is explicit.
@@ -19,12 +21,12 @@ Canonical repository for the contemporary geopolitical techno-thriller series ce
 
 ## Publication state
 
-The developmental revision is complete, but the novel is **not yet approved for publication**. The repository now contains the full publication-readiness control program: specialist packets and issues, continuity ledgers, findings intake, strict manifest validation, late-act diagnostics, a copyedit style sheet, and production-proof gates.
+The developmental revision and post-research continuity reconciliation are complete, but the novel is **not yet approved for publication**. The repository contains the full publication-readiness control program: specialist packets and issues, continuity ledgers, findings intake, strict manifest validation, late-act diagnostics, a copyedit style sheet, and production-proof gates.
 
 Required next stages:
 
 1. Complete the **seven** external specialist reviews tracked in `books/book-01/control/52-specialist-review-register.md` and GitHub issues #70–#76.
-2. Apply only approved critical and material corrections, then reconcile all continuity ledgers.
+2. Apply only approved critical and material corrections, then reconcile all continuity ledgers again if any accepted mechanism changes.
 3. Complete the controlled late-act compression, character-voice pass, line/copyedit, and proofread.
 4. Regenerate print and ebook production files from the accepted-manuscript inventory.
 5. Mark the book ready only after the final validator and production-proof report pass.

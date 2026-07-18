@@ -1,1 +1,1 @@
-PASS: Book 1 publication-readiness checks; accepted words=105,081
+PASS: Book 1 publication-readiness checks; accepted words=105,144

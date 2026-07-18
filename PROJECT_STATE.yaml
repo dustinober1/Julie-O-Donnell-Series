@@ -27,13 +27,15 @@ book_1:
   publication_rhythm_pass_completed: "2026-07-18"
   one_sentence_paragraph_repair_completed: "2026-07-18"
   public_source_desk_review_completed: "2026-07-18"
+  post_research_continuity_audit_completed: "2026-07-18"
+  post_research_continuity_verdict: "pass_with_minor_repairs"
   preserved_ending: "The bubble stayed centered."
   open_series_threads:
     - "human or upstream instruction behind the original 02:14 construction"
     - "Senator Sterling's personal knowledge, direction, intent, or command"
   required_next_steps:
     - "seven named external specialist reviews"
-    - "continuity review after any further technical corrections"
+    - "continuity review after any further external technical corrections"
     - "line and copyedit"
     - "proofread and production export"
 
@@ -42,4 +44,5 @@ quality_controls:
   developmental_metrics: "tools/analyze_book1_revision.py"
   specialist_review_brief: "books/book-01/control/50-specialist-review-brief.md"
   public_source_desk_review: "books/book-01/control/58-internet-research-desk-review.md"
+  post_research_continuity_audit: "books/book-01/control/59-post-research-continuity-audit.md"
   current_validation: "passing at 105144 accepted words"

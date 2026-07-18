@@ -1,5 +1,5 @@
-PASS: Book 1 final verification (105,081 words)
+PASS: Book 1 final verification (105,144 words)
 
 PROTECTED_HASHES_CURRENT
-92cf3db71aeb309e4a7b96128c826ba64e2257e5cbe9aafb4dd34f3362d319f5  books/book-01/manuscript/prologue.md
-1ab945d434c4e33f96934bcaa8c5b7b2051ece10ac652138d19f1b726cb6dd7c  books/book-01/manuscript/chapters/chapter-01.md
+9f1285a83b3379b8f34ced719ad7b2d9d79b645a8eb5587aa38822710683506e  books/book-01/manuscript/prologue.md
+36a1dc970b84ab0e2b76c856f83dd4d35dff405bfd9219854d8fbbd2f8d0c8c7  books/book-01/manuscript/chapters/chapter-01.md

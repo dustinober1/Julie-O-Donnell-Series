@@ -33,15 +33,17 @@
 - [x] Seven ready-to-send external review packets created.
 - [x] Specialist findings intake and adjudication ledger created.
 - [x] Public-source desk review completed across all seven areas.
-- [x] Three source-backed material corrections applied and continuity-validated.
+- [x] Three source-backed material corrections applied.
+- [x] Post-research continuity reconciliation completed against the merged corrections.
+- [x] No accepted prose contradiction was found; minor authority-ledger and current-status metadata were repaired.
 - [x] Four mechanisms retained at the public-source evidence ceiling.
-- [x] Master timeline created.
-- [x] Evidence/custody ledger created.
-- [x] Injury-capability ledger created.
-- [x] Character-knowledge ledger created.
-- [x] Institutional-authority ledger created.
-- [x] Technology/proof-limit ledger created.
-- [x] Public-narrative ledger created.
+- [x] Master timeline created and reconciled.
+- [x] Evidence/custody ledger created and reviewed.
+- [x] Injury-capability ledger created and reviewed.
+- [x] Character-knowledge ledger created and reviewed.
+- [x] Institutional-authority ledger created and reconciled.
+- [x] Technology/proof-limit ledger created and reviewed.
+- [x] Public-narrative ledger created and reconciled.
 - [x] Late-act compression audit and protected-scene map created.
 - [x] Character voice and cast-orientation controls created.
 - [x] Copyedit style sheet created.
@@ -60,6 +62,7 @@
 |---|---|---|
 | Canon/control reconciliation | Complete | Automated validator and CI prevent recurrence. |
 | Public-source technical desk review | Complete | Three material corrections verified; four areas retained with explicit limits. |
+| Post-research continuity reconciliation | Complete | PASS WITH MINOR REPAIRS; no accepted prose change and accepted total remains 105,144. |
 | SIGINT / ELINT / provenance review | Unreviewed — #70 | Named qualified reviewer and dated findings required. |
 | Military targeting / UAS / JAG review | Unreviewed — #71 | Named qualified reviewer and dated findings required. |
 | Secure facility / fire / suppression review | Unreviewed — #72 | Named qualified reviewer and dated findings required. |
