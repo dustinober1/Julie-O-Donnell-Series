@@ -1,2 +1,0 @@
-books/book-01/control/16-chapter-by-chapter-status-record.md:3: trailing whitespace.
-+**Revision date:** 2026-07-18  
