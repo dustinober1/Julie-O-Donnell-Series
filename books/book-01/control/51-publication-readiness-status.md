@@ -8,6 +8,8 @@
 
 ## Completed
 
+### Story and developmental state
+
 - [x] Book 1 story structure is complete.
 - [x] Immediate false-warning crisis resolves.
 - [x] No-fire outcome resolves.
@@ -20,27 +22,53 @@
 - [x] Developmental revision is complete.
 - [x] Publication-rhythm pass is complete.
 - [x] Targeted isolated-beat repair is complete.
-- [x] Canonical manifest identifies all accepted files, titles, counts, and hashes.
 - [x] Final line is locked: **The bubble stayed centered.**
+
+### Publication-readiness implementation
+
+- [x] Canonical control metadata reconciled to 105,081 words and 24 chapters.
+- [x] Obsolete twelve-chapter Word export formally excluded from authority.
+- [x] Seven specialist review areas defined with named-reviewer closure rules.
+- [x] GitHub issues #70–#76 opened for the external reviews.
+- [x] Seven ready-to-send external review packets created.
+- [x] Specialist findings intake and adjudication ledger created.
+- [x] Master timeline created.
+- [x] Evidence/custody ledger created.
+- [x] Injury-capability ledger created.
+- [x] Character-knowledge ledger created.
+- [x] Institutional-authority ledger created.
+- [x] Technology/proof-limit ledger created.
+- [x] Public-narrative ledger created.
+- [x] Late-act compression audit and protected-scene map created.
+- [x] Character voice and cast-orientation controls created.
+- [x] Copyedit style sheet created.
+- [x] Production-proof report and final output gates created.
+- [x] Manifest validator strengthened to check headings, titles, words, hashes, stale controls, final line, open threads, and Chapter 25 prohibition.
+- [x] Validator fixture suite created.
+- [x] Manifest-driven compiler and build-provenance sidecar created.
+- [x] Compiler tests created.
+- [x] Publication-style diagnostic script created.
+- [x] GitHub Actions publication-readiness workflow created.
 
 ## Blocking publication
 
 | Gate | Status | Requirement |
 |---|---|---|
-| Canon/control reconciliation | In progress | All active metadata must agree with the accepted manifest. |
-| SIGINT / ELINT / provenance review | Unreviewed | Named qualified reviewer and dated findings required. |
-| Military targeting / UAS / JAG review | Unreviewed | Named qualified reviewer and dated findings required. |
-| Secure facility / fire / suppression review | Unreviewed | Named qualified reviewer and dated findings required. |
-| PKI / hardware token / digital-forensics review | Unreviewed | Named qualified reviewer and dated findings required. |
-| Federal investigation / evidence-custody review | Unreviewed | Named qualified reviewer and dated findings required. |
-| Indian Army / artillery / South Asia review | Unreviewed | Named qualified reviewer and dated findings required. |
-| Trauma medicine / injury continuity review | Unreviewed | Named qualified reviewer and dated findings required. |
+| Canon/control reconciliation | Complete | Automated validator and CI prevent recurrence. |
+| SIGINT / ELINT / provenance review | Unreviewed — #70 | Named qualified reviewer and dated findings required. |
+| Military targeting / UAS / JAG review | Unreviewed — #71 | Named qualified reviewer and dated findings required. |
+| Secure facility / fire / suppression review | Unreviewed — #72 | Named qualified reviewer and dated findings required. |
+| PKI / hardware token / digital-forensics review | Unreviewed — #73 | Named qualified reviewer and dated findings required. |
+| Federal investigation / evidence-custody review | Unreviewed — #74 | Named qualified reviewer and dated findings required. |
+| Indian Army / artillery / South Asia review | Unreviewed — #75 | Named qualified reviewer and dated findings required. |
+| Trauma medicine / injury continuity review | Unreviewed — #76 | Named qualified reviewer and dated findings required. |
 | Approved technical corrections | Blocked | Begins after specialist findings are adjudicated. |
 | Post-correction continuity pass | Blocked | Begins after technical corrections. |
-| Late-act compression | Planned | Preserve all core procedural payoffs. |
-| Character-voice differentiation | Planned | Dialogue-only unless a clarity repair is required. |
+| Late-act prose compression | Audited / blocked | Apply only after legal, PKI, and provenance facts stabilize. |
+| Character-voice prose pass | Designed / blocked | Apply after technical language and compression stabilize. |
+| Vance credibility addition | Deferred | Add only after specialist corrections identify the safest early location. |
 | Line/copyedit | Blocked | Begins after content and continuity are stable. |
-| Print/EPUB proof | Blocked | Begins after copyedit and final manifest regeneration. |
+| Print/EPUB/Word/PDF proof | Blocked | Begins after copyedit and final manifest regeneration. |
 
 ## Non-negotiable content locks
 
@@ -60,5 +88,5 @@ Book 1 may be marked **READY FOR PUBLICATION** only when:
 4. The continuity ledgers are reconciled after corrections.
 5. Line/copyedit and proofread are complete.
 6. Print and EPUB proofs match the canonical source.
-7. The final validator passes.
+7. The final validator and CI workflow pass.
 8. The manuscript still ends with **The bubble stayed centered.**
