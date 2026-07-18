@@ -36,6 +36,7 @@ jobs:
           python3 tools/apply_book1_dev_revision.py
           python3 tools/apply_book1_causality_revision.py
           python3 tools/apply_book1_scene_depth_revision.py
+          python3 tools/apply_book1_completion_depth.py
       - name: Verify diff hygiene
         if: steps.gate.outputs.run == 'true'
         run: git diff --check
@@ -46,7 +47,7 @@ jobs:
             echo "No manuscript changes to commit"
           else
             git add books/book-01/manuscript/chapters
-            git commit -m "edit: apply Book 1 developmental scene-depth pass"
+            git commit -m "edit: complete Book 1 substantive developmental pass"
             git push origin HEAD:${{ github.event.pull_request.head.ref }}
           fi
       - name: Generate developmental metrics
