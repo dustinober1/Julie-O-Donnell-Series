@@ -2,24 +2,26 @@
 name: Apply Book 1 Internet Research Corrections
 
 on:
-  push:
+  pull_request:
     branches:
-      - agent/book1-internet-research-review
+      - main
     paths:
       - tools/apply_book1_internet_research_corrections.py
       - .github/workflows/apply-book1-internet-research-corrections.yml
+      - books/book-01/control/58-internet-research-desk-review.md
 
 permissions:
   contents: write
 
 jobs:
   apply-and-verify:
+    if: github.event.pull_request.head.repo.full_name == github.repository
     runs-on: ubuntu-latest
     steps:
       - name: Check out review branch
         uses: actions/checkout@v4
         with:
-          ref: agent/book1-internet-research-review
+          ref: ${{ github.event.pull_request.head.ref }}
           fetch-depth: 0
 
       - name: Apply exact source-backed corrections
@@ -40,6 +42,8 @@ jobs:
           tail -n 1 artifacts/Veridrift-internet-research-review.md | grep -Fx "The bubble stayed centered."
 
       - name: Commit corrected canon
+        env:
+          HEAD_BRANCH: ${{ github.event.pull_request.head.ref }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -55,5 +59,5 @@ jobs:
             echo "No correction diff to commit."
           else
             git commit -m "Apply source-backed Book 1 corrections"
-            git push origin HEAD:agent/book1-internet-research-review
+            git push origin "HEAD:${HEAD_BRANCH}"
           fi
