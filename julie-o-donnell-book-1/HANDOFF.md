@@ -5,15 +5,15 @@
 - Profile: thriller
 - Stage: drafting
 - Git reference: main @ HEAD
-- Project state hash: 200898c7cdf90be89ca4ead2ae018473c8a7ca8656080b18c328a8903e4a39d6
-- Last completed action: review
-- Active gate or blocker: first-chapter-approval (pending)
+- Project state hash: 64068bc9e76736394018087b15e7161f8e17abdb1e00335339375db48eebde42
+- Last completed action: Approved first-chapter-approval
+- Active gate or blocker: none
 - Current chapter: 1
 - Manuscript words: 3477
 
 ## Locked and protected state
 
-- 2 writer approvals recorded
+- 3 writer approvals recorded
 - book-01 canon remains provisional
 - Current workflow stage is drafting
 
@@ -43,10 +43,10 @@
 
 Run exactly: `/novel`
 
-Reason: First Chapter is ready for your decision.
+Reason: Novel Forge is ready to continue drafting.
 
 ## Continuation prompt
 
 ```text
-Continue the Novel Forge project Julie O'Donnell Book 1. The active book is book-01 (thriller) at stage drafting. Read STATUS.md and HANDOFF.md first, then follow the exact recommended action through /novel. Do not edit PROJECT.yaml, BOOK.yaml, STATUS.md, or HANDOFF.md directly and do not bypass the active human gate first-chapter-approval (pending).
+Continue the Novel Forge project Julie O'Donnell Book 1. The active book is book-01 (thriller) at stage drafting. Read STATUS.md and HANDOFF.md first, then follow the exact recommended action through /novel. Do not edit PROJECT.yaml, BOOK.yaml, STATUS.md, or HANDOFF.md directly and do not bypass the active human gate none.
 ```

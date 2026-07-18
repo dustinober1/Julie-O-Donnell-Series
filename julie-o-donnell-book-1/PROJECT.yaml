@@ -5,11 +5,11 @@ project_type: open-ended-series
 active_book: book-01
 default_profile: thriller
 current_stage: drafting
-next_gate: first-chapter-approval
+next_gate: null
 gates:
   voice-approval: approved
   book-plan-approval: approved
-  first-chapter-approval: pending
+  first-chapter-approval: approved
   act-1-review: open
   midpoint-review: open
   pre-final-act-review: open
@@ -25,6 +25,11 @@ approvals:
     approved_at: 2026-07-17T23:01:27.485Z
     approved_by: writer
     evidence_hash: 25e6ef1a17b9ef91e21c60ca1425c8a5f4720ef5eb9726780a930b6655638182
+    note: ""
+  - gate: first-chapter-approval
+    approved_at: 2026-07-18T01:08:18.228Z
+    approved_by: writer
+    evidence_hash: d88afbcc86a3b2b03ca97a4bcfa628405810600e56393782db8f4233ffece5d3
     note: ""
 automation:
   max_chapters_per_run: 3
