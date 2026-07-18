@@ -30,9 +30,11 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-      - name: Apply final target-depth pass
+      - name: Apply final manuscript passes
         if: steps.gate.outputs.run == 'true'
-        run: python3 tools/run_book1_target_depth_tolerant.py
+        run: |
+          python3 tools/apply_book1_final_1000.py
+          python3 tools/reflow_book1_narrative_paragraphs.py
       - name: Verify diff hygiene
         if: steps.gate.outputs.run == 'true'
         run: git diff --check
@@ -43,7 +45,7 @@ jobs:
             echo "No manuscript changes to commit"
           else
             git add books/book-01/manuscript/chapters
-            git commit -m "edit: complete Book 1 target-depth revision"
+            git commit -m "edit: finalize Book 1 word count and paragraph rhythm"
             git push origin HEAD:${{ github.event.pull_request.head.ref }}
           fi
       - name: Generate developmental metrics
