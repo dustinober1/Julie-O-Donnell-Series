@@ -3,39 +3,39 @@
 Generated from the accepted-manuscript inventory on the current branch.
 
 - Accepted words: **105,081**
-- Prose paragraphs: **8,361**
-- One-sentence paragraphs: **5,836**
-- Paragraphs of seven words or fewer: **4,418**
-- Isolated `Not`/`No` fragments: **81**
+- Prose paragraphs: **5,909**
+- One-sentence paragraphs: **3,386**
+- Paragraphs of seven words or fewer: **2,707**
+- Isolated `Not`/`No` fragments: **2**
 - Explicit proof/limitation constructions: **10**
 
 | File | Words | Prose paras | One-sentence | ≤7 words | Not/No fragments | Proof patterns |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| prologue.md | 2,108 | 161 | 100 | 80 | 1 | 0 |
-| chapter-01.md | 4,232 | 470 | 380 | 301 | 1 | 0 |
-| chapter-02.md | 5,122 | 289 | 177 | 132 | 3 | 2 |
-| chapter-03.md | 3,094 | 241 | 153 | 121 | 3 | 0 |
-| chapter-04.md | 6,386 | 809 | 718 | 573 | 19 | 0 |
-| chapter-05.md | 7,964 | 914 | 768 | 619 | 9 | 1 |
-| chapter-06.md | 3,961 | 300 | 179 | 137 | 2 | 0 |
-| chapter-07.md | 4,911 | 396 | 269 | 198 | 1 | 0 |
-| chapter-08.md | 5,395 | 461 | 325 | 244 | 2 | 0 |
-| chapter-09.md | 5,518 | 379 | 223 | 153 | 1 | 1 |
-| chapter-10.md | 5,989 | 452 | 291 | 221 | 2 | 2 |
-| chapter-11.md | 5,560 | 369 | 202 | 167 | 2 | 1 |
-| chapter-12.md | 5,614 | 514 | 367 | 296 | 4 | 0 |
-| chapter-13.md | 6,177 | 638 | 505 | 437 | 13 | 1 |
-| chapter-14.md | 5,763 | 457 | 307 | 263 | 8 | 2 |
-| chapter-15.md | 2,738 | 138 | 55 | 40 | 0 | 0 |
-| chapter-16.md | 2,770 | 147 | 81 | 36 | 0 | 0 |
-| chapter-17.md | 2,634 | 139 | 76 | 41 | 2 | 0 |
-| chapter-18.md | 2,953 | 161 | 92 | 53 | 0 | 0 |
-| chapter-19.md | 2,745 | 171 | 111 | 55 | 0 | 0 |
-| chapter-20.md | 2,361 | 139 | 86 | 46 | 3 | 0 |
-| chapter-21.md | 2,486 | 142 | 89 | 50 | 5 | 0 |
-| chapter-22.md | 2,602 | 143 | 85 | 40 | 0 | 0 |
-| chapter-23.md | 2,918 | 141 | 75 | 40 | 0 | 0 |
-| chapter-24.md | 3,080 | 190 | 122 | 75 | 0 | 0 |
+| prologue.md | 2,108 | 128 | 74 | 58 | 0 | 0 |
+| chapter-01.md | 4,232 | 357 | 261 | 224 | 0 | 0 |
+| chapter-02.md | 5,122 | 203 | 108 | 87 | 0 | 2 |
+| chapter-03.md | 3,094 | 194 | 122 | 97 | 0 | 0 |
+| chapter-04.md | 6,386 | 614 | 492 | 390 | 0 | 0 |
+| chapter-05.md | 7,964 | 640 | 446 | 359 | 0 | 1 |
+| chapter-06.md | 3,961 | 192 | 81 | 72 | 0 | 0 |
+| chapter-07.md | 4,911 | 263 | 125 | 105 | 0 | 0 |
+| chapter-08.md | 5,395 | 336 | 190 | 149 | 2 | 0 |
+| chapter-09.md | 5,518 | 255 | 105 | 83 | 0 | 1 |
+| chapter-10.md | 5,989 | 318 | 163 | 141 | 0 | 2 |
+| chapter-11.md | 5,560 | 289 | 137 | 123 | 0 | 1 |
+| chapter-12.md | 5,614 | 393 | 248 | 185 | 0 | 0 |
+| chapter-13.md | 6,177 | 376 | 221 | 195 | 0 | 1 |
+| chapter-14.md | 5,763 | 320 | 165 | 148 | 0 | 2 |
+| chapter-15.md | 2,738 | 104 | 34 | 29 | 0 | 0 |
+| chapter-16.md | 2,770 | 103 | 43 | 24 | 0 | 0 |
+| chapter-17.md | 2,634 | 84 | 30 | 17 | 0 | 0 |
+| chapter-18.md | 2,953 | 114 | 47 | 33 | 0 | 0 |
+| chapter-19.md | 2,745 | 117 | 54 | 32 | 0 | 0 |
+| chapter-20.md | 2,361 | 93 | 44 | 29 | 0 | 0 |
+| chapter-21.md | 2,486 | 94 | 43 | 29 | 0 | 0 |
+| chapter-22.md | 2,602 | 103 | 50 | 24 | 0 | 0 |
+| chapter-23.md | 2,918 | 79 | 23 | 14 | 0 | 0 |
+| chapter-24.md | 3,080 | 140 | 80 | 60 | 0 | 0 |
 
 ## Revision target
 

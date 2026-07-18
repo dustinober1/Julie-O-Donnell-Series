@@ -4,17 +4,13 @@ Apex Building Three
 Reston, Virginia
 04:58 Eastern Daylight Time
 
-Julie set the aluminum case beneath the recovery console and turned it so the cable bay faced the wall.
-
-The movement required both hands. Her right wrist failed halfway through, sending a hot line of pain into her thumb, and the case dropped the final inch onto the raised floor.
+Julie set the aluminum case beneath the recovery console and turned it so the cable bay faced the wall. The movement required both hands. Her right wrist failed halfway through, sending a hot line of pain into her thumb, and the case dropped the final inch onto the raised floor.
 
 “Elias. Port.”
 
 He pushed himself upright against the wall. His left leg resisted when he tried to put weight on it, and he crossed the short distance with one hand sliding along a cabinet. The thin circuit board remained clenched in the other.
 
-Marcus rolled onto his side near the gate.
-
-Julie looked at him once. Blood had reached the collar behind his right ear. His damaged boot sat crooked on his foot, the peeled heel opening and closing when he moved. He drew each breath around the ribs instead of through them.
+Marcus rolled onto his side near the gate. Julie looked at him once. Blood had reached the collar behind his right ear. His damaged boot sat crooked on his foot, the peeled heel opening and closing when he moved. He drew each breath around the ribs instead of through them.
 
 “Stay down,” she said.
 
@@ -22,20 +18,12 @@ Julie looked at him once. Blood had reached the collar behind his right ear. His
 
 “Then watch it.”
 
-Another metallic impact struck the outer face of the gate. The sound carried through the six locking bolts and into the deck beneath Julie’s knees.
-
-A narrow status strip beside the interior cycle control changed from green to amber.
+Another metallic impact struck the outer face of the gate. The sound carried through the six locking bolts and into the deck beneath Julie’s knees. A narrow status strip beside the interior cycle control changed from green to amber.
 
 LOCAL OVERRIDE DETECTED
 LOCK ARRAY PRESSURE TEST
 
-Marcus read it. “They’ve started on the bolts.”
-
-Above the recovery console, the release clock continued.
-
-01:31.
-
-Elias reached the terminal and stared across its blank lower panel.
+Marcus read it. “They’ve started on the bolts.” Above the recovery console, the release clock continued. 01:31. Elias reached the terminal and stared across its blank lower panel.
 
 “It should have a forensic input behind the service cover.”
 
@@ -47,21 +35,13 @@ Julie swept her fingers along the seam. No latch. No fastener. The metal face wa
 
 “Incident media,” she said.
 
-Elias leaned closer. “Press and hold.”
-
-She used her left thumb.
-
-A section of the panel withdrew and slid sideways. Inside were two shielded receptacles: one shaped for an evidence-device connector, the other a narrow copper-edge slot like the gate panel outside.
-
-The console updated.
+Elias leaned closer. “Press and hold.” She used her left thumb. A section of the panel withdrew and slid sideways. Inside were two shielded receptacles: one shaped for an evidence-device connector, the other a narrow copper-edge slot like the gate panel outside. The console updated.
 
 FORENSIC INCIDENT INPUT AVAILABLE
 MEDIA WILL MOUNT IN PROTECTED MODE
 NO PRODUCTION WRITE PATH PRESENT
 
-Julie opened the case.
-
-The left latch released under her thumb. The right required pressure her injured hand could not give. She changed angle, braced the case with her knee, and forced the latch with the heel of her palm. Pain ran up her forearm, but the metal catch lifted.
+Julie opened the case. The left latch released under her thumb. The right required pressure her injured hand could not give. She changed angle, braced the case with her knee, and forced the latch with the heel of her palm. Pain ran up her forearm, but the metal catch lifted.
 
 Inside, the government evidence drive remained seated in its foam cradle. The shielded cable lay coiled in the lid compartment where she had secured it after the motel review. The small case display still showed green.
 
@@ -92,9 +72,7 @@ A topology diagram appeared. The incident input terminated inside a boxed recove
 
 “I know.”
 
-The clock reached 01:12.
-
-Julie removed the cable and seated one end in the case. Her right hand could not hold the collar steady. Marcus dragged himself closer, using the cabinet base and his good heel.
+The clock reached 01:12. Julie removed the cable and seated one end in the case. Her right hand could not hold the collar steady. Marcus dragged himself closer, using the cabinet base and his good heel.
 
 “Give it here.”
 
@@ -106,11 +84,7 @@ He took the connector in one hand while Julie aligned the key with her left. Tog
 
 “Gate,” Julie said.
 
-He shifted back until he could see the amber strip. The movement tightened his face, but he made no sound.
-
-Julie plugged the other end into the protected receptacle.
-
-The console detected the case immediately.
+He shifted back until he could see the amber strip. The movement tightened his face, but he made no sound. Julie plugged the other end into the protected receptacle. The console detected the case immediately.
 
 SEALED INCIDENT CAPTURE DETECTED
 SESSION: REED-OVERSIGHT-117
@@ -125,9 +99,7 @@ VERIFYING INTEGRITY MANIFEST
 
 A gray wheel began to turn.
 
-For half a second, it was six years earlier again: another wheel, another gateway, another request waiting for permission while a weapon reached release criteria.
-
-Julie looked away from the animation and watched the numbers populate beneath it.
+For half a second, it was six years earlier again: another wheel, another gateway, another request waiting for permission while a weapon reached release criteria. Julie looked away from the animation and watched the numbers populate beneath it.
 
 FILES SEALED: 136
 FILES INCOMPLETE: 47
@@ -166,17 +138,11 @@ Major Ananya Sharma stood behind the fire-direction console and listened to Nort
 
 Lieutenant Sameer Qureshi kept his eyes on the firing board. Final coordinates for Sector Zebra-Nine were loaded in the planning channel. Ammunition had reached the gun positions. Crews waited beside prepared weapons for a command that had not come.
 
-No Indian sensor had confirmed the artillery formation shown on the screen.
-
-The storm had thinned since dawn, but the western approaches remained hidden beneath cloud. An acoustic array reported heavy-engine noise without a reliable bearing. Two forward relays carried encrypted bursts matching the American pattern because the American pattern had been built partly from those relays. The reconnaissance patrol sent toward Point Kestrel had not yet reached observation ground.
+No Indian sensor had confirmed the artillery formation shown on the screen. The storm had thinned since dawn, but the western approaches remained hidden beneath cloud. An acoustic array reported heavy-engine noise without a reliable bearing. Two forward relays carried encrypted bursts matching the American pattern because the American pattern had been built partly from those relays. The reconnaissance patrol sent toward Point Kestrel had not yet reached observation ground.
 
 Beside the written fire plan lay the photograph Qureshi had taken of the source-review warning that had appeared and vanished hours earlier. The American channel still claimed no such warning had existed.
 
-Preparation had moved men, ammunition, and machines into positions from which a mistake could travel faster than an explanation.
-
-The mission itself was conventional: artillery against predicted artillery positions across a contested border. Nothing on this mountain would remain local once the first shells landed.
-
-The duty officer spoke again.
+Preparation had moved men, ammunition, and machines into positions from which a mistake could travel faster than an explanation. The mission itself was conventional: artillery against predicted artillery positions across a contested border. Nothing on this mountain would remain local once the first shells landed. The duty officer spoke again.
 
 “Major, Northern Command directs immediate execution upon receipt of final American release.”
 
@@ -184,19 +150,13 @@ The duty officer spoke again.
 
 “It is transmitting now.”
 
-The printer beside Qureshi began feeding a page.
-
-Sharma looked at the Argus display.
+The printer beside Qureshi began feeding a page. Sharma looked at the Argus display.
 
 CONFIDENCE: 99.8%
 SOURCE INTEGRITY: VERIFIED
 COUNTER-BATTERY SUPPORT: VALID
 
-Below it, a smaller timer counted toward the American release.
-
-00:00:52.
-
-Qureshi lowered his voice. “All batteries report ready.”
+Below it, a smaller timer counted toward the American release. 00:00:52. Qureshi lowered his voice. “All batteries report ready.”
 
 “Fire-control data?”
 
@@ -210,13 +170,7 @@ The duty officer heard her. “Major Sharma, the risk of delay now rests with yo
 
 “It always did.”
 
-She ended the call.
-
-Outside the reinforced post, engines idled on the mountain. Men waited beside weapons that would do exactly what they were told.
-
-The screen offered certainty no human observer could support.
-
-Sharma watched it anyway.
+She ended the call. Outside the reinforced post, engines idled on the mountain. Men waited beside weapons that would do exactly what they were told. The screen offered certainty no human observer could support. Sharma watched it anyway.
 
 Apex Building Three
 Reston, Virginia
@@ -234,18 +188,12 @@ Elias stared at the second slot inside the recovery panel.
 
 “Not by anyone being hunted through the building.”
 
-Metal struck the gate again. A second sound followed it: a low hydraulic strain from inside the lock housings.
-
-The status strip advanced.
+Metal struck the gate again. A second sound followed it: a low hydraulic strain from inside the lock housings. The status strip advanced.
 
 LOCAL OVERRIDE
 STAGE 1 OF 4 COMPLETE
 
-Marcus settled his back against the cabinet. “I’d prefer the part where this works before that says four.”
-
-Elias inserted the circuit board into the narrow slot.
-
-The console paused.
+Marcus settled his back against the cabinet. “I’d prefer the part where this works before that says four.” Elias inserted the circuit board into the narrow slot. The console paused.
 
 TOKEN CREDENTIAL: ACTIVE EMERGENCY SESSION
 AUTHOR EVIDENCE PARTITION: READ-ONLY
@@ -267,21 +215,11 @@ Elias closed his eyes for less than a second.
 
 “They didn’t just copy the package,” he said. “They built the source-correction object from it.”
 
-Julie brought the operational lineage onto the center screen.
-
-The chain opened from left to right.
-
-PAK_RELAY_17A raw collection.
-
-SIGMA-NORMALIZE-4 reconstruction.
+Julie brought the operational lineage onto the center screen. The chain opened from left to right. PAK_RELAY_17A raw collection. SIGMA-NORMALIZE-4 reconstruction.
 
 PAK_RELAY_17A_SOURCE_CORRECTION.
 
-Argus threat-assessment model.
-
-The validated source declaration at 99.8 percent.
-
-The external counter-battery support product waiting at the far end.
+Argus threat-assessment model. The validated source declaration at 99.8 percent. The external counter-battery support product waiting at the far end.
 
 The first three objects contained thousands of packet blocks. Elias opened the Revision Eight irregularity map beside the deployed source-correction object.
 
@@ -295,11 +233,7 @@ CONFLICTING OBSERVATIONS SHARING RECONSTRUCTED CARRIER: ROUTE TO CORRECTION-DEPE
 
 “That is the mask,” Elias said. “Anything that disturbed the false formation but touched its carrier family was diverted before the model saw it.”
 
-The console offered three disputed boundaries: the complete relay, the source-correction lineage and every dependent table, or only packet blocks directly matching VAL-088.
-
-Elias reached for the complete relay.
-
-Julie stopped his hand.
+The console offered three disputed boundaries: the complete relay, the source-correction lineage and every dependent table, or only packet blocks directly matching VAL-088. Elias reached for the complete relay. Julie stopped his hand.
 
 “That discards everything collected through it.”
 
@@ -307,27 +241,19 @@ Julie stopped his hand.
 
 “We are not erasing a mountain because someone poisoned one path.”
 
-She expanded the raw layer. The familiar emissions appeared every eleven-point-two seconds while weather variation moved through surrounding traffic in ragged bands. The target remained impossibly smooth.
-
-Julie isolated the carrier structure and compared it with the sealed VAL-088 blocks.
+She expanded the raw layer. The familiar emissions appeared every eleven-point-two seconds while weather variation moved through surrounding traffic in ragged bands. The target remained impossibly smooth. Julie isolated the carrier structure and compared it with the sealed VAL-088 blocks.
 
 MATCHING STRUCTURE: VAL-088
 
 A packet-only boundary was precise but left some cached products connected through the source-correction object's internal dependency tables. Walking every dependency by hand would take longer than the release clock allowed.
 
-Julie selected the middle option: source-correction lineage and dependent tables. It would suspend every product built through the poisoned correction while leaving the relay’s primary raw stream intact.
-
-Elias read the scope. “The dependent side table includes observations the correction process already classified as self-noise.”
+Julie selected the middle option: source-correction lineage and dependent tables. It would suspend every product built through the poisoned correction while leaving the relay’s primary raw stream intact. Elias read the scope. “The dependent side table includes observations the correction process already classified as self-noise.”
 
 “The primary raw source stays preserved.”
 
 “The table may be the only index telling us which raw blocks were diverted.”
 
-The clock reached 00:27. Behind them, the gate bolts gave a deep answering knock.
-
-Marcus said, “Stage two.”
-
-Julie looked at the release queue and confirmed the lineage boundary.
+The clock reached 00:27. Behind them, the gate bolts gave a deep answering knock. Marcus said, “Stage two.” Julie looked at the release queue and confirmed the lineage boundary.
 
 DISPUTED RANGE SELECTED
 PRIMARY RAW OBSERVATIONS: PRESERVED
@@ -336,9 +262,7 @@ RECONSTRUCTED SIGNAL: CHALLENGED
 VALIDATION-DERIVED ARTIFACTS: CHALLENGED
 DOWNSTREAM CACHED CONCLUSIONS: INCLUDED
 
-She saw deferred and treated it as preserved for later review. Under the clock, the distinction looked smaller than allowing the firing product to leave.
-
-Elias opened the recovery rules stored on his board. There were six, each signed months earlier for adversarial-validation cleanup. He selected one labeled RESTORE SOURCE LABELS AND RECOMPUTE DERIVATIONS.
+She saw deferred and treated it as preserved for later review. Under the clock, the distinction looked smaller than allowing the firing product to leave. Elias opened the recovery rules stored on his board. There were six, each signed months earlier for adversarial-validation cleanup. He selected one labeled RESTORE SOURCE LABELS AND RECOMPUTE DERIVATIONS.
 
 “You wrote that?” Julie asked.
 
@@ -357,9 +281,7 @@ The system displayed his name beside it.
 RULE ADJUSTMENT AUTHOR: THORNE, ELIAS M.
 AUDIT ATTACHMENT: IMMUTABLE EMERGENCY SESSION
 
-He saw the line and kept going.
-
-A new alert covered the lower third of the screen.
+He saw the line and kept going. A new alert covered the lower third of the screen.
 
 VOLATILE INCIDENT BUFFER SANITIZATION REQUESTED
 HARDENED SECURITY CHANNEL
@@ -373,11 +295,7 @@ Marcus looked from the gate to the console. “Vance?”
 
 “The volatile deployment chain first. The signed gate audit survives. The comparison evidence may not.”
 
-The external commit clock showed 00:18.
-
-Julie selected PRESERVE DISPUTED CHAIN IN RECOVERY RECORD.
-
-The console required validation-author confirmation.
+The external commit clock showed 00:18. Julie selected PRESERVE DISPUTED CHAIN IN RECOVERY RECORD. The console required validation-author confirmation.
 
 Elias selected AUTHOR CONFIRMATION with his left hand. The active emergency session attached the live biometric and private-key signature already recorded at the gate. No second challenge appeared.
 
@@ -389,13 +307,7 @@ OPERATIONAL EXPORT PROHIBITED
 
 RESTORE ALL?
 
-His hand hovered.
-
-He was still afraid. Julie could see it in the tremor at the base of his fingers and the way he leaned too much weight into the console to spare his injured hip. He knew every choice from this point forward would remain attached to his name after the building, the company, and everyone inside it had decided what story to tell.
-
-He selected RESTORE ALL.
-
-The console built the final action.
+His hand hovered. He was still afraid. Julie could see it in the tremor at the base of his fingers and the way he leaned too much weight into the console to spare his injured hip. He knew every choice from this point forward would remain attached to his name after the building, the company, and everyone inside it had decided what story to tell. He selected RESTORE ALL. The console built the final action.
 
 PROVENANCE RECONCILIATION WILL SUSPEND ACTIVE RELEASE PRODUCTS
 DOWNSTREAM STRATEGIC ASSESSMENTS MAY BE WITHDRAWN
@@ -405,17 +317,11 @@ MANDATORY HUMAN REVIEW WILL BE REQUIRED
 AUTHOR CONFIRMATION: THORNE, ELIAS M.
 ANALYTIC RANGE CONFIRMATION: REQUIRED
 
-The external commit clock reached 00:11.
-
-Elias looked at Julie.
+The external commit clock reached 00:11. Elias looked at Julie.
 
 “This is you.”
 
-The recovery console asked her to certify the range she had chosen.
-
-The sanitization clock showed 00:22.
-
-At the gate, metal struck metal in three rapid blows. The amber strip advanced.
+The recovery console asked her to certify the range she had chosen. The sanitization clock showed 00:22. At the gate, metal struck metal in three rapid blows. The amber strip advanced.
 
 LOCAL OVERRIDE
 STAGE 2 OF 4 COMPLETE
@@ -431,21 +337,11 @@ Marcus got one knee under him and used the cabinet handle to stand. His damaged 
 
 “No. But I can tell you when it stops being a gate.”
 
-The clock fell to nine.
+The clock fell to nine. Julie read the final action one more time. The selected boundary began with the source-correction object built from the physically impossible carrier structure. It preserved the primary relay stream, restored the labels Elias’s team had placed on Payload 88, and included every model assumption and cached targeting conclusion derived through the poisoned correction. It also deferred the correction-dependent observation table Julie had decided could wait.
 
-Julie read the final action one more time.
+The action did not certify that no enemy movement existed. It suspended a weapon product built from a source whose provenance had already failed. That was enough for the immediate decision and less complete than Julie wanted to admit.
 
-The selected boundary began with the source-correction object built from the physically impossible carrier structure. It preserved the primary relay stream, restored the labels Elias’s team had placed on Payload 88, and included every model assumption and cached targeting conclusion derived through the poisoned correction. It also deferred the correction-dependent observation table Julie had decided could wait.
-
-The action did not certify that no enemy movement existed.
-
-It suspended a weapon product built from a source whose provenance had already failed. That was enough for the immediate decision and less complete than Julie wanted to admit.
-
-Six years earlier, the command structure had concealed uncertainty until a weapon was already away. Now the possibility of a genuine threat was being used to preserve manufactured certainty.
-
-Uncertainty could not authorize a weapon. A lie could not be allowed to do it in uncertainty’s name.
-
-Julie put her left hand on the confirmation field.
+Six years earlier, the command structure had concealed uncertainty until a weapon was already away. Now the possibility of a genuine threat was being used to preserve manufactured certainty. Uncertainty could not authorize a weapon. A lie could not be allowed to do it in uncertainty’s name. Julie put her left hand on the confirmation field.
 
 “Do it,” Marcus said.
 
@@ -495,46 +391,22 @@ The counter-battery product remained armed.
 
 “The cached conclusion,” Elias said. “It has to walk the dependency chain.”
 
-Three seconds.
+Three seconds. The model assumptions began losing support. Vehicle tracks that had appeared independent collapsed onto identical geolocation curves. Thermal clusters separated into repeated copies of the same six signatures. Terrain compensation revealed two projected movements passing through rock.
 
-The model assumptions began losing support. Vehicle tracks that had appeared independent collapsed onto identical geolocation curves. Thermal clusters separated into repeated copies of the same six signatures. Terrain compensation revealed two projected movements passing through rock.
+Two seconds. The 99.8 percent confidence value changed to 63.4. Then 21.7.
 
-Two seconds.
-
-The 99.8 percent confidence value changed to 63.4.
-
-Then 21.7.
-
-Then a dash.
-
-One second.
-
-The external queue reached 00:00.
-
-For one terrible instant, nothing on the release display changed.
-
-Then the counter-battery support product turned gray.
+Then a dash. One second. The external queue reached 00:00. For one terrible instant, nothing on the release display changed. Then the counter-battery support product turned gray.
 
 EXTERNAL COMMIT SUSPENDED
 SOURCE PROVENANCE INVALID
 MANDATORY HUMAN REVIEW
 
-The volatile sanitization clock continued.
-
-00:13.
-
-Elias selected SEAL RECOVERY RECORD.
-
-The system copied the disputed chain, restored label map, and reconciliation result into the enclave’s immutable incident log.
+The volatile sanitization clock continued. 00:13. Elias selected SEAL RECOVERY RECORD. The system copied the disputed chain, restored label map, and reconciliation result into the enclave’s immutable incident log.
 
 RECOVERY RECORD SEALED
 SANITIZATION EXCLUSION APPLIED
 
-The purge reached zero.
-
-Volatile workspace entries disappeared around the sealed record, leaving the evidence they had selected intact.
-
-Marcus lowered his head against the cabinet.
+The purge reached zero. Volatile workspace entries disappeared around the sealed record, leaving the evidence they had selected intact. Marcus lowered his head against the cabinet.
 
 “Tell me the package didn’t leave.”
 
@@ -548,9 +420,7 @@ Forward Post Arjun
 Kashmir
 14:29 Indian Standard Time
 
-The first visible change was duplication.
-
-Major Sharma watched one red artillery track divide into two identical tracks occupying the same road six hundred meters apart. A thermal cluster at the edge of Sector Zebra-Nine separated into three groups, each carrying the same internal spacing and temperature sequence.
+The first visible change was duplication. Major Sharma watched one red artillery track divide into two identical tracks occupying the same road six hundred meters apart. A thermal cluster at the edge of Sector Zebra-Nine separated into three groups, each carrying the same internal spacing and temperature sequence.
 
 The display tried to reconcile them.
 
@@ -562,25 +432,15 @@ SOURCE INTEGRITY REVIEW ACTIVE
 
 “I see it.”
 
-The written execution order lay beside his hand. The local firing clock showed ten seconds to the prepared salvo window.
+The written execution order lay beside his hand. The local firing clock showed ten seconds to the prepared salvo window. Argus’s confidence fell from 99.8 percent to 63.4.
 
-Argus’s confidence fell from 99.8 percent to 63.4.
-
-The movement model fractured. One projected battery crossed a ridge without slowing. Another occupied two coordinates at once. Uncertainty bands that had been absent from the original assessment returned around every track until the red symbols blurred across half the sector.
-
-Confidence fell again.
-
-21.7 percent.
-
-Then the number disappeared.
+The movement model fractured. One projected battery crossed a ridge without slowing. Another occupied two coordinates at once. Uncertainty bands that had been absent from the original assessment returned around every track until the red symbols blurred across half the sector. Confidence fell again. 21.7 percent. Then the number disappeared.
 
 SOURCE PROVENANCE: VALIDATION-DERIVED
 SYNTHETIC COMPONENT DETECTED
 COUNTER-BATTERY SUPPORT: INVALID
 
-The firing clock showed six seconds.
-
-Northern Command came onto the line.
+The firing clock showed six seconds. Northern Command came onto the line.
 
 “Arjun, execute.”
 
@@ -592,9 +452,7 @@ Qureshi relayed beside her.
 
 “Abort mission Zebra-Nine. Abort. Safe weapons and clear the digital fire plan.”
 
-The clock showed four.
-
-A battery commander answered first.
+The clock showed four. A battery commander answered first.
 
 “One holding. Safing.”
 
@@ -602,31 +460,15 @@ Then another.
 
 “Two holding.”
 
-The third response broke beneath static.
-
-Sharma pressed the transmit key harder.
+The third response broke beneath static. Sharma pressed the transmit key harder.
 
 “Three, confirm abort.”
 
-Two seconds.
-
-Qureshi struck the local control and pulled the staged target package from the execution channel. The fire plan changed from red to amber.
-
-One second.
-
-The third battery answered.
+Two seconds. Qureshi struck the local control and pulled the staged target package from the execution channel. The fire plan changed from red to amber. One second. The third battery answered.
 
 “Three safe. One tube loaded, firing circuit safe. No rounds fired.”
 
-The firing window reached zero.
-
-The post clock changed to 14:30:00.
-
-Outside, the mountain remained silent.
-
-Northern Command demanded an explanation.
-
-Sharma looked at the contaminated-source warning.
+The firing window reached zero. The post clock changed to 14:30:00. Outside, the mountain remained silent. Northern Command demanded an explanation. Sharma looked at the contaminated-source warning.
 
 “The evidence no longer supports fire,” she said. “The mission is aborted.”
 
@@ -634,13 +476,9 @@ Apex Building Three
 Reston, Virginia
 05:00 Eastern Daylight Time
 
-For five seconds, the enclave contained no countdown.
+For five seconds, the enclave contained no countdown. The recovery record was sealed. The external commit remained suspended. Somewhere beyond the walls, the gate-override pump continued to labor, but the sound no longer owned the room.
 
-The recovery record was sealed. The external commit remained suspended. Somewhere beyond the walls, the gate-override pump continued to labor, but the sound no longer owned the room.
-
-Elias sat down hard in front of the console. His injured leg extended beneath him. The thin circuit board remained in the author slot, his name fixed beside every action they had taken.
-
-Marcus slid back to the floor rather than fall there. He kept one hand against his ribs and looked at Julie.
+Elias sat down hard in front of the console. His injured leg extended beneath him. The thin circuit board remained in the author slot, his name fixed beside every action they had taken. Marcus slid back to the floor rather than fall there. He kept one hand against his ribs and looked at Julie.
 
 “What did we stop?”
 
@@ -660,9 +498,7 @@ GENUINE SOURCE ACTIVITY WILL BE REEVALUATED
 RETAINED PRIMARY RAW OBSERVATIONS: PRESENT
 CORRECTION-DEPENDENT OBSERVATIONS: DEFERRED / 14 EVENT REFERENCES
 
-Julie moved back to the console.
-
-Elias looked up. “Why are fourteen references deferred?”
+Julie moved back to the console. Elias looked up. “Why are fourteen references deferred?”
 
 “The lineage boundary.”
 
@@ -680,9 +516,7 @@ She had preserved the raw material and suppressed the map required to find part 
 
 “I made the boundary too broad.”
 
-Marcus looked at the sealed gate. “Can you fix it without restarting the release?”
-
-Elias opened the sealed recovery record. “We cannot change the original action. We can append a supplemental raw-observation review against the preserved event references. It will carry the first limitation and whoever authorizes the correction.”
+Marcus looked at the sealed gate. “Can you fix it without restarting the release?” Elias opened the sealed recovery record. “We cannot change the original action. We can append a supplemental raw-observation review against the preserved event references. It will carry the first limitation and whoever authorizes the correction.”
 
 “Do it,” Julie said.
 
@@ -702,45 +536,27 @@ Elias authenticated the author side. The console walked the fourteen references 
 
 The primary artillery sector remained almost empty. Weather noise returned in irregular bands. Civilian communications drifted with the storm. A few heavy-engine signatures appeared on known roads, none arranged into the offensive formation Argus had projected.
 
-Then the deferred references aligned at the edge of the map, nowhere near Sector Zebra-Nine.
+Then the deferred references aligned at the edge of the map, nowhere near Sector Zebra-Nine. Short thermal signatures appeared one at a time beneath a ridge line. They lasted between two and four seconds, then vanished behind terrain. A vibration sensor farther east recorded brief weight transfers too light for vehicles and too regular for loose rock. Three narrow communications bursts sat almost entirely beneath Payload 88’s carrier structure.
 
-Short thermal signatures appeared one at a time beneath a ridge line. They lasted between two and four seconds, then vanished behind terrain. A vibration sensor farther east recorded brief weight transfers too light for vehicles and too regular for loose rock. Three narrow communications bursts sat almost entirely beneath Payload 88’s carrier structure.
-
-Before reconciliation, each had been marked as duplicate contamination and removed by the source-correction object. Julie’s first boundary had left them deferred for another forty-three seconds.
-
-Now they aligned.
+Before reconciliation, each had been marked as duplicate contamination and removed by the source-correction object. Julie’s first boundary had left them deferred for another forty-three seconds. Now they aligned.
 
 Not artillery.
 
 People.
 
-Five, perhaps six, moving in intervals that kept them from occupying the same sensor field at once.
-
-Elias leaned closer. “That should never have been classified as self-noise.”
+Five, perhaps six, moving in intervals that kept them from occupying the same sensor field at once. Elias leaned closer. “That should never have been classified as self-noise.”
 
 “It destabilized the false movement model,” Julie said.
 
 “The correction routine treated anything sharing its carrier structure as contamination. Payload Eighty-Eight did not only add the artillery pattern. The production object used the pattern as a mask.”
 
-The supplemental review sealed beside the original recovery record without changing it. Julie's overbroad boundary and Elias's correction would travel together.
+The supplemental review sealed beside the original recovery record without changing it. Julie's overbroad boundary and Elias's correction would travel together. Julie brought up the timestamps. The first thermal event had occurred before the fabricated artillery warning reached peak confidence. The movement continued while human attention and model resources shifted toward the false sector. Several sensors along the second corridor had gone quiet for precise, overlapping intervals—not long enough to trigger a relay failure, but long enough for people to pass between them.
 
-Julie brought up the timestamps.
-
-The first thermal event had occurred before the fabricated artillery warning reached peak confidence. The movement continued while human attention and model resources shifted toward the false sector. Several sensors along the second corridor had gone quiet for precise, overlapping intervals—not long enough to trigger a relay failure, but long enough for people to pass between them.
-
-One ground sensor had registered six separate weight events over ninety seconds. The intervals were disciplined, the spacing designed to keep the group from appearing as a single formation. A communications receiver had caught two encrypted acknowledgments so brief that the normalization layer had buried them beneath the synthetic carrier noise.
-
-The activity was not random movement by civilians surprised by the weather.
-
-Someone had studied the collection pattern.
-
-Marcus forced himself higher against the cabinet.
+One ground sensor had registered six separate weight events over ninety seconds. The intervals were disciplined, the spacing designed to keep the group from appearing as a single formation. A communications receiver had caught two encrypted acknowledgments so brief that the normalization layer had buried them beneath the synthetic carrier noise. The activity was not random movement by civilians surprised by the weather. Someone had studied the collection pattern. Marcus forced himself higher against the cabinet.
 
 “Where are they going?”
 
-Julie followed the line east.
-
-The terrain map ended at a small triangle identified by a relay designation.
+Julie followed the line east. The terrain map ended at a small triangle identified by a relay designation.
 
 K-17.
 
@@ -756,9 +572,7 @@ Julie marked the last confirmed observation. It lay beyond the crossing line, in
 
 “How old is the last contact?” Marcus asked.
 
-Julie compared the source time with the enclave clock. “Almost four minutes. Forty-three seconds of that belongs to my first boundary.”
-
-Elias looked at her instead of the route. “The recovery record already shows why you chose the lineage scope.”
+Julie compared the source time with the enclave clock. “Almost four minutes. Forty-three seconds of that belongs to my first boundary.” Elias looked at her instead of the route. “The recovery record already shows why you chose the lineage scope.”
 
 “It also shows what the scope deferred.”
 
@@ -766,9 +580,7 @@ Elias looked at her instead of the route. “The recovery record already shows w
 
 “It was. I still selected it.”
 
-Julie opened the supplemental warning field. The enclave offered to attach the K-17 result as an ordinary post-reconciliation discovery. That wording would preserve the source and hide the fact that her first decision had kept it unavailable for forty-three seconds.
-
-She replaced it.
+Julie opened the supplemental warning field. The enclave offered to attach the K-17 result as an ordinary post-reconciliation discovery. That wording would preserve the source and hide the fact that her first decision had kept it unavailable for forty-three seconds. She replaced it.
 
 INITIAL RELEASE SUSPENSION ACHIEVED USING OVERBROAD DEPENDENCY BOUNDARY.
 FOURTEEN CORRECTION-DEPENDENT OBSERVATION REFERENCES DEFERRED.
@@ -782,15 +594,11 @@ The warning would not present Julie as the analyst who had found every distincti
 
 “Send the supplemental result to the preserved incident route,” she said. “Do not merge it into the original recovery record.”
 
-Elias selected a linked addendum. “The first record remains complete. The correction travels beside it.”
-
-That was the only version Julie could defend: not a perfect decision repaired in memory, but two authenticated acts whose order survived.
+Elias selected a linked addendum. “The first record remains complete. The correction travels beside it.” That was the only version Julie could defend: not a perfect decision repaired in memory, but two authenticated acts whose order survived.
 
 “And distance?”
 
-Julie measured the terrain path rather than the straight line. “A little over two kilometers from K-17 when the sensor lost them.”
-
-Marcus looked from the fabricated artillery sector to the small sequence advancing toward the relay.
+Julie measured the terrain path rather than the straight line. “A little over two kilometers from K-17 when the sensor lost them.” Marcus looked from the fabricated artillery sector to the small sequence advancing toward the relay.
 
 “The artillery was cover.”
 
@@ -798,13 +606,7 @@ Marcus looked from the fabricated artillery sector to the small sequence advanci
 
 The false threat had drawn command attention, fire-control preparation, and the model’s highest analytic weighting into one sector. Beneath it, a small team had moved through gaps measured in seconds.
 
-If they reached the relay, they could destroy the original sensor logs, alter them, or blind the corridor long enough for whatever came next. They might also leave behind physical evidence that made the fabricated warning look legitimate after the fact.
-
-Julie did not know which purpose mattered most.
-
-She knew the false attack had never been the operation.
-
-Elias stared at the filtered-event labels.
+If they reached the relay, they could destroy the original sensor logs, alter them, or blind the corridor long enough for whatever came next. They might also leave behind physical evidence that made the fabricated warning look legitimate after the fact. Julie did not know which purpose mattered most. She knew the false attack had never been the operation. Elias stared at the filtered-event labels.
 
 “My package taught Argus what to ignore.”
 
@@ -818,32 +620,20 @@ Elias stared at the filtered-event labels.
 
 “No.” Julie looked at the route to K-17. “It means we find out who wanted them unseen.”
 
-A heavy impact struck the gate.
-
-The status strip advanced.
+A heavy impact struck the gate. The status strip advanced.
 
 LOCAL OVERRIDE
 STAGE 3 OF 4 COMPLETE
 LOCKING PRESSURE REDUCED
 
-Marcus turned his head toward it. “They’re almost through.”
+Marcus turned his head toward it. “They’re almost through.” Elias pulled his circuit board from the console and nearly dropped it. Julie caught it against the edge with her left hand and pushed it back toward him.
 
-Elias pulled his circuit board from the console and nearly dropped it. Julie caught it against the edge with her left hand and pushed it back toward him.
-
-The overhead lights changed.
-
-White floor strips dimmed. Amber lamps appeared along the ceiling, one above each section of hardened cabinets. A low tone sounded once, held for two seconds, and stopped.
-
-The recovery console disappeared beneath an environmental warning.
+The overhead lights changed. White floor strips dimmed. Amber lamps appeared along the ceiling, one above each section of hardened cabinets. A low tone sounded once, held for two seconds, and stopped. The recovery console disappeared beneath an environmental warning.
 
 REMOTE LIFE-SAFETY COMMAND RECEIVED
 HARDENED INCIDENT CHANNEL
 
-Julie looked toward the ceiling.
-
-Round discharge nozzles sat between the cooling returns. She had noticed them when she entered and dismissed them as ordinary server-room protection.
-
-The system began verifying room status.
+Julie looked toward the ceiling. Round discharge nozzles sat between the cooling returns. She had noticed them when she entered and dismissed them as ordinary server-room protection. The system began verifying room status.
 
 OCCUPANCY: THREE PERSONS CONFIRMED
 SUPPRESSION INTERLOCK: ACTIVE
@@ -872,17 +662,11 @@ ARGUS EXTERNAL COMMIT: SUSPENDED
 PROVENANCE REVIEW: ACTIVE
 RECOVERY RECORD: SEALED
 
-The hardened status channel did not show what Julie had selected or how Elias had changed the source state. It showed enough for Arthur Vance.
-
-He read the three lines without moving.
-
-On the lower-tier schematic, the containment team had reached Stage Three of the local gate override. Mercer’s voice came through the closed circuit.
+The hardened status channel did not show what Julie had selected or how Elias had changed the source state. It showed enough for Arthur Vance. He read the three lines without moving. On the lower-tier schematic, the containment team had reached Stage Three of the local gate override. Mercer’s voice came through the closed circuit.
 
 “Lock pressure is dropping. Estimate forty-five seconds to manual release.”
 
-Sarah keyed the channel. “Maintain the override. Do not enter until the gate reports stable.”
-
-Vance moved to the protected environmental-control panel at the end of her console row.
+Sarah keyed the channel. “Maintain the override. Do not enter until the gate reports stable.” Vance moved to the protected environmental-control panel at the end of her console row.
 
 “What are you doing?” she asked.
 
@@ -894,15 +678,7 @@ Vance moved to the protected environmental-control panel at the end of her conso
 
 “They used an authenticated recovery process.”
 
-His hand stopped above the panel.
-
-It was the first time Sarah had said the fact aloud.
-
-Vance entered his executive credential. The panel offered only the systems the quarantine had been required to preserve: fire detection, smoke control, emergency power, and clean-agent suppression.
-
-He selected the production enclave.
-
-Sarah stood. “The room is occupied.”
+His hand stopped above the panel. It was the first time Sarah had said the fact aloud. Vance entered his executive credential. The panel offered only the systems the quarantine had been required to preserve: fire detection, smoke control, emergency power, and clean-agent suppression. He selected the production enclave. Sarah stood. “The room is occupied.”
 
 “I am aware.”
 
@@ -910,9 +686,7 @@ Sarah stood. “The room is occupied.”
 
 “This is not personnel containment.”
 
-The answer was quiet.
-
-He selected PRE-DISCHARGE ARM.
+The answer was quiet. He selected PRE-DISCHARGE ARM.
 
 The panel rejected it.
 
@@ -937,19 +711,11 @@ Vance entered the override.
 OCCUPIED-ROOM STATUS: OVERRIDDEN
 EXECUTIVE AUTHORITY: APX-DIR-0019
 
-Sarah understood the order now without language selected to survive review.
-
-Vance pressed ARM.
-
-She did not reach for him.
-
-She keyed the containment channel instead.
+Sarah understood the order now without language selected to survive review. Vance pressed ARM. She did not reach for him. She keyed the containment channel instead.
 
 “Mercer, suspend active pressure on the gate. Establish stand-off and maintain containment.”
 
-Mercer answered after a short pause. “Reason?”
-
-Sarah looked at the environmental panel.
+Mercer answered after a short pause. “Reason?” Sarah looked at the environmental panel.
 
 “Suppression pre-discharge is active.”
 
@@ -957,22 +723,12 @@ Another pause.
 
 “Occupied?” Mercer asked.
 
-Vance watched her.
-
-Sarah kept her voice level. “Maintain stand-off.”
-
-It was not an answer.
-
-It was still an order.
+Vance watched her. Sarah kept her voice level. “Maintain stand-off.” It was not an answer. It was still an order.
 
 Production Enclave
 05:01 Eastern Daylight Time
 
-The gate-override pump stopped outside.
-
-In the sudden quiet, Julie heard valves shifting in the ceiling.
-
-The recovery console displayed the final warning.
+The gate-override pump stopped outside. In the sudden quiet, Julie heard valves shifting in the ceiling. The recovery console displayed the final warning.
 
 INERT AGENT RELEASE ARMED
 OCCUPIED-ROOM STATUS: OVERRIDDEN
@@ -982,9 +738,7 @@ A protected red control opened beside the gate.
 
 MANUAL SUPPRESSION ABORT
 
-Julie crossed the room. Her damaged wrist struck a cabinet when the torn heel of Marcus’s boot caught her ankle, but she kept her feet. She lifted the cover with her left hand and drove the abort control down.
-
-The display changed.
+Julie crossed the room. Her damaged wrist struck a cabinet when the torn heel of Marcus’s boot caught her ankle, but she kept her feet. She lifted the cover with her left hand and drove the abort control down. The display changed.
 
 MANUAL ABORT DISABLED
 EXTERNAL PHYSICAL RESET REQUIRED
@@ -995,10 +749,6 @@ EXTERNAL PHYSICAL RESET REQUIRED
 
 Elias looked from the nozzles to the sealed gate. “When it releases, the oxygen concentration drops. We may stay conscious for part of it. That does not mean we can breathe safely.”
 
-The countdown reached 01:26.
-
-Julie released the control and listened.
-
-The containment team waited outside. Vance had stopped trying to open the room because he no longer needed the door.
+The countdown reached 01:26. Julie released the control and listened. The containment team waited outside. Vance had stopped trying to open the room because he no longer needed the door.
 
 Above them, the suppression manifold began to pressurize.

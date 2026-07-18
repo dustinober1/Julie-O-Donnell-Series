@@ -9,6 +9,7 @@ Canonical repository for the contemporary geopolitical techno-thriller series ce
 - Prologue plus 24 chapters.
 - Accepted revised manuscript: **105,081 words**.
 - Developmental revision completed **July 18, 2026**.
+- Publication-rhythm pass completed **July 18, 2026**, reducing routine isolated narrative beats while preserving dialogue, scene metadata, system displays, and story content.
 - Final act now unfolds across October 13–16 rather than a single implausibly compressed morning.
 - Publication blockers, drafting metatext, duplicated thermostat transmission, date conflicts, heading inconsistencies, and system-display artifacts have been removed.
 - The causal chain from Validation Package 88 through `SIGMA-NORMALIZE-4` and the live poisoned feed is explicit.

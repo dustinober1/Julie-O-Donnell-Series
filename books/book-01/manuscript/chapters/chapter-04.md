@@ -4,11 +4,7 @@ Prince William County, Virginia
 
 13:07 Eastern Daylight Time
 
-By the time Julie trusted the rearview mirror, the black Apex vehicle had been gone for twelve miles. That did not mean they had lost it. It meant the driver had stopped making the surveillance obvious.
-
-Julie kept the Ford on a narrow two-lane road south of Manassas, moving with afternoon traffic between landscaping trucks and delivery vans. She had left the Fairfax County Parkway three exits earlier, doubled beneath it through a residential development, then crossed back west using roads that did not appear on most commuter routes.
-
-Marcus watched the passenger-side mirror.
+By the time Julie trusted the rearview mirror, the black Apex vehicle had been gone for twelve miles. That did not mean they had lost it. It meant the driver had stopped making the surveillance obvious. Julie kept the Ford on a narrow two-lane road south of Manassas, moving with afternoon traffic between landscaping trucks and delivery vans. She had left the Fairfax County Parkway three exits earlier, doubled beneath it through a residential development, then crossed back west using roads that did not appear on most commuter routes. Marcus watched the passenger-side mirror.
 
 “No sign of them.”
 
@@ -18,15 +14,7 @@ Marcus watched the passenger-side mirror.
 
 “The point is to look like we aren’t looking.”
 
-Marcus settled back in the seat.
-
-The aluminum evidence case rested between his boots. He kept one hand around its handle as though Apex might reach through the floorboards and take it.
-
-Julie glanced at the fuel gauge.
-
-Half a tank.
-
-Enough to reach the farm.
+Marcus settled back in the seat. The aluminum evidence case rested between his boots. He kept one hand around its handle as though Apex might reach through the floorboards and take it. Julie glanced at the fuel gauge. Half a tank. Enough to reach the farm.
 
 She dismissed the thought as soon as it appeared. Apex had her address. The consultant paperwork listed it. Returning home would not be an act of concealment. It would be an invitation. Marcus’s disabled government phone lay on the center console. The device had not changed since they left Reston.
 
@@ -65,9 +53,7 @@ Marcus looked down at the case.
 
 “He doesn’t have to remove you. He only has to make the first report.”
 
-Marcus said nothing.
-
-Julie continued.
+Marcus said nothing. Julie continued.
 
 “Right now, Apex’s report says you abused an oversight credential, helped an unauthorized consultant penetrate proprietary systems, copied classified data, interfered with facility security, and fled with government information.”
 
@@ -79,9 +65,7 @@ Julie continued.
 
 “Did it transmit?”
 
-His jaw tightened.
-
-The gray authentication wheel had never completed.
+His jaw tightened. The gray authentication wheel had never completed.
 
 “Then Apex gets to describe what happened before your version enters the record.”
 
@@ -91,27 +75,13 @@ Marcus stared through the windshield.
 
 “Yes.”
 
-The phrase sat between them.
-
-Six years ago, Marcus had helped create one. This time he had been placed inside it. A sign appeared ahead for a farm-supply store, a used-electronics shop, and a roadside motel clustered around an aging shopping center.
-
-Julie turned into the lot.
+The phrase sat between them. Six years ago, Marcus had helped create one. This time he had been placed inside it. A sign appeared ahead for a farm-supply store, a used-electronics shop, and a roadside motel clustered around an aging shopping center. Julie turned into the lot.
 
 “What are we doing?” Marcus asked.
 
 “Becoming less memorable.”
 
-They bought dark rain jackets, work gloves, two pairs of gray coveralls, flashlights, a compact tool set, bottled water, and a waterproof document folder.
-
-Marcus paid cash.
-
-At the electronics shop, Julie selected a twelve-year-old ThinkPad from a shelf of refurbished office machines. Its case was scuffed, two keys had been replaced, and the shop owner apologized three times for the battery life.
-
-Julie paid without negotiating.
-
-At a pharmacy, Marcus bought bandages, antiseptic, and a prepaid mobile phone.
-
-Julie stopped him outside.
+They bought dark rain jackets, work gloves, two pairs of gray coveralls, flashlights, a compact tool set, bottled water, and a waterproof document folder. Marcus paid cash. At the electronics shop, Julie selected a twelve-year-old ThinkPad from a shelf of refurbished office machines. Its case was scuffed, two keys had been replaced, and the shop owner apologized three times for the battery life. Julie paid without negotiating. At a pharmacy, Marcus bought bandages, antiseptic, and a prepaid mobile phone. Julie stopped him outside.
 
 “No activation.”
 
@@ -135,13 +105,7 @@ Marcus looked toward the motel.
 
 They drove around the building twice before stopping. The motel was three stories of faded brick wrapped around an exterior parking lot. The vacancy sign flickered even in daylight. A row of contractor vans occupied the spaces nearest the road. Julie parked behind a tree-service truck that concealed the Ford from passing traffic.
 
-Marcus carried the evidence case into the office.
-
-The clerk barely glanced at them.
-
-They registered as Martin and Julia Randall and paid for the room in cash.
-
-No identification was requested.
+Marcus carried the evidence case into the office. The clerk barely glanced at them. They registered as Martin and Julia Randall and paid for the room in cash. No identification was requested.
 
 That worried Julie more than if it had been.
 
@@ -155,33 +119,9 @@ The room had no clock.
 
 Elias measured time by the cycles of the ventilation fan and the growing pressure in his bladder. He sat at a steel table beneath white light. The walls were bare except for a thermostat, a camera, and a speaker grille mounted near the ceiling. No one had told him whether he was under arrest.
 
-No one had read him rights.
+No one had read him rights. No one had taken his wallet. They had taken the circuit board from his maintenance drive. At least, Elias thought they had. The security officer who searched him had removed the plastic outer shell from his pocket and placed it inside an evidence bag. The thin memory board remained hidden behind the printed card inside his Apex badge.
 
-No one had taken his wallet.
-
-They had taken the circuit board from his maintenance drive.
-
-At least, Elias thought they had.
-
-The security officer who searched him had removed the plastic outer shell from his pocket and placed it inside an evidence bag. The thin memory board remained hidden behind the printed card inside his Apex badge.
-
-No one had opened the badge casing.
-
-Yet.
-
-The door unlocked.
-
-Arthur Vance entered carrying a leather folder.
-
-Elias had seen the site director only at quarterly briefings and mandatory program reviews. From a distance, Vance seemed less like an engineer than an elected official—calm, polished, practiced at turning every answer into a statement of institutional confidence.
-
-In the holding room, he looked smaller.
-
-Not weaker.
-
-More precise.
-
-Vance sat across from Elias and placed the folder between them.
+No one had opened the badge casing. Yet. The door unlocked. Arthur Vance entered carrying a leather folder. Elias had seen the site director only at quarterly briefings and mandatory program reviews. From a distance, Vance seemed less like an engineer than an elected official—calm, polished, practiced at turning every answer into a statement of institutional confidence. In the holding room, he looked smaller: not weaker, more precise. Vance sat across from Elias and placed the folder between them.
 
 “Mr. Thorne.”
 
@@ -203,23 +143,13 @@ Elias did not answer.
 
 “Who deployed Payload Eighty-Eight?”
 
-Vance opened the folder.
-
-Inside was a printed incident statement.
-
-Elias saw his name near the top.
+Vance opened the folder. Inside was a printed incident statement. Elias saw his name near the top.
 
 INCIDENT SUBJECT: THORNE, ELIAS M.
 EVENT TYPE: UNAUTHORIZED PRODUCTION MODIFICATION
 STATUS: VOLUNTARY DISCLOSURE PENDING
 
-He looked farther down.
-
-The statement claimed Elias had moved Payload 88 into production while attempting to demonstrate a flaw in Argus’s source-verification system. It described the deployment as an unauthorized experiment that he had concealed after the model generated an operational alert. The document turned deliberate sabotage into professional arrogance.
-
-It sounded plausible.
-
-That was what made it frightening.
+He looked farther down. The statement claimed Elias had moved Payload 88 into production while attempting to demonstrate a flaw in Argus’s source-verification system. It described the deployment as an unauthorized experiment that he had concealed after the model generated an operational alert. The document turned deliberate sabotage into professional arrogance. It sounded plausible. That was what made it frightening.
 
 “I didn’t write this.”
 
@@ -239,9 +169,7 @@ Vance folded his hands.
 
 “Facility security recovered an empty maintenance-drive housing.”
 
-The circuit board pressed against Elias’s chest inside the badge.
-
-He kept his expression still.
+The circuit board pressed against Elias’s chest inside the badge. He kept his expression still.
 
 “The system log shows APX-DIR-0019 creating a mirror of my workstation.”
 
@@ -279,9 +207,7 @@ Vance’s expression did not change.
 
 “The package is synthetic. The threat may not be.”
 
-Elias stared at him.
-
-Vance continued.
+Elias stared at him. Vance continued.
 
 “Payload Eighty-Eight was developed from authentic communications patterns, real terrain, and documented military behavior. Its appearance in an operational environment does not automatically invalidate every conclusion produced by the model.”
 
@@ -307,15 +233,7 @@ Vance regarded him for a moment.
 
 “That is not relevant to your position.”
 
-It was an answer.
-
-They had escaped.
-
-Perhaps with evidence.
-
-Elias looked down before relief could show on his face.
-
-Vance pushed the statement toward him.
+It was an answer. They had escaped. Perhaps with evidence. Elias looked down before relief could show on his face. Vance pushed the statement toward him.
 
 “If you sign, you acknowledge that you transferred a validation object into an unauthorized environment while attempting to test the operational model. You further acknowledge that your subsequent export attempt violated facility rules.”
 
@@ -343,13 +261,7 @@ Vance tapped the signature line.
 
 “Which ones?”
 
-Vance’s eyes narrowed slightly.
-
-Elias understood.
-
-No federal authority had taken control yet.
-
-Apex wanted the signed statement before anyone outside the company examined the logs.
+Vance’s eyes narrowed slightly. Elias understood. No federal authority had taken control yet. Apex wanted the signed statement before anyone outside the company examined the logs.
 
 “How long do I have?” Elias asked.
 
@@ -359,9 +271,7 @@ Apex wanted the signed statement before anyone outside the company examined the 
 
 “Sixteen-twenty.”
 
-The source certification was scheduled for sixteen-thirty.
-
-Ten minutes to process the confession and fix the record before the false intelligence became official.
+The source certification was scheduled for sixteen-thirty. Ten minutes to process the confession and fix the record before the false intelligence became official.
 
 “You need me blamed before the packet leaves,” Elias said.
 
@@ -379,29 +289,11 @@ Vance closed the folder.
 
 “You have the official version.”
 
-Something passed across Vance’s face.
-
-Recognition, perhaps.
-
-Then it was gone.
-
-He stood.
+Something passed across Vance’s face. Recognition, perhaps. Then it was gone. He stood.
 
 “A security officer will return with the statement. I encourage you to distinguish between protecting yourself and making a gesture no one will remember.”
 
-The door opened.
-
-Elias looked at the thermostat behind him.
-
-A simple digital unit connected to the building’s environmental-control bus.
-
-Not an evidence terminal.
-
-Not a communication device.
-
-A physical system that had to remain active even when everything else was locked down.
-
-Vance paused at the threshold.
+The door opened. Elias looked at the thermostat behind him. A simple digital unit connected to the building’s environmental-control bus. Not an evidence terminal. Not a communication device. A physical system that had to remain active even when everything else was locked down. Vance paused at the threshold.
 
 “One more thing.”
 
@@ -409,13 +301,7 @@ Elias looked at him.
 
 “If you removed any component from the maintenance drive before security recovered it, possessing that component will not improve your position.”
 
-The door sealed.
-
-Elias waited until the lock engaged.
-
-Then he touched the Apex badge resting against his chest.
-
-Vance suspected.
+The door sealed. Elias waited until the lock engaged. Then he touched the Apex badge resting against his chest. Vance suspected.
 
 That meant Elias had less time than the clock suggested.
 
@@ -425,13 +311,7 @@ Manassas, Virginia
 
 13:54 Eastern Daylight Time
 
-The motel room smelled of old smoke, industrial cleaner, and damp carpet. Julie closed the curtains and moved the table away from the window. Marcus locked the door, slid the chain into place, and positioned the desk chair beneath the handle.
-
-Neither precaution would stop a determined entry.
-
-They would make one noisy.
-
-Julie placed the ThinkPad on the table.
+The motel room smelled of old smoke, industrial cleaner, and damp carpet. Julie closed the curtains and moved the table away from the window. Marcus locked the door, slid the chain into place, and positioned the desk chair beneath the handle. Neither precaution would stop a determined entry. They would make one noisy. Julie placed the ThinkPad on the table.
 
 “Bathroom.”
 
@@ -445,9 +325,7 @@ Marcus looked at her.
 
 “No. I think cheap motels plant cameras for reasons that have nothing to do with Apex.”
 
-Marcus inspected the room.
-
-Julie removed the laptop battery, opened the service panel, and disconnected the wireless card. She took out the internal storage drive next. When Marcus returned, he held up the smoke detector.
+Marcus inspected the room. Julie removed the laptop battery, opened the service panel, and disconnected the wireless card. She took out the internal storage drive next. When Marcus returned, he held up the smoke detector.
 
 “Battery and dust.”
 
@@ -459,33 +337,15 @@ Julie removed the laptop battery, opened the service panel, and disconnected the
 
 “Enough mold to qualify as its own intelligence service.”
 
-Julie connected a clean boot drive purchased from the electronics shop and started the machine.
-
-A basic Linux environment loaded into memory.
-
-No local storage.
-
-No network.
-
-Marcus placed the aluminum case beside her.
+Julie connected a clean boot drive purchased from the electronics shop and started the machine. A basic Linux environment loaded into memory. No local storage. No network. Marcus placed the aluminum case beside her.
 
 “How do we open it?”
 
-Julie examined the drive cradle.
-
-The government evidence device had been designed for field investigators collecting data from classified systems. Its encryption keys were generated when the capture was sealed. Ordinarily, the contents would be opened inside another approved government environment. A small maintenance port on the back provided a read-only forensic mode.
-
-Julie connected it to the laptop.
-
-The screen displayed an encrypted container.
+Julie examined the drive cradle. The government evidence device had been designed for field investigators collecting data from classified systems. Its encryption keys were generated when the capture was sealed. Ordinarily, the contents would be opened inside another approved government environment. A small maintenance port on the back provided a read-only forensic mode. Julie connected it to the laptop. The screen displayed an encrypted container.
 
 AUTHENTICATION REQUIRED.
 
-Marcus inserted his physical common access card into the portable reader built into the case.
-
-The system paused.
-
-His credentials had been revoked from the network, but the evidence device was offline. It still recognized the certificate cached when the capture began.
+Marcus inserted his physical common access card into the portable reader built into the case. The system paused. His credentials had been revoked from the network, but the evidence device was offline. It still recognized the certificate cached when the capture began.
 
 REED-OVERSIGHT-117
 LOCAL SESSION VALID
@@ -497,11 +357,7 @@ NETWORK VERIFICATION UNAVAILABLE
 
 “Until someone updates the dead.”
 
-He entered his PIN.
-
-The evidence container mounted.
-
-Julie enabled read-only access before opening the manifest.
+He entered his PIN. The evidence container mounted. Julie enabled read-only access before opening the manifest.
 
 CAPTURE STATUS: PARTIAL
 FILES SEALED: 136
@@ -522,31 +378,9 @@ Marcus read the numbers.
 
 “Bad tells us after we rely on it.”
 
-She generated new checksums for every sealed file and compared them against the integrity manifest.
+She generated new checksums for every sealed file and compared them against the integrity manifest. All 136 matched. That established that the files had not changed since the capture was finalized. It did not establish that they had been genuine at the time of capture. Julie began with the raw relay samples.
 
-All 136 matched.
-
-That established that the files had not changed since the capture was finalized. It did not establish that they had been genuine at the time of capture.
-
-Julie began with the raw relay samples.
-
-The impossible packet interval remained.
-
-Eleven-point-two seconds.
-
-The repeated carrier-noise sequence remained.
-
-The path through solid terrain remained.
-
-She opened the Payload 88 index.
-
-The archived package matched the region, scenario, emitter type, and packet interval of the operational feed. The eighth revision carried Elias Thorne’s author certificate. A ninth checksum had appeared three weeks after archival.
-
-No author.
-
-No revision notes.
-
-No new package number.
+The impossible packet interval remained. Eleven-point-two seconds. The repeated carrier-noise sequence remained. The path through solid terrain remained. She opened the Payload 88 index. The archived package matched the region, scenario, emitter type, and packet interval of the operational feed. The eighth revision carried Elias Thorne’s author certificate. A ninth checksum had appeared three weeks after archival. No author. No revision notes. No new package number.
 
 “The ninth version is the bridge,” Marcus said.
 
@@ -560,15 +394,7 @@ No new package number.
 
 “I believe certainty is expensive.”
 
-Marcus stepped away from the table and paced between the beds.
-
-Julie opened the copied access logs.
-
-Most ended abruptly when Apex sanitized the review partition. Several were incomplete fragments containing only the last blocks written before finalization.
-
-She searched for Package 88.
-
-One fragment appeared.
+Marcus stepped away from the table and paced between the beds. Julie opened the copied access logs. Most ended abruptly when Apex sanitized the review partition. Several were incomplete fragments containing only the last blocks written before finalization. She searched for Package 88. One fragment appeared.
 
 VAL-088
 ARCHIVE STATUS: CLOSED
@@ -693,13 +519,7 @@ Marcus looked at the evidence drive.
 
 “So did Hargrove.”
 
-Marcus flinched.
-
-Julie regretted the comparison as soon as she made it.
-
-She did not take it back.
-
-Marcus walked to the telephone beside the bed.
+Marcus flinched. Julie regretted the comparison as soon as she made it. She did not take it back. Marcus walked to the telephone beside the bed.
 
 “I have to try.”
 
@@ -719,11 +539,7 @@ A pause.
 
 “Colonel Reed, hold.”
 
-Marcus turned slightly so Julie could not read his expression.
-
-The hold music lasted eighteen seconds.
-
-Then a man answered.
+Marcus turned slightly so Julie could not read his expression. The hold music lasted eighteen seconds. Then a man answered.
 
 “Marcus.”
 
@@ -803,19 +619,7 @@ Hackett’s voice lowered.
 
 “The appropriate personnel.”
 
-Marcus closed his eyes.
-
-Julie heard what he heard.
-
-No name.
-
-No guarantee.
-
-No hold on the certification.
-
-Hackett was either constrained, uncertain, or already treating Marcus as a security risk.
-
-Possibly all three.
+Marcus closed his eyes. Julie heard what he heard. No name. No guarantee. No hold on the certification. Hackett was either constrained, uncertain, or already treating Marcus as a security risk. Possibly all three.
 
 “Sir, the assessment certifies at sixteen-thirty,” Marcus said. “If India acts on it, people die.”
 
@@ -845,11 +649,7 @@ Julie stopped typing.
 
 “That is the only lawful instruction I can give you.”
 
-The line disconnected.
-
-Marcus continued holding the receiver after the dial tone returned.
-
-Julie looked back at the files.
+The line disconnected. Marcus continued holding the receiver after the dial tone returned. Julie looked back at the files.
 
 “Was that Hackett?”
 
@@ -863,9 +663,7 @@ Julie looked back at the files.
 
 “No.”
 
-Marcus placed the receiver in its cradle.
-
-He sat on the edge of the bed. For the first time since the escape, he looked tired rather than alert.
+Marcus placed the receiver in its cradle. He sat on the edge of the bed. For the first time since the escape, he looked tired rather than alert.
 
 “My command has a security report with my name on it.”
 
@@ -891,9 +689,7 @@ He rubbed both hands across his face.
 
 “I should have backed you six years ago.”
 
-Julie’s hands stopped above the keyboard.
-
-Marcus stared at the carpet.
+Julie’s hands stopped above the keyboard. Marcus stared at the carpet.
 
 “I told myself the panel already knew Hargrove was responsible,” he said. “I told myself confirming that you raised concerns would be enough. When they asked whether you issued a formal recommendation before the final minute, I knew what they wanted.”
 
@@ -909,9 +705,7 @@ The word was barely audible.
 
 “No.”
 
-Rain began ticking against the motel window.
-
-Marcus continued.
+Rain began ticking against the motel window. Marcus continued.
 
 “I protected my access because I thought access was influence. I thought staying inside mattered more than telling the panel exactly what happened.”
 
@@ -951,11 +745,7 @@ VALIDATION AUTHOR BIOMETRIC REQUIRED.
 
 “Either way, he’s inside.”
 
-Julie searched the access-log fragments for his employee number.
-
-Three results appeared.
-
-The first showed Elias accessing the production registry. The second showed an unauthorized-peripheral alert attached to his workstation. The third was a security workflow generated minutes before Julie and Marcus’s review room was quarantined.
+Julie searched the access-log fragments for his employee number. Three results appeared. The first showed Elias accessing the production registry. The second showed an unauthorized-peripheral alert attached to his workstation. The third was a security workflow generated minutes before Julie and Marcus’s review room was quarantined.
 
 SUBJECT: THORNE, ELIAS M.
 ACCESS STATUS: SUSPENDED
@@ -995,17 +785,7 @@ Marcus read the entries.
 
 “That was over an hour ago.”
 
-Julie checked the package documentation again.
-
-The source-provenance challenge needed Elias’s biometric, a director certificate, and local root access. They had a fragment of the director certificate chain on the evidence drive.
-
-Elias might have the complete deployment record.
-
-The production root was inside Apex.
-
-Every route led back to the building they had just escaped.
-
-Marcus understood from her silence.
+Julie checked the package documentation again. The source-provenance challenge needed Elias’s biometric, a director certificate, and local root access. They had a fragment of the director certificate chain on the evidence drive. Elias might have the complete deployment record. The production root was inside Apex. Every route led back to the building they had just escaped. Marcus understood from her silence.
 
 “No.”
 
@@ -1067,9 +847,7 @@ Marcus looked at the clock.
 
 “We surrender the drive and hope the institution moves faster than the lie.”
 
-Neither of them spoke.
-
-Marcus returned to the table.
+Neither of them spoke. Marcus returned to the table.
 
 “What do you need?”
 
@@ -1101,9 +879,7 @@ She shut down the laptop and removed the live boot drive.
 
 “No. I think they will after they realize we downloaded them.”
 
-Marcus checked his watch.
-
-14:32.
+Marcus checked his watch. 14:32.
 
 “Less than two hours.”
 
@@ -1115,9 +891,7 @@ Marcus checked his watch.
 
 “They know it leaves oil in private driveways.”
 
-Despite everything, Julie smiled.
-
-Only for a moment.
+Despite everything, Julie smiled. Only for a moment.
 
 “We keep the truck until the final approach. Leave it outside the camera perimeter and go in on foot.”
 
@@ -1147,17 +921,7 @@ Marcus looked toward the evidence drive.
 
 “It is the closest one we have.”
 
-Marcus nodded slowly.
-
-The decision settled into him.
-
-Not confidence.
-
-Commitment.
-
-Julie disconnected the evidence drive and returned it to the aluminum case. Before shutting down the laptop, she opened one final log fragment. The file had been partially overwritten during the Apex sanitization process. Most fields were unreadable.
-
-One survived.
+Marcus nodded slowly. The decision settled into him. Not confidence. Commitment. Julie disconnected the evidence drive and returned it to the aluminum case. Before shutting down the laptop, she opened one final log fragment. The file had been partially overwritten during the Apex sanitization process. Most fields were unreadable. One survived.
 
 ALLIED CERTIFICATION WINDOW
 PAK_RELAY_17A
@@ -1177,17 +941,7 @@ Kashmir
 
 00:14 Indian Standard Time
 
-Major Ananya Sharma watched the first ammunition carrier descend toward the artillery positions. Its headlights were off. A soldier walked ahead with a shielded lamp, guiding the driver along the ice-darkened road.
-
-Sharma had ordered mechanical readiness only.
-
-Brigade command had ordered ammunition forward.
-
-The difference was procedural.
-
-On the mountain, it looked like escalation.
-
-Lieutenant Qureshi entered the observation room carrying a printed message.
+Major Ananya Sharma watched the first ammunition carrier descend toward the artillery positions. Its headlights were off. A soldier walked ahead with a shielded lamp, guiding the driver along the ice-darkened road. Sharma had ordered mechanical readiness only. Brigade command had ordered ammunition forward. The difference was procedural. On the mountain, it looked like escalation. Lieutenant Qureshi entered the observation room carrying a printed message.
 
 “Northern Command.”
 
@@ -1235,11 +989,7 @@ ARGUS ALLIED SOURCE CERTIFICATION
 EXPECTED 02:00 IST
 COUNTER-BATTERY SUPPORT RELEASE: 14:30 IST
 
-The red symbols representing Pakistani artillery continued advancing across the digital map.
-
-Sharma looked through the observation slit.
-
-The actual valley remained hidden.
+The red symbols representing Pakistani artillery continued advancing across the digital map. Sharma looked through the observation slit. The actual valley remained hidden.
 
 “Send a reconnaissance team to Point Kestrel,” she said.
 
@@ -1277,16 +1027,12 @@ His expression changed.
 
 “If I am asking soldiers to walk into a threat I do not believe, I will not do it from behind glass.”
 
-The communications console chimed.
-
-A new data packet appeared.
+The communications console chimed. A new data packet appeared.
 
 SOURCE INTEGRITY: VERIFIED
 CONFIDENCE: 99.8%
 
-Sharma watched the percentage.
-
-The closer it moved to certainty, the less she trusted the people demanding she obey it.
+Sharma watched the percentage. The closer it moved to certainty, the less she trusted the people demanding she obey it.
 
 “Prepare the patrol,” she said.
 
@@ -1304,17 +1050,7 @@ She downloaded:
 
 Stormwater drainage.
 
-Utility easements.
-
-Emergency generator access.
-
-Fire-service connections.
-
-Mechanical intake routes.
-
-The environmental-plant footprint beneath Building Three.
-
-Marcus sat beside her, watching the lot.
+Utility easements. Emergency generator access. Fire-service connections. Mechanical intake routes. The environmental-plant footprint beneath Building Three. Marcus sat beside her, watching the lot.
 
 “Anything?”
 
@@ -1344,9 +1080,7 @@ Marcus sat beside her, watching the lot.
 
 “The culvert.”
 
-Julie sent the plans to the printer inside the library.
-
-Marcus looked at her.
+Julie sent the plans to the printer inside the library. Marcus looked at her.
 
 “You’re going in?”
 
@@ -1366,15 +1100,7 @@ He reached for the door handle.
 
 “Then we’re both memorable.”
 
-Marcus got out.
-
-He returned four minutes later carrying twenty-three pages and a county-government envelope. No one followed him.
-
-Julie powered down the ThinkPad.
-
-She removed the wireless card again and snapped it in half with the multitool.
-
-Marcus handed her the plans.
+Marcus got out. He returned four minutes later carrying twenty-three pages and a county-government envelope. No one followed him. Julie powered down the ThinkPad. She removed the wireless card again and snapped it in half with the multitool. Marcus handed her the plans.
 
 “Happy?”
 
@@ -1382,11 +1108,7 @@ Marcus handed her the plans.
 
 “Good. I’d worry if you were.”
 
-They drove to a self-service car wash, parked behind the building, and spread the plans across the hood. The culvert entered the campus through a utility easement along the southern tree line. It passed beneath the security berm and ended at a pump-access chamber beside the environmental plant. From there, a service corridor reached the interior mechanical spaces.
-
-The plans did not show the newer secure divisions. They did show where the old building stopped and Apex’s classified renovations began.
-
-Julie marked the route.
+They drove to a self-service car wash, parked behind the building, and spread the plans across the hood. The culvert entered the campus through a utility easement along the southern tree line. It passed beneath the security berm and ended at a pump-access chamber beside the environmental plant. From there, a service corridor reached the interior mechanical spaces. The plans did not show the newer secure divisions. They did show where the old building stopped and Apex’s classified renovations began. Julie marked the route.
 
 “Once we cross here, the plans become guesses.”
 
@@ -1440,49 +1162,17 @@ Reston, Virginia
 
 Elias waited until the ventilation fan started its next cycle.
 
-The fan ran for eighty-three seconds.
+The fan ran for eighty-three seconds. The camera above the door produced a faint electrical click each time its lens refocused. It did so whenever he stood or moved toward the wall. The thermostat was outside the camera’s direct angle. Elias rose slowly, crossed to it, and pressed the temperature-down control.
 
-The camera above the door produced a faint electrical click each time its lens refocused. It did so whenever he stood or moved toward the wall. The thermostat was outside the camera’s direct angle. Elias rose slowly, crossed to it, and pressed the temperature-down control.
+The display changed from sixty-seven to sixty-six. No alarm. He lowered it again. Sixty-five. The environmental-control bus registered the command. The thermostat’s plastic faceplate flexed beneath his fingers. He worked one corner loose using the edge of the confession form Vance had left behind.
 
-The display changed from sixty-seven to sixty-six.
+The camera clicked. Elias stepped back and pretended to read the document. The lens settled. He waited for the fan. Then he returned to the thermostat and removed the faceplate. Four colored wires connected the unit to the wall. Power.
 
-No alarm.
-
-He lowered it again.
-
-Sixty-five.
-
-The environmental-control bus registered the command.
-
-The thermostat’s plastic faceplate flexed beneath his fingers. He worked one corner loose using the edge of the confession form Vance had left behind.
-
-The camera clicked.
-
-Elias stepped back and pretended to read the document.
-
-The lens settled.
-
-He waited for the fan.
-
-Then he returned to the thermostat and removed the faceplate. Four colored wires connected the unit to the wall.
-
-Power.
-
-Ground.
-
-Data.
-
-Control.
-
-The building-management system was not designed for messaging. It did record fault codes and maintenance requests. Those requests propagated to mechanical panels throughout Building Three. Elias pulled the thin memory circuit from behind his badge. He used one exposed contact to bridge the thermostat’s data wire.
-
-The display flickered.
+Ground. Data. Control. The building-management system was not designed for messaging. It did record fault codes and maintenance requests. Those requests propagated to mechanical panels throughout Building Three. Elias pulled the thin memory circuit from behind his badge. He used one exposed contact to bridge the thermostat’s data wire. The display flickered.
 
 DIAGNOSTIC MODE.
 
-He smiled despite himself.
-
-Apex had built layers of encryption around its intelligence systems and left the environmental network protected by a service code printed inside the thermostat housing.
+He smiled despite himself. Apex had built layers of encryption around its intelligence systems and left the environmental network protected by a service code printed inside the thermostat housing.
 
 Elias entered it.
 
@@ -1490,23 +1180,7 @@ The display showed the local node:
 
 B3-COMP-04.
 
-Compliance Room Four.
-
-He generated a compressor fault.
-
-Code 0088.
-
-Payload 88.
-
-He repeated it.
-
-Then again.
-
-The maintenance system accepted all three.
-
-He needed to tell anyone searching for him where to go next.
-
-The production core occupied sublevel two.
+Compliance Room Four. He generated a compressor fault. Code 0088. Payload 88. He repeated it. Then again. The maintenance system accepted all three. He needed to tell anyone searching for him where to go next. The production core occupied sublevel two.
 
 CORE-01.
 
@@ -1518,33 +1192,9 @@ The resulting fault message read:
 
 It was not elegant.
 
-It was not secure.
+It was not secure. It was the only path that did not ask Vance for permission. Elias transmitted it across the facilities bus. Somewhere in Building Three, a maintenance panel would register the fault. Perhaps no one would notice. Perhaps a technician would clear it.
 
-It was the only path that did not ask Vance for permission.
-
-Elias transmitted it across the facilities bus.
-
-Somewhere in Building Three, a maintenance panel would register the fault.
-
-Perhaps no one would notice.
-
-Perhaps a technician would clear it.
-
-Perhaps Julie would never return.
-
-He replaced the thermostat cover.
-
-The fan stopped.
-
-The door remained closed.
-
-Elias returned to the steel table and sat before the camera could refocus.
-
-The confession waited in front of him.
-
-He turned it over.
-
-On the blank back, he wrote three words with the pen Vance had left behind:
+Perhaps Julie would never return. He replaced the thermostat cover. The fan stopped. The door remained closed. Elias returned to the steel table and sat before the camera could refocus. The confession waited in front of him. He turned it over. On the blank back, he wrote three words with the pen Vance had left behind:
 
 THE DATA IS FICTION.
 
@@ -1566,29 +1216,7 @@ Julie parked the Ford behind an abandoned office building on the southern edge o
 
 “You look less like a Randall than I do.”
 
-Julie folded the county plans into the waterproof case.
-
-Marcus checked the tool bag.
-
-Ratchet set.
-
-Pry bar.
-
-Flashlights.
-
-Gloves.
-
-Electrical tape.
-
-Wire cutters.
-
-Compact first-aid kit.
-
-No firearms.
-
-A gun would change the meaning of every decision inside the facility. It would also give Apex the attack it was already preparing to describe.
-
-Marcus lifted the aluminum evidence case.
+Julie folded the county plans into the waterproof case. Marcus checked the tool bag. Ratchet set. Pry bar. Flashlights. Gloves. Electrical tape. Wire cutters. Compact first-aid kit. No firearms. A gun would change the meaning of every decision inside the facility. It would also give Apex the attack it was already preparing to describe. Marcus lifted the aluminum evidence case.
 
 “You ready?”
 
@@ -1598,15 +1226,7 @@ He nodded.
 
 “Me neither.”
 
-Julie looked toward the northern sky.
-
-Beyond the trees and office buildings, Apex’s glass towers reflected the approaching storm. Two hours earlier, they had escaped with a partial copy of the truth. Now they were returning for the man who could authenticate it.
-
-The choice made no tactical sense.
-
-It was the only choice that made moral sense.
-
-Julie opened the truck door.
+Julie looked toward the northern sky. Beyond the trees and office buildings, Apex’s glass towers reflected the approaching storm. Two hours earlier, they had escaped with a partial copy of the truth. Now they were returning for the man who could authenticate it. The choice made no tactical sense. It was the only choice that made moral sense. Julie opened the truck door.
 
 “We get Elias,” Marcus said. “We get the original logs. Then we leave.”
 
@@ -1624,20 +1244,10 @@ Julie opened the truck door.
 
 “They may not be compatible.”
 
-Marcus looked at her for a long moment. Six years ago, he would have told her to trust the chain of command.
-
-Today, he handed her the waterproof folder.
+Marcus looked at her for a long moment. Six years ago, he would have told her to trust the chain of command. Today, he handed her the waterproof folder.
 
 “Then we decide inside.”
 
-Julie stepped into the rain.
-
-The farm was eighty miles behind her.
-
-The official channels were closed.
-
-The evidence was incomplete.
-
-And somewhere beneath Building Three, a frightened engineer was the only living person who could force the machine to admit it had been fed a lie.
+Julie stepped into the rain. The farm was eighty miles behind her. The official channels were closed. The evidence was incomplete. And somewhere beneath Building Three, a frightened engineer was the only living person who could force the machine to admit it had been fed a lie.
 
 At 15:36, Julie and Marcus entered the tree line and began walking back toward Apex.

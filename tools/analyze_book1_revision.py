@@ -13,10 +13,17 @@ OUTPUT = ROOT / "artifacts/book1-developmental-analysis.md"
 def accepted_paths() -> list[Path]:
     text = MANIFEST.read_text(encoding="utf-8")
     block = text.split("\nexcluded_from_canon:", 1)[0]
-    return [
+    paths = [
         ROOT / value
-        for value in re.findall(r'^\s+path:\s+"([^"]+)"\s*$', block, re.MULTILINE)
+        for value in re.findall(
+            r'^\s+(?:-\s+)?path:\s+"([^"]+)"\s*$',
+            block,
+            re.MULTILINE,
+        )
     ]
+    if len(paths) != 25:
+        raise RuntimeError(f"expected 25 accepted prose files, found {len(paths)}")
+    return paths
 
 
 def paragraph_metrics(text: str) -> tuple[int, int, int]:

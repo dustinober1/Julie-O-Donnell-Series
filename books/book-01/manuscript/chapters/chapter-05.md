@@ -8,17 +8,9 @@ Reston, Virginia
 
 The maintenance message had already gone out through the thermostat: 0088 / COMP-04 / CORE-01. The building bus had accepted it, the display had returned to sixty-seven degrees, and Elias Thorne now sat beneath the camera with the circuit board hidden behind his Apex badge, waiting to learn whether anyone had noticed before Vance did.
 
-Arthur Vance entered without knocking.
+Arthur Vance entered without knocking. He wore the same charcoal suit he had worn during their first interview. His tie remained perfectly centered. He carried a leather folder in one hand and a paper cup of coffee in the other. Elias looked toward the wall clock.
 
-He wore the same charcoal suit he had worn during their first interview. His tie remained perfectly centered. He carried a leather folder in one hand and a paper cup of coffee in the other.
-
-Elias looked toward the wall clock.
-
-15:43.
-
-The Argus source certification would transmit in forty-seven minutes. His father expected him in Richmond by seven for a retirement dinner Elias had spent three weeks promising not to miss. The wrapped gift was still in his townhouse beside a card he had not finished.
-
-Vance sat across from him.
+15:43. The Argus source certification would transmit in forty-seven minutes. His father expected him in Richmond by seven for a retirement dinner Elias had spent three weeks promising not to miss. The wrapped gift was still in his townhouse beside a card he had not finished. Vance sat across from him.
 
 “You’ve had time to think.”
 
@@ -98,13 +90,7 @@ Elias forced himself not to look at his badge.
 
 “Maybe they weren’t as thorough as you thought.”
 
-Vance’s eyes dropped to the lanyard against Elias’s chest.
-
-The room seemed to shrink.
-
-Elias reached up and removed the badge.
-
-He placed it face down on the table before Vance could ask.
+Vance’s eyes dropped to the lanyard against Elias’s chest. The room seemed to shrink. Elias reached up and removed the badge. He placed it face down on the table before Vance could ask.
 
 “You want it?”
 
@@ -162,27 +148,11 @@ Elias looked at the clock.
 
 “So you need the warning to be right.”
 
-Vance picked up his coffee. “I need authorized people to decide whether it is wrong.”
-
-The door opened behind him.
-
-Vance paused on the threshold.
+Vance picked up his coffee. “I need authorized people to decide whether it is wrong.” The door opened behind him. Vance paused on the threshold.
 
 “Sign before sixteen-twenty, Elias. After that, your cooperation has no value.”
 
-The door sealed.
-
-Elias remained motionless until the lock engaged.
-
-Then he turned the badge face up.
-
-The casing looked undisturbed.
-
-He did not know whether Vance had believed the bluff.
-
-He did know one thing.
-
-Julie had thirty-seven minutes to find his message. After that, the lie would leave the building.
+The door sealed. Elias remained motionless until the lock engaged. Then he turned the badge face up. The casing looked undisturbed. He did not know whether Vance had believed the bluff. He did know one thing. Julie had thirty-seven minutes to find his message. After that, the lie would leave the building.
 
 Forward Post Arjun
 
@@ -192,13 +162,7 @@ Kashmir
 
 The artillery crews moved without headlights.
 
-From the reinforced observation post, Major Ananya Sharma watched dark vehicles descend the switchback road toward the battery positions. Even through the storm, she could hear the low mechanical growl of engines carrying ammunition into the mountains.
-
-She had ordered preparation.
-
-Northern Command had interpreted preparation as momentum.
-
-Lieutenant Qureshi stood at the communications console with one hand pressed against his headset.
+From the reinforced observation post, Major Ananya Sharma watched dark vehicles descend the switchback road toward the battery positions. Even through the storm, she could hear the low mechanical growl of engines carrying ammunition into the mountains. She had ordered preparation. Northern Command had interpreted preparation as momentum. Lieutenant Qureshi stood at the communications console with one hand pressed against his headset.
 
 “Brigade wants confirmation that the targeting package is loaded.”
 
@@ -208,13 +172,7 @@ Lieutenant Qureshi stood at the communications console with one hand pressed aga
 
 “They can continue.”
 
-Qureshi relayed the answer.
-
-On the tactical display, Argus’s red threat symbols continued crossing Sector Zebra-Nine. The software projected Pakistani artillery units moving into firing positions beneath the storm.
-
-No Indian sensor had independently confirmed them.
-
-A new message appeared.
+Qureshi relayed the answer. On the tactical display, Argus’s red threat symbols continued crossing Sector Zebra-Nine. The software projected Pakistani artillery units moving into firing positions beneath the storm. No Indian sensor had independently confirmed them. A new message appeared.
 
 US SOURCE CERTIFICATION EXPECTED: 02:00 IST
 COUNTER-BATTERY SUPPORT RELEASE: 14:30 IST
@@ -224,9 +182,7 @@ Beneath it, another line flashed briefly.
 
 SOURCE-REVIEW EXCEPTION RESOLVED.
 
-Sharma selected the message.
-
-The system returned no supporting record.
+Sharma selected the message. The system returned no supporting record.
 
 “Lieutenant.”
 
@@ -246,17 +202,7 @@ Qureshi removed his headset.
 
 “They didn’t say.”
 
-Sharma turned toward the narrow armored window.
-
-Snow moved sideways through the darkness.
-
-Somewhere beyond the ridge, Pakistani soldiers would be receiving their own fragmented reports. They would see Indian vehicles moving toward artillery positions. They would hear engines. They might detect fire-control radars coming online.
-
-Preparation created evidence.
-
-Evidence created preparation.
-
-The machine did not need to start the war by itself. It only needed to persuade each side that the other had already begun.
+Sharma turned toward the narrow armored window. Snow moved sideways through the darkness. Somewhere beyond the ridge, Pakistani soldiers would be receiving their own fragmented reports. They would see Indian vehicles moving toward artillery positions. They would hear engines. They might detect fire-control radars coming online. Preparation created evidence. Evidence created preparation. The machine did not need to start the war by itself. It only needed to persuade each side that the other had already begun.
 
 “Order the batteries to maintain mechanical readiness,” Sharma said. “No fire-control radar. No target data loaded.”
 
@@ -274,9 +220,7 @@ Qureshi hesitated.
 
 “Then find me the human being responsible for the machine.”
 
-Qureshi returned to the console.
-
-Sharma watched the countdown.
+Qureshi returned to the console. Sharma watched the countdown.
 
 42:31 UNTIL ALLIED SOURCE CERTIFICATION.
 
@@ -284,9 +228,7 @@ Apex Campus Utility Easement
 Reston, Virginia
 15:49 Eastern Daylight Time
 
-The stormwater culvert was trying to become a river.
-
-Julie stepped into the concrete throat and stopped when the flow struck above her boots. Brown water pressed around her calves hard enough to pull leaves and broken branches sideways against the wall. Forty feet ahead, the tunnel narrowed beneath the outer security berm. The steel grate Marcus had found on the county drawing was visible only in pieces through the current.
+The stormwater culvert was trying to become a river. Julie stepped into the concrete throat and stopped when the flow struck above her boots. Brown water pressed around her calves hard enough to pull leaves and broken branches sideways against the wall. Forty feet ahead, the tunnel narrowed beneath the outer security berm. The steel grate Marcus had found on the county drawing was visible only in pieces through the current.
 
 “This was ankle-deep on the plan?” Marcus asked.
 
@@ -294,15 +236,7 @@ Julie stepped into the concrete throat and stopped when the flow struck above he
 
 Rain drummed against the retention basin behind them. Each new burst arrived in the culvert as a low surge that lifted debris from the floor and drove it toward the grate. The water had already reached the bottom bolt on the frame. Marcus set the canvas tool bag on the narrow ledge above the flow and moved forward with one hand against the curved wall. Julie followed until the current began pushing at her knees. The grate had been welded into a separate steel frame and bolted into the concrete. The lower fasteners were underwater. The upper pair were streaked with rust but intact.
 
-Marcus fitted the ratchet over the first bolt.
-
-It moved less than a degree.
-
-He reset the handle and leaned into it. Metal gave with a short groan. The bolt turned.
-
-A pump engaged somewhere beneath the campus.
-
-The sound reached them through the concrete before the water did—a deep mechanical strike followed by rising vibration. Julie looked back toward the basin.
+Marcus fitted the ratchet over the first bolt. It moved less than a degree. He reset the handle and leaned into it. Metal gave with a short groan. The bolt turned. A pump engaged somewhere beneath the campus. The sound reached them through the concrete before the water did—a deep mechanical strike followed by rising vibration. Julie looked back toward the basin.
 
 “Stop.”
 
@@ -310,9 +244,7 @@ Marcus kept pressure on the ratchet. “I have it.”
 
 “Leave it.”
 
-The next surge filled the culvert wall to wall. Julie caught the tool bag and pulled it higher. Water hit Marcus at the thigh and tore his boot from its footing. He caught himself against the curved wall, held the ratchet, and lost the bolt. The handle snapped backward and struck the steel frame.
-
-Julie seized the back of his coveralls.
+The next surge filled the culvert wall to wall. Julie caught the tool bag and pulled it higher. Water hit Marcus at the thigh and tore his boot from its footing. He caught himself against the curved wall, held the ratchet, and lost the bolt. The handle snapped backward and struck the steel frame. Julie seized the back of his coveralls.
 
 “Out.”
 
@@ -322,9 +254,7 @@ Julie seized the back of his coveralls.
 
 Another pulse came through the pipe. The water rose above the ledge and lifted the tool bag before Julie could secure it. Marcus grabbed the strap. Together they moved backward one step at a time, shoulders against the wall, while the current tried to turn them toward the grate.
 
-They cleared the mouth of the culvert at 15:57. Rain flattened the retention grass around them. The drainage opening behind the berm carried twice the volume it had when they entered, and the sound of the campus pumps had settled into a continuous industrial growl.
-
-Marcus looked at his watch.
+They cleared the mouth of the culvert at 15:57. Rain flattened the retention grass around them. The drainage opening behind the berm carried twice the volume it had when they entered, and the sound of the campus pumps had settled into a continuous industrial growl. Marcus looked at his watch.
 
 “Thirty-three minutes.”
 
@@ -342,9 +272,7 @@ Marcus stared at the culvert.
 
 “We came here to reach the production root. Drowning under the perimeter does not do that.”
 
-He looked at her.
-
-Six years earlier, Julie would have heard the clock and treated every obstacle as proof that she had to move faster. Speed had not made the record honest. It had only made the last decision irreversible before anyone admitted uncertainty existed.
+He looked at her. Six years earlier, Julie would have heard the clock and treated every obstacle as proof that she had to move faster. Speed had not made the record honest. It had only made the last decision irreversible before anyone admitted uncertainty existed.
 
 “Truck,” she said again.
 
@@ -355,17 +283,7 @@ Reston, Virginia
 
 They sat inside the dark Ford behind the abandoned office building with the engine off and wet coveralls cooling against their skin. Rain moved across the windshield in sheets. The Apex towers were invisible beyond the trees. Every few minutes, headlights crossed the access road and vanished behind the empty office park.
 
-The aluminum evidence case rested across the center of the bench seat. Julie had connected it to the stripped ThinkPad in read-only mode without restoring the wireless card. Marcus held a flashlight over the keyboard while she searched the copied queue fragments for every use of the word final.
-
-There were seven.
-
-Four referred to file finalization.
-
-Two referred to the allied source certification.
-
-The last belonged to a dependent product they had not opened at the motel.
-
-Julie expanded it.
+The aluminum evidence case rested across the center of the bench seat. Julie had connected it to the stripped ThinkPad in read-only mode without restoring the wireless card. Marcus held a flashlight over the keyboard while she searched the copied queue fragments for every use of the word final. There were seven. Four referred to file finalization. Two referred to the allied source certification. The last belonged to a dependent product they had not opened at the motel. Julie expanded it.
 
 ALLIED SOURCE CERTIFICATION
 PAK_RELAY_17A
@@ -400,9 +318,7 @@ Marcus looked toward the rain-hidden campus.
 
 “Not a delay we can trust. A hold that survives only while the source remains valid.”
 
-The ThinkPad clock reached 16:27.
-
-They had no live connection to the allied channel. They could not watch the first certification leave. They could only know when the system was scheduled to do it and what the dependent object would inherit afterward. Marcus put one hand on the case handle.
+The ThinkPad clock reached 16:27. They had no live connection to the allied channel. They could not watch the first certification leave. They could only know when the system was scheduled to do it and what the dependent object would inherit afterward. Marcus put one hand on the case handle.
 
 “We could still try the generator yard.”
 
@@ -426,23 +342,13 @@ He looked at the culvert route on the printed plan.
 
 “Then we find out before zero-five-hundred.”
 
-The first clock reached zero without a sound inside the Ford. Julie closed the queue record but left the two times written on the screen.
-
-16:30.
-
-05:00.
-
-The first made the lie official.
-
-The second could still make it lethal.
+The first clock reached zero without a sound inside the Ford. Julie closed the queue record but left the two times written on the screen. 16:30. 05:00. The first made the lie official. The second could still make it lethal.
 
 Forward Post Arjun
 Kashmir
 02:00 Indian Standard Time
 
-The American certification arrived on time.
-
-Major Ananya Sharma watched the status field change while the storm pressed ice against the armored window.
+The American certification arrived on time. Major Ananya Sharma watched the status field change while the storm pressed ice against the armored window.
 
 SOURCE CERTIFICATION: VALID
 CONFIDENCE: 99.8%
@@ -464,9 +370,7 @@ Lieutenant Qureshi read the display beside her.
 
 “They were treating it as confirmation before it arrived.”
 
-The secure line lit before he could answer. The duty officer’s voice came through without greeting. “Arjun, allied source certification is valid. Move all batteries to full readiness and prepare the counter-battery plan for immediate execution upon support release.”
-
-Sharma looked at the second status block.
+The secure line lit before he could answer. The duty officer’s voice came through without greeting. “Arjun, allied source certification is valid. Move all batteries to full readiness and prepare the counter-battery plan for immediate execution upon support release.” Sharma looked at the second status block.
 
 “The support product is held until fourteen-thirty.”
 
@@ -488,9 +392,7 @@ A pause followed.
 
 “Then you lose nothing by waiting for it.”
 
-The duty officer ended the call.
-
-Qureshi looked toward the written order on the console.
+The duty officer ended the call. Qureshi looked toward the written order on the console.
 
 “Twelve and a half hours.”
 
@@ -506,31 +408,15 @@ The rain weakened after sunset and returned twice before midnight.
 
 Julie and Marcus did not leave the abandoned office property. The Ford remained dark beneath the loading overhang, nose pointed toward the service road. They watched the south perimeter through binoculars taken from the truck’s emergency kit and marked every patrol, facilities vehicle, and pump cycle on the back of the county plan.
 
-At 18:06, the stormwater discharge rose high enough to cover the grate completely. At 21:40, an Apex utility crew inspected the retention basin and left without entering the culvert. At 00:18, the visible security pattern shifted from search to fixed containment. More vehicles entered Building Three than left it.
-
-At 03:57, the pump beneath the southern berm ran for eleven minutes instead of twenty-three.
-
-The water line began falling.
-
-No one slept.
-
-The second clock continued.
+At 18:06, the stormwater discharge rose high enough to cover the grate completely. At 21:40, an Apex utility crew inspected the retention basin and left without entering the culvert. At 00:18, the visible security pattern shifted from search to fixed containment. More vehicles entered Building Three than left it. At 03:57, the pump beneath the southern berm ran for eleven minutes instead of twenty-three. The water line began falling. No one slept. The second clock continued.
 
 Apex Building Three
 Reston, Virginia
 04:27 Eastern Daylight Time
 
-Elias Thorne waited for the holding-room ventilation fan to begin its next cycle.
+Elias Thorne waited for the holding-room ventilation fan to begin its next cycle. The room had become a sequence of mechanical facts: eighty-three seconds of airflow, twenty-seven seconds of quiet, the camera’s refocus click when he stood, the ache in his back from the steel chair, the wall clock moving toward a time Arthur Vance had never mentioned during the first interview.
 
-The room had become a sequence of mechanical facts: eighty-three seconds of airflow, twenty-seven seconds of quiet, the camera’s refocus click when he stood, the ache in his back from the steel chair, the wall clock moving toward a time Arthur Vance had never mentioned during the first interview.
-
-The source certification had left twelve hours earlier.
-
-The confession remained unsigned.
-
-Elias opened the thermostat faceplate again.
-
-The circuit board shook against the copper filaments. He had removed and replaced it often enough that one corner of the badge casing no longer closed cleanly. The maintenance bus still carried the compressor fault, but an overnight technician had acknowledged it twice without clearing the source node.
+The source certification had left twelve hours earlier. The confession remained unsigned. Elias opened the thermostat faceplate again. The circuit board shook against the copper filaments. He had removed and replaced it often enough that one corner of the badge casing no longer closed cleanly. The maintenance bus still carried the compressor fault, but an overnight technician had acknowledged it twice without clearing the source node.
 
 Elias transmitted the sequence again.
 
@@ -564,9 +450,7 @@ Elias kept both hands on the table.
 
 “I mean a usable decision.”
 
-Vance set the folder in front of him.
-
-The signature line remained blank.
+Vance set the folder in front of him. The signature line remained blank.
 
 “Sign before four-forty. The statement will be attached to the incident package before the external commit.”
 
@@ -584,23 +468,13 @@ Vance’s gaze moved to the lanyard.
 
 “No,” Vance said. “We would have resolved it.”
 
-He left the folder and turned toward the door.
-
-Elias looked at the wall clock.
-
-04:29.
-
-Julie had not reached him before the first certification. That did not prove she had stopped trying. The maintenance fault remained active after the door sealed.
+He left the folder and turned toward the door. Elias looked at the wall clock. 04:29. Julie had not reached him before the first certification. That did not prove she had stopped trying. The maintenance fault remained active after the door sealed.
 
 Apex Campus Utility Easement
 Reston, Virginia
 04:31 Eastern Daylight Time
 
-Rainwater filled the concrete culvert to Julie’s ankles.
-
-She moved sideways through the darkness, one shoulder against the curved wall and a waterproof folder clenched beneath her jacket. The county drainage plans inside showed the stormwater system as it had existed twelve years ago, before Apex Defense Systems acquired the campus and buried most of its modifications behind security classifications.
-
-Marcus moved ahead of her with a red-filtered flashlight held low. The culvert narrowed beneath the outer security berm. Water accelerated around their boots, carrying leaves, pine needles, and oily foam toward the retention basin behind them.
+Rainwater filled the concrete culvert to Julie’s ankles. She moved sideways through the darkness, one shoulder against the curved wall and a waterproof folder clenched beneath her jacket. The county drainage plans inside showed the stormwater system as it had existed twelve years ago, before Apex Defense Systems acquired the campus and buried most of its modifications behind security classifications. Marcus moved ahead of her with a red-filtered flashlight held low. The culvert narrowed beneath the outer security berm. Water accelerated around their boots, carrying leaves, pine needles, and oily foam toward the retention basin behind them.
 
 “You’re sure this reaches the generator yard?” Marcus asked.
 
@@ -610,21 +484,13 @@ Marcus moved ahead of her with a red-filtered flashlight held low. The culvert n
 
 “It probably was one when the plans were filed.”
 
-A steel grate emerged from the dark.
-
-Marcus stopped.
-
-The grate had been welded across the culvert from floor to ceiling.
+A steel grate emerged from the dark. Marcus stopped. The grate had been welded across the culvert from floor to ceiling.
 
 “That on your plans?”
 
 “No.”
 
-He examined the frame.
-
-The welds were clean but weathered. Not a recent addition. The county drawing had been obsolete long before Julie downloaded it.
-
-Marcus set down the canvas tool bag.
+He examined the frame. The welds were clean but weathered. Not a recent addition. The county drawing had been obsolete long before Julie downloaded it. Marcus set down the canvas tool bag.
 
 “Other route?”
 
@@ -634,57 +500,23 @@ He ran his fingers around the grate’s edge.
 
 “Welded to a separate frame. Frame is bolted into the concrete.”
 
-Julie directed the light downward.
-
-Four anchor bolts secured each side. Rust darkened the lower pair where water flowed across them. Marcus opened the tool bag and removed a compact ratchet with an extended handle.
+Julie directed the light downward. Four anchor bolts secured each side. Rust darkened the lower pair where water flowed across them. Marcus opened the tool bag and removed a compact ratchet with an extended handle.
 
 “You bought that at a hardware store?”
 
 “Along with the coveralls and the least convincing hard hat in Virginia.”
 
-He fitted the socket over the first bolt.
-
-It did not move.
-
-Marcus leaned into it.
-
-Metal groaned.
-
-The bolt shifted a fraction.
+He fitted the socket over the first bolt. It did not move. Marcus leaned into it. Metal groaned. The bolt shifted a fraction.
 
 “How long?” Julie asked.
 
 “Longer if you keep asking.”
 
-She turned away from the grate and opened the waterproof folder.
+She turned away from the grate and opened the waterproof folder. Their information was incomplete. Their motel analysis had established that Elias remained inside Building Three and that someone had altered Payload 88 after it entered the validation archive. The copied production fragments proved the synthetic packet was feeding Argus. They still lacked the original deployment receipt and the full administrative-service record. Without Elias, Apex could describe the evidence drive as a corrupted partial capture assembled by an unstable former analyst and a suspended Army officer.
 
-Their information was incomplete.
+With Elias, they had a witness. If he had preserved his own logs, they might have proof. Marcus freed the first bolt. The second broke at the head. The third came loose more easily. The fourth turned halfway, then jammed.
 
-Their motel analysis had established that Elias remained inside Building Three and that someone had altered Payload 88 after it entered the validation archive. The copied production fragments proved the synthetic packet was feeding Argus. They still lacked the original deployment receipt and the full administrative-service record. Without Elias, Apex could describe the evidence drive as a corrupted partial capture assembled by an unstable former analyst and a suspended Army officer.
-
-With Elias, they had a witness.
-
-If he had preserved his own logs, they might have proof.
-
-Marcus freed the first bolt.
-
-The second broke at the head.
-
-The third came loose more easily.
-
-The fourth turned halfway, then jammed.
-
-A vehicle moved across the service road above them.
-
-Julie killed the flashlight.
-
-White illumination swept through the drainage opening behind them, reflecting along the water. An engine idled for several seconds.
-
-Marcus remained motionless beside the grate.
-
-The vehicle continued.
-
-Julie waited until the sound faded.
+A vehicle moved across the service road above them. Julie killed the flashlight. White illumination swept through the drainage opening behind them, reflecting along the water. An engine idled for several seconds. Marcus remained motionless beside the grate. The vehicle continued. Julie waited until the sound faded.
 
 “Security patrol?” he whispered.
 
@@ -692,21 +524,9 @@ Julie waited until the sound faded.
 
 “Comforting.”
 
-He returned to the bolt.
+He returned to the bolt. Julie checked her mechanical watch. 04:38. Twenty-two minutes. Marcus pulled harder. The bolt tore free from the concrete.
 
-Julie checked her mechanical watch.
-
-04:38.
-
-Twenty-two minutes.
-
-Marcus pulled harder.
-
-The bolt tore free from the concrete.
-
-He gripped the grate and pushed.
-
-The frame shifted several inches, scraping against the culvert wall. Together they forced it aside far enough to pass. Beyond it, the drainage tunnel climbed toward a maintenance chamber.
+He gripped the grate and pushed. The frame shifted several inches, scraping against the culvert wall. Together they forced it aside far enough to pass. Beyond it, the drainage tunnel climbed toward a maintenance chamber.
 
 Julie followed Marcus through.
 
@@ -724,17 +544,7 @@ Marcus examined the mechanical latch.
 
 “You’re welcome to go first.”
 
-He pressed his ear against the hatch.
-
-Nothing.
-
-Marcus turned the latch slowly.
-
-The hatch opened into a dark concrete room filled with pipes, electrical cabinets, and the steady vibration of industrial pumps. They climbed through and closed it behind them. Julie removed her wet jacket. Beneath it, she wore gray maintenance coveralls purchased for cash from an industrial-supply store. The name patch above the breast pocket read RANDALL.
-
-Marcus’s said STEVE.
-
-He looked down at it.
+He pressed his ear against the hatch. Nothing. Marcus turned the latch slowly. The hatch opened into a dark concrete room filled with pipes, electrical cabinets, and the steady vibration of industrial pumps. They climbed through and closed it behind them. Julie removed her wet jacket. Beneath it, she wore gray maintenance coveralls purchased for cash from an industrial-supply store. The name patch above the breast pocket read RANDALL. Marcus’s said STEVE. He looked down at it.
 
 “Steve?”
 
@@ -744,35 +554,13 @@ He looked down at it.
 
 “You don’t look like an HVAC technician either.”
 
-They pulled on hard hats and removed two battered clipboards from the tool bag.
-
-The disguise would not survive inspection.
-
-It did not need to.
-
-Most people saw clothing before faces. Inside a mechanical space, confidence could buy several seconds.
-
-Julie opened the outer maintenance cabinet.
-
-A small monochrome display showed pump pressure, water levels, and active building faults.
-
-She scrolled.
+They pulled on hard hats and removed two battered clipboards from the tool bag. The disguise would not survive inspection. It did not need to. Most people saw clothing before faces. Inside a mechanical space, confidence could buy several seconds. Julie opened the outer maintenance cabinet. A small monochrome display showed pump pressure, water levels, and active building faults. She scrolled.
 
 CHILLER 3 PRESSURE VARIANCE
 COMPRESSOR 04 DIAGNOSTIC FAILURE
 FAULT CODE: 0088
 
-Julie stopped.
-
-The fault repeated three times.
-
-88.
-
-89.
-
-90.
-
-A location string followed.
+Julie stopped. The fault repeated three times. 88. 89. 90. A location string followed.
 
 COMP-04 / CORE-01.
 
@@ -819,39 +607,13 @@ SUBLEVEL 1
 COMPLIANCE ZONE
 ROOM 04
 
-Julie copied the route.
+Julie copied the route. The interior door opened onto a service corridor running beneath the campus. The air smelled of concrete, lubricant, and treated water. Fluorescent fixtures hummed overhead. No alarm sounded. No security officers appeared. They moved quickly. The service corridor passed beneath the parking structure and entered Building Three through the environmental plant. Massive chiller units occupied the room, their compressors producing a low vibration Julie felt in her teeth.
 
-The interior door opened onto a service corridor running beneath the campus. The air smelled of concrete, lubricant, and treated water. Fluorescent fixtures hummed overhead.
-
-No alarm sounded.
-
-No security officers appeared.
-
-They moved quickly.
-
-The service corridor passed beneath the parking structure and entered Building Three through the environmental plant. Massive chiller units occupied the room, their compressors producing a low vibration Julie felt in her teeth.
-
-Marcus checked each intersection before they crossed.
-
-Julie watched the maintenance panels.
-
-The building had not returned to normal after the earlier fire evacuation. Multiple doors remained in manual inspection mode. Fire-zone alerts and equipment resets cluttered the system. County officials had forced Apex to leave portions of the life-safety network open until the inspection report was complete. The previous day’s escape had created the weakness that allowed them back inside.
-
-They reached an inner security door.
-
-Marcus pressed the crash bar.
-
-Locked.
-
-A badge reader glowed beside the frame.
+Marcus checked each intersection before they crossed. Julie watched the maintenance panels. The building had not returned to normal after the earlier fire evacuation. Multiple doors remained in manual inspection mode. Fire-zone alerts and equipment resets cluttered the system. County officials had forced Apex to leave portions of the life-safety network open until the inspection report was complete. The previous day’s escape had created the weakness that allowed them back inside. They reached an inner security door. Marcus pressed the crash bar. Locked. A badge reader glowed beside the frame.
 
 “This wasn’t on the maintenance map,” he said.
 
-Julie examined the door.
-
-A small sign identified it as the boundary between the mechanical plant and the secure technical area.
-
-A camera watched from above.
+Julie examined the door. A small sign identified it as the boundary between the mechanical plant and the secure technical area. A camera watched from above.
 
 “We’re recorded,” Marcus said.
 
@@ -877,19 +639,7 @@ He tested the door again.
 
 “Not from this side.”
 
-Footsteps sounded beyond the steel panel.
-
-Julie and Marcus moved behind one of the chillers.
-
-The door unlocked.
-
-A facilities technician entered, pushing a wheeled diagnostic cart. He wore hearing protection and stared at the tablet mounted to the cart, following the compressor fault Elias had generated.
-
-The door began closing behind him.
-
-Marcus caught it with his boot.
-
-The technician looked up.
+Footsteps sounded beyond the steel panel. Julie and Marcus moved behind one of the chillers. The door unlocked. A facilities technician entered, pushing a wheeled diagnostic cart. He wore hearing protection and stared at the tablet mounted to the cart, following the compressor fault Elias had generated. The door began closing behind him. Marcus caught it with his boot. The technician looked up.
 
 “Hey.”
 
@@ -907,9 +657,7 @@ Marcus gripped the edge of the technician’s cart and pulled it across the door
 
 “We’re already behind schedule,” he said with the weary irritation of a man who had spent the day dealing with facilities failures. “You want to call your supervisor, call him. We need the cross-feed reading first.”
 
-The technician looked from Marcus to Julie.
-
-Then to their soaked coveralls.
+The technician looked from Marcus to Julie. Then to their soaked coveralls.
 
 “You came through the stormwater room?”
 
@@ -923,45 +671,27 @@ Julie pointed back toward the pump room.
 
 “The county inspector who is currently documenting the ventilation shutdown on your occupied fourth floor.”
 
-The technician’s suspicion turned into dread.
-
-He did not want the inspector’s name.
-
-He did not want another problem.
+The technician’s suspicion turned into dread. He did not want the inspector’s name. He did not want another problem.
 
 “Stay in the mechanical zones,” he said. “Your badges won’t open anything else.”
 
 “We know.”
 
-He pushed the diagnostic cart toward Chiller Three.
-
-Marcus held the door.
-
-Julie slipped through.
-
-The moment the door closed behind them, the badge reader flashed amber.
+He pushed the diagnostic cart toward Chiller Three. Marcus held the door. Julie slipped through. The moment the door closed behind them, the badge reader flashed amber.
 
 TAILGATE EVENT RECORDED.
 
-A camera rotated toward their faces.
-
-Their few borrowed seconds began running out.
+A camera rotated toward their faces. Their few borrowed seconds began running out.
 
 Building Three
 Sublevel One
 04:44 Eastern Daylight Time
 
-The secure service corridor was narrower than Julie remembered. No windows. No offices. Only white walls, gray doors, and numbered intersections connecting the environmental systems to the rooms above.
-
-Marcus led them toward Compliance Zone Four.
-
-At the first junction, a wall terminal activated.
+The secure service corridor was narrower than Julie remembered. No windows. No offices. Only white walls, gray doors, and numbered intersections connecting the environmental systems to the rooms above. Marcus led them toward Compliance Zone Four. At the first junction, a wall terminal activated.
 
 IDENTITY VERIFICATION REQUIRED.
 
-Julie kept walking.
-
-The terminal chimed again.
+Julie kept walking. The terminal chimed again.
 
 UNIDENTIFIED PERSONNEL DETECTED.
 
@@ -969,27 +699,9 @@ UNIDENTIFIED PERSONNEL DETECTED.
 
 “Faster.”
 
-They turned right.
+They turned right. A steel fire door began descending from the ceiling at the far end of the corridor. Marcus ran. Julie followed. The gap beneath the door narrowed to four feet. Three.
 
-A steel fire door began descending from the ceiling at the far end of the corridor.
-
-Marcus ran.
-
-Julie followed.
-
-The gap beneath the door narrowed to four feet.
-
-Three.
-
-Marcus slid the tool bag through, dropped to one knee, and rolled beneath the descending barrier. Julie went after him, flattening herself against the floor as the steel panel passed inches above her back.
-
-She cleared the opening.
-
-The door struck the floor behind them.
-
-A containment alarm sounded on the other side.
-
-Marcus helped her up.
+Marcus slid the tool bag through, dropped to one knee, and rolled beneath the descending barrier. Julie went after him, flattening herself against the floor as the steel panel passed inches above her back. She cleared the opening. The door struck the floor behind them. A containment alarm sounded on the other side. Marcus helped her up.
 
 “They know exactly where we are.”
 
@@ -999,15 +711,7 @@ Marcus helped her up.
 
 “Then stop worrying about the disguise.”
 
-Julie removed the hard hat and left it on the floor. Marcus pulled off his own and tossed it beside hers. The route to Compliance Four ended at a reinforced glass vestibule. Through it, Julie could see a white corridor and three holding-room doors. A security desk stood empty near the entrance.
-
-No Elias.
-
-She approached the glass.
-
-The vestibule door required a badge and fingerprint.
-
-Marcus checked the adjacent wall.
+Julie removed the hard hat and left it on the floor. Marcus pulled off his own and tossed it beside hers. The route to Compliance Four ended at a reinforced glass vestibule. Through it, Julie could see a white corridor and three holding-room doors. A security desk stood empty near the entrance. No Elias. She approached the glass. The vestibule door required a badge and fingerprint. Marcus checked the adjacent wall.
 
 “Manual release?”
 
@@ -1021,11 +725,7 @@ A voice came from the ceiling speaker.
 
 “Ms. O’Donnell.”
 
-Arthur Vance.
-
-Julie looked up.
-
-His voice remained calm, amplified just enough to fill the corridor without echo.
+Arthur Vance. Julie looked up. His voice remained calm, amplified just enough to fill the corridor without echo.
 
 “You have created an unfortunate amount of risk for a conclusion you do not understand.”
 
@@ -1045,11 +745,7 @@ Marcus stepped beneath the speaker.
 
 “Thank you for clarifying the vulnerability.”
 
-Julie examined the glass.
-
-Vance wanted them talking.
-
-Every minute moved the counter-battery support package closer to external commit.
+Julie examined the glass. Vance wanted them talking. Every minute moved the counter-battery support package closer to external commit.
 
 “Where is Elias?” she asked.
 
@@ -1057,9 +753,7 @@ Every minute moved the counter-battery support package closer to external commit
 
 “He sent a maintenance signal from Compliance Four.”
 
-A pause.
-
-Vance had not known.
+A pause. Vance had not known.
 
 “Mr. Thorne is not available to you.”
 
@@ -1069,9 +763,7 @@ Vance had not known.
 
 “You replayed his credentials through APX-DIR-0019.”
 
-The speaker remained silent.
-
-Julie continued.
+The speaker remained silent. Julie continued.
 
 “We have the administrative-service reference.”
 
@@ -1081,13 +773,7 @@ Julie continued.
 
 “To whom?”
 
-The question was not theatrical.
-
-It was practical.
-
-Marcus’s credentials were dead. Price had disappeared into an administrative investigation. Julie had no official status. The evidence drive had been created inside Apex’s environment and could be attacked as incomplete or corrupted. Vance did not need the truth to disappear.
-
-He needed it to arrive without authority.
+The question was not theatrical. It was practical. Marcus’s credentials were dead. Price had disappeared into an administrative investigation. Julie had no official status. The evidence drive had been created inside Apex’s environment and could be attacked as incomplete or corrupted. Vance did not need the truth to disappear. He needed it to arrive without authority.
 
 “Open the door,” Julie said.
 
@@ -1099,17 +785,11 @@ He needed it to arrive without authority.
 
 “Name it.”
 
-Vance did not.
-
-Marcus looked down the corridor behind them.
+Vance did not. Marcus looked down the corridor behind them.
 
 “They’re coming.”
 
-Footsteps echoed beyond the closed fire barrier.
-
-Julie approached the vestibule control panel.
-
-A maintenance warning pulsed in the lower corner of its display.
+Footsteps echoed beyond the closed fire barrier. Julie approached the vestibule control panel. A maintenance warning pulsed in the lower corner of its display.
 
 COMPRESSOR 04 DIAGNOSTIC FAILURE.
 
@@ -1123,21 +803,7 @@ The error sequence repeated:
 
 At the bottom of the screen was an acknowledgment button.
 
-She pressed it.
-
-The system requested facilities authentication.
-
-Julie entered the device number from the county plan.
-
-Rejected.
-
-She tried the pump-room node.
-
-Rejected.
-
-The footsteps grew louder.
-
-Marcus opened the tool bag.
+She pressed it. The system requested facilities authentication. Julie entered the device number from the county plan. Rejected. She tried the pump-room node. Rejected. The footsteps grew louder. Marcus opened the tool bag.
 
 “What do you need?”
 
@@ -1147,31 +813,9 @@ Marcus opened the tool bag.
 
 “No.”
 
-A soft tapping came from the nearest holding room.
+A soft tapping came from the nearest holding room. Three taps. Pause. Three taps. Pause. Julie turned toward the glass.
 
-Three taps.
-
-Pause.
-
-Three taps.
-
-Pause.
-
-Julie turned toward the glass.
-
-The tapping came again.
-
-Three.
-
-Three.
-
-Three.
-
-Then eight.
-
-Elias.
-
-She moved to the glass wall.
+The tapping came again. Three. Three. Three. Then eight. Elias. She moved to the glass wall.
 
 “Elias!”
 
@@ -1189,9 +833,7 @@ The security team reached the far side of the fire barrier. Metal struck metal a
 
 “I know.”
 
-Inside the holding room, Elias removed the badge casing and pulled out a thin circuit board. He crossed to the thermostat. Julie could not see what he did next.
-
-The vestibule control panel flickered.
+Inside the holding room, Elias removed the badge casing and pulled out a thin circuit board. He crossed to the thermostat. Julie could not see what he did next. The vestibule control panel flickered.
 
 FACILITIES BUS ERROR.
 
@@ -1199,21 +841,7 @@ Then:
 
 LOCAL LIFE-SAFETY OVERRIDE.
 
-The glass door unlocked.
-
-Julie pulled it open.
-
-Marcus followed her inside.
-
-The door sealed behind them just as the outer fire barrier began rising.
-
-Elias’s holding-room door clicked.
-
-He shoved it open.
-
-For one second, the three of them stared at one another.
-
-Elias recovered first.
+The glass door unlocked. Julie pulled it open. Marcus followed her inside. The door sealed behind them just as the outer fire barrier began rising. Elias’s holding-room door clicked. He shoved it open. For one second, the three of them stared at one another. Elias recovered first.
 
 “You have the drive?”
 
@@ -1247,11 +875,7 @@ Elias looked toward the ceiling speaker.
 
 “We need to move.”
 
-The outer security barrier continued rising.
-
-Boots appeared beneath it.
-
-Marcus opened the aluminum case.
+The outer security barrier continued rising. Boots appeared beneath it. Marcus opened the aluminum case.
 
 “The evidence capture includes the live packet samples and the Package Eighty-Eight index. Julie says your original deployment data can establish the bridge.”
 
@@ -1289,27 +913,13 @@ Elias nodded.
 
 “No. But if we do it before the support commit, the provenance failure enters the same channel, suspends the executable product, and forces mandatory human review.”
 
-Julie checked her watch.
-
-04:47.
-
-Thirteen minutes.
+Julie checked her watch. 04:47. Thirteen minutes.
 
 “And if we don’t?” she asked.
 
 “The Indian network already owns the certified source assessment. At zero-five-hundred it receives the actionable support package built from it. After that, we can prove the source was poisoned, but we cannot guarantee the correction arrives before someone acts.”
 
-A heavy impact struck the glass entrance.
-
-Security had reached the vestibule.
-
-Mercer appeared on the other side with three officers. He was still wearing the dark uniform from the previous day’s escape. A strip of medical tape covered the wrist Marcus had twisted in the stairwell.
-
-His sidearm remained holstered.
-
-The officers behind him carried electroshock weapons and compact rifles held low.
-
-Mercer pressed the intercom.
+A heavy impact struck the glass entrance. Security had reached the vestibule. Mercer appeared on the other side with three officers. He was still wearing the dark uniform from the previous day’s escape. A strip of medical tape covered the wrist Marcus had twisted in the stairwell. His sidearm remained holstered. The officers behind him carried electroshock weapons and compact rifles held low. Mercer pressed the intercom.
 
 “Open the door.”
 
@@ -1335,9 +945,7 @@ Mercer’s eyes shifted to Elias.
 
 “I’m the scapegoat,” Elias called. “Check APX-DIR-0019.”
 
-Mercer’s expression did not change.
-
-Julie moved toward the intercom.
+Mercer’s expression did not change. Julie moved toward the intercom.
 
 “Ask control who owns the service account.”
 
@@ -1365,13 +973,7 @@ Sarah cut into the channel.
 
 “Mercer, execute the breach.”
 
-Mercer’s jaw tightened.
-
-He raised one hand.
-
-The officers behind him shifted into position.
-
-He did not give the order.
+Mercer’s jaw tightened. He raised one hand. The officers behind him shifted into position. He did not give the order.
 
 “Director Vance,” Mercer said into his radio. “Confirm federal custody team and receiving agency.”
 
@@ -1385,27 +987,11 @@ Vance answered personally.
 
 “Are federal agents on-site?”
 
-A silence followed.
-
-Mercer looked at Marcus.
-
-The answer had reached him.
-
-Not proof of conspiracy.
-
-Proof that Vance had lied about custody.
-
-Sarah spoke sharply through the radio.
+A silence followed. Mercer looked at Marcus. The answer had reached him. Not proof of conspiracy. Proof that Vance had lied about custody. Sarah spoke sharply through the radio.
 
 “Mercer, they assaulted facility personnel, triggered a false emergency, breached the perimeter, and entered a restricted zone. You have sufficient authority.”
 
-Mercer did not move.
-
-Julie saw the decision taking shape behind his eyes.
-
-He did not trust them.
-
-He no longer trusted Sarah either.
+Mercer did not move. Julie saw the decision taking shape behind his eyes. He did not trust them. He no longer trusted Sarah either.
 
 “Open the vestibule,” he said.
 
@@ -1427,17 +1013,7 @@ Mercer lowered his voice.
 
 “What recovery team?” Marcus asked.
 
-Mercer looked toward the corridor behind him.
-
-The arriving footsteps were heavier than those of ordinary facility security.
-
-Measured.
-
-Coordinated.
-
-Sarah had called someone else.
-
-Mercer turned toward his officers.
+Mercer looked toward the corridor behind him. The arriving footsteps were heavier than those of ordinary facility security. Measured. Coordinated. Sarah had called someone else. Mercer turned toward his officers.
 
 “Fall back to the outer junction.”
 
@@ -1451,9 +1027,7 @@ One of them looked at him.
 
 “I heard her.”
 
-The officer hesitated, then obeyed.
-
-Mercer remained at the glass.
+The officer hesitated, then obeyed. Mercer remained at the glass.
 
 “I’m giving you one minute,” he said through the intercom. “After that, I report the corridor unsecured.”
 
@@ -1465,11 +1039,7 @@ Mercer remained at the glass.
 
 “It’s the only one you’re getting.”
 
-He stepped away.
-
-The outer security officers retreated toward the junction.
-
-Marcus watched them go.
+He stepped away. The outer security officers retreated toward the junction. Marcus watched them go.
 
 “Friend of yours?”
 
@@ -1479,21 +1049,13 @@ Elias crossed to the rear holding-room door.
 
 “There’s a service passage behind the compliance rooms. It connects to the core lift.”
 
-He pressed his badge against the reader.
-
-Red.
+He pressed his badge against the reader. Red.
 
 TOKEN REVOKED.
 
 “I told you,” he said. “They killed my access.”
 
-Julie examined the lock.
-
-A manual emergency-release cabinet sat beside it.
-
-Sealed beneath tamper glass.
-
-Marcus removed the compact pry bar from the tool bag.
+Julie examined the lock. A manual emergency-release cabinet sat beside it. Sealed beneath tamper glass. Marcus removed the compact pry bar from the tool bag.
 
 “This one federal law too?”
 
@@ -1501,25 +1063,11 @@ Marcus removed the compact pry bar from the tool bag.
 
 “Good enough.”
 
-He broke the glass with the heel of the bar.
-
-An alarm sounded.
-
-Marcus pulled the release.
-
-The rear door unlocked.
-
-The three of them entered the service passage.
-
-Behind them, the vestibule intercom activated.
-
-Sarah’s voice followed them.
+He broke the glass with the heel of the bar. An alarm sounded. Marcus pulled the release. The rear door unlocked. The three of them entered the service passage. Behind them, the vestibule intercom activated. Sarah’s voice followed them.
 
 “Julie, stop.”
 
-Julie turned.
-
-A camera above the compliance desk had tracked their movement.
+Julie turned. A camera above the compliance desk had tracked their movement.
 
 “You have incomplete files and a frightened employee trying to avoid prosecution,” Sarah said. “You do not understand what you are about to interrupt.”
 
@@ -1551,29 +1099,7 @@ Julie glanced at Elias.
 
 “Yes,” he said. “Payload Eighty-Eight may have been layered over genuine signals. We won’t know until the system separates them.”
 
-Sarah had found the only argument that mattered.
-
-Not money.
-
-Not authority.
-
-Risk.
-
-If Julie reset the assessment and the Pakistani movement was real, Indian soldiers could die because she had persuaded the system to doubt valid intelligence.
-
-The corridor around her seemed to recede.
-
-Six years ago, she had wanted certainty before the strike.
-
-Hargrove had acted without it.
-
-Now Sarah was asking Julie to leave a false warning intact because correcting it might conceal a real one.
-
-There was no clean choice.
-
-Only consequences.
-
-Marcus watched her.
+Sarah had found the only argument that mattered. Not money. Not authority. Risk. If Julie reset the assessment and the Pakistani movement was real, Indian soldiers could die because she had persuaded the system to doubt valid intelligence. The corridor around her seemed to recede. Six years ago, she had wanted certainty before the strike. Hargrove had acted without it. Now Sarah was asking Julie to leave a false warning intact because correcting it might conceal a real one. There was no clean choice. Only consequences. Marcus watched her.
 
 “What do you need?” he asked.
 
@@ -1605,11 +1131,7 @@ Sarah spoke through the intercom.
 
 “You will be the person who interrupted the warning.”
 
-There it was.
-
-The official version waiting to be written.
-
-Julie faced the camera.
+There it was. The official version waiting to be written. Julie faced the camera.
 
 “Record this carefully, Sarah. We are not deleting intelligence. We are restoring source provenance that Apex removed.”
 
@@ -1617,23 +1139,11 @@ Julie faced the camera.
 
 “Neither did the person who turned a test package into a war.”
 
-Julie followed Marcus and Elias into the passage.
-
-Sarah’s voice came one final time.
+Julie followed Marcus and Elias into the passage. Sarah’s voice came one final time.
 
 “You are making the same mistake you made in Pakistan.”
 
-Julie stopped.
-
-Marcus did too.
-
-Six years ago, that accusation would have reached inside her and taken control of the next decision.
-
-Now she heard what it was.
-
-A weapon built from an institutional lie.
-
-Julie looked back at the camera.
+Julie stopped. Marcus did too. Six years ago, that accusation would have reached inside her and taken control of the next decision. Now she heard what it was. A weapon built from an institutional lie. Julie looked back at the camera.
 
 “No,” she said. “In Pakistan, I let someone else decide that doubt was weakness.”
 
@@ -1642,17 +1152,7 @@ She closed the service door.
 Core Access Lift
 04:50 Eastern Daylight Time
 
-The service passage ended at a freight elevator protected by two authentication panels.
-
-One required an active facility credential.
-
-The other required a rotating six-digit code.
-
-Elias entered his employee number.
-
-Rejected.
-
-He opened the maintenance-drive circuit board and connected it to the diagnostic port beneath the panel.
+The service passage ended at a freight elevator protected by two authentication panels. One required an active facility credential. The other required a rotating six-digit code. Elias entered his employee number. Rejected. He opened the maintenance-drive circuit board and connected it to the diagnostic port beneath the panel.
 
 “What are you doing?” Marcus asked.
 
@@ -1702,28 +1202,18 @@ Elias placed his thumb against the ordinary identity scanner. The panel compared
 HOSTILE IDENTITY VERIFIED
 FORENSIC ESCORT MODE AVAILABLE
 
-The elevator opened.
-
-Marcus stared at the message.
+The elevator opened. Marcus stared at the message.
 
 “It has an escort mode for attackers?”
 
 “It has an escort mode for security personnel transporting a compromised employee into a sealed incident route.” Elias disconnected the board and held it close to his chest. “The recovery nonce is pretending the escort already accepted custody.”
 
-They entered.
-
-The doors closed.
-
-Elias selected B2-CORE.
-
-The display rejected the destination and replaced it with another.
+They entered. The doors closed. Elias selected B2-CORE. The display rejected the destination and replaced it with another.
 
 DIRECT CORE ACCESS DISABLED DURING QUARANTINE
 ROUTING: LOWER-TIER INCIDENT TRANSFER
 
-The elevator descended.
-
-Julie felt the pressure change as they passed beneath Sublevel One. The walls vibrated with the deeper mechanical load of the production infrastructure. Marcus set the aluminum case between his boots and kept the canvas tool bag in one hand.
+The elevator descended. Julie felt the pressure change as they passed beneath Sublevel One. The walls vibrated with the deeper mechanical load of the production infrastructure. Marcus set the aluminum case between his boots and kept the canvas tool bag in one hand.
 
 “What exactly happens if we reach the recovery console?” he asked.
 
@@ -1739,13 +1229,7 @@ Elias looked at Julie.
 
 “The partial archive fails verification, the console locks, and the support package commits at zero-five-hundred.”
 
-The elevator clock showed 04:51:06.
-
-Less than nine minutes.
-
-The car slowed.
-
-A warning illuminated above the doors.
+The elevator clock showed 04:51:06. Less than nine minutes. The car slowed. A warning illuminated above the doors.
 
 LOWER-TIER INCIDENT TRANSFER
 INDEPENDENT SECURITY DOMAIN
@@ -1765,27 +1249,17 @@ Marcus looked at Julie.
 
 “Yes.”
 
-The doors opened.
-
-A concrete transfer corridor extended thirty feet ahead. Cable trunks crowded the ceiling. Chilled-water pipes ran along the left wall and disappeared through an opening at the far end. A hydraulic fire shutter stood fully raised above that opening, its lower rubber seal recessed into a steel housing. Black letters on the side channel identified it.
+The doors opened. A concrete transfer corridor extended thirty feet ahead. Cable trunks crowded the ceiling. Chilled-water pipes ran along the left wall and disappeared through an opening at the far end. A hydraulic fire shutter stood fully raised above that opening, its lower rubber seal recessed into a steel housing. Black letters on the side channel identified it.
 
 L3-7.
 
-Beyond the shutter, red emergency strobes pulsed through a darker lower-tier passage. A white security door occupied the wall behind and to the right of the elevator. Its status light was amber. A second lift indicator above it moved downward one level at a time.
-
-Marcus read it. “Recovery team.”
-
-The elevator doors closed behind them before he could touch the call control.
-
-A transfer panel beside the shutter awakened.
+Beyond the shutter, red emergency strobes pulsed through a darker lower-tier passage. A white security door occupied the wall behind and to the right of the elevator. Its status light was amber. A second lift indicator above it moved downward one level at a time. Marcus read it. “Recovery team.” The elevator doors closed behind them before he could touch the call control. A transfer panel beside the shutter awakened.
 
 FORENSIC ESCORT DETECTED
 DIRECTOR-LEVEL DEPLOYMENT CONTEXT PRESENT
 PROTECTED ROUTE: SUSPENDED
 
-Elias inserted the circuit board.
-
-The panel opened the deployment reference stored in its evidence partition.
+Elias inserted the circuit board. The panel opened the deployment reference stored in its evidence partition.
 
 APX-DIR-0019
 CERTIFICATE CONTEXT: INVALID FOR HOSTILE SESSION
@@ -1818,11 +1292,7 @@ Marcus glanced at L3-7. “We already have physical containment.”
 
 “It closes.”
 
-The second-lift indicator reached the lowest level.
-
-The white security door began cycling.
-
-Marcus took the case handle and kept the tool bag in his other hand.
+The second-lift indicator reached the lowest level. The white security door began cycling. Marcus took the case handle and kept the tool bag in his other hand.
 
 “How long from the command to L3-7 sealing?”
 
@@ -1832,25 +1302,11 @@ Elias read the actuator specification on the panel.
 
 “Trigger it.”
 
-He selected REPORT CREDENTIAL COMPROMISE.
-
-The panel requested a reason code.
+He selected REPORT CREDENTIAL COMPROMISE. The panel requested a reason code.
 
 Elias chose DEPLOYMENT AUTHORITY PRESENTED OUTSIDE VALID CONTEXT.
 
-No enclave PIN appeared.
-
-No live-finger scan extended.
-
-No private-key challenge asked him to release the emergency administrator role. This action did not open the production enclave or prove who had used Vance’s hardware. It told the local system that the authority controlling the poisoned bridge could no longer be trusted to control incident containment.
-
-Elias pressed ENTER.
-
-The panel went black.
-
-For one second, nothing happened.
-
-Then white text appeared.
+No enclave PIN appeared. No live-finger scan extended. No private-key challenge asked him to release the emergency administrator role. This action did not open the production enclave or prove who had used Vance’s hardware. It told the local system that the authority controlling the poisoned bridge could no longer be trusted to control incident containment. Elias pressed ENTER. The panel went black. For one second, nothing happened. Then white text appeared.
 
 DIRECTOR CERTIFICATE APX-DIR-0019
 POTENTIAL COMPROMISE DETECTED
@@ -1860,11 +1316,7 @@ A second line followed.
 PHYSICAL CONTAINMENT ACTIVE
 LOWER TIER ISOLATED
 
-The red strobes beyond L3-7 accelerated.
-
-A warning horn began.
-
-Hydraulic pressure struck the shutter housing above them. Behind Marcus, the security door opened beneath a white strobe. He threw the aluminum case beneath the descending steel. It struck the floor on the far side and slid into darkness.
+The red strobes beyond L3-7 accelerated. A warning horn began. Hydraulic pressure struck the shutter housing above them. Behind Marcus, the security door opened beneath a white strobe. He threw the aluminum case beneath the descending steel. It struck the floor on the far side and slid into darkness.
 
 Julie caught Elias by the shoulder.
 
