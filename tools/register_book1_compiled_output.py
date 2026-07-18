@@ -13,6 +13,15 @@ BOOK = ROOT / "books/book-01"
 MANIFEST = BOOK / "ACCEPTED_MANUSCRIPT.yaml"
 COMPILED = BOOK / "compiled/current/Julie_O_Donnell_Book_1_REVISED.md"
 DATE = "2026-07-18"
+GENERATED_CONTROLS = (
+    ROOT / "README.md",
+    ROOT / "PROJECT_STATE.yaml",
+    BOOK / "manuscript/STATUS.md",
+    BOOK / "control/00-overview.md",
+    BOOK / "control/16-chapter-by-chapter-status-record.md",
+    BOOK / "control/24-thread-disposition-matrix.md",
+    ROOT / "series/recurring-character-ledger.md",
+)
 
 
 def prose_paths() -> list[Path]:
@@ -87,12 +96,20 @@ def write_manifest(paths: list[Path]) -> None:
     MANIFEST.write_text("\n".join(lines), encoding="utf-8")
 
 
+def normalize_generated_controls() -> None:
+    for path in GENERATED_CONTROLS:
+        text = path.read_text(encoding="utf-8")
+        normalized = "\n".join(line.rstrip() for line in text.splitlines()) + "\n"
+        path.write_text(normalized, encoding="utf-8")
+
+
 def main() -> None:
     paths = prose_paths()
     if not COMPILED.is_file():
         raise RuntimeError(f"compiled manuscript missing: {COMPILED.relative_to(ROOT)}")
     write_manifest(paths)
     finalize_controls()
+    normalize_generated_controls()
     print(f"registered and synchronized {COMPILED.relative_to(ROOT)}")
 
 
