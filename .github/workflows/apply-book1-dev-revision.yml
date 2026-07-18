@@ -32,7 +32,9 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
       - name: Apply idempotent editorial patches
         if: steps.gate.outputs.run == 'true'
-        run: python3 tools/apply_book1_dev_revision.py
+        run: |
+          python3 tools/apply_book1_dev_revision.py
+          python3 tools/apply_book1_causality_revision.py
       - name: Verify diff hygiene
         if: steps.gate.outputs.run == 'true'
         run: git diff --check
@@ -43,7 +45,7 @@ jobs:
             echo "No manuscript changes to commit"
           else
             git add books/book-01/manuscript/chapters
-            git commit -m "fix: apply Book 1 publication blocker patch"
+            git commit -m "edit: apply Book 1 causality and agency revision"
             git push origin HEAD:${{ github.event.pull_request.head.ref }}
           fi
       - name: Generate developmental metrics
