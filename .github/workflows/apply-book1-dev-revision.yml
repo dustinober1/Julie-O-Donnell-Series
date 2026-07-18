@@ -1,20 +1,22 @@
 name: Apply Book 1 Developmental Revision Patches
 
 on:
-  push:
-    branches: [agent/book1-developmental-revision]
+  pull_request:
+    branches: [main]
+    types: [opened, synchronize, reopened]
 
 permissions:
   contents: write
 
 jobs:
   apply:
-    if: startsWith(github.event.head_commit.message, 'apply:')
+    if: github.event.pull_request.head.repo.full_name == github.repository && github.event.pull_request.head.ref == 'agent/book1-developmental-revision'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          ref: ${{ github.event.pull_request.head.ref }}
       - name: Apply idempotent editorial patches
         run: python3 tools/apply_book1_dev_revision.py
       - name: Validate blocker pass
@@ -30,5 +32,5 @@ jobs:
           else
             git add books/book-01/manuscript/chapters
             git commit -m "fix: apply Book 1 publication blocker patch"
-            git push origin HEAD:${GITHUB_REF_NAME}
+            git push origin HEAD:${{ github.event.pull_request.head.ref }}
           fi
