@@ -65,9 +65,20 @@ jobs:
           git push origin HEAD:${{ github.event.pull_request.head.ref }}
       - name: Verify diff hygiene
         if: steps.gate.outputs.run == 'true' && steps.final_verification.outcome == 'success'
-        run: git diff --check
-      - name: Commit verified compilation, controls, and report
+        id: diff_hygiene
+        continue-on-error: true
+        run: git diff --check > artifacts/book1-diff-check-current.txt 2>&1
+      - name: Show diff hygiene result
         if: steps.gate.outputs.run == 'true' && steps.final_verification.outcome == 'success'
+        run: cat artifacts/book1-diff-check-current.txt
+      - name: Persist failing diff diagnostic
+        if: steps.gate.outputs.run == 'true' && steps.final_verification.outcome == 'success' && steps.diff_hygiene.outcome == 'failure'
+        run: |
+          git add artifacts/book1-diff-check-current.txt
+          git commit -m "test: record Book 1 diff-hygiene failure"
+          git push origin HEAD:${{ github.event.pull_request.head.ref }}
+      - name: Commit verified compilation, controls, and report
+        if: steps.gate.outputs.run == 'true' && steps.final_verification.outcome == 'success' && steps.diff_hygiene.outcome == 'success'
         run: |
           git add \
             README.md \
@@ -80,13 +91,14 @@ jobs:
             books/book-01/control/24-thread-disposition-matrix.md \
             series/recurring-character-ledger.md \
             artifacts/book1-final-verification.md \
-            artifacts/book1-final-verification-current.txt
+            artifacts/book1-final-verification-current.txt \
+            artifacts/book1-diff-check-current.txt
           if git diff --cached --quiet; then
             echo "Verified outputs unchanged"
           else
             git commit -m "build: add verified Book 1 revision compilation"
             git push origin HEAD:${{ github.event.pull_request.head.ref }}
           fi
-      - name: Enforce independent verification
-        if: steps.gate.outputs.run == 'true' && steps.final_verification.outcome == 'failure'
+      - name: Enforce verification and diff hygiene
+        if: steps.gate.outputs.run == 'true' && (steps.final_verification.outcome == 'failure' || steps.diff_hygiene.outcome == 'failure')
         run: exit 1
