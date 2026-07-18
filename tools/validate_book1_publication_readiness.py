@@ -48,7 +48,9 @@ def manifest_paths() -> list[Path]:
     paths = [
         ROOT / value
         for value in re.findall(
-            r'^\s+path:\s+"([^"]+)"\s*$', accepted_block, re.MULTILINE
+            r'^\s+(?:-\s+)?path:\s*"([^"]+)"\s*$',
+            accepted_block,
+            re.MULTILINE,
         )
     ]
     if len(paths) != 25:
