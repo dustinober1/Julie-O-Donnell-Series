@@ -20,6 +20,8 @@ jobs:
           fetch-depth: 0
       - name: Patch protected-block verifier
         run: python3 tools/fix_book1_one_sentence_verifier.py
+      - name: Patch reviewed chapter-ending decisions
+        run: python3 tools/fix_book1_one_sentence_map_endings.py
       - name: Build reviewed repair map
         run: python3 tools/build_book1_one_sentence_repair_map.py
       - name: Apply reviewed paragraph integrations
@@ -57,6 +59,7 @@ jobs:
           tools/build_book1_one_sentence_repair_map.py
           tools/apply_book1_one_sentence_repair.py
           tools/fix_book1_one_sentence_verifier.py
+          tools/fix_book1_one_sentence_map_endings.py
           tools/compile_book1_accepted.py
           tools/analyze_book1_revision.py
           tools/validate_book1_publication_readiness.py
@@ -86,6 +89,7 @@ jobs:
             books/book-01/manuscript/STATUS.md \
             books/book-01/manuscript/prologue.md \
             books/book-01/manuscript/chapters \
+            tools/build_book1_one_sentence_repair_map.py \
             tools/apply_book1_one_sentence_repair.py \
             tools/verify_book1_revision.py
           git commit -m "edit: complete targeted one-sentence paragraph repair [skip ci]"
