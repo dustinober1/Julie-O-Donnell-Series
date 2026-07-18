@@ -2,17 +2,17 @@
 
 ## What needs you
 
-First Chapter is ready for your decision.
+First Chapter needs repair.
 
 ## Recommended action
 
-Review the first chapter evidence and approve it or request changes.
+Review first chapter
 
 Run: `/novel`
 
 ## Why this stopped
 
-Novel Forge stopped because first chapter requires an explicit writer approval before creative work can continue.
+The active writer decision rejected the current first chapter evidence.
 
 ## Project snapshot
 
@@ -22,25 +22,24 @@ Novel Forge stopped because first chapter requires an explicit writer approval b
 - Runtime profile: full
 - Active book: book-01
 - Stage: drafting
-- Next gate: first-chapter-approval (pending)
+- Next gate: first-chapter-approval (rejected)
 - Manuscript words: 3477
 - Blocking tickets/conflicts: 1
-- Warnings: 2
+- Warnings: 1
 
 ## Blockers
 
-- Human approval required: First Chapter
+- Writer-requested repair required: First Chapter
 
 ## Warnings
 
 - This project records older Novel Forge 1.4.1; upgrade metadata to 1.4.2.
-- 1 uncommitted file(s) exist.
 
 ## Recent files
 
-- books/book-01/BOOK.yaml
+- books/book-01/gate-decisions.md
 - PROJECT.yaml
-- books/book-01/voice-audits.yaml
-- books/book-01/chapter-queue.yaml
-- books/book-01/manuscript/chapters/01-the-farm.md
 - HANDOFF.md
+- STATUS.md
+- books/book-01/BOOK.yaml
+- books/book-01/voice-audits.yaml

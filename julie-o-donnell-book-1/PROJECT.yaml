@@ -9,7 +9,7 @@ next_gate: first-chapter-approval
 gates:
   voice-approval: approved
   book-plan-approval: approved
-  first-chapter-approval: pending
+  first-chapter-approval: rejected
   act-1-review: open
   midpoint-review: open
   pre-final-act-review: open
