@@ -1,44 +1,27 @@
 #!/usr/bin/env python3
-"""Add a final bounded consequence passage to clear the 105k publication target."""
+"""Add the final reviewer-requested Sharma depth and clear the Book 1 word floor."""
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-PATH = ROOT / "books/book-01/manuscript/chapters/chapter-08.md"
-MARKER = "INITIAL RELEASE SUSPENSION ACHIEVED USING OVERBROAD DEPENDENCY BOUNDARY."
-ANCHOR = """Julie compared the source time with the enclave clock. “Almost four minutes. Forty-three seconds of that belongs to my first boundary.”
+PATH = ROOT / "books/book-01/manuscript/chapters/chapter-18.md"
+MARKER = "Her caution had a name before it became doctrine."
+ANCHOR = """The medical officer ended the visit.
 
-“And distance?”"""
-REPLACEMENT = """Julie compared the source time with the enclave clock. “Almost four minutes. Forty-three seconds of that belongs to my first boundary.”
+K-17 had not been taken."""
+ADDITION = """The medical officer ended the visit.
 
-Elias looked at her instead of the route. “The recovery record already shows why you chose the lineage scope.”
+Sharma remained outside the aid room after the door closed. In her first winter on the ridge, she had signed a patrol summary that called a missing soldier presumed swept into a ravine. The weather supported it; the search dogs did not. Three days later he was found alive in an abandoned shepherd shelter two kilometers east, frostbitten and furious that headquarters had converted a likely route into his death. His mother had received the provisional notice before the search team reached him.
 
-“It also shows what the scope deferred.”
+Sharma had never forgotten the woman’s question at the hospital: Who decided likely meant finished?
 
-“We can describe the delay as a property of the poisoned dependency structure.”
+Her caution had a name before it became doctrine.
 
-“It was. I still selected it.”
+Since then, every clean map carried the sound of that question. It had cost Sharma promotions, invitations to planning cells, and the easy reputation of an officer who never slowed a decision. It had also kept her from sending Pal’s injury ahead of him as proof of a story he had not told.
 
-Julie opened the supplemental warning field. The enclave offered to attach the K-17 result as an ordinary post-reconciliation discovery. That wording would preserve the source and hide the fact that her first decision had kept it unavailable for forty-three seconds.
+She returned to operations only after the aid-room door latched behind her.
 
-She replaced it.
-
-INITIAL RELEASE SUSPENSION ACHIEVED USING OVERBROAD DEPENDENCY BOUNDARY.
-FOURTEEN CORRECTION-DEPENDENT OBSERVATION REFERENCES DEFERRED.
-SUPPLEMENTAL REVIEW RESTORED LOW-LEVEL MOVEMENT TOWARD K-17.
-ADDITIONAL DELAY ATTRIBUTABLE TO ANALYTIC SCOPE: 43 SECONDS.
-FIELD PRESENCE, IDENTITY, AND OBJECTIVE: UNCONFIRMED.
-
-The console required separate signatures for the factual source recovery and the analytic limitation. Elias authenticated only that the fourteen event references came from the correction-dependent table, that their primary blocks remained unchanged, and that the supplemental process had restored them in source order. Julie authenticated the boundary choice and delay. Marcus added no command conclusion.
-
-The warning would not present Julie as the analyst who had found every distinction in time. It would present the sequence in which she had stopped the larger lie, missed a smaller truth inside its machinery, and corrected the miss before anyone could make her first result final.
-
-“Send the supplemental result to the preserved incident route,” she said. “Do not merge it into the original recovery record.”
-
-Elias selected a linked addendum. “The first record remains complete. The correction travels beside it.”
-
-That was the only version Julie could defend: not a perfect decision repaired in memory, but two authenticated acts whose order survived.
-
-“And distance?”"""
+K-17 had not been taken."""
+EXPECTED_ADDED_WORDS = 172
 
 
 def main() -> None:
@@ -46,8 +29,13 @@ def main() -> None:
     if MARKER in text:
         return
     if ANCHOR not in text:
-        raise RuntimeError("Chapter 8 floor anchor missing")
-    PATH.write_text(text.replace(ANCHOR, REPLACEMENT, 1), encoding="utf-8")
+        raise RuntimeError("Chapter 18 Sharma-depth anchor missing")
+    added_words = len(ADDITION.split()) - len(ANCHOR.split())
+    if added_words != EXPECTED_ADDED_WORDS:
+        raise RuntimeError(
+            f"reviewer floor passage adds {added_words} words, expected {EXPECTED_ADDED_WORDS}"
+        )
+    PATH.write_text(text.replace(ANCHOR, ADDITION, 1), encoding="utf-8")
     print(PATH.relative_to(ROOT))
 
 
