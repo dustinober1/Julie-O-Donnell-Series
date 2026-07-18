@@ -228,6 +228,14 @@ The spokesperson answered that the office would defer to the authenticated inves
 
 The office had surrendered the causal claim without surrendering the political fight.
 
+The law-enforcement systems changed more slowly than the news banners. Alvarez sent the DCIS correction to MPD, the Army lookout desk, District police, and the federal coordination center that had inherited Apex's armed-insider alert. Each authority had to amend its own record.
+
+The new bulletin did not cancel custody or declare the subjects harmless. It removed the unsupported claim that Julie had created the Argus corruption, removed Elias's hostage classification, and replaced the armed-architect language with the actual unresolved allegations: unauthorized access, removal of classified material, interference with security operations, and evidence preservation under incident 187463.
+
+Mercer read the amended alert from an Apex administrative room after surrendering team command. The document no longer instructed officers to recover telemetry at the expense of subject preservation. Sarah's force standard had become the controlling regional note.
+
+The correction did not make the next officer trust Julie. It changed what the officer was officially permitted to assume before meeting her.
+
 It could still accuse Julie of unlawful conduct. It could defend Argus, challenge DCIS authority, and attack the preservation methods. It could no longer present Julie’s authorship of the poison as an uncontested official fact without contradicting three public records.
 
 Nothing in the intake room opened when the truth became public.

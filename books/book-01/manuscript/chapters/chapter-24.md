@@ -56,6 +56,22 @@ EVIDENCE CONTACT: PROHIBITED WITHOUT NEW WRITTEN AUTHORITY
 
 The common chest did not accompany her. Neither did a public statement masquerading as a release credential.
 
+Webb placed a sealed copy of the release conditions in Julie's property envelope and kept another.
+
+“If a reporter, agency, contractor, congressional office, or former colleague contacts you about the facts, you refer them to me. If someone offers access, a clearance workaround, or a private copy of evidence, you refuse and tell me. If you discover something from public reporting, you do not test it against anyone connected to the case.”
+
+“You included former colleague for Marcus.”
+
+“I included it because you know people who will call an instruction a conversation.”
+
+Julie looked through the glass at the chest. The temptation did not require a credential. It required only a question someone else was willing to answer off the record.
+
+“I understand.”
+
+Webb waited.
+
+Julie corrected herself. “I agree.”
+
 A hospital transport chair entered the alcove. Park transferred Julie’s personal property: the mechanical key to her Ford, no phone, no wallet recovered from Apex, and the clothes the hospital would replace. Each item had a different receipt from the evidence packages.
 
 Julie left custody through an authority that could be reviewed later.

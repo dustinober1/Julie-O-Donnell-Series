@@ -128,6 +128,30 @@ Julie watched Mercer read the signature. His face did not show gratitude. It sho
 
 Brooks had never seen the feed. She did not know whether Julie was right. She did not need to know before making the garage survivable.
 
+She approached Julie only after the force line and civilian lane were established.
+
+“You are being detained in connection with unauthorized access, removal of classified material, assault allegations, and the current security alert. I am not asking you for a technical statement in this garage.”
+
+Julie had spent the morning fighting to make someone listen. The offer not to listen yet felt almost hostile.
+
+Brooks continued. “I need immediate safety facts. Are there weapons, explosive devices, hazardous materials, active transmitters, or commands still running in the van or on any object?”
+
+“No weapons or explosives. The telematics module is disconnected. The evidence case and field module are offline. The local recovery action completed. I do not know whether Apex has another remote action pending.”
+
+“Any person still in immediate danger because of something you started?”
+
+“The fire and suppression systems at Building Three require independent inspection. Hartwell and Northbridge hold records that may be at risk of deletion or overwrite. K-seventeen is an unresolved foreign field issue. I cannot direct any of them from here.”
+
+Brooks recorded the answer as a safety statement, not a confession or expert finding.
+
+“Do you want to make a substantive statement before counsel?”
+
+Julie looked at the seven objects still held by people who could barely stand. Six years earlier, she had believed accuracy required speaking before anyone framed the question. Today, the record already existed outside her mouth.
+
+“No.”
+
+Brooks nodded. “Good decision or bad, it is yours.”
+
 Ortiz began with Marcus.
 
 The aluminum incident-capture case stayed between his boots. He read the etched serial without touching the latches. The display remained green. Marcus stated the summary Julie had taught him to keep separate from interpretation: 136 sealed files, 47 incomplete, 311 excluded during finalization. He did not recite every file or claim the capture proved what Apex had done.

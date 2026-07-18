@@ -246,4 +246,44 @@ Julie listened for a clock and heard only the cables taking weight.
 
 The investigation had finally acquired something the crisis never had.
 
+---
+
+Guarded Hospital Room
+Washington, D.C.
+22:18 Eastern Daylight Time
+
+Julie lay awake beneath a monitor that turned each heartbeat into a green point moving left to right.
+
+Her left wrist was secured to a padded rail. The right forearm rested above her chest inside the temporary immobilizer. Outside the room, an MPD officer sat beneath a television cycling through the sabotage alert, the Building Three fire, and Sterling's statements.
+
+Dana Webb arrived after ten with an appointment order, two legal pads, and no request for Julie to explain the case.
+
+“I am your lawyer for detention, immediate charging, and access to counsel. I am not your investigator, publicist, or conduit to the evidence.”
+
+Julie looked at the blank pads. “Then why bring paper?”
+
+“So you can write questions you are not going to act on.”
+
+Webb placed one within reach of Julie's left hand.
+
+Julie wrote HARTWELL, PRICE, K17, SARAH, APX-DIR-0019, STERLING DEVICE. The letters leaned backward. Under them she began listing the calls she would make if the restraint opened.
+
+Webb read none of it. “Every one of those sources has a preservation demand or a named custodian in progress. You are not permitted to contact them. You are not permitted to direct Grant or Alvarez. You are not permitted to use someone else to do either.”
+
+“What if the first examination chooses the wrong question?”
+
+“Then your lawyer objects after learning what the authority permits. You do not solve it from a hospital bed.”
+
+Julie stared at the monitor. The four-second gateway wheel had taught her that delay killed. The last day had taught her that speed could also make the first incomplete account impossible to dislodge.
+
+She crossed out the call list and left the questions.
+
+Webb took the second pad for herself. “Now tell me only what I need for the detention review: injuries, medications, whether anyone questioned you after the physician stopped contact, and whether an officer threatened or promised anything.”
+
+Julie answered the narrower questions.
+
+When Webb left, the television outside showed her photograph again. Julie did not ask the guard to turn it off. She did not ask for a phone.
+
+She listened to the hospital systems carry their own weight and waited for morning.
+
 A night in which no one was allowed to turn urgency into permission.

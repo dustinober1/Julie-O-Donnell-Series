@@ -253,6 +253,26 @@ Office counsel argued that continuity systems lawfully transformed source reques
 
 The office preserved its objections and produced no answer.
 
+Before Grant sealed the finding, Price asked what the result changed for him.
+
+Alvarez answered from the incident channel. “It changes the federal incident's attribution of the later continuity request. It does not decide your DIA employment review, the propriety of the expedited flag, the rejected access attempt, or whether another authority brings charges.”
+
+“So the record can say my name was borrowed and DIA can still fire me for the thing I actually did.”
+
+“Yes.”
+
+Price let out a short breath that almost became a laugh. “That may be the first answer today I believe completely.”
+
+Shah asked whether the federal finding would be sent to DIA's deciding official.
+
+“It will be available through the authenticated incident route with your client's statement and the source limits,” Alvarez said. “DCIS will not recommend an employment outcome.”
+
+Price looked at the original request still open on the standalone terminal. “Then leave the expedited flag where it is.”
+
+“It is already there,” Grant said.
+
+“I know. I am telling myself.”
+
 Grant sealed the finding.
 
 PRICE AUTHENTICATED DIA-SAR-PRICE-01.

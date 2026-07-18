@@ -211,6 +211,18 @@ Apex counsel requested that the finding await a complete architecture explanatio
 
 “You may submit one,” Alvarez said. “It will accompany the result as an objection and supporting theory. It will not delay the direct hardware observation.”
 
+Before the record sealed, Alvarez required a blind replication.
+
+A second DCIS examiner who had not watched Grant's queries received the written scope, the reader's verified starting state, and the board package under the same camera. Grant left the examination surface and could not direct the sequence. The second examiner selected the deployment range, emergency range, lifetime counter, and event-class query from the scope card.
+
+The result matched Grant's: no physical board event at 02:14, distinct live-released events at the gate and recovery console, continuous lifetime counter, and zero source writes from either examination.
+
+Apex counsel preserved the same mirror-service objection. The second examiner preserved the same limit without copying Grant's language: the board excluded its own physical participation and did not identify the system that presented its identity elsewhere.
+
+Grant compared the two method logs. Different operators had reached the same direct observation from the same object without using Apex software or Julie's instructions.
+
+Only then did she allow the finding to seal.
+
 The examination record sealed at 10:06.
 
 BOARD EAT-0881147

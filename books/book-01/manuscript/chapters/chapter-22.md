@@ -268,6 +268,20 @@ The government Argus Configuration Control Office suspended APX-DIR-0019 from ne
 
 The two tracks met on Grant’s display.
 
+Before comparing them, Grant requested the government Argus registry receipt for the later reconstruction. The registry remained outside Apex and recorded what product arrived, when it arrived, which certificate chain accompanied it, and what prior product it superseded.
+
+The government source matched the Apex release event without relying on Apex's description.
+
+PRODUCT RECEIVED: ARGUS-K17-RC-0751
+RECEIPT: 07:52:12.117 EDT / OCTOBER 13
+AUTHORITY CHAIN: APX-DIR-0019
+SUPERSEDES: K17 CHALLENGED STATE
+LOCAL COMMIT SUCCESS FIELD: NO
+
+The registry did not identify Vance's palm or show what his console displayed. The Apex source did. The government registry independently established that the product his source recorded leaving Building Three was the product that entered the official chain one fraction of a second later.
+
+Grant attached the sources without merging them. If Apex later challenged the camera, the government still held the received product and certificate. If the government registry were challenged, Apex still held the local release event. Neither institution could erase the other by revising its own record.
+
 The construction sources showed a common mechanism and executive authority family used to borrow Price’s request and Elias’s identity. They did not identify the human who initiated the original construction.
 
 The release sources showed Vance personally authenticating the later reconstruction after receiving the failed K-17 state.

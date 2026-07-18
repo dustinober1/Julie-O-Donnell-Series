@@ -299,6 +299,26 @@ MERITS DETERMINATION: NONE
 
 Sharma signed beneath Qureshi.
 
+She went to the aid room before returning to operations.
+
+Pal lay propped beneath a thermal blanket with three staples closing the cut along his scalp. The medical officer allowed one question from him and none from Sharma.
+
+“Did we fire?”
+
+“No.”
+
+His eyes closed for a moment. “Was the relay empty?”
+
+“The outer compound was empty when you reached it. The record shows an accepted challenge and a failed commit. The inner boundary remains uncleared.”
+
+He opened his eyes again. “So we don't know.”
+
+“We know what the patrol observed. We know what the cartridge recorded. We know what neither can tell us.”
+
+Pal nodded once. The answer was not reassuring. It was the one he could carry without later discovering his injury had been used to support a cleaner story.
+
+The medical officer ended the visit.
+
 K-17 had not been taken.
 
 Phase B had reached it.

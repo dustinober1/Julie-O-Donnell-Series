@@ -222,6 +222,30 @@ Drennan looked at Grant for the first time without anger.
 
 Vann placed the pouch inside a rigid secondary container, closed it, and applied the LSS hold seal. Two-person custody followed it through the rear control door. Grant never saw the signer itself. She saw the institution that had accepted responsibility for not using it.
 
+Drennan remained at the transfer table after the device left.
+
+“Am I in custody?” he asked.
+
+“No,” Vega said. “You are directed to remain available under the office and LSS preservation notices. You may leave with counsel after your credential and route records are preserved.”
+
+Drennan looked at Grant. “My name will be the one on every camera carrying the case.”
+
+“Yes.”
+
+“I did not choose the route.”
+
+“The assignment record says Kessler authorized your custody. It does not yet identify the instruction source or your knowledge.”
+
+“My job was to keep the case closed and get it through the security paths.”
+
+“Then preserve that statement with your lawyer and the records that can test it.”
+
+He glanced toward the door through which the signer had disappeared. “If I had refused, someone else would have carried it.”
+
+Grant did not tell him whether refusal would have changed anything. “That is not a physical observation. Decide with counsel whether it belongs in your statement.”
+
+Drennan nodded. The carrier would not be protected by turning him into a hero. He would be protected, if the records allowed it, by keeping movement, authorization, knowledge, and command separate.
+
 Vega authorized a certified derivative from the transfer and office-assignment records. It identified the device, exterior condition, Drennan’s custody interval, Vann and Vega’s no-use hold, Kessler’s authorization, original-record custodians, withheld fields, and proof ceiling.
 
 It made no claim about internal signer state, Drennan’s knowledge, Kessler’s instruction source, or Sterling’s personal command.
