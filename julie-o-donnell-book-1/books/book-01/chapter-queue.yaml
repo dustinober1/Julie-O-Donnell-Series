@@ -1,37 +1,6 @@
 schema_version: 1.0.0
 active_window: blocked
 packets:
-  - chapter: 3
-    title: The Access
-    status: blocked
-    pov: close-third-protagonist
-    purpose: Julie negotiates Reston supervised access and learns the dawn deadline that governs the crisis.
-    scene_engine: negotiation
-    pressure_movement: The ticking clock begins as the dawn deadline is revealed.
-    character_movement: Julie commits to re-entering the system that destroyed her.
-    relationship_movement: Marcus and Julie establish the terms of their uneasy alliance.
-    story_thread_refs:
-      - THR-004
-      - THR-006
-    continuity_refs:
-      - FCT-007
-      - FCT-013
-    character_refs:
-      - Julie
-      - Marcus
-    required_research:
-      - RES-001
-    profile_fields:
-      threat_delta: The dawn deadline becomes the governing clock, and supervised Reston access puts Julie inside the
-        institution's controlled room.
-      evidence_delta: Julie gains controlled access to the raw feed and learns the dawn deadline governs the whole crisis;
-        every keystroke is watched and owned by the institution.
-      reader_forecast_change: The reader feels the clock start and grasps that proving the machine wrong must happen inside
-        the institution's own room.
-      protagonist_choice: Julie accepts supervised access, re-entering the system that destroyed her on its terms.
-    ending_hook: Julie accepts supervised access knowing the institution controls the room where she might prove the machine wrong.
-    milestone_gate: null
-    target_words: 5500
   - chapter: 4
     title: The Signature
     status: blocked

@@ -23,7 +23,7 @@ No human gate or integrity blocker is stopping the recommended next step.
 - Active book: book-01
 - Stage: drafting
 - Next gate: none
-- Manuscript words: 7216
+- Manuscript words: 10229
 - Blocking tickets/conflicts: 0
 - Warnings: 1
 
@@ -39,7 +39,7 @@ No human gate or integrity blocker is stopping the recommended next step.
 
 - books/book-01/BOOK.yaml
 - PROJECT.yaml
+- books/book-01/voice-audits.yaml
 - books/book-01/chapter-queue.yaml
-- books/book-01/manuscript/chapters/02-the-ghost-pattern.md
+- books/book-01/manuscript/chapters/03-the-access.md
 - HANDOFF.md
-- STATUS.md
