@@ -358,6 +358,18 @@ The yellow legal pad rested inside a clear sleeve on the fence rail. It held no 
 
 The neighbor packed the ground again. This time Julie did not reach for the bar or test whether her injured hand might take some of the load.
 
+“Lawyer said you aren't supposed to be working,” he said.
+
+“I am holding a level.”
+
+“That sounds like lawyer language.”
+
+Julie looked at the post, then at the tamping bar in his hands. “It probably is.”
+
+He did not ask what had happened in Washington. He had seen enough television to know every public answer was changing. Instead he told her the mare had found a weak lower rail near the creek and that the feed delivery would arrive Monday unless Julie wanted him to postpone it.
+
+Ordinary work assembled itself into a list with no strategic release clock. Julie could ask for help, accept delay, or leave a rail imperfect overnight without anyone firing because of it.
+
 She had spent six years believing responsibility meant carrying the full weight until no one else could distort the result.
 
 The post stood because someone else held it while she watched the level.

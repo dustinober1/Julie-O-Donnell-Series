@@ -277,4 +277,12 @@ Grant opened the next production request herself. The office would identify the 
 
 The physical signer was no longer the most urgent object.
 
+Vega issued two additional preservation notices before ending the intake. The office secure-communications ledger had to retain the complete assignment history for SSO-NS-004, including superseded drafts and rejected assignments. The LSS support system had to preserve every challenge, case movement, credential class, and no-use event without exposing unrelated office traffic.
+
+Office counsel objected that rejected drafts could contain deliberative material beyond the authorized inquiry.
+
+“Preservation is not production,” Vega said. “The privilege question can survive only if the record does.”
+
+The second notice went to the staff responsible for portable signer inventory. No device could be substituted into the SSO-NS-004 asset record, and no replacement could inherit its serial or assignment history. The office could receive another device for lawful work under a new identity after an independent security review. It could not make the challenged signer disappear by calling its replacement continuity.
+
 The name that had put it into circulation was.

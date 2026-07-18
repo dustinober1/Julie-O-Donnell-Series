@@ -260,6 +260,12 @@ Julie had expected vindication to feel like pressure leaving a room. Instead it 
 
 The correction protected cause without erasing cost.
 
+Webb received twelve requests for Julie before the public receipts finished propagating. News organizations wanted interviews. Two senators wanted private briefings. A defense contractor offered independent-consultant protection. An inspector general requested voluntary cooperation. A former colleague sent only the words I believed you.
+
+Webb declined every request except the lawful preservation and custody notices already in place. She did not ask Julie which opportunities mattered. Julie remained detained, injured, and represented. Public interest did not create informed consent or erase the prohibition on investigating her own case.
+
+The refusal disappointed people who believed vindication should immediately become testimony, service, or access. It also prevented the first hours of the corrected record from becoming a market in which every institution tried to acquire Julie's authority before she had any reason to trust its mandate.
+
 Grant closed the news monitor but left the three receipts visible.
 
 “The record is outside this room now.”

@@ -331,6 +331,12 @@ Grant returned to the DCIS channel from Hartwell’s controlled phone.
 
 The result did not identify Sterling.
 
+Collins asked Grant whether Hartwell should suspend every Sterling-office credential until the device was found. The broader action would be easy to explain and difficult to undo. It would also convert one challenged serial into a presumption against people and credentials that had never entered the event.
+
+Grant limited the hold to SSO-NS-004, the support path that carried it, and the specific challenge interval. Other office credentials remained active unless their own records triggered a separate review. Hartwell added a live alert so the serial could not pass another perimeter challenge while the locator request was pending.
+
+The restriction followed the object instead of turning the whole office into a suspect.
+
 It converted the signer from a certificate into a moving physical object that an institution now had to find.
 
 Hackett asked Grant to authorize an immediate public statement confirming that a Sterling-office device had participated in the operational chain.

@@ -311,4 +311,14 @@ The release finding sealed under Alvarez’s authority before Sterling’s offic
 
 For the first time, the government could say exactly which lie Arthur Vance had personally made operational.
 
-It still could not say who had written the first one.
+Alvarez asked whether the release finding justified immediate criminal arrest. The duty prosecutor refused to convert a strong operational record into a charging decision without reviewing classification, authority, intent, and the evidence connecting the release to a federal offense. Vance remained represented, restricted from operational systems, and subject to preservation and travel conditions negotiated through counsel.
+
+Hackett called the delay institutional cowardice.
+
+Grant called it a different question.
+
+Julie understood both reactions. Vance's live hand was finally visible. The temptation to make visibility equal every legal element was the same temptation the manuscript's institutions had repeatedly used against her and Elias.
+
+The release record would support the next process. It would not replace it.
+
+It still could not say who had written the first lie.

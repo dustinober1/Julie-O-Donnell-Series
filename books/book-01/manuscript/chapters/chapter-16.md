@@ -197,6 +197,22 @@ Medical staff entered the intake bay. Julie’s fingers had cooled inside the re
 
 Marcus had reached the trauma unit. His oxygen saturation had improved but remained low. Imaging of his ribs, chest, scalp, thigh, and head was pending. Elias was in guarded observation for the hip injury, dizziness, cold exposure, exhaustion, and the cut on the finger used for his live biometric acts.
 
+Two agencies had already sent interview requests to the hospitals. Army investigators wanted Marcus's account of credential loss and removal of classified material. An Apex security liaison wanted Elias to confirm that Julie had directed his emergency access. A federal coordination desk wanted Julie to identify the most urgent foreign target before the K-17 trail aged further.
+
+The physicians rejected all three requests on medical grounds. Webb rejected them again on representation and scope. Alvarez entered the refusals into incident 187463 so the lost hours could not later be described as subjects declining cooperation after receiving the evidence.
+
+Hackett objected most strongly to the K-17 delay. Julie could hear the problem in his voice. The field team might still be moving while lawyers protected rooms in Washington.
+
+Alvarez asked whether he possessed a lawful military channel to warn India that a low-level field anomaly remained unresolved without exposing the seized material or attributing the operation.
+
+He did.
+
+“Use it,” she said. “Preserve the warning and let the local commander decide what it changes.”
+
+The message that left contained no accusation against Tariq, Sterling, Vance, or Apex. It asked Northern Command to preserve K-17 local records, avoid destructive maintenance, and treat the relay state as unresolved pending independent field inspection.
+
+The urgent action went forward without turning an injured detainee into its authority.
+
 Alvarez stated that no substantive interview would occur that day.
 
 Hackett objected. “We have an active foreign incident. Sterling’s office is already shaping the public account, and Apex is preparing a technical narrative.”

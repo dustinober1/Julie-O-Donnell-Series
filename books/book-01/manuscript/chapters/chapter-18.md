@@ -288,6 +288,12 @@ Sharma added the caveats herself. The certificate did not establish Tariq’s pr
 
 The original cartridge, derivative, and patrol package closed separately. Pal’s medical removal remained attached to the patrol record so no later summary could turn his interrupted words into a complete account.
 
+Restoring K-17 required a fourth record. Sethi prepared a clean replacement cartridge and verified it against the relay specification without connecting it to the operational network. The original would never return to the cassette. If the inner boundary was cleared, the relay would restart on new incident media while the old journal remained sealed under the event it recorded.
+
+Northern Command approved a two-team inspection for first light: explosive-ordnance personnel would clear the inner seam, and relay engineers would enter only after the physical space was safe. The patrol that had recovered the cartridge would not be sent back merely because it already knew the route. Fatigue and injury were conditions, not qualifications.
+
+Sharma signed the restoration plan beside the preservation order. One document kept the old state intact. The other allowed the mountain to continue functioning without asking the evidence to become equipment again.
+
 At 19:29, Qureshi transmitted the acknowledgment. The originals remained on Arjun’s side of the route.
 
 The receipt returned two minutes later.

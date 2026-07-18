@@ -287,4 +287,12 @@ Price had been wrong to press past the instruction. The later system had taken t
 
 The borrowed name was resolved.
 
-The person who borrowed it was not.
+DIA counsel asked Price whether he wanted to remain on paid administrative leave or request immediate separation from the agency. The choice had no bearing on the federal finding and every bearing on whether he would return to a building whose systems had turned his caution into authority.
+
+Price did not answer that day. He requested the decision in writing, the criteria for restored access, and confirmation that refusing to resign would not be described as failure to cooperate. Shah added that no employment action could rely on the later continuity request as Price's authenticated act after the DCIS finding.
+
+The administrative attorney agreed to preserve the request and respond through counsel. No one promised Price his clearance, job, or reputation back.
+
+For the first time since security removed him from his desk, he had a decision that did not need to be made before a record disappeared.
+
+The person who borrowed his name was not resolved.

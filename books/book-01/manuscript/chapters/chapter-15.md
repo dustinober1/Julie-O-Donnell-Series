@@ -236,7 +236,15 @@ Park opened no package. She wrote the reference on an external continuation shee
 
 The record no longer depended on Marcus remaining conscious.
 
-At 08:03, the medical team moved him toward the ramp. Oxygen tubing crossed his face. One hand stayed open above the blanket where the camera could see it.
+Brooks ordered the three detainees transported separately and the evidence vehicle routed by a fourth path. She gave the ambulance teams no case theory, only the restraint, medical, and security conditions each needed. Marcus was an injured detainee under oxygen, not the custodian once the receipts closed. Elias was a represented employee claiming voluntary participation, not a hostage because Apex had used the word. Julie was an injured former officer under arrest, not the technical authority for the evidence after MPD accepted it.
+
+The distinctions changed how every later person would meet them. No paramedic would be asked to guard the case. No patrol officer would decide whether Elias was free by interpreting his fear. No hospital room would hold one subject beside the objects another agency wanted him to explain.
+
+Park copied the destination hospitals onto a sealed transport sheet and withheld them from the open dispatch channel until the ambulances entered controlled routes. The measure did not hide the detainees from lawful custody. It kept the Apex pursuit network and public lookout from becoming a map to three medical rooms before MPD had secured them.
+
+Ortiz signed the separation plan beneath Brooks. Two names now owned the choice.
+
+At 08:03, the medical team moved Marcus toward the ramp. Oxygen tubing crossed his face. One hand stayed open above the blanket where the camera could see it.
 
 He caught Julie’s eyes.
 
