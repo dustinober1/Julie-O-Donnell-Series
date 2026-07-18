@@ -1,6 +1,6 @@
-07:49:32 EDT / 17:19:32 IST
-
 # Chapter 15 — The Split Record
+
+07:49:32 EDT / 17:19:32 IST
 
 Commercial Garage West of Hartwell
 

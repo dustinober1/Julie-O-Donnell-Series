@@ -1,6 +1,6 @@
-09:12:52 EDT / 18:42:52 IST
-
 # Chapter 18 — The Local Record
+
+09:12:52 EDT / 18:42:52 IST
 
 Forward Post Arjun
 Kashmir

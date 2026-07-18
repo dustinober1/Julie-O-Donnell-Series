@@ -1,6 +1,6 @@
-12:18:04 EDT / 21:48:04 IST
-
 # Chapter 22 — The Release Record
+
+12:18:04 EDT / 21:48:04 IST
 
 Secure MPD Evidence Intake
 Washington, D.C.

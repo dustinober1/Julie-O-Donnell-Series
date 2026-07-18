@@ -1,6 +1,6 @@
-10:44:12 EDT / 20:14:12 IST
-
 # Chapter 20 — The Custody Exception
+
+10:44:12 EDT / 20:14:12 IST
 
 Secure MPD Evidence Intake
 Washington, D.C.

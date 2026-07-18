@@ -1,6 +1,6 @@
-13:12:44 EDT / 22:42:44 IST
-
 # Chapter 23 — The Official Correction
+
+13:12:44 EDT / 22:42:44 IST
 
 Secure MPD Evidence Intake
 Washington, D.C.
