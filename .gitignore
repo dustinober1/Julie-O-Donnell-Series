@@ -1,2 +1,6 @@
 .DS_Store
 ~$*.docx
+
+models/
+.venv/
+*.wav
