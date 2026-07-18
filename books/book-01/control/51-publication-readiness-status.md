@@ -32,6 +32,9 @@
 - [x] GitHub issues #70–#76 opened for the external reviews.
 - [x] Seven ready-to-send external review packets created.
 - [x] Specialist findings intake and adjudication ledger created.
+- [x] Public-source desk review completed across all seven areas.
+- [x] Three source-backed material corrections applied and continuity-validated.
+- [x] Four mechanisms retained at the public-source evidence ceiling.
 - [x] Master timeline created.
 - [x] Evidence/custody ledger created.
 - [x] Injury-capability ledger created.
@@ -49,12 +52,14 @@
 - [x] Compiler tests created.
 - [x] Publication-style diagnostic script created.
 - [x] GitHub Actions publication-readiness workflow created.
+- [x] Legacy manuscript-validation workflow now derives its expected total from the canonical manifest rather than a hardcoded number.
 
 ## Blocking publication
 
 | Gate | Status | Requirement |
 |---|---|---|
 | Canon/control reconciliation | Complete | Automated validator and CI prevent recurrence. |
+| Public-source technical desk review | Complete | Three material corrections verified; four areas retained with explicit limits. |
 | SIGINT / ELINT / provenance review | Unreviewed — #70 | Named qualified reviewer and dated findings required. |
 | Military targeting / UAS / JAG review | Unreviewed — #71 | Named qualified reviewer and dated findings required. |
 | Secure facility / fire / suppression review | Unreviewed — #72 | Named qualified reviewer and dated findings required. |
@@ -62,8 +67,8 @@
 | Federal investigation / evidence-custody review | Unreviewed — #74 | Named qualified reviewer and dated findings required. |
 | Indian Army / artillery / South Asia review | Unreviewed — #75 | Named qualified reviewer and dated findings required. |
 | Trauma medicine / injury continuity review | Unreviewed — #76 | Named qualified reviewer and dated findings required. |
-| Approved technical corrections | Blocked | Begins after specialist findings are adjudicated. |
-| Post-correction continuity pass | Blocked | Begins after technical corrections. |
+| Further external technical corrections | Blocked | Begins after named specialist findings are adjudicated. |
+| Post-external-correction continuity pass | Blocked | Begins after any further technical corrections. |
 | Late-act prose compression | Audited / blocked | Apply only after legal, PKI, and provenance facts stabilize. |
 | Character-voice prose pass | Designed / blocked | Apply after technical language and compression stabilize. |
 | Vance credibility addition | Deferred | Add only after specialist corrections identify the safest early location. |
