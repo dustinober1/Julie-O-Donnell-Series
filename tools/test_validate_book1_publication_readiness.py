@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import hashlib
 import importlib.util
+import sys
 import tempfile
 import unittest
 from pathlib import Path
@@ -12,6 +13,7 @@ MODULE_PATH = Path(__file__).with_name("validate_book1_publication_readiness.py"
 SPEC = importlib.util.spec_from_file_location("book1_validator", MODULE_PATH)
 assert SPEC and SPEC.loader
 validator = importlib.util.module_from_spec(SPEC)
+sys.modules[SPEC.name] = validator
 SPEC.loader.exec_module(validator)
 
 
@@ -50,8 +52,14 @@ class ValidatorFixture:
 
         for number in range(1, 25):
             title = "The Terms of Return" if number == 24 else f"Test Chapter {number}"
+            thermostat = (
+                "\n0088 / COMP-04 / CORE-01\n"
+                "He generated a compressor fault.\n"
+                if number == 4
+                else ""
+            )
             ending = "\nThe bubble stayed centered.\n" if number == 24 else "\nBody text.\n"
-            text = f"# Chapter {number} — {title}\n{ending}"
+            text = f"# Chapter {number} — {title}\n{thermostat}{ending}"
             path = self.chapters / f"chapter-{number:02d}.md"
             path.write_text(text, encoding="utf-8")
             self.entries.append(
@@ -155,7 +163,15 @@ class PublicationReadinessValidatorTests(unittest.TestCase):
 
     def test_manifest_word_count_drift_fails(self) -> None:
         manifest = self.fixture.book / "ACCEPTED_MANUSCRIPT.yaml"
-        text = manifest.read_text(encoding="utf-8").replace("    words: 8", "    words: 9", 1)
+        text = manifest.read_text(encoding="utf-8")
+        old_words = self.fixture.entries[0][2]
+        old_total = sum(entry[2] for entry in self.fixture.entries)
+        text = text.replace(f"    words: {old_words}\n", f"    words: {old_words + 1}\n", 1)
+        text = text.replace(
+            f"total_accepted_words: {old_total}\n",
+            f"total_accepted_words: {old_total + 1}\n",
+            1,
+        )
         manifest.write_text(text, encoding="utf-8")
         with self.assertRaisesRegex(validator.ValidationError, "word-count mismatch"):
             self.validate()
