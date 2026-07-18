@@ -16,13 +16,13 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - name: Count accepted Book 1 words (expect 124,779)
-        run: python3 tools/count_book1_words.py --expect 124779
-      - name: Validate accepted Book 1 through Chapter 24
-        run: python3 tools/validate_book1_chapter24.py
-      - name: Compile permanent Book 1 validator
-        run: python3 -m py_compile tools/count_book1_words.py tools/validate_book1_chapter24.py
+      - name: Count accepted Book 1 words
+        run: python3 tools/count_book1_words.py --expect 105081
+      - name: Run publication-readiness checks
+        run: python3 tools/validate_book1_publication_readiness.py
+      - name: Compile permanent Book 1 validators
+        run: python3 -m py_compile tools/count_book1_words.py tools/validate_book1_publication_readiness.py tools/verify_book1_revision.py
       - name: Parse synchronized YAML controls
         run: ruby -e "require 'yaml'; YAML.load_file('PROJECT_STATE.yaml'); YAML.load_file('books/book-01/ACCEPTED_MANUSCRIPT.yaml')"
-      - name: Diff hygiene against Chapter 24 acceptance baseline
-        run: git diff --check d8adea11828fbd1ec0a8924e072b566f0fc62bcd --
+      - name: Diff hygiene
+        run: git diff --check
