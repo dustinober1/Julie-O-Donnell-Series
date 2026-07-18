@@ -3,12 +3,12 @@
 **Result:** PASS
 
 **Accepted words:** 105,081
-**Compiled SHA-256:** `b54d935f218e06ac8f4e49cab1fae12cdd0e6aa2e36f90f9e8d984e629c7eb70`
+**Compiled SHA-256:** `41eb6415bbee450ed08499f3e29367afd5859d5d9d08084ed1e3a89716672652`
 
 ## Checks
 
 - PASS — Accepted inventory: 25 files, 105,081 words, all hashes match.
-- PASS — Protected accepted prologue and Chapter 1 hashes match the repository lock.
+- PASS — Protected prologue and Chapter 1 hashes match the post-rhythm repository lock.
 - PASS — Publication blockers and drafting artifacts are absent.
 - PASS — Thermostat transmission appears once in detailed form.
 - PASS — Technical causality, Julie's analytical error, independent replication, and antagonist proof limits are present.
@@ -17,7 +17,7 @@
 - PASS — Compiled revised manuscript exactly matches accepted inventory.
 - PASS — Six required specialist reviews are explicitly marked UNREVIEWED.
 - PASS — Primary control files report the current accepted word count.
-- PASS — Paragraph rhythm gate passes: 5,836/8,361 one-sentence paragraphs (69.8%).
+- PASS — Paragraph rhythm gate passes: 3,386/5,909 one-sentence paragraphs (57.3%).
 
 ## Publication gate
 

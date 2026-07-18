@@ -2,13 +2,7 @@
 
 The deadbolt began to retract.
 
-Julie watched the transfer bar.
-
-Eighty-five percent.
-
-The motor inside the steel door turned slowly, drawing the locking cylinder back through the frame. Beyond it, someone issued a quiet command. Shoes repositioned in the corridor.
-
-Marcus stood to the side of the door, his body angled away from the opening.
+Julie watched the transfer bar. Eighty-five percent. The motor inside the steel door turned slowly, drawing the locking cylinder back through the frame. Beyond it, someone issued a quiet command. Shoes repositioned in the corridor. Marcus stood to the side of the door, his body angled away from the opening.
 
 “Do we have enough?” he asked.
 
@@ -18,11 +12,7 @@ Marcus stood to the side of the door, his body angled away from the opening.
 
 “That’s a different question.”
 
-The remote sanitization process climbed to ninety-three percent. Files vanished from the temporary review environment as quickly as Julie’s hidden process could copy them. She opened the evidence-capture manifest: critical packet samples, the validation index, the unexplained ninth checksum, and the software-dependency records had transferred. The full relay-health history remained incomplete, as did the original access log showing who had modified Payload 88 after archival.
-
-Useful evidence, but not decisive—the kind institutions buried beneath requests for more context.
-
-The deadbolt completed its withdrawal, and a second lock released above it. Julie canceled the remaining bulk transfer and entered the command to seal the partial capture.
+The remote sanitization process climbed to ninety-three percent. Files vanished from the temporary review environment as quickly as Julie’s hidden process could copy them. She opened the evidence-capture manifest: critical packet samples, the validation index, the unexplained ninth checksum, and the software-dependency records had transferred. The full relay-health history remained incomplete, as did the original access log showing who had modified Payload 88 after archival. Useful evidence, but not decisive—the kind institutions buried beneath requests for more context. The deadbolt completed its withdrawal, and a second lock released above it. Julie canceled the remaining bulk transfer and entered the command to seal the partial capture.
 
 A warning filled the screen:
 
@@ -30,9 +20,7 @@ INCOMPLETE ARCHIVE
 FINALIZATION MAY EXCLUDE ACTIVE FILE BLOCKS
 PROCEED?
 
-Julie confirmed. The terminal began writing a cryptographic manifest to the evidence drive. Until that process finished, removing the device could corrupt the directory and make every copied file vulnerable to challenge.
-
-The door moved inward half an inch, and a security officer’s voice came through the gap.
+Julie confirmed. The terminal began writing a cryptographic manifest to the evidence drive. Until that process finished, removing the device could corrupt the directory and make every copied file vulnerable to challenge. The door moved inward half an inch, and a security officer’s voice came through the gap.
 
 “Colonel Reed, step away from the door.”
 
@@ -42,9 +30,7 @@ ONE OF FOUR BLOCKS.
 
 “Colonel, acknowledge.”
 
-Marcus looked at Julie. She held up one finger.
-
-The door pressed against Marcus’s shoulder. He allowed it to open another inch, then planted his foot against the base.
+Marcus looked at Julie. She held up one finger. The door pressed against Marcus’s shoulder. He allowed it to open another inch, then planted his foot against the base.
 
 “I acknowledge that you are attempting to enter a classified review room while government evidence is being preserved,” he said. “Identify yourself and state your authority.”
 
@@ -60,9 +46,7 @@ The door pressed against Marcus’s shoulder. He allowed it to open another inch
 
 TWO OF FOUR BLOCKS.
 
-Julie could hear at least three people behind Mercer. No weapons were being drawn, which was almost worse. A gun would have clarified the situation; procedure allowed everyone to pretend nothing unlawful was happening.
-
-Sarah Chen spoke from outside the door.
+Julie could hear at least three people behind Mercer. No weapons were being drawn, which was almost worse. A gun would have clarified the situation; procedure allowed everyone to pretend nothing unlawful was happening. Sarah Chen spoke from outside the door.
 
 “Marcus, stop making this harder than it needs to be.”
 
@@ -82,9 +66,7 @@ Sarah did not answer.
 
 THREE OF FOUR BLOCKS.
 
-The door pushed harder against Marcus. He looked back at Julie. She shook her head.
-
-Not yet.
+The door pushed harder against Marcus. He looked back at Julie. She shook her head. Not yet.
 
 “Colonel,” Mercer said, “if you continue obstructing the door, we will document your conduct as resistance to a lawful security directive.”
 
@@ -94,11 +76,7 @@ Not yet.
 
 “Name the government official overseeing the review.”
 
-Silence answered him.
-
-The final manifest block began writing. Onscreen, the remote sanitization reached COMPLETE, and every directory in the visible partition disappeared. Only the finalization window remained.
-
-The door opened another inch. Julie reached for the cable.
+Silence answered him. The final manifest block began writing. Onscreen, the remote sanitization reached COMPLETE, and every directory in the visible partition disappeared. Only the finalization window remained. The door opened another inch. Julie reached for the cable.
 
 “Wait,” Marcus said.
 
@@ -110,9 +88,7 @@ A gloved hand appeared through the gap. Marcus drove his shoulder against the do
 
 “Last warning, Colonel.”
 
-Julie watched the gray verification wheel rotate.
-
-Once.
+Julie watched the gray verification wheel rotate. Once.
 
 Twice.
 
@@ -125,13 +101,9 @@ She pulled the cable. The screen went black.
 
 “Done.”
 
-Marcus stepped away, and the door opened immediately.
+Marcus stepped away, and the door opened immediately. Two Apex security officers entered in dark uniforms and lightweight body armor, sidearms holstered. One carried a compact electroshock weapon low beside his thigh. Sarah stood behind them with her tablet against her chest, her hair still arranged as if the building had not just locked two people inside a dark room. A third officer waited in the corridor.
 
-Two Apex security officers entered in dark uniforms and lightweight body armor, sidearms holstered. One carried a compact electroshock weapon low beside his thigh. Sarah stood behind them with her tablet against her chest, her hair still arranged as if the building had not just locked two people inside a dark room. A third officer waited in the corridor.
-
-Mercer was broad-shouldered and controlled, the kind of man who expected compliance before he needed force. He looked first at Marcus’s hands, then Julie’s, then the aluminum case. The sequence mattered. He was treating the room as a security event, not a battlefield, and every order he gave was shaped to remain defensible later.
-
-Mercer’s eyes settled on the case.
+Mercer was broad-shouldered and controlled, the kind of man who expected compliance before he needed force. He looked first at Marcus’s hands, then Julie’s, then the aluminum case. The sequence mattered. He was treating the room as a security event, not a battlefield, and every order he gave was shaped to remain defensible later. Mercer’s eyes settled on the case.
 
 “Hands where I can see them.”
 
@@ -157,9 +129,7 @@ Sarah stepped forward. “That won’t be necessary. We quarantined a compromise
 
 “Before or after Julie found Payload Eighty-Eight?”
 
-For the first time, Sarah’s control slipped. Her eyes shifted toward Julie for a fraction of a second.
-
-It was enough.
+For the first time, Sarah’s control slipped. Her eyes shifted toward Julie for a fraction of a second. It was enough.
 
 “You knew the package number,” Julie said.
 
@@ -181,11 +151,7 @@ Mercer stepped between them. “This discussion is over. You will both accompany
 
 “It is an administrative hold.”
 
-Mercer made the consequence explicit: they could cooperate or Apex would refer the matter to federal law enforcement as classified-data theft.
-
-Marcus lowered his hands. Mercer’s grip moved toward the electroshock weapon.
-
-Sarah pointed to the case. “Leave that here.”
+Mercer made the consequence explicit: they could cooperate or Apex would refer the matter to federal law enforcement as classified-data theft. Marcus lowered his hands. Mercer’s grip moved toward the electroshock weapon. Sarah pointed to the case. “Leave that here.”
 
 “It contains potential evidence of intelligence manipulation,” Marcus said.
 
@@ -193,9 +159,7 @@ Sarah pointed to the case. “Leave that here.”
 
 “By the subject of the determination.”
 
-Sarah’s gaze hardened. “You can continue escalating this, or you can come upstairs, make a statement, and allow the appropriate offices to resolve it.”
-
-Julie looked at the ceiling camera. Its indicator was dark, though it had been green when they entered.
+Sarah’s gaze hardened. “You can continue escalating this, or you can come upstairs, make a statement, and allow the appropriate offices to resolve it.” Julie looked at the ceiling camera. Its indicator was dark, though it had been green when they entered.
 
 “Why did you turn off the room recording?”
 
@@ -213,39 +177,25 @@ Mercer reached for the case, but Marcus took the handle first.
 
 “Then you are not touching it.”
 
-Mercer looked to Sarah. An undocumented seizure could later be described as destruction of government evidence. Allowing Marcus to retain the case risked letting proof leave the facility.
-
-Sarah chose a third option.
+Mercer looked to Sarah. An undocumented seizure could later be described as destruction of government evidence. Allowing Marcus to retain the case risked letting proof leave the facility. Sarah chose a third option.
 
 “Escort them to Conference Room Four. Colonel Reed may retain the case until counsel arrives.”
 
-Marcus demanded Army counsel rather than Apex lawyers. Sarah answered only that he could request whoever he liked once they reached the room.
+Marcus demanded Army counsel rather than Apex lawyers. Sarah answered only that he could request whoever he liked once they reached the room. A room controlled by Apex. Telephones controlled by Apex. Counsel contacted after the company had time to define the record. The official version was already being written.
 
-A room controlled by Apex. Telephones controlled by Apex. Counsel contacted after the company had time to define the record.
-
-The official version was already being written.
-
-Julie rose. “Lead the way.”
-
-The corridor outside Room 402B was lit by emergency fixtures. Mercer walked ahead while Sarah followed behind Marcus and Julie, flanked by the other officers. Julie counted four offices, a secure records room, a service corridor, and the elevator lobby.
-
-No employees.
+Julie rose. “Lead the way.” The corridor outside Room 402B was lit by emergency fixtures. Mercer walked ahead while Sarah followed behind Marcus and Julie, flanked by the other officers. Julie counted four offices, a secure records room, a service corridor, and the elevator lobby. No employees.
 
 “You evacuated the floor,” Julie said. “You didn’t want witnesses.”
 
 “We reduced unnecessary personnel movement during the incident. We didn’t want additional exposure to classified material.”
 
-At the elevator lobby, Mercer’s badge produced no response. The elevators remained isolated in Sector Four. An officer checked his radio, received a burst of static, then repeated the instruction to hold the “subjects” at the second-floor internal muster area. The word did more than identify them. It converted a technical review into custody without requiring anyone to say they were detained.
-
-Marcus caught the word.
+At the elevator lobby, Mercer’s badge produced no response. The elevators remained isolated in Sector Four. An officer checked his radio, received a burst of static, then repeated the instruction to hold the “subjects” at the second-floor internal muster area. The word did more than identify them. It converted a technical review into custody without requiring anyone to say they were detained. Marcus caught the word.
 
 “We’re not going to a conference room. Conference Room Four is on six.”
 
 “The location changed,” Sarah said as she entered Stairwell C. “The muster area has secure communications.”
 
-Bare concrete and red emergency lights replaced the carpeted corridor. Julie checked the evacuation map: fourth-floor Room 402B, third-floor parking skybridge, second-floor internal muster area behind another controlled boundary.
-
-At the third-floor landing, she stopped beside a manual fire-alarm station. The independent life-safety panel remained active.
+Bare concrete and red emergency lights replaced the carpeted corridor. Julie checked the evacuation map: fourth-floor Room 402B, third-floor parking skybridge, second-floor internal muster area behind another controlled boundary. At the third-floor landing, she stopped beside a manual fire-alarm station. The independent life-safety panel remained active.
 
 SECTOR 4 AIR-HANDLING FAULT
 ACKNOWLEDGMENT PENDING
@@ -262,11 +212,7 @@ Marcus understood a fraction before Sarah did.
 
 “Julie.”
 
-She pulled the handle.
-
-A siren erupted through the concrete shaft. White strobes flashed, and a recorded voice ordered immediate evacuation by the stairs.
-
-Mercer seized Julie’s wrist.
+She pulled the handle. A siren erupted through the concrete shaft. White strobes flashed, and a recorded voice ordered immediate evacuation by the stairs. Mercer seized Julie’s wrist.
 
 “What the hell are you doing?”
 
@@ -284,39 +230,21 @@ Sarah reached for the reset key on her lanyard, but Marcus stepped between her a
 
 “The fire department won’t care. They’ll care why your secure floor lost ventilation while occupied.”
 
-Doors opened above and below. Employees entered the stairwell in uneven groups—engineers with emergency bags, office staff carrying coats, a woman hauling an oxygen kit from a wall cabinet. The controlled escort dissolved into evacuation. Mercer released Julie’s wrist and ordered his officers to keep them moving toward the ground-floor assembly point, but every new body made the formation less credible and the witnesses harder to manage.
-
-Sarah leaned close to Marcus. “You think an alarm makes you safe?”
+Doors opened above and below. Employees entered the stairwell in uneven groups—engineers with emergency bags, office staff carrying coats, a woman hauling an oxygen kit from a wall cabinet. The controlled escort dissolved into evacuation. Mercer released Julie’s wrist and ordered his officers to keep them moving toward the ground-floor assembly point, but every new body made the formation less credible and the witnesses harder to manage. Sarah leaned close to Marcus. “You think an alarm makes you safe?”
 
 “No. I think witnesses make you careful.”
 
-At the third-floor landing, Julie reached for the crash bar marked PARKING SKYBRIDGE / EMERGENCY EGRESS.
-
-Mercer caught her shoulder. “Ground floor.”
+At the third-floor landing, Julie reached for the crash bar marked PARKING SKYBRIDGE / EMERGENCY EGRESS. Mercer caught her shoulder. “Ground floor.”
 
 “My vehicle is on three.”
 
 “The parking bridge is not an authorized assembly route,” Sarah said.
 
-Julie pressed the crash bar. The door moved half an inch before Mercer pulled her back.
-
-Marcus set down the case. Mercer’s attention flicked toward it.
-
-That was the mistake.
-
-Marcus drove his forearm between Mercer’s wrist and the electroshock weapon, redirecting the muzzle. The cartridge discharged with a flat crack. Two barbed probes struck the emergency map and snapped against its plastic cover.
-
-The stairwell erupted in shouting. Marcus twisted Mercer’s arm until the weapon dropped, shoved him against the handrail, and grabbed the case.
+Julie pressed the crash bar. The door moved half an inch before Mercer pulled her back. Marcus set down the case. Mercer’s attention flicked toward it. That was the mistake. Marcus drove his forearm between Mercer’s wrist and the electroshock weapon, redirecting the muzzle. The cartridge discharged with a flat crack. Two barbed probes struck the emergency map and snapped against its plastic cover. The stairwell erupted in shouting. Marcus twisted Mercer’s arm until the weapon dropped, shoved him against the handrail, and grabbed the case.
 
 “Go.”
 
-Julie hit the crash bar. They ran into the third-floor corridor as Sarah ordered security to “contain the bridge”—language chosen for the recording.
-
-The biometric turnstiles had retracted into emergency-egress position. Julie and Marcus joined the flow across the skybridge. White strobes multiplied their reflections across the glass. Below them, a county fire engine turned into the campus entrance as the outer bollards retracted. Guards who had controlled every vehicle entering the campus now had to yield to an emergency system whose records would exist outside Apex.
-
-The alarm had reached someone Apex did not employ.
-
-Julie cut toward the visitor parking section. Two officers pushed through the evacuees behind them.
+Julie hit the crash bar. They ran into the third-floor corridor as Sarah ordered security to “contain the bridge”—language chosen for the recording. The biometric turnstiles had retracted into emergency-egress position. Julie and Marcus joined the flow across the skybridge. White strobes multiplied their reflections across the glass. Below them, a county fire engine turned into the campus entrance as the outer bollards retracted. Guards who had controlled every vehicle entering the campus now had to yield to an emergency system whose records would exist outside Apex. The alarm had reached someone Apex did not employ. Julie cut toward the visitor parking section. Two officers pushed through the evacuees behind them.
 
 “Keys?” Marcus asked.
 
@@ -326,11 +254,7 @@ Julie pulled the mechanical key from her pocket. “They kept the electronic fob
 
 “It’s a truck, not a space program.”
 
-She unlocked the Ford manually. Marcus climbed into the passenger side with the case. The engine turned once and failed.
-
-The officers were twenty yards away.
-
-Julie tried again. The V8 caught with a rough growl.
+She unlocked the Ford manually. Marcus climbed into the passenger side with the case. The engine turned once and failed. The officers were twenty yards away. Julie tried again. The V8 caught with a rough growl.
 
 “Any chance this thing has a quiet setting?”
 
@@ -346,13 +270,7 @@ Marcus lowered his window. “Move away from the vehicle.”
 
 “Then call federal law enforcement. They can meet us somewhere your company doesn’t own.”
 
-The officer drew an electroshock weapon. Julie shifted into drive.
-
-She did not accelerate toward him.
-
-He stepped aside.
-
-Julie drove down the ramp. Sarah was climbing into a black security SUV. Evacuating employees clogged the lower levels, forcing Julie to use the outer spiral and pass two stopped cars before their drivers understood what she was doing.
+The officer drew an electroshock weapon. Julie shifted into drive. She did not accelerate toward him. He stepped aside. Julie drove down the ramp. Sarah was climbing into a black security SUV. Evacuating employees clogged the lower levels, forcing Julie to use the outer spiral and pass two stopped cars before their drivers understood what she was doing.
 
 At the exit, raised steel bollards blocked the outbound lane. The inbound lane stood open for an arriving fire engine. Julie crossed the painted divider and slotted the Ford behind it, close enough to disappear in red light and diesel exhaust. The checkpoint guards could not raise the bollards without stopping the emergency response.
 
@@ -379,23 +297,13 @@ CONTACT SECURITY OPERATIONS
 
 “Someone pushed the suspension beyond Apex. Vance doesn’t need to revoke your commission. He needs a government official to flag your token while they investigate.”
 
-The handset rejected Marcus’s biometrics and dropped both an emergency attempt and an unclassified call.
-
-He wanted to reach Hackett face-to-face. Julie reduced the problem to what mattered: entering the Pentagon with a revoked token, classified data, and an Apex report already defining their escape would result in detention and seizure before anyone examined the files.
+The handset rejected Marcus’s biometrics and dropped both an emergency attempt and an unclassified call. He wanted to reach Hackett face-to-face. Julie reduced the problem to what mattered: entering the Pentagon with a revoked token, classified data, and an Apex report already defining their escape would result in detention and seizure before anyone examined the files.
 
 “We inspect what survived first,” she said. “Somewhere forgettable.”
 
 The Apex SUV stayed behind them. At a yellow light, Julie held her speed until the last safe moment, then braked hard behind a delivery van. The tail swerved into the adjacent lane to avoid being trapped. Julie turned through a shopping-center entrance before the light changed, crossed the parking lot, passed behind a grocery store, and entered a service lane between loading docks. The lane emptied onto a local road running parallel to the parkway.
 
-No black vehicle followed.
-
-That did not mean they had lost it. The driver could circle ahead, surrender the visible tail, or let traffic cameras continue the work.
-
-After two miles, Marcus laid the dead phone on the console. Julie’s phone and electronic fob remained at Apex. She still had the mechanical key. Apex knew the truck and her Culpeper address.
-
-The farm appeared in her mind: listing porch, damaged fence, horses waiting for evening.
-
-They needed only a map.
+No black vehicle followed. That did not mean they had lost it. The driver could circle ahead, surrender the visible tail, or let traffic cameras continue the work. After two miles, Marcus laid the dead phone on the console. Julie’s phone and electronic fob remained at Apex. She still had the mechanical key. Apex knew the truck and her Culpeper address. The farm appeared in her mind: listing porch, damaged fence, horses waiting for evening. They needed only a map.
 
 “We don’t go to Culpeper.”
 
@@ -417,9 +325,7 @@ Kashmir
 
 22:18 Indian Standard Time
 
-Major Ananya Sharma read the American assessment twice: first as an officer, then as someone who had spent eleven winters watching machines misunderstand mountains. Wind drove ice against the armored windows. The valley below had disappeared behind cloud and darkness.
-
-Lieutenant Sameer Qureshi stood by the console.
+Major Ananya Sharma read the American assessment twice: first as an officer, then as someone who had spent eleven winters watching machines misunderstand mountains. Wind drove ice against the armored windows. The valley below had disappeared behind cloud and darkness. Lieutenant Sameer Qureshi stood by the console.
 
 “Argus confidence is ninety-nine point eight percent.”
 

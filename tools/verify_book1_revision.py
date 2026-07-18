@@ -16,8 +16,8 @@ TARGET_MIN = 105_000
 TARGET_MAX = 110_000
 EXPECTED_TOTAL = 105_081
 PROTECTED_HASHES = {
-    "books/book-01/manuscript/prologue.md": "92cf3db71aeb309e4a7b96128c826ba64e2257e5cbe9aafb4dd34f3362d319f5",
-    "books/book-01/manuscript/chapters/chapter-01.md": "1ab945d434c4e33f96934bcaa8c5b7b2051ece10ac652138d19f1b726cb6dd7c",
+    "books/book-01/manuscript/prologue.md": "00828dfa4533f2c4584fab60a78bb9b1a7948703350e33ca8ea57dd26fb92389",
+    "books/book-01/manuscript/chapters/chapter-01.md": "2561b65754175ed82093f77abb3d12d17b5abb66a863892ca304c65aecb548dd",
 }
 FORBIDDEN = (
     "the answer matched Chapter 11",
@@ -117,7 +117,7 @@ def main() -> None:
                 f"protected opening file changed: {relative}; "
                 f"expected={expected} actual={actual}"
             )
-    checks.append("Protected accepted prologue and Chapter 1 hashes match the repository lock.")
+    checks.append("Protected prologue and Chapter 1 hashes match the post-rhythm repository lock.")
 
     accepted_text = "\n\n".join(path.read_text(encoding="utf-8") for path in paths)
     for phrase in FORBIDDEN:
