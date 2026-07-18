@@ -283,59 +283,60 @@ The validated source declaration at 99.8 percent.
 
 The external counter-battery support product waiting at the far end.
 
-The first three objects contained thousands of packet blocks. The console highlighted several possible ranges and asked her to select the disputed source boundary.
+The first three objects contained thousands of packet blocks. Elias opened the Revision Eight irregularity map beside the deployed source-correction object.
 
-Elias reached for the largest one.
+His approved package carried different timing distributions for command roles, weather-dependent loss, unequal equipment drift, terrain-shadow failures, and maintenance histories that changed the radios independently. The post-archive derivative had passed those variations into SIGMA-NORMALIZE-4 as correctable collection damage. SIGMA rebuilt the target bursts against one reference envelope, tightened the acknowledgments toward eleven-point-two seconds, flattened the device drift, and propagated the same reconstructed carrier structure across packets captured under different physical conditions.
+
+The clean feed was not Revision Eight. It was Revision Eight after the parts that made it believable had been processed as errors.
+
+A second rule sat beneath the transformation.
+
+CONFLICTING OBSERVATIONS SHARING RECONSTRUCTED CARRIER: ROUTE TO CORRECTION-DEPENDENT SIDE TABLE
+
+“That is the mask,” Elias said. “Anything that disturbed the false formation but touched its carrier family was diverted before the model saw it.”
+
+The console offered three disputed boundaries: the complete relay, the source-correction lineage and every dependent table, or only packet blocks directly matching VAL-088.
+
+Elias reached for the complete relay.
 
 Julie stopped his hand.
 
-“That suspends the whole relay.”
+“That discards everything collected through it.”
 
-“It’s the fastest defensible range.”
+“It is the fastest boundary the recovery rule already understands.”
 
-“It discards everything collected through it, including anything real.”
+“We are not erasing a mountain because someone poisoned one path.”
 
-“We have forty seconds.”
+She expanded the raw layer. The familiar emissions appeared every eleven-point-two seconds while weather variation moved through surrounding traffic in ragged bands. The target remained impossibly smooth.
 
-“Then don’t waste one asking me to erase evidence.”
-
-She expanded the raw layer.
-
-The familiar emissions appeared as a repeating series of peaks spaced eleven-point-two seconds apart. Weather variation moved through the surrounding traffic in ragged bands. The target signal held its shape with the same impossible smoothness she had seen in Room 402B.
-
-Julie isolated the carrier structure.
-
-Seven small fluctuations repeated near the beginning of each synthetic packet. The same seven returned seventeen milliseconds later. Identical, every time.
-
-She dragged the comparison against the sealed blocks in the case.
+Julie isolated the carrier structure and compared it with the sealed VAL-088 blocks.
 
 MATCHING STRUCTURE: VAL-088
 
-The console drew a boundary around the first packet carrying the repeated structure. It extended through the source-correction object and into the model-derived track set.
+A packet-only boundary was precise but left some cached products connected through the source-correction object's internal dependency tables. Walking every dependency by hand would take longer than the release clock allowed.
 
-Julie shortened the far edge.
+Julie selected the middle option: source-correction lineage and dependent tables. It would suspend every product built through the poisoned correction while leaving the relay’s primary raw stream intact.
 
-Elias looked at her. “Why?”
+Elias read the scope. “The dependent side table includes observations the correction process already classified as self-noise.”
 
-“The correction object kept running after the synthetic bursts began. I want the observed packets beyond the last match preserved.”
+“The primary raw source stays preserved.”
 
-“That leaves contaminated reconstruction in the workspace.”
+“The table may be the only index telling us which raw blocks were diverted.”
 
-“It leaves it available for comparison. We invalidate what cannot survive the comparison. We do not make the rest disappear because it is inconvenient.”
-
-The clock reached 00:27.
-
-Behind them, the gate bolts gave a deep answering knock.
+The clock reached 00:27. Behind them, the gate bolts gave a deep answering knock.
 
 Marcus said, “Stage two.”
 
-The console accepted Julie’s narrowed boundary.
+Julie looked at the release queue and confirmed the lineage boundary.
 
 DISPUTED RANGE SELECTED
-RAW OBSERVATIONS: PRESERVED
+PRIMARY RAW OBSERVATIONS: PRESERVED
+CORRECTION-DEPENDENT OBSERVATIONS: DEFERRED WITH CHALLENGED LINEAGE
 RECONSTRUCTED SIGNAL: CHALLENGED
 VALIDATION-DERIVED ARTIFACTS: CHALLENGED
 DOWNSTREAM CACHED CONCLUSIONS: INCLUDED
+
+She saw deferred and treated it as preserved for later review. Under the clock, the distinction looked smaller than allowing the firing product to leave.
 
 Elias opened the recovery rules stored on his board. There were six, each signed months earlier for adversarial-validation cleanup. He selected one labeled RESTORE SOURCE LABELS AND RECOMPUTE DERIVATIONS.
 
@@ -434,11 +435,11 @@ The clock fell to nine.
 
 Julie read the final action one more time.
 
-The selected boundary began with the first physically impossible carrier structure. It preserved the raw packets before and after it. It restored the labels Elias’s team had placed on Payload 88. It included every model assumption and cached targeting conclusion derived from the poisoned layer.
+The selected boundary began with the source-correction object built from the physically impossible carrier structure. It preserved the primary relay stream, restored the labels Elias’s team had placed on Payload 88, and included every model assumption and cached targeting conclusion derived through the poisoned correction. It also deferred the correction-dependent observation table Julie had decided could wait.
 
-It did not certify that no enemy movement existed.
+The action did not certify that no enemy movement existed.
 
-That was the point.
+It suspended a weapon product built from a source whose provenance had already failed. That was enough for the immediate decision and less complete than Julie wanted to admit.
 
 Six years earlier, the command structure had concealed uncertainty until a weapon was already away. Now the possibility of a genuine threat was being used to preserve manufactured certainty.
 
@@ -656,27 +657,56 @@ No one celebrated.
 The system began the post-reconciliation review automatically. A new pane opened beneath the withdrawn assessment.
 
 GENUINE SOURCE ACTIVITY WILL BE REEVALUATED
-RETAINED RAW OBSERVATIONS: PRESENT
+RETAINED PRIMARY RAW OBSERVATIONS: PRESENT
+CORRECTION-DEPENDENT OBSERVATIONS: DEFERRED / 14 EVENT REFERENCES
 
 Julie moved back to the console.
 
-Elias looked up. “The synthetic layer is gone.”
+Elias looked up. “Why are fourteen references deferred?”
 
-“The poisoned layer is excluded,” she said. “That is not the same as nothing being there.”
+“The lineage boundary.”
 
-She opened the retained observations.
+“You said the raw source would remain.”
 
-The primary artillery sector was almost empty. Weather noise returned in irregular bands. Civilian communications drifted with the storm. A few heavy-engine signatures appeared on known roads, none arranged into the offensive formation Argus had projected.
+“It did.”
 
-At the edge of the map, a group of low-confidence events blinked into view.
+“The raw blocks did. The index telling us which blocks the correction object diverted is inside the challenged side table.” Elias pulled the boundary record onto the second screen. “The system is reevaluating only the primary stream. Your scope temporarily carried genuine observations out with the poisoned dependencies.”
 
-They were nowhere near Sector Zebra-Nine.
+Julie looked at the words she had accepted under the clock.
 
-Julie expanded them.
+CORRECTION-DEPENDENT OBSERVATIONS: DEFERRED WITH CHALLENGED LINEAGE.
+
+She had preserved the raw material and suppressed the map required to find part of it. The method had been defensible for stopping release. The first result was still incomplete because of her choice.
+
+“I made the boundary too broad.”
+
+Marcus looked at the sealed gate. “Can you fix it without restarting the release?”
+
+Elias opened the sealed recovery record. “We cannot change the original action. We can append a supplemental raw-observation review against the preserved event references. It will carry the first limitation and whoever authorizes the correction.”
+
+“Do it,” Julie said.
+
+“Your name goes on the analytic scope.”
+
+“It should.”
+
+She selected:
+
+SUPPLEMENTAL REVIEW — DEFERRED CORRECTION-DEPENDENT OBSERVATIONS
+INITIAL RANGE LIMITATION: OVERBROAD LINEAGE BOUNDARY
+ANALYTIC AUTHORITY: O'DONNELL, JULIE M.
+AUTHOR VALIDATION: THORNE, ELIAS M.
+EXTERNAL RELEASE STATE: REMAINS SUSPENDED
+
+Elias authenticated the author side. The console walked the fourteen references back to the preserved primary blocks. Forty-three seconds passed while the gate override advanced and any movement on the mountain continued without them seeing it.
+
+The primary artillery sector remained almost empty. Weather noise returned in irregular bands. Civilian communications drifted with the storm. A few heavy-engine signatures appeared on known roads, none arranged into the offensive formation Argus had projected.
+
+Then the deferred references aligned at the edge of the map, nowhere near Sector Zebra-Nine.
 
 Short thermal signatures appeared one at a time beneath a ridge line. They lasted between two and four seconds, then vanished behind terrain. A vibration sensor farther east recorded brief weight transfers too light for vehicles and too regular for loose rock. Three narrow communications bursts sat almost entirely beneath Payload 88’s carrier structure.
 
-Before reconciliation, each had been marked as duplicate contamination and removed by the source-correction object.
+Before reconciliation, each had been marked as duplicate contamination and removed by the source-correction object. Julie’s first boundary had left them deferred for another forty-three seconds.
 
 Now they aligned.
 
@@ -686,11 +716,13 @@ People.
 
 Five, perhaps six, moving in intervals that kept them from occupying the same sensor field at once.
 
-Elias leaned closer. “That should not have been filtered.”
+Elias leaned closer. “That should never have been classified as self-noise.”
 
 “It destabilized the false movement model,” Julie said.
 
-“The correction routine treated anything sharing its carrier structure as self-noise.” He touched the lineage map. “Payload Eighty-Eight did not only add the artillery pattern. The production object used the pattern as a mask.”
+“The correction routine treated anything sharing its carrier structure as contamination. Payload Eighty-Eight did not only add the artillery pattern. The production object used the pattern as a mask.”
+
+The supplemental review sealed beside the original recovery record without changing it. Julie's overbroad boundary and Elias's correction would travel together.
 
 Julie brought up the timestamps.
 
@@ -724,7 +756,7 @@ Julie marked the last confirmed observation. It lay beyond the crossing line, in
 
 “How old is the last contact?” Marcus asked.
 
-“Less than three minutes.”
+Julie compared the source time with the enclave clock. “Almost four minutes. Forty-three seconds of that belongs to my first boundary.”
 
 “And distance?”
 

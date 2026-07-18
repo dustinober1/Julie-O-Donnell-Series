@@ -87,7 +87,11 @@ PROPRIETARY — MODEL ASSURANCE DIVISION
 ACCESS DENIED
 OUTSIDE AUTHORIZED REVIEW SCOPE
 
-The live warning belonged to the government. The test material that might explain it belonged to the contractor. Even Marcus’s program-oversight credential showed temporary authority only over government operational data. The boundary was legally clean and operationally absurd: the government could act on the warning, but the officer responsible for the warning could not inspect the contractor material most likely to explain why it was wrong. Apex did not need to falsify a denial. It needed only to enforce ownership until the certification clock expired.
+The live warning belonged to the government. The test material that might explain it belonged to the contractor. Even Marcus’s program-oversight credential showed temporary authority only over government operational data. The boundary was legally clean and operationally absurd: the government could act on the warning, but the officer responsible for the warning could not inspect the contractor material most likely to explain why it was wrong.
+
+The contract divided sovereignty from control. The government owned the program requirement, classification authority, and operational decision. Apex operated Building Three, the ingestion architecture, validation archive, production release workflow, facility security, credential administration, and first-line incident response under delegated authorities distributed across several agreements. No single Apex role was sovereign. Together they let the company control the room, the data path, the access log, and the first account of a failure before a government officer could invoke a separate channel. The alternate government routes still entered through infrastructure Apex maintained.
+
+Apex did not need to falsify a denial. It needed only to enforce the accepted boundaries until the certification clock expired.
 
 He submitted an immediate request.
 
@@ -129,6 +133,12 @@ Julie looked at the repeated carrier pattern. “It missed this one.”
 Marcus leaned toward the speaker. “We are discussing a possible false strategic warning, not a licensing dispute.”
 
 “Technical boundaries do not disappear because you dislike them.”
+
+Marcus said, “Put this on the record: Director Vance changed the consultant scope after the vehicle entered the campus, and his office is the approval authority now withholding the comparison set.”
+
+Sarah paused long enough for the compliance recorder to remain audible. “The access modification and approval chain are already in the session record. I will add your stated operational basis. I will not characterize the anomaly as sabotage, employee action, or source contamination until an authorized comparison supports one of those terms.”
+
+The answer protected Apex’s scope and refused a conclusion Vance could later place in her mouth.
 
 The intercom went silent.
 
@@ -229,6 +239,8 @@ The ingestion map showed the package feeding directly into Argus through a Pakis
 INDIAN NORTHERN COMMAND
 SOURCE CERTIFICATION: 16:30 EDT
 COUNTER-BATTERY SUPPORT COMMIT: 05:00 EDT
+
+The route belonged to a classified bilateral pilot established after three warning failures along the Line of Control. Argus did not command Indian artillery, and the United States did not hold the firing key. The pilot delivered a machine-readable American threat assessment, supporting coordinates, confidence state, and counter-battery product into Northern Command's planning network. Indian commanders retained weapons authority. In practice, a validated American packet could place ammunition at the guns and firing data one human decision from execution before contradictory collection crossed the same bureaucracy.
 
 Elias pushed away hard enough for his chair to strike the workstation behind him. The sound vanished into the cooling noise. The building did not react like a place surprised by the discovery.
 
@@ -418,6 +430,8 @@ Marcus did not recognize the name.
 Julie did.
 
 One surviving report from the Anwar investigation had referenced SIGMA-NORMALIZE-2. Reconstruction was not malicious by itself. Every sensor system estimated missing or damaged information; without that work, weather and hardware failure could make real collection unusable. The danger came from sequence. Applied after authentic collection, normalization repaired damage. Applied to synthetic telemetry before provenance was settled, it could supply physical mess the source had never experienced or remove inconsistencies that might expose it. The same tool could preserve truth or make a lie look weathered, depending on what entered first.
+
+Revision Eight complicated the hypothesis. Elias’s archived index described a package built to include weather response, equipment aging, terrain masking, and human timing error. The live feed displayed the opposite: exact intervals, repeated carrier structure, and a path through granite. If the deployed object was truly derived from Revision Eight, something after archival had reclassified the package’s deliberate irregularities as collection damage. A reconstruction routine could then smooth the human timing, flatten the equipment drift, and rebuild multiple packets from one reference envelope. That would make the deployed derivative cleaner than the test Elias authored and explain why the carrier scar repeated across changing weather. Julie did not yet have the ninth object or SIGMA change history to prove the transformation.
 
 Six years earlier, training-archive noise had been wrapped inside a live signal. Now another validation package had entered another Pakistan feed through a newer version of the same reconstruction family.
 
