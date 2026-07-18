@@ -37,7 +37,7 @@ jobs:
           python3 tools/apply_book1_causality_revision.py
           python3 tools/apply_book1_scene_depth_revision.py
           python3 tools/apply_book1_completion_depth.py
-          python3 tools/apply_book1_target_depth.py
+          python3 tools/run_book1_target_depth_tolerant.py
       - name: Verify diff hygiene
         if: steps.gate.outputs.run == 'true'
         run: git diff --check
