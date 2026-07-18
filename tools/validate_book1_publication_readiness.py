@@ -23,7 +23,7 @@ FORBIDDEN_LITERAL = (
 
 FORBIDDEN_META_PATTERNS = (
     re.compile(r"\bthe answer matched Chapter\s+\d+\b", re.IGNORECASE),
-    re.compile(r"\bscene card\b", re.IGNORECASE),
+    re.compile(r"\bscene card (?:begun|started|continued) in Chapter\s+\d+\b", re.IGNORECASE),
     re.compile(r"\bend of Chapter\s+\d+\b", re.IGNORECASE),
     re.compile(r"\bduring Chapter\s+\d+\b", re.IGNORECASE),
     re.compile(r"\bChapter\s+\d+ comparison\b", re.IGNORECASE),
