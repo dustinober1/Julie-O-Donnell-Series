@@ -33,7 +33,7 @@ jobs:
       - name: Compile accepted manuscript
         if: steps.gate.outputs.run == 'true'
         run: python3 tools/compile_book1_accepted.py
-      - name: Register generated compilation
+      - name: Synchronize canonical inventory and controls
         if: steps.gate.outputs.run == 'true'
         run: python3 tools/register_book1_compiled_output.py
       - name: Run publication-readiness validator
@@ -45,10 +45,20 @@ jobs:
       - name: Verify diff hygiene
         if: steps.gate.outputs.run == 'true'
         run: git diff --check
-      - name: Commit verified compilation and report
+      - name: Commit verified compilation, controls, and report
         if: steps.gate.outputs.run == 'true'
         run: |
-          git add books/book-01/compiled/current/Julie_O_Donnell_Book_1_REVISED.md books/book-01/ACCEPTED_MANUSCRIPT.yaml artifacts/book1-final-verification.md
+          git add \
+            README.md \
+            PROJECT_STATE.yaml \
+            books/book-01/ACCEPTED_MANUSCRIPT.yaml \
+            books/book-01/compiled/current/Julie_O_Donnell_Book_1_REVISED.md \
+            books/book-01/manuscript/STATUS.md \
+            books/book-01/control/00-overview.md \
+            books/book-01/control/16-chapter-by-chapter-status-record.md \
+            books/book-01/control/24-thread-disposition-matrix.md \
+            series/recurring-character-ledger.md \
+            artifacts/book1-final-verification.md
           if git diff --cached --quiet; then
             echo "Verified outputs unchanged"
           else
