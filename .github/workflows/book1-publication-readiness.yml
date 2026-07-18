@@ -1,0 +1,55 @@
+name: Book 1 Publication Readiness
+
+on:
+  pull_request:
+    paths:
+      - "books/book-01/**"
+      - "tools/**"
+      - "README.md"
+      - ".github/workflows/book1-publication-readiness.yml"
+  push:
+    branches:
+      - main
+      - "agent/book1-publication-readiness"
+    paths:
+      - "books/book-01/**"
+      - "tools/**"
+      - "README.md"
+      - ".github/workflows/book1-publication-readiness.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  validate-book-1:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run validator and compiler tests
+        run: python -m unittest discover -s tools -p 'test_*.py' -v
+
+      - name: Validate accepted manuscript and control state
+        run: python tools/validate_book1_publication_readiness.py
+
+      - name: Generate developmental diagnostics
+        run: python tools/analyze_book1_revision.py
+
+      - name: Generate publication-style diagnostics
+        run: python tools/analyze_book1_publication_style.py
+
+      - name: Compile accepted review manuscript
+        run: python tools/compile_book1_from_manifest.py --output /tmp/Veridrift_ACCEPTED.md
+
+      - name: Verify compiled ending and build sidecar
+        run: |
+          tail -n 1 /tmp/Veridrift_ACCEPTED.md | grep -Fx 'The bubble stayed centered.'
+          test -s /tmp/Veridrift_ACCEPTED.md.build.json
