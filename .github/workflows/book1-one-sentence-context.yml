@@ -3,6 +3,8 @@ name: Book 1 One-Sentence Context
 on:
   push:
     branches: [agent/book1-one-sentence-repair]
+  pull_request:
+    branches: [main]
   workflow_dispatch:
 
 permissions:
