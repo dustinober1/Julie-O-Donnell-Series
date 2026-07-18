@@ -1,8 +1,8 @@
-# Chapter 11 - Going Offensive
+# Chapter 11 — Going Offensive
 
 Decommissioned Communications Cutout
- Fairfax County, Virginia
- 06:25 Eastern Daylight Time
+Fairfax County, Virginia
+06:25 Eastern Daylight Time
 
 The battery-backed clock advanced to 06:25:11.
 
@@ -125,10 +125,10 @@ Elias used his left hand on the trackball. The first movement overshot the field
 Most of the entries were administrative: contract tenant, certification authority, inspection cycle, hardware class. Near the bottom, a location extension appeared beside the service-access profile.
 
 REGISTERED EQUIPMENT SITE: FENWICK ANNEX
- TENANT: NORTHBRIDGE STRATEGIC INITIATIVES
- SERVICE LOCALITY: L STREET NW / WASHINGTON, DC
- FACILITIES ENTRY: REAR SERVICE VESTIBULE
- SECURE DOMAIN: WSS-4
+TENANT: NORTHBRIDGE STRATEGIC INITIATIVES
+SERVICE LOCALITY: L STREET NW / WASHINGTON, DC
+FACILITIES ENTRY: REAR SERVICE VESTIBULE
+SECURE DOMAIN: WSS-4
 
 Marcus leaned forward, then stopped when his ribs objected.
 
@@ -147,9 +147,9 @@ Nothing about the building, the public offices, or the existence of a secure con
 Elias expanded the next field.
 
 CONTROLLER PROFILE: APX SECURE FACILITY 4.2
- MAINTENANCE ENROLLMENT: LOCAL / ESCORTED
- PRE-SESSION DIAGNOSTIC WINDOW: ENABLED
- LOCAL AUDIT INTERFACE: REQUIRED
+MAINTENANCE ENROLLMENT: LOCAL / ESCORTED
+PRE-SESSION DIAGNOSTIC WINDOW: ENABLED
+LOCAL AUDIT INTERFACE: REQUIRED
 
 He went still.
 
@@ -470,12 +470,12 @@ He created no new copy.
 Instead, he used the module’s physical management utility to expose the unused second partition. The first remained hardware-locked and read-only. The second appeared as an empty encrypted incident volume with a separate serial and no files.
 
 PARTITION A: SEALED DERIVATIVE
- INTEGRITY: VERIFIED
- WRITE STATE: LOCKED
+INTEGRITY: VERIFIED
+WRITE STATE: LOCKED
 
 PARTITION B: INCIDENT CAPTURE
- CONTENT: EMPTY
- WRITE STATE: ARMED ON LOCAL DEVICE
+CONTENT: EMPTY
+WRITE STATE: ARMED ON LOCAL DEVICE
 
 Julie recorded both states, the module serial, the wall-clock time, and the fact that the workstation clock remained wrong by eleven days. She had Elias verify Partition A again after the change.
 
@@ -504,23 +504,23 @@ The tamper-bagged recovery cartridge went into the waterproof document folder wi
 No evidence remained in the cutout’s storage cabinet.
 
 Apex Building Three
- Reston, Virginia
- 06:39 Eastern Daylight Time
+Reston, Virginia
+06:39 Eastern Daylight Time
 
 Sarah Chen received the capture directive and the lethal-force directive forty-three seconds apart.
 
 The first came through the joint incident desk established after the Building Three fire. It carried federal and county routing numbers, medical instructions, and language selected by people who expected their decisions to be reviewed.
 
 APPREHEND IF LOCATED.
- SEPARATE SUBJECTS.
- SECURE CLASSIFIED MATERIAL.
- PRESERVE LIFE AND EVIDENCE.
+SEPARATE SUBJECTS.
+SECURE CLASSIFIED MATERIAL.
+PRESERVE LIFE AND EVIDENCE.
 
 The second appeared on the Apex protective-services channel under Arthur Vance’s executive authority.
 
 CONTINUING HOSTILE SABOTAGE TEAM.
- PREVENT TRANSFER OF TELEMETRY MATERIAL.
- DEADLY FORCE AUTHORIZED IF LOSS OF MATERIAL IS IMMINENT.
+PREVENT TRANSFER OF TELEMETRY MATERIAL.
+DEADLY FORCE AUTHORIZED IF LOSS OF MATERIAL IS IMMINENT.
 
 Sarah read the last condition twice.
 
@@ -569,8 +569,8 @@ Sarah marked the time, preserved both directives in the incident file, and sent 
 She did not warn Julie.
 
 Decommissioned Communications Cutout
- Fairfax County, Virginia
- 06:42 Eastern Daylight Time
+Fairfax County, Virginia
+06:42 Eastern Daylight Time
 
 The work order came from a carbon-copy service book in PCF-27’s glove compartment.
 
@@ -583,10 +583,10 @@ The call was not.
 Elias dictated the tenant identifier from the Northbridge certificate. Julie filled the boxes with her left hand, the letters slanting the wrong direction whenever she tried to write too quickly.
 
 SITE: FENWICK ANNEX / WSS-4
- TENANT: NORTHBRIDGE STRATEGIC INITIATIVES
- CALL TYPE: LOCAL TRUST-CHAIN DIAGNOSTIC
- REPORTED CONDITION: PRE-SESSION AUDIT BUFFER RETENTION FAULT
- SERVICE WINDOW: 06:45–07:20
+TENANT: NORTHBRIDGE STRATEGIC INITIATIVES
+CALL TYPE: LOCAL TRUST-CHAIN DIAGNOSTIC
+REPORTED CONDITION: PRE-SESSION AUDIT BUFFER RETENTION FAULT
+SERVICE WINDOW: 06:45–07:20
 
 For the authorization number, Elias used the Apex service format embedded in the controller policy and a sequence derived from the tenant certificate.
 
@@ -661,7 +661,7 @@ When the door closed, the cutout became an ordinary gray service bay again.
 For anyone who knew where to look.
 
 Northern Virginia
- 06:47 Eastern Daylight Time
+06:47 Eastern Daylight Time
 
 Julie drove west for two blocks before turning east.
 
@@ -720,7 +720,7 @@ Senator Sterling stepped toward a bank of microphones.
 The screen divided. Sterling occupied the left half beneath flags and a committee seal. Julie’s consultant photograph filled the right, taken at Apex before the lower-tier descent. Her face looked tired and irritated, which the red banner beneath it converted into intent.
 
 FORMER ARMY ANALYST SOUGHT
- SUSPECTED ARGUS SABOTAGE ARCHITECT
+SUSPECTED ARGUS SABOTAGE ARCHITECT
 
 The van radio carried Sterling’s voice half a second after his mouth moved on the lobby screen.
 

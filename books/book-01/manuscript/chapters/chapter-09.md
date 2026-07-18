@@ -1,4 +1,4 @@
-# Chapter 9 - The Life-Safety Override
+# Chapter 9 — The Life-Safety Override
 
 Apex Building Three
 Reston, Virginia
@@ -11,13 +11,13 @@ A valve struck open above the cabinets. Another answered farther down the ceilin
 The suppression display showed:
 
 INERT AGENT RELEASE ARMED
- OCCUPIED-ROOM STATUS: OVERRIDDEN
- DISCHARGE IN 01:23
+OCCUPIED-ROOM STATUS: OVERRIDDEN
+DISCHARGE IN 01:23
 
 Julie kept her left hand beneath the raised cover of the abort control and read everything around it before touching anything else.
 
 MANUAL ABORT DISABLED
- EXTERNAL PHYSICAL RESET REQUIRED
+EXTERNAL PHYSICAL RESET REQUIRED
 
 A small contact indicator beneath the control remained lit. The switch had registered her action; the hardened incident controller had rejected it downstream. A smaller line identified the reset as a keyed device in the manifold service corridor outside the armored gate.
 
@@ -52,8 +52,8 @@ The display reached 01:14.
 Julie followed the red conduit with her eyes. It entered a narrow fire-interface cabinet beside the gate, separate from the protected abort control. Three hardwired indicators were dark beneath a clear cover.
 
 ZONE H-3 — POWER DISTRIBUTION HEAT
- ZONE S-4 — RECOVERY AISLE SMOKE
- VERIFIED FIRE — EGRESS RELAY
+ZONE S-4 — RECOVERY AISLE SMOKE
+VERIFIED FIRE — EGRESS RELAY
 
 “Two zones,” she said.
 
@@ -96,10 +96,10 @@ She selected YES.
 The console began committing the final media state to the case manifest. No gray wheel appeared. Instead, five lines checked themselves in sequence.
 
 READ-ONLY BOUNDARY CONFIRMED
- SEALED BLOCK COUNT CONFIRMED: 136
- INCOMPLETE BLOCK COUNT RECORDED: 47
- EXCLUDED BLOCK COUNT RECORDED: 311
- RECOVERY SESSION REFERENCE ATTACHED
+SEALED BLOCK COUNT CONFIRMED: 136
+INCOMPLETE BLOCK COUNT RECORDED: 47
+EXCLUDED BLOCK COUNT RECORDED: 311
+RECOVERY SESSION REFERENCE ATTACHED
 
 The countdown above the gate reached 00:59.
 
@@ -110,7 +110,7 @@ Marcus pushed away from the cabinet and came to the case. The first step on his 
 The media display changed.
 
 INCIDENT INPUT UNMOUNTED
- SAFE TO DISCONNECT
+SAFE TO DISCONNECT
 
 “Now.”
 
@@ -121,8 +121,8 @@ She coiled it into the lid compartment. Her right hand could guide the loop but 
 Elias had opened a recessed panel beneath the recovery console. Inside, a black metal cartridge sat behind a tamper strip and a mechanical release lever. Its face carried no capacity marking, only a serial number and three green indicators.
 
 LOCAL HARDWARE SIGNATURE
- RECOVERY RECORD SEALED
- PHYSICAL REMOVAL AVAILABLE
+RECOVERY RECORD SEALED
+PHYSICAL REMOVAL AVAILABLE
 
 “That is it,” he said.
 
@@ -175,8 +175,8 @@ Elias brought up the fire-zone matrix. A small plan of the enclave appeared, div
 Julie crossed to the cabinet and read its labels.
 
 PDU-B
- REDUNDANT SERVICE FEED
- EXPANSION BAY / MAINTENANCE LOAD BANK
+REDUNDANT SERVICE FEED
+EXPANSION BAY / MAINTENANCE LOAD BANK
 
 A protected selector beneath the service cover offered OFF, NOMINAL TEST, and OVERLOAD TEST — ATTENDED.
 
@@ -233,7 +233,7 @@ The load elements darkened from gray to a faint, uneven red.
 A detector inside the exhaust plenum changed state.
 
 ZONE H-3 — RATE OF RISE
- PREALARM
+PREALARM
 
 The hardwired relay remained dark.
 
@@ -262,17 +262,17 @@ Smoke crossed the aisle in a denser ribbon.
 The second sampling port drew it in.
 
 ZONE S-4 — PARTICULATE DETECTED
- ALARM VERIFICATION
+ALARM VERIFICATION
 
 For one second, nothing else happened.
 
 Then the third hardwired indicator turned red.
 
 VERIFIED FIRE
- LIFE-SAFETY RELAY ACTIVE
+LIFE-SAFETY RELAY ACTIVE
 
 Apex Security Command Center
- 05:02 Eastern Daylight Time
+05:02 Eastern Daylight Time
 
 The first detector reached Sarah Chen as a yellow point inside the production enclave.
 
@@ -295,8 +295,8 @@ S-4 RECOVERY AISLE SMOKE — CONFIRMED
 The fire panel did not ask Apex for permission.
 
 VERIFIED FIRE
- HARDWIRED EVACUATION CONFIGURATION
- EXTERNAL MONITORING SIGNAL TRANSMITTED
+HARDWIRED EVACUATION CONFIGURATION
+EXTERNAL MONITORING SIGNAL TRANSMITTED
 
 Across the command center, white fire strobes replaced the amber suppression lights. A building alarm began on the floors above them. The fire system reported its own transmission path: campus emergency control, contracted monitoring center, county dispatch interface.
 
@@ -305,7 +305,7 @@ Sarah selected the security hold on the enclave gate.
 The command returned:
 
 SECURITY SEAL SUBORDINATE
- VERIFIED FIRE EGRESS IN PROGRESS
+VERIFIED FIRE EGRESS IN PROGRESS
 
 Vance moved to the adjacent console. “Reassert the hold through executive control.”
 
@@ -346,7 +346,7 @@ He had lost command of the gate.
 He had not lost command of the report that would explain why it opened.
 
 Production Enclave
- 05:02 Eastern Daylight Time
+05:02 Eastern Daylight Time
 
 The room changed state all at once.
 
@@ -355,9 +355,9 @@ White strobes fired from the ceiling. Emergency power dropped from PDU-B, killin
 The environmental display replaced the countdown header.
 
 VERIFIED FIRE
- EVACUATION CONFIGURATION ACTIVE
- SUPPRESSION RELEASE LATCHED
- DISCHARGE IN 00:12
+EVACUATION CONFIGURATION ACTIVE
+SUPPRESSION RELEASE LATCHED
+DISCHARGE IN 00:12
 
 The six gate bolts began withdrawing.
 
@@ -384,7 +384,7 @@ The sixth stopped halfway.
 A status line appeared.
 
 PRESSURE DIFFERENTIAL ABOVE EGRESS LIMIT
- EQUALIZATION ACTIVE
+EQUALIZATION ACTIVE
 
 A vent opened over the gate. Air moved outward through it in a hard, cold stream.
 
@@ -527,9 +527,9 @@ The service corridor was pressurized against smoke. Clean air pushed past them t
 At the first landing, a fire map showed the route.
 
 PRODUCTION EGRESS
- MECHANICAL BAY TWO
- LOADING DOCK THREE
- SOUTH SERVICE PERIMETER
+MECHANICAL BAY TWO
+LOADING DOCK THREE
+SOUTH SERVICE PERIMETER
 
 A red security door blocked the straight path. Its badge reader showed ACCESS SUSPENDED.
 
@@ -624,7 +624,7 @@ A row of contractor vehicles stood along the dock wall: two utility pickups, a r
 A red cabinet beside the dispatch board displayed:
 
 EMERGENCY VEHICLE RELOCATION KEYS
- MAGNETIC LOCK RELEASED ON FIRE ALARM
+MAGNETIC LOCK RELEASED ON FIRE ALARM
 
 Julie opened it.
 
@@ -649,7 +649,7 @@ Elias opened the side door. Marcus lifted the aluminum case with both forearms a
 Julie caught the case before it slid and wedged it behind the passenger seat. Its small display remained green.
 
 CAPTURE SEALED
- LOCAL MEDIA INTACT
+LOCAL MEDIA INTACT
 
 Elias climbed in beside it.
 
@@ -658,8 +658,8 @@ Marcus took the front passenger seat, using the door frame to lower himself with
 The dashboard came alive with a contractor fleet screen.
 
 APEX CAMPUS TELEMATICS ACTIVE
- VEHICLE PCF-27
- SOUTH SERVICE ROUTE AUTHORIZED
+VEHICLE PCF-27
+SOUTH SERVICE ROUTE AUTHORIZED
 
 “Tracked,” Marcus said.
 
@@ -714,16 +714,16 @@ SECURITY BULLETIN — PRIORITY
 A photograph appeared from Julie’s temporary consultant record.
 
 JULIE M. O’DONNELL
- ARMED INSIDER THREAT
- SUSPECTED SABOTAGE OF NATIONAL-SECURITY INFRASTRUCTURE
+ARMED INSIDER THREAT
+SUSPECTED SABOTAGE OF NATIONAL-SECURITY INFRASTRUCTURE
 
 Below it:
 
 SUBJECT BELIEVED TO HAVE INITIATED MALICIOUS ARGUS SOURCE CORRUPTION AND DELIBERATE FIRE IN BUILDING THREE.
 
 MARCUS L. REED — ARMED ACCOMPLICE
- ELIAS M. THORNE — POSSIBLE HOSTAGE
- RECOVER STOLEN ALUMINUM TELEMETRY CASE
+ELIAS M. THORNE — POSSIBLE HOSTAGE
+RECOVER STOLEN ALUMINUM TELEMETRY CASE
 
 Elias stared at the word HOSTAGE.
 

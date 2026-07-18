@@ -1,0 +1,73 @@
+name: Apply Book 1 Developmental Revision Patches
+
+on:
+  pull_request:
+    branches: [main]
+    types: [opened, synchronize, reopened]
+
+permissions:
+  contents: write
+
+jobs:
+  apply:
+    if: github.event.pull_request.head.repo.full_name == github.repository && github.event.pull_request.head.ref == 'agent/book1-developmental-revision'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: ${{ github.event.pull_request.head.ref }}
+      - name: Decide whether tools should run
+        id: gate
+        run: |
+          subject="$(git log -1 --pretty=%s)"
+          case "$subject" in
+            tools:*|apply:*) echo "run=true" >> "$GITHUB_OUTPUT" ;;
+            *) echo "run=false" >> "$GITHUB_OUTPUT" ;;
+          esac
+      - name: Configure commit identity
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - name: Apply final floor adjustment
+        if: steps.gate.outputs.run == 'true'
+        run: python3 tools/apply_book1_floor.py
+      - name: Verify diff hygiene
+        if: steps.gate.outputs.run == 'true'
+        run: git diff --check
+      - name: Commit generated manuscript changes
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          if git diff --quiet; then
+            echo "No manuscript changes to commit"
+          else
+            git add books/book-01/manuscript/chapters
+            git commit -m "edit: complete Book 1 target word count"
+            git push origin HEAD:${{ github.event.pull_request.head.ref }}
+          fi
+      - name: Generate developmental metrics
+        if: steps.gate.outputs.run == 'true'
+        run: python3 tools/analyze_book1_revision.py
+      - name: Run final publication-readiness validation
+        if: steps.gate.outputs.run == 'true'
+        id: readiness
+        continue-on-error: true
+        run: |
+          mkdir -p artifacts
+          python3 tools/validate_book1_publication_readiness.py > artifacts/book1-publication-readiness-current.txt 2>&1
+      - name: Commit branch diagnostics
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          git add artifacts/book1-publication-readiness-current.txt artifacts/book1-developmental-analysis.md
+          if git diff --cached --quiet; then
+            echo "Branch diagnostics unchanged"
+          else
+            git commit -m "test: refresh Book 1 developmental diagnostics"
+            git push origin HEAD:${{ github.event.pull_request.head.ref }}
+          fi
+      - name: Enforce final validation
+        if: steps.gate.outputs.run == 'true' && steps.readiness.outcome == 'failure'
+        run: |
+          cat artifacts/book1-publication-readiness-current.txt
+          exit 1

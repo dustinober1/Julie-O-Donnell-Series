@@ -1,8 +1,8 @@
-# Chapter 6 - The Descent
+# Chapter 6 — The Descent
 
 Apex Building Three
- Reston, Virginia
- 04:52 Eastern Daylight Time
+Reston, Virginia
+04:52 Eastern Daylight Time
 
 The hydraulic shutter came down hard enough to shake dust from the concrete ceiling.
 
@@ -73,8 +73,8 @@ Julie rose and examined the seam. No handle. No local panel. The shutter sat ins
 A red status display blinked beside it.
 
 PHYSICAL CONTAINMENT ACTIVE
- LOWER TIER ISOLATED
- 04:52:19
+LOWER TIER ISOLATED
+04:52:19
 
 Julie looked down the corridor.
 
@@ -89,8 +89,8 @@ Marcus closed the tool bag and handed Julie the telemetry case. “Tell me we di
 Julie checked the small display beside the handle.
 
 CAPTURE SEALED
- LOCAL MEDIA INTACT
- NETWORK UNAVAILABLE
+LOCAL MEDIA INTACT
+NETWORK UNAVAILABLE
 
 The case still held the raw relay packets and the copy of the altered Argus telemetry. It held enough to show that the alert had been manufactured. In a room full of federal investigators, with time to authenticate every record and compel Apex to surrender its logs, it might have been enough.
 
@@ -211,7 +211,7 @@ The building shuddered as another compressor came online. Julie put one hand aga
 A smaller return pipe ran above it in the opposite direction. Its label had been replaced recently.
 
 CHW-ARGUS-R
- INDEPENDENT PROCESS LOOP
+INDEPENDENT PROCESS LOOP
 
 Julie crouched and aimed the light across the floor. The marked production corridor had a smooth slab intended for foot traffic and equipment carts. The cooling passage carried paired floor drains, condensate channels, and fresh scuff marks from wheeled maintenance platforms. Air moved through it steadily, drawn toward machinery under load.
 
@@ -240,7 +240,7 @@ That was enough for Marcus. He took rear security without another argument.
 Elias entered the cooling passage first.
 
 Apex Security Command Center
- 04:53 Eastern Daylight Time
+04:53 Eastern Daylight Time
 
 Sarah Chen watched the lower-tier diagram lose detail one system at a time.
 
@@ -317,7 +317,7 @@ She did not warn Julie.
 On the dark screen, the route converged on the production enclave.
 
 Cooling Gallery Two
- 04:53 Eastern Daylight Time
+04:53 Eastern Daylight Time
 
 The passage dropped beneath the main service level and opened onto a steel gantry suspended above the chiller plant.
 
@@ -564,8 +564,8 @@ Elias stopped ten feet from it.
 Julie continued until the panel lit in response to her movement.
 
 LOCAL PRODUCTION ENCLAVE
- QUARANTINE ACCESS ONLY
- ADMINISTRATOR AUTHENTICATION REQUIRED
+QUARANTINE ACCESS ONLY
+ADMINISTRATOR AUTHENTICATION REQUIRED
 
 The time appeared beneath the message.
 

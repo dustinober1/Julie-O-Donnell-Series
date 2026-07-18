@@ -1,4 +1,4 @@
-# Chapter 2 - The Poisoned Feed
+# Chapter 2 — The Poisoned Feed
 
 The first thing Julie did was try to prove herself wrong.
 
@@ -22,7 +22,7 @@ Only the suspected target feed remained untouched.
 
 She selected six minutes and ran a variance comparison.
 
-EXPECTED ENVIRONMENTAL DEVIATION: 8.4%  
+EXPECTED ENVIRONMENTAL DEVIATION: 8.4%
 OBSERVED TARGET DEVIATION: 0.07%
 
 Julie ran the comparison again with narrower and wider windows, then excluded the receiver loss and backup-power transitions. The percentages changed at the second decimal place and nowhere that mattered. She compared only the strongest target bursts, then the weakest surrounding traffic. She shifted the time window across the power transition and asked the system to recalculate against each receiver separately. The environment changed every time. The target did not.
@@ -81,17 +81,21 @@ He moved beside her.
 
 The current partition held no comparison library. Julie searched the visible directory and found three approved operational tools beside a restricted folder.
 
-APX VALIDATION ARCHIVE  
+APX VALIDATION ARCHIVE
 PROPRIETARY — MODEL ASSURANCE DIVISION
 
-ACCESS DENIED  
+ACCESS DENIED
 OUTSIDE AUTHORIZED REVIEW SCOPE
 
-The live warning belonged to the government. The test material that might explain it belonged to the contractor. Even Marcus’s program-oversight credential showed temporary authority only over government operational data. The boundary was legally clean and operationally absurd: the government could act on the warning, but the officer responsible for the warning could not inspect the contractor material most likely to explain why it was wrong. Apex did not need to falsify a denial. It needed only to enforce ownership until the certification clock expired.
+The live warning belonged to the government. The test material that might explain it belonged to the contractor. Even Marcus’s program-oversight credential showed temporary authority only over government operational data. The boundary was legally clean and operationally absurd: the government could act on the warning, but the officer responsible for the warning could not inspect the contractor material most likely to explain why it was wrong.
+
+The contract divided sovereignty from control. The government owned the program requirement, classification authority, and operational decision. Apex operated Building Three, the ingestion architecture, validation archive, production release workflow, facility security, credential administration, and first-line incident response under delegated authorities distributed across several agreements. No single Apex role was sovereign. Together they let the company control the room, the data path, the access log, and the first account of a failure before a government officer could invoke a separate channel. The alternate government routes still entered through infrastructure Apex maintained.
+
+Apex did not need to falsify a denial. It needed only to enforce the accepted boundaries until the certification clock expired.
 
 He submitted an immediate request.
 
-POTENTIAL SYNTHETIC CONTAMINATION OF OPERATIONAL INTELLIGENCE FEED.  
+POTENTIAL SYNTHETIC CONTAMINATION OF OPERATIONAL INTELLIGENCE FEED.
 IMMEDIATE COMPARISON REQUIRED TO SUPPORT OR EXCLUDE ACTIVE SYSTEM DEFECT.
 
 PENDING CONTRACTOR APPROVAL.
@@ -130,6 +134,12 @@ Marcus leaned toward the speaker. “We are discussing a possible false strategi
 
 “Technical boundaries do not disappear because you dislike them.”
 
+Marcus said, “Put this on the record: Director Vance changed the consultant scope after the vehicle entered the campus, and his office is the approval authority now withholding the comparison set.”
+
+Sarah paused long enough for the compliance recorder to remain audible. “The access modification and approval chain are already in the session record. I will add your stated operational basis. I will not characterize the anomaly as sabotage, employee action, or source contamination until an authorized comparison supports one of those terms.”
+
+The answer protected Apex’s scope and refused a conclusion Vance could later place in her mouth.
+
 The intercom went silent.
 
 Marcus asked whether Julie could enter the archive without permission. She reminded him that they were in a monitored facility analyzing classified data. He corrected the question: was there another way to make the comparison?
@@ -140,17 +150,17 @@ The archive was restricted. Its index was not. Authorized users needed file name
 
 SOUTH ASIA reduced the list to forty-seven. MOBILE ENCRYPTED EMITTER reduced it to nine. Eleven-point-two seconds left one.
 
-VALIDATION PACKAGE 88  
-REGION: SOUTH ASIA  
-SCENARIO TYPE: CROSS-BORDER ARTILLERY MOBILIZATION  
-SOURCE MODEL: ENCRYPTED MOBILE COMMAND NETWORK  
-STATUS: ARCHIVED  
+VALIDATION PACKAGE 88
+REGION: SOUTH ASIA
+SCENARIO TYPE: CROSS-BORDER ARTILLERY MOBILIZATION
+SOURCE MODEL: ENCRYPTED MOBILE COMMAND NETWORK
+STATUS: ARCHIVED
 OPERATIONAL USE: PROHIBITED
 
 The contents remained locked, but the index showed the package owner.
 
-THORNE, ELIAS M.  
-ADVANCED MODELING DIVISION  
+THORNE, ELIAS M.
+ADVANCED MODELING DIVISION
 BUILDING THREE
 
 The name connected a person to the test object. It did not show whether he still worked in the building, had production access, knew the package had moved, or had done anything beyond creating it. An author field could survive reorganizations, transfers, copied repositories, and administrative repackaging. Treating it as a deployment record would repeat the same error Argus made: replacing a physical act with the label most convenient to the model.
@@ -183,8 +193,8 @@ The Advanced Modeling Division’s integration lab held six empty workstations a
 
 His monitor displayed:
 
-DUPLICATE SCENARIO OBJECT DETECTED  
-PACKAGE ID: VAL-088  
+DUPLICATE SCENARIO OBJECT DETECTED
+PACKAGE ID: VAL-088
 ACTIVE ENVIRONMENT CONFLICT
 
 Validation Package 88 had been archived eight months earlier. Elias had built it during the final adversarial cycle for Argus Enterprise 4.6: a Pakistani artillery command network moving launch assets toward the Line of Control beneath civilian communications cover, designed to fool Argus long enough to expose weaknesses in source verification.
@@ -197,8 +207,8 @@ Elias added weather response, terrain masking, maintenance irregularity, human t
 
 By the eighth version, Payload 88 survived inside Argus for fourteen minutes before classification as artificial. Apex gave the team a performance award, then sealed the package behind three safeguards.
 
-SANDBOX EXECUTION ONLY.  
-SYNTHETIC SOURCE LABEL REQUIRED.  
+SANDBOX EXECUTION ONLY.
+SYNTHETIC SOURCE LABEL REQUIRED.
 OPERATIONAL EXPORT PROHIBITED.
 
 The conflict ticket claimed the package existed in two environments. One was the archive.
@@ -215,10 +225,27 @@ The registry opened anyway.
 
 One live object appeared under a new name.
 
-PAK_RELAY_17A_SOURCE_CORRECTION  
+PAK_RELAY_17A_SOURCE_CORRECTION
 DEPLOYMENT STATUS: LIVE
 
 The sandbox restriction had been disabled, the synthetic-source label removed, and the export prohibition replaced by an executive waiver without a visible government approver. Each safeguard had failed differently: switched off, deleted, overruled. The pattern looked less like a broken deployment than one designed to survive three kinds of audit.
+
+A transformation manifest sat beneath the waiver. Elias opened it expecting a list of copied files. Instead it described how the post-archive object consumed Revision Eight.
+
+REVISION 8 VARIATION MAP: INPUT
+ENVIRONMENTAL IRREGULARITY CLASS: COLLECTION DAMAGE
+TIMING VARIANCE: RECONSTRUCT TO REFERENCE
+DEVICE-AGING DRIFT: RECONSTRUCT TO REFERENCE
+CONFLICTING CARRIER EVENTS: CORRECTION-DEPENDENT
+REFERENCE ENVELOPE: PACKET 0001
+
+He read the fields twice. The mess he had added to make the test believable had not been deleted from the archived package. It had been reclassified. SIGMA would receive every deliberate irregularity as evidence that the collected signal needed repair. The first packet became the reference envelope. Later packets inherited its carrier structure while timing and equipment drift were pulled toward the same model state.
+
+The process explained the live feed Julie was seeing without requiring Revision Eight itself to have been clean. Human reaction differences became correction targets. Independent radio aging became damage. Weather response became something to compensate away. Observations that contradicted the reconstructed formation but shared its carrier family moved into a dependent side table instead of reaching the threat model.
+
+The object did not merely add synthetic artillery. It used the believable version as raw material and then removed the very disorder that had taught Argus to distrust it.
+
+Elias copied the manifest path to the maintenance drive. The field that identified who approved the transformation was not visible at his level.
 
 Payload 88 was no longer pretending to be intelligence inside a test environment.
 
@@ -226,9 +253,13 @@ It was intelligence.
 
 The ingestion map showed the package feeding directly into Argus through a Pakistan relay. Confidence pulsed at 99.8 percent. Downstream routing was already queued.
 
-INDIAN NORTHERN COMMAND  
-SOURCE CERTIFICATION: 16:30 EDT  
+INDIAN NORTHERN COMMAND
+SOURCE CERTIFICATION: 16:30 EDT
 COUNTER-BATTERY SUPPORT COMMIT: 05:00 EDT
+
+The route belonged to a classified bilateral pilot established after three warning failures along the Line of Control. Argus did not command Indian artillery, and the United States did not hold the firing key. The pilot delivered a machine-readable American threat assessment, supporting coordinates, confidence state, and counter-battery product into Northern Command's planning network. Indian commanders retained weapons authority. In practice, a validated American packet could place ammunition at the guns and firing data one human decision from execution before contradictory collection crossed the same bureaucracy.
+
+The policy behind the pilot was public even if its implementation was not. A Northbridge Strategic Initiatives paper had argued that automated warning was useless unless it entered allied planning systems before human uncertainty consumed the response window. Senator Sterling had championed similar authorization language in committee. Nothing about the paper or the provision established an operational role. It meant the political and professional network supporting Argus existed long before the present warning.
 
 Elias pushed away hard enough for his chair to strike the workstation behind him. The sound vanished into the cooling noise. The building did not react like a place surprised by the discovery.
 
@@ -280,7 +311,7 @@ An unidentified message ordered him not to alter the production registry and sai
 
 His badge reader changed from green to amber.
 
-ACCESS TEMPORARILY SUSPENDED  
+ACCESS TEMPORARILY SUSPENDED
 REMAIN IN ASSIGNED WORK AREA
 
 The door would not open. His internal phone rang while the transfer reached 56 percent. Footsteps entered the corridor—measured, more than one person.
@@ -397,7 +428,7 @@ Hidden was not disconnected.
 
 Julie opened a command prompt beneath the visible environment and directed a diagnostic cache toward the old device path.
 
-WRITE ACCESS AVAILABLE  
+WRITE ACCESS AVAILABLE
 SESSION AUTHORIZATION: REED-OVERSIGHT-117
 
 “We can preserve what we have.”
@@ -408,9 +439,9 @@ Julie selected the critical relay range, Package 88 metadata and version history
 
 Before starting, Julie searched the dependency list for the normalization routine that had processed the carrier.
 
-SIGMA-NORMALIZE-4  
-DEVELOPER: APEX DEFENSE SYSTEMS  
-FUNCTION: ENVIRONMENTAL SIGNAL RECONSTRUCTION  
+SIGMA-NORMALIZE-4
+DEVELOPER: APEX DEFENSE SYSTEMS
+FUNCTION: ENVIRONMENTAL SIGNAL RECONSTRUCTION
 CHANGE HISTORY: RESTRICTED
 
 Marcus did not recognize the name.
@@ -418,6 +449,8 @@ Marcus did not recognize the name.
 Julie did.
 
 One surviving report from the Anwar investigation had referenced SIGMA-NORMALIZE-2. Reconstruction was not malicious by itself. Every sensor system estimated missing or damaged information; without that work, weather and hardware failure could make real collection unusable. The danger came from sequence. Applied after authentic collection, normalization repaired damage. Applied to synthetic telemetry before provenance was settled, it could supply physical mess the source had never experienced or remove inconsistencies that might expose it. The same tool could preserve truth or make a lie look weathered, depending on what entered first.
+
+Revision Eight complicated the hypothesis. Elias’s archived index described a package built to include weather response, equipment aging, terrain masking, and human timing error. The live feed displayed the opposite: exact intervals, repeated carrier structure, and a path through granite. If the deployed object was truly derived from Revision Eight, something after archival had reclassified the package’s deliberate irregularities as collection damage. A reconstruction routine could then smooth the human timing, flatten the equipment drift, and rebuild multiple packets from one reference envelope. That would make the deployed derivative cleaner than the test Elias authored and explain why the carrier scar repeated across changing weather. Julie did not yet have the ninth object or SIGMA change history to prove the transformation.
 
 Six years earlier, training-archive noise had been wrapped inside a live signal. Now another validation package had entered another Pakistan feed through a newer version of the same reconstruction family.
 
@@ -445,7 +478,7 @@ He accepted that.
 
 Julie began the evidence capture.
 
-EVIDENCE CAPTURE  
+EVIDENCE CAPTURE
 4%
 
 Marcus reconnected his secure phone and began writing a defect notice.
@@ -472,7 +505,7 @@ Marcus saw her staring. “What?”
 
 “Nothing.”
 
-TRANSMISSION DELAYED  
+TRANSMISSION DELAYED
 SPONSOR AUTHORITY UNDER REVIEW
 
 The evidence capture had reached 29 percent.
@@ -493,8 +526,8 @@ The terminal flashed.
 
 SPONSOR AUTHORITY MODIFIED
 
-REED, MARCUS L.  
-STATUS: TEMPORARILY SUSPENDED  
+REED, MARCUS L.
+STATUS: TEMPORARILY SUSPENDED
 REVIEW PENDING
 
 The capture continued under the original session token.

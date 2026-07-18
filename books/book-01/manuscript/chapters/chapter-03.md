@@ -1,4 +1,4 @@
-# Chapter 3 - The Exit Protocol
+# Chapter 3 — The Exit Protocol
 
 The deadbolt began to retract.
 
@@ -26,8 +26,8 @@ The deadbolt completed its withdrawal, and a second lock released above it. Juli
 
 A warning filled the screen:
 
-INCOMPLETE ARCHIVE  
-FINALIZATION MAY EXCLUDE ACTIVE FILE BLOCKS  
+INCOMPLETE ARCHIVE
+FINALIZATION MAY EXCLUDE ACTIVE FILE BLOCKS
 PROCEED?
 
 Julie confirmed. The terminal began writing a cryptographic manifest to the evidence drive. Until that process finished, removing the device could corrupt the directory and make every copied file vulnerable to challenge.
@@ -118,7 +118,7 @@ Twice.
 
 The terminal chimed:
 
-PARTIAL CAPTURE SEALED  
+PARTIAL CAPTURE SEALED
 INTEGRITY MANIFEST COMPLETE
 
 She pulled the cable. The screen went black.
@@ -247,7 +247,7 @@ Bare concrete and red emergency lights replaced the carpeted corridor. Julie che
 
 At the third-floor landing, she stopped beside a manual fire-alarm station. The independent life-safety panel remained active.
 
-SECTOR 4 AIR-HANDLING FAULT  
+SECTOR 4 AIR-HANDLING FAULT
 ACKNOWLEDGMENT PENDING
 
 “You locked an occupied room while ventilation was offline,” Julie said.
@@ -362,8 +362,8 @@ She followed the engine through the gate. At the first intersection, the engine 
 
 Marcus released the latches. The evidence drive rested in its foam cradle. The monochrome display read:
 
-CAPTURE SEALED  
-PARTIAL ARCHIVE  
+CAPTURE SEALED
+PARTIAL ARCHIVE
 INTEGRITY VERIFIED
 
 “What does partial mean?”
@@ -372,7 +372,7 @@ INTEGRITY VERIFIED
 
 Marcus connected his secure Army handset.
 
-TERM AUTHORITY REVOKED  
+TERM AUTHORITY REVOKED
 CONTACT SECURITY OPERATIONS
 
 “They killed my credentials.”
@@ -451,12 +451,12 @@ Sharma looked back at the assessment. It described the threat as certain. She ha
 
 The console chimed.
 
-SOURCE REVIEW IN PROGRESS  
+SOURCE REVIEW IN PROGRESS
 FINAL CONFIDENCE CERTIFICATION PENDING
 
 The warning remained for less than a second, then vanished.
 
-CONFIDENCE: 99.8%  
+CONFIDENCE: 99.8%
 SOURCE INTEGRITY: VERIFIED
 
 Sharma leaned toward the screen.

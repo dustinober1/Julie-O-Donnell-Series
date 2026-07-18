@@ -1,0 +1,57 @@
+name: Book 1 Final Verification
+
+on:
+  pull_request:
+    branches: [main]
+    types: [opened, synchronize, reopened]
+
+permissions:
+  contents: write
+
+jobs:
+  verify:
+    if: github.event.pull_request.head.repo.full_name == github.repository && github.event.pull_request.head.ref == 'agent/book1-developmental-revision'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: ${{ github.event.pull_request.head.ref }}
+      - name: Gate explicit verification runs
+        id: gate
+        run: |
+          subject="$(git log -1 --pretty=%s)"
+          case "$subject" in
+            tools:*|verify:*) echo "run=true" >> "$GITHUB_OUTPUT" ;;
+            *) echo "run=false" >> "$GITHUB_OUTPUT" ;;
+          esac
+      - name: Configure commit identity
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - name: Compile accepted manuscript
+        if: steps.gate.outputs.run == 'true'
+        run: python3 tools/compile_book1_accepted.py
+      - name: Register generated compilation
+        if: steps.gate.outputs.run == 'true'
+        run: python3 tools/register_book1_compiled_output.py
+      - name: Run publication-readiness validator
+        if: steps.gate.outputs.run == 'true'
+        run: python3 tools/validate_book1_publication_readiness.py
+      - name: Run independent final verification
+        if: steps.gate.outputs.run == 'true'
+        run: python3 tools/verify_book1_revision.py
+      - name: Verify diff hygiene
+        if: steps.gate.outputs.run == 'true'
+        run: git diff --check
+      - name: Commit verified compilation and report
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          git add books/book-01/compiled/current/Julie_O_Donnell_Book_1_REVISED.md books/book-01/ACCEPTED_MANUSCRIPT.yaml artifacts/book1-final-verification.md
+          if git diff --cached --quiet; then
+            echo "Verified outputs unchanged"
+          else
+            git commit -m "build: add verified Book 1 revision compilation"
+            git push origin HEAD:${{ github.event.pull_request.head.ref }}
+          fi

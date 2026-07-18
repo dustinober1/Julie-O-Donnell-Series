@@ -1,14 +1,10 @@
-# Chapter 4 - Burn Notice
+# Chapter 4 — Burn Notice
 
 Prince William County, Virginia
 
 13:07 Eastern Daylight Time
 
-By the time Julie trusted the rearview mirror, the black Apex vehicle had been gone for twelve miles.
-
-That did not mean they had lost it.
-
-It meant the driver had stopped making the surveillance obvious.
+By the time Julie trusted the rearview mirror, the black Apex vehicle had been gone for twelve miles. That did not mean they had lost it. It meant the driver had stopped making the surveillance obvious.
 
 Julie kept the Ford on a narrow two-lane road south of Manassas, moving with afternoon traffic between landscaping trucks and delivery vans. She had left the Fairfax County Parkway three exits earlier, doubled beneath it through a residential development, then crossed back west using roads that did not appear on most commuter routes.
 
@@ -32,18 +28,12 @@ Half a tank.
 
 Enough to reach the farm.
 
-She dismissed the thought as soon as it appeared.
-
-Apex had her address. The consultant paperwork listed it. Returning home would not be an act of concealment. It would be an invitation.
-
-Marcus’s disabled government phone lay on the center console. The device had not changed since they left Reston.
+She dismissed the thought as soon as it appeared. Apex had her address. The consultant paperwork listed it. Returning home would not be an act of concealment. It would be an invitation. Marcus’s disabled government phone lay on the center console. The device had not changed since they left Reston.
 
 TERM AUTHORITY REVOKED
 CONTACT SECURITY OPERATIONS
 
-Julie’s personal phone remained locked inside the Apex security desk. Her electronic truck fob was there too. The mechanical key in the ignition had been enough to get them out.
-
-For the moment, enough had to remain enough.
+Julie’s personal phone remained locked inside the Apex security desk. Her electronic truck fob was there too. The mechanical key in the ignition had been enough to get them out. For the moment, enough had to remain enough.
 
 “We need to contact Hackett,” Marcus said.
 
@@ -103,11 +93,7 @@ Marcus stared through the windshield.
 
 The phrase sat between them.
 
-Six years ago, Marcus had helped create one.
-
-This time he had been placed inside it.
-
-A sign appeared ahead for a farm-supply store, a used-electronics shop, and a roadside motel clustered around an aging shopping center.
+Six years ago, Marcus had helped create one. This time he had been placed inside it. A sign appeared ahead for a farm-supply store, a used-electronics shop, and a roadside motel clustered around an aging shopping center.
 
 Julie turned into the lot.
 
@@ -147,11 +133,7 @@ Marcus looked toward the motel.
 
 “No. I understand what they are.”
 
-They drove around the building twice before stopping.
-
-The motel was three stories of faded brick wrapped around an exterior parking lot. The vacancy sign flickered even in daylight. A row of contractor vans occupied the spaces nearest the road.
-
-Julie parked behind a tree-service truck that concealed the Ford from passing traffic.
+They drove around the building twice before stopping. The motel was three stories of faded brick wrapped around an exterior parking lot. The vacancy sign flickered even in daylight. A row of contractor vans occupied the spaces nearest the road. Julie parked behind a tree-service truck that concealed the Ford from passing traffic.
 
 Marcus carried the evidence case into the office.
 
@@ -171,11 +153,7 @@ Reston, Virginia
 
 The room had no clock.
 
-Elias measured time by the cycles of the ventilation fan and the growing pressure in his bladder.
-
-He sat at a steel table beneath white light. The walls were bare except for a thermostat, a camera, and a speaker grille mounted near the ceiling.
-
-No one had told him whether he was under arrest.
+Elias measured time by the cycles of the ventilation fan and the growing pressure in his bladder. He sat at a steel table beneath white light. The walls were bare except for a thermostat, a camera, and a speaker grille mounted near the ceiling. No one had told him whether he was under arrest.
 
 No one had read him rights.
 
@@ -237,9 +215,7 @@ STATUS: VOLUNTARY DISCLOSURE PENDING
 
 He looked farther down.
 
-The statement claimed Elias had moved Payload 88 into production while attempting to demonstrate a flaw in Argus’s source-verification system. It described the deployment as an unauthorized experiment that he had concealed after the model generated an operational alert.
-
-The document turned deliberate sabotage into professional arrogance.
+The statement claimed Elias had moved Payload 88 into production while attempting to demonstrate a flaw in Argus’s source-verification system. It described the deployment as an unauthorized experiment that he had concealed after the model generated an operational alert. The document turned deliberate sabotage into professional arrogance.
 
 It sounded plausible.
 
@@ -449,9 +425,7 @@ Manassas, Virginia
 
 13:54 Eastern Daylight Time
 
-The motel room smelled of old smoke, industrial cleaner, and damp carpet.
-
-Julie closed the curtains and moved the table away from the window. Marcus locked the door, slid the chain into place, and positioned the desk chair beneath the handle.
+The motel room smelled of old smoke, industrial cleaner, and damp carpet. Julie closed the curtains and moved the table away from the window. Marcus locked the door, slid the chain into place, and positioned the desk chair beneath the handle.
 
 Neither precaution would stop a determined entry.
 
@@ -473,9 +447,7 @@ Marcus looked at her.
 
 Marcus inspected the room.
 
-Julie removed the laptop battery, opened the service panel, and disconnected the wireless card. She took out the internal storage drive next.
-
-When Marcus returned, he held up the smoke detector.
+Julie removed the laptop battery, opened the service panel, and disconnected the wireless card. She took out the internal storage drive next. When Marcus returned, he held up the smoke detector.
 
 “Battery and dust.”
 
@@ -501,9 +473,7 @@ Marcus placed the aluminum case beside her.
 
 Julie examined the drive cradle.
 
-The government evidence device had been designed for field investigators collecting data from classified systems. Its encryption keys were generated when the capture was sealed. Ordinarily, the contents would be opened inside another approved government environment.
-
-A small maintenance port on the back provided a read-only forensic mode.
+The government evidence device had been designed for field investigators collecting data from classified systems. Its encryption keys were generated when the capture was sealed. Ordinarily, the contents would be opened inside another approved government environment. A small maintenance port on the back provided a read-only forensic mode.
 
 Julie connected it to the laptop.
 
@@ -556,9 +526,7 @@ She generated new checksums for every sealed file and compared them against the 
 
 All 136 matched.
 
-That established that the files had not changed since the capture was finalized.
-
-It did not establish that they had been genuine at the time of capture.
+That established that the files had not changed since the capture was finalized. It did not establish that they had been genuine at the time of capture.
 
 Julie began with the raw relay samples.
 
@@ -572,11 +540,7 @@ The path through solid terrain remained.
 
 She opened the Payload 88 index.
 
-The archived package matched the region, scenario, emitter type, and packet interval of the operational feed.
-
-The eighth revision carried Elias Thorne’s author certificate.
-
-A ninth checksum had appeared three weeks after archival.
+The archived package matched the region, scenario, emitter type, and packet interval of the operational feed. The eighth revision carried Elias Thorne’s author certificate. A ninth checksum had appeared three weeks after archival.
 
 No author.
 
@@ -741,9 +705,7 @@ Marcus walked to the telephone beside the bed.
 
 “I know.”
 
-He lifted the receiver and dialed the Pentagon’s public switchboard from memory.
-
-Julie continued reviewing the capture while he waited.
+He lifted the receiver and dialed the Pentagon’s public switchboard from memory. Julie continued reviewing the capture while he waited.
 
 “Office of the Deputy Director for Operational Intelligence,” a voice answered through the receiver.
 
@@ -903,9 +865,7 @@ Julie looked back at the files.
 
 Marcus placed the receiver in its cradle.
 
-He sat on the edge of the bed.
-
-For the first time since the escape, he looked tired rather than alert.
+He sat on the edge of the bed. For the first time since the escape, he looked tired rather than alert.
 
 “My command has a security report with my name on it.”
 
@@ -995,11 +955,7 @@ Julie searched the access-log fragments for his employee number.
 
 Three results appeared.
 
-The first showed Elias accessing the production registry.
-
-The second showed an unauthorized-peripheral alert attached to his workstation.
-
-The third was a security workflow generated minutes before Julie and Marcus’s review room was quarantined.
+The first showed Elias accessing the production registry. The second showed an unauthorized-peripheral alert attached to his workstation. The third was a security workflow generated minutes before Julie and Marcus’s review room was quarantined.
 
 SUBJECT: THORNE, ELIAS M.
 ACCESS STATUS: SUSPENDED
@@ -1041,9 +997,7 @@ Marcus read the entries.
 
 Julie checked the package documentation again.
 
-The source-provenance challenge needed Elias’s biometric, a director certificate, and local root access.
-
-They had a fragment of the director certificate chain on the evidence drive.
+The source-provenance challenge needed Elias’s biometric, a director certificate, and local root access. They had a fragment of the director certificate chain on the evidence drive.
 
 Elias might have the complete deployment record.
 
@@ -1201,11 +1155,7 @@ Not confidence.
 
 Commitment.
 
-Julie disconnected the evidence drive and returned it to the aluminum case.
-
-Before shutting down the laptop, she opened one final log fragment.
-
-The file had been partially overwritten during the Apex sanitization process. Most fields were unreadable.
+Julie disconnected the evidence drive and returned it to the aluminum case. Before shutting down the laptop, she opened one final log fragment. The file had been partially overwritten during the Apex sanitization process. Most fields were unreadable.
 
 One survived.
 
@@ -1227,9 +1177,7 @@ Kashmir
 
 00:14 Indian Standard Time
 
-Major Ananya Sharma watched the first ammunition carrier descend toward the artillery positions.
-
-Its headlights were off. A soldier walked ahead with a shielded lamp, guiding the driver along the ice-darkened road.
+Major Ananya Sharma watched the first ammunition carrier descend toward the artillery positions. Its headlights were off. A soldier walked ahead with a shielded lamp, guiding the driver along the ice-darkened road.
 
 Sharma had ordered mechanical readiness only.
 
@@ -1346,13 +1294,7 @@ Prince William Public Library
 
 14:47 Eastern Daylight Time
 
-Julie sat in the Ford beneath a tree at the far edge of the parking lot.
-
-The ThinkPad rested on her knees. Its battery had fallen to forty-two percent.
-
-She connected to the library’s guest network using a temporary hardware address and searched the county planning archive.
-
-The Apex campus appeared under its former name: Dominion Applied Research Park.
+Julie sat in the Ford beneath a tree at the far edge of the parking lot. The ThinkPad rested on her knees. Its battery had fallen to forty-two percent. She connected to the library’s guest network using a temporary hardware address and searched the county planning archive. The Apex campus appeared under its former name: Dominion Applied Research Park.
 
 Most current structural records were sealed.
 
@@ -1440,15 +1382,9 @@ Marcus handed her the plans.
 
 “Good. I’d worry if you were.”
 
-They drove to a self-service car wash, parked behind the building, and spread the plans across the hood.
+They drove to a self-service car wash, parked behind the building, and spread the plans across the hood. The culvert entered the campus through a utility easement along the southern tree line. It passed beneath the security berm and ended at a pump-access chamber beside the environmental plant. From there, a service corridor reached the interior mechanical spaces.
 
-The culvert entered the campus through a utility easement along the southern tree line. It passed beneath the security berm and ended at a pump-access chamber beside the environmental plant.
-
-From there, a service corridor reached the interior mechanical spaces.
-
-The plans did not show the newer secure divisions.
-
-They did show where the old building stopped and Apex’s classified renovations began.
+The plans did not show the newer secure divisions. They did show where the old building stopped and Apex’s classified renovations began.
 
 Julie marked the route.
 
@@ -1506,11 +1442,7 @@ Elias waited until the ventilation fan started its next cycle.
 
 The fan ran for eighty-three seconds.
 
-The camera above the door produced a faint electrical click each time its lens refocused. It did so whenever he stood or moved toward the wall.
-
-The thermostat was outside the camera’s direct angle.
-
-Elias rose slowly, crossed to it, and pressed the temperature-down control.
+The camera above the door produced a faint electrical click each time its lens refocused. It did so whenever he stood or moved toward the wall. The thermostat was outside the camera’s direct angle. Elias rose slowly, crossed to it, and pressed the temperature-down control.
 
 The display changed from sixty-seven to sixty-six.
 
@@ -1522,9 +1454,7 @@ Sixty-five.
 
 The environmental-control bus registered the command.
 
-The thermostat’s plastic faceplate flexed beneath his fingers.
-
-He worked one corner loose using the edge of the confession form Vance had left behind.
+The thermostat’s plastic faceplate flexed beneath his fingers. He worked one corner loose using the edge of the confession form Vance had left behind.
 
 The camera clicked.
 
@@ -1534,9 +1464,7 @@ The lens settled.
 
 He waited for the fan.
 
-Then he returned to the thermostat and removed the faceplate.
-
-Four colored wires connected the unit to the wall.
+Then he returned to the thermostat and removed the faceplate. Four colored wires connected the unit to the wall.
 
 Power.
 
@@ -1546,11 +1474,7 @@ Data.
 
 Control.
 
-The building-management system was not designed for messaging. It did record fault codes and maintenance requests. Those requests propagated to mechanical panels throughout Building Three.
-
-Elias pulled the thin memory circuit from behind his badge.
-
-He used one exposed contact to bridge the thermostat’s data wire.
+The building-management system was not designed for messaging. It did record fault codes and maintenance requests. Those requests propagated to mechanical panels throughout Building Three. Elias pulled the thin memory circuit from behind his badge. He used one exposed contact to bridge the thermostat’s data wire.
 
 The display flickered.
 
@@ -1630,13 +1554,7 @@ Reston, Virginia
 
 15:34 Eastern Daylight Time
 
-Julie parked the Ford behind an abandoned office building on the southern edge of the Apex campus.
-
-Rain had begun as a fine mist, darkening the pavement and softening the tree line.
-
-They changed into the gray coveralls inside the truck.
-
-Marcus fastened the patch marked STEVE above his pocket.
+Julie parked the Ford behind an abandoned office building on the southern edge of the Apex campus. Rain had begun as a fine mist, darkening the pavement and softening the tree line. They changed into the gray coveralls inside the truck. Marcus fastened the patch marked STEVE above his pocket.
 
 “You did this deliberately.”
 
@@ -1682,11 +1600,7 @@ He nodded.
 
 Julie looked toward the northern sky.
 
-Beyond the trees and office buildings, Apex’s glass towers reflected the approaching storm.
-
-Two hours earlier, they had escaped with a partial copy of the truth.
-
-Now they were returning for the man who could authenticate it.
+Beyond the trees and office buildings, Apex’s glass towers reflected the approaching storm. Two hours earlier, they had escaped with a partial copy of the truth. Now they were returning for the man who could authenticate it.
 
 The choice made no tactical sense.
 
@@ -1710,9 +1624,7 @@ Julie opened the truck door.
 
 “They may not be compatible.”
 
-Marcus looked at her for a long moment.
-
-Six years ago, he would have told her to trust the chain of command.
+Marcus looked at her for a long moment. Six years ago, he would have told her to trust the chain of command.
 
 Today, he handed her the waterproof folder.
 

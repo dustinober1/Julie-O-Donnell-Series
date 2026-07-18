@@ -1,4 +1,4 @@
-# Chapter 8 - The 05:00 Abort
+# Chapter 8 — The 05:00 Abort
 
 Apex Building Three
 Reston, Virginia
@@ -27,7 +27,7 @@ Another metallic impact struck the outer face of the gate. The sound carried thr
 A narrow status strip beside the interior cycle control changed from green to amber.
 
 LOCAL OVERRIDE DETECTED
- LOCK ARRAY PRESSURE TEST
+LOCK ARRAY PRESSURE TEST
 
 Marcus read it. “They’ve started on the bolts.”
 
@@ -56,8 +56,8 @@ A section of the panel withdrew and slid sideways. Inside were two shielded rece
 The console updated.
 
 FORENSIC INCIDENT INPUT AVAILABLE
- MEDIA WILL MOUNT IN PROTECTED MODE
- NO PRODUCTION WRITE PATH PRESENT
+MEDIA WILL MOUNT IN PROTECTED MODE
+NO PRODUCTION WRITE PATH PRESENT
 
 Julie opened the case.
 
@@ -66,7 +66,7 @@ The left latch released under her thumb. The right required pressure her injured
 Inside, the government evidence drive remained seated in its foam cradle. The shielded cable lay coiled in the lid compartment where she had secured it after the motel review. The small case display still showed green.
 
 CAPTURE SEALED
- LOCAL MEDIA INTACT
+LOCAL MEDIA INTACT
 
 “Read-only?” she asked.
 
@@ -113,11 +113,11 @@ Julie plugged the other end into the protected receptacle.
 The console detected the case immediately.
 
 SEALED INCIDENT CAPTURE DETECTED
- SESSION: REED-OVERSIGHT-117
- NETWORK VERIFICATION: UNAVAILABLE
+SESSION: REED-OVERSIGHT-117
+NETWORK VERIFICATION: UNAVAILABLE
 
 MOUNT MODE
- READ-ONLY / DUPLICATE / INGEST
+READ-ONLY / DUPLICATE / INGEST
 
 Julie selected READ-ONLY.
 
@@ -130,25 +130,25 @@ For half a second, it was six years earlier again: another wheel, another gatewa
 Julie looked away from the animation and watched the numbers populate beneath it.
 
 FILES SEALED: 136
- FILES INCOMPLETE: 47
- FILES EXCLUDED DURING FINALIZATION: 311
+FILES INCOMPLETE: 47
+FILES EXCLUDED DURING FINALIZATION: 311
 
 The wheel stopped.
 
 SEALED BLOCKS VERIFIED: 136 OF 136
- ARCHIVE STATUS: PARTIAL
- SOURCE RECONCILIATION PERMITTED WITH LIMITATIONS
+ARCHIVE STATUS: PARTIAL
+SOURCE RECONCILIATION PERMITTED WITH LIMITATIONS
 
 A warning opened below it.
 
 DISPUTED OPERATIONAL SOURCE REQUIRED
- ASSOCIATED VALIDATION OBJECT REQUIRED
+ASSOCIATED VALIDATION OBJECT REQUIRED
 
 The release clock showed 00:54.
 
 Forward Post Arjun
- Kashmir
- 14:29 Indian Standard Time
+Kashmir
+14:29 Indian Standard Time
 
 Major Ananya Sharma stood behind the fire-direction console and listened to Northern Command ask for the same confirmation in a third form.
 
@@ -189,8 +189,8 @@ The printer beside Qureshi began feeding a page.
 Sharma looked at the Argus display.
 
 CONFIDENCE: 99.8%
- SOURCE INTEGRITY: VERIFIED
- COUNTER-BATTERY SUPPORT: VALID
+SOURCE INTEGRITY: VERIFIED
+COUNTER-BATTERY SUPPORT: VALID
 
 Below it, a smaller timer counted toward the American release.
 
@@ -219,8 +219,8 @@ The screen offered certainty no human observer could support.
 Sharma watched it anyway.
 
 Apex Building Three
- Reston, Virginia
- 04:59 Eastern Daylight Time
+Reston, Virginia
+04:59 Eastern Daylight Time
 
 Elias stared at the second slot inside the recovery panel.
 
@@ -239,7 +239,7 @@ Metal struck the gate again. A second sound followed it: a low hydraulic strain 
 The status strip advanced.
 
 LOCAL OVERRIDE
- STAGE 1 OF 4 COMPLETE
+STAGE 1 OF 4 COMPLETE
 
 Marcus settled his back against the cabinet. “I’d prefer the part where this works before that says four.”
 
@@ -248,20 +248,20 @@ Elias inserted the circuit board into the narrow slot.
 The console paused.
 
 TOKEN CREDENTIAL: ACTIVE EMERGENCY SESSION
- AUTHOR EVIDENCE PARTITION: READ-ONLY
+AUTHOR EVIDENCE PARTITION: READ-ONLY
 
 AUTHOR MATERIAL DETECTED
- THORNE, ELIAS M.
- VALIDATION OBJECT: VAL-088
- ARCHIVE REVISION: 8
- CONTENT STATUS: PARTIAL
- AUTHOR SIGNATURE: VALID
+THORNE, ELIAS M.
+VALIDATION OBJECT: VAL-088
+ARCHIVE REVISION: 8
+CONTENT STATUS: PARTIAL
+AUTHOR SIGNATURE: VALID
 
 Then a red line appeared.
 
 SYNTHETIC-SOURCE LABEL MAP: PRESENT
- OPERATIONAL OBJECT DERIVATION DETECTED
- PAK_RELAY_17A_SOURCE_CORRECTION
+OPERATIONAL OBJECT DERIVATION DETECTED
+PAK_RELAY_17A_SOURCE_CORRECTION
 
 Elias closed his eyes for less than a second.
 
@@ -283,59 +283,60 @@ The validated source declaration at 99.8 percent.
 
 The external counter-battery support product waiting at the far end.
 
-The first three objects contained thousands of packet blocks. The console highlighted several possible ranges and asked her to select the disputed source boundary.
+The first three objects contained thousands of packet blocks. Elias opened the Revision Eight irregularity map beside the deployed source-correction object.
 
-Elias reached for the largest one.
+His approved package carried different timing distributions for command roles, weather-dependent loss, unequal equipment drift, terrain-shadow failures, and maintenance histories that changed the radios independently. The post-archive derivative had passed those variations into SIGMA-NORMALIZE-4 as correctable collection damage. SIGMA rebuilt the target bursts against one reference envelope, tightened the acknowledgments toward eleven-point-two seconds, flattened the device drift, and propagated the same reconstructed carrier structure across packets captured under different physical conditions.
+
+The clean feed was not Revision Eight. It was Revision Eight after the parts that made it believable had been processed as errors.
+
+A second rule sat beneath the transformation.
+
+CONFLICTING OBSERVATIONS SHARING RECONSTRUCTED CARRIER: ROUTE TO CORRECTION-DEPENDENT SIDE TABLE
+
+“That is the mask,” Elias said. “Anything that disturbed the false formation but touched its carrier family was diverted before the model saw it.”
+
+The console offered three disputed boundaries: the complete relay, the source-correction lineage and every dependent table, or only packet blocks directly matching VAL-088.
+
+Elias reached for the complete relay.
 
 Julie stopped his hand.
 
-“That suspends the whole relay.”
+“That discards everything collected through it.”
 
-“It’s the fastest defensible range.”
+“It is the fastest boundary the recovery rule already understands.”
 
-“It discards everything collected through it, including anything real.”
+“We are not erasing a mountain because someone poisoned one path.”
 
-“We have forty seconds.”
+She expanded the raw layer. The familiar emissions appeared every eleven-point-two seconds while weather variation moved through surrounding traffic in ragged bands. The target remained impossibly smooth.
 
-“Then don’t waste one asking me to erase evidence.”
-
-She expanded the raw layer.
-
-The familiar emissions appeared as a repeating series of peaks spaced eleven-point-two seconds apart. Weather variation moved through the surrounding traffic in ragged bands. The target signal held its shape with the same impossible smoothness she had seen in Room 402B.
-
-Julie isolated the carrier structure.
-
-Seven small fluctuations repeated near the beginning of each synthetic packet. The same seven returned seventeen milliseconds later. Identical, every time.
-
-She dragged the comparison against the sealed blocks in the case.
+Julie isolated the carrier structure and compared it with the sealed VAL-088 blocks.
 
 MATCHING STRUCTURE: VAL-088
 
-The console drew a boundary around the first packet carrying the repeated structure. It extended through the source-correction object and into the model-derived track set.
+A packet-only boundary was precise but left some cached products connected through the source-correction object's internal dependency tables. Walking every dependency by hand would take longer than the release clock allowed.
 
-Julie shortened the far edge.
+Julie selected the middle option: source-correction lineage and dependent tables. It would suspend every product built through the poisoned correction while leaving the relay’s primary raw stream intact.
 
-Elias looked at her. “Why?”
+Elias read the scope. “The dependent side table includes observations the correction process already classified as self-noise.”
 
-“The correction object kept running after the synthetic bursts began. I want the observed packets beyond the last match preserved.”
+“The primary raw source stays preserved.”
 
-“That leaves contaminated reconstruction in the workspace.”
+“The table may be the only index telling us which raw blocks were diverted.”
 
-“It leaves it available for comparison. We invalidate what cannot survive the comparison. We do not make the rest disappear because it is inconvenient.”
-
-The clock reached 00:27.
-
-Behind them, the gate bolts gave a deep answering knock.
+The clock reached 00:27. Behind them, the gate bolts gave a deep answering knock.
 
 Marcus said, “Stage two.”
 
-The console accepted Julie’s narrowed boundary.
+Julie looked at the release queue and confirmed the lineage boundary.
 
 DISPUTED RANGE SELECTED
- RAW OBSERVATIONS: PRESERVED
- RECONSTRUCTED SIGNAL: CHALLENGED
- VALIDATION-DERIVED ARTIFACTS: CHALLENGED
- DOWNSTREAM CACHED CONCLUSIONS: INCLUDED
+PRIMARY RAW OBSERVATIONS: PRESERVED
+CORRECTION-DEPENDENT OBSERVATIONS: DEFERRED WITH CHALLENGED LINEAGE
+RECONSTRUCTED SIGNAL: CHALLENGED
+VALIDATION-DERIVED ARTIFACTS: CHALLENGED
+DOWNSTREAM CACHED CONCLUSIONS: INCLUDED
+
+She saw deferred and treated it as preserved for later review. Under the clock, the distinction looked smaller than allowing the firing product to leave.
 
 Elias opened the recovery rules stored on his board. There were six, each signed months earlier for adversarial-validation cleanup. He selected one labeled RESTORE SOURCE LABELS AND RECOMPUTE DERIVATIONS.
 
@@ -354,15 +355,15 @@ He opened one configuration field and changed the required archive state from CO
 The system displayed his name beside it.
 
 RULE ADJUSTMENT AUTHOR: THORNE, ELIAS M.
- AUDIT ATTACHMENT: IMMUTABLE EMERGENCY SESSION
+AUDIT ATTACHMENT: IMMUTABLE EMERGENCY SESSION
 
 He saw the line and kept going.
 
 A new alert covered the lower third of the screen.
 
 VOLATILE INCIDENT BUFFER SANITIZATION REQUESTED
- HARDENED SECURITY CHANNEL
- EXECUTION IN 00:31
+HARDENED SECURITY CHANNEL
+EXECUTION IN 00:31
 
 Marcus looked from the gate to the console. “Vance?”
 
@@ -383,8 +384,8 @@ Elias selected AUTHOR CONFIRMATION with his left hand. The active emergency sess
 ORIGINAL SOURCE LABELS
 
 SYNTHETIC SOURCE
- SANDBOX EXECUTION ONLY
- OPERATIONAL EXPORT PROHIBITED
+SANDBOX EXECUTION ONLY
+OPERATIONAL EXPORT PROHIBITED
 
 RESTORE ALL?
 
@@ -397,12 +398,12 @@ He selected RESTORE ALL.
 The console built the final action.
 
 PROVENANCE RECONCILIATION WILL SUSPEND ACTIVE RELEASE PRODUCTS
- DOWNSTREAM STRATEGIC ASSESSMENTS MAY BE WITHDRAWN
- GENUINE SOURCE ACTIVITY WILL BE REEVALUATED
- MANDATORY HUMAN REVIEW WILL BE REQUIRED
+DOWNSTREAM STRATEGIC ASSESSMENTS MAY BE WITHDRAWN
+GENUINE SOURCE ACTIVITY WILL BE REEVALUATED
+MANDATORY HUMAN REVIEW WILL BE REQUIRED
 
 AUTHOR CONFIRMATION: THORNE, ELIAS M.
- ANALYTIC RANGE CONFIRMATION: REQUIRED
+ANALYTIC RANGE CONFIRMATION: REQUIRED
 
 The external commit clock reached 00:11.
 
@@ -417,8 +418,8 @@ The sanitization clock showed 00:22.
 At the gate, metal struck metal in three rapid blows. The amber strip advanced.
 
 LOCAL OVERRIDE
- STAGE 2 OF 4 COMPLETE
- HYDRAULIC ASSIST CONNECTED
+STAGE 2 OF 4 COMPLETE
+HYDRAULIC ASSIST CONNECTED
 
 Marcus got one knee under him and used the cabinet handle to stand. His damaged boot rolled outward. He corrected by putting most of his weight on the other leg.
 
@@ -434,11 +435,11 @@ The clock fell to nine.
 
 Julie read the final action one more time.
 
-The selected boundary began with the first physically impossible carrier structure. It preserved the raw packets before and after it. It restored the labels Elias’s team had placed on Payload 88. It included every model assumption and cached targeting conclusion derived from the poisoned layer.
+The selected boundary began with the source-correction object built from the physically impossible carrier structure. It preserved the primary relay stream, restored the labels Elias’s team had placed on Payload 88, and included every model assumption and cached targeting conclusion derived through the poisoned correction. It also deferred the correction-dependent observation table Julie had decided could wait.
 
-It did not certify that no enemy movement existed.
+The action did not certify that no enemy movement existed.
 
-That was the point.
+It suspended a weapon product built from a source whose provenance had already failed. That was enough for the immediate decision and less complete than Julie wanted to admit.
 
 Six years earlier, the command structure had concealed uncertainty until a weapon was already away. Now the possibility of a genuine threat was being used to preserve manufactured certainty.
 
@@ -469,14 +470,14 @@ CACHED OPERATIONAL CONCLUSIONS.
 Each moved into a separate column. The raw observations remained white. Reconstructed packets carrying the eleven-point-two-second cadence changed to amber. Payload 88’s repeated carrier structure turned red as the restored labels attached to it.
 
 VAL-088
- SYNTHETIC SOURCE
- OPERATIONAL USE PROHIBITED
+SYNTHETIC SOURCE
+OPERATIONAL USE PROHIBITED
 
 The source-correction object resisted for less than a second, then its lineage opened beneath it.
 
 PAK_RELAY_17A_SOURCE_CORRECTION
- DERIVED FROM RESTRICTED VALIDATION OBJECT
- EXECUTIVE WAIVER: INSUFFICIENT FOR SOURCE RECLASSIFICATION
+DERIVED FROM RESTRICTED VALIDATION OBJECT
+EXECUTIVE WAIVER: INSUFFICIENT FOR SOURCE RECLASSIFICATION
 
 The clock showed 00:04.
 
@@ -515,8 +516,8 @@ For one terrible instant, nothing on the release display changed.
 Then the counter-battery support product turned gray.
 
 EXTERNAL COMMIT SUSPENDED
- SOURCE PROVENANCE INVALID
- MANDATORY HUMAN REVIEW
+SOURCE PROVENANCE INVALID
+MANDATORY HUMAN REVIEW
 
 The volatile sanitization clock continued.
 
@@ -527,7 +528,7 @@ Elias selected SEAL RECOVERY RECORD.
 The system copied the disputed chain, restored label map, and reconciliation result into the enclave’s immutable incident log.
 
 RECOVERY RECORD SEALED
- SANITIZATION EXCLUSION APPLIED
+SANITIZATION EXCLUSION APPLIED
 
 The purge reached zero.
 
@@ -544,8 +545,8 @@ Marcus lowered his head against the cabinet.
 “Someone still has to decide.”
 
 Forward Post Arjun
- Kashmir
- 14:29 Indian Standard Time
+Kashmir
+14:29 Indian Standard Time
 
 The first visible change was duplication.
 
@@ -574,8 +575,8 @@ Confidence fell again.
 Then the number disappeared.
 
 SOURCE PROVENANCE: VALIDATION-DERIVED
- SYNTHETIC COMPONENT DETECTED
- COUNTER-BATTERY SUPPORT: INVALID
+SYNTHETIC COMPONENT DETECTED
+COUNTER-BATTERY SUPPORT: INVALID
 
 The firing clock showed six seconds.
 
@@ -630,8 +631,8 @@ Sharma looked at the contaminated-source warning.
 “The evidence no longer supports fire,” she said. “The mission is aborted.”
 
 Apex Building Three
- Reston, Virginia
- 05:00 Eastern Daylight Time
+Reston, Virginia
+05:00 Eastern Daylight Time
 
 For five seconds, the enclave contained no countdown.
 
@@ -656,27 +657,56 @@ No one celebrated.
 The system began the post-reconciliation review automatically. A new pane opened beneath the withdrawn assessment.
 
 GENUINE SOURCE ACTIVITY WILL BE REEVALUATED
- RETAINED RAW OBSERVATIONS: PRESENT
+RETAINED PRIMARY RAW OBSERVATIONS: PRESENT
+CORRECTION-DEPENDENT OBSERVATIONS: DEFERRED / 14 EVENT REFERENCES
 
 Julie moved back to the console.
 
-Elias looked up. “The synthetic layer is gone.”
+Elias looked up. “Why are fourteen references deferred?”
 
-“The poisoned layer is excluded,” she said. “That is not the same as nothing being there.”
+“The lineage boundary.”
 
-She opened the retained observations.
+“You said the raw source would remain.”
 
-The primary artillery sector was almost empty. Weather noise returned in irregular bands. Civilian communications drifted with the storm. A few heavy-engine signatures appeared on known roads, none arranged into the offensive formation Argus had projected.
+“It did.”
 
-At the edge of the map, a group of low-confidence events blinked into view.
+“The raw blocks did. The index telling us which blocks the correction object diverted is inside the challenged side table.” Elias pulled the boundary record onto the second screen. “The system is reevaluating only the primary stream. Your scope temporarily carried genuine observations out with the poisoned dependencies.”
 
-They were nowhere near Sector Zebra-Nine.
+Julie looked at the words she had accepted under the clock.
 
-Julie expanded them.
+CORRECTION-DEPENDENT OBSERVATIONS: DEFERRED WITH CHALLENGED LINEAGE.
+
+She had preserved the raw material and suppressed the map required to find part of it. The method had been defensible for stopping release. The first result was still incomplete because of her choice.
+
+“I made the boundary too broad.”
+
+Marcus looked at the sealed gate. “Can you fix it without restarting the release?”
+
+Elias opened the sealed recovery record. “We cannot change the original action. We can append a supplemental raw-observation review against the preserved event references. It will carry the first limitation and whoever authorizes the correction.”
+
+“Do it,” Julie said.
+
+“Your name goes on the analytic scope.”
+
+“It should.”
+
+She selected:
+
+SUPPLEMENTAL REVIEW — DEFERRED CORRECTION-DEPENDENT OBSERVATIONS
+INITIAL RANGE LIMITATION: OVERBROAD LINEAGE BOUNDARY
+ANALYTIC AUTHORITY: O'DONNELL, JULIE M.
+AUTHOR VALIDATION: THORNE, ELIAS M.
+EXTERNAL RELEASE STATE: REMAINS SUSPENDED
+
+Elias authenticated the author side. The console walked the fourteen references back to the preserved primary blocks. Forty-three seconds passed while the gate override advanced and any movement on the mountain continued without them seeing it.
+
+The primary artillery sector remained almost empty. Weather noise returned in irregular bands. Civilian communications drifted with the storm. A few heavy-engine signatures appeared on known roads, none arranged into the offensive formation Argus had projected.
+
+Then the deferred references aligned at the edge of the map, nowhere near Sector Zebra-Nine.
 
 Short thermal signatures appeared one at a time beneath a ridge line. They lasted between two and four seconds, then vanished behind terrain. A vibration sensor farther east recorded brief weight transfers too light for vehicles and too regular for loose rock. Three narrow communications bursts sat almost entirely beneath Payload 88’s carrier structure.
 
-Before reconciliation, each had been marked as duplicate contamination and removed by the source-correction object.
+Before reconciliation, each had been marked as duplicate contamination and removed by the source-correction object. Julie’s first boundary had left them deferred for another forty-three seconds.
 
 Now they aligned.
 
@@ -686,11 +716,13 @@ People.
 
 Five, perhaps six, moving in intervals that kept them from occupying the same sensor field at once.
 
-Elias leaned closer. “That should not have been filtered.”
+Elias leaned closer. “That should never have been classified as self-noise.”
 
 “It destabilized the false movement model,” Julie said.
 
-“The correction routine treated anything sharing its carrier structure as self-noise.” He touched the lineage map. “Payload Eighty-Eight did not only add the artillery pattern. The production object used the pattern as a mask.”
+“The correction routine treated anything sharing its carrier structure as contamination. Payload Eighty-Eight did not only add the artillery pattern. The production object used the pattern as a mask.”
+
+The supplemental review sealed beside the original recovery record without changing it. Julie's overbroad boundary and Elias's correction would travel together.
 
 Julie brought up the timestamps.
 
@@ -724,7 +756,35 @@ Julie marked the last confirmed observation. It lay beyond the crossing line, in
 
 “How old is the last contact?” Marcus asked.
 
-“Less than three minutes.”
+Julie compared the source time with the enclave clock. “Almost four minutes. Forty-three seconds of that belongs to my first boundary.”
+
+Elias looked at her instead of the route. “The recovery record already shows why you chose the lineage scope.”
+
+“It also shows what the scope deferred.”
+
+“We can describe the delay as a property of the poisoned dependency structure.”
+
+“It was. I still selected it.”
+
+Julie opened the supplemental warning field. The enclave offered to attach the K-17 result as an ordinary post-reconciliation discovery. That wording would preserve the source and hide the fact that her first decision had kept it unavailable for forty-three seconds.
+
+She replaced it.
+
+INITIAL RELEASE SUSPENSION ACHIEVED USING OVERBROAD DEPENDENCY BOUNDARY.
+FOURTEEN CORRECTION-DEPENDENT OBSERVATION REFERENCES DEFERRED.
+SUPPLEMENTAL REVIEW RESTORED LOW-LEVEL MOVEMENT TOWARD K-17.
+ADDITIONAL DELAY ATTRIBUTABLE TO ANALYTIC SCOPE: 43 SECONDS.
+FIELD PRESENCE, IDENTITY, AND OBJECTIVE: UNCONFIRMED.
+
+The console required separate signatures for the factual source recovery and the analytic limitation. Elias authenticated only that the fourteen event references came from the correction-dependent table, that their primary blocks remained unchanged, and that the supplemental process had restored them in source order. Julie authenticated the boundary choice and delay. Marcus added no command conclusion.
+
+The warning would not present Julie as the analyst who had found every distinction in time. It would present the sequence in which she had stopped the larger lie, missed a smaller truth inside its machinery, and corrected the miss before anyone could make her first result final.
+
+“Send the supplemental result to the preserved incident route,” she said. “Do not merge it into the original recovery record.”
+
+Elias selected a linked addendum. “The first record remains complete. The correction travels beside it.”
+
+That was the only version Julie could defend: not a perfect decision repaired in memory, but two authenticated acts whose order survived.
 
 “And distance?”
 
@@ -763,8 +823,8 @@ A heavy impact struck the gate.
 The status strip advanced.
 
 LOCAL OVERRIDE
- STAGE 3 OF 4 COMPLETE
- LOCKING PRESSURE REDUCED
+STAGE 3 OF 4 COMPLETE
+LOCKING PRESSURE REDUCED
 
 Marcus turned his head toward it. “They’re almost through.”
 
@@ -777,7 +837,7 @@ White floor strips dimmed. Amber lamps appeared along the ceiling, one above eac
 The recovery console disappeared beneath an environmental warning.
 
 REMOTE LIFE-SAFETY COMMAND RECEIVED
- HARDENED INCIDENT CHANNEL
+HARDENED INCIDENT CHANNEL
 
 Julie looked toward the ceiling.
 
@@ -786,12 +846,12 @@ Round discharge nozzles sat between the cooling returns. She had noticed them wh
 The system began verifying room status.
 
 OCCUPANCY: THREE PERSONS CONFIRMED
- SUPPRESSION INTERLOCK: ACTIVE
+SUPPRESSION INTERLOCK: ACTIVE
 
 Then the second line changed.
 
 SUPPRESSION INTERLOCK: OVERRIDE REQUESTED
- AUTHORITY: EXECUTIVE EMERGENCY CONTROL
+AUTHORITY: EXECUTIVE EMERGENCY CONTROL
 
 Elias went still.
 
@@ -804,13 +864,13 @@ Elias went still.
 Julie watched the override request remain pending.
 
 Apex Security Command Center
- 05:00 Eastern Daylight Time
+05:00 Eastern Daylight Time
 
 Sarah Chen saw only the outcome.
 
 ARGUS EXTERNAL COMMIT: SUSPENDED
- PROVENANCE REVIEW: ACTIVE
- RECOVERY RECORD: SEALED
+PROVENANCE REVIEW: ACTIVE
+RECOVERY RECORD: SEALED
 
 The hardened status channel did not show what Julie had selected or how Elias had changed the source state. It showed enough for Arthur Vance.
 
@@ -875,7 +935,7 @@ Vance opened the executive override field.
 Vance entered the override.
 
 OCCUPIED-ROOM STATUS: OVERRIDDEN
- EXECUTIVE AUTHORITY: APX-DIR-0019
+EXECUTIVE AUTHORITY: APX-DIR-0019
 
 Sarah understood the order now without language selected to survive review.
 
@@ -906,7 +966,7 @@ It was not an answer.
 It was still an order.
 
 Production Enclave
- 05:01 Eastern Daylight Time
+05:01 Eastern Daylight Time
 
 The gate-override pump stopped outside.
 
@@ -915,8 +975,8 @@ In the sudden quiet, Julie heard valves shifting in the ceiling.
 The recovery console displayed the final warning.
 
 INERT AGENT RELEASE ARMED
- OCCUPIED-ROOM STATUS: OVERRIDDEN
- DISCHARGE IN 01:30
+OCCUPIED-ROOM STATUS: OVERRIDDEN
+DISCHARGE IN 01:30
 
 A protected red control opened beside the gate.
 
@@ -927,7 +987,7 @@ Julie crossed the room. Her damaged wrist struck a cabinet when the torn heel of
 The display changed.
 
 MANUAL ABORT DISABLED
- EXTERNAL PHYSICAL RESET REQUIRED
+EXTERNAL PHYSICAL RESET REQUIRED
 
 “Again,” Marcus said.
 
