@@ -44,6 +44,16 @@ jobs:
         id: final_verification
         continue-on-error: true
         run: python3 tools/verify_book1_revision.py > artifacts/book1-final-verification-current.txt 2>&1
+      - name: Append protected opening hashes
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          {
+            echo
+            echo "PROTECTED_HASHES_CURRENT"
+            sha256sum \
+              books/book-01/manuscript/prologue.md \
+              books/book-01/manuscript/chapters/chapter-01.md
+          } >> artifacts/book1-final-verification-current.txt
       - name: Show independent verification result
         if: steps.gate.outputs.run == 'true'
         run: cat artifacts/book1-final-verification-current.txt
