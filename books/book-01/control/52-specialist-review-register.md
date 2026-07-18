@@ -2,17 +2,18 @@
 
 **Manuscript:** *Veridrift*  
 **Canonical inventory:** `../ACCEPTED_MANUSCRIPT.yaml`  
-**Publication rule:** Every area below requires a named qualified reviewer, a dated deliverable, and an explicit disposition. Internal analysis, web research, or an AI-generated plausibility check cannot close an external-review gate.
+**Publication rule:** Every area below requires a named qualified reviewer, a dated deliverable, and an explicit disposition. Internal analysis, web research, or an AI-generated plausibility check cannot close an external-review gate.  
+**Public-source desk review:** Completed 2026-07-18; see `58-internet-research-desk-review.md`.
 
-| Area | Issue | Status | Reviewer | Qualifications | Review date | Disposition | Critical | Material | Minor | Preference |
-|---|---:|---|---|---|---|---|---:|---:|---:|---:|
-| SIGINT / ELINT / source provenance | #70 | UNREVIEWED | — | — | — | — | — | — | — | — |
-| Military targeting / UAS / JAG | #71 | UNREVIEWED | — | — | — | — | — | — | — | — |
-| Secure facilities / fire / suppression | #72 | UNREVIEWED | — | — | — | — | — | — | — | — |
-| PKI / hardware token / digital forensics | #73 | UNREVIEWED | — | — | — | — | — | — | — | — |
-| Federal investigation / evidence custody / legal process | #74 | UNREVIEWED | — | — | — | — | — | — | — | — |
-| Indian Army / artillery / South Asia security | #75 | UNREVIEWED | — | — | — | — | — | — | — | — |
-| Trauma medicine / injury continuity | #76 | UNREVIEWED | — | — | — | — | — | — | — | — |
+| Area | Issue | External status | Public-source desk review | Reviewer | Qualifications | Review date | Disposition | Critical | Material | Minor | Preference |
+|---|---:|---|---|---|---|---|---|---:|---:|---:|---:|
+| SIGINT / ELINT / source provenance | #70 | UNREVIEWED | COMPLETE — retain with limits | — | — | — | — | — | — | — | — |
+| Military targeting / UAS / JAG | #71 | UNREVIEWED | COMPLETE — one material correction | — | — | — | — | — | — | — | — |
+| Secure facilities / fire / suppression | #72 | UNREVIEWED | COMPLETE — retain with limits | — | — | — | — | — | — | — | — |
+| PKI / hardware token / digital forensics | #73 | UNREVIEWED | COMPLETE — one material correction | — | — | — | — | — | — | — | — |
+| Federal investigation / evidence custody / legal process | #74 | UNREVIEWED | COMPLETE — one material correction | — | — | — | — | — | — | — | — |
+| Indian Army / artillery / South Asia security | #75 | UNREVIEWED | COMPLETE — retain with limits | — | — | — | — | — | — | — | — |
+| Trauma medicine / injury continuity | #76 | UNREVIEWED | COMPLETE — retain | — | — | — | — | — | — | — | — |
 
 ## Status values
 
@@ -23,6 +24,8 @@
 - **APPROVED WITH CORRECTIONS:** Reviewer approved the mechanism after specified corrections; corrections still require continuity validation.
 - **APPROVED:** Review is complete and no unresolved critical or material finding remains.
 - **NOT APPROVED:** A central scene or mechanism remains implausible after attempted correction.
+
+A completed public-source desk review is not an external status and does not change any row from **UNREVIEWED**.
 
 ## Required evidence for closure
 
