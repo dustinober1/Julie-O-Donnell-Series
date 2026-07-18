@@ -14,69 +14,132 @@ ARJ-K17-ACK-01
 PRESERVATION ROUTE: ACCEPTED
 NAMED U.S. MERITS RECIPIENT: NONE
 
-Julie sat in the observation alcove with her left wrist attached to the front harness and her right forearm padded against the brace. Through reinforced glass, Ortiz stood beside the common chest. Grant occupied the incident-control desk. Alvarez waited from the DCIS duty suite. Hackett appeared in a second authenticated window. Apex counsel was present by voice.
+Julie sat in the observation alcove with her left wrist attached to the front harness and her right forearm padded against the hospital brace. Through reinforced glass, the common chest remained under MPD cameras. Grant occupied the incident-control desk. Alvarez waited from the DCIS duty suite. Hackett appeared in a second authenticated window. Apex counsel was present by voice.
 
-Each institution had preserved its part. MPD held seven packages. Hartwell held its local challenge record. Northbridge held its audit. Forward Post Arjun held the K-17 originals. Apex held its source-native incident files. Hackett had sponsored preservation. Grant had examined the board.
+Each institution had preserved its part.
+
+MPD held seven packages. Hartwell held the local challenge and handoff record. Northbridge held its WSS audit. Forward Post Arjun held the K-17 originals. Apex held its incident journals. The government Argus office held the product registry. DIA held Price’s request and access chronology. Hackett had sponsored preservation. Grant had examined the board.
 
 The fragmentation was accurate.
 
 It was also a system in which every custodian could protect only the part named in its authority and leave the contradiction ownerless.
 
-Alvarez asked, “What is the harm if DCIS accepts the external acknowledgment but leaves the domestic records under separate assistance requests?”
+Apex counsel spoke first.
 
-“The field result becomes an allied exception,” Julie said. “The board becomes a technical exception. Hartwell becomes a legislative-security exception. Apex becomes a contractor dispute. Each office can say the rest belongs somewhere else.”
+“There is no verified basis for treating an allied acknowledgment, unlawfully removed contractor material, a disputed Hartwell access event, and a local hardware observation as one federal incident.”
 
-Grant looked at her. “You are asking Alvarez to own links we have not proved.”
+Ortiz stood beside the common chest without touching the key clipped inside his vest.
 
-“I’m asking her to own the obligation to test them.”
+“They are already one MPD incident.”
 
-Ortiz said, “Sponsorship requests action. It does not receive the result.”
+“That is police packaging. It does not create federal jurisdiction.”
 
-Hartwell had made the same demand in formal language: one named federal claimant for incident 187463 before it would produce the held challenge record.
+“No,” Ortiz said. “It creates seven things I am not handing to seven claimants because each wants only the part useful to its theory.”
 
-Alvarez turned to Grant. “Can DCIS accept investigative responsibility while MPD keeps physical custody?”
+The sentence remained in the room.
+
+Alvarez asked Julie, “What is the operational harm if DCIS accepts the external acknowledgment for preservation and leaves the domestic records under separate assistance requests?”
+
+Julie had spent the night expecting the question and the morning trying not to answer before someone asked.
+
+“The field result becomes an allied exception. The board becomes a hardware exception. Hartwell becomes a legislative-security exception. Apex becomes a contractor dispute. Each office can say the rest belongs somewhere else.”
+
+Grant turned in her chair. “You are asking Alvarez to own links we have not proved.”
+
+“I am asking her to own the obligation to test them.”
+
+“Those are not the same thing.”
+
+“No.”
+
+Julie kept the distinction intact. A named receiver could test whether the records belonged together without declaring that they did.
+
+Hackett said, “My office can continue sponsorship.”
+
+“Sponsorship asks someone else to act,” Ortiz replied. “It does not accept the result.”
+
+Hartwell had made the same demand in formal language. Its held record would be produced only to one named federal claimant for incident 187463. Not a program sponsor. Not a technical consultant. Not a routing desk.
+
+A name.
+
+Alvarez placed both hands flat on the desk visible in her camera.
+
+“Agent Grant, can DCIS accept investigative responsibility while MPD keeps physical custody?”
 
 “Yes.”
 
 “Can we receive the K-17 acknowledgment without taking Indian originals?”
 
-“Yes.”
+“Yes. We receive a bounded reference and its caveats. Arjun retains the source.”
 
-“Can we seek Hartwell’s local challenge and handoff record without claiming Senate property or unrelated briefing content?”
+“Can we seek Hartwell’s challenge and custody record without claiming Senate property or unrelated briefing content?”
 
-“Yes, if the scope stays that narrow.”
+“Yes, if the request names the challenged serial, the local challenge, the physical handoff, and the institutional custodians before and after. Nothing else.”
 
-Apex counsel objected that receiving responsibility could not cure the unauthorized acquisition of company and classified material.
+“Can we accept the incident without acquiring the people in it?”
+
+“Yes. Julie, Marcus, Elias, and Price remain under separate medical, detention, representation, employment, and interview processes.”
+
+Apex counsel entered an objection. “Receiving responsibility cannot cure the original unauthorized acquisition of classified and proprietary material.”
 
 “It does not cure anything,” Grant said. “It gives every objection an address.”
 
-She built the receiving instrument from existing records instead of Julie’s language. It listed the seven MPD packages by role and current seal condition, not by a new technical theory. Physical custody remained with MPD. Any later examination would name one package, one question, one tool, one operator, one witness, and one new seal event before a latch moved.
+The phrase was not Julie’s. Grant had reached it through her own work.
 
-The K-17 acknowledgment entered beneath a separate heading.
+Alvarez told Grant to build the receiving instrument from existing records, not from a new narrative.
 
+Grant began with MPD.
+
+Ortiz opened the digital summary Park had created from the scene record. He did not unlock the chest. He read the seven packages by role and current condition: aluminum case, recovery cartridge, paper custody log, telematics module, waterproof folder and itemization, administrator board under its documented replacement seal, and dual-partition field module. All remained inside the common chest. No movement followed the board reseal. No connection had occurred.
+
+“Physical custody stays MPD,” Ortiz said. “No opening, imaging, mounting, merging, or transfer without separate written authority, scope, witness, and receipt.”
+
+Alvarez asked, “Interpretation?”
+
+“Receiving the incident is not adoption of any subject’s account, technical conclusion, classification position, guilt, innocence, admissibility, immunity, ownership, or final jurisdiction.”
+
+Apex counsel objected to classification position.
+
+Alvarez left it in.
+
+Grant placed the K-17 acknowledgment beneath a separate heading.
+
+EXTERNAL INCIDENT REFERENCE: ARJ-K17-ACK-01
 ORIGINAL MEDIA: FORWARD POST ARJUN
 U.S. RECEIPT: BOUNDED REFERENCE ONLY
 RAW FIELD GEOGRAPHY: NOT RECEIVED
 
-Hartwell’s scope was limited to the challenged serial, local challenge, access sequence, clock basis, and institutional custody immediately before and after the event. Northbridge’s local audit remained in Northbridge custody. Cross-references could not be used as authority to connect or merge packages.
+The Hartwell scope named only its held event: challenged device serial, local perimeter challenge, access sequence, source clock, and physical custody immediately before and after. Northbridge’s audit remained at Northbridge. The office device remained wherever legislative security located it. Cross-references could not be used as authority to connect, copy, or merge packages.
 
-Ortiz read the MPD conditions into the instrument once. Seven packages. Common chest. One replacement seal from the board examination. No later movement, opening, or connection.
+Julie read the clause on the screen.
 
-Alvarez added that receiving the incident did not acquire Julie, Marcus, or Elias. Their medical, detention, representation, and interview decisions remained separate.
+“Add that a later technical finding cannot silently expand the scope of an earlier receipt.”
 
-Apex counsel preserved objections to jurisdiction, classification, property, and privilege. Alvarez left them in.
+Grant looked toward her. “Why?”
 
-At 10:08, Sarah Chen submitted an authenticated index from Apex.
+“The board result will make every other object look like part of a replay case. K-17 will make them look like a field operation. Hartwell will make them look political. Each result changes what people want the unopened packages to mean.”
 
-Apex counsel called it a summary.
+Grant considered the language, then entered it in her own form.
 
-“It is not a summary,” Sarah said over the recorded channel.
+Apex counsel called the clause unnecessary.
 
-Grant opened the certificate pane. “State what it is.”
+Ortiz said, “Then it will cause no problem.”
 
-“An index of preserved source categories and current retention states. It identifies the initial capture directive, the executive material-loss force addendum issued forty-three seconds later, my force-standard response, the occupied-room suppression override, the WSS-four vendor-watch rule, the resulting alert, and Mercer’s relevant command traffic.”
+At 10:08, a new authenticated source entered from Apex.
 
-“Does the index establish the truth of every event?”
+The document identified Sarah Chen as certifying official and APX-B3-IR-5521 as the source index. Apex counsel introduced it as a summary of the company’s incident response.
+
+Sarah’s voice entered before Grant opened the file.
+
+“It is not a summary.”
+
+Counsel went quiet.
+
+Grant displayed the certificate pane. “State what it is.”
+
+“An authenticated index of preserved source categories and their current retention states. It identifies the lawful capture directive, the executive material-loss force addendum issued forty-three seconds later, my force-standard instructions, the occupied-room suppression override, the WSS-four vendor-watch rule, the alert generated from it, and relevant Mercer command traffic.”
+
+“Does the index establish the truth or legality of every underlying event?”
 
 “No.”
 
@@ -84,46 +147,80 @@ Grant opened the certificate pane. “State what it is.”
 
 “No.”
 
-“Certify that the records remain held in the listed repositories?”
+“Certify that the indexed records remain held in the stated repositories as of the certificate time?”
 
 “Yes.”
 
-Apex counsel offered a consolidated corporate narrative in place of the source index.
+Apex counsel offered a consolidated narrative that would omit privileged internal traffic.
 
-Sarah’s answer remained level. “The narrative is not the index I certified.”
+Sarah remained in the vocabulary of compliance rather than accusation.
 
-She did not help Julie by adopting Julie’s account. She kept Apex from replacing exact categories with a safer noun.
+“The narrative is not the index I certified. The source categories and their order remain preserved. The company’s legal and classification objections remain preserved with them.”
 
-Alvarez ordered the indexed sources held against replacement, deletion, or routine expiration. Sarah confirmed the hold and the company’s objections in the same certificate.
+Alvarez said, “DCIS is preparing to accept federal responsibility for incident 187463. Preserve the indexed sources against deletion, replacement, reassignment, or routine expiration. Production will be separately demanded.”
 
-Grant turned the completed receiving instrument toward Alvarez’s camera.
+“The hold already records those restrictions,” Sarah said. “It also records Apex’s objection to your authority.”
+
+“Leave the objection in.”
+
+“I intended to.”
+
+Julie watched Sarah’s window close.
+
+Sarah had not joined Julie’s side. She had prevented Apex’s safer narrative from replacing the source index. The difference made her more useful than allegiance would have.
+
+Grant completed the instrument.
 
 DCIS-FR-187463-01
 FEDERAL RECEIVING AUTHORITY: ALVAREZ, MIRIAM
 PHYSICAL CUSTODY: MPD / UNCHANGED
 SCOPE: PRESERVATION, INQUIRY, LIMITED PROCESS
 
-The confirmation screen offered no provisional wording and no place to leave consequences unnamed.
+The confirmation screen displayed what acceptance created: responsibility for preservation, source routing, scope control, disclosure decisions, and later demands. It offered no provisional box and no field for another office to accept the consequences.
 
-Alvarez inserted her credential and accepted.
+Hackett said, “My assistance request remains sponsorship.”
 
-Park read the effective time into the fixed record. Ortiz confirmed the chest remained locked.
+“Yes,” Alvarez said.
 
-Julie felt no relief. Safe was not the same as owned.
+“And my office remains identified as requesting preservation of military and allied categories.”
 
-What changed was that the incident now had a federal name on it.
+“Yes.”
 
-Grant waited for the instrument to seal before opening the merits layer of ARJ-K17-ACK-01.
+Hackett’s name stayed attached to the request without becoming a conclusion.
 
-“No Indian rounds were fired,” she said.
+Alvarez inserted her credential and confirmed.
+
+Park read the effective time into the fixed record. Ortiz stated that the chest remained locked.
+
+Julie felt no relief.
+
+Safe was not the same as owned.
+
+What changed was simpler and harder to reverse.
+
+The incident had a federal name on it.
+
+Grant waited for the receiving instrument to seal before opening the merits layer of ARJ-K17-ACK-01.
+
+“The bounded field result is now available to the named receiver and authorized incident personnel,” she said. “No further disclosure.”
+
+The first line appeared.
+
+NO INDIAN ROUNDS FIRED.
 
 The room lost its sound.
 
-Julie’s left hand loosened inside the restraint. Eleven civilians six years ago remained dead. Imran Khalid remained dead. Four seconds remained four seconds.
+Julie’s left hand loosened inside the restraint. Her right wrist continued to pulse beneath the brace, indifferent to what had or had not happened on the mountain.
 
-But on the mountain, Ananya Sharma had reached the edge of an American certainty and refused to let it replace her responsibility for firing.
+Eleven civilians six years ago remained dead. Imran Khalid remained dead. Four seconds remained four seconds.
 
-Grant continued. The relay stood physically intact at patrol inspection. The patrol had not crossed the inner boundary or pursued tracks beyond a hard stop. Those limits remained active.
+But Ananya Sharma had reached the edge of an American certainty and refused to let it replace her responsibility for firing.
+
+Julie lowered her eyes until the white pressure mark beneath the cuff came back into focus.
+
+Grant continued because the no-fire result was not an absolution.
+
+The relay stood physically intact at patrol inspection. The patrol had not crossed the inner boundary. A tamper or explosive hazard had not been excluded. Tracks beyond the hard stop had not been pursued where hostile presence, a Line-of-Control crossing, or explosive risk remained possible.
 
 Security Line One had nevertheless accepted a field authority registered to Major Tariq’s liaison cell. K17-PHASE-B reached the controller and requested a local source-record reconstruction through a maintenance commit. The required local confirmation never arrived. The authorization expired. No local write occurred.
 
@@ -131,25 +228,47 @@ A later allied product omitted those events.
 
 Hackett said, “Tariq attempted to alter the relay record.”
 
-Julie corrected him. “An authority registered to his cell reached the controller. The acknowledgment does not place Tariq at K-17 or put a device in his hand.”
+Julie corrected him. “An authority registered to his cell reached the controller. The acknowledgment does not place Tariq at K-17 or put the device in his hand.”
 
-Hackett accepted it.
+Hackett accepted the correction without argument.
 
-Grant read the remaining limits. Field operators unidentified. Upstream command unproved. Reconstruction author unproved. Reason for the later omission unproved.
+Grant’s attention remained on Julie for one beat longer than before.
 
-“The local operation failed,” she said. “The record does not tell us who commanded it.”
+“The record identifies the registered authority,” Grant said. “It does not identify the physical operator, upstream command, or author of the superseding product.”
 
-“It tells us the requested action class,” Julie said.
+Ortiz looked through the glass at the chest. “So K-17 was not changed.”
 
-Grant nodded. “That is the finding.”
+“The local attempt did not change it,” Grant said. “The later product changed the actionable picture at a different layer.”
 
-The correction belonged to both of them.
+Apex counsel returned. “The failed local event has no established relationship to Apex.”
 
-At 10:22, Hartwell accepted Alvarez’s named authority and approved the limited production. Grant prepared to travel with a clean encrypted receiver, her scope card, and no item from the MPD chest.
+“No relationship is established by the Arjun acknowledgment,” Grant said.
 
-Before leaving, she stopped beside Julie’s alcove.
+Julie asked, “The field team?”
 
-“If Hartwell gives me the institutional chain and not the person you expect, what do you do with it?”
+“Not identified.”
+
+“Present custodian of the Tariq-registered authority?”
+
+“Not established.”
+
+“Who ordered the commit?”
+
+“Not established.”
+
+The answers were limits, not evasions.
+
+Grant closed the acknowledgment pane. “The local operation failed. It tells us the requested action and the surviving contradiction. It does not tell us who commanded it.”
+
+Julie nodded. The record did not need to become larger to matter.
+
+At 10:22, Hartwell accepted Alvarez’s receiving instrument and approved the limited production. Grant removed no item from the MPD chest. She carried only the signed authority, a clean encrypted receiver, and a paper scope card.
+
+Ortiz assigned an MPD driver. Park recorded Grant’s departure time and the fact that no evidence package traveled with her.
+
+Before leaving the alcove, Grant stopped beside Julie.
+
+“If Hartwell gives me the institutional chain and not the person you expect, what do I do with it?”
 
 “Use the chain.”
 
@@ -157,10 +276,14 @@ Before leaving, she stopped beside Julie’s alcove.
 
 “Especially then.”
 
-Grant studied her for a moment. “Good.”
+Grant studied her. “And if the chain contradicts your theory?”
 
-She left for Hartwell.
+Julie looked at the public photograph of herself still visible on the muted intake television.
 
-Alvarez’s instrument remained on the wall display beside Sarah’s source index and Arjun’s bounded acknowledgment. Three records. Three custodians. One named receiver responsible for determining whether they described the same operation.
+“Then my theory changes.”
+
+Grant left for Hartwell.
+
+Alvarez’s receiving instrument remained on the wall beside Sarah’s source index and Arjun’s bounded acknowledgment. Three records. Three custodians. One named receiver responsible for testing whether they described the same operation.
 
 For the first time, no institution could preserve only its own exception and call the work complete.
