@@ -49,6 +49,7 @@ ENTRY_RE = re.compile(
 STALE_CONTROL_LITERALS = (
     "124,779",
     "61,124",
+    "105,144",
     "08:14:44 EDT / 17:44:44 IST",
     "Publication-ready state: not yet determined",
 )
@@ -104,8 +105,10 @@ def parse_manifest(root: Path) -> tuple[list[ManifestEntry], int, str]:
 
     if 'status: "developmentally_revised"' not in text:
         fail("manifest status must be developmentally_revised")
-    if 'publication_readiness: "specialist_review_and_copyedit_required"' not in text:
-        fail("manifest publication readiness must require specialist review and copyedit")
+    if 'copyedit_completed: "2026-07-18"' not in text:
+        fail("manifest must record completed copyedit")
+    if 'publication_readiness: "proofread_and_production_required"' not in text:
+        fail("manifest publication readiness must require proofread and production")
 
     if sum(entry.words for entry in entries) != total:
         fail(
