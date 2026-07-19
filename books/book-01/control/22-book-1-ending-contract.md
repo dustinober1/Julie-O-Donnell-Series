@@ -7,12 +7,12 @@ This contract records the mandatory Book 1 ending obligations and their accepted
 ## Final accepted state
 
 - Accepted manuscript: Prologue and Chapters 1–24
-- Accepted words: **124,779**
-- Accepted Act III subtotal: **61,124**
-- Endpoint: **08:14:44 EDT / 17:44:44 IST**, Julie's farm
-- Final chapter: **The Terms of Return**, accepted unchanged at **3,362 words**
+- Accepted words: **105,144**
+- Accepted Act III subtotal, Chapters 13–24: **39,262**
+- Endpoint: **October 16, late light, Julie's farm; no exact clock timestamp**
+- Final chapter: **The Terms of Return**, accepted at **3,115 words**
 - Book 1 structural state: complete
-- Publication-ready state: pending a separate final QA review
+- Publication-ready state: blocked by seven external specialist reviews, late-stage editing, and production proof
 
 ## Ending obligations fulfilled
 
@@ -30,7 +30,7 @@ Three source-limited public corrections fracture Sterling's hostile account. Van
 
 ### Immediate legal and medical state
 
-A named magistrate order, MPD acceptance, and physician-controlled treatment produce guarded medical transfer and conditional release without resolving charging, admissibility, classification, evidence contact, clearance, employment, or later lawful process. Julie's right wrist and forearm remain immobilized and unusable. Marcus remains hospitalized and oxygen-dependent. Elias remains medically impaired and represented.
+DCIS withdraws its request for continued investigative detention, no present federal detainer is sought, and the D.C. prosecutor declines to paper a local charge that day. Written MPD release authorization accepted by the watch commander removes the intake restraint and permits counsel-arranged medical transport. Counsel records availability and preservation undertakings; they are counsel agreements rather than judicially imposed release terms. Later lawful arrest, warrant, summons, detainer, or charging remains possible. Julie's right wrist and forearm remain immobilized and unusable. Marcus remains hospitalized and oxygen-dependent. Elias remains medically impaired and represented.
 
 ### Marcus aftermath and relationship movement
 
@@ -46,7 +46,7 @@ Julie rejects an Army billet, Apex-controlled employment, permanent dependence o
 
 ### Series-facing stabilization and home
 
-Julie returns to the farm through medically authorized transportation, does not drive or use her injured hand, and accepts bounded help with the fence. The farm remains home without remaining a hiding place. No client, message, anomaly, visitor, alarm, new operation, or sequel teaser appears.
+Julie returns to the farm through counsel-arranged, medically authorized transportation, does not drive or use her injured hand, and accepts bounded help with the fence. The farm remains home without remaining a hiding place. No client, message, anomaly, visitor, alarm, new operation, or sequel teaser appears.
 
 ## Deliberate bounded carryovers
 
