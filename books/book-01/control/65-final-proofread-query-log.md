@@ -1,10 +1,14 @@
 # Book 1 Final Proofread Query Log
 
-**Book:** *Veridrift*  
-**Pass:** Controlled final proofread  
-**Branch:** `agent/book1-controlled-final-proofread`  
-**Starting commit:** `08c6ebd6e3447f04165bb166f219238c99673777`  
-**Status:** One open author query  
+**Book:** *Veridrift*
+
+**Pass:** Controlled final proofread
+
+**Branch:** `agent/book1-controlled-final-proofread`
+
+**Starting commit:** `08c6ebd6e3447f04165bb166f219238c99673777`
+
+**Status:** One open author query
 
 This log contains only matters that cannot be resolved objectively without author judgment. No queried wording was silently changed.
 
