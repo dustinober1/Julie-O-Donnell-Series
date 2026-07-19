@@ -1,7 +1,7 @@
 # Book 1 Copyedit Query Log
 
-**Book:** *Veridrift*  
-**Pass:** Full mechanical copyedit  
+**Book:** *Veridrift*
+**Pass:** Full mechanical copyedit
 **Status:** No author-level copyedit queries identified
 
 The sequential copyedit of the manifest-listed Prologue and Chapters 1–24 identified no uncertainty that could be resolved mechanically without first changing canon, technical meaning, legal meaning, evidentiary weight, chronology, POV, or suspense structure.
