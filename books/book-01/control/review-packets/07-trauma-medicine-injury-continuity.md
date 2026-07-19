@@ -1,14 +1,25 @@
 # External Review Packet — Trauma Medicine / Injury Continuity
 
-**Tracking issue:** #76  
+**Tracking issue:** #76
 **Status:** UNREVIEWED
+**Accepted-manuscript baseline:** `main` commit `0a0ed1c5330cbe48a59499d7a4104aa02f6c059a`
+**Manifest:** `books/book-01/ACCEPTED_MANUSCRIPT.yaml`, version 2
+**Accepted structure:** Prologue + Chapters 1–24
+**Accepted total:** 105,144 words
+**Publication state:** NOT APPROVED FOR PUBLICATION
+
+An AI review, public-source review, informal conversation, or unnamed opinion cannot close this external-review gate. The issue remains **UNREVIEWED** until a named qualified reviewer supplies a dated, qualification-backed deliverable tied to the baseline above.
+
+## Minimum useful reviewer profile
+
+Emergency physician, trauma surgeon, paramedic, sports-medicine physician, or clinician experienced with concussion, rib/chest injury, wrist/thumb injury, and hip injury.
 
 ## Reviewer
 
 - Name:
 - Qualifications / relevant experience:
 - Review date:
-- Manuscript commit or compilation reviewed:
+- Exact manuscript commit, manifest version, or generated compilation reviewed:
 
 ## Content lock
 
@@ -42,15 +53,17 @@ Create a chapter-by-chapter capability ledger for Julie, Marcus, and Elias. For 
 |---|---|---|---|---|
 |  |  |  |  |  |
 
+Report both (a) errors or concerns and (b) credible material that should remain unchanged. Tie every finding to the exact chapter and passage and propose the smallest story-preserving correction.
+
 ## Findings
 
-| Severity | Chapter / passage | Problem | Smallest correction | Downstream impact |
+| Severity | Chapter / passage | Problem | Smallest story-preserving correction | Downstream impact |
 |---|---|---|---|---|
 |  |  |  |  |  |
 
 ## Credible elements to retain
 
-- 
+- [To be completed by reviewer]
 
 ## Final disposition
 
