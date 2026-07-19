@@ -23,6 +23,7 @@
 | PPQ-009 | ACCEPTED PROOF LIMITATION | DOCX | Microsoft Word-specific pagination, field refresh, and blank-page handling cannot be fully certified by LibreOffice. | Manual Word review required. |
 | PPQ-010 | ACCEPTED PROOF LIMITATION | PDF | Recto chapter starts were not forced in the PDF proof to avoid malformed parity pagination. | Author/production decision required before final print interior. |
 | PPQ-011 | FIXED IN PRODUCTION | Cross-format | Production headings, scene ornaments, navigation, and running furniture were excluded from prose comparison. | Independent DOCX/EPUB/PDF extraction comparison implemented. |
+| PPQ-012 | FIXED IN PRODUCTION | PDF validation | Initial PDF normalization treated a numeric prose-only line as a folio and did not account for a wrapped chapter heading. | Validator made page-aware; exact normalized PDF body now matches the manifest source hash. |
 
 ## Prose defects
 
