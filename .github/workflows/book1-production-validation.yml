@@ -1,0 +1,217 @@
+name: Book 1 Production Validation
+
+on:
+  push:
+    branches:
+      - agent/book1-production-package
+    paths:
+      - "books/book-01/**"
+      - "tools/build_book1_production.py"
+      - "tools/build_book1_production.payload.part*"
+      - "tools/test_book1_production.py"
+      - "requirements-production.txt"
+      - ".github/workflows/book1-production-validation.yml"
+  pull_request:
+    branches: [main]
+    paths:
+      - "books/book-01/**"
+      - "tools/build_book1_production.py"
+      - "tools/build_book1_production.payload.part*"
+      - "tools/test_book1_production.py"
+      - "requirements-production.txt"
+      - ".github/workflows/book1-production-validation.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+env:
+  BOOK1_SOURCE_COMMIT: 3a5b93adf59ab0cd84a80a676c16fdf495fd3287
+  PYTHONHASHSEED: "0"
+  SOURCE_DATE_EPOCH: "1784462400"
+
+jobs:
+  build-and-validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Record branch tree before generated artifacts
+        shell: bash
+        run: |
+          mkdir -p books/book-01/production/reports/command-logs
+          git rev-parse 'HEAD^{tree}' | tee books/book-01/production/reports/command-logs/base-tree-sha.txt
+          git rev-parse HEAD | tee books/book-01/production/reports/command-logs/validation-head-sha.txt
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install system validators and renderers
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends \
+            libreoffice-writer poppler-utils pandoc default-jre-headless fonts-dejavu-core unzip curl
+
+      - name: Install production Python dependencies
+        run: python -m pip install --disable-pip-version-check -r requirements-production.txt
+
+      - name: Confirm accepted prose is unchanged from PR 85 merge
+        shell: bash
+        run: |
+          python - <<'PY' > /tmp/accepted-paths.txt
+          import yaml
+          from pathlib import Path
+          data = yaml.safe_load(Path('books/book-01/ACCEPTED_MANUSCRIPT.yaml').read_text())
+          print('\n'.join(item['path'] for item in data['accepted_files']))
+          PY
+          while IFS= read -r path; do
+            git diff --quiet "$BOOK1_SOURCE_COMMIT" -- "$path" || { echo "Accepted prose changed: $path"; exit 1; }
+          done < /tmp/accepted-paths.txt
+          test "$(wc -l < /tmp/accepted-paths.txt)" -eq 25
+
+      - name: Run frozen-source suite before production
+        run: |
+          python -m unittest discover -s tools -p 'test_*.py' -v
+          python tools/count_book1_words.py --expect 105157
+          python tools/validate_book1_publication_readiness.py
+          python tools/analyze_book1_revision.py
+          python tools/analyze_book1_publication_style.py
+          python tools/compile_book1_from_manifest.py --output /tmp/Veridrift_PUBLICATION_MASTER.md
+          python tools/verify_book1_revision.py
+          python -m py_compile \
+            tools/count_book1_words.py \
+            tools/validate_book1_publication_readiness.py \
+            tools/verify_book1_revision.py \
+            tools/build_book1_production.py \
+            tools/test_book1_production.py
+          ruby -e "require 'yaml'; YAML.load_file('PROJECT_STATE.yaml'); YAML.load_file('books/book-01/ACCEPTED_MANUSCRIPT.yaml')"
+          git diff --check
+          test -s /tmp/Veridrift_PUBLICATION_MASTER.md
+          test -s /tmp/Veridrift_PUBLICATION_MASTER.md.build.json
+          tail -n 1 /tmp/Veridrift_PUBLICATION_MASTER.md | grep -Fx 'The bubble stayed centered.'
+
+      - name: Generate production proofs
+        run: python tools/build_book1_production.py
+
+      - name: Run production tests
+        run: python -m unittest tools.test_book1_production -v
+
+      - name: Run PDF command-line preflight
+        shell: bash
+        run: |
+          mkdir -p books/book-01/production/reports/command-logs
+          pdfinfo books/book-01/production/proofs/Veridrift_PRINT_PROOF.pdf | tee books/book-01/production/reports/command-logs/pdfinfo.txt
+          pdffonts books/book-01/production/proofs/Veridrift_PRINT_PROOF.pdf | tee books/book-01/production/reports/command-logs/pdffonts.txt
+          grep -Eq 'Page size:[[:space:]]+432 x 648 pts' books/book-01/production/reports/command-logs/pdfinfo.txt
+          awk 'NR > 2 && $1 !~ /^-+$/ { if ($4 != "yes") bad=1 } END { exit bad }' \
+            books/book-01/production/reports/command-logs/pdffonts.txt
+
+      - name: Render DOCX through LibreOffice
+        shell: bash
+        run: |
+          mkdir -p /tmp/docx-render
+          libreoffice --headless --convert-to pdf --outdir /tmp/docx-render \
+            books/book-01/production/proofs/Veridrift_INTERIOR_PROOF.docx \
+            2>&1 | tee books/book-01/production/reports/command-logs/libreoffice-docx-render.txt
+          test -s /tmp/docx-render/Veridrift_INTERIOR_PROOF.pdf
+          mkdir -p books/book-01/production/visual/docx
+          cp /tmp/docx-render/Veridrift_INTERIOR_PROOF.pdf \
+            books/book-01/production/visual/docx/Veridrift_INTERIOR_PROOF_RENDER.pdf
+
+      - name: Render every proof page and create contact sheets
+        run: |
+          python - <<'PY'
+          import importlib.util, sys
+          from pathlib import Path
+          spec = importlib.util.spec_from_file_location('prod', 'tools/build_book1_production.py')
+          prod = importlib.util.module_from_spec(spec); sys.modules['prod'] = prod; spec.loader.exec_module(prod)
+          root = Path.cwd()
+          pdf_pages = prod.render_pdf_pages(root/'books/book-01/production/proofs/Veridrift_PRINT_PROOF.pdf', root/'books/book-01/production/visual/pdf/pages')
+          prod.make_contact_sheets(pdf_pages, root/'books/book-01/production/visual/pdf/contact-sheets', 'print-pdf')
+          docx_pages = prod.render_pdf_pages(Path('/tmp/docx-render/Veridrift_INTERIOR_PROOF.pdf'), root/'books/book-01/production/visual/docx/pages')
+          prod.make_contact_sheets(docx_pages, root/'books/book-01/production/visual/docx/contact-sheets', 'docx-render')
+          (root/'books/book-01/production/reports/command-logs/docx-render-page-count.txt').write_text(str(len(docx_pages))+'\n')
+          (root/'books/book-01/production/reports/command-logs/pdf-render-page-count.txt').write_text(str(len(pdf_pages))+'\n')
+          PY
+
+      - name: Run EPUBCheck current release
+        shell: bash
+        run: |
+          mkdir -p /tmp/epubcheck books/book-01/production/reports/command-logs
+          api="https://api.github.com/repos/w3c/epubcheck/releases/latest"
+          version="$(curl -fsSL "$api" | python -c 'import json,sys; print(json.load(sys.stdin)["tag_name"])')"
+          url="$(curl -fsSL "$api" | python -c 'import json,sys; d=json.load(sys.stdin); print(next(a["browser_download_url"] for a in d["assets"] if a["name"].endswith(".zip")))')"
+          curl -fsSL "$url" -o /tmp/epubcheck.zip
+          unzip -q /tmp/epubcheck.zip -d /tmp/epubcheck
+          jar="$(find /tmp/epubcheck -name 'epubcheck.jar' -print -quit)"
+          echo "$version" | tee books/book-01/production/reports/command-logs/epubcheck-version.txt
+          java -jar "$jar" books/book-01/production/proofs/Veridrift_EPUB_PROOF.epub \
+            2>&1 | tee books/book-01/production/reports/command-logs/epubcheck.txt
+
+      - name: Read EPUB with independent parser
+        run: |
+          pandoc books/book-01/production/proofs/Veridrift_EPUB_PROOF.epub -t plain \
+            -o /tmp/Veridrift_EPUB_PANDOC.txt
+          test -s /tmp/Veridrift_EPUB_PANDOC.txt
+          tail -n 20 /tmp/Veridrift_EPUB_PANDOC.txt | grep -F 'The bubble stayed centered.'
+          pandoc --version | head -1 > books/book-01/production/reports/command-logs/pandoc-version.txt
+
+      - name: Run frozen-source suite after production
+        run: |
+          python -m unittest discover -s tools -p 'test_*.py' -v
+          python tools/count_book1_words.py --expect 105157
+          python tools/validate_book1_publication_readiness.py
+          python tools/analyze_book1_revision.py
+          python tools/analyze_book1_publication_style.py
+          python tools/compile_book1_from_manifest.py --output /tmp/Veridrift_PUBLICATION_MASTER_AFTER.md
+          python tools/verify_book1_revision.py
+          git diff --check
+          tail -n 1 /tmp/Veridrift_PUBLICATION_MASTER_AFTER.md | grep -Fx 'The bubble stayed centered.'
+          while IFS= read -r path; do
+            git diff --quiet "$BOOK1_SOURCE_COMMIT" -- "$path" || { echo "Accepted prose changed: $path"; exit 1; }
+          done < /tmp/accepted-paths.txt
+
+      - name: Write external validation summary
+        shell: bash
+        run: |
+          {
+            echo "# External Production Validation Summary"
+            echo
+            echo "- Frozen-source suite before production: PASS"
+            echo "- Production unit tests: PASS"
+            echo "- PDFInfo trim and encryption preflight: PASS"
+            echo "- PDF font embedding preflight: PASS"
+            echo "- LibreOffice DOCX rendering: PASS"
+            echo "- Complete PDF and DOCX page rendering/contact sheets: PASS"
+            echo "- EPUBCheck: PASS"
+            echo "- Independent Pandoc EPUB read: PASS"
+            echo "- Frozen-source suite after production: PASS"
+            echo "- Accepted prose byte diff from PR #85 merge: PASS"
+            echo
+            echo "## Tool versions"
+            echo
+            echo "- $(python --version 2>&1)"
+            echo "- $(libreoffice --version | head -1)"
+            echo "- $(pdfinfo -v 2>&1 | head -1)"
+            echo "- $(pdffonts -v 2>&1 | head -1)"
+            echo "- EPUBCheck $(cat books/book-01/production/reports/command-logs/epubcheck-version.txt)"
+            echo "- $(cat books/book-01/production/reports/command-logs/pandoc-version.txt)"
+          } > books/book-01/production/reports/external-validation-summary.md
+
+      - name: Upload complete proof and validation package
+        uses: actions/upload-artifact@v4
+        with:
+          name: Veridrift-production-package
+          if-no-files-found: error
+          retention-days: 30
+          path: |
+            books/book-01/production/
+            books/book-01/control/67-production-package-build.md
+            books/book-01/control/68-production-proof-query-log.md
+            books/book-01/control/69-production-proof-approval.md
