@@ -143,7 +143,7 @@ Medical staff entered the intake bay. Julie’s fingers had cooled inside the re
 
 Marcus had reached the trauma unit. His oxygen saturation had improved but remained low. Imaging of his ribs, chest, scalp, thigh, and head was pending. Elias was in guarded observation for the hip injury, dizziness, cold exposure, exhaustion, and the cut on the finger used for his live biometric acts.
 
-Two agencies had already sent interview requests to the hospitals. Army investigators wanted Marcus's account of credential loss and removal of classified material. An Apex security liaison wanted Elias to confirm that Julie had directed his emergency access. A federal coordination desk wanted Julie to identify the most urgent foreign target before the K-17 trail aged further.
+Two agencies had already sent interview requests to the hospitals. Army investigators wanted Marcus’s account of credential loss and removal of classified material. An Apex security liaison wanted Elias to confirm that Julie had directed his emergency access. A federal coordination desk wanted Julie to identify the most urgent foreign target before the K-17 trail aged further.
 
 The physicians rejected all three requests on medical grounds. Webb rejected them again on representation and scope. Alvarez entered the refusals into incident 187463 so the lost hours could not later be described as subjects declining cooperation after receiving the evidence.
 
@@ -192,7 +192,7 @@ Guarded Hospital Room
 Washington, D.C.
 22:18 Eastern Daylight Time
 
-Julie lay awake beneath a monitor that turned each heartbeat into a green point moving left to right. Her left wrist was secured to a padded rail. The right forearm rested above her chest inside the temporary immobilizer. Outside the room, an MPD officer sat beneath a television cycling through the sabotage alert, the Building Three fire, and Sterling's statements. Dana Webb arrived after ten with an appointment order, two legal pads, and no request for Julie to explain the case.
+Julie lay awake beneath a monitor that turned each heartbeat into a green point moving left to right. Her left wrist was secured to a padded rail. The right forearm rested above her chest inside the temporary immobilizer. Outside the room, an MPD officer sat beneath a television cycling through the sabotage alert, the Building Three fire, and Sterling’s statements. Dana Webb arrived after ten with an appointment order, two legal pads, and no request for Julie to explain the case.
 
 “I am your lawyer for detention, immediate charging, and access to counsel. I am not your investigator, publicist, or conduit to the evidence.”
 
@@ -200,7 +200,7 @@ Julie looked at the blank pads. “Then why bring paper?”
 
 “So you can write questions you are not going to act on.”
 
-Webb placed one within reach of Julie's left hand. Julie wrote HARTWELL, PRICE, K17, SARAH, APX-DIR-0019, STERLING DEVICE. The letters leaned backward. Under them she began listing the calls she would make if the restraint opened.
+Webb placed one within reach of Julie’s left hand. Julie wrote HARTWELL, PRICE, K17, SARAH, APX-DIR-0019, STERLING DEVICE. The letters leaned backward. Under them she began listing the calls she would make if the restraint opened.
 
 Webb read none of it. “Every one of those sources has a preservation demand or a named custodian in progress. You are not permitted to contact them. You are not permitted to direct Grant or Alvarez. You are not permitted to use someone else to do either.”
 
