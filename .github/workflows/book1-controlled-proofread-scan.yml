@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - agent/book1-controlled-final-proofread
+  pull_request:
+    branches:
+      - main
 
 permissions:
   contents: write
@@ -16,6 +19,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          ref: agent/book1-controlled-final-proofread
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
