@@ -8,7 +8,7 @@ publication_rhythm_pass_completed: "2026-07-18"
 publication_readiness: "specialist_review_and_copyedit_required"
 target_words_min: 105000
 target_words_max: 110000
-total_accepted_words: 105144
+total_accepted_words: 105155
 accepted_files:
   - path: "books/book-01/manuscript/prologue.md"
     title: "Six Years Ago"
@@ -23,8 +23,8 @@ accepted_files:
   - path: "books/book-01/manuscript/chapters/chapter-02.md"
     title: "The Poisoned Feed"
     accepted_on: "2026-07-18"
-    words: 5148
-    sha256: "21983e8d0ad58cdcf1e19c0e51b99faaff2f2edb3b1ec5f0d9d1109c6538aaf4"
+    words: 5150
+    sha256: "c0867fad016f9db81849769cf5eb18f2d48fd3f42bb0b0bccb43c57c3aa05392"
   - path: "books/book-01/manuscript/chapters/chapter-03.md"
     title: "The Exit Protocol"
     accepted_on: "2026-07-18"
@@ -33,8 +33,8 @@ accepted_files:
   - path: "books/book-01/manuscript/chapters/chapter-04.md"
     title: "Burn Notice"
     accepted_on: "2026-07-18"
-    words: 6386
-    sha256: "e05ec3fffe9d770957a4eaa000dd08010c1ea31dc763279141ca386b04f88b08"
+    words: 6389
+    sha256: "4683c1e77f9424a08718dbef8e4d0082381cffd3eeddeec3a4018d2f04be1fd9"
   - path: "books/book-01/manuscript/chapters/chapter-05.md"
     title: "The Second Clock"
     accepted_on: "2026-07-18"
@@ -43,8 +43,8 @@ accepted_files:
   - path: "books/book-01/manuscript/chapters/chapter-06.md"
     title: "The Descent"
     accepted_on: "2026-07-18"
-    words: 3961
-    sha256: "4c27e068063fef70cfcd143d9d82742d230ed836015efce50acd1a4b063360df"
+    words: 3963
+    sha256: "78b16d684a2971f4b44dc8eee3c4b8f140bef1d534a5d1188ff5c75bc94504ad"
   - path: "books/book-01/manuscript/chapters/chapter-07.md"
     title: "The Human Key"
     accepted_on: "2026-07-18"
@@ -63,8 +63,8 @@ accepted_files:
   - path: "books/book-01/manuscript/chapters/chapter-10.md"
     title: "The Capital Connection"
     accepted_on: "2026-07-18"
-    words: 5989
-    sha256: "ed454bde1debac7cd7a35951d41d434873acc208125622286cb8fc53f9b6afb7"
+    words: 5991
+    sha256: "9d77d134e2d0a9e431855345523bc266ec29b49e04ec1232ab8780cd8a27305f"
   - path: "books/book-01/manuscript/chapters/chapter-11.md"
     title: "Going Offensive"
     accepted_on: "2026-07-18"
@@ -73,8 +73,8 @@ accepted_files:
   - path: "books/book-01/manuscript/chapters/chapter-12.md"
     title: "The Sterling Trap"
     accepted_on: "2026-07-18"
-    words: 5614
-    sha256: "2c7f8f0d3b779452973d13f3e96ba25a9a97211b5ca08f7dac6f6a73bf5328e6"
+    words: 5616
+    sha256: "ff0360558b1c4d8165ca96a2f1a3c047a277b44e14d93ff2e175f931716c7ee1"
   - path: "books/book-01/manuscript/chapters/chapter-13.md"
     title: "The Carrier Stream"
     accepted_on: "2026-07-18"
