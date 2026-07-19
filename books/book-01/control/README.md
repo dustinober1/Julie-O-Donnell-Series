@@ -12,9 +12,11 @@ Accepted prose and `../ACCEPTED_MANUSCRIPT.yaml` control canon. This directory c
 - One-sentence-paragraph repair: **complete**
 - Public-source desk review: **complete**
 - Post-research continuity audit: **complete — PASS WITH MINOR REPAIRS**
+- External specialist packets: **synchronized — ALL PACKETS READY TO SEND**
+- External specialist findings: **all seven tracks UNREVIEWED**
 - Book 1 structural state: **complete**
 - Publication state: **not approved for publication**
-- Current gate: **external specialist review and copyedit required**
+- Current gate: **dispatch seven qualified external specialist reviews; copyedit remains blocked**
 - Preserved ending: **The bubble stayed centered.**
 
 `../ACCEPTED_MANUSCRIPT.yaml` is the sole canonical prose inventory. Historical drafts, archived files, the obsolete twelve-chapter Word export, and generated review compilations are not manuscript authority.
@@ -26,10 +28,16 @@ Accepted prose and `../ACCEPTED_MANUSCRIPT.yaml` control canon. This directory c
 
 These are deliberate series threads, not Book 1 continuity gaps.
 
-## Current technical and continuity records
+## Current technical, continuity, and review records
 
+- Specialist review brief: `50-specialist-review-brief.md`
+- Publication-readiness status: `51-publication-readiness-status.md`
+- Specialist review register: `52-specialist-review-register.md`
+- Specialist findings ledger: `53-specialist-findings-ledger.md`
+- Review packets: `review-packets/`
 - Public-source desk review: `58-internet-research-desk-review.md`
 - Post-research continuity audit: `59-post-research-continuity-audit.md`
+- External-review dispatch readiness: `60-external-review-dispatch-readiness.md`
 - Continuity ledgers: `continuity/01-master-timeline.md` through `continuity/07-public-narrative-ledger.md`
 
 ## Final-chapter records
@@ -51,11 +59,12 @@ The historical mission-lock and acceptance files remain useful provenance for Ch
 
 ## Publication program
 
-1. Complete the seven tracked specialist reviews in `52-specialist-review-register.md`.
-2. Apply only approved critical and material corrections.
-3. Run another continuity reconstruction after any further technical correction.
-4. Complete the late-act compression, voice differentiation, line/copyedit, and proofread.
-5. Regenerate print and ebook files from the accepted inventory.
-6. Pass `tools/validate_book1_publication_readiness.py` against the final source.
+1. Dispatch the seven synchronized review packets and record named reviewer acceptance.
+2. Receive and adjudicate qualification-backed findings.
+3. Apply only approved critical and material corrections.
+4. Run another continuity reconstruction after any further technical correction.
+5. Complete the late-act compression, voice differentiation, line/copyedit, and proofread.
+6. Regenerate print and ebook files from the accepted inventory.
+7. Pass `tools/validate_book1_publication_readiness.py` against the final source.
 
 Publication may not be marked ready while any required specialist area remains unreviewed, any critical finding remains unresolved, or any production output differs from the canonical source inventory.
