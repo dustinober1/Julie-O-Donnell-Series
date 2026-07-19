@@ -8,26 +8,21 @@ This directory records the completed first three stages of the final publication
 - Pass 1: chronology, custody, geography, and house-style decisions locked.
 - Pass 2: chronology and custody findings C01–C05 corrected with true Word tracked changes.
 
-The tracked master contains 12 insertions and 12 deletions. Each revision author field carries the applicable ledger ID.
+The tracked Word master contains 12 insertions and 12 deletions. Each revision author field carries the applicable ledger ID.
 
-## Working authority
+## Reviewable material in this PR
 
-- `Veridrift_Publication_Master_v1.docx` — full Prologue plus Chapters 1–24; sole editable correction master.
-- `Veridrift_Style_and_Continuity_Sheet_v1.docx` — locked editorial decisions.
-- `STYLE_AND_CONTINUITY.md` — reviewable text equivalent of the style sheet.
-- `SOURCE_CORRECTIONS.patch` — reviewable source-level representation of C01–C05. The accepted Markdown manuscript files are not changed by this PR; the patch is retained so those changes can be applied atomically when the tracked corrections are accepted.
+- `SOURCE_CORRECTIONS.patch` — exact source-level representation of C01–C05 against the accepted Markdown manuscript.
+- `CHANGE_LOG.md` — deleted and inserted wording for every correction.
+- `STYLE_AND_CONTINUITY.md` — locked date, custody, geography, and house-style decisions.
+- `VERIFICATION_REPORT.md` — structural, tracked-change, search, checksum, and visual-QA results.
+- `CHECKSUMS.sha256` and `BINARY_ARTIFACTS.md` — identities of the controlled Word/EPUB artifacts produced during this pass.
 
-## Baseline and obsolete files
+The accepted Markdown manuscript files are intentionally not changed by this audit PR. The source patch is retained so the corrections can be applied atomically after the tracked changes are accepted and before regenerated publication proofs are approved.
 
-- `Veridrift_EPUB_PROOF_REVIEWED_NOT_FOR_UPLOAD.epub` — unchanged reviewed proof baseline.
-- `Veridrift_OBSOLETE_12-Chapter_Draft.docx` — incomplete draft, retained only for provenance; never use for publication.
+## Binary working artifacts
 
-## Audit material
-
-- `CHANGE_LOG.md`
-- `VERIFICATION_REPORT.md`
-- `verification-data.json`
-- `CHECKSUMS.sha256`
+The full tracked publication master, style-sheet DOCX, preserved EPUB baseline, and archived obsolete draft were produced and verified outside Git. They are not duplicated as binary blobs in this PR. Their exact SHA-256 identities are recorded in `BINARY_ARTIFACTS.md`.
 
 ## Verification
 
