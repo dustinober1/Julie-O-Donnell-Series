@@ -78,7 +78,8 @@ class ValidatorFixture:
             "book: 1",
             'title: "Veridrift"',
             'status: "developmentally_revised"',
-            'publication_readiness: "specialist_review_and_copyedit_required"',
+            'copyedit_completed: "2026-07-18"',
+            'publication_readiness: "proofread_and_production_required"',
             f"total_accepted_words: {total}",
             "accepted_files:",
         ]
@@ -107,7 +108,7 @@ class ValidatorFixture:
         total = sum(entry[2] for entry in self.entries)
         (self.root / "README.md").write_text(
             "# Julie O'Donnell Series\n\n"
-            f"Accepted revised manuscript: **{total:,} words**.\n"
+            f"Accepted copyedited manuscript: **{total:,} words**.\n"
             "Original 02:14 construction remains unresolved.\n"
             "Sterling's personal knowledge or command remains unresolved.\n",
             encoding="utf-8",
@@ -183,6 +184,16 @@ class PublicationReadinessValidatorTests(unittest.TestCase):
             encoding="utf-8",
         )
         with self.assertRaisesRegex(validator.ValidationError, "stale control metadata"):
+            self.validate()
+
+    def test_pre_copyedit_readiness_fails(self) -> None:
+        manifest = self.fixture.book / "ACCEPTED_MANUSCRIPT.yaml"
+        text = manifest.read_text(encoding="utf-8").replace(
+            'publication_readiness: "proofread_and_production_required"',
+            'publication_readiness: "specialist_review_and_copyedit_required"',
+        )
+        manifest.write_text(text, encoding="utf-8")
+        with self.assertRaisesRegex(validator.ValidationError, "proofread and production"):
             self.validate()
 
     def test_changed_final_line_fails(self) -> None:

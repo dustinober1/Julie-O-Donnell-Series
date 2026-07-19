@@ -2,10 +2,10 @@
 
 **Book:** *Veridrift*
 **Canonical inventory:** `../ACCEPTED_MANUSCRIPT.yaml`, version 2
-**Accepted baseline:** 105,144 words
+**Accepted baseline:** 105,155 words
 **Accepted structure:** Prologue + Chapters 1–24
-**Accepted-manuscript commit:** `0a0ed1c5330cbe48a59499d7a4104aa02f6c059a`
-**Current verdict:** **CONDITIONAL PASS — NOT APPROVED FOR PUBLICATION**
+**Copyedit merge commit:** `a722b99bc41314c62ae99c35b960d6274a0681ab`
+**Current verdict:** **COPYEDIT COMPLETE — NOT APPROVED FOR PUBLICATION**
 
 ## Completed
 
@@ -27,71 +27,65 @@
 
 ### Publication-readiness implementation
 
-- [x] Canonical control metadata reconciled to 105,144 words and 24 chapters.
+- [x] Canonical control metadata reconciled to Prologue + Chapters 1–24.
 - [x] Obsolete twelve-chapter Word export formally excluded from authority.
-- [x] Seven specialist review areas defined with named-reviewer closure rules.
-- [x] GitHub issues #70–#76 opened for the external reviews.
-- [x] Seven external review packets synchronized to the post-research canon corrections.
-- [x] Every packet identifies the 105,144-word, Prologue + Chapters 1–24 baseline.
-- [x] Every packet includes a minimum reviewer profile, named-reviewer deliverable fields, error and retain requests, proof ceilings, and the AI/public-source closure prohibition.
-- [x] External-review dispatch readiness recorded in `60-external-review-dispatch-readiness.md`.
-- [x] Specialist findings intake and adjudication ledger created.
+- [x] Seven specialist review areas and packets created.
 - [x] Public-source desk review completed across all seven areas.
 - [x] Three source-backed material corrections applied.
-- [x] Post-research continuity reconciliation completed against the merged corrections.
-- [x] No accepted prose contradiction was found; minor authority-ledger and current-status metadata were repaired.
-- [x] Four mechanisms retained at the public-source evidence ceiling.
-- [x] Master timeline created and reconciled.
-- [x] Evidence/custody ledger created and reviewed.
-- [x] Injury-capability ledger created and reviewed.
-- [x] Character-knowledge ledger created and reviewed.
-- [x] Institutional-authority ledger created and reconciled.
-- [x] Technology/proof-limit ledger created and reviewed.
-- [x] Public-narrative ledger created and reconciled.
-- [x] Late-act compression audit and protected-scene map created.
-- [x] Character voice and cast-orientation controls created.
-- [x] Copyedit style sheet created.
-- [x] Production-proof report and final output gates created.
-- [x] Manifest validator strengthened to check headings, titles, words, hashes, stale controls, final line, open threads, and Chapter 25 prohibition.
-- [x] Validator fixture suite created.
-- [x] Manifest-driven compiler and build-provenance sidecar created.
-- [x] Compiler tests created.
-- [x] Publication-style diagnostic script created.
-- [x] GitHub Actions publication-readiness workflow created.
-- [x] Legacy manuscript-validation workflow now derives its expected total from the canonical manifest rather than a hardcoded number.
+- [x] Post-research continuity reconciliation completed.
+- [x] No accepted prose contradiction found; minor authority-ledger and status metadata repaired.
+- [x] Master timeline, evidence/custody, injury, knowledge, authority, technology, and public-narrative ledgers created and reconciled.
+- [x] Copyedit style sheet and query log created.
+- [x] Full accepted manuscript mechanically copyedited.
+- [x] Copyedit reviewed by the author and merged in PR #82.
+- [x] Manifest total and edited-file hashes regenerated to **105,155 words**.
+- [x] Strict manifest/title/word/hash/final-line/Chapter-25 validator exists.
+- [x] Validator fixture suite and manifest compiler exist.
+- [x] Publication-style diagnostics and production-proof gates exist.
 
-## Blocking publication
+## Specialist-review disposition
+
+Issues #70–#76 were closed at the author's direction after the author reported that consulted specialists were satisfied.
+
+No reviewer names, qualifications, review dates, reviewed baselines, or written findings are recorded in the repository. The closures are therefore classified as **AUTHOR-DIRECTED WAIVERS OF THE FORMAL DOCUMENTATION GATE**, not qualification-backed external approvals.
+
+The author accepts the residual technical and procedural risk. The public-source desk review and its three applied corrections remain the documented technical record. The specialist packets and register remain optional reference material and may be reopened if the author later wants formal review.
+
+See `63-post-copyedit-publication-state-reconciliation.md`.
+
+## Remaining publication gates
 
 | Gate | Status | Requirement |
 |---|---|---|
-| Canon/control reconciliation | Complete | Automated validator and CI prevent recurrence. |
+| Canon/control reconciliation | Complete | Active controls use the 105,155-word copyedited baseline. |
 | Public-source technical desk review | Complete | Three material corrections verified; four areas retained with explicit limits. |
-| Post-research continuity reconciliation | Complete | PASS WITH MINOR REPAIRS; no accepted prose change and accepted total remains 105,144. |
-| External packet synchronization | Complete | All seven packets are READY TO SEND; this is not external approval. |
-| SIGINT / ELINT / provenance review | Packet ready; UNREVIEWED — #70 | Named qualified reviewer and dated findings required. |
-| Military targeting / UAS / JAG review | Packet ready; UNREVIEWED — #71 | Named qualified reviewer and dated findings required. |
-| Secure facility / fire / suppression review | Packet ready; UNREVIEWED — #72 | Named qualified reviewer and dated findings required. |
-| PKI / hardware token / digital-forensics review | Packet ready; UNREVIEWED — #73 | Named qualified reviewer and dated findings required. |
-| Federal investigation / evidence-custody review | Packet ready; UNREVIEWED — #74 | Named qualified reviewer and dated findings required. |
-| Indian Army / artillery / South Asia review | Packet ready; UNREVIEWED — #75 | Named qualified reviewer and dated findings required. |
-| Trauma medicine / injury continuity review | Packet ready; UNREVIEWED — #76 | Named qualified reviewer and dated findings required. |
-| Further external technical corrections | Blocked | Begins after named specialist findings are adjudicated. |
-| Post-external-correction continuity pass | Blocked | Begins after any further technical corrections. |
-| Late-act prose compression | Audited / blocked | Apply only after legal, PKI, provenance, and injury facts stabilize. |
-| Character-voice prose pass | Designed / blocked | Apply after technical language and compression stabilize. |
-| Vance credibility addition | Deferred | Add only after specialist corrections identify the safest early location. |
-| Line/copyedit | Blocked | Begins after content and continuity are stable. |
-| Print/EPUB/Word/PDF proof | Blocked | Begins after copyedit and final manifest regeneration. |
+| Post-research continuity reconciliation | Complete | PASS WITH MINOR REPAIRS. |
+| Formal specialist documentation | Waived by author | Do not describe the closed issues as named external approvals. |
+| Full mechanical copyedit | Complete | PR #82 merged and author-reviewed. |
+| Additional late-act compression | Waived unless defect found | Do not reopen content for subjective improvement alone. |
+| Additional character-voice pass | Waived unless defect found | Do not reopen content for subjective improvement alone. |
+| Vance credibility addition | Waived unless defect found | Do not add material without a concrete need and continuity review. |
+| Controlled final proofread | Required / next gate | Objective errors only; preserve the content lock. |
+| Post-proof manifest regeneration | Pending | Required only if accepted prose changes. |
+| Final validator and tests | Pending | Run on the publication-master candidate. |
+| Word production proof | Pending | Must match the canonical inventory. |
+| EPUB production proof | Pending | Must match the canonical inventory and render correctly. |
+| Print-PDF production proof | Pending | Must match the canonical inventory and pass page-by-page inspection. |
+| Publication-master approval | Pending | Freeze only after proof and validation complete. |
 
-## Dispatch sequence
+## Proofreading scope
 
-1. Dispatch SIGINT/provenance (#70), targeting/UAS/JAG (#71), PKI/forensics (#73), legal/custody (#74), and trauma (#76) as the first parallel wave.
-2. Dispatch facility/fire (#72) and India/South Asia (#75) in parallel; reconcile #72 with trauma and #75 with targeting/provenance before accepting any correction.
-3. Reconcile conflict clusters before prose work:
-   - #70 + #71 + #75 for warning, targeting, and no-fire logic.
-   - #73 + #74 for identity proof, admissibility, custody, and investigative claims.
-   - #72 + #76 for physical feasibility, evacuation, suppression, and injury capability.
-4. Do not begin late-act compression until legal, PKI, provenance, and injury facts are stable.
+The final proofread may correct only:
+
+- typographical errors;
+- missing, duplicated, or transposed words;
+- punctuation slips;
+- quotation-mark, dialogue-paragraph, or speaker-attribution errors;
+- malformed chapter headings or scene breaks;
+- inconsistent displayed identifiers;
+- objective formatting damage.
+
+The proofread must not reconsider sentence rhythm, imagery, pacing, dialogue meaning, characterization, scene structure, clues, evidence, technology, authority, proof ceilings, or suspense architecture.
 
 ## Non-negotiable content locks
 
@@ -99,17 +93,27 @@
 - Preserve the eleven-point-two-second interval and the physical-world anomaly chain.
 - Preserve Payload 88, APX-DIR-0019, K-17, SSO-NS-004, the no-fire result, and the separate proof ceilings around Vance and Sterling.
 - Preserve Julie's Hartwell abort, the independent witness line, the seven-package custody handoff, and the final fence scene.
+- Preserve the original 02:14 constructor as unresolved.
+- Preserve Senator Sterling's personal knowledge, direction, intent, or command as unresolved.
 - Do not invent external specialist approval.
+
+## Required next sequence
+
+1. Proofread the 105,155-word canonical inventory.
+2. Apply only objective corrections.
+3. Regenerate counts and hashes if prose changes.
+4. Run unit tests, publication-readiness validation, revision/style diagnostics, the manifest compiler, the final-line assertion, YAML parsing, and diff hygiene.
+5. Freeze a publication-master commit.
+6. Generate Word, EPUB, and print-PDF outputs.
+7. Manually inspect and approve all production proofs.
 
 ## Publication approval rule
 
 Book 1 may be marked **READY FOR PUBLICATION** only when:
 
-1. All seven specialist areas have named, dated dispositions.
-2. Every critical finding is corrected.
-3. Every material finding is corrected or explicitly accepted with rationale.
-4. The continuity ledgers are reconciled after corrections.
-5. Line/copyedit and proofread are complete.
-6. Print and EPUB proofs match the canonical source.
-7. The final validator and CI workflow pass.
-8. The manuscript still ends with **The bubble stayed centered.**
+1. the controlled proofread is complete;
+2. every accepted proof correction is reflected in the manifest;
+3. the final validator and tests pass;
+4. Word, EPUB, and print-PDF proofs match the canonical source;
+5. the production proofs are manually approved;
+6. the manuscript still ends with **The bubble stayed centered.**

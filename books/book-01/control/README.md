@@ -1,25 +1,26 @@
 # Book 1 Control Pack
 
-Accepted prose and `../ACCEPTED_MANUSCRIPT.yaml` control canon. This directory controls continuity, evidence, knowledge, technology, institutional authority, ending obligations, specialist-review status, chapter missions, and formal acceptance reviews.
+Accepted prose and `../ACCEPTED_MANUSCRIPT.yaml` control canon. This directory controls continuity, evidence, knowledge, technology, institutional authority, ending obligations, specialist-review history, chapter missions, proofreading, production proof, and formal acceptance reviews.
 
 ## Current accepted state
 
 - Book title: **Veridrift**
 - Accepted canon: **Prologue and Chapters 1–24**
-- Accepted baseline: **105,144 words**
-- Accepted manuscript status: **developmentally revised**
+- Accepted baseline: **105,155 words**
+- Accepted manuscript status: **copyedited; content frozen for objective proofreading corrections**
 - Publication-rhythm pass: **complete**
 - One-sentence-paragraph repair: **complete**
 - Public-source desk review: **complete**
 - Post-research continuity audit: **complete — PASS WITH MINOR REPAIRS**
-- External specialist packets: **synchronized — ALL PACKETS READY TO SEND**
-- External specialist findings: **all seven tracks UNREVIEWED**
+- Full mechanical copyedit: **complete and author-reviewed — PR #82**
+- External specialist packets: **historical/optional reference; all seven issues closed by author direction**
+- External specialist documentation: **formal gate waived by author; no named qualification-backed deliverables are recorded**
 - Book 1 structural state: **complete**
 - Publication state: **not approved for publication**
-- Current gate: **dispatch seven qualified external specialist reviews; copyedit remains blocked**
+- Current gate: **controlled final proofread, final validation, publication-master freeze, and production proof**
 - Preserved ending: **The bubble stayed centered.**
 
-`../ACCEPTED_MANUSCRIPT.yaml` is the sole canonical prose inventory. Historical drafts, archived files, the obsolete twelve-chapter Word export, and generated review compilations are not manuscript authority.
+`../ACCEPTED_MANUSCRIPT.yaml` is the sole canonical prose inventory. Historical drafts, archived files, the obsolete twelve-chapter Word export, generated review compilations, and dated pre-copyedit controls are not manuscript authority.
 
 ## Deliberate series carryovers
 
@@ -38,7 +39,12 @@ These are deliberate series threads, not Book 1 continuity gaps.
 - Public-source desk review: `58-internet-research-desk-review.md`
 - Post-research continuity audit: `59-post-research-continuity-audit.md`
 - External-review dispatch readiness: `60-external-review-dispatch-readiness.md`
+- Copyedit style sheet: `61-copyedit-style-sheet.md`
+- Copyedit query log: `62-copyedit-query-log.md`
+- Post-copyedit state reconciliation: `63-post-copyedit-publication-state-reconciliation.md`
 - Continuity ledgers: `continuity/01-master-timeline.md` through `continuity/07-public-narrative-ledger.md`
+
+The specialist files retain the original formal-review standard and remain valid historical risk-control material. For current publication sequencing, `63-post-copyedit-publication-state-reconciliation.md` records the author's waiver of the documentation gate without inventing external approval.
 
 ## Final-chapter records
 
@@ -59,12 +65,11 @@ The historical mission-lock and acceptance files remain useful provenance for Ch
 
 ## Publication program
 
-1. Dispatch the seven synchronized review packets and record named reviewer acceptance.
-2. Receive and adjudicate qualification-backed findings.
-3. Apply only approved critical and material corrections.
-4. Run another continuity reconstruction after any further technical correction.
-5. Complete the late-act compression, voice differentiation, line/copyedit, and proofread.
-6. Regenerate print and ebook files from the accepted inventory.
-7. Pass `tools/validate_book1_publication_readiness.py` against the final source.
+1. Complete a controlled final proofread against the 105,155-word canonical inventory.
+2. Apply only objective proof corrections and regenerate counts/hashes if prose changes.
+3. Pass the validator, unit tests, compiler, final-line assertion, YAML checks, and diff hygiene.
+4. Freeze a publication-master commit.
+5. Generate Word, EPUB, and print-PDF files from the accepted inventory.
+6. Manually inspect and approve each production proof.
 
-Publication may not be marked ready while any required specialist area remains unreviewed, any critical finding remains unresolved, or any production output differs from the canonical source inventory.
+Publication may not be marked ready while the proofread is incomplete, validation is failing, a production output differs from the canonical inventory, or the ending differs from **The bubble stayed centered.**

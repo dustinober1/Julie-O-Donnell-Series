@@ -13,9 +13,9 @@ repository:
 
 book_1:
   title: "Veridrift"
-  status: "developmentally_revised"
-  publication_readiness: "external_specialist_reviews_ready_to_dispatch"
-  accepted_words: 105144
+  status: "copyedited_content_frozen"
+  publication_readiness: "proofread_and_production_required"
+  accepted_words: 105155
   target_words_min: 105000
   target_words_max: 110000
   structure:
@@ -32,18 +32,23 @@ book_1:
   external_review_packet_sync_completed: "2026-07-18"
   external_review_packet_baseline_commit: "0a0ed1c5330cbe48a59499d7a4104aa02f6c059a"
   external_review_packet_verdict: "all_packets_ready_to_send"
-  external_review_status: "seven_tracks_unreviewed"
+  external_review_status: "author_waived_formal_documentation_gate"
+  external_review_note: "Issues 70-76 were closed at author direction after reported specialist satisfaction; no reviewer names, qualifications, dates, or written deliverables are recorded."
+  copyedit_completed: "2026-07-18"
+  copyedit_pull_request: 82
+  copyedit_merge_commit: "a722b99bc41314c62ae99c35b960d6274a0681ab"
+  author_copyedit_review_completed: "2026-07-18"
+  content_freeze: "objective proofreading corrections only"
   preserved_ending: "The bubble stayed centered."
   open_series_threads:
     - "human or upstream instruction behind the original 02:14 construction"
     - "Senator Sterling's personal knowledge, direction, intent, or command"
   required_next_steps:
-    - "dispatch seven named external specialist reviews"
-    - "adjudicate qualification-backed specialist findings"
-    - "continuity review after any further external technical corrections"
-    - "late-act compression after legal, PKI, provenance, and injury facts stabilize"
-    - "line and copyedit"
-    - "proofread and production export"
+    - "controlled final proofread against the 105155-word canonical inventory"
+    - "regenerate accepted counts and hashes if proof corrections change prose"
+    - "run validators, tests, compiler, final-line assertion, YAML checks, and diff hygiene"
+    - "freeze publication-master commit"
+    - "generate and manually approve Word, EPUB, and print-PDF proofs"
 
 quality_controls:
   publication_readiness_validator: "tools/validate_book1_publication_readiness.py"
@@ -53,4 +58,5 @@ quality_controls:
   external_review_dispatch_readiness: "books/book-01/control/60-external-review-dispatch-readiness.md"
   public_source_desk_review: "books/book-01/control/58-internet-research-desk-review.md"
   post_research_continuity_audit: "books/book-01/control/59-post-research-continuity-audit.md"
-  current_validation: "passing at 105144 accepted words"
+  post_copyedit_reconciliation: "books/book-01/control/63-post-copyedit-publication-state-reconciliation.md"
+  current_validation: "manual copyedit verification complete at 105155 accepted words; final proofing validation pending"

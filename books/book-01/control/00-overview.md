@@ -8,13 +8,16 @@ A disgraced Army intelligence analyst discovers that synthetic telemetry is bein
 
 - Prologue plus 24 chapters.
 - Accepted manuscript inventory: `books/book-01/ACCEPTED_MANUSCRIPT.yaml`.
-- Accepted words: **105,144**.
+- Accepted words: **105,155**.
 - Developmental revision completed: **2026-07-18**.
 - Publication-rhythm pass completed: **2026-07-18**.
 - Targeted one-sentence-paragraph repair completed: **2026-07-18**.
 - Public-source desk review completed: **2026-07-18**.
 - Post-research continuity audit completed: **2026-07-18**.
+- Full mechanical copyedit completed and author-reviewed in PR #82: **2026-07-18**.
+- Content state: **frozen for objective proofreading corrections only**.
 - Series-opener resolution retained.
+- Locked final line: **The bubble stayed centered.**
 
 ## Structural engines
 
@@ -22,7 +25,7 @@ A disgraced Army intelligence analyst discovers that synthetic telemetry is bein
 2. Preserve evidence while escaping Apex control.
 3. Place separate records under named lawful authority and correct the public causal account.
 
-The third engine now operates as one accumulating proof sequence across October 13–16 rather than repeated same-day custody demonstrations.
+The third engine operates as one accumulating proof sequence across October 13–16 rather than repeated same-day custody demonstrations.
 
 ## Central proof chain
 
@@ -45,6 +48,12 @@ The third engine now operates as one accumulating proof sequence across October 
 - Vance's later act is established; original construction and upstream direction remain open.
 - Sterling's office device and authority chain are established; Sterling's personal command remains unproved.
 
+## Specialist-review disposition
+
+Issues #70–#76 were closed at the author's direction after reported specialist satisfaction. The repository lacks the names, qualifications, dates, reviewed baselines, and written findings required by the original formal gate. The closures are therefore recorded as author waivers, not qualification-backed approvals. See `63-post-copyedit-publication-state-reconciliation.md`.
+
 ## Publication state
 
-Developmental edit, public-source desk review, and post-research continuity reconciliation are complete. External specialist review, any resulting technical correction and continuity review, line/copyedit, and proofread remain mandatory.
+Developmental editing, public-source desk review, continuity reconciliation, and full mechanical copyedit are complete. The remaining mandatory sequence is controlled proofreading, final validation, publication-master freeze, and manual approval of Word, EPUB, and print-PDF proofs.
+
+Late-act compression, another character-voice pass, and a Vance credibility addition are waived as automatic stages unless a concrete defect justifies reopening content.
