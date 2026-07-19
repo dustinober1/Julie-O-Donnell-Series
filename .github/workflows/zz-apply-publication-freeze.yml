@@ -1,6 +1,12 @@
 name: Apply Publication Freeze Payload
 
 on:
+  pull_request:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/zz-apply-publication-freeze.yml"
+      - ".github/publication-freeze-payload.b64"
   push:
     branches:
       - agent/book1-publication-master-freeze
@@ -12,6 +18,7 @@ permissions:
 
 jobs:
   apply:
+    if: github.event.pull_request.head.repo.full_name == github.repository && github.event.pull_request.head.ref == 'agent/book1-publication-master-freeze'
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
@@ -66,5 +73,3 @@ jobs:
           git add -A
           git commit -m "chore: freeze Book 1 publication master"
           git push origin HEAD:agent/book1-publication-master-freeze
-
-# Triggered after the payload file was present on the branch.
