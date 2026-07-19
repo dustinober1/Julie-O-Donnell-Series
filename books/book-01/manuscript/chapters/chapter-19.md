@@ -233,13 +233,13 @@ Grant limited the hold to SSO-NS-004, the support path that carried it, and the 
 
 The restriction followed the object instead of turning the whole office into a suspect. It converted the signer from a certificate into a moving physical object that an institution now had to find. Hackett asked Grant to authorize an immediate public statement confirming that a Sterling-office device had participated in the operational chain.
 
-“No,” Grant said from Hartwell's controlled phone. “We have a device serial, office authority class, challenge result, and institutional custody path. We do not have the current custodian, assignment exception, instruction source, or personal operator.”
+“No,” Grant said from Hartwell’s controlled phone. “We have a device serial, office authority class, challenge result, and institutional custody path. We do not have the current custodian, assignment exception, instruction source, or personal operator.”
 
-“The office is already accusing O'Donnell in public.”
+“The office is already accusing O’Donnell in public.”
 
-“That does not expand Hartwell's source.”
+“That does not expand Hartwell’s source.”
 
-Alvarez backed Grant. The named federal receiver now owned not only the duty to act, but the duty to prevent a partial result from becoming the next official overclaim. She ordered the Hartwell derivative held inside incident 187463 until LSS answered the locator request or documented its refusal. The delay gave Sterling's office more time to speak. It also kept a hardware-authenticated office link from being published as proof that Sterling personally held or commanded the device.
+Alvarez backed Grant. The named federal receiver now owned not only the duty to act, but the duty to prevent a partial result from becoming the next official overclaim. She ordered the Hartwell derivative held inside incident 187463 until LSS answered the locator request or documented its refusal. The delay gave Sterling’s office more time to speak. It also kept a hardware-authenticated office link from being published as proof that Sterling personally held or commanded the device.
 
 ---
 

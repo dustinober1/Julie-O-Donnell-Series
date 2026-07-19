@@ -137,11 +137,11 @@ Ortiz and Park reopened the common chest under dual control, restored the packag
 
 “You may submit one,” Alvarez said. “It will accompany the result as an objection and supporting theory. It will not delay the direct hardware observation.”
 
-Before the record sealed, Alvarez required a blind replication. A second DCIS examiner who had not watched Grant's queries received the written scope, the reader's verified starting state, and the board package under the same camera. Grant left the examination surface and could not direct the sequence. The second examiner selected the deployment range, emergency range, lifetime counter, and event-class query from the scope card.
+Before the record sealed, Alvarez required a blind replication. A second DCIS examiner who had not watched Grant’s queries received the written scope, the reader’s verified starting state, and the board package under the same camera. Grant left the examination surface and could not direct the sequence. The second examiner selected the deployment range, emergency range, lifetime counter, and event-class query from the scope card.
 
-The result matched Grant's: no physical board event at 02:14, distinct live-released events at the gate and recovery console, continuous lifetime counter, and zero source writes from either examination. Apex counsel preserved the same mirror-service objection. The second examiner preserved the same limit without copying Grant's language: the board excluded its own physical participation and did not identify the system that presented its identity elsewhere.
+The result matched Grant’s: no physical board event at 02:14, distinct live-released events at the gate and recovery console, continuous lifetime counter, and zero source writes from either examination. Apex counsel preserved the same mirror-service objection. The second examiner preserved the same limit without copying Grant’s language: the board excluded its own physical participation and did not identify the system that presented its identity elsewhere.
 
-Grant compared the two method logs. Different operators had reached the same direct observation from the same object without using Apex software or Julie's instructions. She turned the board toward the overhead camera before resealing it and asked Elias whether he wanted to see the physical object one last time through the video feed. His counsel could have answered for him. Elias leaned closer instead. The scrape on the corner remained. The copper contacts remained. Nothing about the board looked capable of carrying the weight Apex had placed on its absence from one event and presence at another.
+Grant compared the two method logs. Different operators had reached the same direct observation from the same object without using Apex software or Julie’s instructions. She turned the board toward the overhead camera before resealing it and asked Elias whether he wanted to see the physical object one last time through the video feed. His counsel could have answered for him. Elias leaned closer instead. The scrape on the corner remained. The copper contacts remained. Nothing about the board looked capable of carrying the weight Apex had placed on its absence from one event and presence at another.
 
 “That is mine,” he said.
 
@@ -149,7 +149,7 @@ Grant asked what he meant.
 
 “The hardware. The author certificate. The later choices. Not the deployment.”
 
-She entered no new conclusion. The statement belonged to Elias's represented attachment, not her examination. Julie watched Grant give him the object back in language before MPD returned it in custody. The board would remain evidence, but the separation between identity and action no longer belonged only to the people who had used it against him. Only then did Grant allow the finding to seal. The examination record sealed at 10:06.
+She entered no new conclusion. The statement belonged to Elias’s represented attachment, not her examination. Julie watched Grant give him the object back in language before MPD returned it in custody. The board would remain evidence, but the separation between identity and action no longer belonged only to the people who had used it against him. Only then did Grant allow the finding to seal. The examination record sealed at 10:06.
 
 BOARD EAT-0881147
 ORIGINAL DEPLOYMENT PHYSICAL SIGNATURE: NOT PRESENT

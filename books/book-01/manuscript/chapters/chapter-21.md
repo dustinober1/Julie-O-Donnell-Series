@@ -165,15 +165,15 @@ Office counsel argued that continuity systems lawfully transformed source reques
 
 “Then produce the authority that selected this transformation,” Alvarez said.
 
-The office preserved its objections and produced no answer. Before Grant sealed the finding, Price asked what the result changed for him. Alvarez answered from the incident channel. “It changes the federal incident's attribution of the later continuity request. It does not decide your DIA employment review, the propriety of the expedited flag, the rejected access attempt, or whether another authority brings charges.”
+The office preserved its objections and produced no answer. Before Grant sealed the finding, Price asked what the result changed for him. Alvarez answered from the incident channel. “It changes the federal incident’s attribution of the later continuity request. It does not decide your DIA employment review, the propriety of the expedited flag, the rejected access attempt, or whether another authority brings charges.”
 
 “So the record can say my name was borrowed and DIA can still fire me for the thing I actually did.”
 
 “Yes.”
 
-Price let out a short breath that almost became a laugh. “That may be the first answer today I believe completely.” Shah asked whether the federal finding would be sent to DIA's deciding official.
+Price let out a short breath that almost became a laugh. “That may be the first answer today I believe completely.” Shah asked whether the federal finding would be sent to DIA’s deciding official.
 
-“It will be available through the authenticated incident route with your client's statement and the source limits,” Alvarez said. “DCIS will not recommend an employment outcome.”
+“It will be available through the authenticated incident route with your client’s statement and the source limits,” Alvarez said. “DCIS will not recommend an employment outcome.”
 
 Price looked at the original request still open on the standalone terminal. “Then leave the expedited flag where it is.”
 
@@ -193,7 +193,7 @@ Julie read the last line twice. Price had been wrong to press past the instructi
 
 The borrowed name was resolved. DIA counsel asked Price whether he wanted to remain on paid administrative leave or request immediate separation from the agency. The choice had no bearing on the federal finding and every bearing on whether he would return to a building whose systems had turned his caution into authority.
 
-Price did not answer that day. He requested the decision in writing, the criteria for restored access, and confirmation that refusing to resign would not be described as failure to cooperate. Shah added that no employment action could rely on the later continuity request as Price's authenticated act after the DCIS finding.
+Price did not answer that day. He requested the decision in writing, the criteria for restored access, and confirmation that refusing to resign would not be described as failure to cooperate. Shah added that no employment action could rely on the later continuity request as Price’s authenticated act after the DCIS finding.
 
 The administrative attorney agreed to preserve the request and respond through counsel. No one promised Price his clearance, job, or reputation back. For the first time since security removed him from his desk, he had a decision that did not need to be made before a record disappeared.
 

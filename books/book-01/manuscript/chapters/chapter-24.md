@@ -40,7 +40,7 @@ CHARGING: UNRESOLVED
 CLASSIFIED ACCESS: NOT RESTORED
 EVIDENCE CONTACT: PROHIBITED WITHOUT NEW WRITTEN AUTHORITY
 
-The common chest did not accompany her. Neither did a public statement masquerading as a release credential. Webb placed a sealed copy of the release authorization and undertaking in Julie's property envelope and kept another.
+The common chest did not accompany her. Neither did a public statement masquerading as a release credential. Webb placed a sealed copy of the release authorization and undertaking in Julie’s property envelope and kept another.
 
 “If a reporter, agency, contractor, congressional office, or former colleague contacts you about the facts, you refer them to me. If someone offers access, a clearance workaround, or a private copy of evidence, you refuse and tell me. If you discover something from public reporting, you do not test it against anyone connected to the case.”
 
@@ -242,13 +242,13 @@ Webb signed as witness to the terms, not as approval of a business. Hackett reco
 Culpeper County, Virginia
 October 16
 
-The farm appeared beyond the trees in late light. Webb's driver stopped at the top of the gravel lane. Julie sat for a moment with her left hand on the door handle and listened to the engine idle. No radio reported her location. No secure line waited for acknowledgment. The ordinary absence of a system felt less like peace than a sense she had forgotten to check one.
+The farm appeared beyond the trees in late light. Webb’s driver stopped at the top of the gravel lane. Julie sat for a moment with her left hand on the door handle and listened to the engine idle. No radio reported her location. No secure line waited for acknowledgment. The ordinary absence of a system felt less like peace than a sense she had forgotten to check one.
 
-Webb had arranged for the neighbor to hold Julie's personal phone until counsel reviewed the messages and for someone else to drive the Ford home from the police lot. Julie had protested both arrangements and lost to the physician's order before the argument became serious.
+Webb had arranged for the neighbor to hold Julie’s personal phone until counsel reviewed the messages and for someone else to drive the Ford home from the police lot. Julie had protested both arrangements and lost to the physician’s order before the argument became serious.
 
 The Ford stood beside the barn with the mechanical key on the kitchen table. Her phone remained powered down inside a paper evidence-style bag that was not evidence at all, only a boundary Webb knew Julie would understand.
 
-Inside the farmhouse, the refrigerator had begun its uneven hum. A stack of unopened mail waited beneath a feed-store calendar. On the counter sat a note from her neighbor listing the horses' meals, the mare's minor scrape, and the mornings the well pump had complained. Nothing on the page required classification, authority, or a proof ceiling. It required Julie to decide when she could safely climb the barn steps again.
+Inside the farmhouse, the refrigerator had begun its uneven hum. A stack of unopened mail waited beneath a feed-store calendar. On the counter sat a note from her neighbor listing the horses’ meals, the mare’s minor scrape, and the mornings the well pump had complained. Nothing on the page required classification, authority, or a proof ceiling. It required Julie to decide when she could safely climb the barn steps again.
 
 She left the mail unopened and walked toward the pasture. The sight produced relief first and suspicion behind it. For six years, the farm had been the place where every failure announced itself in wood, wire, mud, or flesh. Returning could become another form of hiding if she let distance make decisions for her.
 
@@ -262,7 +262,7 @@ Her neighbor packed the first soil around the post with the tamping bar. Julie h
 
 He shifted the post. “Little more.”
 
-He moved it without asking for the reasoning. Julie checked again. The yellow legal pad rested inside a clear sleeve on the fence rail. It held no client, assignment, or promise that any institution would accept her terms. It held the conditions under which she would return and the conditions under which she would refuse. Webb had written one note beneath Julie's four rules before placing the page in the sleeve.
+He moved it without asking for the reasoning. Julie checked again. The yellow legal pad rested inside a clear sleeve on the fence rail. It held no client, assignment, or promise that any institution would accept her terms. It held the conditions under which she would return and the conditions under which she would refuse. Webb had written one note beneath Julie’s four rules before placing the page in the sleeve.
 
 A TERM THAT CANNOT BE ENFORCED IS A PREFERENCE.
 
@@ -270,7 +270,7 @@ Julie had disliked the sentence because it turned principle into future work. Ma
 
 The practice did not exist yet. Its first unfinished task was building rules capable of restraining its founder. The neighbor packed the ground again. This time Julie did not reach for the bar or test whether her injured hand might take some of the load.
 
-“Lawyer said you aren't supposed to be working,” he said.
+“Lawyer said you aren’t supposed to be working,” he said.
 
 “I am holding a level.”
 
