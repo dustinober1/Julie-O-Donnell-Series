@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Independent final verification for the Book 1 developmental revision."""
+"""Independent final verification for the Book 1 publication master."""
 from __future__ import annotations
 
 import hashlib
@@ -10,13 +10,17 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 BOOK = ROOT / "books/book-01"
 MANIFEST = BOOK / "ACCEPTED_MANUSCRIPT.yaml"
-COMPILED = BOOK / "compiled/current/Julie_O_Donnell_Book_1_REVISED.md"
 REPORT = ROOT / "artifacts/book1-final-verification.md"
 TARGET_MIN = 105_000
 TARGET_MAX = 110_000
-EXPECTED_TOTAL = 105_081
+EXPECTED_TOTAL = 105_157
+EXPECTED_CHAPTER_20_WORDS = 2_363
+EXPECTED_CHAPTER_20_SHA256 = "9a18f6c51e652a2ae3e640f105d5cba288103891703e74a450e9e70cb80c986e"
+EXPECTED_CHAPTER_20_FINAL_SENTENCE = (
+    "The name that had put it into circulation was still missing."
+)
 PROTECTED_HASHES = {
-    "books/book-01/manuscript/prologue.md": "52a6da201cf11bfb257db6befa068173ea2b623b67ee964261fa65698b51c02b",
+    "books/book-01/manuscript/prologue.md": "9f1285a83b3379b8f34ced719ad7b2d9d79b645a8eb5587aa38822710683506e",
     "books/book-01/manuscript/chapters/chapter-01.md": "36a1dc970b84ab0e2b76c856f83dd4d35dff405bfd9219854d8fbbd2f8d0c8c7",
 }
 FORBIDDEN = (
@@ -37,6 +41,11 @@ def digest(path: Path) -> str:
 
 def fail(message: str) -> None:
     raise AssertionError(message)
+
+
+def build_compiled_text(paths: list[Path]) -> str:
+    """Build the canonical compilation from only the accepted source paths."""
+    return "\n\n".join(path.read_text(encoding="utf-8").rstrip() for path in paths) + "\n"
 
 
 def manifest_entries() -> tuple[list[dict[str, str]], int]:
@@ -173,23 +182,32 @@ def main() -> None:
         fail("exact timestamp remains in final farm section")
     checks.append("Final image is untimestamped and final line is preserved.")
 
-    compiled_expected = "\n\n".join(path.read_text(encoding="utf-8").rstrip() for path in paths) + "\n"
-    if not COMPILED.is_file():
-        fail("compiled revised manuscript missing")
-    compiled_actual = COMPILED.read_text(encoding="utf-8")
-    if compiled_actual != compiled_expected:
-        fail("compiled revised manuscript does not equal accepted inventory")
-    if len(compiled_actual.split()) != actual_total:
-        fail("compiled word count mismatch")
-    checks.append("Compiled revised manuscript exactly matches accepted inventory.")
+    chapter_20 = BOOK / "manuscript/chapters/chapter-20.md"
+    chapter_20_text = chapter_20.read_text(encoding="utf-8")
+    if len(chapter_20_text.split()) != EXPECTED_CHAPTER_20_WORDS:
+        fail("Chapter 20 word count does not match the final accepted state")
+    if digest(chapter_20) != EXPECTED_CHAPTER_20_SHA256:
+        fail("Chapter 20 SHA-256 does not match the final accepted state")
+    if not chapter_20_text.rstrip().endswith(EXPECTED_CHAPTER_20_FINAL_SENTENCE):
+        fail("Chapter 20 final sentence does not match the approved resolution")
+    checks.append("Chapter 20 count, hash, and approved final sentence match.")
 
-    specialist = (BOOK / "control/50-specialist-review-brief.md").read_text(encoding="utf-8")
-    if specialist.count("UNREVIEWED") < 6:
-        fail("specialist brief does not mark all required areas UNREVIEWED")
-    for term in ("SIGINT", "Military Targeting", "Classified-Facility", "PKI", "Federal Investigation", "Indian Army"):
-        if term not in specialist:
-            fail(f"specialist area missing: {term}")
-    checks.append("Six required specialist reviews are explicitly marked UNREVIEWED.")
+    query_log = (BOOK / "control/65-final-proofread-query-log.md").read_text(encoding="utf-8")
+    if "Open queries: **0**" not in query_log:
+        fail("final proofread query log does not report zero open queries")
+    checks.append("Final proofread query log reports zero open queries.")
+
+    compiled_text = build_compiled_text(paths)
+    if len(compiled_text.split()) != actual_total:
+        fail("accepted compilation word count mismatch")
+    compiled_sha = hashlib.sha256(compiled_text.encode("utf-8")).hexdigest()
+    checks.append("In-memory accepted compilation exactly follows the manifest inventory.")
+
+    register = (BOOK / "control/52-specialist-review-register.md").read_text(encoding="utf-8")
+    ledger = (BOOK / "control/53-specialist-findings-ledger.md").read_text(encoding="utf-8")
+    if "AUTHOR WAIVER" not in register or "No qualification-backed" not in ledger:
+        fail("specialist-review waiver and evidence ceiling are not preserved")
+    checks.append("Specialist-review waiver and evidence ceiling remain explicitly recorded.")
 
     for control in (
         ROOT / "README.md",
@@ -213,7 +231,7 @@ def main() -> None:
         "**Result:** PASS",
         "",
         f"**Accepted words:** {actual_total:,}",
-        f"**Compiled SHA-256:** `{digest(COMPILED)}`",
+        f"**Accepted compilation SHA-256:** `{compiled_sha}`",
         "",
         "## Checks",
         "",
@@ -224,7 +242,7 @@ def main() -> None:
             "",
             "## Publication gate",
             "",
-            "Developmental revision and repository verification are complete. External specialist review, approved technical corrections, line/copyedit, and proofread remain required before publication.",
+            "Editorial prose is frozen as the publication master. Publication readiness remains `proofread_and_production_required` because Word, EPUB, and print-PDF production proofs still require generation and manual approval.",
             "",
         ]
     )

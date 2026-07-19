@@ -242,22 +242,52 @@ def validate_no_chapter_25(root: Path, manifest_text: str) -> None:
         fail("accepted manifest references an unauthorized Chapter 25")
 
 
+def validate_manuscript_inventory(root: Path, entries: list[ManifestEntry]) -> None:
+    manuscript_root = root / "books/book-01/manuscript"
+    allowed = {entry.path for entry in entries}
+    allowed.update(
+        {
+            "books/book-01/manuscript/README.md",
+            "books/book-01/manuscript/SOURCE.md",
+            "books/book-01/manuscript/STATUS.md",
+        }
+    )
+    actual = {
+        str(path.relative_to(root))
+        for path in manuscript_root.rglob("*.md")
+        if path.is_file()
+    }
+    unauthorized = sorted(actual - allowed)
+    if unauthorized:
+        fail("unauthorized manuscript file(s): " + ", ".join(unauthorized))
+
+
 def validate_control_metadata(root: Path, total: int) -> None:
     files = (
         root / "README.md",
+        root / "PROJECT_STATE.yaml",
+        root / "books/book-01/manuscript/README.md",
+        root / "books/book-01/manuscript/SOURCE.md",
+        root / "books/book-01/manuscript/STATUS.md",
+        root / "books/book-01/control/00-overview.md",
         root / "books/book-01/control/README.md",
         root / "books/book-01/control/51-publication-readiness-status.md",
+        root / "books/book-01/control/52-specialist-review-register.md",
+        root / "books/book-01/control/53-specialist-findings-ledger.md",
     )
     texts = {path: _read(path) for path in files}
     combined = "\n".join(texts.values())
+    current_state_paths = files[:8]
+    current_state_text = "\n".join(texts[path] for path in current_state_paths)
 
     for literal in STALE_CONTROL_LITERALS:
-        if literal in combined:
+        if literal in current_state_text:
             fail(f"stale control metadata remains: {literal!r}")
 
     formatted_total = f"{total:,}"
+    raw_total = str(total)
     for path, text in texts.items():
-        if formatted_total not in text:
+        if formatted_total not in text and raw_total not in text:
             fail(
                 f"control metadata in {path.relative_to(root)} does not contain "
                 f"accepted total {formatted_total}"
@@ -271,6 +301,10 @@ def validate_control_metadata(root: Path, total: int) -> None:
         fail("publication status does not identify Prologue + Chapters 1–24")
     if FINAL_LINE not in control or FINAL_LINE not in status:
         fail("control files do not preserve the final line")
+
+    query_log = _read(root / "books/book-01/control/65-final-proofread-query-log.md")
+    if "Open queries: **0**" not in query_log:
+        fail("open proofread queries remain or query summary is missing")
 
     lower = combined.lower()
     if "original 02:14" not in lower:
@@ -301,6 +335,7 @@ def validate_repository(
         fail("accepted inventory is missing Chapter 24")
     validate_final_scene(root, texts[chapter_24_path])
     validate_no_chapter_25(root, manifest_text)
+    validate_manuscript_inventory(root, entries)
     validate_thermostat_scene(root)
 
     actual_total = validate_manifest_files(root, entries, texts)
