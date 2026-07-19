@@ -3,12 +3,15 @@
 **Audit date:** 2026-07-18
 **Repository:** `dustinober1/Julie-O-Donnell-Series`
 **Branch:** `agent/book1-external-review-packet-sync`
-**Main commit reviewed:** `0a0ed1c5330cbe48a59499d7a4104aa02f6c059a`
+**Latest `main` / branch-base commit reviewed:** `432447959bf47871cbe9ee3612bbd66003abcd2c`
+**Accepted manuscript/control baseline:** `0a0ed1c5330cbe48a59499d7a4104aa02f6c059a`
 **Accepted manifest:** `books/book-01/ACCEPTED_MANUSCRIPT.yaml`, version 2
 **Accepted structure:** Prologue + Chapters 1–24
 **Accepted total:** 105,144 words
 **Locked final line:** **The bubble stayed centered.**
 **Accepted prose changed by this synchronization:** none
+
+The only intervening commit between the accepted manuscript/control baseline and the latest `main` base changes `generate_audio.py` playback speed from 1.0 to 1.2. It does not change the manuscript, manifest, control pack, specialist packets, issues, validators, or workflows.
 
 ## 1. Purpose and gate
 
