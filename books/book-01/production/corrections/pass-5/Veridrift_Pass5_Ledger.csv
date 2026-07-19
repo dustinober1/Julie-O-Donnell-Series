@@ -1,0 +1,5 @@
+ID,Status,Scope,Action,Verification
+P06,CLOSED — CORRECTED,Prologue,"Remove `Location:` and style the Pakistan-border location as a Scene Card.",Tracked deletion present; final text and style verified
+P07,CLOSED — CORRECTED,Chapter 5,"Style the standalone `Reston, Virginia` transition as a Scene Card.",Unique target styled and rendered
+P08,CLOSED — CORRECTED,Chapter 14,"Place `Commercial Garage West of Hartwell` before `07:46:00 EDT / 17:16:00 IST` and apply consistent Scene Card styling.",Order and styling verified
+P09,CLOSED — CORRECTED,Full manuscript,"Create and apply separate Scene Card and System Display styles; normalize location-before-date/time order and safe display wrapping.",102 Scene Card paragraphs; 359 System Display paragraphs; 74 card groups verified
