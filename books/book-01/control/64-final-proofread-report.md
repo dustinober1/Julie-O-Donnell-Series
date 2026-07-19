@@ -245,11 +245,11 @@ The required sequence is now expected to use 105,157 words:
 - whitespace, Markdown, conflict-marker, placeholder, `TODO`, and `TBD` checks
 - `git diff --check`
 
-GitHub Actions attempts on branch head `283dc947e0ff33986903fd7c0f268a28b0bcbeac` failed before repository checkout:
+GitHub Actions attempts on branch head `ce0f89345eba1e3491e1204195643d97fca92ad0` failed before repository checkout:
 
-- **Book 1 Manuscript Validation** — run `29692000406`, job `88206268806`
-- **Book 1 Publication Readiness** — run `29692000396`, job `88206268723`
-- **Book 1 Final Verification** — run `29692000381`, skipped
+- **Book 1 Manuscript Validation** — run `29692064414`, job `88206436613`
+- **Book 1 Publication Readiness** — run `29692064403`, job `88206436569`
+- **Book 1 Final Verification** — run `29692064400`, skipped
 
 The failed jobs returned `steps: null` and no log URL. These are runner/startup infrastructure failures, not passing validations and not failures returned by manuscript files, tests, validators, compiler, YAML parser, or `git diff --check`.
 
