@@ -69,7 +69,7 @@ The live warning belonged to the government. The test material that might explai
 
 The contract divided sovereignty from control. The government owned the program requirement, classification authority, and operational decision. Apex operated Building Three, the ingestion architecture, validation archive, production release workflow, facility security, credential administration, and first-line incident response under delegated authorities distributed across several agreements. No single Apex role was sovereign. Together they let the company control the room, the data path, the access log, and the first account of a failure before a government officer could invoke a separate channel. The alternate government routes still entered through infrastructure Apex maintained.
 
-Apex did not need to falsify a denial. It needed only to enforce the accepted boundaries until the certification clock expired. He submitted an immediate request.
+Apex did not need to falsify a denial. It needed only to enforce the accepted boundaries until the certification clock expired. Marcus submitted an immediate request.
 
 POTENTIAL SYNTHETIC CONTAMINATION OF OPERATIONAL INTELLIGENCE FEED.
 IMMEDIATE COMPARISON REQUIRED TO SUPPORT OR EXCLUDE ACTIVE SYSTEM DEFECT.
@@ -236,7 +236,7 @@ The door would not open. His internal phone rang while the transfer reached 56 p
 
 “Elias, what are you doing?”
 
-Elias muted the microphone. “Stop the transfer. Compliance flagged a corrupted validation object. They’re isolating the lab.”
+Elias muted the microphone. Keller said, “Stop the transfer. Compliance flagged a corrupted validation object. They’re isolating the lab.”
 
 Elias unmuted. “Payload Eighty-Eight is in production.” Keller went still. That was answer enough.
 

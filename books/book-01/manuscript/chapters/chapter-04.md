@@ -115,7 +115,7 @@ The room had no clock.
 
 Elias measured time by the cycles of the ventilation fan and the growing pressure in his bladder. He sat at a steel table beneath white light. The walls were bare except for a thermostat, a camera, and a speaker grille mounted near the ceiling. No one had told him whether he was under arrest.
 
-No one had read him rights. No one had taken his wallet. They had taken the circuit board from his maintenance drive. At least, Elias thought they had. The security officer who searched him had removed the plastic outer shell from his pocket and placed it inside an evidence bag. The thin memory board remained hidden behind the printed card inside his Apex badge.
+No one had read him his rights. No one had taken his wallet. They had taken the circuit board from his maintenance drive. At least, Elias thought they had. The security officer who searched him had removed the plastic outer shell from his pocket and placed it inside an evidence bag. The thin memory board remained hidden behind the printed card inside his Apex badge.
 
 No one had opened the badge casing. Yet. The door unlocked. Arthur Vance entered carrying a leather folder. Elias had seen the site director only at quarterly briefings and mandatory program reviews. From a distance, Vance seemed less like an engineer than an elected official—calm, polished, practiced at turning every answer into a statement of institutional confidence. In the holding room, he looked smaller: not weaker, more precise. Vance sat across from Elias and placed the folder between them.
 
@@ -239,7 +239,7 @@ Vance tapped the signature line.
 
 “And if I don’t sign?”
 
-“The matter is referred as a suspected attack on classified defense infrastructure.”
+“The matter is referred for investigation as a suspected attack on classified defense infrastructure.”
 
 “Referred to whom?”
 

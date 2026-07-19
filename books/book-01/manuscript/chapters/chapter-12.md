@@ -83,9 +83,13 @@ The rear of the Fenwick Annex looked built to accept deliveries without admittin
 
 “Work-order number?”
 
-Julie held the paper to the lens. “Closer.”
+Julie held the paper to the lens.
 
-She moved it within a foot of the glass. “You’re not on the morning sheet.”
+“Closer.”
+
+She moved it within a foot of the glass.
+
+“You’re not on the morning sheet.”
 
 “Call came after it closed.”
 
@@ -357,7 +361,7 @@ Bell reached for the telephone. Elias watched the interface. “Pulling the modu
 
 “The local audit is yours,” Julie said. “Preserve it.”
 
-Bell stared at her. “WSS-four is about to receive a hardware-authenticated exchange tied to an active foreign operation. Your controller will record the same event we do.”
+Bell stared at her. Julie continued, “WSS-four is about to receive a hardware-authenticated exchange tied to an active foreign operation. Your controller will record the same event we do.”
 
 “You expect me to believe that?”
 

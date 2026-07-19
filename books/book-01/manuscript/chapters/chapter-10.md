@@ -272,7 +272,7 @@ Marcus closed his eyes for a moment. Elias looked away first. The scanner repeat
 
 “I pressed confirm,” Elias said.
 
-Julie waited. “I opened the gate. I restored the labels. I pulled the recorder. No one made my hand do any of it.” He looked down at the bandage on his finger. “That doesn’t make it feel like a choice.”
+Julie waited. Elias continued, “I opened the gate. I restored the labels. I pulled the recorder. No one made my hand do any of it.” He looked down at the bandage on his finger. “That doesn’t make it feel like a choice.”
 
 “No,” Julie said. “It makes it yours.”
 
