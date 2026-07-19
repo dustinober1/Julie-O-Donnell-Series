@@ -1096,7 +1096,9 @@ DIAGNOSTIC MODE.
 
 He smiled despite himself. Apex had built layers of encryption around its intelligence systems and left the environmental network protected by a service code printed inside the thermostat housing.
 
-Elias entered it. The display showed the local node:
+Elias entered it.
+
+The display showed the local node:
 
 B3-COMP-04.
 
