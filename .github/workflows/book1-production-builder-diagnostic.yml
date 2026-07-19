@@ -8,6 +8,13 @@ on:
       - "tools/build_book1_production.py"
       - "tools/build_book1_production.payload.part*"
       - "requirements-production.txt"
+  pull_request:
+    branches: [main]
+    paths:
+      - ".github/workflows/book1-production-builder-diagnostic.yml"
+      - "tools/build_book1_production.py"
+      - "tools/build_book1_production.payload.part*"
+      - "requirements-production.txt"
   workflow_dispatch:
 
 permissions:
