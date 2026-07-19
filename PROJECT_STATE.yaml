@@ -7,14 +7,14 @@ series:
   status: "active"
 
 repository:
-  branch_policy: "main remains protected; developmental revision is reviewed through PR"
+  branch_policy: "main remains protected; developmental and publication-readiness changes are reviewed through PR"
   book_1_source_of_truth: "books/book-01/ACCEPTED_MANUSCRIPT.yaml"
   updated: "2026-07-18"
 
 book_1:
   title: "Veridrift"
   status: "developmentally_revised"
-  publication_readiness: "specialist_review_and_copyedit_required"
+  publication_readiness: "external_specialist_reviews_ready_to_dispatch"
   accepted_words: 105144
   target_words_min: 105000
   target_words_max: 110000
@@ -29,13 +29,19 @@ book_1:
   public_source_desk_review_completed: "2026-07-18"
   post_research_continuity_audit_completed: "2026-07-18"
   post_research_continuity_verdict: "pass_with_minor_repairs"
+  external_review_packet_sync_completed: "2026-07-18"
+  external_review_packet_baseline_commit: "0a0ed1c5330cbe48a59499d7a4104aa02f6c059a"
+  external_review_packet_verdict: "all_packets_ready_to_send"
+  external_review_status: "seven_tracks_unreviewed"
   preserved_ending: "The bubble stayed centered."
   open_series_threads:
     - "human or upstream instruction behind the original 02:14 construction"
     - "Senator Sterling's personal knowledge, direction, intent, or command"
   required_next_steps:
-    - "seven named external specialist reviews"
+    - "dispatch seven named external specialist reviews"
+    - "adjudicate qualification-backed specialist findings"
     - "continuity review after any further external technical corrections"
+    - "late-act compression after legal, PKI, provenance, and injury facts stabilize"
     - "line and copyedit"
     - "proofread and production export"
 
@@ -43,6 +49,8 @@ quality_controls:
   publication_readiness_validator: "tools/validate_book1_publication_readiness.py"
   developmental_metrics: "tools/analyze_book1_revision.py"
   specialist_review_brief: "books/book-01/control/50-specialist-review-brief.md"
+  specialist_review_register: "books/book-01/control/52-specialist-review-register.md"
+  external_review_dispatch_readiness: "books/book-01/control/60-external-review-dispatch-readiness.md"
   public_source_desk_review: "books/book-01/control/58-internet-research-desk-review.md"
   post_research_continuity_audit: "books/book-01/control/59-post-research-continuity-audit.md"
   current_validation: "passing at 105144 accepted words"
