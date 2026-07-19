@@ -1,0 +1,48 @@
+name: Materialize Book 1 Proofs Once
+
+on:
+  push:
+    branches: [agent/book1-production-package]
+    paths:
+      - ".github/workflows/book1-materialize-proofs-once.yml"
+
+permissions:
+  contents: write
+
+env:
+  BOOK1_SOURCE_COMMIT: 3a5b93adf59ab0cd84a80a676c16fdf495fd3287
+  PYTHONHASHSEED: "0"
+  SOURCE_DATE_EPOCH: "1784462400"
+
+jobs:
+  materialize:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: agent/book1-production-package
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python -m pip install --disable-pip-version-check -r requirements-production.txt
+      - name: Generate the deterministic proof package
+        run: >-
+          python tools/build_book1_production.py
+          --branch agent/book1-production-package
+          --branch-head "$GITHUB_SHA"
+      - name: Commit generated proofs and records
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add \
+            books/book-01/production/proofs \
+            books/book-01/production/reports \
+            books/book-01/control/67-production-package-build.md \
+            books/book-01/control/68-production-proof-query-log.md \
+            books/book-01/control/69-production-proof-approval.md
+          git diff --cached --check
+          git commit -m "build: materialize Book 1 production proofs"
+          git push origin HEAD:agent/book1-production-package
