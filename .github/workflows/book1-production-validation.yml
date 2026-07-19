@@ -241,3 +241,54 @@ jobs:
             books/book-01/control/67-production-package-build.md
             books/book-01/control/68-production-proof-query-log.md
             books/book-01/control/69-production-proof-approval.md
+
+  materialize-proof-files-once:
+    if: github.event_name == 'pull_request' && github.event.pull_request.head.ref == 'agent/book1-production-package'
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out feature branch
+        uses: actions/checkout@v4
+        with:
+          ref: agent/book1-production-package
+          fetch-depth: 0
+      - name: Determine whether materialization is needed
+        id: need
+        shell: bash
+        run: |
+          if test -f books/book-01/production/proofs/Veridrift_PRINT_PROOF.pdf; then
+            echo "needed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "needed=true" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Set up Python
+        if: steps.need.outputs.needed == 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install production dependencies
+        if: steps.need.outputs.needed == 'true'
+        run: python -m pip install --disable-pip-version-check -r requirements-production.txt
+      - name: Generate deterministic proofs
+        if: steps.need.outputs.needed == 'true'
+        run: >-
+          python tools/build_book1_production.py
+          --branch agent/book1-production-package
+          --branch-head "${{ github.event.pull_request.head.sha }}"
+      - name: Commit proof binaries and records
+        if: steps.need.outputs.needed == 'true'
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add \
+            books/book-01/production/proofs \
+            books/book-01/production/reports \
+            books/book-01/control/67-production-package-build.md \
+            books/book-01/control/68-production-proof-query-log.md \
+            books/book-01/control/69-production-proof-approval.md
+          git diff --cached --check
+          git commit -m "build: materialize Book 1 production proofs"
+          git push origin HEAD:agent/book1-production-package
