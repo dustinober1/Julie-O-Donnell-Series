@@ -1,9 +1,9 @@
 # Book 1 Copyedit Style Sheet
 
-**Book:** *Veridrift*  
-**Series:** Julie O’Donnell Series  
-**Pass:** Full mechanical copyedit  
-**English:** U.S. trade fiction  
+**Book:** *Veridrift*
+**Series:** Julie O’Donnell Series
+**Pass:** Full mechanical copyedit
+**English:** U.S. trade fiction
 **Controlling inventory:** `books/book-01/ACCEPTED_MANUSCRIPT.yaml`
 
 ## Source authority and scope
