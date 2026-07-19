@@ -1,0 +1,195 @@
+{
+  "schema_version": 1,
+  "book": 1,
+  "title": "Veridrift",
+  "source_commit": "3a5b93adf59ab0cd84a80a676c16fdf495fd3287",
+  "pr_85_merge_commit": "3a5b93adf59ab0cd84a80a676c16fdf495fd3287",
+  "branch": "agent/book1-production-package",
+  "branch_head_at_build": "680caac2c08a45ea9fbc2f9d530114dd2ef18eca",
+  "build_timestamp": "2026-07-19T20:41:47+00:00",
+  "manifest_version": 2,
+  "publication_readiness": "proofread_and_production_required",
+  "accepted_word_count": 105157,
+  "accepted_file_count": 25,
+  "identifier": "urn:uuid:0378c297-564c-538c-b06f-a59d2761d7ab",
+  "sources": [
+    {
+      "path": "books/book-01/manuscript/prologue.md",
+      "words": 2110,
+      "sha256": "9f1285a83b3379b8f34ced719ad7b2d9d79b645a8eb5587aa38822710683506e"
+    },
+    {
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "words": 4232,
+      "sha256": "36a1dc970b84ab0e2b76c856f83dd4d35dff405bfd9219854d8fbbd2f8d0c8c7"
+    },
+    {
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "words": 5150,
+      "sha256": "d006c8927d226f0daab5512d66a9c30e8b959b3a7488166e44edb687cb2b1027"
+    },
+    {
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "words": 3094,
+      "sha256": "7b371ddcfa90cba95217b3d6da8518a380e0c015a0ce3ed800400a7691987366"
+    },
+    {
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "words": 6389,
+      "sha256": "4683c1e77f9424a08718dbef8e4d0082381cffd3eeddeec3a4018d2f04be1fd9"
+    },
+    {
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "words": 7964,
+      "sha256": "ae6ec2ddf448562f92ea0a10cacd2644f761db835e83a6a0468a088b3836ae93"
+    },
+    {
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "words": 3963,
+      "sha256": "78b16d684a2971f4b44dc8eee3c4b8f140bef1d534a5d1188ff5c75bc94504ad"
+    },
+    {
+      "path": "books/book-01/manuscript/chapters/chapter-07.md",
+      "words": 4911,
+      "sha256": "b1402f2a3283e927206e9392f6db6a0a3ce18f6b9ea1449a153f1b365f7c07ac"
+    },
+    {
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "words": 5395,
+      "sha256": "9e33f5fdd5e2494a68c2569a07d686d82865a9b9c099ed4434b56f555174cee4"
+    },
+    {
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "words": 5518,
+      "sha256": "6b549029d10b392b69dd2fbd6c7a5219887343b24040fdbf6113dd6e2805eae0"
+    },
+    {
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "words": 5991,
+      "sha256": "9d77d134e2d0a9e431855345523bc266ec29b49e04ec1232ab8780cd8a27305f"
+    },
+    {
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "words": 5560,
+      "sha256": "33a9113e50c7cc536b4c029072684f66ea1de820d5bddeb595a766a6f3f6a13c"
+    },
+    {
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "words": 5616,
+      "sha256": "ff0360558b1c4d8165ca96a2f1a3c047a277b44e14d93ff2e175f931716c7ee1"
+    },
+    {
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "words": 6177,
+      "sha256": "e1d32aed2b22c137abe9fa34aedebb068e8bdfb8e3d6bb9ee104f327c01e2b1f"
+    },
+    {
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "words": 5763,
+      "sha256": "764ef43447b975490dd7978e86c5034360ed5e67f9daec883e5564e29fc1a629"
+    },
+    {
+      "path": "books/book-01/manuscript/chapters/chapter-15.md",
+      "words": 2738,
+      "sha256": "d3567ecfb0d5d89133ba19f050c4675ab661ccfce053d22f77b70e015db96a85"
+    },
+    {
+      "path": "books/book-01/manuscript/chapters/chapter-16.md",
+      "words": 2770,
+      "sha256": "673d1fbf74bbf44feab68b9d8f84408d48f704fb336a6ca711ed25cc2a3c0182"
+    },
+    {
+      "path": "books/book-01/manuscript/chapters/chapter-17.md",
+      "words": 2634,
+      "sha256": "e8a053a436b5af0901d09aff049785b399f295b35bff211aa3d511e901fcd022"
+    },
+    {
+      "path": "books/book-01/manuscript/chapters/chapter-18.md",
+      "words": 2953,
+      "sha256": "9e5481b789da9ea2edd72d6f2069ff26ace93c1833d62f9fea03048a834afedc"
+    },
+    {
+      "path": "books/book-01/manuscript/chapters/chapter-19.md",
+      "words": 2745,
+      "sha256": "44965e4874e48b8d41054d0a82b124d432e846ae6f7de6d7ac47b2338708248c"
+    },
+    {
+      "path": "books/book-01/manuscript/chapters/chapter-20.md",
+      "words": 2363,
+      "sha256": "9a18f6c51e652a2ae3e640f105d5cba288103891703e74a450e9e70cb80c986e"
+    },
+    {
+      "path": "books/book-01/manuscript/chapters/chapter-21.md",
+      "words": 2486,
+      "sha256": "51c0b0ceb0008a1cefee37caedb018c6145f2ba7c46602e3224200a602d8f552"
+    },
+    {
+      "path": "books/book-01/manuscript/chapters/chapter-22.md",
+      "words": 2602,
+      "sha256": "17b21b8d19f4ebf90a9902d941311bef2435d5a41e21b6f883634dc6c02b0b26"
+    },
+    {
+      "path": "books/book-01/manuscript/chapters/chapter-23.md",
+      "words": 2918,
+      "sha256": "1c05752620a617fed1a7a651c7f2e3a9014ef1cbc8e553ae0d1abe0ecf53e178"
+    },
+    {
+      "path": "books/book-01/manuscript/chapters/chapter-24.md",
+      "words": 3115,
+      "sha256": "fe05b2fe2e2cc32705c5571b9eff85556a1819ebd43a528d7bcc48af23432a56"
+    }
+  ],
+  "outputs": [
+    {
+      "path": "books/book-01/production/proofs/Veridrift_INTERIOR_PROOF.docx",
+      "bytes": 396195,
+      "sha256": "a1cd4d58140e05319d5cfc8618c0104b69b1cd30e3d29ccbe093f229982d280b"
+    },
+    {
+      "path": "books/book-01/production/proofs/Veridrift_EPUB_PROOF.epub",
+      "bytes": 291517,
+      "sha256": "9ffc13c0ec2d58f8eede73405fa1c5a8485aefb2630c6e70db9e25e017526c37"
+    },
+    {
+      "path": "books/book-01/production/proofs/Veridrift_PRINT_PROOF.pdf",
+      "bytes": 2682723,
+      "sha256": "c103a976dcb8a4acb2da766f745b5712aa8438e8c9f79372e49e8d6ce8967ad8"
+    }
+  ],
+  "tools": {
+    "python": "3.12.13",
+    "python-docx": "1.1.2",
+    "PyYAML": "6.0.2",
+    "lxml": "5.3.0",
+    "reportlab": "4.2.5",
+    "pypdf": "5.1.0",
+    "PyMuPDF": "1.25.1",
+    "libreoffice": "UNAVAILABLE ([Errno 2] No such file or directory: 'libreoffice')",
+    "pdfinfo": "UNAVAILABLE ([Errno 2] No such file or directory: 'pdfinfo')",
+    "pdffonts": "UNAVAILABLE ([Errno 2] No such file or directory: 'pdffonts')",
+    "pandoc": "UNAVAILABLE"
+  },
+  "production_assumptions": [
+    "Proof trim defaults to 6 x 9 inches because no locked trim specification was found.",
+    "Body type uses DejaVu Serif 11 pt / approximately 14.5 pt leading in DOCX and comparable embedded type in PDF.",
+    "No cover is embedded because no repository asset is explicitly approved as final.",
+    "Title-page author and copyright fields use proof-only blocker notices; no identity or publishing value was invented.",
+    "DOCX requests odd-page section starts; renderer behavior may insert intentional blank pages.",
+    "Print PDF uses new-page chapter openings but does not force recto starts because automatic parity control was not used where it could create malformed pagination."
+  ],
+  "unresolved_metadata_blockers": [
+    "author_or_pen_name",
+    "copyright_holder",
+    "copyright_year",
+    "publisher_or_imprint",
+    "edition_statement",
+    "print_isbn",
+    "epub_isbn",
+    "locked_trim_size",
+    "approved_final_cover",
+    "publisher_logo",
+    "dedication",
+    "acknowledgments",
+    "approved_front_and_back_matter"
+  ]
+}
