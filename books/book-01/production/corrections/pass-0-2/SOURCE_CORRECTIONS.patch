@@ -1,0 +1,58 @@
+diff --git a/books/book-01/manuscript/chapters/chapter-10.md b/books/book-01/manuscript/chapters/chapter-10.md
+--- a/books/book-01/manuscript/chapters/chapter-10.md
++++ b/books/book-01/manuscript/chapters/chapter-10.md
+@@
+-“Old technical-support cutout. Fairfax County.”
++“Old technical-support cutout. Arlington County, near the District line.”
+@@
+-PCF-27 was out of public view. Its known plate, warm engine, tire tracks, and route into Fairfax County still existed.
++PCF-27 was out of public view. Its known plate, warm engine, tire tracks, and route into Arlington County still existed.
+@@
+ Decommissioned Communications Cutout
+-Fairfax County, Virginia
++Arlington County, Virginia
+ 05:42 Eastern Daylight Time
+
+diff --git a/books/book-01/manuscript/chapters/chapter-11.md b/books/book-01/manuscript/chapters/chapter-11.md
+--- a/books/book-01/manuscript/chapters/chapter-11.md
++++ b/books/book-01/manuscript/chapters/chapter-11.md
+@@
+ Decommissioned Communications Cutout
+-Fairfax County, Virginia
++Arlington County, Virginia
+ 06:25 Eastern Daylight Time
+@@
+ Decommissioned Communications Cutout
+-Fairfax County, Virginia
++Arlington County, Virginia
+ 06:42 Eastern Daylight Time
+
+diff --git a/books/book-01/manuscript/chapters/chapter-16.md b/books/book-01/manuscript/chapters/chapter-16.md
+--- a/books/book-01/manuscript/chapters/chapter-16.md
++++ b/books/book-01/manuscript/chapters/chapter-16.md
+@@
+-“Dual access,” he told Julie. “Property supervisor and watch commander. My name remains on intake. Park remains the scene witness. No package leaves without a written release and new receipt.”
++“Dual access,” he told Julie. “The MPD property supervisor holds one key. The watch commander holds the second. My name remains on intake. Park remains the scene witness. No package leaves without a written release and new receipt.”
+
+diff --git a/books/book-01/manuscript/chapters/chapter-17.md b/books/book-01/manuscript/chapters/chapter-17.md
+--- a/books/book-01/manuscript/chapters/chapter-17.md
++++ b/books/book-01/manuscript/chapters/chapter-17.md
+@@
+-Officer Ortiz held one key to the common chest. MPD property supervisor Hannah Park held the second. Their body cameras were backed by two fixed room cameras and a third lens aimed only at the wall clock and examination surface.
++The MPD property supervisor held one key to the common chest. The watch commander held the second. Officer Ortiz remained the intake officer. Hannah Park remained the scene-witness officer. Their body cameras were backed by two fixed room cameras and a third lens aimed only at the wall clock and examination surface.
+@@
+-She asked for the monotonic signing state surrounding 02:14 on October 13.
++She asked for the monotonic signing state surrounding 02:14 on October 12.
+@@
+-“My father learned from the news that I was called a hostage, then a possible saboteur. I was supposed to be at his retirement dinner last night.”
++“My father learned from the news that I was called a hostage, then a possible saboteur. I was supposed to be at his retirement dinner two nights ago.”
+
+diff --git a/books/book-01/manuscript/chapters/chapter-21.md b/books/book-01/manuscript/chapters/chapter-21.md
+--- a/books/book-01/manuscript/chapters/chapter-21.md
++++ b/books/book-01/manuscript/chapters/chapter-21.md
+@@
+-Price had written it the afternoon of October 12 after Argus displayed one hundred percent confidence for fourteen seconds, then returned to ninety-nine-point-eight.
++Price had written it the afternoon of October 11 after Argus displayed one hundred percent confidence for fourteen seconds, then returned to ninety-nine-point-eight.
+@@
+-Price’s last active audit session ended at 17:58 on October 12. His classified authority was suspended five minutes later. His extension was disabled nineteen seconds after that. The office request had been created the next morning at 06:41.
++Price’s last active audit session ended at 17:58 on October 11. His classified authority was suspended five minutes later. His extension was disabled nineteen seconds after that. The later office request had been created at 06:41 on October 13.
