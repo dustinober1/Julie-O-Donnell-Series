@@ -4,12 +4,17 @@ on:
   push:
     branches:
       - agent/book1-controlled-final-proofread
+  pull_request:
+    branches:
+      - main
+    types: [opened, synchronize, reopened]
 
 permissions:
   contents: write
 
 jobs:
   finalize:
+    if: github.event_name == 'push' || github.event.pull_request.head.ref == 'agent/book1-controlled-final-proofread'
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
