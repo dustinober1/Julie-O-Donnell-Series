@@ -1,0 +1,43 @@
+name: Assemble Final Publication Tools
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - ".github/workflows/zz-assemble-final-tools.yml"
+      - ".github/tool-parts/**"
+
+permissions:
+  contents: write
+
+jobs:
+  assemble:
+    if: github.event.pull_request.head.repo.full_name == github.repository && github.event.pull_request.head.ref == 'agent/book1-publication-master-freeze'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out publication-freeze branch
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: agent/book1-publication-master-freeze
+
+      - name: Assemble exact tool files
+        shell: bash
+        run: |
+          set -euo pipefail
+          cat .github/tool-parts/validate.part-* | base64 --decode > tools/validate_book1_publication_readiness.py
+          cat .github/tool-parts/verify.part-* | base64 --decode > tools/verify_book1_revision.py
+          test "$(git hash-object tools/validate_book1_publication_readiness.py)" = "fd1dc71543b77db4f169c38d63613dc16568c661"
+          test "$(git hash-object tools/verify_book1_revision.py)" = "11d2fac0b52970204daf1db01ab0ca7a0a0dc189"
+          python -m py_compile tools/validate_book1_publication_readiness.py tools/verify_book1_revision.py
+
+      - name: Commit exact tool files
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tools/validate_book1_publication_readiness.py tools/verify_book1_revision.py
+          git commit -m "ci: assemble exact publication validators"
+          git push origin HEAD:agent/book1-publication-master-freeze
