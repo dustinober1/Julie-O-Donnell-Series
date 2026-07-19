@@ -1,0 +1,42 @@
+version: 1
+book: 1
+title: "Veridrift"
+series: "Julie O'Donnell Series"
+language: "en-US"
+source_manifest: "books/book-01/ACCEPTED_MANUSCRIPT.yaml"
+publication_readiness: "proofread_and_production_required"
+production_status: "production_proofs_generated_pending_manual_approval"
+proof_defaults:
+  trim_size: "6 x 9 inches"
+  trim_status: "unlocked_proof_default"
+  body_font: "DejaVu Serif"
+  body_size_points: 11
+  line_spacing_points: 14.5
+  inner_margin_inches: 0.85
+  outer_margin_inches: 0.65
+  top_margin_inches: 0.75
+  bottom_margin_inches: 0.75
+locked_metadata:
+  title: "Veridrift"
+  series: "Julie O'Donnell Series"
+  language: "en-US"
+unresolved_blockers:
+  author_or_pen_name: null
+  copyright_holder: null
+  copyright_year: null
+  publisher_or_imprint: null
+  edition_statement: null
+  print_isbn: null
+  epub_isbn: null
+  locked_trim_size: null
+  approved_final_cover: null
+  publisher_logo: null
+  dedication: null
+  acknowledgments: null
+  approved_front_and_back_matter: null
+cover:
+  embedded: false
+  reason: "No repository asset was explicitly identified as the final approved cover."
+approval:
+  publication_approved: false
+  author_approval_required: true
