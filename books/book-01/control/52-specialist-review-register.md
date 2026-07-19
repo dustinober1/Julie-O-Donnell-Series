@@ -4,7 +4,7 @@
 **Canonical inventory:** `../ACCEPTED_MANUSCRIPT.yaml`, version 2
 **Current accepted baseline:** PR #82 merge commit `a722b99bc41314c62ae99c35b960d6274a0681ab`
 **Accepted structure:** Prologue + Chapters 1–24
-**Accepted total:** 105,155 words
+**Accepted total:** 105,157 words
 **Formal-review standard:** A qualification-backed approval would require a named reviewer, relevant qualifications, a review date, reviewed baseline, written findings, and an explicit disposition.
 **Current author decision:** The formal documentation gate was waived on 2026-07-18. Issues #70–#76 were closed at the author's direction after reported specialist satisfaction.
 **Evidence limit:** No reviewer names, qualifications, dates, reviewed baselines, or written deliverables are recorded. Do not convert these closures into external approvals.

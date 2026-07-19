@@ -9,17 +9,17 @@ series:
 repository:
   branch_policy: "main remains protected; developmental and publication-readiness changes are reviewed through PR"
   book_1_source_of_truth: "books/book-01/ACCEPTED_MANUSCRIPT.yaml"
-  updated: "2026-07-18"
+  updated: "2026-07-19"
 
 book_1:
   title: "Veridrift"
-  status: "copyedited_content_frozen"
+  status: "publication_master_frozen"
   publication_readiness: "proofread_and_production_required"
-  accepted_words: 105155
+  accepted_words: 105157
   target_words_min: 105000
   target_words_max: 110000
   structure:
-    prologue: "accepted; targeted public-source authority clarification applied"
+    prologue: "accepted"
     chapters: 24
     crisis_day: "October 13"
     investigation_and_release: "October 14-16"
@@ -38,17 +38,15 @@ book_1:
   copyedit_pull_request: 82
   copyedit_merge_commit: "a722b99bc41314c62ae99c35b960d6274a0681ab"
   author_copyedit_review_completed: "2026-07-18"
-  content_freeze: "objective proofreading corrections only"
+  content_freeze: "editorial prose frozen as the Book 1 publication master; production proofs remain required"
   preserved_ending: "The bubble stayed centered."
   open_series_threads:
     - "human or upstream instruction behind the original 02:14 construction"
-    - "Senator Sterling's personal knowledge, direction, intent, or command"
+    - "Senator Sterling's personal knowledge, direction, intent, possession, operation, or command"
   required_next_steps:
-    - "controlled final proofread against the 105155-word canonical inventory"
-    - "regenerate accepted counts and hashes if proof corrections change prose"
-    - "run validators, tests, compiler, final-line assertion, YAML checks, and diff hygiene"
-    - "freeze publication-master commit"
-    - "generate and manually approve Word, EPUB, and print-PDF proofs"
+    - "generate Word, EPUB, and print-PDF production proofs from the manifest inventory"
+    - "manually inspect and approve each production proof"
+    - "confirm every approved output matches the publication master before publication"
 
 quality_controls:
   publication_readiness_validator: "tools/validate_book1_publication_readiness.py"
@@ -59,4 +57,7 @@ quality_controls:
   public_source_desk_review: "books/book-01/control/58-internet-research-desk-review.md"
   post_research_continuity_audit: "books/book-01/control/59-post-research-continuity-audit.md"
   post_copyedit_reconciliation: "books/book-01/control/63-post-copyedit-publication-state-reconciliation.md"
-  current_validation: "manual copyedit verification complete at 105155 accepted words; final proofing validation pending"
+  final_proofread_report: "books/book-01/control/64-final-proofread-report.md"
+  final_proofread_query_log: "books/book-01/control/65-final-proofread-query-log.md"
+  publication_master_freeze: "books/book-01/control/66-publication-master-freeze.md"
+  current_validation: "complete local publication-master validation at 105157 accepted words; editorial prose frozen; production proof generation and manual approval pending"

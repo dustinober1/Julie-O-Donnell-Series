@@ -2,57 +2,28 @@
 
 ## Current state
 
-**_Veridrift_ is copyedited and content frozen for final proofreading. It is not yet publication-final.**
+**_Veridrift_ is frozen as the editorial publication master. It is not yet approved for publication.**
 
-- Canonical accepted manuscript: Prologue plus Chapters 1–24.
-- Current accepted word count: **105,155**.
-- Target range: **105,000–110,000**.
-- Developmental revision completed: **July 18, 2026**.
-- Publication-rhythm pass completed: **July 18, 2026**.
-- Targeted one-sentence-paragraph repair completed: **July 18, 2026**.
-- Public-source desk review completed: **July 18, 2026**.
-- Post-research continuity audit completed: **July 18, 2026**.
-- Full mechanical copyedit completed and author-reviewed in PR #82: **July 18, 2026**.
-- Chapter 1 remained unchanged; the Prologue received a targeted authority clarification during the public-source desk review.
-- Final line remains locked: **The bubble stayed centered.**
+- Canonical accepted manuscript: Prologue + Chapters 1–24.
+- Accepted prose files: **25**.
+- Current accepted word count: **105,157**.
+- Manifest version: **2**.
+- Publication readiness: `proofread_and_production_required`.
+- Controlled final proofread completed and merged in PR #84.
+- Open proofreading queries: **0**.
+- Final line: **The bubble stayed centered.**
+- Accepted prose changed during publication-master validation: **none**.
 
-## Revision outcomes
+## Proof ceilings and carryovers
 
-- Final act compressed and rebuilt as one accumulating proof sequence.
-- Post-apprehension investigation moved across October 13–16.
-- Julie now makes and records a consequential analytical scope error involving K-17.
-- Grant, Alvarez, Ortiz, Sharma, Sarah, Vega, and other professionals originate correct process independently.
-- Elias has a concrete family stake and retains control of future contact.
-- Sarah's earlier institutional restraint is seeded before her source-preservation actions.
-- Vance's later live-authenticated release is proved; his original deployment authorship remains unproved.
-- Sterling-office responsibility is established without inventing Sterling's personal command.
-- Final exact farm timestamp removed; final line preserved.
+- The original 02:14 constructor remains unidentified.
+- Senator Sterling's personal knowledge, direction, intent, possession, operation, or command remains unestablished.
+- No Chapter 25 is accepted or authorized.
 
-## Publication blockers removed
+## Remaining requirements
 
-- in-world chapter-number drafting references;
-- chapter heading attached to prose;
-- duplicate thermostat transmission;
-- July/October contradiction;
-- heading and scene-spacing inconsistencies;
-- backticked display artifacts;
-- overexplicit Vance confession;
-- unrealistic same-morning federal resolution;
-- stale post-research authority and release metadata;
-- the eight unambiguous mechanical copyedit defects identified in the accepted manuscript.
+1. Generate Word, EPUB, and print-PDF proofs from the manifest inventory.
+2. Manually inspect and approve those production proofs.
+3. Confirm each approved output matches the publication master before publication.
 
-## Specialist-review disposition
-
-Issues #70–#76 were closed at the author's direction after reported specialist satisfaction. Because the repository contains no reviewer names, qualifications, dates, reviewed baselines, or written findings, those closures are author waivers of the formal documentation gate rather than recorded external approvals.
-
-See `../control/63-post-copyedit-publication-state-reconciliation.md` for the controlling disposition and residual-risk statement.
-
-## Required before publication
-
-1. Complete a controlled final proofread for objective errors only.
-2. Regenerate accepted counts and hashes if proof corrections change prose.
-3. Pass the validator, tests, compiler, final-line assertion, YAML checks, and diff hygiene.
-4. Freeze a publication-master commit.
-5. Generate and manually approve Word, EPUB, and print-PDF proofs.
-
-Do not begin another broad prose or voice pass unless a concrete defect justifies reopening content.
+No additional broad prose, voice, rhythm, developmental, or copyedit pass is authorized without a concrete defect and a new editorial exception record.
