@@ -1,0 +1,68 @@
+name: Apply Publication Freeze Payload
+
+on:
+  push:
+    branches:
+      - agent/book1-publication-master-freeze
+    paths:
+      - ".github/workflows/zz-apply-publication-freeze.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out publication-freeze branch
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: agent/book1-publication-master-freeze
+
+      - name: Apply verified local payload
+        shell: bash
+        run: |
+          set -euo pipefail
+          base64 --decode .github/publication-freeze-payload.b64 | tar -xzf -
+          rm -f \
+            .github/publication-freeze-payload.b64 \
+            .github/workflows/zz-apply-publication-freeze.yml \
+            .github/workflows/zz-publication-freeze-bootstrap.yml \
+            .github/workflows/temporary-drive-chunk-export.yml \
+            books/book-01/manuscript/full-manuscript.md
+
+      - name: Run complete publication-master validation
+        shell: bash
+        run: |
+          set -euo pipefail
+          python -m unittest discover -s tools -p 'test_*.py' -v
+          python tools/count_book1_words.py --expect 105157
+          python tools/validate_book1_publication_readiness.py
+          python tools/analyze_book1_revision.py
+          python tools/analyze_book1_publication_style.py
+          python tools/compile_book1_from_manifest.py --output /tmp/Veridrift_PUBLICATION_MASTER.md
+          python tools/verify_book1_revision.py
+          python -m py_compile \
+            tools/count_book1_words.py \
+            tools/validate_book1_publication_readiness.py \
+            tools/verify_book1_revision.py
+          ruby -e "require 'yaml'; YAML.load_file('PROJECT_STATE.yaml'); YAML.load_file('books/book-01/ACCEPTED_MANUSCRIPT.yaml')"
+          test -s /tmp/Veridrift_PUBLICATION_MASTER.md
+          test -s /tmp/Veridrift_PUBLICATION_MASTER.md.build.json
+          tail -n 1 /tmp/Veridrift_PUBLICATION_MASTER.md | grep -Fx 'The bubble stayed centered.'
+          git diff --check
+          git diff --exit-code -- \
+            books/book-01/manuscript/prologue.md \
+            books/book-01/manuscript/chapters
+
+      - name: Commit verified freeze state
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "chore: freeze Book 1 publication master"
+          git push origin HEAD:agent/book1-publication-master-freeze
