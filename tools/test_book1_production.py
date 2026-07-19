@@ -6,6 +6,19 @@ import sys
 import unittest
 from pathlib import Path
 
+try:
+    import docx  # noqa: F401
+    import fitz  # noqa: F401
+    import lxml  # noqa: F401
+    import PIL  # noqa: F401
+    import pypdf  # noqa: F401
+    import reportlab  # noqa: F401
+    import yaml  # noqa: F401
+except ModuleNotFoundError as exc:
+    raise unittest.SkipTest(
+        f"production proof dependencies are not installed in this source-only workflow: {exc.name}"
+    ) from exc
+
 ROOT = Path(__file__).resolve().parents[1]
 SCRIPT = ROOT / "tools/build_book1_production.py"
 spec = importlib.util.spec_from_file_location("book1_production", SCRIPT)
