@@ -46,3 +46,5 @@ jobs:
           git diff --cached --check
           git commit -m "build: materialize Book 1 production proofs"
           git push origin HEAD:agent/book1-production-package
+
+# One-time trigger refresh: 2026-07-19
