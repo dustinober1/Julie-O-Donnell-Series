@@ -1,6 +1,9 @@
 name: Publication Freeze Bootstrap Diagnostic
 
 on:
+  pull_request:
+    branches:
+      - main
   push:
     branches:
       - agent/book1-publication-master-freeze
