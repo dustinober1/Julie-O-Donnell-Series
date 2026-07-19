@@ -1,0 +1,133 @@
+{
+  "input": "/mnt/data/VERIDRIFT_CORRECTION_PASS_3/Veridrift_Publication_Master_v2.docx",
+  "output": "/mnt/data/VERIDRIFT_CORRECTION_PASS_4/Veridrift_Publication_Master_v3.docx",
+  "input_sha256": "90ccccf378cde8dfd7e28a163eb2376c6ba948a9b30a2483d9aaf4ead4912c57",
+  "output_sha256": "3a58b106f1d66d01fe7dcab1f897f2856764c6d3907f4d1ca81a34e4d51da31e",
+  "paragraphs_before": 5847,
+  "paragraphs_after": 5847,
+  "tracked_paragraph_replacements": 10,
+  "ledger_rows_closed": 6,
+  "new_revision_element_counts_by_author": {
+    "OpenAI Editorial — T04": 2,
+    "OpenAI Editorial — T05": 2,
+    "OpenAI Editorial — T06": 4,
+    "OpenAI Editorial — T07": 2,
+    "OpenAI Editorial — T08": 10
+  },
+  "assertions": {
+    "t04_new": 1,
+    "t04_old": 0,
+    "t05_quote_later": 1,
+    "t05_old_removed_later": 0,
+    "t05_converted": 1,
+    "t05_changed_old": 0,
+    "t05_evidence_sentence": 1,
+    "t05_evidentially_old": 0,
+    "t06_new": 2,
+    "t06_old": 0,
+    "t07_new": 1,
+    "t07_old": 0,
+    "t09_motif": 4
+  },
+  "t08_audit": {
+    "requester_lowercase_count": 5,
+    "requester_possessive_count": 1,
+    "requestor_lowercase_count": 3,
+    "requestor_uppercase_count": 1,
+    "preserved_literal_phrases": {
+      "internal requestor": 1,
+      "APPARENT REQUESTOR": 1,
+      "requestor field": 2
+    }
+  },
+  "t09_contexts": [
+    "There. Julie had read the building. Sarah keyed the team channel. “Containment One, divert west at the lower landing. They are using the cooling galleries. Maintain capture priority. Secure the telemetry intact.” She did not repeat Vance’s words. She did not warn Julie. On the dark screen, the route converged on the production enclave.",
+    "Sarah opened her own incident report. It said suspected sabotage. The technical source review had not assigned authorship. The enclave record had not been recovered. No federal examiner had concluded who introduced the poisoned data. The public statement had reached a conclusion before the investigation reached the evidence. Sarah marked the time, preserved both directives in the incident file, and sent the regional lookout again. She did not warn Julie.",
+    "It was not the answer Vance wanted. It was an answer Mercer could put on a receipt. Sarah transmitted the vehicle image, the garage plan, and the two exits. She did not warn Julie. She assigned units to the public ramps and pedestrian stairs and asked Hartwell security to preserve its outer-camera records.",
+    "Sarah sealed the source-category index before Vance could replace it with the narrative. She preserved the company’s objections beside it and accepted the internal review notice that followed under her name. She did not warn Julie. She did not withdraw the alert. She preserved the record in which those acts would later be judged."
+  ],
+  "changes": [
+    {
+      "ID": "T04",
+      "chapter": "Chapter 1 — The Official Version",
+      "old_paragraph": "There it was—not proof, or anything close to it, but pressure left patterns of its own.",
+      "new_paragraph": "There it was. Not proof, or anything close to it. But pressure left patterns of its own."
+    },
+    {
+      "ID": "T05",
+      "chapter": "Chapter 23 — The Official Correction",
+      "old_paragraph": "By 13:53, all three authorities had approved separate final drafts. Then the overclaim arrived. A late coordination redline removed later from the Vance finding and changed office responsibility into Sterling’s personal direction. The source citations remained unchanged. The accompanying note argued that public clarity required the strongest reasonable institutional conclusion. Qualified language, it warned, would lose the news cycle while Apex and Sterling’s office hardened their accounts. The argument was politically sound. The page was evidentially false. Julie read it twice. The injury in her right arm narrowed her attention until the text outside the redlines blurred.",
+      "new_paragraph": "By 13:53, all three authorities had approved separate final drafts. Then the overclaim arrived. A late coordination redline removed “later” from the Vance finding and converted office responsibility into Sterling’s personal direction. The source citations remained unchanged. The accompanying note argued that public clarity required the strongest reasonable institutional conclusion. Qualified language, it warned, would lose the news cycle while Apex and Sterling’s office hardened their accounts. The argument was politically sound. The page was not supported by the evidence. Julie read it twice. The injury in her right arm narrowed her attention until the text outside the redlines blurred."
+    },
+    {
+      "ID": "T06",
+      "chapter": "Chapter 1 — The Official Version",
+      "old_paragraph": "It contained a sequence of timestamps and signal-strength readings. No headings. No agency markings. No indication of location or source. Julie read the first line, then the second. By the fourth, the pasture seemed to recede from her. Each transmission had arrived exactly eleven-point-two seconds after the one before it. Signal strength varied by less than one tenth of a decibel. She read the numbers again.",
+      "new_paragraph": "It contained a sequence of timestamps and signal-strength readings. No headings. No agency markings. No indication of location or source. Julie read the first line, then the second. By the fourth, the pasture seemed to recede from her. Each transmission had arrived exactly eleven-point-two seconds after the one before it. Signal strength varied by less than one-tenth of a decibel. She read the numbers again."
+    },
+    {
+      "ID": "T06",
+      "chapter": "Chapter 1 — The Official Version",
+      "old_paragraph": "Julie did not answer. The transmissions arrived every eleven-point-two seconds. Signal strength varied by less than one tenth of a decibel. The relay had been operating through freezing rain, wind shear, and intermittent power loss. None of it touched the data. The transmissions marched across the screen with machine-made precision. Julie’s fingers went cold around the pen.",
+      "new_paragraph": "Julie did not answer. The transmissions arrived every eleven-point-two seconds. Signal strength varied by less than one-tenth of a decibel. The relay had been operating through freezing rain, wind shear, and intermittent power loss. None of it touched the data. The transmissions marched across the screen with machine-made precision. Julie’s fingers went cold around the pen."
+    },
+    {
+      "ID": "T07",
+      "chapter": "Prologue — Six Years Ago",
+      "old_paragraph": "Baines pulled atmospheric degradation from the eastern relay. Its graph rose and fell with wind, dust, and thermal interference. Julie overlaid Anwar’s intercept. The target line remained almost perfectly smooth. The relay history made the problem worse. At 0214, the geolocation track placed the handset behind the western ridge, where granite should have blocked the eastern receiver. Argus reported uninterrupted line-of-sight acquisition anyway. The feed had crossed terrain without losing signal and weather without acquiring noise.",
+      "new_paragraph": "Baines pulled atmospheric degradation from the eastern relay. Its graph rose and fell with wind, dust, and thermal interference. Julie overlaid Anwar’s intercept. The target line remained almost perfectly smooth. The relay history made the problem worse. At 02:14, the geolocation track placed the handset behind the western ridge, where granite should have blocked the eastern receiver. Argus reported uninterrupted line-of-sight acquisition anyway. The feed had crossed terrain without losing signal and weather without acquiring noise.",
+      "old": "At 0214",
+      "new": "At 02:14"
+    },
+    {
+      "ID": "T08",
+      "chapter": "Chapter 20 — The Custody Exception",
+      "old_paragraph": "Hackett looked frustrated by the distinction because the distinction was real. Grant opened the next production request herself. The office would identify the initiating continuity record, its creation time, apparent requestor, inherited reference, and custody state without producing deliberative content. LSS would preserve the signer. Hartwell and WSS would preserve their original events. No one would open the device to substitute its silence for the chain that moved it.",
+      "new_paragraph": "Hackett looked frustrated by the distinction because the distinction was real. Grant opened the next production request herself. The office would identify the initiating continuity record, its creation time, apparent requester, inherited reference, and custody state without producing deliberative content. LSS would preserve the signer. Hartwell and WSS would preserve their original events. No one would open the device to substitute its silence for the chain that moved it.",
+      "old": "apparent requestor",
+      "new": "apparent requester"
+    },
+    {
+      "ID": "T08",
+      "chapter": "Chapter 21 — The Borrowed Name",
+      "old_paragraph": "Sterling’s office produced the requestor’s name before it produced the act. The source-limited derivative appeared in Grant’s window under a fixed camera. An office records custodian sat at a controlled terminal with both hands visible. Counsel remained beside her. No original had moved.",
+      "new_paragraph": "Sterling’s office produced the requester’s name before it produced the act. The source-limited derivative appeared in Grant’s window under a fixed camera. An office records custodian sat at a controlled terminal with both hands visible. Counsel remained beside her. No original had moved.",
+      "old": "requestor’s name",
+      "new": "requester’s name"
+    },
+    {
+      "ID": "T08",
+      "chapter": "Chapter 21 — The Borrowed Name",
+      "old_paragraph": "The custodian answered carefully. “The current derivative identifies Price as requestor and DIA-SAR-PRICE-01 as the inherited source reference. It contains no separate physical-signature field.”",
+      "new_paragraph": "The custodian answered carefully. “The current derivative identifies Price as requester and DIA-SAR-PRICE-01 as the inherited source reference. It contains no separate physical-signature field.”",
+      "old": "Price as requestor",
+      "new": "Price as requester"
+    },
+    {
+      "ID": "T08",
+      "chapter": "Chapter 21 — The Borrowed Name",
+      "old_paragraph": "“Then Price is an apparent requestor. We need the complete event classes and the DIA originals before assigning the act.”",
+      "new_paragraph": "“Then Price is an apparent requester. We need the complete event classes and the DIA originals before assigning the act.”",
+      "old": "apparent requestor",
+      "new": "apparent requester"
+    },
+    {
+      "ID": "T08",
+      "chapter": "Chapter 21 — The Borrowed Name",
+      "old_paragraph": "Price asked to see the inherited-reference field beside his original receipt. Grant allowed the comparison without exposing the route beyond the categories already produced. The request number matched exactly. The requestor name matched. The source subject line matched. His original signature did not appear. Instead, the office object identified the inherited reference as sufficient authentication for continuity processing.",
+      "new_paragraph": "Price asked to see the inherited-reference field beside his original receipt. Grant allowed the comparison without exposing the route beyond the categories already produced. The request number matched exactly. The requester name matched. The source subject line matched. His original signature did not appear. Instead, the office object identified the inherited reference as sufficient authentication for continuity processing.",
+      "old": "requestor name",
+      "new": "requester name"
+    }
+  ],
+  "render_qa": {
+    "tracked_pages": 445,
+    "accepted_pages": 443,
+    "tracked_contact_sheets_reviewed": 28,
+    "accepted_contact_sheets_reviewed": 28,
+    "tracked_changed_pages_reviewed_150dpi": [4, 5, 16, 20, 31, 397, 399, 400, 405, 426, 427],
+    "accepted_changed_pages_reviewed_150dpi": [4, 15, 19, 29, 396, 398, 399, 403, 424],
+    "visual_result": "PASS",
+    "findings": []
+  }
+}
