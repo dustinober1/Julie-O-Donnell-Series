@@ -1,15 +1,31 @@
 # Book 1 Specialist Findings Ledger
 
-**Manuscript:** *Veridrift*  
-**Canonical inventory:** `../ACCEPTED_MANUSCRIPT.yaml`  
-**External-review state:** No named external specialist finding has yet been received.  
+**Manuscript:** *Veridrift*
+**Canonical inventory:** `../ACCEPTED_MANUSCRIPT.yaml`, version 2
+**Accepted-manuscript baseline:** `main` commit `0a0ed1c5330cbe48a59499d7a4104aa02f6c059a`
+**External-review state:** No named external specialist finding has yet been received.
+**Packet state:** All seven packets synchronized and ready to send on 2026-07-18; see `60-external-review-dispatch-readiness.md`.
 **Internal desk-review state:** Public-source review completed on 2026-07-18; see `58-internet-research-desk-review.md`. Post-research continuity reconciliation completed on 2026-07-18; see `59-post-research-continuity-audit.md`.
 
 ## External finding register
 
-| ID | Area | Reviewer | Date | Chapter / passage | Severity | Finding | Smallest correction | Downstream ledgers / chapters | Editorial decision | Status |
-|---|---|---|---|---|---|---|---|---|---|---|
-| — | — | — | — | — | — | — | — | — | — | Awaiting named external reviews |
+| ID | Area | Reviewer | Qualifications | Review date | Baseline reviewed | Chapter / passage | Severity | Finding | Smallest correction | Credible material to retain | Editorial decision | Status |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| — | — | — | — | — | — | — | — | — | — | — | — | Awaiting named external reviews |
+
+## Dispatch synchronization record
+
+These entries are editorial-operations records, not external findings or approvals.
+
+| ID | Area | Packet state | External state | Current mechanism / proof ceiling |
+|---|---|---|---|---|
+| DS-01 | SIGINT / ELINT / provenance | READY TO SEND | UNREVIEWED | Provenance anomalies support challenge, not proof; raw observations remain separate from transformations and derived products. |
+| DS-02 | Military targeting / UAS / JAG | READY TO SEND | UNREVIEWED | Julie communicates a formal abort recommendation; Hargrove and command retain targeting authority; the pilot receives it after release. |
+| DS-03 | Secure facility / fire / suppression | READY TO SEND | UNREVIEWED | The occupied-room defeat is malicious; independent hardwired life safety remains the escape mechanism. |
+| DS-04 | PKI / hardware token / digital forensics | READY TO SEND | UNREVIEWED | Identity/public-certificate metadata and a server assertion are mirrored; no live finger or physical private-key act occurs at 02:14; original operator remains unknown. |
+| DS-05 | Federal investigation / custody / legal | READY TO SEND | UNREVIEWED | MPD written release authorization follows prosecutorial consultation; no present federal detainer or charge controls release; counsel undertakings are not judicially imposed release terms. |
+| DS-06 | Indian Army / artillery / South Asia | READY TO SEND | UNREVIEWED | Indian commanders retain firing authority; Sharma's no-fire decision and K-17 proof limits remain. |
+| DS-07 | Trauma medicine / injury continuity | READY TO SEND | UNREVIEWED | Injuries accumulate and constrain capability through Chapters 6–24; exact diagnoses and ceilings remain for external review. |
 
 ## Public-source desk findings
 
@@ -41,10 +57,10 @@ These are internal continuity classifications, not external specialist findings.
 ## Verification record
 
 - Accepted total: **105,144 words**.
-- Accepted prose changed during this reconciliation: **none**.
+- Accepted prose changed during packet synchronization: **none**.
 - `ACCEPTED_MANUSCRIPT.yaml` counts and SHA-256 values remain controlling and unchanged.
 - Post-research continuity report: `59-post-research-continuity-audit.md`.
-- Durable GitHub workflows remain the required execution proof for the audit branch and pull request.
+- Dispatch-readiness report: `60-external-review-dispatch-readiness.md`.
 - Final line remains locked: **The bubble stayed centered.**
 
 ## Severity
@@ -81,7 +97,7 @@ These are internal continuity classifications, not external specialist findings.
 ## Prohibited handling
 
 - Do not mark an issue reviewed from an informal conversation without a dated deliverable.
-- Do not convert web research or AI analysis into an external approval.
+- Do not convert public-source research or AI analysis into an external approval.
 - Do not let a terminology correction silently alter plot, character knowledge, evidence scope, or institutional authority.
 - Do not combine separate findings into a cleaner narrative that exceeds any source.
 - Do not delete an adverse fact merely because the source-origin accusation is corrected.
