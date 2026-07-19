@@ -241,7 +241,7 @@ She expanded the raw layer. The familiar emissions appeared every eleven-point-t
 
 MATCHING STRUCTURE: VAL-088
 
-A packet-only boundary was precise but left some cached products connected through the source-correction object's internal dependency tables. Walking every dependency by hand would take longer than the release clock allowed.
+A packet-only boundary was precise but left some cached products connected through the source-correction object’s internal dependency tables. Walking every dependency by hand would take longer than the release clock allowed.
 
 Julie selected the middle option: source-correction lineage and dependent tables. It would suspend every product built through the poisoned correction while leaving the relay’s primary raw stream intact. Elias read the scope. “The dependent side table includes observations the correction process already classified as self-noise.”
 
@@ -520,7 +520,7 @@ She selected:
 
 SUPPLEMENTAL REVIEW — DEFERRED CORRECTION-DEPENDENT OBSERVATIONS
 INITIAL RANGE LIMITATION: OVERBROAD LINEAGE BOUNDARY
-ANALYTIC AUTHORITY: O'DONNELL, JULIE M.
+ANALYTIC AUTHORITY: O’DONNELL, JULIE M.
 AUTHOR VALIDATION: THORNE, ELIAS M.
 EXTERNAL RELEASE STATE: REMAINS SUSPENDED
 
@@ -542,7 +542,7 @@ Five, perhaps six, moving in intervals that kept them from occupying the same se
 
 “The correction routine treated anything sharing its carrier structure as contamination. Payload Eighty-Eight did not only add the artillery pattern. The production object used the pattern as a mask.”
 
-The supplemental review sealed beside the original recovery record without changing it. Julie's overbroad boundary and Elias's correction would travel together. Julie brought up the timestamps. The first thermal event had occurred before the fabricated artillery warning reached peak confidence. The movement continued while human attention and model resources shifted toward the false sector. Several sensors along the second corridor had gone quiet for precise, overlapping intervals—not long enough to trigger a relay failure, but long enough for people to pass between them.
+The supplemental review sealed beside the original recovery record without changing it. Julie’s overbroad boundary and Elias’s correction would travel together. Julie brought up the timestamps. The first thermal event had occurred before the fabricated artillery warning reached peak confidence. The movement continued while human attention and model resources shifted toward the false sector. Several sensors along the second corridor had gone quiet for precise, overlapping intervals—not long enough to trigger a relay failure, but long enough for people to pass between them.
 
 One ground sensor had registered six separate weight events over ninety seconds. The intervals were disciplined, the spacing designed to keep the group from appearing as a single formation. A communications receiver had caught two encrypted acknowledgments so brief that the normalization layer had buried them beneath the synthetic carrier noise. The activity was not random movement by civilians surprised by the weather. Someone had studied the collection pattern. Marcus forced himself higher against the cabinet.
 
