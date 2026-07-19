@@ -27,6 +27,8 @@ permissions:
 
 env:
   BOOK1_SOURCE_COMMIT: 3a5b93adf59ab0cd84a80a676c16fdf495fd3287
+  BOOK1_BUILD_BRANCH: ${{ github.head_ref || github.ref_name }}
+  BOOK1_BUILD_HEAD: ${{ github.event.pull_request.head.sha || github.sha }}
   PYTHONHASHSEED: "0"
   SOURCE_DATE_EPOCH: "1784462400"
 
@@ -96,8 +98,31 @@ jobs:
           test -s /tmp/Veridrift_PUBLICATION_MASTER.md.build.json
           tail -n 1 /tmp/Veridrift_PUBLICATION_MASTER.md | grep -Fx 'The bubble stayed centered.'
 
+      - name: Record committed proof hashes when present
+        shell: bash
+        run: |
+          if test -f books/book-01/production/proofs/Veridrift_INTERIOR_PROOF.docx; then
+            sha256sum \
+              books/book-01/production/proofs/Veridrift_INTERIOR_PROOF.docx \
+              books/book-01/production/proofs/Veridrift_EPUB_PROOF.epub \
+              books/book-01/production/proofs/Veridrift_PRINT_PROOF.pdf \
+              > /tmp/committed-proof-hashes.txt
+          fi
+
       - name: Generate production proofs
-        run: python tools/build_book1_production.py
+        run: >-
+          python tools/build_book1_production.py
+          --branch "$BOOK1_BUILD_BRANCH"
+          --branch-head "$BOOK1_BUILD_HEAD"
+
+      - name: Confirm deterministic proof regeneration
+        shell: bash
+        run: |
+          if test -f /tmp/committed-proof-hashes.txt; then
+            sha256sum -c /tmp/committed-proof-hashes.txt
+          else
+            echo "No committed proofs existed before this build; deterministic comparison deferred to the artifact commit run."
+          fi
 
       - name: Run production tests
         run: python -m unittest tools.test_book1_production -v
@@ -185,6 +210,7 @@ jobs:
             echo
             echo "- Frozen-source suite before production: PASS"
             echo "- Production unit tests: PASS"
+            echo "- Deterministic proof regeneration: PASS when committed proofs were present; otherwise deferred to artifact commit run"
             echo "- PDFInfo trim and encryption preflight: PASS"
             echo "- PDF font embedding preflight: PASS"
             echo "- LibreOffice DOCX rendering: PASS"
