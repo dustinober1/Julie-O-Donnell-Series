@@ -1,14 +1,25 @@
 # External Review Packet — Indian Army / Artillery / South Asia Security
 
-**Tracking issue:** #75  
+**Tracking issue:** #75
 **Status:** UNREVIEWED
+**Accepted-manuscript baseline:** `main` commit `0a0ed1c5330cbe48a59499d7a4104aa02f6c059a`
+**Manifest:** `books/book-01/ACCEPTED_MANUSCRIPT.yaml`, version 2
+**Accepted structure:** Prologue + Chapters 1–24
+**Accepted total:** 105,144 words
+**Publication state:** NOT APPROVED FOR PUBLICATION
+
+An AI review, public-source review, informal conversation, or unnamed opinion cannot close this external-review gate. The issue remains **UNREVIEWED** until a named qualified reviewer supplies a dated, qualification-backed deliverable tied to the baseline above.
+
+## Minimum useful reviewer profile
+
+Current or former Indian Army officer, artillery practitioner, South Asia defense analyst, Line-of-Control security specialist, or practitioner familiar with Indian field command and escalation practice.
 
 ## Reviewer
 
 - Name:
 - Qualifications / relevant experience:
 - Review date:
-- Manuscript commit or compilation reviewed:
+- Exact manuscript commit, manifest version, or generated compilation reviewed:
 
 ## Content lock
 
@@ -31,15 +42,17 @@ Preserve Major Ananya Sharma's independent agency, the higher-command pressure, 
 9. Is the treatment of Pakistani forces, escalation behavior, disputed terrain, and sovereignty balanced and plausible?
 10. Which terminology should change while preserving the story outcome?
 
+Report both (a) errors or concerns and (b) credible material that should remain unchanged. Tie every finding to the exact chapter and passage and propose the smallest story-preserving correction.
+
 ## Findings
 
-| Severity | Chapter / passage | Problem | Smallest correction | Downstream impact |
+| Severity | Chapter / passage | Problem | Smallest story-preserving correction | Downstream impact |
 |---|---|---|---|---|
 |  |  |  |  |  |
 
 ## Credible elements to retain
 
-- 
+- [To be completed by reviewer]
 
 ## Final disposition
 

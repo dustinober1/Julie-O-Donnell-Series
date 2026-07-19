@@ -1,9 +1,10 @@
 # Book 1 Publication-Readiness Status
 
-**Book:** *Veridrift*  
-**Canonical inventory:** `../ACCEPTED_MANUSCRIPT.yaml`  
-**Accepted baseline:** 105,144 words  
-**Accepted structure:** Prologue + Chapters 1–24  
+**Book:** *Veridrift*
+**Canonical inventory:** `../ACCEPTED_MANUSCRIPT.yaml`, version 2
+**Accepted baseline:** 105,144 words
+**Accepted structure:** Prologue + Chapters 1–24
+**Accepted-manuscript commit:** `0a0ed1c5330cbe48a59499d7a4104aa02f6c059a`
 **Current verdict:** **CONDITIONAL PASS — NOT APPROVED FOR PUBLICATION**
 
 ## Completed
@@ -30,7 +31,10 @@
 - [x] Obsolete twelve-chapter Word export formally excluded from authority.
 - [x] Seven specialist review areas defined with named-reviewer closure rules.
 - [x] GitHub issues #70–#76 opened for the external reviews.
-- [x] Seven ready-to-send external review packets created.
+- [x] Seven external review packets synchronized to the post-research canon corrections.
+- [x] Every packet identifies the 105,144-word, Prologue + Chapters 1–24 baseline.
+- [x] Every packet includes a minimum reviewer profile, named-reviewer deliverable fields, error and retain requests, proof ceilings, and the AI/public-source closure prohibition.
+- [x] External-review dispatch readiness recorded in `60-external-review-dispatch-readiness.md`.
 - [x] Specialist findings intake and adjudication ledger created.
 - [x] Public-source desk review completed across all seven areas.
 - [x] Three source-backed material corrections applied.
@@ -63,20 +67,31 @@
 | Canon/control reconciliation | Complete | Automated validator and CI prevent recurrence. |
 | Public-source technical desk review | Complete | Three material corrections verified; four areas retained with explicit limits. |
 | Post-research continuity reconciliation | Complete | PASS WITH MINOR REPAIRS; no accepted prose change and accepted total remains 105,144. |
-| SIGINT / ELINT / provenance review | Unreviewed — #70 | Named qualified reviewer and dated findings required. |
-| Military targeting / UAS / JAG review | Unreviewed — #71 | Named qualified reviewer and dated findings required. |
-| Secure facility / fire / suppression review | Unreviewed — #72 | Named qualified reviewer and dated findings required. |
-| PKI / hardware token / digital-forensics review | Unreviewed — #73 | Named qualified reviewer and dated findings required. |
-| Federal investigation / evidence-custody review | Unreviewed — #74 | Named qualified reviewer and dated findings required. |
-| Indian Army / artillery / South Asia review | Unreviewed — #75 | Named qualified reviewer and dated findings required. |
-| Trauma medicine / injury continuity review | Unreviewed — #76 | Named qualified reviewer and dated findings required. |
+| External packet synchronization | Complete | All seven packets are READY TO SEND; this is not external approval. |
+| SIGINT / ELINT / provenance review | Packet ready; UNREVIEWED — #70 | Named qualified reviewer and dated findings required. |
+| Military targeting / UAS / JAG review | Packet ready; UNREVIEWED — #71 | Named qualified reviewer and dated findings required. |
+| Secure facility / fire / suppression review | Packet ready; UNREVIEWED — #72 | Named qualified reviewer and dated findings required. |
+| PKI / hardware token / digital-forensics review | Packet ready; UNREVIEWED — #73 | Named qualified reviewer and dated findings required. |
+| Federal investigation / evidence-custody review | Packet ready; UNREVIEWED — #74 | Named qualified reviewer and dated findings required. |
+| Indian Army / artillery / South Asia review | Packet ready; UNREVIEWED — #75 | Named qualified reviewer and dated findings required. |
+| Trauma medicine / injury continuity review | Packet ready; UNREVIEWED — #76 | Named qualified reviewer and dated findings required. |
 | Further external technical corrections | Blocked | Begins after named specialist findings are adjudicated. |
 | Post-external-correction continuity pass | Blocked | Begins after any further technical corrections. |
-| Late-act prose compression | Audited / blocked | Apply only after legal, PKI, and provenance facts stabilize. |
+| Late-act prose compression | Audited / blocked | Apply only after legal, PKI, provenance, and injury facts stabilize. |
 | Character-voice prose pass | Designed / blocked | Apply after technical language and compression stabilize. |
 | Vance credibility addition | Deferred | Add only after specialist corrections identify the safest early location. |
 | Line/copyedit | Blocked | Begins after content and continuity are stable. |
 | Print/EPUB/Word/PDF proof | Blocked | Begins after copyedit and final manifest regeneration. |
+
+## Dispatch sequence
+
+1. Dispatch SIGINT/provenance (#70), targeting/UAS/JAG (#71), PKI/forensics (#73), legal/custody (#74), and trauma (#76) as the first parallel wave.
+2. Dispatch facility/fire (#72) and India/South Asia (#75) in parallel; reconcile #72 with trauma and #75 with targeting/provenance before accepting any correction.
+3. Reconcile conflict clusters before prose work:
+   - #70 + #71 + #75 for warning, targeting, and no-fire logic.
+   - #73 + #74 for identity proof, admissibility, custody, and investigative claims.
+   - #72 + #76 for physical feasibility, evacuation, suppression, and injury capability.
+4. Do not begin late-act compression until legal, PKI, provenance, and injury facts are stable.
 
 ## Non-negotiable content locks
 
