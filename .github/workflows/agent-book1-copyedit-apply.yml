@@ -1,6 +1,12 @@
 name: Temporary Apply Book 1 Copyedit
 
 on:
+  pull_request:
+    branches:
+      - main
+    paths:
+      - "tools/apply_book1_copyedit.py"
+      - ".github/workflows/agent-book1-copyedit-apply.yml"
   push:
     branches:
       - "agent/book1-full-copyedit"
@@ -71,7 +77,6 @@ jobs:
         run: |
           python3 - <<'PY'
           import re
-          from pathlib import Path
           from tools.count_book1_words import accepted_paths
 
           errors = []
