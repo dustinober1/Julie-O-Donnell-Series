@@ -2,27 +2,28 @@
 
 The controlling Book 1 accepted manuscript is stored in this repository as Markdown and inventoried in [`../ACCEPTED_MANUSCRIPT.yaml`](../ACCEPTED_MANUSCRIPT.yaml).
 
-Accepted prose currently consists of:
+Accepted prose consists of exactly:
 
 - `prologue.md`
 - `chapters/chapter-01.md` through `chapters/chapter-24.md`
 
+Together these 25 files contain **105,157 words** and form the Book 1 publication master. The final line is **The bubble stayed centered.**
+
 These files are the highest authority for accepted events, character behavior, chronology, injuries, evidence, technology, geography, and narrative voice.
 
-## Draft separation
+## Excluded sources
 
-Unaccepted prose belongs under [`../drafts/`](../drafts/). A draft cannot create canon through existence, filename, title, or planning approval. No active Book 1 chapter draft currently exists.
+The following are not manuscript authority:
 
-## Migration provenance
+- unaccepted prose under `../drafts/`;
+- archived or historical manuscript versions;
+- the former Google Doc used for migration;
+- the obsolete twelve-chapter Word export;
+- generated review compilations;
+- any prose file outside the accepted manifest inventory.
 
-The manuscript was migrated from a former project Google Doc on July 11, 2026. That document was migration input only and is no longer active.
+## Freeze policy
 
-A user-uploaded Word snapshot is also historical input only. Its identifying information is recorded in [`../../../archive/legacy-sources/README.md`](../../../archive/legacy-sources/README.md); the binary is intentionally not stored in this public repository.
+Editorial prose is frozen as the publication master. A later prose change requires a new editorial exception record, author approval, regenerated file count and SHA-256 data, an updated accepted total, complete revalidation, and a replacement freeze record.
 
-Neither external source may override accepted GitHub prose.
-
-## Accepted production milestones
-
-- Chapter 5-to-6 continuity repair integrated July 12, 2026: `f6d49cbeae2b2f23daac55dc0bacfeb040428f5f`
-- Chapters 13–24 were accepted through the control-pack review sequence ending at `../control/49-chapter-24-acceptance-review.md`
-- Current accepted endpoint: 08:14:44 EDT / 17:44:44 IST, Julie's farm
+The original 02:14 constructor remains unidentified. Senator Sterling's personal knowledge, direction, intent, possession, operation, or command remains unresolved by design.

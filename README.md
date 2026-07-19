@@ -7,47 +7,32 @@ Canonical repository for the contemporary geopolitical techno-thriller series ce
 **Book 1: _Veridrift_**
 
 - Prologue plus 24 chapters.
-- Accepted copyedited manuscript: **105,155 words**.
-- Developmental revision completed **July 18, 2026**.
-- Publication-rhythm pass completed **July 18, 2026**, reducing routine isolated narrative beats while preserving dialogue, scene metadata, system displays, and story content.
-- Targeted one-sentence-paragraph repair completed **July 18, 2026**, integrating reviewed routine reactions and technical transitions without changing accepted words.
-- Public-source desk review completed **July 18, 2026**, with three narrow corrections to targeting authority, PKI identity proof, and MPD release procedure.
-- Post-research continuity audit completed **July 18, 2026** with minor control and status repairs and no accepted prose changes.
-- Full mechanical copyedit reviewed and merged in PR #82 on **July 18, 2026**.
-- The seven specialist-review issues were closed at the author's direction after reported specialist satisfaction. The repository records these as author waivers of the formal documentation gate, not as named qualification-backed approvals.
-- Final act unfolds across October 13–16 rather than a single implausibly compressed morning.
-- Publication blockers, drafting metatext, duplicated thermostat transmission, date conflicts, heading inconsistencies, system-display artifacts, and copyedit defects identified in the accepted manuscript have been removed.
-- The causal chain from Validation Package 88 through `SIGMA-NORMALIZE-4` and the live poisoned feed is explicit.
-- Julie's overbroad K-17 provenance boundary and signed supplemental correction are canon.
-- Original 02:14 constructor and Senator Sterling's personal knowledge or command remain deliberately unresolved series threads.
+- Accepted publication-master manuscript: **105,157 words** across exactly **25 accepted prose files**.
+- Canonical manifest: `books/book-01/ACCEPTED_MANUSCRIPT.yaml`, version 2.
+- PR #84 completed the controlled final proofread and resolved all proofreading queries.
+- Chapter 20 is locked at 2,363 words and ends: **The name that had put it into circulation was still missing.**
+- Final Book 1 line remains locked: **The bubble stayed centered.**
+- The original 02:14 constructor remains unidentified.
+- Senator Sterling's personal knowledge, direction, intent, possession, operation, or command remains unestablished.
 
 ## Publication state
 
-The manuscript is **copyedited and content frozen**, but it is **not yet approved for publication**. The next mandatory gate is a controlled final proofread followed by production-master validation and output proofing.
+The accepted editorial prose is frozen as the **Book 1 publication master**. No accepted prose changed during the freeze validation.
+
+The book is **not yet approved for publication**. The supported readiness state remains `proofread_and_production_required` because Word, EPUB, and print-PDF production proofs have not been generated and manually approved.
 
 Required next stages:
 
-1. Proofread the 105,155-word canonical inventory for objective errors only.
-2. Regenerate manifest counts and hashes if accepted prose changes.
-3. Run the validator, unit tests, compiler, final-line assertion, YAML checks, and diff hygiene.
-4. Freeze a publication-master commit.
-5. Generate and manually inspect Word, EPUB, and print-PDF outputs.
-6. Mark the book ready only after the final production proofs match the canonical inventory.
+1. Generate Word, EPUB, and print-PDF proofs from the manifest-listed publication master.
+2. Inspect every production proof manually for content, rendering, pagination, navigation, and final-line integrity.
+3. Confirm each approved output matches the publication master before upload or publication.
 
-The late-act compression, character-voice pass, and small Vance credibility addition are no longer automatic stages. They remain waived unless a concrete defect justifies reopening content.
+No Word, EPUB, PDF, cover, or upload-ready files were generated during the publication-master freeze.
 
-See `books/book-01/control/63-post-copyedit-publication-state-reconciliation.md` for the controlling transition record.
+See `books/book-01/control/66-publication-master-freeze.md` for the controlling freeze record.
 
 ## Source of truth
 
-`books/book-01/ACCEPTED_MANUSCRIPT.yaml` is the canonical prose inventory. Only the listed prologue and chapter files are accepted manuscript sources.
+`books/book-01/ACCEPTED_MANUSCRIPT.yaml` is the canonical prose inventory. Only its listed Prologue and Chapters 1–24 constitute the publication master.
 
-Core paths:
-
-- `books/book-01/manuscript/`
-- `books/book-01/control/`
-- `books/book-01/ACCEPTED_MANUSCRIPT.yaml`
-- `series/`
-- `tools/`
-
-Generated or historical compiled files—including the obsolete twelve-chapter Word export—are not authoritative. `tools/compile_book1_from_manifest.py` creates validated review compilations from the accepted inventory and writes a build-provenance sidecar.
+Historical drafts, archived sources, the obsolete twelve-chapter Word export, generated review compilations, and prose outside the manifest inventory are excluded from authority.

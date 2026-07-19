@@ -1,36 +1,31 @@
 # Julie O’Donnell Book 1 — Accepted Manuscript
 
-This directory contains **accepted prose only**.
+This directory contains the accepted prose files and three non-prose authority pointers: `README.md`, `SOURCE.md`, and `STATUS.md`.
 
-The controlling inventory is [`../ACCEPTED_MANUSCRIPT.yaml`](../ACCEPTED_MANUSCRIPT.yaml). A prose file is canon only when it is both stored under this directory and listed in the accepted-manuscript inventory.
+The controlling inventory is [`../ACCEPTED_MANUSCRIPT.yaml`](../ACCEPTED_MANUSCRIPT.yaml). A prose file is canon only when it is listed in that manifest.
 
 ## Current accepted inventory
 
-- Prologue
-- Chapters 1–24
-- Accepted length: **124,779 words**
-- Accepted Act III subtotal, Chapters 13–24: **61,124 words**
-- Accepted endpoint: **08:14:44 EDT / 17:44:44 IST**, Julie's farm
+- Book: **Veridrift**
+- Prologue and Chapters 1–24
+- Accepted prose files: **25**
+- Accepted length: **105,157 words**
+- Final line: **The bubble stayed centered.**
+- Readiness: `proofread_and_production_required`
+- Editorial state: **publication master frozen; production proofs pending**
 
 ## Directory layout
 
 - `prologue.md`
 - `chapters/chapter-01.md` through `chapters/chapter-24.md`
+- `README.md` — directory and inventory pointer
 - `SOURCE.md` — manuscript authority and migration provenance
-- `STATUS.md` — concise human-readable status pointer
+- `STATUS.md` — concise current status
 
-No unaccepted chapter belongs in this directory. No active chapter draft currently exists under `../drafts/`.
-
-Chapter 24 is the final accepted Book 1 chapter. No Chapter 25 artifact or complete remainder outline exists or is authorized.
+No aggregate manuscript, unaccepted chapter, or Chapter 25 file is authorized in this directory.
 
 ## Authority
 
-Accepted prose controls story truth. The control pack may explain, index, or plan around the prose, but it cannot overrule accepted events, dialogue, chronology, evidence, injuries, or character knowledge.
+Accepted prose controls story truth. The control pack may explain, index, validate, or plan around the prose, but it cannot overrule accepted events, dialogue, chronology, evidence, injuries, technology, or character knowledge.
 
-If a subordinate document conflicts with accepted prose, correct the subordinate document unless an explicit manuscript-revision commit changes the prose.
-
-## Promotion rule
-
-A draft becomes accepted only through one explicit production commit that moves the reviewed prose here, adds it to the manifest, updates the accepted word count and endpoint, updates `PROJECT_STATE.yaml`, updates every affected control, and records the verdict.
-
-See [`../control/25-chapter-acceptance-gate.md`](../control/25-chapter-acceptance-gate.md).
+Any later accepted-prose modification requires an editorial exception record, author approval, regenerated per-file word count and SHA-256, an updated accepted total, complete revalidation, and a new publication-master freeze record.

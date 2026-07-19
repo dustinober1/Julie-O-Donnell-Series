@@ -3,102 +3,75 @@ name: Book 1 Final Verification
 on:
   pull_request:
     branches: [main]
-    types: [opened, synchronize, reopened]
+    paths:
+      - "books/book-01/**"
+      - "tools/**"
+      - "PROJECT_STATE.yaml"
+      - "README.md"
+      - ".github/workflows/book1-final-verification.yml"
+  push:
+    branches: [main]
+    paths:
+      - "books/book-01/**"
+      - "tools/**"
+      - "PROJECT_STATE.yaml"
+      - "README.md"
+      - ".github/workflows/book1-final-verification.yml"
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
   verify:
-    if: github.event.pull_request.head.repo.full_name == github.repository && github.event.pull_request.head.ref == 'agent/book1-developmental-revision'
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
-      - uses: actions/checkout@v4
+      - name: Check out repository
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          ref: ${{ github.event.pull_request.head.ref }}
-      - name: Gate explicit verification runs
-        id: gate
-        run: |
-          subject="$(git log -1 --pretty=%s)"
-          case "$subject" in
-            tools:*|verify:*) echo "run=true" >> "$GITHUB_OUTPUT" ;;
-            *) echo "run=false" >> "$GITHUB_OUTPUT" ;;
-          esac
-      - name: Configure commit identity
-        if: steps.gate.outputs.run == 'true'
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-      - name: Compile accepted manuscript
-        if: steps.gate.outputs.run == 'true'
-        run: python3 tools/compile_book1_accepted.py
-      - name: Synchronize canonical inventory and controls
-        if: steps.gate.outputs.run == 'true'
-        run: python3 tools/register_book1_compiled_output.py
-      - name: Run publication-readiness validator
-        if: steps.gate.outputs.run == 'true'
-        run: python3 tools/validate_book1_publication_readiness.py
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run validator and compiler tests
+        run: python -m unittest discover -s tools -p 'test_*.py' -v
+
+      - name: Verify exact accepted word count
+        run: python tools/count_book1_words.py --expect 105157
+
+      - name: Validate accepted manuscript and control state
+        run: python tools/validate_book1_publication_readiness.py
+
+      - name: Generate developmental diagnostics
+        run: python tools/analyze_book1_revision.py
+
+      - name: Generate publication-style diagnostics
+        run: python tools/analyze_book1_publication_style.py
+
+      - name: Compile publication-master candidate
+        run: python tools/compile_book1_from_manifest.py --output /tmp/Veridrift_PUBLICATION_MASTER.md
+
       - name: Run independent final verification
-        if: steps.gate.outputs.run == 'true'
-        id: final_verification
-        continue-on-error: true
-        run: python3 tools/verify_book1_revision.py > artifacts/book1-final-verification-current.txt 2>&1
-      - name: Append protected opening hashes
-        if: steps.gate.outputs.run == 'true'
+        run: python tools/verify_book1_revision.py
+
+      - name: Verify compiler output and ending
         run: |
-          {
-            echo
-            echo "PROTECTED_HASHES_CURRENT"
-            sha256sum \
-              books/book-01/manuscript/prologue.md \
-              books/book-01/manuscript/chapters/chapter-01.md
-          } >> artifacts/book1-final-verification-current.txt
-      - name: Show independent verification result
-        if: steps.gate.outputs.run == 'true'
-        run: cat artifacts/book1-final-verification-current.txt
-      - name: Persist failing verification diagnostic
-        if: steps.gate.outputs.run == 'true' && steps.final_verification.outcome == 'failure'
+          test -s /tmp/Veridrift_PUBLICATION_MASTER.md
+          test -s /tmp/Veridrift_PUBLICATION_MASTER.md.build.json
+          tail -n 1 /tmp/Veridrift_PUBLICATION_MASTER.md | grep -Fx 'The bubble stayed centered.'
+
+      - name: Compile permanent validators
         run: |
-          git add artifacts/book1-final-verification-current.txt
-          git commit -m "test: record Book 1 final verification failure"
-          git push origin HEAD:${{ github.event.pull_request.head.ref }}
-      - name: Verify diff hygiene
-        if: steps.gate.outputs.run == 'true' && steps.final_verification.outcome == 'success'
-        id: diff_hygiene
-        continue-on-error: true
-        run: git diff --check > artifacts/book1-diff-check-current.txt 2>&1
-      - name: Show diff hygiene result
-        if: steps.gate.outputs.run == 'true' && steps.final_verification.outcome == 'success'
-        run: cat artifacts/book1-diff-check-current.txt
-      - name: Persist failing diff diagnostic
-        if: steps.gate.outputs.run == 'true' && steps.final_verification.outcome == 'success' && steps.diff_hygiene.outcome == 'failure'
-        run: |
-          git add artifacts/book1-diff-check-current.txt
-          git commit -m "test: record Book 1 diff-hygiene failure"
-          git push origin HEAD:${{ github.event.pull_request.head.ref }}
-      - name: Commit verified compilation, controls, and report
-        if: steps.gate.outputs.run == 'true' && steps.final_verification.outcome == 'success' && steps.diff_hygiene.outcome == 'success'
-        run: |
-          git add \
-            README.md \
-            PROJECT_STATE.yaml \
-            books/book-01/ACCEPTED_MANUSCRIPT.yaml \
-            books/book-01/compiled/current/Julie_O_Donnell_Book_1_REVISED.md \
-            books/book-01/manuscript/STATUS.md \
-            books/book-01/control/00-overview.md \
-            books/book-01/control/16-chapter-by-chapter-status-record.md \
-            books/book-01/control/24-thread-disposition-matrix.md \
-            series/recurring-character-ledger.md \
-            artifacts/book1-final-verification.md \
-            artifacts/book1-final-verification-current.txt \
-            artifacts/book1-diff-check-current.txt
-          if git diff --cached --quiet; then
-            echo "Verified outputs unchanged"
-          else
-            git commit -m "build: add verified Book 1 revision compilation"
-            git push origin HEAD:${{ github.event.pull_request.head.ref }}
-          fi
-      - name: Enforce verification and diff hygiene
-        if: steps.gate.outputs.run == 'true' && (steps.final_verification.outcome == 'failure' || steps.diff_hygiene.outcome == 'failure')
-        run: exit 1
+          python -m py_compile \
+            tools/count_book1_words.py \
+            tools/validate_book1_publication_readiness.py \
+            tools/verify_book1_revision.py
+
+      - name: Parse synchronized YAML controls
+        run: ruby -e "require 'yaml'; YAML.load_file('PROJECT_STATE.yaml'); YAML.load_file('books/book-01/ACCEPTED_MANUSCRIPT.yaml')"
+
+      - name: Diff hygiene
+        run: git diff --check
