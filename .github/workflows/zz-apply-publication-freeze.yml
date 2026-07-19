@@ -66,3 +66,5 @@ jobs:
           git add -A
           git commit -m "chore: freeze Book 1 publication master"
           git push origin HEAD:agent/book1-publication-master-freeze
+
+# Triggered after the payload file was present on the branch.
