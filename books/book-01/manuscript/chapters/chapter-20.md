@@ -189,4 +189,4 @@ The physical signer was no longer the most urgent object. Vega issued two additi
 
 The second notice went to the staff responsible for portable signer inventory. No device could be substituted into the SSO-NS-004 asset record, and no replacement could inherit its serial or assignment history. The office could receive another device for lawful work under a new identity after an independent security review. It could not make the challenged signer disappear by calling its replacement continuity.
 
-The name that had put it into circulation was.
+The name that had put it into circulation was still missing.
