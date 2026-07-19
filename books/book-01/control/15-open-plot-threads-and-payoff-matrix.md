@@ -3,10 +3,10 @@
 ## Final accepted baseline
 
 - Accepted manuscript: Prologue and Chapters 1–24
-- Accepted words: **124,779**
-- Accepted Act III subtotal: **61,124**
-- Accepted endpoint: **08:14:44 EDT / 17:44:44 IST**, Julie's farm
-- Book 1 structural state: complete; publication-readiness review pending
+- Accepted words: **105,144**
+- Accepted Act III subtotal, Chapters 13–24: **39,262**
+- Accepted endpoint: **October 16, late light, Julie's farm; no exact clock timestamp**
+- Book 1 structural state: complete; external specialist review and copyedit pending
 
 Disposition labels: **PAID**, **B1-PARTIAL / SERIES**, **SERIES**, **OPTIONAL**.
 
@@ -44,7 +44,7 @@ Every mandatory Book 1 dramatic obligation has been paid or deliberately bounded
 
 - Vance's personal finding applies only to the later remote release.
 - Office/device responsibility does not prove Sterling personal command.
-- Publication and conditional release are not exoneration, immunity, acquittal, employment restoration, or final adjudication.
+- Public correction and written MPD release authorization are not exoneration, immunity, acquittal, employment restoration, or final adjudication.
 - Common architecture does not prove common human authorship.
 - Derivatives and public instruments do not replace originals.
 - Elias's emergency consent does not create permanent availability.
@@ -53,4 +53,4 @@ Every mandatory Book 1 dramatic obligation has been paid or deliberately bounded
 
 ## Current gate
 
-Book 1 is structurally complete. No Chapter 25 artifact or complete remainder outline is authorized. The next task is publication-readiness and final QA.
+Book 1 is structurally complete. No Chapter 25 artifact or complete remainder outline is authorized. The next task is dispatch and completion of the seven external specialist reviews before late-stage prose and production work.
