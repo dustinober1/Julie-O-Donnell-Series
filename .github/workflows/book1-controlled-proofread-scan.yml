@@ -1,0 +1,82 @@
+name: Temporary Book 1 Controlled Proofread Scan
+
+on:
+  push:
+    branches:
+      - agent/book1-controlled-final-proofread
+
+permissions:
+  contents: read
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Scan accepted manuscript mechanically
+        shell: bash
+        run: |
+          python - <<'PY'
+          import hashlib
+          import re
+          from pathlib import Path
+
+          manifest_path = Path('books/book-01/ACCEPTED_MANUSCRIPT.yaml')
+          manifest = manifest_path.read_text(encoding='utf-8')
+          paths = re.findall(r'^\s*path:\s*(books/book-01/manuscript/[^\s]+\.md)\s*$', manifest, re.MULTILINE)
+          print(f'ACCEPTED_FILE_COUNT={len(paths)}')
+          print('ACCEPTED_PATHS_BEGIN')
+          for p in paths:
+              print(p)
+          print('ACCEPTED_PATHS_END')
+
+          ascii_apostrophes = []
+          hygiene = []
+          markers = []
+          sha_rows = []
+          for raw in paths:
+              path = Path(raw)
+              data = path.read_bytes()
+              text = data.decode('utf-8')
+              sha_rows.append((raw, hashlib.sha256(data).hexdigest()))
+              for lineno, line in enumerate(text.splitlines(), 1):
+                  for match in re.finditer("'", line):
+                      ascii_apostrophes.append((raw, lineno, match.start() + 1, line))
+                  if '\t' in line:
+                      hygiene.append((raw, lineno, 'TAB', line))
+                  if line.rstrip(' \t') != line:
+                      hygiene.append((raw, lineno, 'TRAILING_WHITESPACE', line))
+                  if any(token in line for token in ('<<<<<<<', '=======', '>>>>>>>', 'TODO', 'TBD')):
+                      markers.append((raw, lineno, line))
+              if '\r' in text:
+                  hygiene.append((raw, 0, 'CR_CHARACTER', ''))
+
+          print(f'ASCII_APOSTROPHE_COUNT={len(ascii_apostrophes)}')
+          for row in ascii_apostrophes:
+              print('ASCII_APOSTROPHE\t' + '\t'.join(map(str, row)))
+          print(f'HYGIENE_DEFECT_COUNT={len(hygiene)}')
+          for row in hygiene:
+              print('HYGIENE\t' + '\t'.join(map(str, row)))
+          print(f'MARKER_COUNT={len(markers)}')
+          for row in markers:
+              print('MARKER\t' + '\t'.join(map(str, row)))
+          print('SHA256_BEGIN')
+          for path, digest in sha_rows:
+              print(f'{digest}  {path}')
+          print('SHA256_END')
+
+          chapter25 = [p for p in Path('books/book-01/manuscript').rglob('*') if p.is_file() and re.search(r'chapter[-_ ]?25', p.name, re.I)]
+          print(f'CHAPTER25_FILE_COUNT={len(chapter25)}')
+          for p in chapter25:
+              print(f'CHAPTER25_FILE={p.as_posix()}')
+
+          final_path = Path(paths[-1])
+          nonblank = [line for line in final_path.read_text(encoding='utf-8').splitlines() if line.strip()]
+          print('FINAL_NONBLANK_LINE=' + nonblank[-1])
+          PY
