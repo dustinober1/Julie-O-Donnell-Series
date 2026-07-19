@@ -235,7 +235,7 @@ His eyes closed for a moment. “Was the relay empty?”
 
 “The outer compound was empty when you reached it. The record shows an accepted challenge and a failed commit. The inner boundary remains uncleared.”
 
-He opened his eyes again. “So we don't know.”
+He opened his eyes again. “So we don’t know.”
 
 “We know what the patrol observed. We know what the cartridge recorded. We know what neither can tell us.”
 
