@@ -1,0 +1,19 @@
+{
+  "cover": {"size":[1600,2560],"mode":"RGB","format":"JPEG","icc_profile":true},
+  "docx_ooxml": {"tracked_insertions":0,"tracked_deletions":0,"track_revisions":false,"comments":false},
+  "docx_page_numbering": {"sections":26,"prologue_start":1,"later_chapters":"continuous"},
+  "docx_structure": {"paragraphs":5847,"chapters":25,"first":"Prologue — Six Years Ago","last":"Chapter 24 — The Terms of Return"},
+  "search_audit": {"PRODUCTION PROOF":0,"not approved for publication":0,"Location:":0,"one tenth":0,"At 0214":0,"last night":0,"Fairfax County":2,"requestor":4,"requester":5,"October 12":1,"October 13":9,"Park":34,"Ortiz":118,"property supervisor":2,"watch commander":5},
+  "ledger": {"rows":61,"all_closed":true,"intentionally_retained":["T09"]},
+  "dialogue_markers": {"locations":44,"verified":true},
+  "epub": {"zip_entries":34,"xml_files":31,"spine_items":28,"chapters":25,"cover_declared":true,"cover_first_spine_item":true,"text_matches_docx":true,"broken_links":0,"duplicate_ids":0},
+  "print": {"pages":451,"page_size_points":[432,648],"fonts_embedded":true,"continuous_final_folio":451},
+  "final_line": "The bubble stayed centered.",
+  "sha256": {
+    "Veridrift_Publication_Master_FINAL.docx":"bfbb48773203116a919bd867bc1c588b979af2fd70be45d4559f0c1979a6c083",
+    "Veridrift_FINAL.epub":"87745dc13e088b79e20c2a3be1dec6136ca1e740d216a5c2c224eb40662432eb",
+    "Veridrift_PRINT_INTERIOR_FINAL.pdf":"5e1289dde09abe4fc46bcf585ce99fcad9dad8d76e88380376d368c064a52074",
+    "Veridrift_Cover_1600x2560_RGB.jpg":"3e20c8e44fb6a4541fc3cb8729cf87641043434b439c3c9c1a40624508dc8e6d",
+    "Veridrift_Final_Publication_Package.zip":"5488a10c86dd35543bc5f4525892f6426646f085b74d0b66d226786664d82a4c"
+  }
+}
