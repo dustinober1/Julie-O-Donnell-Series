@@ -1,0 +1,39 @@
+{
+  "title": "Veridrift",
+  "display_title": "VERIDRIFT",
+  "subtitle": "A Julie O'Donnell Thriller",
+  "author": "Dustin Kearney",
+  "language": "en-US",
+  "copyright_year": 2026,
+  "copyright_holder": "Dustin Ober",
+  "rights": "Copyright © 2026 Dustin Ober. All rights reserved.",
+  "publisher": "Dustin Ober",
+  "publication_date": "2026",
+  "edition": "First edition",
+  "identifier": "urn:uuid:3559468b-6b52-4037-8bb6-f34f059f62c4",
+  "isbn": null,
+  "isbn_policy": "No ISBN assigned; omit ISBN fields until an ISBN is supplied.",
+  "series": {
+    "name": "Julie O'Donnell",
+    "display_wording": "A Julie O'Donnell Thriller",
+    "position": 1,
+    "collection_type": "series"
+  },
+  "cover": {
+    "approved_source_name": "Veridrift: a glitch in the mountains.png",
+    "production_filename": "Veridrift_Cover_1600x2560_RGB.jpg",
+    "required_dimensions_px": [
+      1600,
+      2560
+    ],
+    "required_color_mode": "RGB",
+    "required_format": "JPEG",
+    "subtitle": "A Julie O'Donnell Thriller",
+    "author": "Dustin Kearney",
+    "binary_status": "Approved cover identified in File Library; binary is not mounted in the current runtime and has not yet been embedded."
+  },
+  "website": null,
+  "website_policy": "No reader-facing website/contact line included because no VERIDRIFT-specific address was locked.",
+  "cover_credit": null,
+  "cover_credit_policy": "No separate credit line included because no external credit requirement was supplied."
+}

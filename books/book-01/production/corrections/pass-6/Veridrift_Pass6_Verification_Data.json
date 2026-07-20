@@ -1,0 +1,36 @@
+{
+  "status": "PARTIAL PASS",
+  "closed": [
+    "P01",
+    "P02",
+    "P03"
+  ],
+  "open": [
+    "P04"
+  ],
+  "paragraph_count": 5847,
+  "render_pages": 452,
+  "changed_render_pages_vs_pass5": [
+    1,
+    2,
+    3
+  ],
+  "unchanged_render_pages_vs_pass5": "4-452 pixel-identical at comparison resolution",
+  "proof_notice_hits": {
+    "PRODUCTION PROOF ONLY": 0,
+    "AUTHOR NAME AND PUBLISHING METADATA REQUIRED": 0,
+    "PRODUCTION-PROOF NOTICE": 0,
+    "not approved for publication or distribution": 0,
+    "No cover is embedded": 0
+  },
+  "core_properties": {
+    "title": "VERIDRIFT",
+    "subject": "A Julie O'Donnell Thriller",
+    "author": "Dustin Kearney",
+    "category": "Fiction — Geopolitical techno-thriller",
+    "keywords": "Veridrift, Julie O'Donnell, techno-thriller, military intelligence, geopolitical thriller",
+    "comments": "First edition, 2026. Published by Dustin Ober."
+  },
+  "cover_binary_available": false,
+  "cover_source_name": "Veridrift: a glitch in the mountains.png"
+}
