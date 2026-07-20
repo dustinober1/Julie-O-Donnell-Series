@@ -1,0 +1,26 @@
+{
+  "base_master": "/mnt/data/VERIDRIFT_CORRECTION_PASS_4/Veridrift_Publication_Master_v3_ACCEPTED_QA.docx",
+  "tracked_master": "/mnt/data/VERIDRIFT_CORRECTION_PASS_5/Veridrift_Publication_Master_v4.docx",
+  "accepted_qa": "/mnt/data/VERIDRIFT_CORRECTION_PASS_5/Veridrift_Publication_Master_v4_ACCEPTED_QA.docx",
+  "paragraph_count": 5847,
+  "scene_card_paragraphs": 102,
+  "scene_card_groups": 74,
+  "system_display_paragraphs": 359,
+  "old_scene_metadata_refs": 0,
+  "old_display_text_refs": 0,
+  "tracked_insertions_total": 78,
+  "tracked_deletions_total": 23,
+  "new_pass5_tracked_deletion_author": "P06",
+  "tracked_render_pages": 452,
+  "accepted_render_pages": 451,
+  "text_sequence_verification": "PASS — only P06 prefix removal and authorized card-order swaps",
+  "style_property_verification": "PASS — no-auto-hyphenation on both; safe wrapping on System Display",
+  "scene_order_verification": "PASS — 74 scene-card groups begin with location rather than date/time",
+  "visual_inspection": "PASS — all tracked and accepted pages reviewed; selected changed pages reinspected at 180 dpi",
+  "sha256": {
+    "Veridrift_Publication_Master_v4.docx": "a4a42c6f4c5ecdc8ef45027028d169b6b6b00a0663f041de07a85bf5d91866a5",
+    "Veridrift_Publication_Master_v4_ACCEPTED_QA.docx": "10649bea52c92fed8970a64eea7375c8cdb73d1b0b21603f5f8f084415bad734",
+    "Veridrift_Publication_Master_v4.pdf": "92350eb0de1ff0a6d9d838de823caf3371b6950527b3a0425a704bac475cbe3e",
+    "Veridrift_Publication_Master_v4_ACCEPTED_QA.pdf": "a3b8131c4ddf9facfd77944f25f39075cd77dec81c7921639953cb1425e6da52"
+  }
+}
