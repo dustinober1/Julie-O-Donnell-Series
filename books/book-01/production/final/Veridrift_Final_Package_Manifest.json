@@ -1,0 +1,24 @@
+{
+  "package": "VERIDRIFT Final Publication Package",
+  "version": "FINAL",
+  "files": [
+    {"filename":"Veridrift_Publication_Master_FINAL.docx","bytes":397478,"sha256":"bfbb48773203116a919bd867bc1c588b979af2fd70be45d4559f0c1979a6c083"},
+    {"filename":"Veridrift_FINAL.epub","bytes":1166572,"sha256":"87745dc13e088b79e20c2a3be1dec6136ca1e740d216a5c2c224eb40662432eb"},
+    {"filename":"Veridrift_PRINT_INTERIOR_FINAL.pdf","bytes":1613868,"sha256":"5e1289dde09abe4fc46bcf585ce99fcad9dad8d76e88380376d368c064a52074"},
+    {"filename":"Veridrift_Cover_1600x2560_RGB.jpg","bytes":880988,"sha256":"3e20c8e44fb6a4541fc3cb8729cf87641043434b439c3c9c1a40624508dc8e6d"},
+    {"filename":"Veridrift_Cover_Source_1280x2048_RGB.jpg","bytes":568154,"sha256":"c8a95b596092212176c1edef0291c6a5a8c9f28d5538d9b8a9f3be895f8bf3fa"},
+    {"filename":"Veridrift_Final_Metadata.json","bytes":749,"sha256":"beb7eb04e657565295fc69fa71169ba41bc0c53afa60d95b76bc591234b87281"},
+    {"filename":"Veridrift_Final_Metadata_Sheet.md","bytes":554,"sha256":"e53bebeb851bc6e28145562e2329784e91cf1d3cc98675543f84956fe0899ad8"},
+    {"filename":"Veridrift_Final_Closed_Line_Edit_Ledger.csv","bytes":15018,"sha256":"a93931f62db3a0d70545501f793b5dc61c0c07c2113ff6d0aaf6997e978f00b1"},
+    {"filename":"Veridrift_Final_Change_Log.md","bytes":1213,"sha256":"7c059c2f8add3b27abaaea5609ae375d5be6cbbd4a7ba9c92732f927ebe2a88b"},
+    {"filename":"Veridrift_EPUB_PROOF_REVIEWED_NOT_FOR_UPLOAD.epub","bytes":291517,"sha256":"9ffc13c0ec2d58f8eede73405fa1c5a8485aefb2630c6e70db9e25e017526c37"},
+    {"filename":"Veridrift_Final_EPUB_Validation.md","bytes":1995,"sha256":"1df72206d2da4641bf5fb9dd6d308886300876bb77390cc717d79e1dba3b12ed"},
+    {"filename":"Veridrift_Final_Print_Validation.md","bytes":1367,"sha256":"a4ff54795354ad6bc81234e4a2ea321569edc5505d5ee01131eb0147ab35cc50"},
+    {"filename":"Veridrift_Final_Publication_Review.md","bytes":2438,"sha256":"3864fd65f61fc033071942bef179fb61aff917493570af01b3749c2ef7d5f203"},
+    {"filename":"Veridrift_Final_Mechanical_QA.json","bytes":3029,"sha256":"d61e41919309598699293f37bae82afe68a1a522bef05de043d11d36190cacd8"}
+  ],
+  "archive": {
+    "filename": "Veridrift_Final_Publication_Package.zip",
+    "sha256": "5488a10c86dd35543bc5f4525892f6426646f085b74d0b66d226786664d82a4c"
+  }
+}
