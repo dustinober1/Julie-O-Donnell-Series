@@ -1,0 +1,5 @@
+ID,Status,Scope,Action,Verification
+P01,CLOSED — CORRECTED,Title page,"Replace proof title page with VERIDRIFT / A Julie O'Donnell Thriller / DUSTIN KEARNEY and remove proof-only notices.",Front matter exact text and high-resolution render verified
+P02,CLOSED — CORRECTED,Copyright page,"Add © 2026 Dustin Ober, all-rights-reserved language, fiction disclaimer, First edition 2026, and Published by Dustin Ober.",Exact text and high-resolution render verified
+P03,CLOSED — CORRECTED,Publication metadata,"Lock title, subtitle, author, language, rights, publisher, year, edition, UUID, series name/position/type; omit unassigned ISBN and unlocked website/credit.",JSON/YAML metadata and DOCX core properties verified
+P04,OPEN — COVER BINARY REQUIRED,Cover,"Verify and embed approved 1600 × 2560 RGB high-quality JPEG with exact cover wording and no duplicate cover page.",Approved source identified in File Library; binary unavailable in active runtime
