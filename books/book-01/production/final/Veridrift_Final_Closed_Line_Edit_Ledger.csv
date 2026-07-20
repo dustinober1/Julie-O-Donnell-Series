@@ -1,0 +1,62 @@
+ID,Status,Scope,Notes
+P01,CLOSED — CORRECTED,Title page,Proof-only title material removed.
+P02,CLOSED — CORRECTED,Copyright page,Copyright © 2026 Dustin Ober.
+P03,CLOSED — CORRECTED,Metadata,ISBN omitted because unassigned.
+P04,CLOSED — CORRECTED,Cover,1600×2560 RGB JPEG; no crop; declared cover image and first spine item.
+P05,CLOSED — CORRECTED,Canonical master,Reviewed proof retained as NOT FOR UPLOAD baseline.
+P06,CLOSED — CORRECTED,Production styling,Prologue Location label removed and Scene Card applied.
+P07,CLOSED — CORRECTED,Production styling,Chapter 5 Reston transition styled as Scene Card.
+P08,CLOSED — CORRECTED,Production styling,Chapter 14 location placed before dual time.
+P09,CLOSED — CORRECTED,Production styling,Scene Card and System Display styles normalized across manuscript.
+C01,CLOSED — CORRECTED,Chronology/continuity,Price chronology corrected to October 11 / later request October 13.
+C02,CLOSED — CORRECTED,Chronology/continuity,Forged deployment examination date corrected to October 12.
+C03,CLOSED — CORRECTED,Chronology/continuity,Elias retirement dinner corrected to two nights ago.
+C04,CLOSED — CORRECTED,Chronology/continuity,Ortiz/Park/property-supervisor/watch-commander custody roles separated.
+C05,CLOSED — CORRECTED,Chronology/continuity,Cutout geography relocated from Fairfax to Arlington County near District line.
+T01,CLOSED — CORRECTED,Targeted prose/copy,Chapter 2 scene break before Elias POV.
+T02,CLOSED — CORRECTED,Targeted prose/copy,Chapter 2 scene break before Julie returns.
+T03,CLOSED — CORRECTED,Targeted prose/copy,Julie carrier-noise attribution beat added.
+T04,CLOSED — CORRECTED,Targeted prose/copy,Chapter 1 pressure-pattern sentence corrected.
+T05,CLOSED — CORRECTED,Targeted prose/copy,Chapter 23 malformed paragraph replaced.
+T06,CLOSED — CORRECTED,Targeted prose/copy,one-tenth hyphenated twice.
+T07,CLOSED — CORRECTED,Targeted prose/copy,Prologue narrative time corrected to 02:14.
+T08,CLOSED — CORRECTED,Targeted prose/copy,requester/requestor usage normalized.
+T09,CLOSED — INTENTIONALLY RETAINED,Targeted prose/copy,Sarah warning motif intentionally retained.
+D01,CLOSED — CORRECTED,Prologue — Six Years Ago,1 change location(s) verified
+D02,CLOSED — CORRECTED,Chapter 2 — The Poisoned Feed,1 change location(s) verified
+D03,CLOSED — CORRECTED,Chapter 2 — The Poisoned Feed,1 change location(s) verified
+D04,CLOSED — CORRECTED,Chapter 6 — The Descent,2 change location(s) verified
+D05,CLOSED — CORRECTED,Chapter 6 — The Descent,1 change location(s) verified
+D06,CLOSED — CORRECTED,Chapter 6 — The Descent,1 change location(s) verified
+D07,CLOSED — CORRECTED,Chapter 7 — The Human Key,1 change location(s) verified
+D08,CLOSED — CORRECTED,Chapter 7 — The Human Key,1 change location(s) verified
+D09,CLOSED — CORRECTED,Chapter 7 — The Human Key,1 change location(s) verified
+D10,CLOSED — CORRECTED,Chapter 8 — The 05:00 Abort,1 change location(s) verified
+D11,CLOSED — CORRECTED,Chapter 8 — The 05:00 Abort,1 change location(s) verified
+D12,CLOSED — CORRECTED,Chapter 9 — The Life-Safety Override,1 change location(s) verified
+D13,CLOSED — CORRECTED,Chapter 9 — The Life-Safety Override,1 change location(s) verified
+D14,CLOSED — CORRECTED,Chapter 10 — The Capital Connection,1 change location(s) verified
+D15,CLOSED — CORRECTED,Chapter 10 — The Capital Connection,2 change location(s) verified
+D16,CLOSED — CORRECTED,Chapter 10 — The Capital Connection,1 change location(s) verified
+D17,CLOSED — CORRECTED,Chapter 10 — The Capital Connection,1 change location(s) verified
+D18,CLOSED — CORRECTED,Chapter 11 — Going Offensive,1 change location(s) verified
+D19,CLOSED — CORRECTED,Chapter 11 — Going Offensive,2 change location(s) verified
+D20,CLOSED — CORRECTED,Chapter 11 — Going Offensive,1 change location(s) verified
+D21,CLOSED — CORRECTED,Chapter 12 — The Sterling Trap,1 change location(s) verified
+D22,CLOSED — CORRECTED,Chapter 12 — The Sterling Trap,1 change location(s) verified
+D23,CLOSED — CORRECTED,Chapter 14 — The Witness Line,1 change location(s) verified
+D24,CLOSED — CORRECTED,Chapter 15 — The Split Record,1 change location(s) verified
+D25,CLOSED — CORRECTED,Chapter 15 — The Split Record,2 change location(s) verified
+D26,CLOSED — CORRECTED,Chapter 15 — The Split Record,1 change location(s) verified
+D27,CLOSED — CORRECTED,Chapter 16 — The Hold Order,1 change location(s) verified
+D28,CLOSED — CORRECTED,Chapter 16 — The Hold Order,2 change location(s) verified
+D29,CLOSED — CORRECTED,Chapter 17 — The First Examination,2 change location(s) verified
+D30,CLOSED — CORRECTED,Chapter 17 — The First Examination,1 change location(s) verified
+D31,CLOSED — CORRECTED,Chapter 17 — The First Examination,1 change location(s) verified
+D32,CLOSED — CORRECTED,Chapter 18 — The Local Record,1 change location(s) verified
+D33,CLOSED — CORRECTED,Chapter 19 — The Name on the Record,1 change location(s) verified
+D34,CLOSED — CORRECTED,Chapter 20 — The Custody Exception,1 change location(s) verified
+D35,CLOSED — CORRECTED,Chapter 20 — The Custody Exception,1 change location(s) verified
+D36,CLOSED — CORRECTED,Chapter 21 — The Borrowed Name,1 change location(s) verified
+D37,CLOSED — CORRECTED,Chapter 22 — The Release Record,1 change location(s) verified
+D38,CLOSED — CORRECTED,Chapter 23 — The Official Correction,1 change location(s) verified
