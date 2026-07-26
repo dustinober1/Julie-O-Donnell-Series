@@ -242,7 +242,9 @@ def main() -> None:
             "",
             "## Publication gate",
             "",
-            "Editorial prose is frozen as the publication master. Publication readiness remains `proofread_and_production_required` because Word, EPUB, and print-PDF production proofs still require generation and manual approval.",
+            "Editorial prose is frozen as the publication master. PR #92 generated, validated, and cleared the final Word, EPUB, print-PDF, cover, metadata, and archive package at merge commit `9708fdd86e9292a75b7683152c7746567f015cc6`.",
+            "",
+            "Publication readiness is `publication_ready_upload_ready`. No manuscript or package defect remains open. A retailer-specific preview immediately before upload is an operational safeguard. Retail upload or public release is not established by repository evidence.",
             "",
         ]
     )
