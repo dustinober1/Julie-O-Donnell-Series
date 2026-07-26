@@ -40,4 +40,20 @@ if source.count(old) != 1:
 source = source.replace(old, new)
 if hashlib.sha256(source).hexdigest() != PATCHED_SOURCE_SHA256:
     raise SystemExit("Patched production builder source checksum mismatch")
+
+# PR #92 completed the production package after this immutable builder payload was
+# recorded. Preserve payload integrity, then update only the two manifest-state
+# literals that the verified source validates and writes into derived reports.
+manifest_state_replacements = (
+    (b"developmentally_revised", b"publication_master_frozen"),
+    (b"proofread_and_production_required", b"publication_ready_upload_ready"),
+)
+for legacy, current in manifest_state_replacements:
+    occurrences = source.count(legacy)
+    if occurrences < 1:
+        raise SystemExit(
+            f"Production builder manifest-state patch target missing: {legacy!r}"
+        )
+    source = source.replace(legacy, current)
+
 exec(compile(source, str(Path(__file__)), "exec"), globals())
