@@ -1,0 +1,18 @@
+book: 2
+authority: github
+accepted_manifest: books/book-02/ACCEPTED_MANUSCRIPT.yaml
+units:
+  prologue:
+    title: Duffield Data Center Fire
+    status: locked_undrafted
+    accepted: false
+  chapter_01:
+    title: A Written Boundary
+    status: accepted_source_pending_dedicated_import_pr
+    accepted: true
+  chapter_02:
+    title: The Missing Architect
+    status: draft_source_pending_dedicated_import_pr
+    accepted: false
+accepted_units_expected_after_chapter_01_import: 1
+draft_only_units_expected_after_chapter_02_import: 1
