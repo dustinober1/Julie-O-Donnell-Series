@@ -77,9 +77,11 @@ class ValidatorFixture:
             "version: 2",
             "book: 1",
             'title: "Veridrift"',
-            'status: "developmentally_revised"',
+            'status: "publication_master_frozen"',
             'copyedit_completed: "2026-07-18"',
-            'publication_readiness: "proofread_and_production_required"',
+            'publication_readiness: "publication_ready_upload_ready"',
+            'publication_package_status: "cleared_as_frozen_publication_package"',
+            "prose_frozen: true",
             f"total_accepted_words: {total}",
             "accepted_files:",
         ]
@@ -152,7 +154,7 @@ class PublicationReadinessValidatorTests(unittest.TestCase):
             self.root, target_min=0, target_max=1_000_000
         )
 
-    def test_valid_fixture_passes(self) -> None:
+    def test_final_package_fixture_passes(self) -> None:
         total = self.validate()
         self.assertGreater(total, 0)
 
@@ -186,14 +188,34 @@ class PublicationReadinessValidatorTests(unittest.TestCase):
         with self.assertRaisesRegex(validator.ValidationError, "stale control metadata"):
             self.validate()
 
-    def test_pre_copyedit_readiness_fails(self) -> None:
+    def test_prepackage_readiness_fails(self) -> None:
         manifest = self.fixture.book / "ACCEPTED_MANUSCRIPT.yaml"
         text = manifest.read_text(encoding="utf-8").replace(
+            'publication_readiness: "publication_ready_upload_ready"',
             'publication_readiness: "proofread_and_production_required"',
-            'publication_readiness: "specialist_review_and_copyedit_required"',
         )
         manifest.write_text(text, encoding="utf-8")
-        with self.assertRaisesRegex(validator.ValidationError, "proofread and production"):
+        with self.assertRaisesRegex(validator.ValidationError, "publication ready and upload ready"):
+            self.validate()
+
+    def test_unfrozen_manifest_status_fails(self) -> None:
+        manifest = self.fixture.book / "ACCEPTED_MANUSCRIPT.yaml"
+        text = manifest.read_text(encoding="utf-8").replace(
+            'status: "publication_master_frozen"',
+            'status: "developmentally_revised"',
+        )
+        manifest.write_text(text, encoding="utf-8")
+        with self.assertRaisesRegex(validator.ValidationError, "publication master frozen"):
+            self.validate()
+
+    def test_uncleared_package_status_fails(self) -> None:
+        manifest = self.fixture.book / "ACCEPTED_MANUSCRIPT.yaml"
+        text = manifest.read_text(encoding="utf-8").replace(
+            'publication_package_status: "cleared_as_frozen_publication_package"',
+            'publication_package_status: "pending"',
+        )
+        manifest.write_text(text, encoding="utf-8")
+        with self.assertRaisesRegex(validator.ValidationError, "cleared frozen publication package"):
             self.validate()
 
     def test_changed_final_line_fails(self) -> None:
