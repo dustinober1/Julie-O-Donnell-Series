@@ -11,8 +11,11 @@ The controlling inventory is [`../ACCEPTED_MANUSCRIPT.yaml`](../ACCEPTED_MANUSCR
 - Accepted prose files: **25**
 - Accepted length: **105,157 words**
 - Final line: **The bubble stayed centered.**
-- Readiness: `proofread_and_production_required`
-- Editorial state: **publication master frozen; production proofs pending**
+- Readiness: `publication_ready_upload_ready`
+- Editorial state: **publication master frozen**
+- Package state: **validated and cleared in PR #92**
+- Authoritative package merge commit: `9708fdd86e9292a75b7683152c7746567f015cc6`
+- Retail release state: **not established by repository evidence**
 
 ## Directory layout
 
@@ -27,5 +30,7 @@ No aggregate manuscript, unaccepted chapter, or Chapter 25 file is authorized in
 ## Authority
 
 Accepted prose controls story truth. The control pack may explain, index, validate, or plan around the prose, but it cannot overrule accepted events, dialogue, chronology, evidence, injuries, technology, or character knowledge.
+
+The final DOCX, EPUB, PDF, cover, and package archive are derived publication outputs. They do not become independently editable manuscript authorities.
 
 Any later accepted-prose modification requires an editorial exception record, author approval, regenerated per-file word count and SHA-256, an updated accepted total, complete revalidation, and a new publication-master freeze record.
