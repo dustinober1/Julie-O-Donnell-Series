@@ -1,0 +1,35 @@
+name: Drive export probe
+
+on:
+  push:
+    branches:
+      - migration/drive-export-probe
+
+permissions:
+  contents: read
+
+env:
+  DOC_ID: 1IT3MACH6yWtpLeD0R7rSCpdwSoql6jK7WGTPPVbTmy0
+  EXPECTED_SHA256: 101dc249fe0adc81768b1dfe86c2c5330dfafc80fa81cf95e9175ba56aaf46c6
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Probe public Google Docs exports
+        shell: bash
+        run: |
+          set -u
+          for format in md markdown txt; do
+            url="https://docs.google.com/document/d/${DOC_ID}/export?format=${format}"
+            echo "=== format=${format} ==="
+            status=$(curl -L -sS -o "export-${format}" -w '%{http_code}' "$url" || true)
+            echo "status=${status}"
+            wc -c "export-${format}" || true
+            sha256sum "export-${format}" || true
+            file "export-${format}" || true
+            actual=$(sha256sum "export-${format}" 2>/dev/null | awk '{print $1}')
+            if [[ "$actual" == "$EXPECTED_SHA256" ]]; then
+              echo "EXACT_MATCH format=${format}"
+            fi
+          done
