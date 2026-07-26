@@ -41,10 +41,9 @@ source = source.replace(old, new)
 if hashlib.sha256(source).hexdigest() != PATCHED_SOURCE_SHA256:
     raise SystemExit("Patched production builder source checksum mismatch")
 
-# PR #92 advanced only the accepted-manifest readiness state after this immutable
+# PR #92 advanced the accepted-manifest readiness state after this immutable
 # builder payload was recorded. Preserve payload and PDF-patch integrity, then
-# update the single validation comparison without rewriting the builder's
-# historical proof-stage reports.
+# update only the validation comparison.
 legacy_readiness_check = (
     b'if manifest.get("publication_readiness") != '
     b'"proofread_and_production_required":'
@@ -56,5 +55,17 @@ current_readiness_check = (
 if source.count(legacy_readiness_check) != 1:
     raise SystemExit("Production builder readiness-check patch target mismatch")
 source = source.replace(legacy_readiness_check, current_readiness_check)
+
+# A reproducibility run may regenerate historical proof records, but it must not
+# reopen a final approval record that PR #92 has already cleared. Legacy branches
+# still receive the historical pending-approval template.
+legacy_approval_write = (
+    b'(ctx.root / CONTROL_DIR_REL / "69-production-proof-approval.md")'
+    b'.write_text(approval, encoding="utf-8")'
+)
+current_approval_write = b'''approval_path = ctx.root / CONTROL_DIR_REL / "69-production-proof-approval.md"\n    approval_is_final = (\n        approval_path.is_file()\n        and "cleared_as_frozen_publication_package"\n        in approval_path.read_text(encoding="utf-8")\n    )\n    if not approval_is_final:\n        approval_path.write_text(approval, encoding="utf-8")'''
+if source.count(legacy_approval_write) != 1:
+    raise SystemExit("Production builder approval-record patch target mismatch")
+source = source.replace(legacy_approval_write, current_approval_write)
 
 exec(compile(source, str(Path(__file__)), "exec"), globals())
