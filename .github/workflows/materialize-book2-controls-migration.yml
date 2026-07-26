@@ -1,0 +1,68 @@
+name: Materialize Book 2 Controls Migration
+
+on:
+  push:
+    branches:
+      - migration/import-book2-controls
+    paths:
+      - ".migration-transfer/book2-controls/**"
+      - ".github/workflows/materialize-book2-controls-migration.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  materialize:
+    if: ${{ !contains(github.event.head_commit.message || '', '[materialized-book2-controls]') }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out migration branch
+        uses: actions/checkout@v4
+        with:
+          ref: migration/import-book2-controls
+          fetch-depth: 0
+
+      - name: Reconstruct and verify payload
+        shell: bash
+        run: |
+          set -euo pipefail
+          cat .migration-transfer/book2-controls/part* > /tmp/book2-controls.b64
+          base64 --decode /tmp/book2-controls.b64 > /tmp/book2-controls.tar.gz
+          echo "ec8b21690654ce578f78aacbcda46a38cc0ce97a3bc45453c3ab95b35a318546  /tmp/book2-controls.tar.gz" | sha256sum -c -
+          rm -rf /tmp/book2-controls-extract
+          mkdir -p /tmp/book2-controls-extract
+          tar -xzf /tmp/book2-controls.tar.gz -C /tmp/book2-controls-extract
+          python - <<'PY'
+          from pathlib import Path
+          import hashlib, yaml
+          root = Path('/tmp/book2-controls-extract')
+          manifest = yaml.safe_load((root/'PAYLOAD_MANIFEST.yaml').read_text())
+          for item in manifest['files']:
+              path = root/item['path']
+              assert path.is_file(), item['path']
+              assert path.stat().st_size == item['bytes'], item['path']
+              assert hashlib.sha256(path.read_bytes()).hexdigest() == item['sha256'], item['path']
+          print(f"Verified {len(manifest['files'])} payload files")
+          PY
+
+      - name: Install Book 2 source tree
+        shell: bash
+        run: |
+          set -euo pipefail
+          test ! -e books/book-02
+          cp -a /tmp/book2-controls-extract/books/book-02 books/book-02
+          mkdir -p migration/drive-to-github-2026-07-25
+          cp /tmp/book2-controls-extract/PAYLOAD_MANIFEST.yaml \
+            migration/drive-to-github-2026-07-25/book2-controls-payload-manifest.yaml
+          git diff --check
+
+      - name: Commit materialized controls
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add books/book-02 migration/drive-to-github-2026-07-25/book2-controls-payload-manifest.yaml
+          git commit -m "Import Book 2 controls and architecture [materialized-book2-controls]"
+          git push origin HEAD:migration/import-book2-controls
