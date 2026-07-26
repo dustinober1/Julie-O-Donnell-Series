@@ -1,20 +1,28 @@
 # 69 — Production Proof Approval
 
-**Publication readiness:** `proofread_and_production_required`  
-**Production status:** `production_proofs_generated_pending_manual_approval`
+## Current disposition
 
-No approval below has been granted on the author’s behalf.
+**Publication readiness:** `publication_ready_upload_ready`  
+**Final package status:** `cleared_as_frozen_publication_package`  
+**Final-package PR:** #92  
+**Authoritative merge commit:** `9708fdd86e9292a75b7683152c7746567f015cc6`
 
-| Approval area | Status | Approver | Date | Notes |
-|---|---|---|---|---|
-| DOCX interior proof | PENDING | — | — | — |
-| EPUB proof | PENDING | — | — | — |
-| Print PDF proof | PENDING | — | — | — |
-| Publishing metadata | PENDING / BLOCKED | — | — | Author, copyright, publisher/imprint, edition, ISBNs unresolved. |
-| Cover | PENDING / BLOCKED | — | — | No final approved cover identified. |
-| Final cross-format comparison | PENDING MANUAL CONFIRMATION | — | — | Automated comparison report available. |
-| Author approval | PENDING | — | — | Required before publication-state advancement. |
+The pending proof gate recorded below was an intermediate production state. PR #92 subsequently generated, validated, and cleared the final DOCX, EPUB, print PDF, approved cover, metadata, correction ledger, and package archive. Final evidence is under `../production/final/`.
 
-## Approval rule
+| Approval area | Final status | Evidence |
+|---|---|---|
+| DOCX publication master | APPROVED / VALIDATED | `../production/final/Veridrift_Final_Package_Manifest.json` |
+| EPUB | APPROVED / VALIDATED | `../production/final/Veridrift_Final_EPUB_Validation.md` |
+| Print PDF | APPROVED / VALIDATED | `../production/final/Veridrift_Final_Print_Validation.md` |
+| Publishing metadata | APPROVED FOR PACKAGE | `../production/final/Veridrift_Final_Metadata.json` |
+| Cover | APPROVED / VALIDATED | `../production/final/Veridrift_Final_Package_Manifest.json` |
+| Final cross-format comparison | PASS | `../production/final/Veridrift_Final_Publication_Review.md` |
+| Frozen package | CLEARED | `../production/final/CHECKSUMS.sha256` |
 
-Only explicit author approval after manual inspection may advance the book beyond `proofread_and_production_required`.
+## Historical intermediate state
+
+Before final-package signoff, the proof files were recorded as `production_proofs_generated_pending_manual_approval`, with metadata and cover decisions still open. That historical state is preserved in the production build records and generated proof reports; it no longer describes the current package.
+
+## Remaining operational action
+
+Perform a retailer-specific preview immediately before upload and record retailer upload or release status when it occurs. The repository does not currently establish that the book has been released.
