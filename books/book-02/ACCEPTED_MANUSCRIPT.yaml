@@ -1,0 +1,7 @@
+book: 2
+authority: github
+accepted_units: []
+accepted_unit_count: 0
+note: >-
+  Chapter 1 is formally accepted in the migration evidence but is added to this
+  manifest only in its dedicated acceptance import pull request.
