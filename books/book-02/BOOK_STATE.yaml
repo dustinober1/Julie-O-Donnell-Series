@@ -1,0 +1,21 @@
+book: 2
+series: Julie O'Donnell Series
+authority: github
+state: active_development
+prologue:
+  state: locked_undrafted
+chapter_01:
+  title: A Written Boundary
+  state: formally_accepted
+chapter_02:
+  title: The Missing Architect
+  state: draft_complete_pending_acceptance
+later_chapters:
+  state: not_drafted
+locked_decisions:
+  first: 1
+  last: 149
+source_transition:
+  from: google_drive
+  to: github
+  effective_date: 2026-07-25
