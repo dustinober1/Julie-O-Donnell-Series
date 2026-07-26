@@ -11,6 +11,7 @@ Google Drive is retained only for archived snapshots, review copies generated fr
 - Repository: `dustinober1/Julie-O-Donnell-Series`
 - Default branch: `main`
 - Live migration baseline: `9708fdd86e9292a75b7683152c7746567f015cc6`
+- Book 1 status reconciliation merge: `854a3cfeed94cf5b2013c39c8c28ccf98db133a0`
 - Drive root folder: `1PcxkAAZk2o_pT_R_Eokhd-rZOvUxDev7`
 - Drive items inventoried: **72**
 - Checksum-bearing Drive files: **60**
@@ -23,19 +24,20 @@ Google-native documents are exported as Markdown for source checksums. Stored DO
 - `inventory.yaml` — exact Drive identities, timestamps, destinations, authority classifications, statuses, and source checksums.
 - `conflict-log.md` — differences, authority decisions, and unresolved correction proposals.
 - `verification-report.md` — completed validations and final source-of-truth transition evidence.
+- `book1-variants/` — normalized comparison evidence and the isolated Prologue correction proposal.
 
 ## Pull-request sequence
 
 | Phase | Branch | Pull request | Status |
 |---|---|---:|---|
-| Book 1 publication status | `migration/reconcile-book1-status` | pending | in progress |
-| Series bible and Book 1 variants | `migration/reconcile-series-bible` | pending | not started |
+| Book 1 publication status | `migration/reconcile-book1-status` | #93 | merged |
+| Series bible and Book 1 variants | `migration/reconcile-series-bible-20260725` | pending | in progress |
 | Book 2 controls and architecture | `migration/import-book2-controls` | pending | not started |
 | Accepted Book 2 Chapter 1 | `migration/import-book2-chapter-01` | pending | not started |
 | Book 2 Chapter 2 draft | `migration/import-book2-chapter-02` | pending | not started |
 | Final verification and authority transition | `migration/final-verification` | pending | not started |
 
-Actual PR numbers replace `pending` after creation.
+The requested `migration/reconcile-series-bible` branch name was already reserved remotely. The dated branch suffix avoids overwriting unknown state and is the documented adjustment for this phase.
 
 ## Safety locks
 
