@@ -1,0 +1,103 @@
+schema_version: 1
+book: 2
+authority: github
+migration_source: google_drive
+migration_date: 2026-07-25
+status: in_progress
+
+controls:
+  - key: control_center
+    drive_id: 1srPFcZCe3wZ3v8lEFXn-u03taaHfcqPKBCE6DuWZQtg
+    github_path: books/book-02/control/00-control-center-drive-source.md
+    status: imported
+    authority: historical_source_with_governance_supersession
+  - key: canon_handoff
+    drive_id: 1nsbP6uqh56gmXiEU2xZsclmoHt_XCOoALU01oRltsrk
+    github_path: books/book-02/control/01-book-01-to-book-02-canon-handoff.md
+    status: imported
+    authority: active
+  - key: development_blueprint
+    drive_id: 1yWw_Sd63mY5CaEik5u8lR5RzLlqFqH0yfwp1DiB4ZVw
+    github_path: books/book-02/control/02-development-blueprint.md
+    status: imported
+    authority: active
+  - key: decision_log
+    drive_id: 19UxBut4TxCOLoXjWCDc-_8ixLMJqeX0rrewSadbqxvY
+    source_bytes: 648142
+    github_path: books/book-02/control/03-decision-log-and-canon-ledger.md
+    status: pending_large_source_import
+    authority: active
+    locked_decisions: "001-149"
+    forbidden_next_decision: 150
+  - key: premise_architecture_lock
+    drive_id: 1Ii27Q_3Fc2UtrWnTzEu7dyt7O4VmmRyCeDs97IkBnhc
+    source_bytes: 533699
+    github_path: books/book-02/control/04-premise-and-story-architecture-lock.md
+    status: pending_large_source_import
+    authority: active
+  - key: chapter_01_authorization
+    drive_id: 1tIYwxyDHOmhbi4C-2SJJdpIhE6xbxbtFy-6tHAwfiNQ
+    github_path: books/book-02/control/08-chapter-01-drafting-authorization.md
+    status: imported
+    authority: active
+  - key: chapter_01_acceptance
+    drive_id: 1zLFocGhJk2tubBnIuUspbYVJ8d4aEDd4CzSCH0WHfk0
+    github_path: books/book-02/control/09-chapter-01-formal-acceptance.md
+    status: imported
+    authority: active
+    verdict: formally_accepted_book_2_canon
+    controlled_prose_words: 2712
+  - key: chapter_02_authorization
+    drive_id: 1NwdmKEmD1FwJTwRYcKsYI_mMX2cGJmzQUgehh6N4PkE
+    github_path: books/book-02/control/10-chapter-02-drafting-authorization.md
+    status: imported
+    authority: active
+    verdict: draft_complete_pending_formal_acceptance
+    controlled_prose_words: 2870
+
+outline:
+  - key: premise_options
+    drive_id: 1WXG7ybHuGbABPchsIdDihw5BXfc1rwaAc7aL6PxXBwI
+    github_path: books/book-02/outline/00-premise-options-working.md
+    status: imported
+    authority: historical_working
+  - key: prologue_scene_lock
+    drive_id: 1IT3MACH6yWtpLeD0R7rSCpdwSoql6jK7WGTPPVbTmy0
+    source_bytes: 17138
+    github_path: books/book-02/outline/01-prologue-situation-and-scene-lock.md
+    status: pending
+    authority: active
+  - key: chapter_architecture
+    drive_id: 1tUtzfReq1ZE-9XOd4PQsMx1h3CrnoHpOTAfik1PVtBs
+    source_bytes: 35510
+    github_path: books/book-02/outline/06-chapter-architecture.md
+    status: pending
+    authority: active
+  - key: scene_mission_locks
+    drive_id: 1mHFwxEa3Nk9q0KYQwyqYYPc9Eokqh0L9-eJoL3Z19w4
+    source_bytes: 266945
+    github_path: books/book-02/outline/07-scene-architecture-and-mission-locks.md
+    status: pending_large_source_import
+    authority: active
+
+manuscript:
+  chapter_01:
+    drive_id: 15WoBAXw62URgJnlHjVnmtjf4Z_jMfFwzAwEa1yQ79M4
+    destination: books/book-02/manuscript/chapter-01.md
+    status: accepted_source_pending_dedicated_pr
+    controlled_prose_words: 2712
+  chapter_02:
+    drive_id: 1UTI-4gTG7mqJ7F-sqOZqDpchhWQuQADm_cqWCLalmvY
+    destination: books/book-02/manuscript/chapter-02.md
+    status: draft_source_pending_dedicated_pr
+    controlled_prose_words: 2870
+  prologue:
+    status: undrafted
+
+safety_locks:
+  - no_manuscript_prose_in_controls_pr
+  - chapter_01_requires_separate_acceptance_import_pr
+  - chapter_02_must_remain_excluded_from_accepted_manifest
+  - prologue_remains_undrafted
+  - no_chapter_03_artifact
+  - no_decision_150
