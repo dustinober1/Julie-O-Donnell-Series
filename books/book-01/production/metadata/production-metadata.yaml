@@ -1,14 +1,26 @@
-version: 1
+version: 2
 book: 1
 title: "Veridrift"
-series: "Julie O'Donnell Series"
+series: "Julie O'Donnell"
 language: "en-US"
 source_manifest: "books/book-01/ACCEPTED_MANUSCRIPT.yaml"
-publication_readiness: "proofread_and_production_required"
-production_status: "production_proofs_generated_pending_manual_approval"
-proof_defaults:
+record_scope: "current publication-package state with historical proof-build defaults retained"
+publication_readiness: "publication_ready_upload_ready"
+production_status: "final_package_generated_validated_and_cleared"
+final_package:
+  pull_request: 92
+  merge_commit: "9708fdd86e9292a75b7683152c7746567f015cc6"
+  manifest: "books/book-01/production/final/Veridrift_Final_Package_Manifest.json"
+  metadata: "books/book-01/production/final/Veridrift_Final_Metadata.json"
+  validation_review: "books/book-01/production/final/Veridrift_Final_Publication_Review.md"
+  checksums: "books/book-01/production/final/CHECKSUMS.sha256"
+  approval_state: "cleared_as_frozen_publication_package"
+  open_manuscript_or_package_defects: 0
+retail_release_status: "not_established_by_repository"
+
+historical_proof_defaults:
   trim_size: "6 x 9 inches"
-  trim_status: "unlocked_proof_default"
+  trim_status: "used for validated final print interior"
   body_font: "DejaVu Serif"
   body_size_points: 11
   line_spacing_points: 14.5
@@ -16,27 +28,28 @@ proof_defaults:
   outer_margin_inches: 0.65
   top_margin_inches: 0.75
   bottom_margin_inches: 0.75
+
 locked_metadata:
   title: "Veridrift"
-  series: "Julie O'Donnell Series"
+  display_title: "VERIDRIFT"
+  subtitle: "A Julie O'Donnell Thriller"
+  author: "Dustin Kearney"
   language: "en-US"
-unresolved_blockers:
-  author_or_pen_name: null
-  copyright_holder: null
-  copyright_year: null
-  publisher_or_imprint: null
-  edition_statement: null
-  print_isbn: null
-  epub_isbn: null
-  locked_trim_size: null
-  approved_final_cover: null
-  publisher_logo: null
-  dedication: null
-  acknowledgments: null
-  approved_front_and_back_matter: null
+  copyright_year: 2026
+  copyright_holder: "Dustin Ober"
+  publisher: "Dustin Ober"
+  edition: "First edition"
+  isbn: null
+
 cover:
-  embedded: false
-  reason: "No repository asset was explicitly identified as the final approved cover."
+  filename: "Veridrift_Cover_1600x2560_RGB.jpg"
+  dimensions: [1600, 2560]
+  mode: "RGB"
+  format: "JPEG"
+  embedded_in_epub: true
+  sha256: "3e20c8e44fb6a4541fc3cb8729cf87641043434b439c3c9c1a40624508dc8e6d"
+
 approval:
-  publication_approved: false
-  author_approval_required: true
+  publication_package_approved: true
+  approval_scope: "frozen final package; retailer-specific preview remains prudent before upload"
+  retail_release_confirmed: false

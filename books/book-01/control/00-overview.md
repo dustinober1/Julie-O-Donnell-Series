@@ -13,7 +13,10 @@ A disgraced Army intelligence analyst discovers that synthetic telemetry is bein
 - Controlled final proofread: **complete; PR #84 merged**.
 - Open proofreading queries: **0**.
 - Editorial state: **publication master frozen**.
-- Publication readiness: `proofread_and_production_required`.
+- Publication readiness: `publication_ready_upload_ready`.
+- Final package state: **validated and cleared; PR #92 merged**.
+- Authoritative package merge commit: `9708fdd86e9292a75b7683152c7746567f015cc6`.
+- Retail release state: **not established by repository evidence**.
 - Locked final line: **The bubble stayed centered.**
 
 ## Central proof ceilings
@@ -25,8 +28,8 @@ A disgraced Army intelligence analyst discovers that synthetic telemetry is bein
 
 ## Publication state
 
-Editorial development, rhythm work, continuity reconciliation, copyedit, controlled final proofread, and publication-master validation are complete. Accepted prose is frozen.
+Editorial development, rhythm work, continuity reconciliation, copyedit, controlled final proofread, publication-master validation, final DOCX generation, EPUB validation, print-interior validation, cover validation, package assembly, and checksum recording are complete. Accepted prose remains frozen.
 
-Publication is still blocked by production work: Word, EPUB, and print-PDF proofs must be generated from the accepted manifest, manually inspected, and approved. Editorial freeze is not publication approval.
+The final package has no open manuscript or package defect. A retailer-specific preview remains a prudent upload safeguard, not a pending production gate. The repository does not establish whether retailer upload or public release has occurred.
 
-The controlling freeze record is `66-publication-master-freeze.md`.
+The controlling freeze record is `66-publication-master-freeze.md`; final package evidence is under `../production/final/`.

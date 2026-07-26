@@ -1,0 +1,94 @@
+version: 1
+book: 1
+title: "Veridrift"
+verified_on: "2026-07-25"
+policy: "Large production binaries remain outside ordinary Git history. Git stores provenance, exact observed identifiers, validation state, and checksums."
+
+frozen_publication_package:
+  authority:
+    pull_request: 92
+    merge_commit: "9708fdd86e9292a75b7683152c7746567f015cc6"
+    package_manifest: "books/book-01/production/final/Veridrift_Final_Package_Manifest.json"
+    checksum_record: "books/book-01/production/final/CHECKSUMS.sha256"
+  storage_location: "controlled downloadable publication archive referenced by PR #92; direct archive URL or Drive ID is not recorded in the repository"
+  assets:
+    - filename: "Veridrift_Publication_Master_FINAL.docx"
+      purpose: "final Word publication master"
+      sha256: "bfbb48773203116a919bd867bc1c588b979af2fd70be45d4559f0c1979a6c083"
+      bytes: 397478
+      format: "DOCX / OOXML"
+      approval_state: "generated, validated, and cleared"
+      date_verified: "2026-07-19"
+    - filename: "Veridrift_FINAL.epub"
+      purpose: "final ebook upload file"
+      sha256: "87745dc13e088b79e20c2a3be1dec6136ca1e740d216a5c2c224eb40662432eb"
+      bytes: 1166572
+      format: "EPUB 3"
+      approval_state: "generated, validated, and cleared"
+      date_verified: "2026-07-19"
+    - filename: "Veridrift_PRINT_INTERIOR_FINAL.pdf"
+      purpose: "final 6 x 9 inch print interior"
+      sha256: "5e1289dde09abe4fc46bcf585ce99fcad9dad8d76e88380376d368c064a52074"
+      bytes: 1613868
+      dimensions_or_format: "451 pages; 432 x 648 pt; fonts embedded and subset"
+      approval_state: "generated, validated, and cleared"
+      date_verified: "2026-07-19"
+    - filename: "Veridrift_Cover_1600x2560_RGB.jpg"
+      purpose: "approved ebook cover and embedded EPUB cover"
+      sha256: "3e20c8e44fb6a4541fc3cb8729cf87641043434b439c3c9c1a40624508dc8e6d"
+      bytes: 880988
+      dimensions_or_format: "1600 x 2560 px; RGB JPEG"
+      approval_state: "approved, validated, and cleared"
+      date_verified: "2026-07-19"
+    - filename: "Veridrift_Cover_Source_1280x2048_RGB.jpg"
+      purpose: "source cover before proportional production upscale"
+      sha256: "c8a95b596092212176c1edef0291c6a5a8c9f28d5538d9b8a9f3be895f8bf3fa"
+      bytes: 568154
+      dimensions_or_format: "1280 x 2048 px; RGB JPEG"
+      approval_state: "source provenance retained; not the upload cover"
+      date_verified: "2026-07-19"
+    - filename: "Veridrift_EPUB_PROOF_REVIEWED_NOT_FOR_UPLOAD.epub"
+      purpose: "reviewed proof retained as baseline evidence"
+      sha256: "9ffc13c0ec2d58f8eede73405fa1c5a8485aefb2630c6e70db9e25e017526c37"
+      bytes: 291517
+      format: "EPUB"
+      approval_state: "review evidence; explicitly not for upload"
+      date_verified: "2026-07-19"
+    - filename: "Veridrift_Final_Publication_Package.zip"
+      purpose: "frozen downloadable publication archive"
+      sha256: "5488a10c86dd35543bc5f4525892f6426646f085b74d0b66d226786664d82a4c"
+      format: "ZIP archive"
+      approval_state: "frozen package archive"
+      date_verified: "2026-07-19"
+
+observed_drive_assets:
+  - filename: "cover.jpg"
+    purpose: "Drive-hosted rectangular cover or review/distribution copy"
+    storage_location: "Google Drive / 01_VERIDRIFT"
+    drive_id: "123KLeaO9TTCk57vRmOzbB62ZvJggV1OZ"
+    drive_url: "https://drive.google.com/file/d/123KLeaO9TTCk57vRmOzbB62ZvJggV1OZ/view"
+    sha256: "60dcd6293a0338ac40db5f281d8a6178c69d31e26dd6d7928ab01264cf2a23a3"
+    bytes: 1072342
+    dimensions_or_format: "1600 x 2560 px; RGB JPEG"
+    approval_state: "distinct from the PR #92 approved cover because its SHA-256 does not match; do not substitute without explicit review"
+    date_verified: "2026-07-25"
+  - filename: "cover_square.jpg"
+    purpose: "square cover derivative, likely for audio or social distribution"
+    storage_location: "Google Drive / 01_VERIDRIFT"
+    drive_id: "1b0PHwPXkYrq7_bOYPpNtE1v8TQIdzaHN"
+    drive_url: "https://drive.google.com/file/d/1b0PHwPXkYrq7_bOYPpNtE1v8TQIdzaHN/view"
+    sha256: "34520587681f05aeafaf893f199846ab991b54fef18b6e611a2e180eeb27ed6a"
+    bytes: 200475
+    dimensions_or_format: "2560 x 2560 px; RGB JPEG"
+    approval_state: "external derivative; approval state not established by repository records"
+    date_verified: "2026-07-25"
+  - filename: "Veridrift.m4b"
+    purpose: "large audiobook production binary"
+    storage_location: "Google Drive / 01_VERIDRIFT / 03_Audiobook"
+    drive_id: "1zQEyG-8ioI-hz4owwPRBzQg42qxeIRUs"
+    drive_url: "https://drive.google.com/file/d/1zQEyG-8ioI-hz4owwPRBzQg42qxeIRUs/view"
+    sha256: "472491a66c16f19005d08c39ca77bd29b8452c5bb9c03ed7e44b4ff6efc52ba5"
+    bytes: 299783563
+    dimensions_or_format: "M4B / MP4 audio; duration 33748.177 seconds; observed bitrate 71063 bps"
+    approval_state: "external production binary; narration and release approval state not established by repository records"
+    date_verified: "2026-07-25"

@@ -1,0 +1,174 @@
+version: 1
+migration: "drive-to-github-2026-07-25"
+generated_on: "2026-07-25"
+drive_root:
+  title: "Julie O'Donnell Series"
+  folder_id: "1PcxkAAZk2o_pT_R_Eokhd-rZOvUxDev7"
+  url: "https://drive.google.com/drive/folders/1PcxkAAZk2o_pT_R_Eokhd-rZOvUxDev7"
+item_count: 72
+file_count: 60
+folder_count: 12
+checksum_policy: "Google-native documents use SHA-256 of exported Markdown bytes; stored files use SHA-256 of raw downloaded bytes; folders are non-checksum-bearing containers."
+
+# Each group combines its common fields with every row. Rows use the group's item_fields order.
+groups:
+  - name: folder_containers
+    common:
+      mime_type: "application/vnd.google-apps.folder"
+      source_checksum_type: "not_applicable_folder"
+      source_sha256: null
+      source_bytes: null
+    item_fields: [drive_title, drive_file_id, drive_url, last_modified, proposed_github_destination, classification, github_counterpart_exists, migration_status, notes]
+    items:
+      - ["00_SERIES BIBLE", "1fz0Y2C3hexwQahIi3Ib6KK8YHGFf0s_1", "https://drive.google.com/drive/folders/1fz0Y2C3hexwQahIi3Ib6KK8YHGFf0s_1", "2026-07-19T22:39:59.122Z", "series/", reference, true, accounted_container, "Retained as reference-only after authority transition."]
+      - ["01_BOOK 1 SERIES CONTINUITY", "1UtXN3JTxiUc-CPjqp-s9I1JE82VKJbfA", "https://drive.google.com/drive/folders/1UtXN3JTxiUc-CPjqp-s9I1JE82VKJbfA", "2026-07-20T02:45:05.266Z", "series/ and books/book-01/control/", reference, true, accounted_container, ""]
+      - ["01_VERIDRIFT", "1uY65B2qLrROTfWADN3Z1SSglEeHc06Ni", "https://drive.google.com/drive/folders/1uY65B2qLrROTfWADN3Z1SSglEeHc06Ni", "2026-07-19T23:34:17.403Z", "books/book-01/", archive, true, accounted_container, ""]
+      - ["01_Manuscript", "1jVduCcIN4QJmapDQ9sE6UB6tqua1KZK2", "https://drive.google.com/drive/folders/1jVduCcIN4QJmapDQ9sE6UB6tqua1KZK2", "2026-07-19T22:40:00.170Z", "books/book-01/manuscript/ and migration/drive-to-github-2026-07-25/book1-variants/", archive, true, accounted_container, ""]
+      - ["02_Outline & Beats", "1dWq23MipAfTaUS8k9zqeYhenL3boCcj6", "https://drive.google.com/drive/folders/1dWq23MipAfTaUS8k9zqeYhenL3boCcj6", "2026-07-19T22:39:59.195Z", "books/book-01/control/ and series/", reference, true, accounted_container, ""]
+      - ["03_Audiobook", "1Dky1madCwDLoMgny-A8q3zH8PpZ_BNn0", "https://drive.google.com/drive/folders/1Dky1madCwDLoMgny-A8q3zH8PpZ_BNn0", "2026-07-19T23:35:18.558Z", "books/book-01/production/EXTERNAL_ASSETS.yaml", binary_external, true, accounted_container, ""]
+      - ["02_BOOK 2", "1OJZooXmfp7X1SVIfGG-Mmq9bokzhh9lw", "https://drive.google.com/drive/folders/1OJZooXmfp7X1SVIfGG-Mmq9bokzhh9lw", "2026-07-26T01:41:00.688Z", "books/book-02/", authoritative, false, migration_in_progress, ""]
+      - ["00_CURRENT CONTROL & QA", "139l2SChB1aCoqdLAuNvhRwWA_-lwJgQL", "https://drive.google.com/drive/folders/139l2SChB1aCoqdLAuNvhRwWA_-lwJgQL", "2026-07-20T02:23:54.962Z", "books/book-02/control/", authoritative, false, migration_in_progress, ""]
+      - ["01_Manuscript", "1ItY7mO6DeJHdde7g_339CQJB_dgXZtC_", "https://drive.google.com/drive/folders/1ItY7mO6DeJHdde7g_339CQJB_dgXZtC_", "2026-07-20T02:24:00.531Z", "books/book-02/manuscript/", authoritative, false, migration_in_progress, ""]
+      - ["02_Outline & Beats", "1-0G-ukFnJX17Ha8t-3ETswQr4WXEt8lE", "https://drive.google.com/drive/folders/1-0G-ukFnJX17Ha8t-3ETswQr4WXEt8lE", "2026-07-20T02:24:05.423Z", "books/book-02/outline/", authoritative, false, migration_in_progress, ""]
+      - ["03_Research", "1dMLKy9tQXS-jVzJq4iiW0webUw6YsQLo", "https://drive.google.com/drive/folders/1dMLKy9tQXS-jVzJq4iiW0webUw6YsQLo", "2026-07-20T02:24:11.872Z", "books/book-02/research/", authoritative, false, verified_empty_folder, "No direct children observed."]
+      - ["04_Publication", "1d3W9eetVK5TkjmErnafLaRaUJgE0xZOW", "https://drive.google.com/drive/folders/1d3W9eetVK5TkjmErnafLaRaUJgE0xZOW", "2026-07-20T02:24:16.778Z", "books/book-02/production/", authoritative, false, verified_empty_folder, "No direct children observed."]
+
+  - name: series_bible_google_docs
+    common:
+      mime_type: "application/vnd.google-apps.document"
+      source_checksum_type: "sha256_raw_export"
+    item_fields: [drive_title, drive_file_id, drive_url, last_modified, proposed_github_destination, classification, github_counterpart_exists, migration_status, source_sha256, source_bytes, notes]
+    items:
+      - ["00 - README - Series Bible Authority", "1HIguMIXQ8M0_9FK6KBcRMymbdGroe307dhiA21Q-b5A", "https://docs.google.com/document/d/1HIguMIXQ8M0_9FK6KBcRMymbdGroe307dhiA21Q-b5A/edit", "2026-07-20T02:50:42.807Z", "migration/drive-to-github-2026-07-25/conflict-log.md", historical, true, authority_statement_superseded, "1df57b32e33fc11dcf2ca42407b0e1dd0554919f179fb76bff6d3d7cd64f8f72", 1970, "Drive-era authority statement retained as provenance and superseded."]
+      - ["LEGACY - Julie O'Donnell Series Architecture & Blueprint", "1_Kz5VKhyqewnuJ3V737rWEFAnJEhAaC-gbNQRZZn1Ys", "https://docs.google.com/document/d/1_Kz5VKhyqewnuJ3V737rWEFAnJEhAaC-gbNQRZZn1Ys/edit", "2026-07-20T02:25:47.586Z", "series/archive/legacy-series-architecture-and-blueprint.md", historical, false, pending_archive_import, "e90beb0ede2bf88b7dc00d00a3cdfc19fd3db31e27411ee84c23fbb37aa1ceca", 6188, "Explicitly legacy; cannot override current canon."]
+      - ["00 - README - Book 1 Series Continuity", "1wknwrzUu1O3c1UQsbvTy2X7TKH1HUDqG9ZSZhwnwEP0", "https://docs.google.com/document/d/1wknwrzUu1O3c1UQsbvTy2X7TKH1HUDqG9ZSZhwnwEP0/edit", "2026-07-20T02:47:47.319Z", "migration/drive-to-github-2026-07-25/conflict-log.md", historical, true, authority_statement_superseded, "2a96ebff85b29627140cf9f069ccd99294b6b4ec737359404a3bba4abf54205d", 2445, ""]
+      - ["03 - FINAL - Book 1 to Series Canon Handoff", "1Jfye-vxzQossFvMxtLM3_sUtNb1QIczXpePAlD6-52o", "https://docs.google.com/document/d/1Jfye-vxzQossFvMxtLM3_sUtNb1QIczXpePAlD6-52o/edit", "2026-07-20T02:45:36.510Z", "series/book-01-to-series-canon-handoff.md", authoritative, false, pending_import, "327b7bdbf963eb0599d7e23b36dd2e12d07560af398e6c536d786d077a9774f0", 6684, "Byte-identical to Book 2 control 01 export."]
+      - ["06 - FINAL - Book 1 Timeline & Clock Handoff", "1pXKMB_joepJL1x4xNOJD5Ssb2n6IH1OY7R_UrojRjz0", "https://docs.google.com/document/d/1pXKMB_joepJL1x4xNOJD5Ssb2n6IH1OY7R_UrojRjz0/edit", "2026-07-20T02:50:00.887Z", "series/book-01-timeline-and-clock-handoff.md", authoritative, false, pending_import, "4891f102f6507a7708f29058de0ecb9c26d612de4b615f1e04f469a4d81e41b1", 6325, ""]
+
+  - name: series_bible_docx
+    common:
+      mime_type: "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+      source_checksum_type: "sha256_raw_file"
+    item_fields: [drive_title, drive_file_id, drive_url, last_modified, proposed_github_destination, classification, github_counterpart_exists, migration_status, source_sha256, source_bytes, notes]
+    items:
+      - ["Julie_ODonnell_Narrative_House_Style_v2.docx", "1ZEbB4V2qSKZORItMM0NUgywpqo1j5StP", "https://drive.google.com/file/d/1ZEbB4V2qSKZORItMM0NUgywpqo1j5StP/view", "2026-07-19T22:39:59.133Z", "docs/Julie_ODonnell_Narrative_House_Style_v2_2.md", duplicate, true, pending_comparison, "b32827c53279dad910101a371ecc4a6809940bd6dfba647a190ee2a68ac78649", 36084, "Drive v2 compared against later GitHub v2.2; enduring prose rules only."]
+      - ["recurring-character-ledger.docx", "1HON3uwPM4wlWtksBjby01b91lng1T779", "https://drive.google.com/file/d/1HON3uwPM4wlWtksBjby01b91lng1T779/view", "2026-07-19T22:39:59.030Z", "series/recurring-character-ledger.md", duplicate, true, pending_comparison, "d40a7dffb38cd65127491bde9c66fc4c6ddafed57c2848d5aaf3e4602a311187", 13195, "Byte-identical to FINAL recurring-character ledger."]
+      - ["01 - FINAL - Book 1 Open Plot Threads & Payoff Matrix", "1UyEIJIWrAl5PTwXNrwzrOUzc6ecIydKy", "https://drive.google.com/file/d/1UyEIJIWrAl5PTwXNrwzrOUzc6ecIydKy/view", "2026-07-20T02:45:16.888Z", "books/book-01/control/15-open-plot-threads-and-payoff-matrix.md", duplicate, true, pending_comparison, "10ed9b568e876032d4eec66ecdfea9222224f26bb6f4d4609adebd34b1192455", 13531, "Byte-identical to VERIDRIFT outline copy."]
+      - ["02 - FINAL - Book 1 Recurring Character Ledger", "1vlLaTziHLlYT5GNOjiHOUXSaaI3okLLP", "https://drive.google.com/file/d/1vlLaTziHLlYT5GNOjiHOUXSaaI3okLLP/view", "2026-07-20T02:45:27.074Z", "series/recurring-character-ledger.md", duplicate, true, pending_comparison, "d40a7dffb38cd65127491bde9c66fc4c6ddafed57c2848d5aaf3e4602a311187", 13195, "Byte-identical to root recurring-character ledger."]
+      - ["04 - REFERENCE - Book 1 Antagonist Objectives & Conspiracy Model", "1q05wNv9jOcHDmVl0TuB0pezElQGjpr3y", "https://drive.google.com/file/d/1q05wNv9jOcHDmVl0TuB0pezElQGjpr3y/view", "2026-07-20T02:45:47.151Z", "books/book-01/control/antagonist-objectives-and-conspiracy-model.md", reference, true, pending_comparison, "da4258454d0d5219b8e35eba773d26796ae077b5a18fb7f023276248e63389c6", 12136, "Byte-identical to VERIDRIFT outline copy."]
+      - ["05 - SOURCE SNAPSHOT - Book 1 Master Timeline through Chapter 23", "1LnhGWq_etDybEG-GkWCycnb194JyySfW", "https://drive.google.com/file/d/1LnhGWq_etDybEG-GkWCycnb194JyySfW/view", "2026-07-20T02:45:56.838Z", "books/book-01/control/master-timeline.md", historical, true, pending_comparison, "7375de11050af3a1340762fc1f6e01f117e6fb5b46654d731bd871e90c75026d", 12308, "Byte-identical to VERIDRIFT outline copy; stops through Chapter 23."]
+
+  - name: book1_post_freeze_google_variants
+    common:
+      mime_type: "application/vnd.google-apps.document"
+      classification: requires_author_decision
+      github_counterpart_exists: true
+      migration_status: conflict_review_required
+      source_checksum_type: "sha256_raw_export"
+    item_fields: [drive_title, drive_file_id, drive_url, last_modified, proposed_github_destination, source_sha256, source_bytes, notes]
+    items:
+      - [prologue, "1upUvx5RV-ToSFLLc5k_mQQZhjerethTDWi5PiXPEoAg", "https://docs.google.com/document/d/1upUvx5RV-ToSFLLc5k_mQQZhjerethTDWi5PiXPEoAg/edit", "2026-07-21T02:39:35.504Z", "migration/drive-to-github-2026-07-25/book1-variants/drive-native-prologue.md", "ddb58d8162c32ba1e573e7308c69f0e79e4e687e6f390b93408126457ed91699", 14244, "Post-freeze native Doc; compare and isolate, never silently overwrite accepted prose."]
+      - [chapter-01, "1cUkrfYZ8093yVZCjOIz2wsiLPXebMIWLzxNcU3Vzfgw", "https://docs.google.com/document/d/1cUkrfYZ8093yVZCjOIz2wsiLPXebMIWLzxNcU3Vzfgw/edit", "2026-07-21T02:46:16.857Z", "migration/drive-to-github-2026-07-25/book1-variants/drive-native-chapter-01.md", "b13fff8fe3242b28775501e0b5396c908235f55d7198d7aec1f58f72acdb1ed8", 28038, "Post-freeze native Doc; compare and isolate, never silently overwrite accepted prose."]
+
+  - name: book1_historical_docx_manuscript
+    common:
+      mime_type: "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+      classification: historical
+      github_counterpart_exists: true
+      migration_status: accounted_no_import
+      source_checksum_type: "sha256_raw_file"
+      notes: "Historical Drive snapshot; accepted Markdown manifest remains authoritative."
+    item_fields: [drive_title, drive_file_id, drive_url, last_modified, proposed_github_destination, source_sha256, source_bytes]
+    items:
+      - [prologue.docx, "1ZzL_itvWLAVGNhD1b9S4iZ6Ecx0-JGv_", "https://drive.google.com/file/d/1ZzL_itvWLAVGNhD1b9S4iZ6Ecx0-JGv_/view", "2026-07-19T22:39:59.186Z", "books/book-01/manuscript/prologue.md", "ef705e209702e5528d3049084c75637a55cbb6d09ca146514bdca5968b24de0a", 16816]
+      - [chapter-01.docx, "1_4Pa41Myrad-mO1KOYZU7QgskqFOmZES", "https://drive.google.com/file/d/1_4Pa41Myrad-mO1KOYZU7QgskqFOmZES/view", "2026-07-21T02:23:55.712Z", "books/book-01/manuscript/chapters/chapter-01.md", "3e9e565b4980b158abf1fb7f59b23826b89dd92de83a98c0bf1d67b78a4ee8f2", 158268]
+      - [chapter-02.docx, "15nE34VCAs2_tWEESSRpqkz8VhTOx4w6j", "https://drive.google.com/file/d/15nE34VCAs2_tWEESSRpqkz8VhTOx4w6j/view", "2026-07-19T22:39:59.581Z", "books/book-01/manuscript/chapters/chapter-02.md", "936a9fb40037c9ff51d7a1ecb7a4dae262dd48e0143d9001c9a9a8f045929ac3", 25378]
+      - [chapter-03.docx, "1lSgWnx634x9weDedC3DK2d9z_HIA8yZP", "https://drive.google.com/file/d/1lSgWnx634x9weDedC3DK2d9z_HIA8yZP/view", "2026-07-19T22:39:59.639Z", "books/book-01/manuscript/chapters/chapter-03.md", "3ed7d9eeb5afb5a43862a4280fddf7215611bb91f4e3d52e49503c8950d7ea94", 19603]
+      - [chapter-04.docx, "1-_TzNuP7fTL5sZ0NrvjxA82AHT0WXZgd", "https://drive.google.com/file/d/1-_TzNuP7fTL5sZ0NrvjxA82AHT0WXZgd/view", "2026-07-19T22:39:59.732Z", "books/book-01/manuscript/chapters/chapter-04.md", "8ecc341001b43bcb8280a1df8926219a11804078fb1a7a19a57b7c6782ba6cb8", 28518]
+      - [chapter-05.docx, "1kY701q6IzluTWjyYEGL5EcZIqRH5Nw93", "https://drive.google.com/file/d/1kY701q6IzluTWjyYEGL5EcZIqRH5Nw93/view", "2026-07-19T22:39:59.821Z", "books/book-01/manuscript/chapters/chapter-05.md", "f4191e5229861deee205f21d904712d10744bf45144c8f631ddd7bf77a445f29", 32241]
+      - [chapter-06.docx, "16jCF5UrWo-tZRGOI4Vk17285glMcoraH", "https://drive.google.com/file/d/16jCF5UrWo-tZRGOI4Vk17285glMcoraH/view", "2026-07-19T22:39:59.880Z", "books/book-01/manuscript/chapters/chapter-06.md", "14b0e33f4c9d0c7a8417491c75a228a6ec4a624ccea4b93161f6f4f71ca5c4be", 20971]
+      - [chapter-07.docx, "1_gZKCqDtMMKNsmuaoAzqqKmaD0DG9bpL", "https://drive.google.com/file/d/1_gZKCqDtMMKNsmuaoAzqqKmaD0DG9bpL/view", "2026-07-19T22:39:59.953Z", "books/book-01/manuscript/chapters/chapter-07.md", "1ea830020064a93aadbaf80624a5f18ce0706483d264448b24de26be70c4ebed", 23178]
+      - [chapter-08.docx, "1aZx7QgBvVTqhpZzhjPOMAfe9q_cJoIlK", "https://drive.google.com/file/d/1aZx7QgBvVTqhpZzhjPOMAfe9q_cJoIlK/view", "2026-07-19T22:40:00.040Z", "books/book-01/manuscript/chapters/chapter-08.md", "deea6091ffa95489b9ed8cd062dbb4c5f7a567d6612dbb0f3c142a0b7922045a", 25913]
+      - [chapter-09.docx, "1cpzS7mxajluNbYYPCURMbhJ_-9GKi9yU", "https://drive.google.com/file/d/1cpzS7mxajluNbYYPCURMbhJ_-9GKi9yU/view", "2026-07-19T22:40:00.111Z", "books/book-01/manuscript/chapters/chapter-09.md", "a91df2b12b4f4d7575d77c5e9d48cf499fb52dd3c26584d2f65ece8307861258", 24934]
+      - [chapter-10.docx, "15VLMz1_sx-Lm20kFmJiwK7g9ECzEo0O9", "https://drive.google.com/file/d/15VLMz1_sx-Lm20kFmJiwK7g9ECzEo0O9/view", "2026-07-19T22:40:00.176Z", "books/book-01/manuscript/chapters/chapter-10.md", "894bc0423bf422f86e4352d99bc4b74c2efa5e7548d5f5868f88513ac5a9ffee", 26713]
+      - [chapter-11.docx, "1CCUD8ED_U8vIvU5w0HSmEUp46Xt8rXfz", "https://drive.google.com/file/d/1CCUD8ED_U8vIvU5w0HSmEUp46Xt8rXfz/view", "2026-07-19T22:40:00.239Z", "books/book-01/manuscript/chapters/chapter-11.md", "3f43e71f467ee3afbfcbecee5058b0a3ca0e0fc9e7843dc46cba89f6ed1e2b67", 25728]
+      - [chapter-12.docx, "1A0iEcHFVz_Tq9ZhsL0j_waeVPa716Qb-", "https://drive.google.com/file/d/1A0iEcHFVz_Tq9ZhsL0j_waeVPa716Qb-/view", "2026-07-19T22:40:00.306Z", "books/book-01/manuscript/chapters/chapter-12.md", "931cff7cfac895251935591fa77f8b697750c4f9ba224d7c7ebf99ecb4e7ab0f", 26486]
+      - [chapter-13.docx, "1Q6elkLlXDmIQEjddixbVhOYH96B5UgrS", "https://drive.google.com/file/d/1Q6elkLlXDmIQEjddixbVhOYH96B5UgrS/view", "2026-07-19T22:40:00.371Z", "books/book-01/manuscript/chapters/chapter-13.md", "fd7294912158e1417d015de023bb544ef841ab60dc46a539e7896305de67c4c9", 25740]
+      - [chapter-14.docx, "1mAGQobxMfC4Ox4tvi1zxxdgYDJgfaoC1", "https://drive.google.com/file/d/1mAGQobxMfC4Ox4tvi1zxxdgYDJgfaoC1/view", "2026-07-19T22:40:00.434Z", "books/book-01/manuscript/chapters/chapter-14.md", "5a21b1511c7aacbe29acb2a83d8b4d8e7f54846af941db4e84e9b86792381288", 25434]
+      - [chapter-15.docx, "1_5RFJBkmo1JhR73zYZGTd8oY_dna6hni", "https://drive.google.com/file/d/1_5RFJBkmo1JhR73zYZGTd8oY_dna6hni/view", "2026-07-19T22:40:00.479Z", "books/book-01/manuscript/chapters/chapter-15.md", "dec0c4baa2aa0d795e55cc6f82e3b0a4b75c9035b107615adbc0f5a4423eadac", 18012]
+      - [chapter-16.docx, "1VwraMAwoY9Vdit1AWmApGcI1cyunlccj", "https://drive.google.com/file/d/1VwraMAwoY9Vdit1AWmApGcI1cyunlccj/view", "2026-07-19T22:40:00.536Z", "books/book-01/manuscript/chapters/chapter-16.md", "cf3546634922ff797751143ee57aef5cd83d7e5709547d157544e6df8a5f20b1", 18387]
+      - [chapter-17.docx, "1IFYpDkpsYEzb4KbCdvCvwqoSsIOCPyhl", "https://drive.google.com/file/d/1IFYpDkpsYEzb4KbCdvCvwqoSsIOCPyhl/view", "2026-07-19T22:40:00.591Z", "books/book-01/manuscript/chapters/chapter-17.md", "ddf8059781ab751be1eacc4ccac42c49203943b60889f511299293838e9142bd", 17770]
+      - [chapter-18.docx, "1ULYGzMMwVv3zhM-crJ-88rm3qH9Hseol", "https://drive.google.com/file/d/1ULYGzMMwVv3zhM-crJ-88rm3qH9Hseol/view", "2026-07-19T22:40:00.644Z", "books/book-01/manuscript/chapters/chapter-18.md", "ac7eeca567c95dd98200f86052a3be99fbb64e531e69e2fe1ba681d486bf1106", 18695]
+      - [chapter-19.docx, "1HLEemsvIOAe1PFu2SBoGkIaSemW_Cy3E", "https://drive.google.com/file/d/1HLEemsvIOAe1PFu2SBoGkIaSemW_Cy3E/view", "2026-07-19T22:40:00.692Z", "books/book-01/manuscript/chapters/chapter-19.md", "28adc317ce6e1adbf275679c5d86bd103b14caeec6133482e87fb2e724462ec9", 18351]
+      - [chapter-20.docx, "10XgWUJQvxDmQQqyzSUUQas8mESnhKHvD", "https://drive.google.com/file/d/10XgWUJQvxDmQQqyzSUUQas8mESnhKHvD/view", "2026-07-19T22:40:00.749Z", "books/book-01/manuscript/chapters/chapter-20.md", "db64cbed48bb662e55809924f44ddb5d5c824824bd96e51a159d22529007b05d", 17055]
+      - [chapter-21.docx, "1TWa2T8Mrxs5ErMD2_5O7sD7s53u21bV1", "https://drive.google.com/file/d/1TWa2T8Mrxs5ErMD2_5O7sD7s53u21bV1/view", "2026-07-19T22:40:00.805Z", "books/book-01/manuscript/chapters/chapter-21.md", "56f9e0c55a24d04a8367aa29ef6b43a77999dc8669d9363e85d0c60d907247d3", 17299]
+      - [chapter-22.docx, "1bsMHvOHgRU-FEDAR8bHIeHpkT-h1lu9x", "https://drive.google.com/file/d/1bsMHvOHgRU-FEDAR8bHIeHpkT-h1lu9x/view", "2026-07-19T22:40:00.856Z", "books/book-01/manuscript/chapters/chapter-22.md", "9f6812b94f7a77674fff001b3d50a414feb06fbaf759e8f7ccd4336f8c02d751", 18078]
+      - [chapter-23.docx, "1vcTTaNj8PdzuvDmSCwWD0TB0CQYIXQOV", "https://drive.google.com/file/d/1vcTTaNj8PdzuvDmSCwWD0TB0CQYIXQOV/view", "2026-07-19T22:40:00.914Z", "books/book-01/manuscript/chapters/chapter-23.md", "00c6df266f38d6abf2fa624bdb8c6c31dc746b0e6154fdcd08aa9347f45b6625", 18658]
+      - [chapter-24.docx, "1S3n0HriEyLAdNQwgJpErFNOholIhPU8m", "https://drive.google.com/file/d/1S3n0HriEyLAdNQwgJpErFNOholIhPU8m/view", "2026-07-19T22:40:00.979Z", "books/book-01/manuscript/chapters/chapter-24.md", "4b98d962d22e1baaa714bfdcc67bdd2ba3ed7f85761fda04146517ce1883fbaf", 19149]
+
+  - name: book1_outline_reference_docx
+    common:
+      mime_type: "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+      source_checksum_type: "sha256_raw_file"
+      github_counterpart_exists: true
+      migration_status: pending_comparison
+    item_fields: [drive_title, drive_file_id, drive_url, last_modified, proposed_github_destination, classification, source_sha256, source_bytes, notes]
+    items:
+      - ["Open Plot Threads & Payoff Matrix.docx", "1Jr2s4tZHZpn9Ea00WXW95DBtm4aOJrfc", "https://drive.google.com/file/d/1Jr2s4tZHZpn9Ea00WXW95DBtm4aOJrfc/view", "2026-07-19T22:39:59.445Z", "books/book-01/control/15-open-plot-threads-and-payoff-matrix.md", duplicate, "10ed9b568e876032d4eec66ecdfea9222224f26bb6f4d4609adebd34b1192455", 13531, "Byte-identical to FINAL Drive copy."]
+      - ["Antagonist Objectives & Conspiracy Model.docx", "1XM2oD2G31EH7KeHDsxMbpNUBthBsYM6O", "https://drive.google.com/file/d/1XM2oD2G31EH7KeHDsxMbpNUBthBsYM6O/view", "2026-07-19T22:39:59.387Z", "books/book-01/control/antagonist-objectives-and-conspiracy-model.md", reference, "da4258454d0d5219b8e35eba773d26796ae077b5a18fb7f023276248e63389c6", 12136, "Byte-identical to Series Bible reference copy."]
+      - ["Relationship & Trust Matrix.docx", "1RzFVNo79QTYZiF_gD_rM3dKWix05UbBA", "https://drive.google.com/file/d/1RzFVNo79QTYZiF_gD_rM3dKWix05UbBA/view", "2026-07-19T22:39:59.342Z", "books/book-01/control/relationship-and-trust-matrix.md", reference, "985129169315a75a229557c55a4d58a95d2dac9026f05b20320d282d7e3790a9", 12424, "Compare for information not represented in current controls."]
+      - ["Master Timeline.docx", "1k3laTgdQMEKq4W6loqAtAtpDrKNCZkb3", "https://drive.google.com/file/d/1k3laTgdQMEKq4W6loqAtAtpDrKNCZkb3/view", "2026-07-19T22:39:59.288Z", "books/book-01/control/master-timeline.md", historical, "7375de11050af3a1340762fc1f6e01f117e6fb5b46654d731bd871e90c75026d", 12308, "Byte-identical to Series Bible source snapshot; stops through Chapter 23."]
+      - ["Story Premise & Dramatic Engine.docx", "1MWEcxyTi6QCB2P1YZxTctDOl_mkDarGU", "https://drive.google.com/file/d/1MWEcxyTi6QCB2P1YZxTctDOl_mkDarGU/view", "2026-07-19T22:39:59.241Z", "books/book-01/control/story-premise-and-dramatic-engine.md", reference, "1b916b516d00811f2441367392b90c665752bfc91e1c5ee95b247aaa16346b29", 16124, "Current manuscript and accepted controls outrank it."]
+
+  - name: book1_external_assets
+    common:
+      source_checksum_type: "sha256_raw_file"
+      proposed_github_destination: "books/book-01/production/EXTERNAL_ASSETS.yaml"
+      classification: binary_external
+      github_counterpart_exists: true
+      migration_status: migrated_metadata
+    item_fields: [drive_title, drive_file_id, drive_url, mime_type, last_modified, source_sha256, source_bytes, notes]
+    items:
+      - [cover.jpg, "123KLeaO9TTCk57vRmOzbB62ZvJggV1OZ", "https://drive.google.com/file/d/123KLeaO9TTCk57vRmOzbB62ZvJggV1OZ/view", image/jpeg, "2026-07-19T23:34:17.401Z", "60dcd6293a0338ac40db5f281d8a6178c69d31e26dd6d7928ab01264cf2a23a3", 1072342, "1600x2560 RGB; checksum differs from approved PR #92 cover."]
+      - [cover_square.jpg, "1b0PHwPXkYrq7_bOYPpNtE1v8TQIdzaHN", "https://drive.google.com/file/d/1b0PHwPXkYrq7_bOYPpNtE1v8TQIdzaHN/view", image/jpeg, "2026-07-19T23:34:17.404Z", "34520587681f05aeafaf893f199846ab991b54fef18b6e611a2e180eeb27ed6a", 200475, "2560x2560 RGB derivative; approval state not established."]
+      - [Veridrift.m4b, "1zQEyG-8ioI-hz4owwPRBzQg42qxeIRUs", "https://drive.google.com/file/d/1zQEyG-8ioI-hz4owwPRBzQg42qxeIRUs/view", audio/mp4, "2026-07-19T22:30:00.000Z", "472491a66c16f19005d08c39ca77bd29b8452c5bb9c03ed7e44b4ff6efc52ba5", 299783563, "Large audiobook binary retained in Drive; approval/release state not established."]
+
+  - name: book2_control_google_docs
+    common:
+      mime_type: "application/vnd.google-apps.document"
+      source_checksum_type: "sha256_raw_export"
+      github_counterpart_exists: false
+      migration_status: pending_import
+    item_fields: [drive_title, drive_file_id, drive_url, last_modified, proposed_github_destination, classification, source_sha256, source_bytes, notes]
+    items:
+      - ["00 - README - Book 2 Control Center", "1srPFcZCe3wZ3v8lEFXn-u03taaHfcqPKBCE6DuWZQtg", "https://docs.google.com/document/d/1srPFcZCe3wZ3v8lEFXn-u03taaHfcqPKBCE6DuWZQtg/edit", "2026-07-26T02:05:55.799Z", "books/book-02/control/00-overview.md", authoritative, "7faf644ffa9937349496080f004d95a469e8d7c1c0b7ecc41d09455812349f94", 5338, "Drive authority wording will be superseded only where necessary."]
+      - ["01 - Book 1 to Book 2 Canon Handoff", "1nsbP6uqh56gmXiEU2xZsclmoHt_XCOoALU01oRltsrk", "https://docs.google.com/document/d/1nsbP6uqh56gmXiEU2xZsclmoHt_XCOoALU01oRltsrk/edit", "2026-07-20T02:29:58.919Z", "books/book-02/control/01-book1-to-book2-canon-handoff.md", authoritative, "327b7bdbf963eb0599d7e23b36dd2e12d07560af398e6c536d786d077a9774f0", 6684, ""]
+      - ["02 - Book 2 Development Blueprint", "1yWw_Sd63mY5CaEik5u8lR5RzLlqFqH0yfwp1DiB4ZVw", "https://docs.google.com/document/d/1yWw_Sd63mY5CaEik5u8lR5RzLlqFqH0yfwp1DiB4ZVw/edit", "2026-07-20T21:16:29.501Z", "books/book-02/control/02-development-blueprint.md", authoritative, "6d216273b561984840fcf28f65f3b99d46b2e7e893b523055ad3eedb05dce6f0", 6370, ""]
+      - ["03 - Book 2 Decision Log & Canon Ledger", "19UxBut4TxCOLoXjWCDc-_8ixLMJqeX0rrewSadbqxvY", "https://docs.google.com/document/d/19UxBut4TxCOLoXjWCDc-_8ixLMJqeX0rrewSadbqxvY/edit", "2026-07-26T01:03:24.215Z", "books/book-02/control/03-decision-log-and-canon-ledger.md", authoritative, "25ac7ed619bddf8b101375aa8dc9ef917c67041a50d77d67e2b7488eada37125", 648142, "Preserve all 149 locked decisions; do not summarize."]
+      - ["04 - Book 2 Premise & Story Architecture Lock", "1Ii27Q_3Fc2UtrWnTzEu7dyt7O4VmmRyCeDs97IkBnhc", "https://docs.google.com/document/d/1Ii27Q_3Fc2UtrWnTzEu7dyt7O4VmmRyCeDs97IkBnhc/edit", "2026-07-25T23:58:04.830Z", "books/book-02/control/04-premise-and-story-architecture-lock.md", authoritative, "865d9b593848986e47024ce212fc6a8c4d86d203d0deefb3792a0611b6037e3a", 533699, "Preserve governing architecture intact."]
+      - ["08 - Book 2 Chapter 1 Drafting Authorization and Draft Status", "1tIYwxyDHOmhbi4C-2SJJdpIhE6xbxbtFy-6tHAwfiNQ", "https://docs.google.com/document/d/1tIYwxyDHOmhbi4C-2SJJdpIhE6xbxbtFy-6tHAwfiNQ/edit", "2026-07-26T01:02:51.290Z", "books/book-02/control/08-chapter-01-drafting-authorization.md", reference, "f4f7ec5f65e1b107df8a9236914288c04bfef0540adbda8cd04c2e4110bc4072", 8695, "Retain as drafting provenance; formal acceptance record controls current state."]
+      - ["09 - Book 2 Chapter 1 Formal Acceptance and Revision Review", "1zLFocGhJk2tubBnIuUspbYVJ8d4aEDd4CzSCH0WHfk0", "https://docs.google.com/document/d/1zLFocGhJk2tubBnIuUspbYVJ8d4aEDd4CzSCH0WHfk0/edit", "2026-07-26T01:04:31.557Z", "books/book-02/control/09-chapter-01-acceptance-review.md", authoritative, "325fe158d2d053382f8db8ad28f095ace3e212a2a45a794470bc5289cba4a664", 10163, "Must remain linked to accepted Chapter 1."]
+      - ["10 - Book 2 Chapter 2 Drafting Authorization and Manuscript Drafting", "1NwdmKEmD1FwJTwRYcKsYI_mMX2cGJmzQUgehh6N4PkE", "https://docs.google.com/document/d/1NwdmKEmD1FwJTwRYcKsYI_mMX2cGJmzQUgehh6N4PkE/edit", "2026-07-26T02:05:18.363Z", "books/book-02/control/10-chapter-02-drafting-authorization.md", authoritative, "bba64a59e68e70052c68fe880f9683a43b9f3ddb47c6aed984b3759d5c714312", 11080, "Must remain linked to draft Chapter 2; does not establish acceptance."]
+
+  - name: book2_outline_google_docs
+    common:
+      mime_type: "application/vnd.google-apps.document"
+      source_checksum_type: "sha256_raw_export"
+      github_counterpart_exists: false
+      migration_status: pending_import
+    item_fields: [drive_title, drive_file_id, drive_url, last_modified, proposed_github_destination, classification, source_sha256, source_bytes, notes]
+    items:
+      - ["00 - Book 2 Premise Options - WORKING", "1WXG7ybHuGbABPchsIdDihw5BXfc1rwaAc7aL6PxXBwI", "https://docs.google.com/document/d/1WXG7ybHuGbABPchsIdDihw5BXfc1rwaAc7aL6PxXBwI/edit", "2026-07-20T02:36:49.479Z", "books/book-02/outline/premise-options-working.md", draft, "e52ec244e2affc06de6500c6b1f004a766e09e3750214a742558094e590f93f4", 2841, "Working options remain non-canon."]
+      - ["01 - Prologue Situation & Scene Lock - Duffield Data Center Fire", "1IT3MACH6yWtpLeD0R7rSCpdwSoql6jK7WGTPPVbTmy0", "https://docs.google.com/document/d/1IT3MACH6yWtpLeD0R7rSCpdwSoql6jK7WGTPPVbTmy0/edit", "2026-07-20T03:47:18.142Z", "books/book-02/outline/prologue-situation-and-scene-lock.md", authoritative, "101dc249fe0adc81768b1dfe86c2c5330dfafc80fa81cf95e9175ba56aaf46c6", 17138, "Prologue remains undrafted."]
+      - ["06 - Book 2 Chapter Architecture", "1tUtzfReq1ZE-9XOd4PQsMx1h3CrnoHpOTAfik1PVtBs", "https://docs.google.com/document/d/1tUtzfReq1ZE-9XOd4PQsMx1h3CrnoHpOTAfik1PVtBs/edit", "2026-07-25T23:54:11.237Z", "books/book-02/outline/chapter-architecture.md", authoritative, "2dbf1a9c990b8d2e53d961ac7f218a356732f53fa7b03523554b1f192ce2965f", 35510, ""]
+      - ["07 - Book 2 Scene Architecture and Chapter Mission Locks", "1mHFwxEa3Nk9q0KYQwyqYYPc9Eokqh0L9-eJoL3Z19w4", "https://docs.google.com/document/d/1mHFwxEa3Nk9q0KYQwyqYYPc9Eokqh0L9-eJoL3Z19w4/edit", "2026-07-25T23:58:41.922Z", "books/book-02/outline/scene-architecture-and-mission-locks.md", authoritative, "64e640ec6a1a9d5cd46343eb2f6278a2ca7cbcff476bf7af5fee6fcf0b95d0f6", 266945, "Preserve mission locks intact."]
+
+  - name: book2_manuscript_google_docs
+    common:
+      mime_type: "application/vnd.google-apps.document"
+      source_checksum_type: "sha256_raw_export"
+      github_counterpart_exists: false
+    item_fields: [drive_title, drive_file_id, drive_url, last_modified, proposed_github_destination, classification, migration_status, source_sha256, source_bytes, notes]
+    items:
+      - [chapter-01, "15WoBAXw62URgJnlHjVnmtjf4Z_jMfFwzAwEa1yQ79M4", "https://docs.google.com/document/d/15WoBAXw62URgJnlHjVnmtjf4Z_jMfFwzAwEa1yQ79M4/edit", "2026-07-26T00:58:29.308Z", "books/book-02/manuscript/chapter-01.md", accepted, pending_import_and_verification, "7e86abcf7fd156c3e564b58f3997bd6113541bda86db2c33ea13c1f7fdda21d1", 18655, "Formally accepted; acceptance record must remain linked."]
+      - [chapter-02, "1UTI-4gTG7mqJ7F-sqOZqDpchhWQuQADm_cqWCLalmvY", "https://docs.google.com/document/d/1UTI-4gTG7mqJ7F-sqOZqDpchhWQuQADm_cqWCLalmvY/edit", "2026-07-26T01:56:27.187Z", "books/book-02/manuscript/chapter-02.md", draft, pending_import_and_verification, "c254a4d84d764b3279a095e7c93ba336460088d6163c4d5d08a304db4849eb1d", 18822, "Draft complete and pending formal acceptance; never enter accepted manifest."]
