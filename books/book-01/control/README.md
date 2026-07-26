@@ -1,6 +1,6 @@
 # Book 1 Control Pack
 
-Accepted prose and `../ACCEPTED_MANUSCRIPT.yaml` control canon. This directory records continuity, evidence, knowledge, technology, institutional authority, proof ceilings, editorial history, publication validation, and production-proof requirements.
+Accepted prose and `../ACCEPTED_MANUSCRIPT.yaml` control canon. This directory records continuity, evidence, knowledge, technology, institutional authority, proof ceilings, editorial history, publication validation, and production-package evidence.
 
 ## Current accepted state
 
@@ -12,9 +12,10 @@ Accepted prose and `../ACCEPTED_MANUSCRIPT.yaml` control canon. This directory r
 - Controlled final proofread: **complete; PR #84 merged**
 - Open proofreading queries: **0**
 - Editorial state: **publication master frozen**
-- Publication state: **not approved for publication**
-- Current gate: **production-proof generation and manual approval**
-- Readiness field: `proofread_and_production_required`
+- Publication state: **final package validated and cleared in PR #92**
+- Readiness field: `publication_ready_upload_ready`
+- Authoritative package merge commit: `9708fdd86e9292a75b7683152c7746567f015cc6`
+- Retail release state: **not established by repository evidence**
 - Preserved ending: **The bubble stayed centered.**
 
 `../ACCEPTED_MANUSCRIPT.yaml` is the sole canonical prose inventory. Historical drafts, archived files, the obsolete twelve-chapter Word export, generated review compilations, and prose outside the manifest inventory are not manuscript authority.
@@ -38,6 +39,12 @@ These are deliberate series threads, not Book 1 continuity gaps.
 - Final proofread report: `64-final-proofread-report.md`
 - Final proofread query log: `65-final-proofread-query-log.md`
 - Publication-master freeze: `66-publication-master-freeze.md`
+- Production package build record: `67-production-package-build.md`
+- Production proof approval: `69-production-proof-approval.md`
+- Final package manifest: `../production/final/Veridrift_Final_Package_Manifest.json`
+- Final publication review: `../production/final/Veridrift_Final_Publication_Review.md`
+- Final package checksums: `../production/final/CHECKSUMS.sha256`
+- External asset provenance: `../production/EXTERNAL_ASSETS.yaml`
 
 ## Future prose-change policy
 
@@ -52,4 +59,4 @@ Any later accepted-prose change requires:
 
 ## Next authorized stage
 
-Generate Word, EPUB, and print-PDF production proofs from the accepted manifest, then manually inspect and approve them. No production file was generated during the freeze task.
+Perform a retailer-specific preview immediately before upload and record retailer upload or release status when it occurs. These are distribution actions, not unresolved manuscript or package defects.
