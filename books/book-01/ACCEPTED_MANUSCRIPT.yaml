@@ -1,7 +1,7 @@
 version: 2
 book: 1
 title: "Veridrift"
-status: "developmentally_revised"
+status: "publication_master_frozen"
 generated_on: "2026-07-18"
 developmental_revision_completed: "2026-07-18"
 publication_rhythm_pass_completed: "2026-07-18"
@@ -9,7 +9,12 @@ copyedit_completed: "2026-07-18"
 copyedit_merge_commit: "a722b99bc41314c62ae99c35b960d6274a0681ab"
 author_copyedit_review_completed: "2026-07-18"
 specialist_documentation_disposition: "author_waived_formal_gate"
-publication_readiness: "proofread_and_production_required"
+publication_readiness: "publication_ready_upload_ready"
+publication_package_pull_request: 92
+publication_package_merge_commit: "9708fdd86e9292a75b7683152c7746567f015cc6"
+publication_package_status: "cleared_as_frozen_publication_package"
+retail_release_status: "not_established_by_repository"
+prose_frozen: true
 target_words_min: 105000
 target_words_max: 110000
 total_accepted_words: 105157
