@@ -40,6 +40,10 @@ jobs:
           ]
           payload = ''.join((base / name).read_text(encoding='ascii') for name in names)
           source = zlib.decompress(base64.b64decode(payload)).decode('utf-8')
+          out = Path('/tmp/book1-builder-diagnostic')
+          out.mkdir(parents=True, exist_ok=True)
+          (out / 'decoded-builder-source.py').write_text(source, encoding='utf-8')
+          report = []
           for token in (
               'developmentally_revised',
               'proofread_and_production_required',
@@ -47,14 +51,21 @@ jobs:
               'publication_ready_upload_ready',
               'production_proofs_generated_pending_manual_approval',
           ):
-              print(f'TOKEN {token!r}: {source.count(token)}')
+              report.append(f'TOKEN {token!r}: {source.count(token)}')
               for match in list(re.finditer(re.escape(token), source))[:5]:
                   start = max(0, match.start() - 220)
                   end = min(len(source), match.end() + 220)
-                  print(source[start:end].replace('\n', '\\n'))
+                  report.append(source[start:end])
           start = source.find('def load_context')
           end = source.find('\ndef ', start + 5)
-          print('LOAD_CONTEXT_BEGIN')
-          print(source[start:end])
-          print('LOAD_CONTEXT_END')
+          report.extend(['LOAD_CONTEXT_BEGIN', source[start:end], 'LOAD_CONTEXT_END'])
+          (out / 'manifest-state-report.txt').write_text('\n\n'.join(report), encoding='utf-8')
+          print('\n\n'.join(report))
           PY
+      - name: Upload builder diagnostic
+        uses: actions/upload-artifact@v4
+        with:
+          name: book1-builder-state-diagnostic
+          path: /tmp/book1-builder-diagnostic/
+          if-no-files-found: error
+          retention-days: 1
