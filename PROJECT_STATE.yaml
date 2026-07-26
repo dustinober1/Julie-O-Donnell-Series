@@ -7,20 +7,27 @@ series:
   status: "active"
 
 repository:
-  branch_policy: "main remains protected; developmental and publication-readiness changes are reviewed through PR"
+  authority: "GitHub is the sole active source of truth"
+  branch_policy: "main remains protected; developmental, acceptance, migration, and publication-readiness changes are reviewed through PR"
   book_1_source_of_truth: "books/book-01/ACCEPTED_MANUSCRIPT.yaml"
-  updated: "2026-07-19"
+  drive_role: "archived snapshots, review copies generated from GitHub, large production binaries, and nontechnical collaborator distribution only"
+  updated: "2026-07-25"
 
 book_1:
   title: "Veridrift"
-  status: "publication_master_frozen"
-  publication_readiness: "proofread_and_production_required"
+  authoritative_commit: "9708fdd86e9292a75b7683152c7746567f015cc6"
+  final_package_pull_request: 92
+  status: "publication_package_frozen_and_cleared"
+  publication_readiness: "publication_ready_upload_ready"
+  release_status: "not_established_by_repository"
+  prose_frozen: true
   accepted_words: 105157
   target_words_min: 105000
   target_words_max: 110000
   structure:
     prologue: "accepted"
     chapters: 24
+    accepted_files: 25
     crisis_day: "October 13"
     investigation_and_release: "October 14-16"
   revision_completed: "2026-07-18"
@@ -38,15 +45,20 @@ book_1:
   copyedit_pull_request: 82
   copyedit_merge_commit: "a722b99bc41314c62ae99c35b960d6274a0681ab"
   author_copyedit_review_completed: "2026-07-18"
-  content_freeze: "editorial prose frozen as the Book 1 publication master; production proofs remain required"
+  final_package_completed: "2026-07-19"
+  final_package_validation: "pass"
+  final_package_approval: "cleared_as_frozen_publication_package"
+  final_package_records: "books/book-01/production/final/"
+  external_assets_record: "books/book-01/production/EXTERNAL_ASSETS.yaml"
+  content_freeze: "accepted Markdown prose remains frozen; production binaries are derived outputs and not independent prose authorities"
   preserved_ending: "The bubble stayed centered."
   open_series_threads:
     - "human or upstream instruction behind the original 02:14 construction"
     - "Senator Sterling's personal knowledge, direction, intent, possession, operation, or command"
   required_next_steps:
-    - "generate Word, EPUB, and print-PDF production proofs from the manifest inventory"
-    - "manually inspect and approve each production proof"
-    - "confirm every approved output matches the publication master before publication"
+    - "perform a retailer-specific preview immediately before upload"
+    - "record retailer upload or release status when it occurs"
+    - "make any future prose correction only through an explicit correction record and reviewed PR"
 
 quality_controls:
   publication_readiness_validator: "tools/validate_book1_publication_readiness.py"
@@ -60,4 +72,7 @@ quality_controls:
   final_proofread_report: "books/book-01/control/64-final-proofread-report.md"
   final_proofread_query_log: "books/book-01/control/65-final-proofread-query-log.md"
   publication_master_freeze: "books/book-01/control/66-publication-master-freeze.md"
-  current_validation: "complete local publication-master validation at 105157 accepted words; editorial prose frozen; production proof generation and manual approval pending"
+  final_publication_review: "books/book-01/production/final/Veridrift_Final_Publication_Review.md"
+  final_package_manifest: "books/book-01/production/final/Veridrift_Final_Package_Manifest.json"
+  final_checksums: "books/book-01/production/final/CHECKSUMS.sha256"
+  current_validation: "PR #92 records a complete final package validation: DOCX, EPUB, print PDF, cover, ledger, metadata, package manifest, and checksums passed; no manuscript or package defect remains open"
