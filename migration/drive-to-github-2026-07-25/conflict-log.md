@@ -9,31 +9,39 @@
 
 ## C-001 — Stale Book 1 publication status
 
-**Status:** resolved in `migration/reconcile-book1-status`  
+**Status:** resolved in PR #93  
 **GitHub baseline:** `9708fdd86e9292a75b7683152c7746567f015cc6`  
 **Evidence:** PR #92 final package manifest, validations, publication review, change log, closed ledger, and checksums.
 
-Several state files still said production proofs were pending. PR #92 records that the final DOCX, EPUB, print PDF, cover, metadata, ledger, and package archive were generated, validated, and cleared. The stale state files are reconciled without changing accepted manuscript prose.
+Several state files still said production proofs were pending. PR #92 records that the final DOCX, EPUB, print PDF, cover, metadata, ledger, and package archive were generated, validated, and cleared. PR #93 reconciled the stale state files without changing accepted manuscript prose.
 
 ## C-002 — Drive-native Book 1 Prologue
 
-**Status:** isolated; normalized line comparison pending the series-bible PR  
+**Status:** isolated; substantive correction requires author decision  
 **Drive source:** `prologue`, file ID `1upUvx5RV-ToSFLLc5k_mQQZhjerethTDWi5PiXPEoAg`, modified `2026-07-21T02:39:35.504Z`  
 **Drive export SHA-256:** `ddb58d8162c32ba1e573e7308c69f0e79e4e687e6f390b93408126457ed91699`  
 **GitHub source:** `books/book-01/manuscript/prologue.md` at baseline commit `9708fdd86e9292a75b7683152c7746567f015cc6`  
 **Accepted manifest SHA-256:** `9f1285a83b3379b8f34ced719ad7b2d9d79b645a8eb5587aa38822710683506e`
 
-Known substantive candidate: Drive says `At 0214 hours`; the publication master says `At 0214`. No change is applied automatically.
+Normalized comparison found:
+
+- Drive wording `At 0214 hours` versus accepted Markdown `At 0214`;
+- a Drive-only scene break after `That was the first lie.`;
+- formatting-only display and whitespace differences.
+
+The Drive wording and scene break remain non-authoritative. A third source—the approved production correction—uses `At 02:14`. That source/package synchronization issue is isolated in `book1-variants/prologue-correction-proposal.md`; no accepted prose changed in this migration PR.
 
 ## C-003 — Drive-native Book 1 Chapter 1
 
-**Status:** isolated; normalized line comparison pending the series-bible PR  
+**Status:** resolved as accidental or isolated Drive structural divergence  
 **Drive source:** `chapter-01`, file ID `1cUkrfYZ8093yVZCjOIz2wsiLPXebMIWLzxNcU3Vzfgw`, modified `2026-07-21T02:46:16.857Z`  
 **Drive export SHA-256:** `b13fff8fe3242b28775501e0b5396c908235f55d7198d7aec1f58f72acdb1ed8`  
 **GitHub source:** `books/book-01/manuscript/chapters/chapter-01.md` at baseline commit `9708fdd86e9292a75b7683152c7746567f015cc6`  
 **Accepted manifest SHA-256:** `36a1dc970b84ab0e2b76c856f83dd4d35dff405bfd9219854d8fbbd2f8d0c8c7`
 
-No Drive text is promoted until the normalized comparison identifies each difference and its authority classification.
+After display and whitespace normalization, lexical prose matches. Drive alone inserts a scene break before `Julie carried the shotgun into the house. At 10:43...`. The accepted GitHub chapter remains authoritative; no correction is proposed.
+
+The exact Drive file remains preserved in the nonauthoritative Drive archive under its immutable ID and export checksum. The GitHub comparison record preserves the exact conflict location and disposition.
 
 ## C-004 — Drive rectangular cover differs from approved package cover
 
@@ -49,11 +57,11 @@ The Drive file is 1600 × 2560 RGB JPEG but is not byte-identical to the approve
 **Status:** resolved by explicit supersession  
 **Affected Drive documents:** Series Bible Authority README, Book 1 Series Continuity README, and Book 2 Control Center.
 
-Statements declaring Drive the sole authority are preserved as historical source text but are superseded by the 2026-07-25 migration decision. Imported active documents will state GitHub authority while retaining exact Drive IDs and export checksums in provenance records.
+Statements declaring Drive the sole authority are preserved as historical source text but are superseded by the 2026-07-25 migration decision. Imported active documents state GitHub authority while retaining exact Drive IDs and export checksums in provenance records.
 
 ## C-006 — Duplicate Drive controls
 
-**Status:** resolved at byte-identity level; GitHub counterpart comparison pending where applicable
+**Status:** resolved; duplicate copies are not duplicated as active GitHub controls
 
 - Book 1 canon handoff and Book 2 canon handoff export to the same SHA-256: `327b7bdbf963eb0599d7e23b36dd2e12d07560af398e6c536d786d077a9774f0`.
 - Two Drive recurring-character ledger DOCX files share SHA-256 `d40a7dffb38cd65127491bde9c66fc4c6ddafed57c2848d5aaf3e4602a311187`.
@@ -61,4 +69,4 @@ Statements declaring Drive the sole authority are preserved as historical source
 - Two Drive master-timeline DOCX files share SHA-256 `7375de11050af3a1340762fc1f6e01f117e6fb5b46654d731bd871e90c75026d`.
 - Two Drive antagonist-objective DOCX files share SHA-256 `da4258454d0d5219b8e35eba773d26796ae077b5a18fb7f023276248e63389c6`.
 
-Duplicate Drive copies will not become duplicate active GitHub controls.
+Existing GitHub recurring-character, plot-thread, house-style, timeline, and continuity controls remain active where they already contain the same or later governing information. The new series-level canon and clock handoffs fill genuine gaps. The legacy architecture is retained under `series/archive/` and is explicitly nonauthoritative.

@@ -3,6 +3,7 @@
 **Migration:** Google Drive to GitHub  
 **Date opened:** 2026-07-25  
 **GitHub baseline:** `9708fdd86e9292a75b7683152c7746567f015cc6`  
+**Book 1 reconciliation merge:** `854a3cfeed94cf5b2013c39c8c28ccf98db133a0`  
 **Status:** in progress
 
 ## Inventory verification
@@ -21,16 +22,16 @@
 
 ## Book 1 publication-state verification
 
-- [x] Live main head confirmed as `9708fdd86e9292a75b7683152c7746567f015cc6`.
+- [x] Initial live main head confirmed as `9708fdd86e9292a75b7683152c7746567f015cc6`.
 - [x] PR #92 inspected.
 - [x] PR #92 changed no accepted Markdown manuscript file.
 - [x] Final package manifest inspected.
 - [x] Final publication review inspected.
 - [x] Final EPUB and print validation records inspected.
 - [x] Final output checksums preserved.
-- [x] Stale root and Book 1 status files reconciled on a focused branch.
+- [x] Stale root and Book 1 status files reconciled and merged in PR #93.
 - [x] Accepted manifest remains exactly 25 prose files and 105,157 accepted words.
-- [x] No Book 1 manuscript prose changed in the status-reconciliation branch.
+- [x] No Book 1 manuscript prose changed in PR #93.
 - [x] Retail release status left unclaimed because repository evidence establishes upload readiness, not actual retailer release.
 
 ## Book 1 immutable content checks
@@ -40,9 +41,13 @@
 - [x] Final line remains `The bubble stayed centered.`
 - [x] Original 02:14 constructor remains unidentified.
 - [x] Senator Sterling's personal knowledge, direction, intent, possession, operation, or command remains unestablished.
-- [ ] Drive-native Prologue normalized comparison completed.
-- [ ] Drive-native Chapter 1 normalized comparison completed.
-- [ ] Any substantive difference isolated as a proposed correction rather than applied.
+- [x] Drive-native Prologue normalized comparison completed.
+- [x] Drive-native Chapter 1 normalized comparison completed.
+- [x] Substantive Prologue difference isolated as a proposed correction rather than applied.
+- [x] Drive-only Prologue and Chapter 1 scene breaks classified as nonauthoritative divergences.
+- [x] Final Book 1-to-series canon handoff imported with exact Drive provenance.
+- [x] Final Book 1 timeline/clock handoff imported with exact Drive provenance.
+- [x] Legacy series architecture retained under `series/archive/` as historical reference only.
 
 ## Book 2 verification
 
@@ -75,7 +80,7 @@
 - [ ] Every authoritative or active Drive document has a GitHub destination.
 - [ ] Every duplicate or historical file has a documented disposition.
 - [ ] All substantive conflicts are resolved or isolated.
-- [ ] Book 1 publication status is internally consistent on `main`.
+- [x] Book 1 publication status is internally consistent on `main` after PR #93.
 - [ ] Book 2 Chapter 1 is accepted in GitHub.
 - [ ] Book 2 Chapter 2 remains draft-only in GitHub.
 - [ ] Root governance requires GitHub-first review and acceptance.
