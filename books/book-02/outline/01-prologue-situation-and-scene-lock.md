@@ -6,16 +6,26 @@ Drive parent: 02_BOOK 2/02_Outline & Beats
 Drive modified: 2026-07-20T03:47:18.142Z
 Imported: 2026-08-04
 Import method: Google Drive MCP read_file_content text representation
-Authority: LOCKED FOR DEVELOPMENT. The prologue remains undrafted.
+Authority: SUPERSEDED. Retained as development provenance only. Do not draft from this file.
 Normalization: line endings, Google-export escape sequences, and heading levels only
-Reconciliation note: this lock predates the premise and chapter architecture locked
-2026-07-25 and the drafted Chapter 1, which opens in Interior British Columbia in
-June 2027. Verify against 04-premise-and-story-architecture-lock.md before drafting.
+Supersession: 06-chapter-architecture.md (locked 2026-07-25) specifies a different prologue —
+"The Warning That Cannot Have Happened," veteran duty manager POV, dam control room,
+1,800-2,200 words. This Duffield data-center fire with Joel Stidham and Derek Sluss is not
+the current design. See migration/drive-to-github-2026-08-04/conflict-log.md, BC-02.
 -->
 
 # Book 2 Prologue Situation and Scene Lock
 
 ## Status
+
+**SUPERSEDED on import 2026-08-04.** `06-chapter-architecture.md`, locked five days after this
+document, specifies a different prologue: "The Warning That Cannot Have Happened," told from a
+veteran duty manager's POV in a dam control room at 1,800–2,200 words. The Duffield data-center
+fire described below is not the current Book 2 opening. This file is retained because its
+evidence-design and character work may still be reusable, and because discarding a locked
+document silently is exactly the failure the Book 1 audit was created to prevent.
+
+The original status line follows.
 
 LOCKED FOR DEVELOPMENT. This document controls the Book 2 prologue setting, facility identity, viewpoint character, disaster shape, thematic function, and scene sequence. Exact clock time, secondary-character identities, precise sabotage mechanism, and final prose remain open until separately locked.
 
