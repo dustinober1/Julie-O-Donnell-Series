@@ -1,6 +1,6 @@
 # 70. Book 1 Detail Continuity Audit — Plan
 
-**Status:** Proposed; awaiting author approval to execute
+**Status:** Phase 0 and the mechanical half of Phase 1 executed 2026-08-04. Results in `71-detail-continuity-findings.md`. The scene-card pass (D4–D7, D9 and rules R9–R14) is not yet run.
 **Author request:** Independent re-verification of Book 1 concrete detail, on the concern that detail tracking during original drafting was incomplete
 **Manuscript under audit:** Prologue + Chapters 1–24, `books/book-01/ACCEPTED_MANUSCRIPT.yaml`
 **Manuscript state:** `prose_frozen: true`, publication package cleared under PR #92

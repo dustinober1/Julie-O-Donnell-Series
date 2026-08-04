@@ -1,0 +1,5954 @@
+{
+  "counts": {
+    "R1": 6,
+    "R2": 68,
+    "R3": 29,
+    "R4": 12,
+    "R5": 76,
+    "R6": 149,
+    "R7": 4
+  },
+  "findings": [
+    {
+      "rule": "R2",
+      "severity": "review",
+      "summary": "ch08: scene header 04:58 Eastern Daylight Time steps back 0.00h with no date header",
+      "citations": [
+        "books/book-01/manuscript/chapters/chapter-08.md:5"
+      ]
+    },
+    {
+      "rule": "R6",
+      "severity": "review",
+      "summary": "Near-miss entity names 'Ford' (16x) and 'Fort' (6x)",
+      "citations": [
+        "books/book-01/manuscript/chapters/chapter-01.md:431 — …with Marcus for less than a second. The Ford was seventeen years old, dented above t…",
+        "books/book-01/manuscript/prologue.md:103 — …se. The noise was generated in a lab at Fort Belvoir.”"
+      ]
+    },
+    {
+      "rule": "R6",
+      "severity": "review",
+      "summary": "Near-miss entity names 'India' (8x) and 'Indian' (19x)",
+      "citations": [
+        "books/book-01/manuscript/chapters/chapter-04.md:184 — “The assessment is queued for India.”",
+        "books/book-01/manuscript/chapters/chapter-01.md:151 — “A shared intelligence package to Indian Northern Command.”"
+      ]
+    },
+    {
+      "rule": "R6",
+      "severity": "review",
+      "summary": "Near-miss entity names 'Pakistan' (9x) and 'Pakistani' (7x)",
+      "citations": [
+        "books/book-01/manuscript/prologue.md:3 — …ation: Forward Operating Base, Near the Pakistan Border",
+        "books/book-01/manuscript/chapters/chapter-01.md:649 — …hronized encrypted emissions from three Pakistani military installations. Movement models…"
+      ]
+    },
+    {
+      "rule": "R6",
+      "severity": "review",
+      "summary": "Near-miss entity names 'Service' (5x) and 'Services' (9x)",
+      "citations": [
+        "books/book-01/manuscript/chapters/chapter-03.md:122 — …call the Defense Criminal Investigative Service and have them take custody.”",
+        "books/book-01/manuscript/chapters/chapter-03.md:37 — “Daniel Mercer, Apex Protective Services. We have an administrative order to sec…"
+      ]
+    }
+  ],
+  "first_mentions": {
+    "Prologue": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 1
+    },
+    "Years": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 1
+    },
+    "Ago": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 1
+    },
+    "Location": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 3
+    },
+    "Forward": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 3
+    },
+    "Operating": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 3
+    },
+    "Base": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 3
+    },
+    "Near": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 3
+    },
+    "Pakistan": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 3
+    },
+    "Border": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 3
+    },
+    "Captain": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 5
+    },
+    "Julie": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 5
+    },
+    "O’Donnell": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 5
+    },
+    "Dust": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 5
+    },
+    "Argus": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 7
+    },
+    "Beta": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 7
+    },
+    "Sergeant": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 11
+    },
+    "Tom": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 11
+    },
+    "Baines": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 11
+    },
+    "Farid": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 11
+    },
+    "Anwar": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 11
+    },
+    "Confidence": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 13
+    },
+    "Wind": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 13
+    },
+    "Anwar’s": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 13
+    },
+    "Lieutenant": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 21
+    },
+    "Colonel": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 21
+    },
+    "Daniel": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 21
+    },
+    "Hargrove": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 21
+    },
+    "Major": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 21
+    },
+    "Marcus": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 21
+    },
+    "Reed": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 21
+    },
+    "Hargrove’s": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 21
+    },
+    "Conversation": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 23
+    },
+    "Reaper": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 33
+    },
+    "Americans": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 45
+    },
+    "Julie’s": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 65
+    },
+    "Overwatch": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 67
+    },
+    "Hammer": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 67
+    },
+    "Confirm": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 67
+    },
+    "Give": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 71
+    },
+    "Compare": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 77
+    },
+    "Use": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 77
+    },
+    "Analysts": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 79
+    },
+    "Identical": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 83
+    },
+    "Baines’s": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 83
+    },
+    "It’s": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 89
+    },
+    "Exercise": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 91
+    },
+    "Charlie": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 91
+    },
+    "Fort": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 103
+    },
+    "Belvoir": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 103
+    },
+    "She’s": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 105
+    },
+    "Abort": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 105
+    },
+    "Command": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 105
+    },
+    "Release": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 109
+    },
+    "Standing": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 109
+    },
+    "Target": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 113
+    },
+    "Push": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 125
+    },
+    "Rifle": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 135
+    },
+    "Weapon": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 139
+    },
+    "Burning": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 141
+    },
+    "Figures": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 141
+    },
+    "Operations": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 143
+    },
+    "Unknown": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 143
+    },
+    "Civilians": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 143
+    },
+    "Possible": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 143
+    },
+    "Movement": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 143
+    },
+    "Whoever": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 147
+    },
+    "Used": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 149
+    },
+    "Imran": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 149
+    },
+    "Khalid": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 149
+    },
+    "Army": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 177
+    },
+    "You’re": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 201
+    },
+    "Apex": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 221
+    },
+    "Defense": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 221
+    },
+    "Systems": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 221
+    },
+    "Cold": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 223
+    },
+    "Pain": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 237
+    },
+    "Arrogance": {
+      "unit": "prologue",
+      "path": "books/book-01/manuscript/prologue.md",
+      "line": 243
+    },
+    "Chapter": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 1
+    },
+    "Official": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 1
+    },
+    "Version": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 1
+    },
+    "Virginia": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 5
+    },
+    "Centered": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 9
+    },
+    "October": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 11
+    },
+    "Work": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 13
+    },
+    "Northern": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 15
+    },
+    "Chevrolet": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 19
+    },
+    "Suburban": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 19
+    },
+    "Tinted": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 21
+    },
+    "Clean": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 21
+    },
+    "You’ve": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 29
+    },
+    "Bad": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 51
+    },
+    "Sanitized": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 71
+    },
+    "I’m": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 73
+    },
+    "Signal": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 83
+    },
+    "Equipment": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 99
+    },
+    "Passed": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 101
+    },
+    "Replay": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 103
+    },
+    "Intelligence": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 113
+    },
+    "Automated": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 133
+    },
+    "Yesterday": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 141
+    },
+    "Ninety": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 141
+    },
+    "Indian": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 151
+    },
+    "Final": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 155
+    },
+    "Eastern": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 155
+    },
+    "United": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 161
+    },
+    "States": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 161
+    },
+    "India": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 161
+    },
+    "Come": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 171
+    },
+    "Reston": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 171
+    },
+    "Look": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 171
+    },
+    "That’s": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 191
+    },
+    "Culpeper": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 219
+    },
+    "Leland": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 223
+    },
+    "Price": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 223
+    },
+    "Slowly": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 267
+    },
+    "Don’t": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 277
+    },
+    "Good": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 281
+    },
+    "Raw": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 295
+    },
+    "Full": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 295
+    },
+    "Independent": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 297
+    },
+    "Meaning": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 305
+    },
+    "Probably": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 311
+    },
+    "Price’s": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 339
+    },
+    "Tracking": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 345
+    },
+    "Government": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 347
+    },
+    "Assume": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 347
+    },
+    "Warrenton": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 351
+    },
+    "Despite": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 365
+    },
+    "Find": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 417
+    },
+    "I’ll": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 419
+    },
+    "Try": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 421
+    },
+    "Route": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 431
+    },
+    "Ford": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 431
+    },
+    "Emmylou": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 431
+    },
+    "Harris": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 431
+    },
+    "Traffic": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 433
+    },
+    "Gainesville": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 433
+    },
+    "Past": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 433
+    },
+    "Manassas": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 433
+    },
+    "Power": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 433
+    },
+    "Building": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 441
+    },
+    "Concrete": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 443
+    },
+    "Identification": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 445
+    },
+    "Visitor": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 461
+    },
+    "Take": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 461
+    },
+    "Department": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 463
+    },
+    "Agency": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 463
+    },
+    "Corporate": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 463
+    },
+    "Cameras": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 469
+    },
+    "Sarah": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 487
+    },
+    "Chen": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 487
+    },
+    "Contractor": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 487
+    },
+    "Please": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 495
+    },
+    "Facility": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 503
+    },
+    "O’Donnell’s": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 513
+    },
+    "Director": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 515
+    },
+    "Vance": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 515
+    },
+    "Marcus’s": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 517
+    },
+    "Show": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 525
+    },
+    "We’re": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 575
+    },
+    "Briefing": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 577
+    },
+    "Room": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 577
+    },
+    "Reed’s": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 583
+    },
+    "Sarah’s": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 591
+    },
+    "Run": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 597
+    },
+    "Certification": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 603
+    },
+    "Thank": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 607
+    },
+    "Vance’s": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 617
+    },
+    "I’ve": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 639
+    },
+    "Access": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 641
+    },
+    "ARGUS-ENT-4": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 645
+    },
+    "Pakistani": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 649
+    },
+    "Line": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 649
+    },
+    "Control": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 649
+    },
+    "Limited": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 653
+    },
+    "Timestamp": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 669
+    },
+    "Receiver": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 671
+    },
+    "Geolocation": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 672
+    },
+    "Packet": {
+      "unit": "ch01",
+      "path": "books/book-01/manuscript/chapters/chapter-01.md",
+      "line": 673
+    },
+    "Poisoned": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 1
+    },
+    "Feed": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 1
+    },
+    "Onscreen": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 3
+    },
+    "What’s": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 7
+    },
+    "Evidence": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 9
+    },
+    "Freezing": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 11
+    },
+    "Civilian": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 11
+    },
+    "Military": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 11
+    },
+    "Satellite": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 11
+    },
+    "Background": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 11
+    },
+    "Instead": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 24
+    },
+    "Security": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 34
+    },
+    "Review": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 34
+    },
+    "Office": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 34
+    },
+    "Maybe": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 38
+    },
+    "Atmospheric": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 50
+    },
+    "Hardware": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 50
+    },
+    "Digital": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 50
+    },
+    "Carrier": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 54
+    },
+    "Together": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 70
+    },
+    "Technical": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 107
+    },
+    "Apex’s": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 111
+    },
+    "Authorized": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 115
+    },
+    "CROSS-BORDER": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 119
+    },
+    "Treating": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 130
+    },
+    "Query": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 140
+    },
+    "Sit": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 142
+    },
+    "Elias": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 148
+    },
+    "Thorne": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 148
+    },
+    "Elias’s": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 148
+    },
+    "Advanced": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 150
+    },
+    "Modeling": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 150
+    },
+    "Division’s": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 150
+    },
+    "Machines": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 150
+    },
+    "Meetings": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 150
+    },
+    "VAL-088": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 155
+    },
+    "Validation": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 158
+    },
+    "Package": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 158
+    },
+    "Enterprise": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 158
+    },
+    "Junior": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 164
+    },
+    "Payload": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 166
+    },
+    "Revision": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 183
+    },
+    "DEVICE-AGING": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 188
+    },
+    "CORRECTION-DEPENDENT": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 189
+    },
+    "Later": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 192
+    },
+    "Human": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 194
+    },
+    "Weather": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 194
+    },
+    "Observations": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 194
+    },
+    "Downstream": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 198
+    },
+    "COUNTER-BATTERY": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 202
+    },
+    "American": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 204
+    },
+    "Command’s": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 204
+    },
+    "Northbridge": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 206
+    },
+    "Strategic": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 206
+    },
+    "Initiatives": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 206
+    },
+    "Senator": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 206
+    },
+    "Sterling": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 206
+    },
+    "AMD-LAB-07": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 216
+    },
+    "Fingerprint": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 216
+    },
+    "APX-DIR-0019": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 218
+    },
+    "Martin": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 222
+    },
+    "Keller": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 222
+    },
+    "Ticket": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 222
+    },
+    "Using": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 222
+    },
+    "Removing": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 228
+    },
+    "Footsteps": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 235
+    },
+    "Keller’s": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 235
+    },
+    "Stop": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 239
+    },
+    "Compliance": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 239
+    },
+    "They’re": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 239
+    },
+    "Eighty": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 241
+    },
+    "Listen": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 245
+    },
+    "Step": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 245
+    },
+    "Testing": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 257
+    },
+    "Hands": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 261
+    },
+    "Hidden": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 297
+    },
+    "REED-OVERSIGHT-117": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 300
+    },
+    "Possession": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 304
+    },
+    "SIGMA-NORMALIZE-4": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 308
+    },
+    "SIGMA-NORMALIZE-2": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 313
+    },
+    "Reconstruction": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 313
+    },
+    "Applied": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 313
+    },
+    "Coincidence": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 317
+    },
+    "Wait": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 344
+    },
+    "Plywood": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 354
+    },
+    "Depends": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 373
+    },
+    "Locked": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 389
+    },
+    "Copy": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 397
+    },
+    "Capture": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 403
+    },
+    "Sequence": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 407
+    },
+    "Open": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 409
+    },
+    "Conditioned": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 419
+    },
+    "Longer": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 425
+    },
+    "Pulling": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 431
+    },
+    "Waiting": {
+      "unit": "ch02",
+      "path": "books/book-01/manuscript/chapters/chapter-02.md",
+      "line": 431
+    },
+    "Exit": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 1
+    },
+    "Protocol": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 1
+    },
+    "Shoes": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 5
+    },
+    "Files": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 15
+    },
+    "Useful": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 15
+    },
+    "Identify": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 35
+    },
+    "Mercer": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 37
+    },
+    "Protective": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 37
+    },
+    "Services": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 37
+    },
+    "Signed": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 39
+    },
+    "Long": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 63
+    },
+    "Name": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 77
+    },
+    "Silence": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 79
+    },
+    "Working": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 83
+    },
+    "Done": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 102
+    },
+    "Mercer’s": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 106
+    },
+    "Criminal": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 122
+    },
+    "Investigative": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 122
+    },
+    "Service": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 122
+    },
+    "Leave": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 154
+    },
+    "Convenient": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 168
+    },
+    "Allowing": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 178
+    },
+    "Escort": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 180
+    },
+    "Conference": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 180
+    },
+    "Telephones": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 182
+    },
+    "Counsel": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 182
+    },
+    "Lead": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 184
+    },
+    "Sector": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 190
+    },
+    "Stairwell": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 194
+    },
+    "Bare": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 196
+    },
+    "AIR-HANDLING": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 198
+    },
+    "Facilities": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 207
+    },
+    "White": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 213
+    },
+    "Reporting": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 217
+    },
+    "They’ll": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 229
+    },
+    "Doors": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 231
+    },
+    "Employees": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 231
+    },
+    "Ground": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 235
+    },
+    "Guards": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 245
+    },
+    "Keys": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 247
+    },
+    "Turn": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 263
+    },
+    "Move": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 265
+    },
+    "Evacuating": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 271
+    },
+    "Fairfax": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 275
+    },
+    "County": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 275
+    },
+    "Parkway": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 275
+    },
+    "Hackett": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 298
+    },
+    "Pentagon": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 298
+    },
+    "Post": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 318
+    },
+    "Arjun": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 318
+    },
+    "Kashmir": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 320
+    },
+    "Standard": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 322
+    },
+    "Time": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 322
+    },
+    "Ananya": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 324
+    },
+    "Sharma": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 324
+    },
+    "Sameer": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 324
+    },
+    "Qureshi": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 324
+    },
+    "Zebra": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 330
+    },
+    "Red": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 332
+    },
+    "Zero": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 336
+    },
+    "Requested": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 342
+    },
+    "Bring": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 348
+    },
+    "Thousands": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 374
+    },
+    "Save": {
+      "unit": "ch03",
+      "path": "books/book-01/manuscript/chapters/chapter-03.md",
+      "line": 376
+    },
+    "Burn": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 1
+    },
+    "Notice": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 1
+    },
+    "Prince": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 3
+    },
+    "William": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 3
+    },
+    "Daylight": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 5
+    },
+    "Half": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 17
+    },
+    "Enough": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 17
+    },
+    "Returning": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 19
+    },
+    "He’s": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 46
+    },
+    "Right": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 56
+    },
+    "Becoming": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 80
+    },
+    "ThinkPad": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 82
+    },
+    "We’ll": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 96
+    },
+    "Julia": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 104
+    },
+    "Randall": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 104
+    },
+    "Yet": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 120
+    },
+    "Arthur": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 120
+    },
+    "Argus’s": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 146
+    },
+    "Legal": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 150
+    },
+    "Murder": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 178
+    },
+    "Perhaps": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 222
+    },
+    "Referred": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 244
+    },
+    "Sixteen": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 258
+    },
+    "Recognition": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 276
+    },
+    "Bathroom": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 298
+    },
+    "Check": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 302
+    },
+    "Battery": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 310
+    },
+    "Mirror": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 312
+    },
+    "Wall": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 314
+    },
+    "Vent": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 316
+    },
+    "Linux": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 320
+    },
+    "Ordinarily": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 324
+    },
+    "Incomplete": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 353
+    },
+    "Thorne’s": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 361
+    },
+    "Several": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 375
+    },
+    "POST-ARCHIVE": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 379
+    },
+    "SOURCE-PROVENANCE": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 429
+    },
+    "DEPLOYMENT-AUTHORITY": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 434
+    },
+    "PRODUCTION-ROOT": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 436
+    },
+    "Source": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 456
+    },
+    "According": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 458
+    },
+    "Unclassified": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 474
+    },
+    "Assuming": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 482
+    },
+    "Pentagon’s": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 494
+    },
+    "Deputy": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 496
+    },
+    "Operational": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 496
+    },
+    "General": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 498
+    },
+    "South": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 502
+    },
+    "Asia": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 502
+    },
+    "Hackett’s": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 510
+    },
+    "Sir": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 512
+    },
+    "Return": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 550
+    },
+    "Report": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 566
+    },
+    "Enter": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 566
+    },
+    "Tulley": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 566
+    },
+    "Gate": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 566
+    },
+    "Possibly": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 580
+    },
+    "Counterintelligence": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 630
+    },
+    "Rain": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 666
+    },
+    "Going": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 690
+    },
+    "ThinkPad’s": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 798
+    },
+    "There’s": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 810
+    },
+    "Spoof": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 818
+    },
+    "Commitment": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 864
+    },
+    "Brigade": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 884
+    },
+    "Acoustic": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 894
+    },
+    "Unable": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 902
+    },
+    "Signals": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 904
+    },
+    "Encrypted": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 906
+    },
+    "Approximately": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 910
+    },
+    "Send": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 930
+    },
+    "Point": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 930
+    },
+    "Kestrel": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 930
+    },
+    "Rao": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 956
+    },
+    "Prepare": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 967
+    },
+    "Public": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 969
+    },
+    "Library": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 969
+    },
+    "Dominion": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 973
+    },
+    "Research": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 973
+    },
+    "Park": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 973
+    },
+    "Stormwater": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 979
+    },
+    "Utility": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 981
+    },
+    "Emergency": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 981
+    },
+    "Fire": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 981
+    },
+    "Mechanical": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 981
+    },
+    "Wide": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 991
+    },
+    "Original": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 995
+    },
+    "Generator": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 1005
+    },
+    "Loading": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 1005
+    },
+    "Biometric": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 1005
+    },
+    "Main": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 1005
+    },
+    "Watched": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 1005
+    },
+    "Hat": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 1019
+    },
+    "Happy": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 1031
+    },
+    "I’d": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 1035
+    },
+    "Storm’s": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 1045
+    },
+    "Lightning": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 1049
+    },
+    "Belief": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 1077
+    },
+    "Data": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 1093
+    },
+    "B3-COMP-04": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 1103
+    },
+    "Code": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 1105
+    },
+    "CORE-01": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 1107
+    },
+    "COMP-04": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 1113
+    },
+    "Ratchet": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 1141
+    },
+    "Pry": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 1141
+    },
+    "Flashlights": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 1141
+    },
+    "Gloves": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 1141
+    },
+    "Electrical": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 1141
+    },
+    "Wire": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 1141
+    },
+    "Compact": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 1141
+    },
+    "Today": {
+      "unit": "ch04",
+      "path": "books/book-01/manuscript/chapters/chapter-04.md",
+      "line": 1167
+    },
+    "Clock": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 1
+    },
+    "Richmond": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 13
+    },
+    "Commanders": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 45
+    },
+    "Sign": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 95
+    },
+    "Federal": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 99
+    },
+    "SOURCE-REVIEW": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 173
+    },
+    "Ma’am": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 179
+    },
+    "Request": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 181
+    },
+    "Snow": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 193
+    },
+    "Preparation": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 193
+    },
+    "Order": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 195
+    },
+    "Campus": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 213
+    },
+    "Easement": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 213
+    },
+    "Brown": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 217
+    },
+    "Metal": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 225
+    },
+    "Water": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 233
+    },
+    "Drowning": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 259
+    },
+    "Speed": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 261
+    },
+    "Truck": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 263
+    },
+    "Different": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 289
+    },
+    "Targeting": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 297
+    },
+    "Biometrics": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 311
+    },
+    "Closed": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 315
+    },
+    "Ammunition": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 367
+    },
+    "Crews": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 367
+    },
+    "Rainwater": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 455
+    },
+    "Welded": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 479
+    },
+    "Frame": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 479
+    },
+    "Rust": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 481
+    },
+    "Comforting": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 503
+    },
+    "Steve": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 527
+    },
+    "Kyle": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 529
+    },
+    "Comp": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 555
+    },
+    "Core": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 555
+    },
+    "Fluorescent": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 584
+    },
+    "Massive": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 584
+    },
+    "Multiple": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 586
+    },
+    "Hey": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 616
+    },
+    "Stay": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 644
+    },
+    "Chiller": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 648
+    },
+    "Sublevel": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 655
+    },
+    "Zone": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 658
+    },
+    "Subtle": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 666
+    },
+    "Faster": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 668
+    },
+    "Manual": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 684
+    },
+    "Investigation": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 702
+    },
+    "Division": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 702
+    },
+    "Rejected": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 772
+    },
+    "Pause": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 782
+    },
+    "LIFE-SAFETY": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 808
+    },
+    "Boots": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 840
+    },
+    "Deleting": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 848
+    },
+    "Remote": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 858
+    },
+    "Disabled": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 860
+    },
+    "Thirteen": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 874
+    },
+    "Call": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 884
+    },
+    "Static": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 912
+    },
+    "Chen’s": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 914
+    },
+    "Relay": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 924
+    },
+    "Seventeen": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 924
+    },
+    "Recovery": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 934
+    },
+    "Contain": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 934
+    },
+    "Receiving": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 936
+    },
+    "Proof": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 942
+    },
+    "Measured": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 964
+    },
+    "Coordinated": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 964
+    },
+    "Fall": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 966
+    },
+    "Friend": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 992
+    },
+    "Sealed": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 1004
+    },
+    "Life": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 1008
+    },
+    "Risk": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 1044
+    },
+    "Record": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 1074
+    },
+    "Lift": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 1090
+    },
+    "English": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 1099
+    },
+    "INCIDENT-RESPONSE": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 1128
+    },
+    "Hostile": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 1132
+    },
+    "B2-CORE": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 1147
+    },
+    "LOWER-TIER": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 1150
+    },
+    "Best": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 1160
+    },
+    "Door": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 1178
+    },
+    "Environmental": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 1178
+    },
+    "Cable": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 1184
+    },
+    "Chilled": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 1184
+    },
+    "Black": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 1184
+    },
+    "L3-7": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 1186
+    },
+    "DIRECTOR-LEVEL": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 1191
+    },
+    "Trigger": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 1231
+    },
+    "Hydraulic": {
+      "unit": "ch05",
+      "path": "books/book-01/manuscript/chapters/chapter-05.md",
+      "line": 1247
+    },
+    "Descent": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 1
+    },
+    "Crimson": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 11
+    },
+    "Flat": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 15
+    },
+    "Locking": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 31
+    },
+    "Condensation": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 55
+    },
+    "Quarantine": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 67
+    },
+    "Temporarily": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 75
+    },
+    "Cooling": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 81
+    },
+    "Local": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 81
+    },
+    "Taking": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 93
+    },
+    "Fear": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 117
+    },
+    "Production": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 135
+    },
+    "Blind": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 141
+    },
+    "Runs": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 145
+    },
+    "CHW-P1": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 161
+    },
+    "CHW-ARGUS-R": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 163
+    },
+    "Air": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 166
+    },
+    "Center": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 186
+    },
+    "Camera": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 189
+    },
+    "Badge": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 189
+    },
+    "Three’s": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 189
+    },
+    "Shutter": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 191
+    },
+    "Containment": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 195
+    },
+    "Objective": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 199
+    },
+    "Preserve": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 199
+    },
+    "Weapons": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 199
+    },
+    "Professional": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 201
+    },
+    "Defensible": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 201
+    },
+    "Gallery": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 233
+    },
+    "Maintain": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 235
+    },
+    "Secure": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 235
+    },
+    "Case": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 258
+    },
+    "Team’s": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 268
+    },
+    "Tight": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 268
+    },
+    "Frost": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 290
+    },
+    "Yellow": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 290
+    },
+    "Purge": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 292
+    },
+    "Supercooled": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 294
+    },
+    "Floor": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 300
+    },
+    "Recesses": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 300
+    },
+    "Usually": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 304
+    },
+    "Vapor": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 314
+    },
+    "Override": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 340
+    },
+    "Where’s": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 346
+    },
+    "Halfway": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 354
+    },
+    "Separate": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 358
+    },
+    "Barely": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 370
+    },
+    "Opening": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 388
+    },
+    "Whatever": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 390
+    },
+    "Decision": {
+      "unit": "ch06",
+      "path": "books/book-01/manuscript/chapters/chapter-06.md",
+      "line": 390
+    },
+    "Key": {
+      "unit": "ch07",
+      "path": "books/book-01/manuscript/chapters/chapter-07.md",
+      "line": 1
+    },
+    "Refusing": {
+      "unit": "ch07",
+      "path": "books/book-01/manuscript/chapters/chapter-07.md",
+      "line": 21
+    },
+    "Copper": {
+      "unit": "ch07",
+      "path": "books/book-01/manuscript/chapters/chapter-07.md",
+      "line": 37
+    },
+    "Damn": {
+      "unit": "ch07",
+      "path": "books/book-01/manuscript/chapters/chapter-07.md",
+      "line": 51
+    },
+    "Supposed": {
+      "unit": "ch07",
+      "path": "books/book-01/manuscript/chapters/chapter-07.md",
+      "line": 75
+    },
+    "Fourteen": {
+      "unit": "ch07",
+      "path": "books/book-01/manuscript/chapters/chapter-07.md",
+      "line": 94
+    },
+    "Shield": {
+      "unit": "ch07",
+      "path": "books/book-01/manuscript/chapters/chapter-07.md",
+      "line": 108
+    },
+    "Keep": {
+      "unit": "ch07",
+      "path": "books/book-01/manuscript/chapters/chapter-07.md",
+      "line": 110
+    },
+    "Place": {
+      "unit": "ch07",
+      "path": "books/book-01/manuscript/chapters/chapter-07.md",
+      "line": 120
+    },
+    "Approved": {
+      "unit": "ch07",
+      "path": "books/book-01/manuscript/chapters/chapter-07.md",
+      "line": 158
+    },
+    "Left": {
+      "unit": "ch07",
+      "path": "books/book-01/manuscript/chapters/chapter-07.md",
+      "line": 160
+    },
+    "LIVE-FINGER": {
+      "unit": "ch07",
+      "path": "books/book-01/manuscript/chapters/chapter-07.md",
+      "line": 175
+    },
+    "Temperature": {
+      "unit": "ch07",
+      "path": "books/book-01/manuscript/chapters/chapter-07.md",
+      "line": 195
+    },
+    "Prevent": {
+      "unit": "ch07",
+      "path": "books/book-01/manuscript/chapters/chapter-07.md",
+      "line": 272
+    },
+    "Recover": {
+      "unit": "ch07",
+      "path": "books/book-01/manuscript/chapters/chapter-07.md",
+      "line": 272
+    },
+    "Subjects": {
+      "unit": "ch07",
+      "path": "books/book-01/manuscript/chapters/chapter-07.md",
+      "line": 272
+    },
+    "Authorize": {
+      "unit": "ch07",
+      "path": "books/book-01/manuscript/chapters/chapter-07.md",
+      "line": 286
+    },
+    "Excuse": {
+      "unit": "ch07",
+      "path": "books/book-01/manuscript/chapters/chapter-07.md",
+      "line": 288
+    },
+    "Subject": {
+      "unit": "ch07",
+      "path": "books/book-01/manuscript/chapters/chapter-07.md",
+      "line": 306
+    },
+    "Telemetry": {
+      "unit": "ch07",
+      "path": "books/book-01/manuscript/chapters/chapter-07.md",
+      "line": 308
+    },
+    "Enclave": {
+      "unit": "ch07",
+      "path": "books/book-01/manuscript/chapters/chapter-07.md",
+      "line": 310
+    },
+    "Approach": {
+      "unit": "ch07",
+      "path": "books/book-01/manuscript/chapters/chapter-07.md",
+      "line": 310
+    },
+    "Advance": {
+      "unit": "ch07",
+      "path": "books/book-01/manuscript/chapters/chapter-07.md",
+      "line": 396
+    },
+    "Specific": {
+      "unit": "ch07",
+      "path": "books/book-01/manuscript/chapters/chapter-07.md",
+      "line": 398
+    },
+    "Make": {
+      "unit": "ch07",
+      "path": "books/book-01/manuscript/chapters/chapter-07.md",
+      "line": 408
+    },
+    "Close": {
+      "unit": "ch07",
+      "path": "books/book-01/manuscript/chapters/chapter-07.md",
+      "line": 433
+    },
+    "Begin": {
+      "unit": "ch07",
+      "path": "books/book-01/manuscript/chapters/chapter-07.md",
+      "line": 507
+    },
+    "Blood": {
+      "unit": "ch07",
+      "path": "books/book-01/manuscript/chapters/chapter-07.md",
+      "line": 514
+    },
+    "Conscious": {
+      "unit": "ch07",
+      "path": "books/book-01/manuscript/chapters/chapter-07.md",
+      "line": 516
+    },
+    "Unfortunately": {
+      "unit": "ch07",
+      "path": "books/book-01/manuscript/chapters/chapter-07.md",
+      "line": 518
+    },
+    "Hardened": {
+      "unit": "ch07",
+      "path": "books/book-01/manuscript/chapters/chapter-07.md",
+      "line": 532
+    },
+    "Fiber": {
+      "unit": "ch07",
+      "path": "books/book-01/manuscript/chapters/chapter-07.md",
+      "line": 532
+    },
+    "Port": {
+      "unit": "ch08",
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "line": 9
+    },
+    "They’ve": {
+      "unit": "ch08",
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "line": 26
+    },
+    "Incident": {
+      "unit": "ch08",
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "line": 36
+    },
+    "Press": {
+      "unit": "ch08",
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "line": 38
+    },
+    "Read": {
+      "unit": "ch08",
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "line": 51
+    },
+    "READ-ONLY": {
+      "unit": "ch08",
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "line": 92
+    },
+    "Status": {
+      "unit": "ch08",
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "line": 125
+    },
+    "Held": {
+      "unit": "ch08",
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "line": 127
+    },
+    "Beside": {
+      "unit": "ch08",
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "line": 141
+    },
+    "Staged": {
+      "unit": "ch08",
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "line": 161
+    },
+    "Men": {
+      "unit": "ch08",
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "line": 171
+    },
+    "SYNTHETIC-SOURCE": {
+      "unit": "ch08",
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "line": 208
+    },
+    "Walking": {
+      "unit": "ch08",
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "line": 244
+    },
+    "Stage": {
+      "unit": "ch08",
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "line": 252
+    },
+    "VALIDATION-DERIVED": {
+      "unit": "ch08",
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "line": 258
+    },
+    "Preparing": {
+      "unit": "ch08",
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "line": 330
+    },
+    "Uncertainty": {
+      "unit": "ch08",
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "line": 340
+    },
+    "Reconstructed": {
+      "unit": "ch08",
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "line": 362
+    },
+    "Vehicle": {
+      "unit": "ch08",
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "line": 390
+    },
+    "Thermal": {
+      "unit": "ch08",
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "line": 390
+    },
+    "Terrain": {
+      "unit": "ch08",
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "line": 390
+    },
+    "Volatile": {
+      "unit": "ch08",
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "line": 405
+    },
+    "Hold": {
+      "unit": "ch08",
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "line": 445
+    },
+    "Safe": {
+      "unit": "ch08",
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "line": 447
+    },
+    "Safing": {
+      "unit": "ch08",
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "line": 451
+    },
+    "Short": {
+      "unit": "ch08",
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "line": 531
+    },
+    "People": {
+      "unit": "ch08",
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "line": 537
+    },
+    "K-17": {
+      "unit": "ch08",
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "line": 553
+    },
+    "Almost": {
+      "unit": "ch08",
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "line": 567
+    },
+    "LOW-LEVEL": {
+      "unit": "ch08",
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "line": 579
+    },
+    "Amber": {
+      "unit": "ch08",
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "line": 623
+    },
+    "Round": {
+      "unit": "ch08",
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "line": 628
+    },
+    "Suppression": {
+      "unit": "ch08",
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "line": 642
+    },
+    "Inert": {
+      "unit": "ch08",
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "line": 644
+    },
+    "Lock": {
+      "unit": "ch08",
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "line": 659
+    },
+    "Estimate": {
+      "unit": "ch08",
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "line": 659
+    },
+    "Preserving": {
+      "unit": "ch08",
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "line": 665
+    },
+    "PRE-DISCHARGE": {
+      "unit": "ch08",
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "line": 681
+    },
+    "OCCUPIED-ROOM": {
+      "unit": "ch08",
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "line": 685
+    },
+    "Discharge": {
+      "unit": "ch08",
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "line": 695
+    },
+    "Establish": {
+      "unit": "ch08",
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "line": 708
+    },
+    "Reason": {
+      "unit": "ch08",
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "line": 710
+    },
+    "Occupied": {
+      "unit": "ch08",
+      "path": "books/book-01/manuscript/chapters/chapter-08.md",
+      "line": 714
+    },
+    "Safety": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 1
+    },
+    "H-3": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 48
+    },
+    "S-4": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 49
+    },
+    "Heat": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 54
+    },
+    "Real": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 56
+    },
+    "Carry": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 141
+    },
+    "PDU-B": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 151
+    },
+    "Hot": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 163
+    },
+    "Making": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 181
+    },
+    "Smoke": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 196
+    },
+    "Lower": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 200
+    },
+    "Isolate": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 223
+    },
+    "Reassert": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 248
+    },
+    "Remain": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 258
+    },
+    "Junction": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 258
+    },
+    "Delta": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 258
+    },
+    "Cover": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 262
+    },
+    "Lethal": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 266
+    },
+    "Ballistic": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 268
+    },
+    "Loose": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 315
+    },
+    "Mist": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 315
+    },
+    "Set": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 337
+    },
+    "Green": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 339
+    },
+    "Clear": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 355
+    },
+    "Follow": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 371
+    },
+    "Exhaust": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 382
+    },
+    "Hiding": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 392
+    },
+    "Parallel": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 394
+    },
+    "Ribs": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 406
+    },
+    "Others": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 422
+    },
+    "Dock": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 430
+    },
+    "Predawn": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 430
+    },
+    "PCF-27": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 439
+    },
+    "Leg": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 439
+    },
+    "Steering": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 445
+    },
+    "Tracked": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 462
+    },
+    "Connector": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 478
+    },
+    "Gray": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 478
+    },
+    "Tool": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 482
+    },
+    "NATIONAL-SECURITY": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 504
+    },
+    "Ahead": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 522
+    },
+    "Outbound": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 536
+    },
+    "Primary": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 542
+    },
+    "Suspected": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 542
+    },
+    "Associated": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 542
+    },
+    "Turning": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 544
+    },
+    "Pursuit": {
+      "unit": "ch09",
+      "path": "books/book-01/manuscript/chapters/chapter-09.md",
+      "line": 546
+    },
+    "Capital": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 1
+    },
+    "Connection": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 1
+    },
+    "Potomac": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 11
+    },
+    "Critical": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 11
+    },
+    "Former": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 13
+    },
+    "Considered": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 13
+    },
+    "Armed": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 17
+    },
+    "Running": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 39
+    },
+    "Old": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 45
+    },
+    "Active": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 47
+    },
+    "Erased": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 51
+    },
+    "Connected": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 55
+    },
+    "Archived": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 59
+    },
+    "Placard": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 69
+    },
+    "Classified": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 81
+    },
+    "Patrol": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 83
+    },
+    "Private": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 87
+    },
+    "Uneven": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 87
+    },
+    "Straight": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 95
+    },
+    "Decommissioned": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 139
+    },
+    "Communications": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 139
+    },
+    "Cutout": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 139
+    },
+    "Workstation": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 147
+    },
+    "Medical": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 147
+    },
+    "Storage": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 147
+    },
+    "Equal": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 157
+    },
+    "Date": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 167
+    },
+    "Nausea": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 169
+    },
+    "Double": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 173
+    },
+    "Loss": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 177
+    },
+    "Bruising": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 199
+    },
+    "Wasn’t": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 203
+    },
+    "Stays": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 217
+    },
+    "Updated": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 225
+    },
+    "Start": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 285
+    },
+    "Ethernet": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 293
+    },
+    "Transferred": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 317
+    },
+    "Write": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 319
+    },
+    "Custody": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 323
+    },
+    "Cause": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 331
+    },
+    "Effect": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 331
+    },
+    "Eight’s": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 349
+    },
+    "Events": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 351
+    },
+    "Mandatory": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 373
+    },
+    "Clearing": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 381
+    },
+    "B3-EXEC-01": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 403
+    },
+    "STRATEGIC-RISK": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 441
+    },
+    "Northbridge’s": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 456
+    },
+    "Sterling’s": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 456
+    },
+    "Washington": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 474
+    },
+    "Contact": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 476
+    },
+    "Strong": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 496
+    },
+    "K17-PHASE-B": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 530
+    },
+    "Phase": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 534
+    },
+    "Message": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 542
+    },
+    "Current": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 546
+    },
+    "Capturing": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 578
+    },
+    "Securing": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 620
+    },
+    "Reveals": {
+      "unit": "ch10",
+      "path": "books/book-01/manuscript/chapters/chapter-10.md",
+      "line": 626
+    },
+    "Offensive": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 1
+    },
+    "Cloth": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 9
+    },
+    "Detain": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 21
+    },
+    "Treat": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 23
+    },
+    "Cannot": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 33
+    },
+    "Understanding": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 39
+    },
+    "Define": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 47
+    },
+    "Suite": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 49
+    },
+    "Ciphertext": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 51
+    },
+    "Registered": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 95
+    },
+    "WSS-4": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 103
+    },
+    "Fenwick": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 105
+    },
+    "Street": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 109
+    },
+    "Seventeenth": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 109
+    },
+    "Eighteenth": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 109
+    },
+    "Narrow": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 109
+    },
+    "Deliveries": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 113
+    },
+    "PRE-SESSION": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 119
+    },
+    "Places": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 130
+    },
+    "Explain": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 150
+    },
+    "Seconds": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 168
+    },
+    "Export": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 178
+    },
+    "External": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 180
+    },
+    "Challenge": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 180
+    },
+    "Session": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 180
+    },
+    "Routing": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 180
+    },
+    "Task": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 180
+    },
+    "Voluntarily": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 248
+    },
+    "Rear": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 298
+    },
+    "Ordinary": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 298
+    },
+    "Arlington": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 298
+    },
+    "Boulevard": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 298
+    },
+    "Roosevelt": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 298
+    },
+    "Bridge": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 298
+    },
+    "Search": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 334
+    },
+    "Destruction": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 346
+    },
+    "Disclosure": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 350
+    },
+    "Landlord": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 368
+    },
+    "Partition": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 386
+    },
+    "Deadly": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 447
+    },
+    "Firearms": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 455
+    },
+    "Understood": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 461
+    },
+    "TRUST-CHAIN": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 479
+    },
+    "Fails": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 489
+    },
+    "SELF-TEST": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 513
+    },
+    "Early": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 532
+    },
+    "Box": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 532
+    },
+    "Parking": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 538
+    },
+    "Commercial": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 540
+    },
+    "Morning": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 540
+    },
+    "Known": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 540
+    },
+    "Plate": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 542
+    },
+    "District": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 562
+    },
+    "Fixed": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 564
+    },
+    "Authorities": {
+      "unit": "ch11",
+      "path": "books/book-01/manuscript/chapters/chapter-11.md",
+      "line": 581
+    },
+    "Trap": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 1
+    },
+    "Attempted": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 14
+    },
+    "Borrowed": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 18
+    },
+    "Coordinate": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 20
+    },
+    "West": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 26
+    },
+    "Annex": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 32
+    },
+    "Failure": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 46
+    },
+    "Genuine": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 52
+    },
+    "Correct": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 52
+    },
+    "False": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 52
+    },
+    "Intake": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 56
+    },
+    "Alley": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 74
+    },
+    "Refrigeration": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 78
+    },
+    "Closer": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 88
+    },
+    "Tenant": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 98
+    },
+    "Originating": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 102
+    },
+    "Company": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 110
+    },
+    "Fleet": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 112
+    },
+    "Paper": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 130
+    },
+    "New": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 138
+    },
+    "Nora": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 142
+    },
+    "Bell": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 142
+    },
+    "Pre": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 144
+    },
+    "Available": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 162
+    },
+    "Accepting": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 181
+    },
+    "Maintenance": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 233
+    },
+    "Provisional": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 235
+    },
+    "Matches": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 247
+    },
+    "WRITE-ARMED": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 253
+    },
+    "Prior": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 257
+    },
+    "Field": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 265
+    },
+    "EXTERNAL-CHAIN": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 298
+    },
+    "Disconnect": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 322
+    },
+    "Northwest": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 401
+    },
+    "Eastbound": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 403
+    },
+    "Metropolitan": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 405
+    },
+    "Police": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 405
+    },
+    "Material": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 415
+    },
+    "NB-WSS4-0708-2217": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 479
+    },
+    "Continuing": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 484
+    },
+    "Structured": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 525
+    },
+    "Certificate": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 537
+    },
+    "SSO-NS-004": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 553
+    },
+    "Tariq’s": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 604
+    },
+    "NSB-EMERGENCY": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 613
+    },
+    "PHASE-B": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 624
+    },
+    "Remove": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 628
+    },
+    "Lane": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 658
+    },
+    "Theodore": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 664
+    },
+    "Units": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 664
+    },
+    "SUVs": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 670
+    },
+    "Pull": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 681
+    },
+    "Bell’s": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 718
+    },
+    "Corridor": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 724
+    },
+    "Voices": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 728
+    },
+    "Keeping": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 732
+    },
+    "Fresh": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 748
+    },
+    "Engine": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 774
+    },
+    "Downtown": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 780
+    },
+    "Sources": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 783
+    },
+    "Removal": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 795
+    },
+    "Seal": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 797
+    },
+    "Media": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 797
+    },
+    "Unchanged": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 803
+    },
+    "Law": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 813
+    },
+    "Hartwell": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 817
+    },
+    "Executive": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 817
+    },
+    "SSO-NS": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 825
+    },
+    "Legislative": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 847
+    },
+    "Restrictions": {
+      "unit": "ch12",
+      "path": "books/book-01/manuscript/chapters/chapter-12.md",
+      "line": 849
+    },
+    "Stream": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 1
+    },
+    "Support": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 8
+    },
+    "Electronic": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 16
+    },
+    "View": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 64
+    },
+    "Upper": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 66
+    },
+    "Distance": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 68
+    },
+    "Garage": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 80
+    },
+    "Hard": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 116
+    },
+    "Conditions": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 118
+    },
+    "Hartwell’s": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 162
+    },
+    "Sixth": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 204
+    },
+    "Observe": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 210
+    },
+    "Direct": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 236
+    },
+    "Continuous": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 291
+    },
+    "Ramps": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 295
+    },
+    "Latches": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 301
+    },
+    "Folder": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 303
+    },
+    "Module": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 307
+    },
+    "Board": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 311
+    },
+    "Sedan": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 319
+    },
+    "Lost": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 325
+    },
+    "Marker": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 327
+    },
+    "SUV’s": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 337
+    },
+    "Recoverable": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 339
+    },
+    "Unit": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 351
+    },
+    "Suspect": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 351
+    },
+    "Establishing": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 351
+    },
+    "Additional": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 351
+    },
+    "East": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 363
+    },
+    "Delivery": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 367
+    },
+    "Pedestrian": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 369
+    },
+    "Dark": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 377
+    },
+    "Medium": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 377
+    },
+    "Stronger": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 389
+    },
+    "Portable": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 429
+    },
+    "Handling": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 497
+    },
+    "Cartridge": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 513
+    },
+    "Eyes": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 551
+    },
+    "Observation": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 561
+    },
+    "Probable": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 565
+    },
+    "Staff": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 565
+    },
+    "Contents": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 565
+    },
+    "Exfiltration": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 567
+    },
+    "Display": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 573
+    },
+    "Lawful": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 583
+    },
+    "Faces": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 585
+    },
+    "Honest": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 591
+    },
+    "Institutional": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 595
+    },
+    "Continue": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 605
+    },
+    "Cruiser": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 623
+    },
+    "Far": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 629
+    },
+    "Operationally": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 647
+    },
+    "Plaintext": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 695
+    },
+    "Transfer": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 713
+    },
+    "Ready": {
+      "unit": "ch13",
+      "path": "books/book-01/manuscript/chapters/chapter-13.md",
+      "line": 737
+    },
+    "Witness": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 1
+    },
+    "Face": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 11
+    },
+    "Officer": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 29
+    },
+    "Ortiz": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 29
+    },
+    "Answer": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 35
+    },
+    "Ortiz’s": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 45
+    },
+    "Registration": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 53
+    },
+    "Masking": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 73
+    },
+    "Window": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 73
+    },
+    "Dispatch": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 89
+    },
+    "Requesting": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 89
+    },
+    "Affirmative": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 93
+    },
+    "Claimed": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 93
+    },
+    "Event": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 95
+    },
+    "State": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 119
+    },
+    "Stated": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 121
+    },
+    "Separating": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 165
+    },
+    "Procedure": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 205
+    },
+    "Empty": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 237
+    },
+    "Clothing": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 245
+    },
+    "Permission": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 251
+    },
+    "DARK-OVERCOAT": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 270
+    },
+    "Relaying": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 298
+    },
+    "Expectation": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 335
+    },
+    "Administrative": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 371
+    },
+    "Blue": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 408
+    },
+    "Physical": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 408
+    },
+    "Moving": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 412
+    },
+    "Michael": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 466
+    },
+    "Credentials": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 500
+    },
+    "Revoked": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 502
+    },
+    "APX-DIR": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 508
+    },
+    "Manifest": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 508
+    },
+    "Waterproof": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 512
+    },
+    "Tamper": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 512
+    },
+    "Bound": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 512
+    },
+    "Disconnected": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 512
+    },
+    "Formal": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 520
+    },
+    "Recorded": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 520
+    },
+    "Precise": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 528
+    },
+    "Body": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 528
+    },
+    "Entry": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 528
+    },
+    "Aluminum": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 594
+    },
+    "Jurisdiction": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 604
+    },
+    "Cross": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 612
+    },
+    "Whether": {
+      "unit": "ch14",
+      "path": "books/book-01/manuscript/chapters/chapter-14.md",
+      "line": 614
+    },
+    "Split": {
+      "unit": "ch15",
+      "path": "books/book-01/manuscript/chapters/chapter-15.md",
+      "line": 1
+    },
+    "Gabriel": {
+      "unit": "ch15",
+      "path": "books/book-01/manuscript/chapters/chapter-15.md",
+      "line": 9
+    },
+    "Hannah": {
+      "unit": "ch15",
+      "path": "books/book-01/manuscript/chapters/chapter-15.md",
+      "line": 13
+    },
+    "Waistband": {
+      "unit": "ch15",
+      "path": "books/book-01/manuscript/chapters/chapter-15.md",
+      "line": 19
+    },
+    "Can’t": {
+      "unit": "ch15",
+      "path": "books/book-01/manuscript/chapters/chapter-15.md",
+      "line": 27
+    },
+    "Help": {
+      "unit": "ch15",
+      "path": "books/book-01/manuscript/chapters/chapter-15.md",
+      "line": 37
+    },
+    "MPD’s": {
+      "unit": "ch15",
+      "path": "books/book-01/manuscript/chapters/chapter-15.md",
+      "line": 59
+    },
+    "Offline": {
+      "unit": "ch15",
+      "path": "books/book-01/manuscript/chapters/chapter-15.md",
+      "line": 77
+    },
+    "Watch": {
+      "unit": "ch15",
+      "path": "books/book-01/manuscript/chapters/chapter-15.md",
+      "line": 89
+    },
+    "Commander": {
+      "unit": "ch15",
+      "path": "books/book-01/manuscript/chapters/chapter-15.md",
+      "line": 89
+    },
+    "Helena": {
+      "unit": "ch15",
+      "path": "books/book-01/manuscript/chapters/chapter-15.md",
+      "line": 89
+    },
+    "Brooks": {
+      "unit": "ch15",
+      "path": "books/book-01/manuscript/chapters/chapter-15.md",
+      "line": 89
+    },
+    "Itemization": {
+      "unit": "ch15",
+      "path": "books/book-01/manuscript/chapters/chapter-15.md",
+      "line": 127
+    },
+    "Oxygen": {
+      "unit": "ch15",
+      "path": "books/book-01/manuscript/chapters/chapter-15.md",
+      "line": 193
+    },
+    "Lawyers": {
+      "unit": "ch15",
+      "path": "books/book-01/manuscript/chapters/chapter-15.md",
+      "line": 201
+    },
+    "Supervisory": {
+      "unit": "ch16",
+      "path": "books/book-01/manuscript/chapters/chapter-16.md",
+      "line": 57
+    },
+    "Special": {
+      "unit": "ch16",
+      "path": "books/book-01/manuscript/chapters/chapter-16.md",
+      "line": 57
+    },
+    "Agent": {
+      "unit": "ch16",
+      "path": "books/book-01/manuscript/chapters/chapter-16.md",
+      "line": 57
+    },
+    "Miriam": {
+      "unit": "ch16",
+      "path": "books/book-01/manuscript/chapters/chapter-16.md",
+      "line": 57
+    },
+    "Alvarez": {
+      "unit": "ch16",
+      "path": "books/book-01/manuscript/chapters/chapter-16.md",
+      "line": 57
+    },
+    "Leila": {
+      "unit": "ch16",
+      "path": "books/book-01/manuscript/chapters/chapter-16.md",
+      "line": 57
+    },
+    "Grant": {
+      "unit": "ch16",
+      "path": "books/book-01/manuscript/chapters/chapter-16.md",
+      "line": 57
+    },
+    "Delaying": {
+      "unit": "ch16",
+      "path": "books/book-01/manuscript/chapters/chapter-16.md",
+      "line": 73
+    },
+    "Tomorrow’s": {
+      "unit": "ch16",
+      "path": "books/book-01/manuscript/chapters/chapter-16.md",
+      "line": 75
+    },
+    "Imaging": {
+      "unit": "ch16",
+      "path": "books/book-01/manuscript/chapters/chapter-16.md",
+      "line": 144
+    },
+    "Webb": {
+      "unit": "ch16",
+      "path": "books/book-01/manuscript/chapters/chapter-16.md",
+      "line": 148
+    },
+    "Tariq": {
+      "unit": "ch16",
+      "path": "books/book-01/manuscript/chapters/chapter-16.md",
+      "line": 154
+    },
+    "Urgency": {
+      "unit": "ch16",
+      "path": "books/book-01/manuscript/chapters/chapter-16.md",
+      "line": 158
+    },
+    "Common": {
+      "unit": "ch16",
+      "path": "books/book-01/manuscript/chapters/chapter-16.md",
+      "line": 168
+    },
+    "Dual": {
+      "unit": "ch16",
+      "path": "books/book-01/manuscript/chapters/chapter-16.md",
+      "line": 170
+    },
+    "Property": {
+      "unit": "ch16",
+      "path": "books/book-01/manuscript/chapters/chapter-16.md",
+      "line": 170
+    },
+    "Tomorrow": {
+      "unit": "ch16",
+      "path": "books/book-01/manuscript/chapters/chapter-16.md",
+      "line": 174
+    },
+    "Guarded": {
+      "unit": "ch16",
+      "path": "books/book-01/manuscript/chapters/chapter-16.md",
+      "line": 191
+    },
+    "Hospital": {
+      "unit": "ch16",
+      "path": "books/book-01/manuscript/chapters/chapter-16.md",
+      "line": 191
+    },
+    "Dana": {
+      "unit": "ch16",
+      "path": "books/book-01/manuscript/chapters/chapter-16.md",
+      "line": 195
+    },
+    "Examination": {
+      "unit": "ch17",
+      "path": "books/book-01/manuscript/chapters/chapter-17.md",
+      "line": 1
+    },
+    "Overnight": {
+      "unit": "ch17",
+      "path": "books/book-01/manuscript/chapters/chapter-17.md",
+      "line": 11
+    },
+    "Grant’s": {
+      "unit": "ch17",
+      "path": "books/book-01/manuscript/chapters/chapter-17.md",
+      "line": 18
+    },
+    "Today’s": {
+      "unit": "ch17",
+      "path": "books/book-01/manuscript/chapters/chapter-17.md",
+      "line": 44
+    },
+    "Telematics": {
+      "unit": "ch17",
+      "path": "books/book-01/manuscript/chapters/chapter-17.md",
+      "line": 54
+    },
+    "Administrator": {
+      "unit": "ch17",
+      "path": "books/book-01/manuscript/chapters/chapter-17.md",
+      "line": 54
+    },
+    "EAT-0881147": {
+      "unit": "ch17",
+      "path": "books/book-01/manuscript/chapters/chapter-17.md",
+      "line": 58
+    },
+    "Scrape": {
+      "unit": "ch17",
+      "path": "books/book-01/manuscript/chapters/chapter-17.md",
+      "line": 58
+    },
+    "Park’s": {
+      "unit": "ch17",
+      "path": "books/book-01/manuscript/chapters/chapter-17.md",
+      "line": 68
+    },
+    "Match": {
+      "unit": "ch17",
+      "path": "books/book-01/manuscript/chapters/chapter-17.md",
+      "line": 72
+    },
+    "Backup": {
+      "unit": "ch17",
+      "path": "books/book-01/manuscript/chapters/chapter-17.md",
+      "line": 76
+    },
+    "Produce": {
+      "unit": "ch17",
+      "path": "books/book-01/manuscript/chapters/chapter-17.md",
+      "line": 80
+    },
+    "Extracting": {
+      "unit": "ch17",
+      "path": "books/book-01/manuscript/chapters/chapter-17.md",
+      "line": 98
+    },
+    "Alvarez’s": {
+      "unit": "ch17",
+      "path": "books/book-01/manuscript/chapters/chapter-17.md",
+      "line": 116
+    },
+    "Proposed": {
+      "unit": "ch17",
+      "path": "books/book-01/manuscript/chapters/chapter-17.md",
+      "line": 116
+    },
+    "Arvind": {
+      "unit": "ch18",
+      "path": "books/book-01/manuscript/chapters/chapter-18.md",
+      "line": 9
+    },
+    "Sleet": {
+      "unit": "ch18",
+      "path": "books/book-01/manuscript/chapters/chapter-18.md",
+      "line": 9
+    },
+    "Lance": {
+      "unit": "ch18",
+      "path": "books/book-01/manuscript/chapters/chapter-18.md",
+      "line": 13
+    },
+    "Naik": {
+      "unit": "ch18",
+      "path": "books/book-01/manuscript/chapters/chapter-18.md",
+      "line": 13
+    },
+    "Suresh": {
+      "unit": "ch18",
+      "path": "books/book-01/manuscript/chapters/chapter-18.md",
+      "line": 13
+    },
+    "Pal": {
+      "unit": "ch18",
+      "path": "books/book-01/manuscript/chapters/chapter-18.md",
+      "line": 13
+    },
+    "Pal’s": {
+      "unit": "ch18",
+      "path": "books/book-01/manuscript/chapters/chapter-18.md",
+      "line": 17
+    },
+    "Mark": {
+      "unit": "ch18",
+      "path": "books/book-01/manuscript/chapters/chapter-18.md",
+      "line": 19
+    },
+    "Ice": {
+      "unit": "ch18",
+      "path": "books/book-01/manuscript/chapters/chapter-18.md",
+      "line": 21
+    },
+    "Fatigue": {
+      "unit": "ch18",
+      "path": "books/book-01/manuscript/chapters/chapter-18.md",
+      "line": 23
+    },
+    "Naib": {
+      "unit": "ch18",
+      "path": "books/book-01/manuscript/chapters/chapter-18.md",
+      "line": 25
+    },
+    "Subedar": {
+      "unit": "ch18",
+      "path": "books/book-01/manuscript/chapters/chapter-18.md",
+      "line": 25
+    },
+    "Vikram": {
+      "unit": "ch18",
+      "path": "books/book-01/manuscript/chapters/chapter-18.md",
+      "line": 25
+    },
+    "Sethi": {
+      "unit": "ch18",
+      "path": "books/book-01/manuscript/chapters/chapter-18.md",
+      "line": 25
+    },
+    "Rao’s": {
+      "unit": "ch18",
+      "path": "books/book-01/manuscript/chapters/chapter-18.md",
+      "line": 27
+    },
+    "Arjun’s": {
+      "unit": "ch18",
+      "path": "books/book-01/manuscript/chapters/chapter-18.md",
+      "line": 31
+    },
+    "Mountain": {
+      "unit": "ch18",
+      "path": "books/book-01/manuscript/chapters/chapter-18.md",
+      "line": 43
+    },
+    "Windblown": {
+      "unit": "ch18",
+      "path": "books/book-01/manuscript/chapters/chapter-18.md",
+      "line": 55
+    },
+    "Connect": {
+      "unit": "ch18",
+      "path": "books/book-01/manuscript/chapters/chapter-18.md",
+      "line": 73
+    },
+    "Photographs": {
+      "unit": "ch18",
+      "path": "books/book-01/manuscript/chapters/chapter-18.md",
+      "line": 89
+    },
+    "Restoration": {
+      "unit": "ch18",
+      "path": "books/book-01/manuscript/chapters/chapter-18.md",
+      "line": 95
+    },
+    "SOURCE-RECORD": {
+      "unit": "ch18",
+      "path": "books/book-01/manuscript/chapters/chapter-18.md",
+      "line": 144
+    },
+    "SOURCE-STATE": {
+      "unit": "ch18",
+      "path": "books/book-01/manuscript/chapters/chapter-18.md",
+      "line": 146
+    },
+    "Replace": {
+      "unit": "ch18",
+      "path": "books/book-01/manuscript/chapters/chapter-18.md",
+      "line": 150
+    },
+    "Erase": {
+      "unit": "ch18",
+      "path": "books/book-01/manuscript/chapters/chapter-18.md",
+      "line": 152
+    },
+    "Departure": {
+      "unit": "ch18",
+      "path": "books/book-01/manuscript/chapters/chapter-18.md",
+      "line": 167
+    },
+    "ARJ-K17-ACK-01": {
+      "unit": "ch18",
+      "path": "books/book-01/manuscript/chapters/chapter-18.md",
+      "line": 205
+    },
+    "Restoring": {
+      "unit": "ch18",
+      "path": "books/book-01/manuscript/chapters/chapter-18.md",
+      "line": 217
+    },
+    "Since": {
+      "unit": "ch18",
+      "path": "books/book-01/manuscript/chapters/chapter-18.md",
+      "line": 246
+    },
+    "Sponsorship": {
+      "unit": "ch19",
+      "path": "books/book-01/manuscript/chapters/chapter-19.md",
+      "line": 41
+    },
+    "Senate": {
+      "unit": "ch19",
+      "path": "books/book-01/manuscript/chapters/chapter-19.md",
+      "line": 53
+    },
+    "Interpretation": {
+      "unit": "ch19",
+      "path": "books/book-01/manuscript/chapters/chapter-19.md",
+      "line": 69
+    },
+    "Add": {
+      "unit": "ch19",
+      "path": "books/book-01/manuscript/chapters/chapter-19.md",
+      "line": 82
+    },
+    "APX-B3-IR-5521": {
+      "unit": "ch19",
+      "path": "books/book-01/manuscript/chapters/chapter-19.md",
+      "line": 90
+    },
+    "Certify": {
+      "unit": "ch19",
+      "path": "books/book-01/manuscript/chapters/chapter-19.md",
+      "line": 106
+    },
+    "DCIS-FR-187463-01": {
+      "unit": "ch19",
+      "path": "books/book-01/manuscript/chapters/chapter-19.md",
+      "line": 124
+    },
+    "Tracks": {
+      "unit": "ch19",
+      "path": "books/book-01/manuscript/chapters/chapter-19.md",
+      "line": 151
+    },
+    "Present": {
+      "unit": "ch19",
+      "path": "books/book-01/manuscript/chapters/chapter-19.md",
+      "line": 171
+    },
+    "Especially": {
+      "unit": "ch19",
+      "path": "books/book-01/manuscript/chapters/chapter-19.md",
+      "line": 189
+    },
+    "Renee": {
+      "unit": "ch19",
+      "path": "books/book-01/manuscript/chapters/chapter-19.md",
+      "line": 203
+    },
+    "Collins": {
+      "unit": "ch19",
+      "path": "books/book-01/manuscript/chapters/chapter-19.md",
+      "line": 203
+    },
+    "Locator": {
+      "unit": "ch19",
+      "path": "books/book-01/manuscript/chapters/chapter-19.md",
+      "line": 228
+    },
+    "Exception": {
+      "unit": "ch20",
+      "path": "books/book-01/manuscript/chapters/chapter-20.md",
+      "line": 1
+    },
+    "COMPROMISE-CONTROL": {
+      "unit": "ch20",
+      "path": "books/book-01/manuscript/chapters/chapter-20.md",
+      "line": 14
+    },
+    "Located": {
+      "unit": "ch20",
+      "path": "books/book-01/manuscript/chapters/chapter-20.md",
+      "line": 16
+    },
+    "Pending": {
+      "unit": "ch20",
+      "path": "books/book-01/manuscript/chapters/chapter-20.md",
+      "line": 16
+    },
+    "Immediate": {
+      "unit": "ch20",
+      "path": "books/book-01/manuscript/chapters/chapter-20.md",
+      "line": 28
+    },
+    "Exterior": {
+      "unit": "ch20",
+      "path": "books/book-01/manuscript/chapters/chapter-20.md",
+      "line": 30
+    },
+    "Internal": {
+      "unit": "ch20",
+      "path": "books/book-01/manuscript/chapters/chapter-20.md",
+      "line": 30
+    },
+    "Delay": {
+      "unit": "ch20",
+      "path": "books/book-01/manuscript/chapters/chapter-20.md",
+      "line": 50
+    },
+    "Vega": {
+      "unit": "ch20",
+      "path": "books/book-01/manuscript/chapters/chapter-20.md",
+      "line": 50
+    },
+    "Compromise": {
+      "unit": "ch20",
+      "path": "books/book-01/manuscript/chapters/chapter-20.md",
+      "line": 68
+    },
+    "Marisol": {
+      "unit": "ch20",
+      "path": "books/book-01/manuscript/chapters/chapter-20.md",
+      "line": 73
+    },
+    "Vann": {
+      "unit": "ch20",
+      "path": "books/book-01/manuscript/chapters/chapter-20.md",
+      "line": 73
+    },
+    "Samuel": {
+      "unit": "ch20",
+      "path": "books/book-01/manuscript/chapters/chapter-20.md",
+      "line": 73
+    },
+    "Drennan’s": {
+      "unit": "ch20",
+      "path": "books/book-01/manuscript/chapters/chapter-20.md",
+      "line": 73
+    },
+    "Drennan": {
+      "unit": "ch20",
+      "path": "books/book-01/manuscript/chapters/chapter-20.md",
+      "line": 79
+    },
+    "Pouch": {
+      "unit": "ch20",
+      "path": "books/book-01/manuscript/chapters/chapter-20.md",
+      "line": 83
+    },
+    "Device": {
+      "unit": "ch20",
+      "path": "books/book-01/manuscript/chapters/chapter-20.md",
+      "line": 117
+    },
+    "Vega’s": {
+      "unit": "ch20",
+      "path": "books/book-01/manuscript/chapters/chapter-20.md",
+      "line": 117
+    },
+    "Stillness": {
+      "unit": "ch20",
+      "path": "books/book-01/manuscript/chapters/chapter-20.md",
+      "line": 119
+    },
+    "Assignment": {
+      "unit": "ch20",
+      "path": "books/book-01/manuscript/chapters/chapter-20.md",
+      "line": 121
+    },
+    "Diane": {
+      "unit": "ch20",
+      "path": "books/book-01/manuscript/chapters/chapter-20.md",
+      "line": 123
+    },
+    "Kessler": {
+      "unit": "ch20",
+      "path": "books/book-01/manuscript/chapters/chapter-20.md",
+      "line": 123
+    },
+    "Decide": {
+      "unit": "ch20",
+      "path": "books/book-01/manuscript/chapters/chapter-20.md",
+      "line": 161
+    },
+    "Kessler’s": {
+      "unit": "ch20",
+      "path": "books/book-01/manuscript/chapters/chapter-20.md",
+      "line": 163
+    },
+    "Named": {
+      "unit": "ch20",
+      "path": "books/book-01/manuscript/chapters/chapter-20.md",
+      "line": 174
+    },
+    "Employment": {
+      "unit": "ch20",
+      "path": "books/book-01/manuscript/chapters/chapter-20.md",
+      "line": 182
+    },
+    "Preservation": {
+      "unit": "ch20",
+      "path": "books/book-01/manuscript/chapters/chapter-20.md",
+      "line": 188
+    },
+    "SO-NS-REQ-6540": {
+      "unit": "ch21",
+      "path": "books/book-01/manuscript/chapters/chapter-21.md",
+      "line": 11
+    },
+    "DIA-SAR-PRICE-01": {
+      "unit": "ch21",
+      "path": "books/book-01/manuscript/chapters/chapter-21.md",
+      "line": 15
+    },
+    "DIA-AR-PRICE-01": {
+      "unit": "ch21",
+      "path": "books/book-01/manuscript/chapters/chapter-21.md",
+      "line": 42
+    },
+    "Joint": {
+      "unit": "ch21",
+      "path": "books/book-01/manuscript/chapters/chapter-21.md",
+      "line": 51
+    },
+    "Anacostia": {
+      "unit": "ch21",
+      "path": "books/book-01/manuscript/chapters/chapter-21.md",
+      "line": 51
+    },
+    "Bolling": {
+      "unit": "ch21",
+      "path": "books/book-01/manuscript/chapters/chapter-21.md",
+      "line": 51
+    },
+    "Rina": {
+      "unit": "ch21",
+      "path": "books/book-01/manuscript/chapters/chapter-21.md",
+      "line": 53
+    },
+    "Shah": {
+      "unit": "ch21",
+      "path": "books/book-01/manuscript/chapters/chapter-21.md",
+      "line": 53
+    },
+    "Assign": {
+      "unit": "ch21",
+      "path": "books/book-01/manuscript/chapters/chapter-21.md",
+      "line": 117
+    },
+    "Agreeing": {
+      "unit": "ch21",
+      "path": "books/book-01/manuscript/chapters/chapter-21.md",
+      "line": 135
+    },
+    "Include": {
+      "unit": "ch21",
+      "path": "books/book-01/manuscript/chapters/chapter-21.md",
+      "line": 137
+    },
+    "Identity": {
+      "unit": "ch21",
+      "path": "books/book-01/manuscript/chapters/chapter-21.md",
+      "line": 160
+    },
+    "DIA’s": {
+      "unit": "ch21",
+      "path": "books/book-01/manuscript/chapters/chapter-21.md",
+      "line": 174
+    },
+    "EVENT-CLASS": {
+      "unit": "ch21",
+      "path": "books/book-01/manuscript/chapters/chapter-21.md",
+      "line": 189
+    },
+    "APX-B3-RR-0754": {
+      "unit": "ch22",
+      "path": "books/book-01/manuscript/chapters/chapter-22.md",
+      "line": 15
+    },
+    "SOURCE-NATIVE": {
+      "unit": "ch22",
+      "path": "books/book-01/manuscript/chapters/chapter-22.md",
+      "line": 16
+    },
+    "SO-CB-6540-01": {
+      "unit": "ch22",
+      "path": "books/book-01/manuscript/chapters/chapter-22.md",
+      "line": 45
+    },
+    "Continuity": {
+      "unit": "ch22",
+      "path": "books/book-01/manuscript/chapters/chapter-22.md",
+      "line": 45
+    },
+    "Complete": {
+      "unit": "ch22",
+      "path": "books/book-01/manuscript/chapters/chapter-22.md",
+      "line": 45
+    },
+    "Privileged": {
+      "unit": "ch22",
+      "path": "books/book-01/manuscript/chapters/chapter-22.md",
+      "line": 47
+    },
+    "APX-ICF-4": {
+      "unit": "ch22",
+      "path": "books/book-01/manuscript/chapters/chapter-22.md",
+      "line": 51
+    },
+    "APX-EXEC-CONTINUITY": {
+      "unit": "ch22",
+      "path": "books/book-01/manuscript/chapters/chapter-22.md",
+      "line": 55
+    },
+    "Absence": {
+      "unit": "ch22",
+      "path": "books/book-01/manuscript/chapters/chapter-22.md",
+      "line": 66
+    },
+    "APX-B3-IDM-0214": {
+      "unit": "ch22",
+      "path": "books/book-01/manuscript/chapters/chapter-22.md",
+      "line": 73
+    },
+    "ARGUS-K17-RC-0751": {
+      "unit": "ch22",
+      "path": "books/book-01/manuscript/chapters/chapter-22.md",
+      "line": 140
+    },
+    "ZERO-WRITE": {
+      "unit": "ch22",
+      "path": "books/book-01/manuscript/chapters/chapter-22.md",
+      "line": 144
+    },
+    "Configuration": {
+      "unit": "ch22",
+      "path": "books/book-01/manuscript/chapters/chapter-22.md",
+      "line": 179
+    },
+    "Integrity": {
+      "unit": "ch22",
+      "path": "books/book-01/manuscript/chapters/chapter-22.md",
+      "line": 234
+    },
+    "Correction": {
+      "unit": "ch23",
+      "path": "books/book-01/manuscript/chapters/chapter-23.md",
+      "line": 1
+    },
+    "Omission": {
+      "unit": "ch23",
+      "path": "books/book-01/manuscript/chapters/chapter-23.md",
+      "line": 38
+    },
+    "Program": {
+      "unit": "ch23",
+      "path": "books/book-01/manuscript/chapters/chapter-23.md",
+      "line": 38
+    },
+    "Originated": {
+      "unit": "ch23",
+      "path": "books/book-01/manuscript/chapters/chapter-23.md",
+      "line": 70
+    },
+    "Constructed": {
+      "unit": "ch23",
+      "path": "books/book-01/manuscript/chapters/chapter-23.md",
+      "line": 72
+    },
+    "Unauthorized": {
+      "unit": "ch23",
+      "path": "books/book-01/manuscript/chapters/chapter-23.md",
+      "line": 72
+    },
+    "Charging": {
+      "unit": "ch23",
+      "path": "books/book-01/manuscript/chapters/chapter-23.md",
+      "line": 72
+    },
+    "Rachel": {
+      "unit": "ch23",
+      "path": "books/book-01/manuscript/chapters/chapter-23.md",
+      "line": 74
+    },
+    "Nwosu": {
+      "unit": "ch23",
+      "path": "books/book-01/manuscript/chapters/chapter-23.md",
+      "line": 74
+    },
+    "DCIS’s": {
+      "unit": "ch23",
+      "path": "books/book-01/manuscript/chapters/chapter-23.md",
+      "line": 74
+    },
+    "LSS’s": {
+      "unit": "ch23",
+      "path": "books/book-01/manuscript/chapters/chapter-23.md",
+      "line": 78
+    },
+    "Qualified": {
+      "unit": "ch23",
+      "path": "books/book-01/manuscript/chapters/chapter-23.md",
+      "line": 86
+    },
+    "Restore": {
+      "unit": "ch23",
+      "path": "books/book-01/manuscript/chapters/chapter-23.md",
+      "line": 100
+    },
+    "Nwosu’s": {
+      "unit": "ch23",
+      "path": "books/book-01/manuscript/chapters/chapter-23.md",
+      "line": 111
+    },
+    "India’s": {
+      "unit": "ch23",
+      "path": "books/book-01/manuscript/chapters/chapter-23.md",
+      "line": 115
+    },
+    "Sharma’s": {
+      "unit": "ch23",
+      "path": "books/book-01/manuscript/chapters/chapter-23.md",
+      "line": 115
+    },
+    "Mission": {
+      "unit": "ch23",
+      "path": "books/book-01/manuscript/chapters/chapter-23.md",
+      "line": 117
+    },
+    "News": {
+      "unit": "ch23",
+      "path": "books/book-01/manuscript/chapters/chapter-23.md",
+      "line": 121
+    },
+    "Investigators": {
+      "unit": "ch23",
+      "path": "books/book-01/manuscript/chapters/chapter-23.md",
+      "line": 133
+    },
+    "Terms": {
+      "unit": "ch24",
+      "path": "books/book-01/manuscript/chapters/chapter-24.md",
+      "line": 1
+    },
+    "Attorney’s": {
+      "unit": "ch24",
+      "path": "books/book-01/manuscript/chapters/chapter-24.md",
+      "line": 13
+    },
+    "Consultation": {
+      "unit": "ch24",
+      "path": "books/book-01/manuscript/chapters/chapter-24.md",
+      "line": 63
+    },
+    "Farm": {
+      "unit": "ch24",
+      "path": "books/book-01/manuscript/chapters/chapter-24.md",
+      "line": 68
+    },
+    "Rank": {
+      "unit": "ch24",
+      "path": "books/book-01/manuscript/chapters/chapter-24.md",
+      "line": 76
+    },
+    "Personal": {
+      "unit": "ch24",
+      "path": "books/book-01/manuscript/chapters/chapter-24.md",
+      "line": 106
+    },
+    "Consent": {
+      "unit": "ch24",
+      "path": "books/book-01/manuscript/chapters/chapter-24.md",
+      "line": 156
+    },
+    "Expertise": {
+      "unit": "ch24",
+      "path": "books/book-01/manuscript/chapters/chapter-24.md",
+      "line": 182
+    },
+    "Testimony": {
+      "unit": "ch24",
+      "path": "books/book-01/manuscript/chapters/chapter-24.md",
+      "line": 182
+    },
+    "Loyalty": {
+      "unit": "ch24",
+      "path": "books/book-01/manuscript/chapters/chapter-24.md",
+      "line": 182
+    },
+    "Protection": {
+      "unit": "ch24",
+      "path": "books/book-01/manuscript/chapters/chapter-24.md",
+      "line": 192
+    },
+    "Findings": {
+      "unit": "ch24",
+      "path": "books/book-01/manuscript/chapters/chapter-24.md",
+      "line": 216
+    },
+    "Webb’s": {
+      "unit": "ch24",
+      "path": "books/book-01/manuscript/chapters/chapter-24.md",
+      "line": 245
+    },
+    "Little": {
+      "unit": "ch24",
+      "path": "books/book-01/manuscript/chapters/chapter-24.md",
+      "line": 263
+    },
+    "Mandates": {
+      "unit": "ch24",
+      "path": "books/book-01/manuscript/chapters/chapter-24.md",
+      "line": 269
+    },
+    "Participants": {
+      "unit": "ch24",
+      "path": "books/book-01/manuscript/chapters/chapter-24.md",
+      "line": 269
+    },
+    "Lawyer": {
+      "unit": "ch24",
+      "path": "books/book-01/manuscript/chapters/chapter-24.md",
+      "line": 273
+    },
+    "Monday": {
+      "unit": "ch24",
+      "path": "books/book-01/manuscript/chapters/chapter-24.md",
+      "line": 279
+    }
+  }
+}

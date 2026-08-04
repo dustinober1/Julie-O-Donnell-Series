@@ -7,3 +7,7 @@ __pycache__/
 *.py[cod]
 *.wav
 books/book-01/Veridrift.m4b
+
+# Regenerated in under a second by tools/extract_book1_detail_index.py; the
+# rule results and derived chronology are the durable records.
+artifacts/book1-detail-index.json
