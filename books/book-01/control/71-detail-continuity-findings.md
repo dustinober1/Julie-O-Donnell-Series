@@ -2,7 +2,8 @@
 
 **Plan:** `70-detail-continuity-audit-plan.md`
 **Phases executed:** Phase 0 (baseline), Phase 1 mechanical half (D1, D2, D3, D8), Phase 2 rules R1–R8, Phase 3 adjudication of everything those rules surfaced
-**Not yet executed:** Phase 1 scene cards (D4, D5, D6, D7, D9) and the judgment rules R9–R14
+**Also executed:** targeted R9/R10/R11 judgment checks over Chapters 5–14 (§6a)
+**Not yet executed:** the full scene-card pass (D4, D5, D6, D7, D9), rules R12–R14, and any judgment check over Chapters 15–24
 **Audit head commit:** `08e1b7df53624a8bbea1bbfd7c18062c6f0f84bb`
 **Manuscript state:** frozen; no accepted prose file was modified by this pass
 **Date:** 2026-08-04
@@ -201,6 +202,59 @@ Recorded because each was a false positive the accepted manuscript exposed, and 
 
 The lesson generalizes: a rule that cannot distinguish a stormwater discharge from a suppression countdown will produce confident nonsense at volume. Every rule here was tightened until its output was small enough to adjudicate by hand.
 
+## 6a. Targeted judgment checks on B2 and B3
+
+Not the full scene-card pass. These were focused checks on the three
+judgment rules most likely to hold a defect, run over Chapters 5–14 — the
+batches carrying the midnight crossing, the repaired 5-to-6 seam, the
+concurrent countdowns, and the densest custody load. Recorded so a later
+full pass knows what has and has not been looked at.
+
+**R9 possession chain — clean.**
+
+The Chapter 5 to Chapter 6 shutter handoff matches the accepted repair
+architecture exactly. Chapter 5 ends with Marcus holding the case handle and
+the tool bag (ch05:1225); Chapter 6 has him throw the case through ahead of
+the others, fling the bag through on Julie's shout, and dive after it
+(ch06:23–29). The bag splits open and scatters a flashlight, tape, and the
+pry bar — all three of which were established as its contents in Chapter 5
+(ch05:481, 535, 1004).
+
+The Chapter 10 custody formation is meticulous. Julie records the case seal
+indicator, serial, integrity-manifest identifier, and display state verbatim,
+then names every person who handled it since Building Three and notes
+explicitly that Elias did not (ch10:305–313). The cartridge, board, and dead
+transponder are separated, bagged, and logged individually (ch10:327, 598).
+The board stays with Elias throughout (ch10:321, 598; ch11:11, 212, 232).
+
+**R10 capability ceilings — clean.**
+
+Julie's wrist injury is acquired on the page: she takes Marcus's weight
+through the shutter (ch06:27) and immediately after, "Julie flexed the hand
+that had taken his weight. Pain ran from her thumb into her wrist"
+(ch06:37). Every subsequent action respects it — left forearm to shove the
+case through (ch07:473), injured right *forearm* rather than grip to catch a
+weapon hand (ch07:445), and an explicit re-check in the cutout where she
+tries to flex the wrist and the pain has deepened (ch10:219).
+
+Elias's bandaged index finger and Marcus's ribs are tracked with the same
+consistency (ch11:11, 212; ch07:443).
+
+**R11 knowledge ordering — clean at the index level.**
+
+The R8 first-mention index was checked against the order in which each
+entity becomes usable. Nothing is used before it is introduced. PCF-27 is
+named when the van is acquired (ch09), Fenwick before the intake (ch11 into
+ch12), Hartwell before the garage (ch12 into ch13), SSO-NS-004 at the WSS-4
+session (ch12), and the investigative cast — Grant, Alvarez, Webb, Kessler —
+only once the investigation reaches them (ch16, ch20). The 07:08
+synchronization is discussed in Chapter 10 as a scheduled future event, not
+as knowledge held early.
+
+This is index-level, not scene-level. It confirms nothing is referenced
+before introduction; it does not confirm that every character's private
+knowledge state is correct at every moment. That remains open.
+
 ## 7. What this pass does not cover
 
 R1–R8 reach only what pattern matching can see. The classes most likely to hold undetected defects are untouched:
@@ -210,7 +264,9 @@ R1–R8 reach only what pattern matching can see. The classes most likely to hol
 - **D7 / R11 knowledge ordering** — characters acting on information before they receive it
 - **D4 / R12 physical transit**, **D9 / R13 surface continuity**, **R14 proof-ceiling discipline**
 
-Per §10 of the plan, the registries coming back clean is real evidence that drafting was tighter than remembered. The recommended next step is to prioritize the scene-card pass toward **B2 (Chapters 5–9)** and **B3 (Chapters 10–14)** rather than run all 25 files exhaustively — B2 contains the midnight crossing, the repaired 5-to-6 seam, and the concurrent countdowns; B3 carries the densest custody and cross-reference load.
+Per §10 of the plan, the registries coming back clean was treated as evidence that drafting was tighter than remembered, so the judgment effort was aimed at B2 and B3 rather than spread across all 25 files. Those targeted checks (§6a) also came back clean.
+
+What remains is the scene-level work over **Chapters 15–24** — the custody, examination, and public-correction chapters where R14 proof-ceiling discipline carries the most weight — plus R12 physical transit and R13 surface continuity across the whole book. On the evidence so far, the expected yield from the prose is low and the expected yield from the control layer is higher, since all three defects found to date were control defects.
 
 ## 8. Verdict
 

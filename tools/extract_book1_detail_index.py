@@ -32,15 +32,8 @@ from __future__ import annotations
 import argparse
 import json
 import re
-import sys
 from dataclasses import dataclass, asdict
 from pathlib import Path
-
-try:
-    import yaml
-except ImportError:  # pragma: no cover - environment guard
-    print("PyYAML is required: pip install pyyaml", file=sys.stderr)
-    raise SystemExit(2)
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 MANIFEST = REPO_ROOT / "books/book-01/ACCEPTED_MANUSCRIPT.yaml"
@@ -151,9 +144,29 @@ class Record:
     mid_sentence: bool = False
 
 
+# Parsed by regex rather than PyYAML so this runs in the same bare CI job as
+# the other permanent Book 1 validators, which carry no third-party
+# dependencies. Mirrors the shape used by book1_publication_readiness_core.
+MANIFEST_ENTRY = re.compile(
+    r'^  - path: "([^"]+)"\n'
+    r'    title: "([^"]+)"\n'
+    r'    accepted_on: "[^"]+"\n'
+    r"    words: (\d+)\n"
+    r'    sha256: "([0-9a-f]{64})"',
+    re.MULTILINE,
+)
+
+
 def load_manifest() -> list[dict]:
-    data = yaml.safe_load(MANIFEST.read_text(encoding="utf-8"))
-    return data["accepted_files"]
+    text = MANIFEST.read_text(encoding="utf-8")
+    accepted_block = text.split("\nexcluded_from_canon:", 1)[0]
+    entries = [
+        {"path": path, "title": title, "words": int(words), "sha256": sha256}
+        for path, title, words, sha256 in MANIFEST_ENTRY.findall(accepted_block)
+    ]
+    if len(entries) != 25:
+        raise SystemExit(f"expected 25 accepted prose files, found {len(entries)}")
+    return entries
 
 
 def unit_name(path: str) -> str:
