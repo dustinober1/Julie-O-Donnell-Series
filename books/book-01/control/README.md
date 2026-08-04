@@ -41,6 +41,7 @@ These are deliberate series threads, not Book 1 continuity gaps.
 - Publication-master freeze: `66-publication-master-freeze.md`
 - Production package build record: `67-production-package-build.md`
 - Production proof approval: `69-production-proof-approval.md`
+- Detail continuity audit plan (proposed, not executed): `70-detail-continuity-audit-plan.md`
 - Final package manifest: `../production/final/Veridrift_Final_Package_Manifest.json`
 - Final publication review: `../production/final/Veridrift_Final_Publication_Review.md`
 - Final package checksums: `../production/final/CHECKSUMS.sha256`
