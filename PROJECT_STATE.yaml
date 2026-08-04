@@ -28,8 +28,9 @@ book_1:
     prologue: "accepted"
     chapters: 24
     accepted_files: 25
-    crisis_day: "October 13"
-    investigation_and_release: "October 14-16"
+    crisis_days: "October 12-13"
+    investigation_and_release: "October 13-16"
+    calendar_note: "Chapters 1-14 state no date. Chapter 5 crosses midnight in a continuous sequence, so the Apex review opens October 12 and the facility climax falls October 13. Derived in artifacts/book1-derived-chronology.md; see books/book-01/control/71-detail-continuity-findings.md finding DC-01."
   revision_completed: "2026-07-18"
   publication_rhythm_pass_completed: "2026-07-18"
   one_sentence_paragraph_repair_completed: "2026-07-18"

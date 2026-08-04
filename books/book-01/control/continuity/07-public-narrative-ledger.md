@@ -11,7 +11,11 @@
 | Marcus testimony | Marcus | There was confusion in the room. | He knew Hargrove understood Julie's substantive objection. |
 | Institutional result | Army/Apex program | Julie is cleared of misconduct while the causal account remains analyst delay; Argus continues. | Machine/source failure and gateway delay remain unresolved. |
 
-## October 13 — Apex and fugitive narrative
+## October 12–13 — Apex and fugitive narrative
+
+The review-room hold and the early internal statement for Elias occur on
+October 12. The Building Three alert and everything after it occur on
+October 13, after the midnight crossing inside Chapter 5.
 
 | Stage | Source / speaker | Claim | Evidence state at the time |
 |---|---|---|---|
