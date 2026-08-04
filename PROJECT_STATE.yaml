@@ -7,9 +7,10 @@ series:
   status: "active"
 
 repository:
-  authority: "GitHub is the sole active source of truth"
+  authority: "GitHub is the sole active source of truth for the series, Book 1, and Book 2"
   branch_policy: "main remains protected; developmental, acceptance, migration, and publication-readiness changes are reviewed through PR"
   book_1_source_of_truth: "books/book-01/ACCEPTED_MANUSCRIPT.yaml"
+  book_2_source_of_truth: "books/book-02/MANUSCRIPT_STATUS.yaml"
   drive_role: "archived snapshots, review copies generated from GitHub, large production binaries, and nontechnical collaborator distribution only"
   updated: "2026-07-25"
 
@@ -59,6 +60,38 @@ book_1:
     - "perform a retailer-specific preview immediately before upload"
     - "record retailer upload or release status when it occurs"
     - "make any future prose correction only through an explicit correction record and reviewed PR"
+
+book_2:
+  title: "TBD"
+  status: "in_drafting"
+  source_of_truth: "books/book-02/MANUSCRIPT_STATUS.yaml"
+  migrated_from_drive: "2026-08-04"
+  migration_record: "migration/drive-to-github-2026-08-04/"
+  planned_structure: "prologue plus chapters 1-37, five acts"
+  planned_words: 109800
+  target_words_min: 105000
+  target_words_max: 112000
+  narrative_units_planned: 38
+  narrative_units_existing: 2
+  accepted_words: 2712
+  drafted_words: 5582
+  accepted_units:
+    - "chapter-01 — A Written Boundary"
+  drafted_pending_acceptance:
+    - "chapter-02 — The Missing Architect"
+  story_opens: "2027-06-23, Interior British Columbia"
+  decisions_locked: "001-149"
+  next_workstream: "Book 2 Chapter 2 Formal Acceptance and Revision Review"
+  migration_incomplete: true
+  migration_pending:
+    - "04 - Book 2 Premise & Story Architecture Lock (controlling premise)"
+    - "03 - Book 2 Decision Log & Canon Ledger (Decisions 001-149)"
+    - "07 - Book 2 Scene Architecture and Chapter Mission Locks"
+    - "05 - Book 2 Act Architecture (not located during enumeration)"
+  open_conflicts:
+    - "BC-01: Drive control documents still state that GitHub cannot establish Book 2 canon"
+    - "BC-02: two prologue designs existed; the chapter architecture controls"
+    - "BC-03: another series' control documents are filed under Book 2 titles in Drive"
 
 quality_controls:
   publication_readiness_validator: "tools/validate_book1_publication_readiness.py"
