@@ -29,6 +29,7 @@ October 12 and the 06:41 office request to "the next morning." See
 
 | EDT | Event | Status |
 |---|---|---|
+| 02:14 | The original identity-construction and deployment path is created and attributed to Elias's employee cryptographic token while he is asleep at home. Chapter 2 places this "that morning," on this day, not the day of the facility climax. | LOCKED / OPEN constructor |
 | Before 10:00 | Marcus reaches Julie's farm with the repeating Pakistan telemetry and asks for independent review. | LOCKED |
 | 10:43 | Julie leaves Culpeper for Reston. | LOCKED |
 | 11:39 | Apex modifies Julie's access profile after her arrival enters the facility system. | LOCKED / VALIDATE authority |

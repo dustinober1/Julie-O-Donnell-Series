@@ -33,6 +33,7 @@ The surviving official account removes the causal significance of the gateway de
 
 # October 12
 
+02:14 — The original identity-construction and deployment path is created and attributed to Elias Thorne's employee cryptographic token. The human or upstream instruction that initiated it remains unidentified. Chapter 2 places this "that morning," during the same day as the Apex review, roughly nine and a half hours before Elias discovers it at his desk.
 Leland Price submits DIA-SAR-PRICE-01 to preserve a transient Argus source state and request read-only review.
 Price's last active DIA audit session ends at 17:58.
 His classified authority is suspended five minutes later.
@@ -41,7 +42,9 @@ A later rejected read-only reopening attempt remains part of his authentic adver
 
 # October 13 — Initial Operation
 
-02:14 — The original identity-construction and deployment path is created. The human or upstream instruction that initiated it remains unidentified.
+The 02:14 construction that this operation depends on occurred the previous
+day. See the October 12 section.
+
 Approximately 04:59:50 — Julie's provenance reconciliation suspends the external commit and forces mandatory human review.
 By 05:14:36 — Julie, Marcus, and Elias escape Building Three in PCF-27.
 06:41:18 — SO-NS-REQ-6540 is created using Price's identity and inherited request reference after his active authority has ended.

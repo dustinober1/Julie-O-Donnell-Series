@@ -106,7 +106,7 @@ Moving the climax from 16:xx to 04:xx pushed it across midnight. The prose absor
 
 ### Corroboration from the series layer
 
-`series/book-01-timeline-and-clock-handoff.md` — an active, series-level control — **already carries the correct two-day structure**. It has a `# October 12` section holding Price's SAR and his 17:58 suspension, and a `# October 13 — Initial Operation` section holding 02:14, 04:59:50, 05:14:36, 06:41:18, 07:08, and the 07:51–07:54 release sequence.
+`series/book-01-timeline-and-clock-handoff.md` — an active, series-level control — **already carries the correct two-day structure**. It has a `# October 12` section holding Price's SAR and his 17:58 suspension, and a `# October 13 — Initial Operation` section holding 04:59:50, 05:14:36, 06:41:18, 07:08, and the 07:51–07:54 release sequence. (Its 02:14 entry was on the wrong side of that boundary — see DC-03 below.)
 
 That is the same reading the prose gives, and it directly contradicts the book-level master timeline. Two active controls disagreed about what day the climax falls on, and the series-level one was right. The book-level timeline was repaired to match.
 
@@ -150,6 +150,33 @@ Replaced with four rows verified line by line against Chapter 5:
 
 This finding is a direct consequence of DC-01: forcing the two-day split required examining the split point, and the stale row was sitting on it.
 
+## 4b. Finding DC-03 — the 02:14 attribution was dated to the wrong day
+
+**Classification:** CONTRADICTION between prose and an active series control
+**Severity:** material; 02:14 is the book's central unresolved thread and carries into Books 2–5
+**Repair:** applied 2026-08-04
+
+`series/book-01-timeline-and-clock-handoff.md` filed the 02:14 identity construction under `# October 13 — Initial Operation`. The prose puts it a day earlier.
+
+Chapter 2 is explicit. Elias, at his desk during the Apex review day, finds the deployment authorization:
+
+> His employee cryptographic token had approved the bridge at **02:14 that morning**. At 02:14, Elias had been asleep in his townhouse.
+
+"That morning" is the morning of the day he is working — the Apex review day, which is **October 12**. The construction precedes Julie's 11:52 arrival by roughly nine and a half hours, and precedes the facility climax by about twenty-six hours, not two and a half.
+
+This defect was invisible under the old single-day reading. When every scene was filed under October 13, "02:14 that morning" and the 04:50 climax sat on the same day and nothing contradicted anything. Correcting DC-01 is what exposed it — and it is the clearest demonstration of why DC-01 mattered even though the prose was right.
+
+Note that the series handoff had the harder half correct: it already separated Price's October 12 record from the October 13 operation. Only the 02:14 line was on the wrong side.
+
+**Repair:**
+
+| File | Change |
+|---|---|
+| `series/book-01-timeline-and-clock-handoff.md` | Moved the 02:14 entry from the October 13 section to October 12, with the Chapter 2 basis stated. Left a pointer in the October 13 section so the dependency stays visible. |
+| `continuity/01-master-timeline.md` | Added 02:14 to the October 12 table. The book-level timeline had never carried it as a dated event at all. |
+
+The undated references to "the original 02:14 deployment" in the evidence, knowledge, and technology ledgers were checked and are correct as written; they assert no day.
+
 ## 5. Items adjudicated as NO ISSUE
 
 | Item | Rule | Adjudication |
@@ -187,6 +214,12 @@ Per §10 of the plan, the registries coming back clean is real evidence that dra
 
 ## 8. Verdict
 
-# PASS WITH TWO CONTROL DEFECTS, BOTH REPAIRED
+# PASS WITH THREE CONTROL DEFECTS, ALL REPAIRED
 
-The accepted prose passed every mechanical rule and required no change. One structural defect was found in the control layer: Book 1's date headings compress two calendar days into one. It cannot be reached by any existing control, it is invisible from the prose alone because Chapters 1–14 state no date, and it would propagate into the series bible and into any future correction that trusted the timeline heading.
+The accepted prose passed every mechanical rule and required no change. Three defects were found in the control layer, all repaired, none requiring a prose change:
+
+- **DC-01** — Book 1's date headings compressed two calendar days into one.
+- **DC-02** — a superseded 16:xx re-entry row survived in the master timeline, contradicting a note three lines beneath it.
+- **DC-03** — the 02:14 identity construction, the book's central unresolved thread, was dated to the wrong day in the series handoff.
+
+DC-02 and DC-03 were both found *because* DC-01 was repaired. Neither was reachable while the calendar collapsed two days into one: DC-02 sat exactly on the split point, and DC-03 was self-consistent under the wrong reading. That is the argument for the bottom-up direction in one line — the top-down passes had examined all three of these files and found nothing, because they were checking the facts someone had already thought to record.
