@@ -84,34 +84,36 @@ imported:
     drive_parent: "02_BOOK 2/02_Outline & Beats"
     drive_modified: "2026-07-25T23:54:11.237Z"
     authority: "active"
-
-pending:
-  - drive_title: "04 - Book 2 Premise & Story Architecture Lock"
+  - path: "books/book-02/control/04-premise-and-story-architecture-lock.md"
+    sha256: "ca3e2304039d37586a552bd974a251cf5680a9301a96aba306ee84ef6235d47b"
+    drive_title: "04 - Book 2 Premise & Story Architecture Lock"
     drive_file_id: "1Ii27Q_3Fc2UtrWnTzEu7dyt7O4VmmRyCeDs97IkBnhc"
     drive_parent: "02_BOOK 2/00_CURRENT CONTROL & QA"
     drive_modified: "2026-07-25T23:58:04.830Z"
-    approx_bytes: 166874
-    destination: "books/book-02/control/04-premise-and-story-architecture-lock.md"
-    note: "Controlling premise. Every other Book 2 document defers to it."
-  - drive_title: "03 - Book 2 Decision Log & Canon Ledger"
+    authority: "controlling_premise_lock"
+    words: 68906
+  - path: "books/book-02/control/03-decision-log-and-canon-ledger.md"
+    sha256: "c80b77f945bc4d30469073facd968e923fb2f51df43979f338534764082f8e1d"
+    drive_title: "03 - Book 2 Decision Log & Canon Ledger"
     drive_file_id: "19UxBut4TxCOLoXjWCDc-_8ixLMJqeX0rrewSadbqxvY"
     drive_parent: "02_BOOK 2/00_CURRENT CONTROL & QA"
     drive_modified: "2026-07-26T01:03:24.215Z"
-    approx_bytes: 200266
-    destination: "books/book-02/control/03-decision-log-and-canon-ledger.md"
-    note: "Decisions 001-149, the locked canon record."
-  - drive_title: "07 - Book 2 Scene Architecture and Chapter Mission Locks"
+    authority: "active_canon_ledger_decisions_001_149"
+    words: 84015
+  - path: "books/book-02/outline/07-scene-architecture-and-chapter-mission-locks.md"
+    sha256: "748fd95085d28a1df87966f45af9e8bd05ae6d94c5f359a1c745f3f4963f17b5"
+    drive_title: "07 - Book 2 Scene Architecture and Chapter Mission Locks"
     drive_file_id: "1mHFwxEa3Nk9q0KYQwyqYYPc9Eokqh0L9-eJoL3Z19w4"
     drive_parent: "02_BOOK 2/02_Outline & Beats"
     drive_modified: "2026-07-25T23:58:41.922Z"
-    approx_bytes: 72478
-    destination: "books/book-02/outline/07-scene-architecture-and-chapter-mission-locks.md"
-    note: "Scene-level clocks, locations, and mission locks."
+    authority: "active_scene_architecture"
+    words: 35876
+
+pending:
   - drive_title: "05 - Book 2 Act Architecture"
     drive_file_id: null
-    drive_parent: "not located in the three enumerated Book 2 folders"
-    destination: "books/book-02/outline/05-act-architecture.md"
-    note: "Referenced by several documents but not found during enumeration. Content is summarized in outline/06-chapter-architecture.md section 4."
+    status: "does_not_exist"
+    note: "Cited as governing authority by six Book 2 documents but absent from Drive. Searched by exact title and by title-plus-content; no match. See conflict-log.md BC-04. Act-level content is covered by books/book-02/outline/06-chapter-architecture.md section 4."
 
 excluded:
   - drive_parent_id: "1Hc9qwOCu2yCitjHQbraXL5cmdUfyK1lq"

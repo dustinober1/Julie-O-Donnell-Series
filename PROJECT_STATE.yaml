@@ -82,16 +82,13 @@ book_2:
   story_opens: "2027-06-23, Interior British Columbia"
   decisions_locked: "001-149"
   next_workstream: "Book 2 Chapter 2 Formal Acceptance and Revision Review"
-  migration_incomplete: true
-  migration_pending:
-    - "04 - Book 2 Premise & Story Architecture Lock (controlling premise)"
-    - "03 - Book 2 Decision Log & Canon Ledger (Decisions 001-149)"
-    - "07 - Book 2 Scene Architecture and Chapter Mission Locks"
-    - "05 - Book 2 Act Architecture (not located during enumeration)"
+  migration_complete: true
+  migration_note: "All fourteen Book 2 documents present in Drive were imported. One cited document, 05 - Book 2 Act Architecture, does not exist; see conflict BC-04."
   open_conflicts:
     - "BC-01: Drive control documents still state that GitHub cannot establish Book 2 canon"
     - "BC-02: two prologue designs existed; the chapter architecture controls"
     - "BC-03: another series' control documents are filed under Book 2 titles in Drive"
+    - "BC-04: six documents cite 05 - Book 2 Act Architecture, which does not exist"
 
 quality_controls:
   publication_readiness_validator: "tools/validate_book1_publication_readiness.py"

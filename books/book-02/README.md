@@ -24,7 +24,7 @@ Machine-readable state is in `MANUSCRIPT_STATUS.yaml`. A file existing here does
 - `control/` — authority, canon handoff, decisions, and per-chapter drafting and acceptance records.
 - `outline/` — premise, chapter architecture, scene architecture, and mission locks.
 
-Start at `control/00-control-center.md`.
+Start at `control/00-control-center.md`. The controlling premise is `control/04-premise-and-story-architecture-lock.md`; locked canon is `control/03-decision-log-and-canon-ledger.md` (Decisions 001–149).
 
 ## The premise, in one line
 
@@ -46,4 +46,4 @@ These come from `control/01-book-1-to-book-2-canon-handoff.md` and `series/recur
 
 - Book 2 has no title.
 - The prologue is undrafted, and two conflicting prologue designs existed in Drive. The chapter architecture controls; the superseded Duffield data-center design is retained in `outline/01-prologue-situation-and-scene-lock.md` and marked. See conflict BC-02.
-- Three large Drive control documents remain to be imported. Their status is tracked in the migration record.
+- `05 - Book 2 Act Architecture` is cited as governing authority by six documents but does not exist in Drive. Act-level content is covered by `outline/06-chapter-architecture.md` §4. See conflict BC-04.

@@ -52,11 +52,15 @@ The Chapter 2 drafting record was **not** rewritten. It is a closed historical r
 
 These are different openings with different POV characters, locations, casts, and inciting events. Neither document referenced the other. Both were marked LOCKED.
 
-**Resolution:** the chapter architecture controls. It is five days later, it is the document the Chapter 1 drafting authorization cites as governing, and its prologue is the one the accepted Chapter 1 continues from — Chapter 1 opens in the Canadian joint response center dealing with the withdrawn spillway warning, which is the dam prologue's ending state, not a data-center fire.
+**Resolution:** confirmed by the controlling document itself. `04 - Book 2 Premise & Story Architecture Lock`, imported after this conflict was first recorded, states the supersession explicitly:
+
+> This decision supersedes the earlier Cumberland Ridge Data Services / Duffield, Virginia data-center opening and its associated Joel Stidham, Derek Sluss, and anti-automation development direction. Those earlier decisions remain preserved in the Decision Log as historical development records only. They do not control the active Book 2 outline or manuscript.
+
+The chapter architecture is therefore correct, and the reasoning that pointed to it independently also holds: it is five days later, it is cited as governing by the Chapter 1 drafting authorization, and its prologue is the one the accepted Chapter 1 continues from — Chapter 1 opens in the Canadian joint response center dealing with the withdrawn spillway warning, which is the dam prologue's ending state, not a data-center fire.
 
 The Duffield lock was imported and marked SUPERSEDED rather than dropped. Its two-part evidence design, its rule against portraying displaced workers as inherently violent, and its Joel/Derek character work may still be reusable elsewhere.
 
-**Follow-up for the author:** confirm the Duffield material is genuinely retired, or decide deliberately to bring some of it forward. It contains the only worked-out treatment of the automation-and-employment theme in the Book 2 material.
+**Follow-up for the author:** none required for correctness — the supersession is explicit and recorded. Worth noting only that the Duffield lock contains the only worked-out treatment of the automation-and-employment theme in the Book 2 material, and the Drive copy carries no marking to warn a reader that it is retired.
 
 ---
 
@@ -85,6 +89,30 @@ None of it concerns Julie O'Donnell.
 
 ---
 
+## BC-04 — A governing document that does not exist
+
+**Type:** Missing authority. Recorded, not resolved.
+
+Six Book 2 documents cite `05 - Book 2 Act Architecture` as governing authority:
+
+- `outline/06-chapter-architecture.md` §1 lists it among "Governing documents."
+- `control/08-chapter-01-drafting-authorization.md` lists it under "Governing Documents Verified."
+- `control/09-chapter-01-formal-acceptance.md` lists it under "Documents Verified," described as "verified as readable and reviewed."
+- `control/10-chapter-02-drafting-authorization.md` places it third in its control hierarchy.
+- `control/03-decision-log-and-canon-ledger.md` and `outline/07-scene-architecture-and-chapter-mission-locks.md` also reference it.
+
+**No such document exists in Drive.** Searches by exact title and by title-plus-content returned nothing, and it was not present in any of the three Book 2 folders enumerated for this migration.
+
+Two of the citing documents assert that it was verified as readable during their own production gates. That assertion cannot have been accurate.
+
+**Practical effect:** limited. The act-level content those documents needed is present in `outline/06-chapter-architecture.md` §4, which allocates all five acts to chapters with word budgets, and in the premise lock's escalation material. Nothing in the drafted chapters depends on the missing file.
+
+**One discrepancy worth the author's eye:** the premise lock's planning checklist anticipates a **four-part** act architecture, while the implemented chapter architecture uses **five** acts (I–V). The premise lock does refer to Act V elsewhere, so this looks like an early planning value that was superseded rather than a live contradiction — but it was never reconciled in writing, and the document that would have reconciled it is the one that does not exist.
+
+**Follow-up for the author:** decide whether `05` was ever written. If it was and lives outside the three Book 2 folders, it should be imported. If it never existed, the six citing documents overstate their own verification, and the cleanest fix is to point them at `06-chapter-architecture.md` §4 instead.
+
+---
+
 ## Summary
 
 | ID | Conflict | Disposition |
@@ -92,3 +120,4 @@ None of it concerns Julie O'Donnell.
 | BC-01 | Drive documents forbid GitHub authority | Resolved for GitHub; control center rewritten, historical record preserved |
 | BC-02 | Two live prologue designs | Chapter architecture controls; Duffield lock marked superseded |
 | BC-03 | Another series' documents filed as Book 2 | Excluded; flagged to the author |
+| BC-04 | Six documents cite an act architecture that does not exist | Recorded; content is covered elsewhere, no drafting impact |

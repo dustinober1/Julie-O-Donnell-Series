@@ -4,7 +4,7 @@ Moves Book 2 out of Google Drive and into this repository, matching the governan
 
 **Authorization:** author instruction, 2026-08-04, to stop working out of the Google Drive folder.
 
-**Result:** the repository is now the source of truth for Book 2. See `conflict-log.md` for the three conflicts found, including the fact that the Drive control documents explicitly forbade this.
+**Result:** the repository is now the source of truth for Book 2. See `conflict-log.md` for the four conflicts found, including the fact that the Drive control documents explicitly forbade this.
 
 ## What moved
 
@@ -39,31 +39,30 @@ Scene distributions also match: 708/700/660/644 and 675/917/724/554.
 
 ## Import status
 
-**Complete:**
+**Complete.** All fourteen Julie O'Donnell Book 2 documents found in the three enumerated Drive folders were imported:
 
-- `manuscript/chapter-01.md`
-- `manuscript/chapter-02.md`
-- `control/00-control-center.md`
-- `control/01-book-1-to-book-2-canon-handoff.md`
-- `control/02-development-blueprint.md`
-- `control/08-chapter-01-drafting-authorization.md`
-- `control/09-chapter-01-formal-acceptance.md`
-- `control/10-chapter-02-drafting-authorization.md`
-- `outline/00-premise-options-working.md`
-- `outline/01-prologue-situation-and-scene-lock.md` (marked superseded, BC-02)
-- `outline/06-chapter-architecture.md`
+| Destination | Words |
+|---|---|
+| `manuscript/chapter-01.md` | 2,712 (prose) |
+| `manuscript/chapter-02.md` | 2,870 (prose) |
+| `control/00-control-center.md` | amended on import, BC-01 |
+| `control/01-book-1-to-book-2-canon-handoff.md` | |
+| `control/02-development-blueprint.md` | |
+| `control/03-decision-log-and-canon-ledger.md` | 83,951 |
+| `control/04-premise-and-story-architecture-lock.md` | 68,839 |
+| `control/08-chapter-01-drafting-authorization.md` | |
+| `control/09-chapter-01-formal-acceptance.md` | |
+| `control/10-chapter-02-drafting-authorization.md` | |
+| `outline/00-premise-options-working.md` | superseded |
+| `outline/01-prologue-situation-and-scene-lock.md` | superseded, BC-02 |
+| `outline/06-chapter-architecture.md` | |
+| `outline/07-scene-architecture-and-chapter-mission-locks.md` | 35,809 |
 
-**Not yet imported — three large control documents:**
+The three largest documents were imported through `tools/import_drive_doc.py`, which normalizes the Drive text export and writes the provenance header without routing the content through a conversation. Escape-residue checks came back clean on all three.
 
-| Drive title | Drive file ID | Size | Why it matters |
-|---|---|---|---|
-| `04 - Book 2 Premise & Story Architecture Lock` | `1Ii27Q_3Fc2UtrWnTzEu7dyt7O4VmmRyCeDs97IkBnhc` | 167 KB | The controlling premise. Every other document defers to it. |
-| `03 - Book 2 Decision Log & Canon Ledger` | `19UxBut4TxCOLoXjWCDc-_8ixLMJqeX0rrewSadbqxvY` | 200 KB | Decisions 001–149, the locked canon record. |
-| `07 - Book 2 Scene Architecture and Chapter Mission Locks` | `1mHFwxEa3Nk9q0KYQwyqYYPc9Eokqh0L9-eJoL3Z19w4` | 72 KB | Scene-level clocks, locations, and mission locks. |
+Coverage spot-checks: the decision log carries Decisions 001–149 and no Decision 150; the scene architecture covers the prologue through Chapter 37.
 
-Also not imported: `05 - Book 2 Act Architecture`, referenced by several documents but not located in the three folders enumerated above. Its content is summarized inside `outline/06-chapter-architecture.md` §4.
-
-These four are the remaining work. Until they are imported, Drive still holds Book 2 material that exists nowhere else, and the migration is not finished.
+**One document could not be imported because it does not exist:** `05 - Book 2 Act Architecture`, cited as governing authority by six other documents. See `conflict-log.md` BC-04.
 
 ## Verification
 
