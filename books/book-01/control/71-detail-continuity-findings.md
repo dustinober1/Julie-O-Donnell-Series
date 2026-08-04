@@ -255,6 +255,58 @@ This is index-level, not scene-level. It confirms nothing is referenced
 before introduction; it does not confirm that every character's private
 knowledge state is correct at every moment. That remains open.
 
+## 6b. R14 proof-ceiling and R12 transit checks on Chapters 15–24
+
+**R14 proof-ceiling discipline — clean, and the strongest single result in this audit.**
+
+The `continuity/00-readme.md` rule is that a lower proof category never
+silently proves a higher one. Chapters 15–24 hold that line explicitly rather
+than by luck. Chapter 17's examination is *structured* as bounded questions:
+
+> "Does possession establish you used it at 02:14?" … "Does it establish
+> APX-DIR-0019 performed one?" … "It establishes that the physical act
+> attributed to this board did not occur on this board."
+
+Every high-risk claim is separated at the category boundary:
+
+| Passage | Separation held |
+|---|---|
+| ch18:215 | The certificate "did not establish Tariq's presence, possession, keystrokes, or personal command" — registered authority vs. operation vs. command |
+| ch21:20 | Kessler's authorization "did not show her building the request, selecting Price's identity, or receiving instruction from Sterling" — authority vs. authorship vs. instruction |
+| ch22:93 | An absent operator is not converted "into proof that no person had initiated the mirror" — absence of evidence vs. evidence of absence |
+| ch22:160 | The source "did not prove he created Payload 88, initiated the 02:14 identity path, commanded the K-17 team, or acted on Sterling's instruction" |
+| ch22:230 | "The source establishes that he personally committed the later product… It does not establish the earlier act" — the book's central distinction |
+| ch23:80 | "Vance received and superseded the conflict, not why he did so" — operation vs. motive |
+
+The final published record states the ceilings on its face:
+
+```
+VANCE PERSONAL FINDING: LIMITED TO THE LATER REMOTE RELEASE
+STERLING PERSONAL COMMAND: NOT ESTABLISHED
+```
+
+And the correction refuses to overclaim in Julie's favor either: "It did not
+use cleared. It did not use innocent."
+
+The Chapter 23 redline that strips *later* from the Vance finding and converts
+office responsibility into Sterling's personal direction is the **DELIBERATE**
+class — an intentional near-miss that the narrative itself catches, halts, and
+preserves both versions of (ch23:86–104). It is correctly recorded in
+`24-thread-disposition-matrix.md` and is not a defect.
+
+**R12 physical transit — clean on the checkable case.**
+
+Most locations are fictional, so transit is unfalsifiable by design. The one
+real-geography window checks out: Julie turns north onto Route 29 from
+Culpeper at 10:43 (ch01:431) and her arrival enters the facility system at
+11:39 — roughly sixty miles in fifty-six minutes, an ordinary average for that
+corridor.
+
+A related detail worth recording as evidence of how carefully the draft was
+built: ch01:441 has Julie keeping **both hands** on the wheel, before the
+injury. From Chapter 10 onward she drives left-handed with the right forearm
+bracing. The change is never remarked on; it simply holds.
+
 ## 7. What this pass does not cover
 
 R1–R8 reach only what pattern matching can see. The classes most likely to hold undetected defects are untouched:
