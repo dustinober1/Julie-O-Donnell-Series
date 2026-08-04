@@ -14,7 +14,16 @@
 | Nine-week investigation | Four-second ordering disappears from the surviving official timeline; inquiry focuses on whether Julie formally communicated the recommendation; Marcus describes the room as confused. | LOCKED / VALIDATE JAG process |
 | Three months later | Julie resigns. | LOCKED |
 
-## October 13 — immediate crisis
+## October 12 — first review day
+
+The accepted prose runs continuously from this morning across midnight into
+October 13. Chapters 1 through 14 state no date, so this day assignment is
+derived from the prose rather than quoted from it: Chapter 5 crosses midnight
+inside a single unbroken scene sequence, Chapter 15 states October 13 for
+07:49, and Chapter 21 independently dates Price's 17:58 suspension to
+October 12 and the 06:41 office request to "the next morning." See
+`artifacts/book1-derived-chronology.md`, regenerable with
+`python3 tools/check_book1_detail_rules.py --chronology`.
 
 ### Morning and Apex review
 
@@ -28,11 +37,42 @@
 | 13:07 onward | Julie and Marcus escape the first Apex hold with a partial sealed capture. | LOCKED |
 | 13:54–14:32 | Motel analysis establishes the partial evidence limits and Elias's likely role; Hackett orders surrender through an untrusted path. | LOCKED |
 | 14:47–15:36 | Julie and Marcus obtain old facility plans and prepare re-entry. | LOCKED |
-| 15:41–16:14 | Elias is held; Julie and Marcus re-enter; the three reach the core approach. | LOCKED |
+| 15:41–15:43 | Elias is held under administrative security hold; Vance interviews him. | LOCKED |
+| 15:49–15:57 | Julie and Marcus make the first stormwater approach and withdraw when rising water makes passage unsafe; they clear the culvert mouth at 15:57. | LOCKED |
+| 16:21–16:30 | From the Ford, they identify the dependent 05:00 support object in the already captured queue metadata and plan re-entry by the culvert route. | LOCKED |
+| 16:30 EDT / 02:00 IST (Oct 13) | Allied source certification transmits to Forward Post Arjun. The first clock reaches zero. | LOCKED |
+
+### Evening and overnight
+
+Julie and Marcus remain outside the Apex perimeter under active surveillance
+and planning pressure, without meaningful sleep, treatment, or recovery. This
+is the span that carries the story across midnight.
+
+| EDT | Event | Status |
+|---|---|---|
+| 18:06 | Stormwater discharge rises high enough to cover the grate completely. | LOCKED |
+| 21:40 | An Apex utility crew inspects the retention basin and leaves without entering the culvert. | LOCKED |
+| 00:18 (Oct 13) | The visible security pattern shifts from search to fixed containment. | LOCKED |
+| 03:57 (Oct 13) | The pump beneath the southern berm runs eleven minutes instead of twenty-three; the water line begins falling. | LOCKED |
+
+## October 13 — facility re-entry and release window
+
+### Re-entry
+
+| EDT | Event | Status |
+|---|---|---|
+| 04:27–04:38 | Julie and Marcus re-enter through the same stormwater culvert once the pump cycle drops the water line. | LOCKED |
+| 04:44–04:47 | They reach the Compliance Four vestibule and reunite with Elias. | LOCKED |
+| 04:50–04:51 | The three descend through the core access lift into the lower-tier incident-transfer corridor. | LOCKED |
 
 ### Controlling current-time sequence
 
 The accepted developmental revision resets the final lower-tier run to the predawn release window below. Earlier 16:xx drafting timestamps are historical and noncanonical in accepted prose.
+
+Because that revision moved the climax from 16:xx to 04:xx, it moved the climax
+across midnight. The 05:00 external commit and everything after it fall on
+October 13; the 16:30 source certification it depends on falls on October 12.
+The two are fourteen and a half hours apart, not thirty minutes.
 
 | EDT | IST | Event | Status |
 |---|---|---|---|

@@ -51,7 +51,7 @@
 - Narrative form: `eleven-point-two seconds`; technical display form: `11.2`.
 - Scene headings use 24-hour clock plus the full time-zone name unless the accepted heading uses compact `EDT` or `IST` notation.
 - Preserve each source clock and its stated offset. Do not silently force independent clocks onto one master time.
-- Main action dates: October 13–16. The final farm scene has no exact clock time.
+- Main action dates: October 12–16. The Apex review opens on October 12; Chapter 5 crosses midnight and the facility climax falls on October 13. The final farm scene has no exact clock time.
 
 ## Internal and interface text
 

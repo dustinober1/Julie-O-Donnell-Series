@@ -104,16 +104,51 @@ Moving the climax from 16:xx to 04:xx pushed it across midnight. The prose absor
 2. `series/book-01-timeline-and-clock-handoff.md` and the recurring-character ledger carry Book 1's chronology into Books 2–5. An off-by-one day propagates.
 3. Chapters 1 through 14 never state a date. Nothing in the prose contradicts the wrong reading, so it can persist indefinitely.
 
-### Recommended repair — author decision required
+### Corroboration from the series layer
 
-The affected entries are marked LOCKED, and §7 of the plan reserves LOCKED changes for a deliberate reopening. Recommended, on approval:
+`series/book-01-timeline-and-clock-handoff.md` — an active, series-level control — **already carries the correct two-day structure**. It has a `# October 12` section holding Price's SAR and his 17:58 suspension, and a `# October 13 — Initial Operation` section holding 02:14, 04:59:50, 05:14:36, 06:41:18, 07:08, and the 07:51–07:54 release sequence.
 
-1. Split `continuity/01-master-timeline.md` §"October 13 — immediate crisis" into an **October 12** section (10:43 through 21:40) and an **October 13** section (00:18 through 22:18).
-2. Update `PROJECT_STATE.yaml` to `crisis_days: "October 12-13"` and `investigation_and_release: "October 13-16"`.
-3. Re-check the series handoff documents for the same offset.
-4. Add `check_book1_detail_rules.py` to the durable workflows so the derived chronology is regenerated on every future change.
+That is the same reading the prose gives, and it directly contradicts the book-level master timeline. Two active controls disagreed about what day the climax falls on, and the series-level one was right. The book-level timeline was repaired to match.
 
-**No accepted prose file is touched by any of this.**
+### Repair applied 2026-08-04
+
+Applied under author authorization. **No accepted prose file was touched; all 25 manifest hashes still match.**
+
+| File | Change |
+|---|---|
+| `continuity/01-master-timeline.md` | Split `## October 13 — immediate crisis` into `## October 12 — first review day` and `## October 13 — facility re-entry and release window`. Added the derivation note and the previously missing overnight bridge (16:30 certification, 18:06, 21:40, 00:18, 03:57) that carries the story across midnight, plus the 04:27–04:51 re-entry sequence. |
+| `continuity/07-public-narrative-ledger.md` | Retitled the Apex/fugitive narrative section to October 12–13 and noted which stages fall on which day. |
+| `PROJECT_STATE.yaml` | `crisis_day: "October 13"` → `crisis_days: "October 12-13"`; `investigation_and_release: "October 14-16"` → `"October 13-16"`; added a `calendar_note` pointing at the derivation. |
+| `61-copyedit-style-sheet.md` | Main action dates October 13–16 → October 12–16. |
+
+Verified already correct and left unchanged: `continuity/02-evidence-custody-ledger.md` (06:39:16 on October 13), `continuity/01-master-timeline.md` line for the 07:51:38–07:52:12 October 13 source range, and the entire series handoff.
+
+Historical records that state the superseded reading — `59-post-research-continuity-audit.md`, `51-developmental-revision-summary.md`, `56-copyedit-style-sheet.md` — were deliberately left alone. They document the state that existed when they were written.
+
+## 4a. Finding DC-02 — a superseded re-entry row survived in the master timeline
+
+**Classification:** CONTRADICTION between two active controls
+**Severity:** material; the row described an architecture the repository had already replaced
+**Repair:** applied 2026-08-04
+
+`continuity/01-master-timeline.md` carried:
+
+> `| 15:41–16:14 | Elias is held; Julie and Marcus re-enter; the three reach the core approach. | LOCKED |`
+
+That row describes the **pre-repair** 16:xx architecture. Three lines below it, the same file states that "earlier 16:xx drafting timestamps are historical and noncanonical in accepted prose." The row contradicted the note directly beneath it, and both were marked LOCKED.
+
+The accepted architecture in `repairs/chapter-05-to-06-continuity-repair/README.md` is explicit: the first stormwater approach happens *before* 16:30 and is **abandoned**; re-entry happens *before 05:00*. The prose agrees — Julie and Marcus clear the culvert mouth at 15:57, wait out the night, and re-enter at 04:27.
+
+Replaced with four rows verified line by line against Chapter 5:
+
+| Time | Event | Prose |
+|---|---|---|
+| 15:41–15:43 | Elias held; Vance interviews him | ch05:7 |
+| 15:49–15:57 | First stormwater approach and withdrawal | ch05:215, 217, 243 |
+| 16:21–16:30 | 05:00 support object identified from the Ford; culvert re-entry planned | ch05:268, 276, 325 |
+| 04:27–04:51 | Re-entry, Compliance Four reunion, core access lift | ch05:393, 455, 682, 1090 |
+
+This finding is a direct consequence of DC-01: forcing the two-day split required examining the split point, and the stale row was sitting on it.
 
 ## 5. Items adjudicated as NO ISSUE
 
@@ -152,6 +187,6 @@ Per §10 of the plan, the registries coming back clean is real evidence that dra
 
 ## 8. Verdict
 
-# PASS WITH ONE CONTROL DEFECT
+# PASS WITH TWO CONTROL DEFECTS, BOTH REPAIRED
 
 The accepted prose passed every mechanical rule and required no change. One structural defect was found in the control layer: Book 1's date headings compress two calendar days into one. It cannot be reached by any existing control, it is invisible from the prose alone because Chapters 1–14 state no date, and it would propagate into the series bible and into any future correction that trusted the timeline heading.
