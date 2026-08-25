@@ -104,6 +104,7 @@ book_2:
 quality_controls:
   publication_readiness_validator: "tools/validate_book1_publication_readiness.py"
   paragraph_style_validator: "tools/validate_book1_paragraph_styles.py"
+  ending_invariant_validator: "tools/validate_book1_ending_invariants.py"
   developmental_metrics: "tools/analyze_book1_revision.py"
   specialist_review_brief: "books/book-01/control/50-specialist-review-brief.md"
   specialist_review_register: "books/book-01/control/52-specialist-review-register.md"
@@ -117,4 +118,4 @@ quality_controls:
   final_publication_review: "books/book-01/production/final/Veridrift_Final_Publication_Review.md"
   final_package_manifest: "books/book-01/production/final/Veridrift_Final_Package_Manifest.json"
   final_checksums: "books/book-01/production/final/CHECKSUMS.sha256"
-  current_validation: "Proofs rebuilt 2026-08-25 from the 109,498-word master and verified in the binaries: 193 scene headers correctly styled with none in monospace, PAK_RELAY_17A intact in all three formats, tools/test_book1_production.py passing. PR #92's final package predates the corrections and both production fixes. tools/validate_book1_chapter24.py is a drafting-era acceptance validator pinned to the pre-revision draft state; it fails identically before and after this change and is not in CI. See books/book-01/control/78-act-iii-correction-record.md."
+  current_validation: "Proofs rebuilt 2026-08-25 from the 109,498-word master and verified in the binaries: 193 scene headers correctly styled with none in monospace, PAK_RELAY_17A intact in all three formats, tools/test_book1_production.py passing. PR #92's final package predates the corrections and both production fixes. tools/validate_book1_chapter24.py was retired 2026-08-25 and replaced by tools/validate_book1_ending_invariants.py, which guards the ending and both proof ceilings across the whole manuscript and runs in CI; see books/book-01/control/79-chapter24-validator-retirement.md. See books/book-01/control/78-act-iii-correction-record.md."

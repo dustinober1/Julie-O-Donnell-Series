@@ -50,6 +50,8 @@ These are deliberate series threads, not Book 1 continuity gaps.
 - Production-quality pass: `76-production-quality-pass.md`
 - Act III antagonist and compression mission lock: `77-act-iii-antagonist-and-compression-lock.md`
 - Act III correction record and current publication-master freeze: `78-act-iii-correction-record.md`
+- Chapter 24 validator retirement and ending-invariant guard: `79-chapter24-validator-retirement.md`
+- Ending-invariant validator: `../../../tools/validate_book1_ending_invariants.py`
 - Paragraph render-style validator: `../../../tools/validate_book1_paragraph_styles.py`
 - Chronology derived from the prose: `../../../artifacts/book1-derived-chronology.md`
 - Final package manifest: `../production/final/Veridrift_Final_Package_Manifest.json`

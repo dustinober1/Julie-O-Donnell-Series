@@ -31,8 +31,15 @@ jobs:
           python3 tools/count_book1_words.py --expect "$EXPECTED"
       - name: Run publication-readiness checks
         run: python3 tools/validate_book1_publication_readiness.py
+      - name: Validate ending invariants and proof ceilings
+        run: python3 tools/validate_book1_ending_invariants.py
+      - name: Run ending-invariant negative controls
+        working-directory: tools
+        run: python3 -m unittest test_book1_ending_invariants -v
+      - name: Confirm the negative controls restored the manuscript
+        run: git diff --quiet -- books/book-01/manuscript || { echo "::error::Ending-invariant tests left the manuscript modified."; git diff --stat -- books/book-01/manuscript; exit 1; }
       - name: Compile permanent Book 1 validators
-        run: python3 -m py_compile tools/count_book1_words.py tools/validate_book1_publication_readiness.py tools/verify_book1_revision.py
+        run: python3 -m py_compile tools/count_book1_words.py tools/validate_book1_publication_readiness.py tools/verify_book1_revision.py tools/validate_book1_ending_invariants.py
       - name: Parse synchronized YAML controls
         run: ruby -e "require 'yaml'; YAML.load_file('PROJECT_STATE.yaml'); YAML.load_file('books/book-01/ACCEPTED_MANUSCRIPT.yaml')"
       - name: Diff hygiene
