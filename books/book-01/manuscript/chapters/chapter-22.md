@@ -1,6 +1,7 @@
 # Chapter 22 — The Release Record
 
 October 15
+
 12:18 Eastern Daylight Time
 
 Secure MPD Evidence Intake

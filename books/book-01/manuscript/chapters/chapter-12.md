@@ -1,6 +1,7 @@
 # Chapter 12 — The Sterling Trap
 
 Northern Virginia
+
 06:50 Eastern Daylight Time
 
 Sterling’s accusation followed PCF-27 toward the Roosevelt Bridge. Julie held the wheel high with her left hand. Her right forearm rested against the lower spoke because the braced wrist could no longer close around it. The van’s white Potomac Critical Facilities markings remained visible in every mirror they passed. Marcus watched the eastbound lanes with a folded road map against one thigh. The aluminum telemetry case stood upright behind his seat, close enough for him to reach without turning. The waterproof folder under his jacket held the recovery cartridge, custody log, and dead fleet transponder.
@@ -72,7 +73,9 @@ Julie leaned toward the open window. “If response moves early—”
 She nodded and turned away.
 
 Fenwick Annex Service Alley
+
 Washington, D.C.
+
 06:58 Eastern Daylight Time
 
 The rear of the Fenwick Annex looked built to accept deliveries without admitting that deliveries existed. A roll-up door occupied one bay. Refrigeration pipes entered the brick above another. A steel service entrance stood beneath a shallow awning with a camera mounted at face level and a black intercom beside the frame. No guards outside. No checkpoint. No Northbridge sign. Julie carried the work order in her left hand. Elias carried the pouch. The oversized Potomac rain shell hid his office clothes and made him look like an apprentice wearing borrowed gear. She pressed the intercom. A camera motor adjusted.
@@ -151,7 +154,9 @@ She read the work order. “Pre-session audit buffer retention fault.”
 
 “Not in our system.”
 
-Elias shifted weight off his left hip. “The controller is already in diagnostic open. If the buffer test generated locally, it may not have reached your queue.” Bell studied him. “How would you know the controller state from here?” He pointed to the tenant panel beside the inner door.
+Elias shifted weight off his left hip. “The controller is already in diagnostic open. If the buffer test generated locally, it may not have reached your queue.”
+
+Bell studied him. “How would you know the controller state from here?” He pointed to the tenant panel beside the inner door.
 
 WSS-4
 PRE-SESSION DIAGNOSTIC WINDOW OPEN
@@ -225,7 +230,9 @@ Bell pressed AUTHORIZE. The gray door unlocked.
 “Five minutes,” she said. “Then you leave whether your dispatcher answers or not.”
 
 Northbridge Secure Suite 4
+
 Washington, D.C.
+
 07:03 Eastern Daylight Time
 
 WSS-4 occupied less space than Julie expected: a narrow equipment room, a two-person communications workspace, and a short corridor ending at a green-lit fire door. A hardened cabinet held the controller. Beside it stood the protected audit interface Elias had described at the cutout. A single operator turned from his console.
@@ -384,7 +391,9 @@ Elias watched the state sequence.
 The clock showed 07:06:11.
 
 Apex Building Three
+
 Reston, Virginia
+
 07:06 Eastern Daylight Time
 
 The WSS-4 alert reached Sarah Chen through the Apex vendor-certification channel. It carried no message content. It carried enough.
@@ -427,7 +436,9 @@ A short pause. “Telemetry recovery has priority,” Vance said.
 Sarah marked the order into her incident file and opened the vendor conference path to WSS-4.
 
 Northbridge Secure Suite 4
+
 Washington, D.C.
+
 07:07 Eastern Daylight Time
 
 The audit interface presented the Northbridge certificate.
@@ -656,7 +667,9 @@ CONTROLLER SEAL GENERATING
 Elias did not move.
 
 West Loading Lane
+
 Washington, D.C.
+
 07:09 Eastern Daylight Time
 
 Marcus saw the response arrive before the radio confirmed it. A dark SUV entered the west end of the block and slowed beside the Fenwick alley. A second stopped at the intersection. Neither carried Apex markings. The service radio carried a District unit acknowledging a delayed plate-reader match.
@@ -670,7 +683,9 @@ Two men stepped from the first SUV. Marcus started the van. His right thigh tigh
 Then he moved. The east service court required two right turns and a slow passage behind the loading bays. Marcus drove at delivery speed with his left foot. The taped heel of his right boot dragged across the floor. A marked Metropolitan Police cruiser turned onto L Street behind him without activating its lights. At 07:09:51, Marcus reached the green canopy. The code-required exit remained closed. He pressed the horn twice. The sound struck the brick and entered the building. The dark SUVs reached the west alley.
 
 Northbridge Secure Suite 4
+
 Washington, D.C.
+
 07:10 Eastern Daylight Time
 
 The horn arrived as two flattened notes beneath the alarm. The wall clock changed to 07:10:00.
@@ -722,7 +737,9 @@ Bell’s fear hardened into anger.
 Julie nodded once. She and Elias entered the fire corridor. They touched no other terminal. They opened no archive. They took nothing that had not entered their own incident module.
 
 Fenwick Annex Service Corridor
+
 Washington, D.C.
+
 07:11 Eastern Daylight Time
 
 The fire corridor descended around the secure suite in an ordinary concrete stair. Green lights marked each landing. Red alarm contacts flashed above closed doors. Elias held the module against his chest beneath the rain shell. His left hip shortened each step. Julie stayed one stair below him, close enough to catch a fall with her body because her hands could not. Voices rose from beneath them. Building security. A Northbridge employee came through the door above carrying a laptop and coat. She froze when she saw Julie.
@@ -755,7 +772,11 @@ A dark Apex vehicle entered from the opposite end. Daniel Mercer stepped out bef
 
 Julie continued. The rifle operator shifted for a line. Two building employees stood behind Julie near the loading door, and a Metropolitan Police officer entered the east end of the court. No clear background. Mercer raised one hand. “Hold ballistic.” The rifle stayed down.
 
-Vance’s voice broke through his radio. “Prevent loss of the media.” Chen answered over the same channel. “Capture priority. No firearm without a deadly threat and clear background.” Mercer moved toward Elias instead of the van. The less-lethal launcher came up. Julie stepped into its line.
+Vance’s voice broke through his radio. “Prevent loss of the media.”
+
+Chen answered over the same channel. “Capture priority. No firearm without a deadly threat and clear background.”
+
+Mercer moved toward Elias instead of the van. The less-lethal launcher came up. Julie stepped into its line.
 
 The operator held fire. Mercer reached for Elias’s left arm. Elias recoiled, and the injured hip failed beneath him. His shoulder struck the van, but the module stayed against his chest. Marcus pulled the side door open. The movement folded him around his ribs.
 
@@ -778,6 +799,7 @@ The pedestrian cleared. The linen truck entered the street. Julie released the b
 No one fired. No one was run down. Behind them, Fenwick still held ordinary employees, Bell, private security, local police, an Apex team, and an independent local record of the 07:08 exchange.
 
 Downtown Washington
+
 07:16 Eastern Daylight Time
 
 The radio returned to news before they cleared three blocks. “Authorities are responding to an apparent breach at Northbridge Strategic Initiatives, a Washington policy organization involved in sensitive national-security consulting. Sources say the suspects sought protected communications equipment.”

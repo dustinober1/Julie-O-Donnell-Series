@@ -1,6 +1,7 @@
 # Chapter 20 — The Custody Exception
 
 October 15
+
 09:06 Eastern Daylight Time
 
 Secure MPD Evidence Intake
@@ -21,13 +22,17 @@ DUTY AUTHORITY: DEPUTY DIRECTOR MARISOL VEGA
 PROPOSED CUSTODIAN: MARTIN VANN / COMPROMISE CONTROL
 CONDITION: EXTERIOR INVENTORY / NO POWER / NO NETWORK / NO USE
 
-The second response supplied what the first had lacked: people whose authority and physical responsibility could later be reviewed. Hackett said, “Bring the device to MPD.” Alvarez shook her head. “Legislative Secure Services will accept a no-use hold. It will not transfer Senate property into executive custody without separate authority.”
+The second response supplied what the first had lacked: people whose authority and physical responsibility could later be reviewed. Hackett said, “Bring the device to MPD.”
+
+Alvarez shook her head. “Legislative Secure Services will accept a no-use hold. It will not transfer Senate property into executive custody without separate authority.”
 
 “The signer is physical evidence in a defense-intelligence incident.”
 
 “It is also an office asset under legislative security. Immediate seizure gives us one object and a new jurisdictional fight. The assignment record may remain behind the same wall that put it in circulation.”
 
-A duty attorney beside Alvarez said, “Exterior verification leaves us without internal state.” Grant answered from Hartwell. “Internal state does not identify the person who authorized its movement. WSS-four and Hartwell already established that the same serial answered both challenges.”
+A duty attorney beside Alvarez said, “Exterior verification leaves us without internal state.”
+
+Grant answered from Hartwell. “Internal state does not identify the person who authorized its movement. WSS-four and Hartwell already established that the same serial answered both challenges.”
 
 “It may contain local logs.”
 

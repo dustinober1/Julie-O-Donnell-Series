@@ -5,7 +5,11 @@
 **Date:** 2026-08-25
 **Effect on publication state when written:** none. No accepted prose was changed by the review itself.
 
-> **Update, 2026-08-25.** Findings **D-1, D-2, D-3 and the Chapter 2 half of D-5** were subsequently authorized and corrected under `74-editorial-correction-record.md`. Accepted total moved 105,157 → 105,160. The production package is now stale and requires rebuild before upload. §3 of this review was also revised after measurement — see the boxed note in that section. D-4, D-6, D-7, D-8 and the book-wide half of D-5 remain open.
+> **Update, 2026-08-25 — all findings are now closed.** D-1, D-2, D-3 and the Chapter 2 half of D-5 were corrected under `74-editorial-correction-record.md`. D-4, the rest of D-5, D-6, D-7 and D-8, the dialogue idiom, the Marcus redundancy and the Act III redistribution were then closed under `76-production-quality-pass.md`. Accepted total moved 105,157 → 108,672.
+>
+> **Two of this review's findings were wrong and are corrected in `76-`.** **D-6 was backwards**: the blank-separated header form it criticised was the *correct* one, and acting on the recommendation briefly made the book worse. Chasing that reversal uncovered a far larger defect this review missed entirely — **54 of the book's 64 scene headers rendered in monospace** in the shipped DOCX, EPUB and print PDF, because of two faults in the production builder's `identify_scene_meta()`. **D-7 was over-called**: the prologue's numerals are a deliberate register, not an inconsistency, and were left alone.
+>
+> §3's framing was also imprecise; see the boxed note in that section.
 
 ---
 
@@ -204,11 +208,11 @@ grep -n "Eastern Daylight Time\|Indian Standard Time\|^---$" \
 | D-1 | "seven seconds" should be "eight seconds" (Ch. 24) | High | **CORRECTED** &mdash; `74-` C-1 |
 | D-2 | "the manuscript's institutions" (Ch. 22) | High | **CORRECTED** &mdash; `74-` C-2 |
 | D-3 | "filling the chapter" (Ch. 23) | High | **CORRECTED** &mdash; `74-` C-3 |
-| D-4 | 46 two-speaker paragraphs | Medium | Prose OPEN; control records 51 and 53 **corrected** &mdash; `74-` §8 |
-| D-5 | Two scene-break systems; unmarked Ch. 2 POV return | Medium | Ch. 2 **CORRECTED** &mdash; `74-` C-4. Book-wide system OPEN |
-| D-6 | Dateline paragraph shape | Low | Optional |
-| D-7 | 11.2 vs eleven-point-two | Low | Optional |
-| D-8 | Three unrelated "forty-three seconds" | Low | Optional |
+| D-4 | 46 two-speaker paragraphs | Medium | **CLOSED** &mdash; 37 split, 9 false positives; `76-` §4 |
+| D-5 | Two scene-break systems; unmarked Ch. 2 POV return | Medium | **CLOSED** &mdash; `74-` C-4 and `76-` §4 |
+| D-6 | Dateline paragraph shape | **Backwards** | **REVERSED** &mdash; the criticised form was correct; exposed 54 monospace headers; `76-` §1&ndash;3 |
+| D-7 | 11.2 vs eleven-point-two | **Over-called** | **CLOSED, no change** &mdash; deliberate register; `76-` §4 |
+| D-8 | Three unrelated "forty-three seconds" | Low | **CLOSED** &mdash; reserved for Julie alone; `76-` §4 |
 
 Craft recommendations in §3 and §4 — Vance's Act III presence, Chapters 19–21 compression, Marcus's repeated confession, the dialogue idiom — are developmental and independent of the defect register.
 

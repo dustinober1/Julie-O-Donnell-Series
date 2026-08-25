@@ -857,7 +857,7 @@ Marcus looked toward the evidence drive. “And once we find Elias?”
 
 “He wrote the package.”
 
-“That is not an answer.”
+“That is authorship, not capability.”
 
 “It is the closest one we have.”
 
@@ -1068,7 +1068,7 @@ He looked toward the dark clouds gathering above Reston. “You really believe E
 
 “I believe Vance needs him blamed.”
 
-“That wasn’t the question.”
+“I asked what you believe about him.”
 
 “No.”
 

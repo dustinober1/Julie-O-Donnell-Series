@@ -1,7 +1,9 @@
 # Chapter 9 — The Life-Safety Override
 
 Apex Building Three
+
 Reston, Virginia
+
 05:01 Eastern Daylight Time
 
 The air tightened against Julie’s ears. A valve struck open above the cabinets. Another answered farther down the ceiling, and the low warning tone beside the gate changed from a steady pulse to two descending notes. Cooling air that had moved almost without sound began drawing toward the ceiling nozzles in uneven currents.
@@ -212,6 +214,7 @@ VERIFIED FIRE
 LIFE-SAFETY RELAY ACTIVE
 
 Apex Security Command Center
+
 05:02 Eastern Daylight Time
 
 The first detector reached Sarah Chen as a yellow point inside the production enclave.
@@ -261,7 +264,9 @@ Mercer answered immediately. “Service egress is releasing.”
 
 “Cover it. Do not obstruct the fire lane.”
 
-She opened the second-team channel. “Containment Two, reposition to Loading Three and the south mechanical ramp. Preserve access for fire response. Subjects remain capture priority. Telemetry case has priority over all other property.” Vance said, “Over the occupants?” Sarah did not repeat his language.
+She opened the second-team channel. “Containment Two, reposition to Loading Three and the south mechanical ramp. Preserve access for fire response. Subjects remain capture priority. Telemetry case has priority over all other property.”
+
+Vance said, “Over the occupants?” Sarah did not repeat his language.
 
 “Lethal force is authorized once they clear sensitive machinery,” he said.
 
@@ -270,6 +275,7 @@ She kept both channels open. “Ballistic force remains restricted to an identif
 He opened the hardened incident-report channel and selected HOSTILE INSIDER SABOTAGE. O’Donnell’s name populated the primary-subject field before the gate completed its first bolt cycle. He had lost command of the gate. He had not lost command of the report that would explain why it opened.
 
 Production Enclave
+
 05:02 Eastern Daylight Time
 
 The room changed state all at once. White strobes fired from the ceiling. Emergency power dropped from PDU-B, killing the load bank before the foam strip could flare. The smoke-control fans reversed, drawing the remaining gray particulate toward the fire-zone return. The environmental display replaced the countdown header.
@@ -461,7 +467,9 @@ SOUTH SERVICE ROUTE AUTHORIZED
 
 “Tracked,” Marcus said.
 
-Elias leaned forward from the cargo bay. “The module is behind the passenger kick panel. Apex requires the same installation on every contractor vehicle with lower-tier access.” Marcus looked down at his right leg. “Of course they do.”
+Elias leaned forward from the cargo bay. “The module is behind the passenger kick panel. Apex requires the same installation on every contractor vehicle with lower-tier access.”
+
+Marcus looked down at his right leg. “Of course they do.”
 
 “Can you remove it?” Julie asked.
 

@@ -7,9 +7,9 @@ import hashlib
 import zlib
 from pathlib import Path
 
-PAYLOAD_SHA256 = "4fcb8764f380866501fed8fb653d746a25b7bc96622031c09ecbb1ff2edebd8d"
-SOURCE_SHA256 = "3f9f3adaf0c3b3bd4a68e2200589ba54f1cb5c32d5f02b5eb32646725654e0ae"
-PATCHED_SOURCE_SHA256 = "6955c940a369e45fe7ea6e4481f46309722d03e759d70ba205c489f946193b62"
+PAYLOAD_SHA256 = "e33b0518f09047ccf99ef46365ba33aa432da038ddc14cd4de2cac842ece4e94"
+SOURCE_SHA256 = "2b6f944596470c9e8891939447840031ebe109f33d5022c1f84bd3de7531703c"
+PATCHED_SOURCE_SHA256 = "93b4659b7f4e88b926c25c61d9dfb0fd40023a365612b614eb0b95b868dce1e8"
 base = Path(__file__).resolve().parent
 names = [
     "build_book1_production.payload.part01a",

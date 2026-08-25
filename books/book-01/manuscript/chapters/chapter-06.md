@@ -1,7 +1,9 @@
 # Chapter 6 — The Descent
 
 Apex Building Three
+
 Reston, Virginia
+
 04:52 Eastern Daylight Time
 
 The hydraulic shutter came down hard enough to shake dust from the concrete ceiling.
@@ -128,7 +130,11 @@ He did not move. The red light crossed his face. Fear had stripped away the defe
 
 “It’s the part of the plan we can afford.”
 
-Marcus moved to the nearest junction and aimed the flashlight down each branch without sending the beam far. “Which way?” Elias pointed straight ahead. A green evacuation sign identified the corridor as PRODUCTION ACCESS. “That’s the marked route.” Julie heard the qualification.
+Marcus moved to the nearest junction and aimed the flashlight down each branch without sending the beam far. “Which way?”
+
+Elias pointed straight ahead. A green evacuation sign identified the corridor as PRODUCTION ACCESS. “That’s the marked route.”
+
+Julie heard the qualification.
 
 “And the route you want?”
 
@@ -184,6 +190,7 @@ Marcus studied the dark passage. “If he’s walking us into containment—”
 That was enough for Marcus. He took rear security without another argument. Elias entered the cooling passage first.
 
 Apex Security Command Center
+
 04:53 Eastern Daylight Time
 
 Sarah Chen watched the lower-tier diagram lose detail one system at a time. Camera feeds had frozen when the production quarantine severed the network bridges. Badge readers no longer reported identities. The map still showed life-safety states, air pressure, fire partitions, and the crude red outline of an environmental fault moving through Building Three’s lowest level.
@@ -235,6 +242,7 @@ Sarah looked back at the map. A local pressure sensor changed state in Cooling G
 There. Julie had read the building. Sarah keyed the team channel. “Containment One, divert west at the lower landing. They are using the cooling galleries. Maintain capture priority. Secure the telemetry intact.” She did not repeat Vance’s words. She did not warn Julie. On the dark screen, the route converged on the production enclave.
 
 Cooling Gallery Two
+
 04:53 Eastern Daylight Time
 
 The passage dropped beneath the main service level and opened onto a steel gantry suspended above the chiller plant. The chiller plant fell away two stories beneath them. Six cylindrical compressor housings occupied the floor in paired rows, each surrounded by pipes, valves, and vibration mounts. Red strobes revolved along the walls. Their light caught the mist hanging above the machinery and turned it the color of smoke.
@@ -281,7 +289,9 @@ Julie seized his coveralls. Elias grabbed the back of his arm. Together they pul
 
 Across the opening, two white weapon lights reached the abandoned platform. They stopped at the edge. Marcus remained on one knee for a moment, testing his ribs where the rail had caught him. “They won’t cross that.”
 
-A metallic click sounded on the far side. Elias looked toward the drive housing. “There’s a maintenance extension.” A section of fixed ladder began unfolding from beneath the opposite platform, driven by a manual override. Marcus stood. “Of course there is.”
+A metallic click sounded on the far side. Elias looked toward the drive housing. “There’s a maintenance extension.” A section of fixed ladder began unfolding from beneath the opposite platform, driven by a manual override.
+
+Marcus stood. “Of course there is.”
 
 “They’ll need ninety seconds.”
 
@@ -343,7 +353,11 @@ He spun the wheel from inside. A locking bar dropped into place. For three secon
 
 “Maybe a minute.”
 
-Marcus listened to the impacts. “Forty seconds.” Julie took the case from Elias. “Where’s the gate?” He pointed down.
+Marcus listened to the impacts. “Forty seconds.”
+
+Julie took the case from Elias. “Where’s the gate?”
+
+He pointed down.
 
 A fixed ladder descended through a vertical shaft beside the enclave’s return-water pipe. Red emergency light faded after the first twenty feet. Below it, a line of white floor illumination traced the base of the shaft.
 

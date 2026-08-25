@@ -266,11 +266,7 @@ There it was—not proof, or anything close to it, but pressure left patterns of
 
 “Slowly.”
 
-She looked at him. He met her gaze this time.
-
-“I told the truth in a way that protected me,” he said. “You were right about that.”
-
-The admission was quieter than an apology and harder to dismiss. Julie turned away. The pasture sloped toward the trees, its grass silver where the morning dew had not yet burned off. She had bought the property because the nearest neighbor could not be seen from the house. She knew every weak section of fence, every place the lower field flooded, every sound the barn made after midnight. She had constructed a life in which disasters announced themselves. A loose hinge rattled; a lame horse favored one leg. If rot hid beneath the bark, a deep enough cut revealed it. Marcus spoke behind her.
+She looked at him. He met her gaze this time and stopped there, a sentence short of the one she had spent six years waiting for. Julie turned away before the silence could become an answer. The pasture sloped toward the trees, its grass silver where the morning dew had not yet burned off. She had bought the property because the nearest neighbor could not be seen from the house. She knew every weak section of fence, every place the lower field flooded, every sound the barn made after midnight. She had constructed a life in which disasters announced themselves. A loose hinge rattled; a lame horse favored one leg. If rot hid beneath the bark, a deep enough cut revealed it. Marcus spoke behind her.
 
 “I should have backed you sooner.”
 
@@ -586,7 +582,7 @@ No one answered. Sarah remained at the door.
 
 “In the partition.”
 
-“That isn’t what I asked.”
+“The partition is where you put it. I asked where it came from.”
 
 Sarah’s eyes narrowed slightly. “The source package provided by Army Intelligence has been imported without modification.”
 
@@ -620,7 +616,7 @@ Sarah held his gaze for a moment, then left. The steel door sealed behind her. J
 
 “I sent the request to DIA systems support.”
 
-“That wasn’t the question.”
+“You sent a request. Somebody’s hands did the loading.”
 
 Marcus rubbed one hand over his face.
 

@@ -1,6 +1,7 @@
 # Chapter 16 — The Hold Order
 
 October 13
+
 08:18 Eastern Daylight Time
 
 Secure MPD Evidence Intake
@@ -64,7 +65,9 @@ Ortiz looked toward the chest. “Why not examine the board now? It is the small
 
 “Because small does not mean authorized. The board may carry classified hardware identity. Its owner has counsel assigned but has not met her. The government has not established the reader, scope, or method on this record.”
 
-Julie said, “The useful first question is whether the board physically signed the original deployment.” Alvarez heard her through the open door. “That is the proposed question.”
+Julie said, “The useful first question is whether the board physically signed the original deployment.”
+
+Alvarez heard her through the open door. “That is the proposed question.”
 
 “Who proposed it?” Ortiz asked.
 
@@ -91,7 +94,9 @@ The language was defensive. It was also exact. Julie had assumed Sarah’s compl
 ---
 
 Apex Building Three
+
 Reston, Virginia
+
 09:03 Eastern Daylight Time
 
 Sarah stood at the incident desk while the building generated the first consolidated account. The draft described Julie as the architect of a deliberate source corruption, Marcus as an armed accomplice, and Elias as a coerced employee whose administrator credential had been exploited during the attack. It listed the fire alarm, production-gate entry, suppression discharge, and stolen telemetry case. Every event had happened. The document placed them in the order most useful to Apex.
@@ -108,7 +113,11 @@ The source-contamination discovery appeared after the unauthorized export. Vance
 
 “It changed the force condition from threat to life to loss of material.”
 
-Counsel said, “That is your interpretation.” Sarah turned the two directives on the display. “Then preserve both and let someone else interpret them.” Vance looked at the draft. “The occupied-room interlock had been defeated by the intruders’ fire action.”
+Counsel said, “That is your interpretation.”
+
+Sarah turned the two directives on the display. “Then preserve both and let someone else interpret them.”
+
+Vance looked at the draft. “The occupied-room interlock had been defeated by the intruders’ fire action.”
 
 “The room still reported three occupants when APX-DIR-0019 armed suppression.”
 
@@ -188,8 +197,198 @@ The investigation had finally acquired something the crisis never had.
 
 ---
 
+October 13
+
+17:11 Eastern Daylight Time / 02:41 Indian Standard Time
+
+Western Traverse Below Relay K-17
+Kashmir
+
+The rope told Captain Arvind Rao what the mountain was doing before his eyes did.
+
+He had run the western traverse four times in daylight and once at night, and the line had always come off the second anchor with a dry, even tension that meant rock underneath. Tonight it came off wet. Water had moved across the shelf sometime in the afternoon thaw and stopped moving when the temperature fell, and what it had left behind was not the honest granular ice a man could kick a step into. It was a clear skin, two fingers thick in places and nothing at all in others, and it took the beam of a red-filtered lamp without giving anything back.
+
+Rao put his weight on the line and did not like the answer.
+
+“Sethi.”
+
+The Naib Subedar came up on the inside, shortening his own line as he moved so it never developed slack. He was carrying the transit box across his back on a chest harness rather than in a pack, because a pack could be cut away in a fall and the box could not be.
+
+“The traverse is glazed,” Rao said.
+
+Sethi put a boot out and rolled it, testing. The sound came back wrong — a small hollow crack rather than a bite.
+
+“The northern line?”
+
+“Adds ninety minutes and puts us on the skyline for forty of them.”
+
+“Then it is not a route, sir. It is a decision.”
+
+That was the whole of Sethi’s opinion and he did not add to it. Rao looked east along the shelf. Somewhere beyond the fold, a relay he had never been closer than four kilometres to was either sitting untouched in the dark or was not, and the difference had been unresolved for eleven hours because a machine in another country had spent the day looking at the wrong valley.
+
+He brought the patrol across in pairs, short-roped, with the two riflemen split so that neither pair carried both weapons or both lamps. Nobody hurried. The shelf ran ninety metres and took them thirty-one minutes.
+
+It broke under the third man with sixteen metres left.
+
+Rao heard it as a sound he had no name for — not a crack and not a slide, something between a plate settling and a window going — and then the line came alive in his hands and Lance Naik Suresh Pal was moving sideways past him toward the drop with both arms out.
+
+Pal did not go for the rock. He went for the harness.
+
+He caught the third man across the chest strap, took the load onto his own shoulder, and drove himself into the anchor to stop the pair of them. His head met it going in. The sound of that was small and entirely distinct, and Rao would hear it again in the report room the next day when he was asked to describe the sequence and found he could describe it exactly.
+
+Then the mountain was quiet and there were two men on a line and one of them was bleeding.
+
+“Hold,” Rao said. “Everybody hold.”
+
+He got the third man's feet back onto rock himself, working the transfer slowly enough to keep the load off Pal's shoulder before he moved Pal at all. Sethi took the far side and never once let the transit box swing.
+
+Pal sat on the shelf while the second rifleman opened the dressing. The cut ran back along the scalp above his ear and bled the way scalps bleed, generously and out of proportion to the damage. His eyes tracked the lamp. He was talking before anyone asked him to.
+
+“I am fine, sir.”
+
+“Do not tell me you are fine. Tell me the date.”
+
+Pal gave it.
+
+“Where are you?”
+
+“Western traverse. Below the relay. Second anchor is behind us.”
+
+“How many are we?”
+
+“Five.”
+
+“What is Naib Subedar Sethi carrying?”
+
+Pal almost smiled through the mess on his face. “The box, sir. Which he will not put down.”
+
+Rao ran the rest of it — pupils, grip, the questions he was required to ask and two he was not — and got the answers a man gives when he is genuinely there. That settled the medical question and left the other one, which was harder, because the casualty rule did not care whether Pal could recite the date. The rule said a patrol with an injury turned around unless the commander could justify otherwise, and the justification had to exist before the decision, not after it.
+
+Rao took thirty seconds and did not pretend it was less.
+
+Turning back meant the relay stayed unresolved through another day, and every hour it stayed unresolved was an hour in which somebody could describe it however they liked. Going on meant carrying a head injury up a mountain in the dark on the word of the man who had it.
+
+“Naib Subedar. Can he descend on his own?”
+
+“Now, yes. In four hours, I would not want to find out.”
+
+“Pal. If I send you down with a rifleman, do you argue with me?”
+
+Pal looked at him with the dressing already darkening.
+
+“No, sir.” He said it properly, without heat, and then he said the rest of it. “But the fold is one bound from here. From the fold you can see the compound. If you send two men down, you go on with two, and Naib Subedar Sethi will be one of them, and then there is nobody to cover him at the wicket.”
+
+It was correct. That was the trouble with it.
+
+“You want it recorded that you asked to continue,” Rao said.
+
+“I want it recorded that I said the fold is one bound. What you do with that is yours, sir.”
+
+Rao gave him the one bound and nothing beyond it.
+
+They moved again at 03:14, slower, with Pal roped between Sethi and a rifleman where a stumble would be caught from both directions. The fold came up in nineteen minutes. From behind it the ground opened and Point Kestrel stood above them to the east, and beyond Kestrel, small and grey and entirely ordinary, was the mast.
+
+Rao stopped the patrol there and let them look at it for a while without going any closer.
+
+He had been given three conditions in a vehicle bay by an officer who had not pretended any of them were unlikely. He intended to reach Kestrel with all five of his men and to spend as long as it took looking at that mast before a single boot went past the fold, because the alternative was walking into a compound on the strength of what somebody expected to be in it.
+
+Behind him, Pal was breathing through his teeth and saying nothing.
+
+---
+
+October 13
+
+19:56 Eastern Daylight Time / 05:26 Indian Standard Time
+
+Point Kestrel
+Kashmir
+
+They watched the relay for nine minutes before anyone was allowed to want anything from it.
+
+Rao had set the time himself and made Sethi hold the watch, because a commander counting his own minutes counts them short. From Kestrel the ground fell away in two long steps and came up again at the mast, eight hundred metres east and forty below, and in the grey before sunrise the whole compound had the particular stillness of a place that had been left rather than a place nobody had come to.
+
+Thermal gave him nothing warm. Glass gave him the rest. The mast stood plumb. The external power head showed the small steady indicator it was supposed to show. The weather cover over the service enclosure was closed and seated, and the fabric had frost on it in an even sheet, which meant it had not been lifted since the temperature dropped.
+
+No person occupied the outer compound. That was all nine minutes established, and Rao made himself say it in exactly those words when Sethi asked whether they were going in.
+
+“Nobody is standing in the yard,” he said. “That is what I can see.”
+
+They went down in pairs with the mast between them and the ridgeline, which cost them two hundred metres of extra ground and put the rock between the patrol and anyone who might be sitting above the corridor to the north. The second rifleman took the western escape terrain and stayed on it. Pal took the inner boundary and watched nothing else for eleven minutes, with a fresh dressing on and orders to say the word if the light started moving.
+
+Rao photographed the wicket from outside its sensor line before he let Sethi come forward.
+
+The frozen mud in front of the outer security wicket held six partial approach marks. Not tracks — the ground had been too hard for tracks and had thawed and set twice since — but the pressure shadows a boot leaves in mud that freezes around it. They overlapped. Rao counted six and then stopped counting, because a seventh could be a sixth stepped in twice and he was not going to make the mud say a number it had not said.
+
+Below the frame there was a cut.
+
+It was a shallow rectangular bite in the frozen ground, and something rigid had been set into it and levered, and the mud had taken the shape and kept it. Rao photographed it with the scale card and then without, and then from the side so the depth would be in the frame.
+
+The latch was closed.
+
+He looked at that for longer than he looked at anything else. A closed latch was an ordinary thing. It was the ordinary thing you would find if nobody had ever come, and it was also the ordinary thing you would find if somebody had come and gone and been careful.
+
+Sethi found the rest of it. A narrow strip of anti-tamper paint along the receiver had been shaved away — not scraped in the manner of weather or a maintenance tool slipping, but taken off in a clean band the width of a blade. Underneath, the metal was bright.
+
+“Sir.”
+
+“I see it.”
+
+Behind protective glass, the access indicator showed a steady state. Rao knew what colour it was and knew he did not know what the colour meant, and he wrote down the colour.
+
+“Do not tell me what that is,” he said.
+
+Sethi had not been going to. “I would want the journal in front of me before I said anything about that lamp, sir.”
+
+“Then get the journal and say nothing about the lamp.”
+
+The exterior isolation cassette sat on the safe side of the wicket in a housing the size of a field radio. Sethi checked the indicator through its window before he touched the release, and read it aloud for Rao and for the camera: green journal seal, no active write. Rao put himself where he could see both of Sethi’s hands and said so out loud, because a witness who cannot see the hands is not a witness.
+
+The mechanical release took a quarter turn and a pull. The cartridge came out grey and cold and no larger than a battery, and it went straight into the field sleeve without touching Sethi’s glove, and the sleeve went into the transit box, and the box went onto the chain at Rao’s wrist and stayed there.
+
+Sethi capped the empty cassette. He did not connect a replacement medium. Rao asked him twice whether he had, once immediately and once four minutes later, and Sethi answered the same way both times without any sign that he minded being asked.
+
+The ordinary sensor forwarding stayed physically available. The local incident-write path was now isolated, which meant that whatever K-17 had recorded before this morning was in the box on Rao’s wrist and nowhere else within reach of anyone.
+
+That left twenty metres of open ground and the inner boundary.
+
+Rao walked to the edge of the sensor line and looked at it. The door was closed. Windblown ice had built along the lower seam in a ridge two fingers high and he could not see the seam itself at all, and he was not going to clear it with a glove or a tool or the toe of his boot.
+
+He could not exclude that someone was inside the enclosure. Thermal did not read through that much rock and steel and he knew it, and an absence of heat where heat could not have shown him anything was not an absence of a man.
+
+He could not exclude a hazard on the seam.
+
+And when he tracked back along the outer compound to see where the six approach marks had gone afterward, they went west — off the compound, onto broken ground, toward a line beyond which he could not exclude that following them would put five Indian soldiers across the Line of Control in the dark on the strength of a mud impression.
+
+Three conditions. Any one of them.
+
+He had all three.
+
+Rao stood there for a moment longer than the decision required, which he would not put in the report because it was not a physical observation. Everything he had ever been rewarded for wanted the seam cleared and the door opened and the question answered while he was standing in front of it.
+
+“Naib Subedar.”
+
+“Sir.”
+
+“Photograph the outside of it. All four sides you can reach without crossing the line. Then we go home.”
+
+Sethi did not look relieved and did not look disappointed, which Rao took as the correct professional response and privately envied.
+
+They were off the compound by 06:02 and back above the fold by 06:40. Pal walked between the two riflemen the whole way and was not asked to carry anything. Twice on the descent he stopped without being told to and stood with one hand on the rock until whatever it was passed, and both times Rao counted to thirty and asked him the date, and both times Pal gave it.
+
+At the second anchor the shelf had begun to run with meltwater again, which meant that in four hours it would be a different problem and in eight it would be the same one.
+
+Rao looked back once from the last point where the mast was visible. It stood exactly as it had stood at 05:26, unopened as far as anyone could establish from outside a boundary nobody had crossed, with a shaved strip of paint on its receiver and six pressure shadows in the mud in front of it and a steady lamp behind glass that he had written down the colour of and refused to interpret.
+
+He had been sent to find out whether.
+
+He had found out as much of whether as the mountain would give him without a body to pay for the rest, and the answer was in a steel box chained to his wrist, and it was not his to open.
+
+---
+
 Guarded Hospital Room
+
 Washington, D.C.
+
 22:18 Eastern Daylight Time
 
 Julie lay awake beneath a monitor that turned each heartbeat into a green point moving left to right. Her left wrist was secured to a padded rail. The right forearm rested above her chest inside the temporary immobilizer. Outside the room, an MPD officer sat beneath a television cycling through the sabotage alert, the Building Three fire, and Sterling’s statements. Dana Webb arrived after ten with an appointment order, two legal pads, and no request for Julie to explain the case.

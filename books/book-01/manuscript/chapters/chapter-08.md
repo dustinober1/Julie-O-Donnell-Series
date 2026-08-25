@@ -1,7 +1,9 @@
 # Chapter 8 — The 05:00 Abort
 
 Apex Building Three
+
 Reston, Virginia
+
 04:58 Eastern Daylight Time
 
 Julie set the aluminum case beneath the recovery console and turned it so the cable bay faced the wall. The movement required both hands. Her right wrist failed halfway through, sending a hot line of pain into her thumb, and the case dropped the final inch onto the raised floor.
@@ -117,7 +119,9 @@ ASSOCIATED VALIDATION OBJECT REQUIRED
 The release clock showed 00:54.
 
 Forward Post Arjun
+
 Kashmir
+
 14:29 Indian Standard Time
 
 Major Ananya Sharma stood behind the fire-direction console and listened to Northern Command ask for the same confirmation in a third form.
@@ -171,7 +175,9 @@ The duty officer heard her. “Major Sharma, the risk of delay now rests with yo
 She ended the call. Outside the reinforced post, engines idled on the mountain. Men waited beside weapons that would do exactly what they were told. The screen offered certainty no human observer could support. Sharma watched it anyway.
 
 Apex Building Three
+
 Reston, Virginia
+
 04:59 Eastern Daylight Time
 
 Elias stared at the second slot inside the recovery panel.
@@ -413,7 +419,9 @@ The purge reached zero. Volatile workspace entries disappeared around the sealed
 “Someone still has to decide.”
 
 Forward Post Arjun
+
 Kashmir
+
 14:29 Indian Standard Time
 
 The first visible change was duplication. Major Sharma watched one red artillery track divide into two identical tracks occupying the same road six hundred meters apart. A thermal cluster at the edge of Sector Zebra-Nine separated into three groups, each carrying the same internal spacing and temperature sequence.
@@ -467,7 +475,9 @@ The firing window reached zero. The post clock changed to 14:30:00. Outside, the
 “The evidence no longer supports fire,” she said. “The mission is aborted.”
 
 Apex Building Three
+
 Reston, Virginia
+
 05:00 Eastern Daylight Time
 
 For five seconds, the enclave contained no countdown. The recovery record was sealed. The external commit remained suspended. Somewhere beyond the walls, the gate-override pump continued to labor, but the sound no longer owned the room.
@@ -508,7 +518,9 @@ She had preserved the raw material and suppressed the map required to find part 
 
 “I made the boundary too broad.”
 
-Marcus looked at the sealed gate. “Can you fix it without restarting the release?” Elias opened the sealed recovery record. “We cannot change the original action. We can append a supplemental raw-observation review against the preserved event references. It will carry the first limitation and whoever authorizes the correction.”
+Marcus looked at the sealed gate. “Can you fix it without restarting the release?”
+
+Elias opened the sealed recovery record. “We cannot change the original action. We can append a supplemental raw-observation review against the preserved event references. It will carry the first limitation and whoever authorizes the correction.”
 
 “Do it,” Julie said.
 
@@ -564,7 +576,9 @@ Julie marked the last confirmed observation. It lay beyond the crossing line, in
 
 “How old is the last contact?” Marcus asked.
 
-Julie compared the source time with the enclave clock. “Almost four minutes. Forty-three seconds of that belongs to my first boundary.” Elias looked at her instead of the route. “The recovery record already shows why you chose the lineage scope.”
+Julie compared the source time with the enclave clock. “Almost four minutes. Forty-three seconds of that belongs to my first boundary.”
+
+Elias looked at her instead of the route. “The recovery record already shows why you chose the lineage scope.”
 
 “It also shows what the scope deferred.”
 
@@ -646,6 +660,7 @@ Elias went still.
 Julie watched the override request remain pending.
 
 Apex Security Command Center
+
 05:00 Eastern Daylight Time
 
 Sarah Chen saw only the outcome.
@@ -716,6 +731,7 @@ Another pause. “Occupied?” Mercer asked.
 Vance watched her. Sarah kept her voice level. “Maintain stand-off.” It was not an answer. It was still an order.
 
 Production Enclave
+
 05:01 Eastern Daylight Time
 
 The gate-override pump stopped outside. In the sudden quiet, Julie heard valves shifting in the ceiling. The recovery console displayed the final warning.

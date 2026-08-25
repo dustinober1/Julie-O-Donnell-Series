@@ -1,6 +1,7 @@
 # Chapter 13 — The Carrier Stream
 
 Downtown Washington
+
 07:18 Eastern Daylight Time
 
 The last vehicle in Sterling’s motorcade did not follow the armored sedan. It cleared the intersection behind two black sport-utility vehicles, held the broad federal avenue for half a block, then moved right without the police motorcycles. No flags. No visible seal. One rear running light burned weaker than the other. Julie watched it through the windshield while cross traffic remained stopped.
@@ -228,7 +229,9 @@ Marcus recorded the visible movement. The motorcycle stopped at the eastern inte
 They kept watching.
 
 Apex Building Three
+
 Reston, Virginia
+
 07:28 Eastern Daylight Time
 
 The plate hit reached Sarah Chen through Hartwell security, not Apex. A commercial-garage camera had captured PCF-27 at 07:21:52. The plate system compared it against the District lookout two minutes later. Hartwell’s temporary perimeter desk received the alert because the garage sat inside its traffic-control zone. Metropolitan Police opened the image to verify the vehicle before forwarding it to the joint incident channel. Separate systems. A visible delay. A record of who acted when. Sarah enlarged the garage map. Two vehicle exits. Four pedestrian stairs. Seven levels occupied by office workers, contractors, and morning commuters. Arthur Vance’s executive channel opened beside it.
@@ -260,6 +263,7 @@ It was not the answer Vance wanted. It was an answer Mercer could put on a recei
 The request was denied pending federal review. The denial entered her incident file anyway. On the garage image, PCF-27 climbed out of camera view. Julie had not escaped observation. She had moved to where every institution would have to explain what it saw.
 
 Commercial Garage West of Hartwell
+
 07:31 Eastern Daylight Time
 
 The support vehicle returned from the south. Julie saw the weak left rear light before she saw the rest of it. The black SUV entered the cross street one block below the garage and stopped behind the police motorcycle. It had no flags and no visible emergency lights. Its windows were dark. A second vehicle followed, a smaller black sedan that had not been part of the motorcade at the earlier intersection.

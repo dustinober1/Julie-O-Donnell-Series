@@ -9,7 +9,7 @@ A disgraced Army intelligence analyst discovers that synthetic telemetry is bein
 - Accepted manuscript inventory: `books/book-01/ACCEPTED_MANUSCRIPT.yaml`, version 2.
 - Accepted canon: **Prologue and Chapters 1–24**.
 - Accepted prose files: **25**.
-- Accepted words: **105,160**.
+- Accepted words: **108,672**.
 - Controlled final proofread: **complete; PR #84 merged**.
 - Open proofreading queries: **0**.
 - Editorial state: **publication master frozen**.

@@ -19,61 +19,64 @@ one, a control document can drift without ever contradicting the prose.
 | `ch04`:1127 | 15:34 Eastern Daylight Time | 0 | — | October 12 |
 | `ch05`:7 | 15:41 Eastern Daylight Time | 0 | — | October 12 |
 | `ch05`:151 | 01:17 Indian Standard Time | 0 | — | October 12 |
-| `ch05`:215 | 15:49 Eastern Daylight Time | 0 | — | October 12 |
-| `ch05`:268 | 16:21 Eastern Daylight Time | 0 | — | October 12 |
-| `ch05`:329 | 02:00 Indian Standard Time | 0 | — | October 12 |
-| `ch05`:393 | 04:27 Eastern Daylight Time | 1 | — | October 13 |
-| `ch05`:453 | 04:31 Eastern Daylight Time | 1 | — | October 13 |
-| `ch05`:656 | 04:44 Eastern Daylight Time | 1 | — | October 13 |
-| `ch05`:1091 | 04:50 Eastern Daylight Time | 1 | — | October 13 |
-| `ch06`:5 | 04:52 Eastern Daylight Time | 1 | — | October 13 |
-| `ch06`:53 | 04:52:19 | 1 | — | October 13 |
-| `ch06`:187 | 04:53 Eastern Daylight Time | 1 | — | October 13 |
-| `ch06`:238 | 04:53 Eastern Daylight Time | 1 | — | October 13 |
-| `ch06`:368 | 04:54:47 | 1 | — | October 13 |
-| `ch07`:5 | 04:55 Eastern Daylight Time | 1 | — | October 13 |
-| `ch07`:258 | 04:56 Eastern Daylight Time | 1 | — | October 13 |
-| `ch07`:311 | 04:56 Eastern Daylight Time | 1 | — | October 13 |
-| `ch07`:536 | 04:58:11 | 1 | — | October 13 |
-| `ch08`:5 | 04:58 Eastern Daylight Time | 1 | — | October 13 |
-| `ch08`:121 | 14:29 Indian Standard Time | 1 | — | October 13 |
-| `ch08`:175 | 04:59 Eastern Daylight Time | 1 | — | October 13 |
-| `ch08`:417 | 14:29 Indian Standard Time | 1 | — | October 13 |
-| `ch08`:471 | 05:00 Eastern Daylight Time | 1 | — | October 13 |
-| `ch08`:649 | 05:00 Eastern Daylight Time | 1 | — | October 13 |
-| `ch08`:719 | 05:01 Eastern Daylight Time | 1 | — | October 13 |
-| `ch09`:5 | 05:01 Eastern Daylight Time | 1 | — | October 13 |
-| `ch09`:215 | 05:02 Eastern Daylight Time | 1 | — | October 13 |
-| `ch09`:273 | 05:02 Eastern Daylight Time | 1 | — | October 13 |
-| `ch10`:4 | 05:15 Eastern Daylight Time | 1 | — | October 13 |
-| `ch10`:141 | 05:42 Eastern Daylight Time | 1 | — | October 13 |
-| `ch11`:5 | 06:25 Eastern Daylight Time | 1 | — | October 13 |
-| `ch11`:432 | 06:39 Eastern Daylight Time | 1 | — | October 13 |
-| `ch11`:471 | 06:42 Eastern Daylight Time | 1 | — | October 13 |
-| `ch11`:528 | 06:47 Eastern Daylight Time | 1 | — | October 13 |
-| `ch12`:4 | 06:50 Eastern Daylight Time | 1 | — | October 13 |
-| `ch12`:76 | 06:58 Eastern Daylight Time | 1 | — | October 13 |
-| `ch12`:229 | 07:03 Eastern Daylight Time | 1 | — | October 13 |
-| `ch12`:388 | 07:06 Eastern Daylight Time | 1 | — | October 13 |
-| `ch12`:431 | 07:07 Eastern Daylight Time | 1 | — | October 13 |
-| `ch12`:660 | 07:09 Eastern Daylight Time | 1 | — | October 13 |
-| `ch12`:674 | 07:10 Eastern Daylight Time | 1 | — | October 13 |
-| `ch12`:726 | 07:11 Eastern Daylight Time | 1 | — | October 13 |
-| `ch12`:781 | 07:16 Eastern Daylight Time | 1 | — | October 13 |
-| `ch13`:4 | 07:18 Eastern Daylight Time | 1 | — | October 13 |
-| `ch13`:232 | 07:28 Eastern Daylight Time | 1 | — | October 13 |
-| `ch13`:263 | 07:31 Eastern Daylight Time | 1 | — | October 13 |
-| `ch14`:3 | 07:46:00 EDT / 17:16:00 IST | 1 | — | October 13 |
-| `ch15`:4 | 07:49 Eastern Daylight Time | 1 | October 13 | October 13 |
-| `ch16`:4 | 08:18 Eastern Daylight Time | 1 | October 13 | October 13 |
-| `ch16`:95 | 09:03 Eastern Daylight Time | 1 | October 13 | October 13 |
-| `ch16`:193 | 22:18 Eastern Daylight Time | 1 | October 13 | October 13 |
-| `ch17`:4 | 09:17 Eastern Daylight Time | 2 | October 14 | October 14 |
-| `ch18`:4 | 18:42 Indian Standard Time / 09:12 Eastern Daylight Time | 2 | October 14 | October 14 |
-| `ch19`:4 | 10:01 Eastern Daylight Time / 19:31 Indian Standard Time | 2 | October 14 | October 14 |
-| `ch19`:201 | 11:07 Eastern Daylight Time | 2 | October 14 | October 14 |
-| `ch20`:4 | 09:06 Eastern Daylight Time | 3 | October 15 | October 15 |
-| `ch21`:4 | 10:32 Eastern Daylight Time | 3 | October 15 | October 15 |
-| `ch22`:4 | 12:18 Eastern Daylight Time | 3 | October 15 | October 15 |
-| `ch23`:4 | 13:12 Eastern Daylight Time | 3 | October 15 | October 15 |
-| `ch24`:4 | 09:04 Eastern Daylight Time | 4 | October 16 | October 16 |
+| `ch05`:217 | 15:49 Eastern Daylight Time | 0 | — | October 12 |
+| `ch05`:271 | 16:21 Eastern Daylight Time | 0 | — | October 12 |
+| `ch05`:334 | 02:00 Indian Standard Time | 0 | — | October 12 |
+| `ch05`:400 | 04:27 Eastern Daylight Time | 1 | — | October 13 |
+| `ch05`:462 | 04:31 Eastern Daylight Time | 1 | — | October 13 |
+| `ch05`:667 | 04:44 Eastern Daylight Time | 1 | — | October 13 |
+| `ch05`:1103 | 04:50 Eastern Daylight Time | 1 | — | October 13 |
+| `ch06`:7 | 04:52 Eastern Daylight Time | 1 | — | October 13 |
+| `ch06`:55 | 04:52:19 | 1 | — | October 13 |
+| `ch06`:194 | 04:53 Eastern Daylight Time | 1 | — | October 13 |
+| `ch06`:246 | 04:53 Eastern Daylight Time | 1 | — | October 13 |
+| `ch06`:382 | 04:54:47 | 1 | — | October 13 |
+| `ch07`:7 | 04:55 Eastern Daylight Time | 1 | — | October 13 |
+| `ch07`:263 | 04:56 Eastern Daylight Time | 1 | — | October 13 |
+| `ch07`:321 | 04:56 Eastern Daylight Time | 1 | — | October 13 |
+| `ch07`:546 | 04:58:11 | 1 | — | October 13 |
+| `ch08`:7 | 04:58 Eastern Daylight Time | 1 | — | October 13 |
+| `ch08`:125 | 14:29 Indian Standard Time | 1 | — | October 13 |
+| `ch08`:181 | 04:59 Eastern Daylight Time | 1 | — | October 13 |
+| `ch08`:425 | 14:29 Indian Standard Time | 1 | — | October 13 |
+| `ch08`:481 | 05:00 Eastern Daylight Time | 1 | — | October 13 |
+| `ch08`:664 | 05:00 Eastern Daylight Time | 1 | — | October 13 |
+| `ch08`:735 | 05:01 Eastern Daylight Time | 1 | — | October 13 |
+| `ch09`:7 | 05:01 Eastern Daylight Time | 1 | — | October 13 |
+| `ch09`:218 | 05:02 Eastern Daylight Time | 1 | — | October 13 |
+| `ch09`:279 | 05:02 Eastern Daylight Time | 1 | — | October 13 |
+| `ch10`:5 | 05:15 Eastern Daylight Time | 1 | — | October 13 |
+| `ch10`:146 | 05:42 Eastern Daylight Time | 1 | — | October 13 |
+| `ch11`:7 | 06:25 Eastern Daylight Time | 1 | — | October 13 |
+| `ch11`:444 | 06:39 Eastern Daylight Time | 1 | — | October 13 |
+| `ch11`:485 | 06:42 Eastern Daylight Time | 1 | — | October 13 |
+| `ch11`:543 | 06:47 Eastern Daylight Time | 1 | — | October 13 |
+| `ch12`:5 | 06:50 Eastern Daylight Time | 1 | — | October 13 |
+| `ch12`:79 | 06:58 Eastern Daylight Time | 1 | — | October 13 |
+| `ch12`:236 | 07:03 Eastern Daylight Time | 1 | — | October 13 |
+| `ch12`:397 | 07:06 Eastern Daylight Time | 1 | — | October 13 |
+| `ch12`:442 | 07:07 Eastern Daylight Time | 1 | — | October 13 |
+| `ch12`:673 | 07:09 Eastern Daylight Time | 1 | — | October 13 |
+| `ch12`:689 | 07:10 Eastern Daylight Time | 1 | — | October 13 |
+| `ch12`:743 | 07:11 Eastern Daylight Time | 1 | — | October 13 |
+| `ch12`:803 | 07:16 Eastern Daylight Time | 1 | — | October 13 |
+| `ch13`:5 | 07:18 Eastern Daylight Time | 1 | — | October 13 |
+| `ch13`:235 | 07:28 Eastern Daylight Time | 1 | — | October 13 |
+| `ch13`:267 | 07:31 Eastern Daylight Time | 1 | — | October 13 |
+| `ch14`:7 | 07:46 Eastern Daylight Time / 17:16 Indian Standard Time | 1 | — | October 13 |
+| `ch15`:5 | 07:49 Eastern Daylight Time | 1 | October 13 | October 13 |
+| `ch15`:202 | 07:52 Eastern Daylight Time / 17:22 Indian Standard Time | 1 | October 13 | October 13 |
+| `ch16`:5 | 08:18 Eastern Daylight Time | 1 | October 13 | October 13 |
+| `ch16`:100 | 09:03 Eastern Daylight Time | 1 | October 13 | October 13 |
+| `ch16`:202 | 17:11 Eastern Daylight Time / 02:41 Indian Standard Time | 1 | October 13 | October 13 |
+| `ch16`:301 | 19:56 Eastern Daylight Time / 05:26 Indian Standard Time | 1 | October 13 | October 13 |
+| `ch16`:392 | 22:18 Eastern Daylight Time | 1 | October 13 | October 13 |
+| `ch17`:5 | 09:17 Eastern Daylight Time | 2 | October 14 | October 14 |
+| `ch18`:5 | 18:42 Indian Standard Time / 09:12 Eastern Daylight Time | 2 | October 14 | October 14 |
+| `ch19`:5 | 10:01 Eastern Daylight Time / 19:31 Indian Standard Time | 2 | October 14 | October 14 |
+| `ch19`:208 | 11:07 Eastern Daylight Time | 2 | October 14 | October 14 |
+| `ch20`:5 | 09:06 Eastern Daylight Time | 3 | October 15 | October 15 |
+| `ch21`:5 | 10:32 Eastern Daylight Time | 3 | October 15 | October 15 |
+| `ch22`:5 | 12:18 Eastern Daylight Time | 3 | October 15 | October 15 |
+| `ch23`:5 | 13:12 Eastern Daylight Time | 3 | October 15 | October 15 |
+| `ch24`:5 | 09:04 Eastern Daylight Time | 4 | October 16 | October 16 |

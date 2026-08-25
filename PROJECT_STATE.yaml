@@ -19,13 +19,16 @@ book_1:
   authoritative_commit: "9708fdd86e9292a75b7683152c7746567f015cc6"
   final_package_pull_request: 92
   status: "prose_re_frozen_2026_08_25_production_package_stale"
+  production_quality_pass: "books/book-01/control/76-production-quality-pass.md"
   publication_readiness: "prose_frozen_package_rebuild_required"
   editorial_review: "books/book-01/control/73-complete-editorial-review.md"
-  current_freeze_record: "books/book-01/control/74-editorial-correction-record.md"
-  prior_freeze_record: "books/book-01/control/66-publication-master-freeze.md"
+  current_freeze_record: "books/book-01/control/76-production-quality-pass.md"
+  prior_freeze_records:
+    - "books/book-01/control/74-editorial-correction-record.md"
+    - "books/book-01/control/66-publication-master-freeze.md"
   release_status: "not_established_by_repository"
   prose_frozen: true
-  accepted_words: 105160
+  accepted_words: 108672
   target_words_min: 105000
   target_words_max: 110000
   structure:
@@ -61,7 +64,8 @@ book_1:
     - "human or upstream instruction behind the original 02:14 construction"
     - "Senator Sterling's personal knowledge, direction, intent, possession, operation, or command"
   required_next_steps:
-    - "rebuild the production package: four accepted files changed on 2026-08-25, so the DOCX, EPUB, print PDF and ZIP in books/book-01/production/final/ are derived from superseded prose"
+    - "rebuild the production package: the prose has changed substantially and the existing binaries were built with an identify_scene_meta() that rendered 54 of 64 scene headers in monospace"
+    - "on rebuild, visually confirm scene headers render as centred small-caps rather than monospace in DOCX, EPUB and print PDF"
     - "re-run tools/test_book1_production.py until it passes rather than skips, and regenerate checksums and the package manifest"
     - "perform a retailer-specific preview immediately before upload"
     - "record retailer upload or release status when it occurs"
@@ -98,6 +102,7 @@ book_2:
 
 quality_controls:
   publication_readiness_validator: "tools/validate_book1_publication_readiness.py"
+  paragraph_style_validator: "tools/validate_book1_paragraph_styles.py"
   developmental_metrics: "tools/analyze_book1_revision.py"
   specialist_review_brief: "books/book-01/control/50-specialist-review-brief.md"
   specialist_review_register: "books/book-01/control/52-specialist-review-register.md"

@@ -2,12 +2,12 @@
 
 **Result:** PASS
 
-**Accepted words:** 105,160
-**Accepted compilation SHA-256:** `0bf93456dfdc2bcff57f8c164e991d90bbe42cf9a2227afc7e0b92f5f1314112`
+**Accepted words:** 108,672
+**Accepted compilation SHA-256:** `c82227b9056ec2e40c900228ccf9c014954731c5077223e05bf3aef7878a02a4`
 
 ## Checks
 
-- PASS — Accepted inventory: 25 files, 105,160 words, all hashes match.
+- PASS — Accepted inventory: 25 files, 108,672 words, all hashes match.
 - PASS — Protected prologue and Chapter 1 hashes match the post-rhythm repository lock.
 - PASS — Publication blockers and drafting artifacts are absent.
 - PASS — Thermostat transmission appears once in detailed form.
@@ -19,7 +19,7 @@
 - PASS — In-memory accepted compilation exactly follows the manifest inventory.
 - PASS — Specialist-review waiver and evidence ceiling remain explicitly recorded.
 - PASS — Primary control files report the current accepted word count.
-- PASS — Paragraph rhythm gate passes: 3,089/5,744 one-sentence paragraphs (53.8%).
+- PASS — Paragraph rhythm gate passes: 3,263/6,025 one-sentence paragraphs (54.2%).
 
 ## Publication gate
 

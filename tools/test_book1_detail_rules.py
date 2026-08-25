@@ -173,20 +173,35 @@ class TestAcceptedManuscript(unittest.TestCase):
         """
         findings = rules.Findings()
         _checked, scenes = rules.derive_chronology(self.records, findings)
-        by_scene = {(s["unit"], s["line"]): s for s in scenes}
+        def scene_for(unit: str, header_starts: str) -> dict:
+            """Find a scene by unit and header text.
+
+            Anchoring on header text rather than line number keeps this test
+            meaningful when paragraph reflow moves a scene within its chapter.
+            """
+            matches = [
+                s for s in scenes
+                if s["unit"] == unit and s["header"].strip().startswith(header_starts)
+            ]
+            if len(matches) != 1:
+                raise AssertionError(
+                    f"expected exactly one {unit} scene starting {header_starts!r}, "
+                    f"found {len(matches)}"
+                )
+            return matches[0]
 
         # Chapter 5 opens before midnight and its later scenes fall after it.
-        self.assertEqual(by_scene[("ch05", 7)]["derived_date"], "October 12")
-        self.assertEqual(by_scene[("ch05", 393)]["derived_date"], "October 13")
+        self.assertEqual(scene_for("ch05", "15:41")["derived_date"], "October 12")
+        self.assertEqual(scene_for("ch05", "04:27")["derived_date"], "October 13")
 
         # The stated dates from Chapter 15 onward agree with the derivation.
-        for unit, line, expected in (
-            ("ch15", 4, "October 13"),
-            ("ch17", 4, "October 14"),
-            ("ch20", 4, "October 15"),
-            ("ch24", 4, "October 16"),
+        for unit, header, expected in (
+            ("ch15", "07:49", "October 13"),
+            ("ch17", "09:17", "October 14"),
+            ("ch20", "09:06", "October 15"),
+            ("ch24", "09:04", "October 16"),
         ):
-            scene = by_scene[(unit, line)]
+            scene = scene_for(unit, header)
             self.assertEqual(scene["stated_date"], expected)
             self.assertEqual(scene["derived_date"], expected)
 

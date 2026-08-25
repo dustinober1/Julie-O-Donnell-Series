@@ -102,7 +102,9 @@ Julie reached for the abort control. Hargrove moved between her and the console.
 
 “I helped validate that exercise. The noise was generated in a lab at Fort Belvoir.”
 
-Marcus turned to Hargrove. “She’s right. Abort it.” He had waited until the final seconds. Hargrove’s jaw tightened. “Command already approved the package.”
+Marcus turned to Hargrove. “She’s right. Abort it.” He had waited until the final seconds.
+
+Hargrove’s jaw tightened. “Command already approved the package.”
 
 “Then command approved bad intelligence.”
 

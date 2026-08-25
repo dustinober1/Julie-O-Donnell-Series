@@ -1,7 +1,9 @@
 # Chapter 7 — The Human Key
 
 Apex Building Three
+
 Reston, Virginia
+
 04:55 Eastern Daylight Time
 
 Julie did not soften it for him.
@@ -231,7 +233,9 @@ The circuit board’s display changed from the rotating digits to a single line.
 
 SIGNING LOCAL CHALLENGE
 
-Elias exhaled through his teeth. “The private key never leaves the token. The panel sends a challenge. The secure element signs it only after the live match.” Julie watched the white cloud thin. “How long?”
+Elias exhaled through his teeth. “The private key never leaves the token. The panel sends a challenge. The secure element signs it only after the live match.”
+
+Julie watched the white cloud thin. “How long?”
 
 “It should already—”
 
@@ -255,6 +259,7 @@ Elias did not move.
 The shield emerged from the vapor nine feet away.
 
 Apex Security Command Center
+
 04:56 Eastern Daylight Time
 
 The enclave alarm reached Sarah Chen through a path the quarantine had been designed to preserve. A narrow amber box opened over the lower-tier schematic.
@@ -269,7 +274,9 @@ Sarah read it once. Arthur Vance read it over her shoulder.
 
 “Stop him.”
 
-Sarah keyed the closed-circuit channel. “Containment One, authentication has reached final confirmation. Prevent completion. Recover the telemetry intact. Do not strike the local panel or gate actuators.” Mercer answered through background static. “Shield is inside nine feet. Subjects have discharged a clean-agent extinguisher. No visual on Reed.”
+Sarah keyed the closed-circuit channel. “Containment One, authentication has reached final confirmation. Prevent completion. Recover the telemetry intact. Do not strike the local panel or gate actuators.”
+
+Mercer answered through background static. “Shield is inside nine feet. Subjects have discharged a clean-agent extinguisher. No visual on Reed.”
 
 “Less-lethal force authorized. Maintain ballistic hold unless you have an immediate threat to life.”
 
@@ -285,7 +292,9 @@ On the schematic, the rear gate changed from white to pulsing amber. The command
 
 “Authorize lethal force,” he said.
 
-Sarah kept the channel open. “No.” The word left no room for confusion. Vance’s voice remained quiet. “Excuse me?”
+Sarah kept the channel open. “No.” The word left no room for confusion.
+
+Vance’s voice remained quiet. “Excuse me?”
 
 “A rifle round on that axis can enter the access panel, a locking actuator, or the independent control bus. If the gate faults between states, we lose containment and may corrupt the production environment.”
 
@@ -308,6 +317,7 @@ His eyes moved to her. There was no accusation in his expression. Only calculati
 The language was deliberate now. Sarah keyed the team channel again. “Containment One, coordinated push. Shield lead. Separate Reed from the gate frame. Take O’Donnell and Thorne alive. Telemetry has priority. No rounds into the enclave axis.” She had not repeated Vance’s last sentence. She had still sent the team forward.
 
 Production Enclave Approach
+
 04:56 Eastern Daylight Time
 
 The CONFIRM field waited beneath Elias’s name. Julie did not tell him to press it. Mercer’s shield cleared the last of the vapor. The operator behind its right edge brought the electroshock weapon up, keeping the cartridge pointed away from the panel until he had a line on Marcus.

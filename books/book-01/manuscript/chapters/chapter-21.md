@@ -1,6 +1,7 @@
 # Chapter 21 — The Borrowed Name
 
 October 15
+
 10:32 Eastern Daylight Time
 
 Secure MPD Evidence Intake
@@ -106,7 +107,9 @@ Price asked to see the inherited-reference field beside his original receipt. Gr
 
 “They used the receipt as authority,” Price said.
 
-Grant corrected the scope. “The office workflow treated it as inherited authority. We have not yet shown who caused that workflow to run.” Price looked at the administrative attorney across from him. “Your report says I tried to persist unauthorized data. This system turned the persistence request into permission to act.”
+Grant corrected the scope. “The office workflow treated it as inherited authority. We have not yet shown who caused that workflow to run.”
+
+Price looked at the administrative attorney across from him. “Your report says I tried to persist unauthorized data. This system turned the persistence request into permission to act.”
 
 The attorney did not argue. “The administrative review concerns what you did. The later construction is under separate inquiry.” For the first time, Price understood why keeping both records separate protected him better than a statement calling him vindicated. His real act would remain visible. The borrowed act would no longer be able to hide inside it.
 
@@ -153,7 +156,7 @@ Time required the least interpretation. Price’s active authority ended more th
 
 The office now produced the complete event classes for a direct external request, an inherited request, and an internal continuity construction between 05:45 and 07:00. It withheld narrative and unrelated communications but certified the range complete for those classes.
 
-The first match was exact: DIA-SAR-PRICE-01. The second was Price’s identity string. The office events showed how both traveled. A source-inheritance service imported the request reference and normalized the requestor field into the office workflow. Forty-three seconds later, a continuity-construction process created an operational branch.
+The first match was exact: DIA-SAR-PRICE-01. The second was Price’s identity string. The office events showed how both traveled. A source-inheritance service imported the request reference and normalized the requestor field into the office workflow. Nineteen seconds later, a continuity-construction process created an operational branch.
 
 A direct Price submission would have required one of two events defined by the office custodian: an external credential challenge tied to an active DIA session, or an office witness release documenting that a source instruction arrived through another authorized channel.
 

@@ -1,6 +1,7 @@
 # Chapter 17 — The First Examination
 
 October 14
+
 09:17 Eastern Daylight Time
 
 Secure MPD Evidence Intake
@@ -79,7 +80,13 @@ Apex counsel argued that the secure element could have entered an emergency shad
 
 “It could,” Grant replied. “Produce the signed manufacturer extension or Apex modification that adds the claimed mode. Until then, the physical object exposes one continuous counter.”
 
-Julie watched Grant refuse the temptation to call the missing event impossible. She made Apex carry the mechanism it proposed instead of using confidence in the board as a substitute. Apex counsel said, “That does not exclude a mirrored-signature service presenting the board certificate without advancing the local counter.” Grant looked at the screen. “Correct. It excludes physical signing by this board in the displayed range.” The counsel tried again. “You cannot say the deployment signature was false.”
+Julie watched Grant refuse the temptation to call the missing event impossible. She made Apex carry the mechanism it proposed instead of using confidence in the board as a substitute.
+
+Apex counsel said, “That does not exclude a mirrored-signature service presenting the board certificate without advancing the local counter.”
+
+Grant looked at the screen. “Correct. It excludes physical signing by this board in the displayed range.”
+
+The counsel tried again. “You cannot say the deployment signature was false.”
 
 “I have not.”
 
@@ -121,7 +128,11 @@ Hackett leaned toward his camera. “That clears Thorne of deployment.” Alvare
 
 “It excludes the physical mechanism the original record asserted. It does not identify every other possible authority path, and it does not decide his later conduct.”
 
-Grant added, “The later acts remain physically authenticated.” Elias’s attorney looked toward him. “Do you want to attach a statement?” Elias stared at the board on Grant’s table.
+Grant added, “The later acts remain physically authenticated.”
+
+Elias’s attorney looked toward him. “Do you want to attach a statement?”
+
+Elias stared at the board on Grant’s table.
 
 “My father learned from the news that I was called a hostage, then a possible saboteur. I was supposed to be at his retirement dinner last night.” His voice tightened, but he kept going. “That does not change the record. I opened the gate. I authenticated the recovery. I restored the labels, removed the recorder, entered Northbridge, and held the module after the abort. Those acts are mine. The original deployment is not.”
 
@@ -160,9 +171,11 @@ The result created the next question without answering it. If the physical board
 
 “Because a constructed identity should create disagreement between the physical token, the government registry, and the contractor’s identity layer. If all three agree, this examination is incomplete. If one differs, we learn where the account was assembled.”
 
-Julie felt a brief, unreasonable relief. Grant had not inherited Julie’s method. She had arrived at her own. A second channel opened from DIA. Leland Price was alive, represented, and on restricted administrative leave. His classified access remained suspended. DIA had preserved his authentic raw-source request, the transient display record, and the chronology ending his authority. No general interview or production would occur until counsel and the review office agreed on scope.
+Julie felt a brief, unreasonable relief. Grant had not inherited Julie’s method. She had arrived at her own.
 
-Julie asked, “Was he detained on October twelfth?” The DIA representative answered carefully. “He was not in criminal custody. He was removed from classified access, directed to remain available, and restricted from the workplace during an administrative inquiry.” The distinction corrected Marcus’s assumption that Price had disappeared into detention. It did not make the suspension or timing harmless.
+Julie asked, “Was he detained on October twelfth?”
+
+The DIA representative answered carefully. “He was not in criminal custody. He was removed from classified access, directed to remain available, and restricted from the workplace during an administrative inquiry.” The distinction corrected Marcus’s assumption that Price had disappeared into detention. It did not make the suspension or timing harmless.
 
 Julie looked toward Grant. “Sarah’s preservation notice supports—”
 

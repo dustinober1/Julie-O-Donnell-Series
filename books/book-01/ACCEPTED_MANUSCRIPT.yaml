@@ -17,23 +17,23 @@ retail_release_status: "not_established_by_repository"
 prose_frozen: true
 target_words_min: 105000
 target_words_max: 110000
-total_accepted_words: 105160
+total_accepted_words: 108672
 accepted_files:
   - path: "books/book-01/manuscript/prologue.md"
     title: "Six Years Ago"
     accepted_on: "2026-07-18"
     words: 2110
-    sha256: "9f1285a83b3379b8f34ced719ad7b2d9d79b645a8eb5587aa38822710683506e"
+    sha256: "88ae8570ab3c4054716280a1b47727fff3e1fc3bcc78b113e183421c3993a404"
   - path: "books/book-01/manuscript/chapters/chapter-01.md"
     title: "The Official Version"
     accepted_on: "2026-07-18"
-    words: 4232
-    sha256: "36a1dc970b84ab0e2b76c856f83dd4d35dff405bfd9219854d8fbbd2f8d0c8c7"
+    words: 4240
+    sha256: "ae1a4b688c3a40fe146bd93d899c8ebc66084bcbee152b63db965741e7198780"
   - path: "books/book-01/manuscript/chapters/chapter-02.md"
     title: "The Poisoned Feed"
     accepted_on: "2026-07-18"
-    words: 5151
-    sha256: "91de1ea738153020ebed1b764183cb2d8708e666b64974853305802f7be134df"
+    words: 5152
+    sha256: "21d0d56f44da84213152b14c2d36053e18277e21b7d8f1cc892f622815f7cb6c"
   - path: "books/book-01/manuscript/chapters/chapter-03.md"
     title: "The Exit Protocol"
     accepted_on: "2026-07-18"
@@ -42,108 +42,108 @@ accepted_files:
   - path: "books/book-01/manuscript/chapters/chapter-04.md"
     title: "Burn Notice"
     accepted_on: "2026-07-18"
-    words: 6389
-    sha256: "4683c1e77f9424a08718dbef8e4d0082381cffd3eeddeec3a4018d2f04be1fd9"
+    words: 6392
+    sha256: "bc59bba0151c8ea7bacace89fe6ee6adadf6a8f2aa96f975e1deadf4328e8f87"
   - path: "books/book-01/manuscript/chapters/chapter-05.md"
     title: "The Second Clock"
     accepted_on: "2026-07-18"
     words: 7964
-    sha256: "ae6ec2ddf448562f92ea0a10cacd2644f761db835e83a6a0468a088b3836ae93"
+    sha256: "136ece518ddebaf0239c3608e1bc895f46c46fcd7c6b6ccf75b68365986169d2"
   - path: "books/book-01/manuscript/chapters/chapter-06.md"
     title: "The Descent"
     accepted_on: "2026-07-18"
     words: 3963
-    sha256: "78b16d684a2971f4b44dc8eee3c4b8f140bef1d534a5d1188ff5c75bc94504ad"
+    sha256: "40b60cc8faecd1262678d1e1f0c859434036162f14bbe4f205689b058ec1e0c1"
   - path: "books/book-01/manuscript/chapters/chapter-07.md"
     title: "The Human Key"
     accepted_on: "2026-07-18"
     words: 4911
-    sha256: "b1402f2a3283e927206e9392f6db6a0a3ce18f6b9ea1449a153f1b365f7c07ac"
+    sha256: "a3dd520b0c48b1bddf7cd78e8230a9bc53e99d1c4fb8a37c2da7caf12a85f9f0"
   - path: "books/book-01/manuscript/chapters/chapter-08.md"
     title: "The 05:00 Abort"
     accepted_on: "2026-07-18"
     words: 5395
-    sha256: "9e33f5fdd5e2494a68c2569a07d686d82865a9b9c099ed4434b56f555174cee4"
+    sha256: "c098bf525b37638e1231c99cae8bda97d37708451678fac658ec32c98b9cf601"
   - path: "books/book-01/manuscript/chapters/chapter-09.md"
     title: "The Life-Safety Override"
     accepted_on: "2026-07-18"
     words: 5518
-    sha256: "6b549029d10b392b69dd2fbd6c7a5219887343b24040fdbf6113dd6e2805eae0"
+    sha256: "4bcfbb9224eb1cc94e9a4ee54d938115f4e072ec8ed9807d369f73c63be8f339"
   - path: "books/book-01/manuscript/chapters/chapter-10.md"
     title: "The Capital Connection"
     accepted_on: "2026-07-18"
     words: 5991
-    sha256: "9d77d134e2d0a9e431855345523bc266ec29b49e04ec1232ab8780cd8a27305f"
+    sha256: "d83424e9cd0d049fd704bf945f9ac292aee5f1356cb064f5393f8bac7fe0b974"
   - path: "books/book-01/manuscript/chapters/chapter-11.md"
     title: "Going Offensive"
     accepted_on: "2026-07-18"
     words: 5560
-    sha256: "33a9113e50c7cc536b4c029072684f66ea1de820d5bddeb595a766a6f3f6a13c"
+    sha256: "dd8f370c9e5a26f616fb635eb74c534ad043524961d4207e2e2a3a54b709c55a"
   - path: "books/book-01/manuscript/chapters/chapter-12.md"
     title: "The Sterling Trap"
     accepted_on: "2026-07-18"
     words: 5616
-    sha256: "ff0360558b1c4d8165ca96a2f1a3c047a277b44e14d93ff2e175f931716c7ee1"
+    sha256: "0f583d9e9d1811bf0e8a1267aa1ebdcc6681e20d6ff4e7e782d7e5b6862f2c56"
   - path: "books/book-01/manuscript/chapters/chapter-13.md"
     title: "The Carrier Stream"
     accepted_on: "2026-07-18"
     words: 6177
-    sha256: "e1d32aed2b22c137abe9fa34aedebb068e8bdfb8e3d6bb9ee104f327c01e2b1f"
+    sha256: "435d0ee2991b48ebaecd7cda8a7159c64e2361422d4d669134ed591c838bd73b"
   - path: "books/book-01/manuscript/chapters/chapter-14.md"
     title: "The Witness Line"
     accepted_on: "2026-07-18"
-    words: 5763
-    sha256: "764ef43447b975490dd7978e86c5034360ed5e67f9daec883e5564e29fc1a629"
+    words: 5769
+    sha256: "ad751ff40e8f49e604be7dc6c84929c1ca66b60eb504e296299b7d2b13add2f9"
   - path: "books/book-01/manuscript/chapters/chapter-15.md"
     title: "The Split Record"
     accepted_on: "2026-07-18"
-    words: 2738
-    sha256: "d3567ecfb0d5d89133ba19f050c4675ab661ccfce053d22f77b70e015db96a85"
+    words: 4065
+    sha256: "916afecd5c6001ac5db973e7474466267b04470a7b7d87470c6f28f267d6c46e"
   - path: "books/book-01/manuscript/chapters/chapter-16.md"
     title: "The Hold Order"
     accepted_on: "2026-07-18"
-    words: 2770
-    sha256: "673d1fbf74bbf44feab68b9d8f84408d48f704fb336a6ca711ed25cc2a3c0182"
+    words: 5283
+    sha256: "32c8868413a6456c4e801a60df9448d42a8654c1af4620d6ca5678230a9d100d"
   - path: "books/book-01/manuscript/chapters/chapter-17.md"
     title: "The First Examination"
     accepted_on: "2026-07-18"
-    words: 2634
-    sha256: "e8a053a436b5af0901d09aff049785b399f295b35bff211aa3d511e901fcd022"
+    words: 2580
+    sha256: "9fbc61c531806aef9691878b3e2a1071c2807945ea80300de168f70de23762d2"
   - path: "books/book-01/manuscript/chapters/chapter-18.md"
     title: "The Local Record"
     accepted_on: "2026-07-18"
-    words: 2953
-    sha256: "9e5481b789da9ea2edd72d6f2069ff26ace93c1833d62f9fea03048a834afedc"
+    words: 2661
+    sha256: "cef1187ea3955c3f7d054a4be0299858893cb27c6740c91db88f6565cd2e995a"
   - path: "books/book-01/manuscript/chapters/chapter-19.md"
     title: "The Name on the Record"
     accepted_on: "2026-07-18"
     words: 2745
-    sha256: "44965e4874e48b8d41054d0a82b124d432e846ae6f7de6d7ac47b2338708248c"
+    sha256: "faabe30ed0de1114e77dbd5898ec485355f8a81e41be3865d9d2805abf49be7e"
   - path: "books/book-01/manuscript/chapters/chapter-20.md"
     title: "The Custody Exception"
     accepted_on: "2026-07-18"
     words: 2363
-    sha256: "9a18f6c51e652a2ae3e640f105d5cba288103891703e74a450e9e70cb80c986e"
+    sha256: "0ffe2f8119067517714424fb2dd2e66cdbb2344c4c6a6d62dae03cd03fe297ca"
   - path: "books/book-01/manuscript/chapters/chapter-21.md"
     title: "The Borrowed Name"
     accepted_on: "2026-07-18"
     words: 2486
-    sha256: "51c0b0ceb0008a1cefee37caedb018c6145f2ba7c46602e3224200a602d8f552"
+    sha256: "9bb666a639e025ba5a634de52e4f1c047b97d6186430b93883dfb52b4bdece58"
   - path: "books/book-01/manuscript/chapters/chapter-22.md"
     title: "The Release Record"
     accepted_on: "2026-07-18"
     words: 2604
-    sha256: "29c31126dc9cb9243aaf7f3e032bc8e94236e164736bcbb6da3d511c81f0f48b"
+    sha256: "7da7ff586fa1874b460d46063f56b4f7d6b1d48febc19598da32ce48421555aa"
   - path: "books/book-01/manuscript/chapters/chapter-23.md"
     title: "The Official Correction"
     accepted_on: "2026-07-18"
     words: 2918
-    sha256: "8aa73b398737054b3fff2325c9f28448773919318dc88dc6978cf27830967bc4"
+    sha256: "589ac6e89da18bddeecc659a876e2a1018ab521aeae1687acc062415d63bca64"
   - path: "books/book-01/manuscript/chapters/chapter-24.md"
     title: "The Terms of Return"
     accepted_on: "2026-07-18"
     words: 3115
-    sha256: "a8e88adb04c527003115b06e31e7ec86168953baca8a16f8e14d6679ab6aa4b1"
+    sha256: "143bfa9b47944118562e0ce751fbc6dbae23ef1a028eeabfc92ad5b4542f5a03"
 excluded_from_canon:
   - path: "books/book-01/drafts/"
     reason: "Unaccepted prose and historical drafting material."

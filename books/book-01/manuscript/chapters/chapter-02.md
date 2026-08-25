@@ -94,7 +94,9 @@ The wall intercom clicked. Sarah Chen told Marcus the request exceeded the agree
 
 “Because the machine already compared itself to itself?”
 
-Sarah’s voice cooled. “The platform is certified to identify synthetic contamination.” Julie looked at the repeated carrier pattern. “It missed this one.”
+Sarah’s voice cooled. “The platform is certified to identify synthetic contamination.”
+
+Julie looked at the repeated carrier pattern. “It missed this one.”
 
 “You have not established that.”
 
@@ -106,7 +108,9 @@ Marcus leaned toward the speaker. “We are discussing a possible false strategi
 
 “Technical boundaries do not disappear because you dislike them.”
 
-Marcus said, “Put this on the record: Director Vance changed the consultant scope after the vehicle entered the campus, and his office is the approval authority now withholding the comparison set.” Sarah paused long enough for the compliance recorder to remain audible. “The access modification and approval chain are already in the session record. I will add your stated operational basis. I will not characterize the anomaly as sabotage, employee action, or source contamination until an authorized comparison supports one of those terms.”
+Marcus said, “Put this on the record: Director Vance changed the consultant scope after the vehicle entered the campus, and his office is the approval authority now withholding the comparison set.”
+
+Sarah paused long enough for the compliance recorder to remain audible. “The access modification and approval chain are already in the session record. I will add your stated operational basis. I will not characterize the anomaly as sabotage, employee action, or source contamination until an authorized comparison supports one of those terms.”
 
 The answer protected Apex’s scope and refused a conclusion Vance could later place in her mouth. The intercom went silent. Marcus asked whether Julie could enter the archive without permission. She reminded him that they were in a monitored facility analyzing classified data. He corrected the question: was there another way to make the comparison?
 
@@ -146,6 +150,8 @@ Query mirroring could reconstruct every path she opened, but not the order of he
 “Then this should be easy.”
 
 Marcus sat while Julie reopened the relay feed. Somewhere inside Building Three, Elias Thorne had created a fictional war. Someone had removed the word fictional. A validation package needed a production path, authority, altered labels, and a system willing to accept those changes as ordinary. Elias’s name might belong anywhere in that chain—or only to the original act of building the test.
+
+---
 
 Two floors below ground, Elias Thorne was trying to close a ticket that should not have existed. The Advanced Modeling Division’s integration lab held six empty workstations and the rush of cooling air beneath the raised floor. Most of his team had gone upstairs for an enterprise-patch readiness meeting. Elias preferred machines to meetings. Machines failed in ways he could reproduce. Meetings turned the same failure into an ownership question before anyone agreed on what had happened.
 

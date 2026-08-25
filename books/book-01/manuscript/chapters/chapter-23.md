@@ -1,6 +1,7 @@
 # Chapter 23 — The Official Correction
 
 October 15
+
 13:12 Eastern Daylight Time
 
 Secure MPD Evidence Intake
@@ -55,7 +56,11 @@ Hackett looked toward Julie’s window. “You know what the office will do if w
 
 “They will be telling the truth about what the correction does not decide.”
 
-Hackett’s jaw tightened. “That may not correct anything in public.” Alvarez did not defend Julie. “DCIS is not publishing advocacy.” Grant entered the bounded sentence.
+Hackett’s jaw tightened. “That may not correct anything in public.”
+
+Alvarez did not defend Julie. “DCIS is not publishing advocacy.”
+
+Grant entered the bounded sentence.
 
 THE AUTHENTICATED RECORD DOES NOT SUPPORT THE CLAIM THAT O’DONNELL, REED, THORNE, OR PRICE ORIGINATED THE POISONED SOURCE OR CONSTRUCTED THE OPERATIONAL ROUTE.
 
@@ -112,7 +117,9 @@ The page carried Nwosu’s name, source classes, withheld categories, proof limi
 
 It did not use cleared. It did not use innocent. LSS published last. The acknowledgment named the office device, continuity exception, carrier and authorizing roles, current custodians, and independent review. SSO-NS-004 remained closed, powered down, isolated, and unused. The first page stated that Sterling’s personal possession, operation, knowledge, direction, intent, and command were not established.
 
-The three receipts resolved through separate systems. None required the MPD chest to open. None required the signer to answer another challenge. At Forward Post Arjun, Qureshi printed the public Argus notice beside India’s still-classified local acknowledgment. The American document did not claim that Washington had saved the mountain. It stated that the poisoned support product had been withdrawn and that the later reconstruction omitted a failed local event. The decision not to fire remained Sharma’s and Northern Command’s matter.
+The three receipts resolved through separate systems. None required the MPD chest to open. None required the signer to answer another challenge.
+
+At Forward Post Arjun, Qureshi printed the public Argus notice beside India’s still-classified local acknowledgment. The American document did not claim that Washington had saved the mountain. It stated that the poisoned support product had been withdrawn and that the later reconstruction omitted a failed local event. The decision not to fire remained Sharma’s and Northern Command’s matter.
 
 Northern Command authorized a separate operational statement: no rounds had been fired in Mission Zebra-Nine, the local commander had held execution after the source state failed, and K-17 remained under technical review. It named no American subject, no field authority, and no location beyond the already public sector. Sharma read the last line twice.
 

@@ -1,8 +1,10 @@
 # Chapter 14 — The Witness Line
 
-07:46:00 EDT / 17:16:00 IST
-
 Commercial Garage West of Hartwell
+
+Washington, D.C.
+
+07:46 Eastern Daylight Time / 17:16 Indian Standard Time
 
 The controlled door opened, admitted the three-person stream, and began closing before Julie could separate one body from another. The person in the dark overcoat disappeared first. The man associated with the probable motorcade-support SUV followed. The fourth person passed last, turning just enough for the door frame to hide both hands.
 
@@ -190,7 +192,11 @@ The answer entered the body-camera record in Elias’s own voice. A second radio
 
 “Incident coordination to all Apex personnel at the garage. Metropolitan Police has scene authority. Capture and evidence preservation remain active. No transfer to Apex absent named receiving custody and a documented receipt. Subjects remain under apprehension. Do not allow connection, opening, alteration, or destruction of any media.”
 
-She had not released them. She had denied Vance an undocumented recovery. Vance answered on the same channel. “Executive authority requires immediate isolation of the telemetry.” Chen did not debate him. “Your instruction is preserved. Field force standard and receiving-custody requirement remain unchanged.” Mercer looked at his radio, then at Ortiz.
+She had not released them. She had denied Vance an undocumented recovery. Vance answered on the same channel. “Executive authority requires immediate isolation of the telemetry.”
+
+Chen did not debate him. “Your instruction is preserved. Field force standard and receiving-custody requirement remain unchanged.”
+
+Mercer looked at his radio, then at Ortiz.
 
 The officer had heard both instructions. So had the body camera. Julie turned her head far enough to recover the Hartwell sightline without moving her feet. The controlled door remained closed. The lamp above it remained white. The exterior officer stood near the privacy-screen position, one hand at his earpiece. The probable support SUV had not moved. The hidden hand remained hidden. The dashboard clock changed to 07:47:03. Less than ninety seconds remained in the Hartwell window. Ortiz saw her attention shift.
 

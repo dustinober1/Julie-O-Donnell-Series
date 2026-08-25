@@ -1,6 +1,7 @@
 # Chapter 19 — The Name on the Record
 
 October 14
+
 10:01 Eastern Daylight Time / 19:31 Indian Standard Time
 
 Secure MPD Evidence Intake
@@ -93,7 +94,7 @@ The document identified Sarah Chen as certifying official and APX-B3-IR-5521 as 
 
 Counsel went quiet. Grant displayed the certificate pane. “State what it is.”
 
-“An authenticated index of preserved source categories and their current retention states. It identifies the lawful capture directive, the executive material-loss force addendum issued forty-three seconds later, my force-standard instructions, the occupied-room suppression override, the WSS-four vendor-watch rule, the alert generated from it, and relevant Mercer command traffic.”
+“An authenticated index of preserved source categories and their current retention states. It identifies the lawful capture directive, the executive material-loss force addendum issued ninety seconds later, my force-standard instructions, the occupied-room suppression override, the WSS-four vendor-watch rule, the alert generated from it, and relevant Mercer command traffic.”
 
 “Does the index establish the truth or legality of every underlying event?”
 
@@ -152,7 +153,11 @@ Grant continued because the no-fire result was not an absolution. The relay stoo
 
 Security Line One had nevertheless accepted a field authority registered to Major Tariq’s liaison cell. K17-PHASE-B reached the controller and requested a local source-record reconstruction through a maintenance commit. The required local confirmation never arrived. The authorization expired. No local write occurred.
 
-A later allied product omitted those events. Hackett said, “Tariq attempted to alter the relay record.” Julie corrected him. “An authority registered to his cell reached the controller. The acknowledgment does not place Tariq at K-17 or put the device in his hand.” Hackett accepted the correction without argument. Grant’s attention remained on Julie for one beat longer than before.
+A later allied product omitted those events. Hackett said, “Tariq attempted to alter the relay record.”
+
+Julie corrected him. “An authority registered to his cell reached the controller. The acknowledgment does not place Tariq at K-17 or put the device in his hand.”
+
+Hackett accepted the correction without argument. Grant’s attention remained on Julie for one beat longer than before.
 
 “The record identifies the registered authority,” Grant said. “It does not identify the physical operator, upstream command, or author of the superseding product.”
 
@@ -197,7 +202,9 @@ Grant left for Hartwell.
 ---
 
 Hartwell Executive Briefing Annex
+
 Washington, D.C.
+
 11:07 Eastern Daylight Time
 
 Hartwell’s production room had no place for the MPD chest and no authority to ask for it. Grant entered with the DCIS receiving instrument, a clean encrypted receiver, and a paper scope card. Hartwell duty security officer Renee Collins read the card beneath the local camera and compared every requested field with the administrative hold created the previous morning.

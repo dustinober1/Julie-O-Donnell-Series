@@ -2,7 +2,7 @@
 
 **Book:** *Veridrift*  
 **Canonical inventory:** `../ACCEPTED_MANUSCRIPT.yaml`, version 2  
-**Accepted baseline:** 105,160 words  
+**Accepted baseline:** 108,672 words  
 **Accepted structure:** Prologue + Chapters 1–24  
 **Accepted prose files:** 25  
 **Final-package PR:** #92  
@@ -20,7 +20,7 @@
 - [x] All proofreading queries resolved; open queries: **0**.
 - [x] Manifest contains exactly 25 accepted files in canonical order.
 - [x] All accepted paths, word counts, and SHA-256 values validate.
-- [x] Final accepted Markdown total is **105,160 words**.
+- [x] Final accepted Markdown total is **108,672 words**.
 - [x] Chapter 20 is 2,363 words with the approved final sentence.
 - [x] Chapter 24 ends with **The bubble stayed centered.**
 - [x] No accepted Chapter 25 exists.

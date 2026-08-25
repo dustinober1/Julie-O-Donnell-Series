@@ -211,7 +211,9 @@ Qureshi returned to the console. Sharma watched the countdown.
 42:31 UNTIL ALLIED SOURCE CERTIFICATION.
 
 Apex Campus Utility Easement
+
 Reston, Virginia
+
 15:49 Eastern Daylight Time
 
 The stormwater culvert was trying to become a river. Julie stepped into the concrete throat and stopped when the flow struck above her boots. Brown water pressed around her calves hard enough to pull leaves and broken branches sideways against the wall. Forty feet ahead, the tunnel narrowed beneath the outer security berm. The steel grate Marcus had found on the county drawing was visible only in pieces through the current.
@@ -265,6 +267,7 @@ He looked at her. Six years earlier, Julie would have heard the clock and treate
 This time Marcus followed.
 
 Reston, Virginia
+
 16:21 Eastern Daylight Time
 
 They sat inside the dark Ford behind the abandoned office building with the engine off and wet coveralls cooling against their skin. Rain moved across the windshield in sheets. The Apex towers were invisible beyond the trees. Every few minutes, headlights crossed the access road and vanished behind the empty office park.
@@ -325,7 +328,9 @@ He looked at the culvert route on the printed plan. “The water drops when the 
 The first clock reached zero without a sound inside the Ford. Julie closed the queue record but left the two times written on the screen. 16:30. 05:00. The first made the lie official. The second could still make it lethal.
 
 Forward Post Arjun
+
 Kashmir
+
 02:00 Indian Standard Time
 
 The American certification arrived on time. Major Ananya Sharma watched the status field change while the storm pressed ice against the armored window.
@@ -389,7 +394,9 @@ Julie and Marcus did not leave the abandoned office property. The Ford remained 
 At 18:06, the stormwater discharge rose high enough to cover the grate completely. At 21:40, an Apex utility crew inspected the retention basin and left without entering the culvert. At 00:18, the visible security pattern shifted from search to fixed containment. More vehicles entered Building Three than left it. At 03:57, the pump beneath the southern berm ran for eleven minutes instead of twenty-three. The water line began falling. No one slept. The second clock continued.
 
 Apex Building Three
+
 Reston, Virginia
+
 04:27 Eastern Daylight Time
 
 Elias Thorne waited for the holding-room ventilation fan to begin its next cycle. The room had become a sequence of mechanical facts: eighty-three seconds of airflow, twenty-seven seconds of quiet, the camera’s refocus click when he stood, the ache in his back from the steel chair, the wall clock moving toward a time Arthur Vance had never mentioned during the first interview.
@@ -449,7 +456,9 @@ Vance’s gaze moved to the lanyard.
 He left the folder and turned toward the door. Elias looked at the wall clock. 04:29. Julie had not reached him before the first certification. That did not prove she had stopped trying. The maintenance fault remained active after the door sealed.
 
 Apex Campus Utility Easement
+
 Reston, Virginia
+
 04:31 Eastern Daylight Time
 
 Rainwater filled the concrete culvert to Julie’s ankles. She moved sideways through the darkness, one shoulder against the curved wall and a waterproof folder clenched beneath her jacket. The county drainage plans inside showed the stormwater system as it had existed twelve years ago, before Apex Defense Systems acquired the campus and buried most of its modifications behind security classifications. Marcus moved ahead of her with a red-filtered flashlight held low. The culvert narrowed beneath the outer security berm. Water accelerated around their boots, carrying leaves, pine needles, and oily foam toward the retention basin behind them.
@@ -652,7 +661,9 @@ TAILGATE EVENT RECORDED.
 A camera rotated toward their faces. Their few borrowed seconds began running out.
 
 Building Three
+
 Sublevel One
+
 04:44 Eastern Daylight Time
 
 The secure service corridor was narrower than Julie remembered. No windows. No offices. Only white walls, gray doors, and numbered intersections connecting the environmental systems to the rooms above. Marcus led them toward Compliance Zone Four. At the first junction, a wall terminal activated.
@@ -1088,6 +1099,7 @@ Julie stopped. Marcus did too. Six years ago, that accusation would have reached
 She closed the service door.
 
 Core Access Lift
+
 04:50 Eastern Daylight Time
 
 The service passage ended at a freight elevator protected by two authentication panels. One required an active facility credential. The other required a rotating six-digit code. Elias entered his employee number. Rejected. He opened the maintenance-drive circuit board and connected it to the diagnostic port beneath the panel.

@@ -7,14 +7,14 @@ Accepted prose and `../ACCEPTED_MANUSCRIPT.yaml` control canon. This directory r
 - Book title: **Veridrift**
 - Accepted canon: **Prologue and Chapters 1–24**
 - Accepted prose files: **25**
-- Accepted baseline: **105,160 words**
+- Accepted baseline: **108,672 words**
 - Manifest version: **2**
 - Controlled final proofread: **complete; PR #84 merged**
 - Open proofreading queries: **0**
-- Editorial state: **publication master re-frozen 2026-08-25 under `74-editorial-correction-record.md`**
+- Editorial state: **publication master re-frozen 2026-08-25 under `76-production-quality-pass.md`**
 - Publication state: **prose frozen and validated; production package STALE and requires rebuild**
 - Readiness field: `prose_frozen_package_rebuild_required`
-- Prior package merge commit: `9708fdd86e9292a75b7683152c7746567f015cc6` (built from the superseded 105,157-word master)
+- Prior package merge commit: `9708fdd86e9292a75b7683152c7746567f015cc6` (superseded prose, and built with the unfixed scene-header styling)
 - Retail release state: **not established by repository evidence**
 - Preserved ending: **The bubble stayed centered.**
 
@@ -47,6 +47,8 @@ These are deliberate series threads, not Book 1 continuity gaps.
 - Complete editorial review of the accepted prose: `73-complete-editorial-review.md`
 - Editorial correction record and current publication-master freeze: `74-editorial-correction-record.md`
 - Act III thread-redistribution mission lock: `75-act-iii-thread-redistribution-lock.md`
+- Production-quality pass and current publication-master freeze: `76-production-quality-pass.md`
+- Paragraph render-style validator: `../../../tools/validate_book1_paragraph_styles.py`
 - Chronology derived from the prose: `../../../artifacts/book1-derived-chronology.md`
 - Final package manifest: `../production/final/Veridrift_Final_Package_Manifest.json`
 - Final publication review: `../production/final/Veridrift_Final_Publication_Review.md`
@@ -66,7 +68,7 @@ Any later accepted-prose change requires:
 
 ## Next authorized stage
 
-**Rebuild the production package.** The correction of 2026-08-25 changed four accepted prose files, so the DOCX, EPUB, print PDF and package ZIP recorded in `../production/final/` are derived from superseded prose. Book 1 is not upload-ready until they are rebuilt with `tools/build_book1_production.py`, `tools/test_book1_production.py` passes rather than skips, and checksums and the package manifest are regenerated. See `74-editorial-correction-record.md` §7.
+**Rebuild the production package.** It is stale twice over: the accepted prose has changed substantially, and it was built with an `identify_scene_meta()` that rendered 54 of the book's 64 scene headers in monospace. Book 1 is not upload-ready until it is rebuilt, `tools/test_book1_production.py` passes rather than skips, scene headers are visually confirmed as centred small-caps in all three formats, and checksums and the package manifest are regenerated. See `76-production-quality-pass.md` §10.
 
 Then perform a retailer-specific preview immediately before upload and record retailer upload or release status when it occurs.
 

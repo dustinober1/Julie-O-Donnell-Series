@@ -1,6 +1,7 @@
 # Chapter 18 — The Local Record
 
 October 14
+
 18:42 Indian Standard Time / 09:12 Eastern Daylight Time
 
 Forward Post Arjun
@@ -14,7 +15,9 @@ Lance Naik Suresh Pal lay conscious beneath the straps, a field dressing coverin
 
 “Ma’am, the north track—”
 
-The medical officer cut him off. “I am removing him from questioning.” Sharma held Pal’s gaze long enough to show she had heard him. “Go.” The stretcher disappeared into the aid room. Rao looked at the document pouch against his chest as if the report might need Pal’s voice to remain complete.
+The medical officer cut him off. “I am removing him from questioning.”
+
+Sharma held Pal’s gaze long enough to show she had heard him. “Go.” The stretcher disappeared into the aid room. Rao looked at the document pouch against his chest as if the report might need Pal’s voice to remain complete.
 
 “It doesn’t,” Sharma said. “Mark what he personally observed and what he did not. His questioning stops here.”
 
@@ -34,15 +37,7 @@ Only then did the patrol enter the report room. The room had been designed for m
 
 “Physical sequence,” Sharma told Rao. “No conclusion.”
 
-The patrol had reached Point Kestrel late after ice closed the western traverse and one man lost his footing near the second anchor line. From Kestrel, they observed K-17 through thermal optics and glass for nine minutes. The mast stood. External power appeared normal. The weather cover over the service enclosure remained closed. No person occupied the visible outer compound.
-
-The final approach had cost Pal his footing. A sheet of ice had broken beneath the third man while the patrol crossed a narrow shelf below the relay. Pal caught the man’s harness, struck his own head against the anchor rock, and remained on the line until Rao transferred the weight. The patrol could have turned back under its casualty rule. Pal had passed the field orientation check and insisted that the relay remained visible from the next protected fold.
-
-Rao accepted one more bound, then stopped the patrol at Kestrel long enough to observe before allowing any approach. The delay gave the unseen occupants time to withdraw if they were still outside. It also prevented five exhausted soldiers from walking directly into a compound because a machine in another country had declared what should be there.
-
-When they moved, they did so in pairs with the relay mast between them and the ridgeline. One soldier covered the western escape terrain. One watched the closed inner boundary. Sethi approached only after Rao photographed the wicket from outside its sensor line. The patrol never formed the single cluster the earlier American model had projected onto enemy units. Mountain procedure already knew that real people moved around exposure, injury, weather, and fear.
-
-At the outer security wicket, frozen mud held six partial approach marks and a deeper cut where a rigid tool had been set against the lower frame. The latch was closed when the patrol arrived. A narrow strip of anti-tamper paint had been shaved from the receiver. Behind protective glass, the access indicator showed a steady accepted state. Rao placed the first image beneath the camera.
+Rao gave the sequence in the order it had happened and stopped at each point where the mountain had stopped him. Sharma let him reach the wicket before she interrupted anything. Then he placed the first image beneath the camera: frozen mud, six partial pressure marks, the rectangular cut below the frame where something rigid had been levered, the closed latch, the shaved band of anti-tamper paint on the receiver, and behind protective glass an access indicator showing a steady state.
 
 “The patrol report calls that a successful pass,” Sharma said.
 
@@ -54,13 +49,9 @@ Sethi examined the photograph rather than the room. “It is the controller stat
 
 The second image showed the inner boundary twenty meters beyond the wicket, armored into the rock beneath the relay mast. Its door was closed. Windblown ice obscured the lower seam. No person, weapon, or movement appeared.
 
-“We did not cross,” Rao said.
+“We did not cross,” Rao said. “All three conditions, ma’am. Not one of them.”
 
-“Why?”
-
-“We could not exclude hostile occupancy inside the enclosure. We could not exclude an explosive or tamper hazard on the lower seam. The outbound tracks turned west toward ground from which a Line-of-Control crossing could not be excluded.”
-
-The hard stop had three conditions. Rao had met all three.
+Sharma had written those conditions in a vehicle bay expecting to need one of them. She did not say so.
 
 “Did you pursue?”
 
@@ -78,9 +69,9 @@ The hard stop had three conditions. Rao had met all three.
 
 “Only that no one remained visible in the outer compound when we arrived. Thermal observation found no person outside the closed enclosure.”
 
-That was the boundary. Sethi explained the transit box. K-17 wrote its append-only local incident chain to a removable cartridge held in an exterior isolation cassette. The registered local custodian could release the cartridge from the safe side without opening the relay, creating a live network path, or altering the preceding journal.
+That was the boundary. Sethi gave the release for the register in the same words he had given Sharma in the vehicle bay, and then gave the part he had not been able to give her then.
 
-“I verified the cassette indicator before removal,” Sethi said. “Green journal seal. No active write. Captain Rao witnessed the mechanical release. The cartridge went directly into the field sleeve and transit box. The empty cassette was capped. No replacement medium was connected.”
+“I verified the cassette indicator before removal,” he said. “Green journal seal. No active write. Captain Rao witnessed the mechanical release. The cartridge went directly into the field sleeve and transit box. The empty cassette was capped. No replacement medium was connected.”
 
 “Ordinary sensor forwarding?”
 

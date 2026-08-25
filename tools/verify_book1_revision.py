@@ -13,15 +13,15 @@ MANIFEST = BOOK / "ACCEPTED_MANUSCRIPT.yaml"
 REPORT = ROOT / "artifacts/book1-final-verification.md"
 TARGET_MIN = 105_000
 TARGET_MAX = 110_000
-EXPECTED_TOTAL = 105_160
+EXPECTED_TOTAL = 108_672
 EXPECTED_CHAPTER_20_WORDS = 2_363
-EXPECTED_CHAPTER_20_SHA256 = "9a18f6c51e652a2ae3e640f105d5cba288103891703e74a450e9e70cb80c986e"
+EXPECTED_CHAPTER_20_SHA256 = "0ffe2f8119067517714424fb2dd2e66cdbb2344c4c6a6d62dae03cd03fe297ca"
 EXPECTED_CHAPTER_20_FINAL_SENTENCE = (
     "The name that had put it into circulation was still missing."
 )
 PROTECTED_HASHES = {
-    "books/book-01/manuscript/prologue.md": "9f1285a83b3379b8f34ced719ad7b2d9d79b645a8eb5587aa38822710683506e",
-    "books/book-01/manuscript/chapters/chapter-01.md": "36a1dc970b84ab0e2b76c856f83dd4d35dff405bfd9219854d8fbbd2f8d0c8c7",
+    "books/book-01/manuscript/prologue.md": "88ae8570ab3c4054716280a1b47727fff3e1fc3bcc78b113e183421c3993a404",
+    "books/book-01/manuscript/chapters/chapter-01.md": "ae1a4b688c3a40fe146bd93d899c8ebc66084bcbee152b63db965741e7198780",
 }
 FORBIDDEN = (
     "the answer matched Chapter 11",

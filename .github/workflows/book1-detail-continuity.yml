@@ -8,6 +8,12 @@ name: Book 1 Detail Continuity
 # report only, because legitimate prose reorders time, introduces new names, and
 # restates numbers in different units.
 #
+# The paragraph-style check guards a different blind spot. Every other Book 1
+# control compares production output to the source character by character, and
+# monospace text contains the same characters as small-caps text. That is why
+# 54 of the book's 64 scene headers shipped in a typewriter face without a
+# single validator objecting. See books/book-01/control/76-production-quality-pass.md.
+#
 # The derived-chronology check is the reason this workflow exists. Book 1's
 # controls spent months asserting a calendar the prose did not support, because
 # nothing compared a stated date against the midnights the prose actually
@@ -29,7 +35,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Compile detail-continuity tools
-        run: python3 -m py_compile tools/extract_book1_detail_index.py tools/check_book1_detail_rules.py
+        run: python3 -m py_compile tools/extract_book1_detail_index.py tools/check_book1_detail_rules.py tools/validate_book1_paragraph_styles.py
 
       - name: Extract the detail index
         run: python3 tools/extract_book1_detail_index.py
@@ -45,6 +51,9 @@ jobs:
             echo "  python3 tools/check_book1_detail_rules.py --chronology artifacts/book1-derived-chronology.md"
             exit 1
           fi
+
+      - name: Validate paragraph render styles
+        run: python3 tools/validate_book1_paragraph_styles.py
 
       - name: Run detail-continuity unit tests
         run: python3 -m unittest tools.test_book1_detail_rules -v

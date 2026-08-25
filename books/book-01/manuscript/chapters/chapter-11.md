@@ -1,7 +1,9 @@
 # Chapter 11 — Going Offensive
 
 Decommissioned Communications Cutout
+
 Fairfax County, Virginia
+
 06:25 Eastern Daylight Time
 
 The battery-backed clock advanced to 06:25:11. No one moved. Static breathed through the analog scanner. One fluorescent tube above the equipment table flickered at an interval too irregular to count. Beyond the wall, PCF-27 remained inside the service bay with its known plate, white contractor paint, and disconnected fleet module. The van was hidden from the alley. Nothing else about it had disappeared.
@@ -34,7 +36,9 @@ Elias looked toward the locked storage cabinet. “A reporter?”
 
 “A congressional channel,” Marcus said.
 
-Julie looked at the Northbridge certificate still open on the old workstation. “Sterling sits inside the oversight structure we would be asking for help. That does not make every staff member part of this. It means we cannot know where the warning goes before the evidence is secured.” The scanner broke through the static with a county unit acknowledging the national lookout. No location followed. No confirmed sighting. Marcus waited until the transmission ended. “So the problem isn’t trust.”
+Julie looked at the Northbridge certificate still open on the old workstation. “Sterling sits inside the oversight structure we would be asking for help. That does not make every staff member part of this. It means we cannot know where the warning goes before the evidence is secured.”
+
+The scanner broke through the static with a county unit acknowledging the national lookout. No location followed. No confirmed sighting. Marcus waited until the transmission ended. “So the problem isn’t trust.”
 
 “The problem is sequence.” Julie touched the paper summary. “The first honest action is still custody. Understanding comes later.”
 
@@ -209,7 +213,11 @@ Elias looked at the screen. Julie saw the answer before he gave it.
 
 “No.” The word came quietly. “You can memorize the labels. You will not know which delay is normal and which means the signer failed to present. The current software may not use the same colors or wording. The audit state is in the event order.”
 
-Marcus looked from Elias to Julie. “Remote instructions are out.” Elias’s bandaged finger pressed against the edge of the circuit board. Julie said, “You stay with Marcus.” His eyes lifted.
+Marcus looked from Elias to Julie. “Remote instructions are out.”
+
+Elias’s bandaged finger pressed against the edge of the circuit board. Julie said, “You stay with Marcus.”
+
+His eyes lifted.
 
 “I can take the module. You tell me the sequence now.”
 
@@ -319,7 +327,9 @@ Marcus did not argue with the leg. “Route?”
 
 “If police arrive?”
 
-Julie looked at both men. “We do not turn honest officers acting on a false alert into casualties. No firearms. No hostage-taking. No ramming a way out. If the only exit requires hurting someone who is not trying to kill us, the operation ends.” Marcus studied her. “You are allowing arrest.”
+Julie looked at both men. “We do not turn honest officers acting on a false alert into casualties. No firearms. No hostage-taking. No ramming a way out. If the only exit requires hurting someone who is not trying to kill us, the operation ends.”
+
+Marcus studied her. “You are allowing arrest.”
 
 “I am refusing murder as an escape plan.”
 
@@ -428,10 +438,12 @@ She transferred the aluminum case to Marcus at 06:39:16. He checked both latches
 The tamper-bagged recovery cartridge went into the waterproof document folder with the custody log. Marcus accepted both and signed again. Julie added the dead fleet transponder in its antistatic bag as an ancillary item. The originals would ride together without being connected to anything. No evidence remained in the cutout’s storage cabinet.
 
 Apex Building Three
+
 Reston, Virginia
+
 06:39 Eastern Daylight Time
 
-Sarah Chen received the capture directive and the lethal-force directive forty-three seconds apart. The first came through the joint incident desk established after the Building Three fire. It carried federal and county routing numbers, medical instructions, and language selected by people who expected their decisions to be reviewed.
+Sarah Chen received the capture directive and the lethal-force directive ninety seconds apart. The first came through the joint incident desk established after the Building Three fire. It carried federal and county routing numbers, medical instructions, and language selected by people who expected their decisions to be reviewed.
 
 APPREHEND IF LOCATED.
 SEPARATE SUBJECTS.
@@ -467,7 +479,9 @@ No system had found the cutout yet. The media pane on Sarah’s console updated.
 Sarah opened her own incident report. It said suspected sabotage. The technical source review had not assigned authorship. The enclave record had not been recovered. No federal examiner had concluded who introduced the poisoned data. The public statement had reached a conclusion before the investigation reached the evidence. Sarah marked the time, preserved both directives in the incident file, and sent the regional lookout again. She did not warn Julie.
 
 Decommissioned Communications Cutout
+
 Fairfax County, Virginia
+
 06:42 Eastern Daylight Time
 
 The work order came from a carbon-copy service book in PCF-27’s glove compartment. Potomac Critical Facilities used the forms for jobs that began before a dispatcher entered them into the fleet system. The paper carried the company name, the van identifier, and boxes for a tenant code, service site, reported fault, and authorization number.
@@ -525,6 +539,7 @@ Elias sat in the cargo opening behind them. The administrator board was inside a
 Julie eased PCF-27 into the alley. Marcus lowered the bay door from inside, came through the pedestrian entrance, and locked it. By the time he reached the van, his limp had become worse with every step he tried to hide. He settled into the passenger seat with the waterproof folder beneath his jacket and turned the mounted service radio low enough to hear without filling the alley. When the door closed, the cutout became an ordinary gray service bay again. For anyone who knew where to look.
 
 Northern Virginia
+
 06:47 Eastern Daylight Time
 
 Julie drove west for two blocks before turning east. The diversion did not confuse a tracking system. It kept the first camera outside the cutout from seeing a direct movement toward Washington if that camera existed and if anyone later recovered it. One turn. One minute. No theater.

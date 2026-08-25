@@ -1,6 +1,7 @@
 # Chapter 10 — The Capital Connection
 
 Northern Virginia
+
 05:15 Eastern Daylight Time
 
 The dispatcher repeated the van’s Virginia registration before Julie reached the second intersection. Rainwater shone across the road in long black bands. Each time the tires crossed one, the steering wheel tugged against her injured wrist. She kept her left hand high on the rim and used her right forearm only when the van tried to wander toward the shoulder. The fleet screen had gone dark except for the fault message Elias had created by pulling the telematics connector.
@@ -104,7 +105,9 @@ Marcus’s hand moved toward the control, then stopped. “We need it.”
 
 “They’re also telling us what response is forming.”
 
-Elias looked at Julie’s profile. “You don’t care what they call me as long as the radio is useful.” Julie kept her eyes on the road. “I care. I also need to know where the roadblocks will be.”
+Elias looked at Julie’s profile. “You don’t care what they call me as long as the radio is useful.”
+
+Julie kept her eyes on the road. “I care. I also need to know where the roadblocks will be.”
 
 “There aren’t any yet.”
 
@@ -137,7 +140,9 @@ The lockbox opened. Inside hung a brass key attached to an unlabeled steel tag. 
 Julie drove the van into darkness. Marcus lowered the door by hand. The final strip of pre-dawn light disappeared across the concrete floor. PCF-27 was out of public view. Its known plate, warm engine, tire tracks, and route into Fairfax County still existed.
 
 Decommissioned Communications Cutout
+
 Fairfax County, Virginia
+
 05:42 Eastern Daylight Time
 
 The cutout smelled of dust, cold metal, and insulation that had absorbed ten years of summer heat. The garage held an empty equipment rack, a stack of acoustic panels, and a workbench scarred by soldering irons. A narrow door led into the main room. Marcus found the breaker panel by touch and brought up two rows of fluorescent lights. One flickered without settling. The other cast a weak blue-white strip over obsolete radio consoles and cabinets with their inventory labels scraped away.
@@ -406,7 +411,11 @@ REGISTERED CUSTODIAN: VANCE, ARTHUR R.
 
 The certificate serial matched the production-bridge fragment. The validity window covered the bridge event. No delegated subordinate certificate appeared in the chain. Elias read it twice.
 
-Marcus did not. “Vance.” Julie kept her eyes on the certificate fields. “Say exactly what it proves.” Elias pulled the blanket tighter around his shoulders. “APX-DIR-0019 was invoked through an executive hardware authority registered to Arthur Vance. The authority signed the bridge that moved the post-archive Payload 88 object into production.”
+Marcus did not. “Vance.”
+
+Julie kept her eyes on the certificate fields. “Say exactly what it proves.”
+
+Elias pulled the blanket tighter around his shoulders. “APX-DIR-0019 was invoked through an executive hardware authority registered to Arthur Vance. The authority signed the bridge that moved the post-archive Payload 88 object into production.”
 
 “Does it prove he typed the command?”
 
@@ -509,7 +518,9 @@ Their present position was unknown. Their objective was unknown. The field opera
 
 “And the people near K-17 may care more about the relay than the politics,” Elias said.
 
-Julie nodded. “The aborted strike hurts one objective. It does not tell us what happened to the others.” Marcus looked toward the garage wall, as if the distance to K-17 could be measured through concrete. “If the team already reached the relay—”
+Julie nodded. “The aborted strike hurts one objective. It does not tell us what happened to the others.”
+
+Marcus looked toward the garage wall, as if the distance to K-17 could be measured through concrete. “If the team already reached the relay—”
 
 “We do not know that.”
 
@@ -569,7 +580,9 @@ Julie pointed at the current certificate fingerprint. “We have a Northbridge e
 
 “The full chain is presented live by the hardware device. Northbridge stores the trust fingerprint so it knows what to accept, but the certificate itself may travel with a portable communications unit used by whoever authorizes the session.”
 
-Marcus said, “Sterling.” Julie shook her head. “Unknown custodian.”
+Marcus said, “Sterling.”
+
+Julie shook her head. “Unknown custodian.”
 
 “He is tied to Northbridge.”
 
