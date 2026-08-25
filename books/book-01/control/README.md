@@ -44,6 +44,7 @@ These are deliberate series threads, not Book 1 continuity gaps.
 - Detail continuity audit plan: `70-detail-continuity-audit-plan.md`
 - Detail continuity findings register: `71-detail-continuity-findings.md`
 - Detail continuity audit report and verdict: `72-detail-continuity-audit-report.md`
+- Complete editorial review of the accepted prose: `73-complete-editorial-review.md`
 - Chronology derived from the prose: `../../../artifacts/book1-derived-chronology.md`
 - Final package manifest: `../production/final/Veridrift_Final_Package_Manifest.json`
 - Final publication review: `../production/final/Veridrift_Final_Publication_Review.md`
