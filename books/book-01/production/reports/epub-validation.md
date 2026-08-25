@@ -1,8 +1,8 @@
 # EPUB Validation
 
 - File: `books/book-01/production/proofs/Veridrift_EPUB_PROOF.epub`
-- Size: 291,517 bytes
-- SHA-256: `9ffc13c0ec2d58f8eede73405fa1c5a8485aefb2630c6e70db9e25e017526c37`
+- Size: 299,194 bytes
+- SHA-256: `fe78362ae4707e549a1d3a25d6f816288cdfca827a220586d9f35d3e5993fd36`
 - EPUB mimetype first and uncompressed: PASS
 - Spine entries: 27 (2 proof front-matter sections + 25 accepted sections)
 - TOC entries: 25 — PASS

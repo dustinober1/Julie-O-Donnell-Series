@@ -45,6 +45,18 @@ The fix adds a forward walk and a helper, `_scene_meta_adjacent()`, that accepts
 
 **Result: 190 paragraphs styled Scene Metadata, 0 scene headers in monospace.** The only remaining Display Text block containing prose-like words is the screen field list in Chapter 1 (`Timestamp. / Signal amplitude. / …`), which is correctly monospace.
 
+## 3b. A second production defect, found by building
+
+Once the package could actually be built, inspecting the binaries surfaced a defect that had nothing to do with scene headers.
+
+The recorded builder treats `_` as an emphasis delimiter. The accepted prose contains underscores in exactly one place — the identifier `PAK_RELAY_17A` and its derivative `PAK_RELAY_17A_SOURCE_CORRECTION`, ten occurrences — and never as emphasis. The book's only intentional italic is `*analyst delay*` in the prologue.
+
+So the builder **consumed the underscores and italicised the interior**. The shipped DOCX reads `PAKRELAY17ASOURCECORRECTION` with SOURCE in italics. The EPUB carries `PAK<em>RELAY</em>17A`. Sixteen occurrences across the three formats, of the object identifier the entire plot turns on.
+
+**Why cross-format validation could not see it, again.** `validate_pdf_chars` compares the output against `strip_inline_markdown(source)`. Both sides of the comparison run through the same stripper, so both drop the underscores and the streams match exactly. This is the same blind spot that hid the monospace defect, in a different guise: the validator compares the source *after* markdown interpretation to the output *after* markdown interpretation, so any misinterpretation is invisible by construction.
+
+The loader now removes `_` from the inline tokeniser and the stripper. Verified in the built binaries: `PAK_RELAY_17A` appears intact ten times in DOCX, EPUB and PDF; the whole book contains exactly one italic run, `analyst delay`.
+
 ## 4. Prose changes
 
 | Review finding | Action |
@@ -85,7 +97,15 @@ The lock's seven constraints hold: no chronology change, no new proof, no new na
 
 Net +3,512 from the frozen master: roughly +4,400 of new Kashmir prose, −1,900 from the Chapter 18 compression, and small net gains from paragraph splits and the idiom rewrites. Inside the 105,000–110,000 target band.
 
-## 7. Guard constants updated
+## 7. Stale locks updated, and where they now live
+
+Every deviation from the recorded builder payload is expressed as a commented patch in `tools/build_book1_production.py`, matching the three patches the loader already carried. **The payload itself is byte-identical to the recorded original.** An earlier iteration of this pass edited the compressed payload directly; that was reverted, because a change inside a base64 blob is invisible in review while a loader patch is plain text.
+
+The loader now also derives two literals the recorded builder hardcoded — the accepted word count printed into build record 67, and one validation message that named the old total.
+
+`tools/test_book1_production.py` pinned the historical PR #85 source commit and the old word total. The total now reads from `EXPECTED_TOTAL`; the commit assertion now checks that the manifest carries a well-formed commit rather than one specific historical value, because the build legitimately records whichever commit it ran from.
+
+## 7b. Guard constants updated
 
 `tools/verify_book1_revision.py` protects the prologue and Chapter 1 hashes and Chapter 20's word count, hash and final sentence. The prologue and Chapter 1 both changed in this pass (a speaker split in the prologue, the Marcus trim and header reflow in Chapter 1), and Chapter 20's hash changed from two speaker splits though its word count and final sentence did not.
 
@@ -115,20 +135,28 @@ The six R6/R2 review items are the previously adjudicated near-miss pairs (`Ford
 
 The accepted Markdown prose is re-frozen at **108,672 words across 25 files**, manifest version 2, under the hashes in `../ACCEPTED_MANUSCRIPT.yaml`.
 
-## 10. Production package — ACTION REQUIRED
+## 10. Production proofs — rebuilt and verified
 
-The package in `../production/final/` remains **stale**, and is now stale for two reasons rather than one:
+The production dependencies were installed into a clean virtualenv from `requirements-production.txt` and the package was rebuilt. **Both defects are confirmed fixed in real binaries, not inferred from the builder's logic.**
 
-1. The accepted prose has changed substantially since it was built.
-2. It was built with the **unfixed** `identify_scene_meta()`, so its scene headers are monospace.
+| | DOCX | EPUB | Print PDF |
+|---|---|---|---|
+| Scene-header paragraphs correctly styled | 190 | 190 | — |
+| Scene headers in monospace | **0** | **0** | — |
+| `PAK_RELAY_17A` intact | 10 | 10 | 10 |
+| Mangled `PAKRELAY17A` | **0** | **0** | **0** |
+| Italic runs in the whole book | `analyst delay` only | 1 `<em>` | — |
+| Pages / final line | — | — | 467 · *The bubble stayed centered.* |
 
-Book 1 is **not upload-ready**. Required before any retailer upload:
+The DOCX `Scene Metadata` style resolves to DejaVu Serif, small-caps, centred; `Display Text` remains DejaVu Sans Mono, left-aligned. The EPUB stylesheet gives `p.scene-meta` centred small-caps and `p.display` monospace. The 364 remaining Display Text paragraphs are the book's screen output, which is correctly monospace.
 
-1. Rebuild with `tools/build_book1_production.py` in an environment carrying `requirements-production.txt` (`docx` is absent here, so the rebuild could not run in this workflow).
-2. Confirm `tools/test_book1_production.py` passes rather than skips.
-3. **Visually confirm that scene headers render as centred small-caps, not monospace, in all three formats** — this is the specific regression the rebuild is meant to clear.
-4. Regenerate `CHECKSUMS.sha256` and the package manifest.
-5. Perform the retailer-specific preview.
+All of the builder's own validations pass: DOCX OOXML parts and independent extraction, EPUB mimetype/TOC/XHTML extraction, print-PDF trim, embedded fonts and normalised extraction, and cross-format text comparison. `tools/test_book1_production.py` now **passes** (7 tests) with the dependencies present, and still skips cleanly without them.
+
+**Still required before retailer upload:**
+
+1. Author review of the visual contact sheets. The build marks visual inspection `PENDING AUTHOR REVIEW` by design; automated generation does not substitute for looking at the pages.
+2. Promotion of the verified proofs in `../production/proofs/` into `../production/final/`, with `CHECKSUMS.sha256` and the package manifest regenerated. This pass rebuilt the **proofs**; the final package directory still carries the superseded records.
+3. The retailer-specific preview.
 
 ## 11. Permanent guard added
 

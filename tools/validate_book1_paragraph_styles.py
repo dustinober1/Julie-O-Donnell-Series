@@ -11,7 +11,12 @@ the builder's own ``identify_scene_meta`` and regexes, then asserts:
 
 1. every paragraph containing a clock time is styled Scene Metadata, and
 2. every location line adjacent to one is styled Scene Metadata, and
-3. no paragraph that reads as prose falls into Display Text.
+3. no paragraph that reads as prose falls into Display Text, and
+4. no designator is split or partly emphasised by inline-markdown parsing.
+
+Check 4 exists because the builder once read the underscores in
+PAK_RELAY_17A_SOURCE_CORRECTION as emphasis delimiters, consumed them, and
+shipped "PAKRELAY17ASOURCECORRECTION" with SOURCE in italics.
 
 Standard library only, matching the other permanent Book 1 validators.
 """
@@ -34,15 +39,33 @@ PARTS = [
 CLOCK_RE = re.compile(r"\b\d{1,2}:\d{2}\b")
 PROSE_RE = re.compile(r"[a-z]{4,}\s+[a-z]{4,}")
 # Screen output the book renders in monospace on purpose.
+DESIGNATOR_RE = re.compile(r"[A-Z][A-Z0-9]*(?:[_-][A-Z0-9]+)+")
 DISPLAY_ALLOWLIST = {
     "Timestamp. Signal amplitude. Receiver identification. "
     "Geolocation estimate. Packet signature.",
 }
 
 
+def patched_builder_source() -> str:
+    """Return the builder source exactly as build_book1_production.py runs it.
+
+    The loader keeps the recorded payload byte-identical and expresses every
+    deviation as a commented patch. Running the loader's own patch section --
+    everything up to its final exec -- means this validator tests the builder
+    that actually produces the book, not the unpatched historical payload.
+    """
+    loader_text = (TOOLS / "build_book1_production.py").read_text(encoding="utf-8")
+    marker = 'exec(compile(source, str(Path(__file__)), "exec"), globals())'
+    if loader_text.count(marker) != 1:
+        raise SystemExit("builder loader exec marker not found")
+    ns: dict = {"__file__": str(TOOLS / "build_book1_production.py")}
+    exec(loader_text.split(marker)[0], ns)
+    source = ns["source"]
+    return source.decode() if isinstance(source, bytes) else source
+
+
 def load_builder() -> dict:
-    blob = "".join((TOOLS / name).read_text(encoding="ascii") for name in PARTS)
-    src = zlib.decompress(base64.b64decode(blob)).decode()
+    src = patched_builder_source()
     ns: dict = {
         "re": re,
         "Path": Path,
@@ -54,7 +77,7 @@ def load_builder() -> dict:
         "Any": typing.Any,
         "Optional": typing.Optional,
     }
-    exec(src[src.index("TIME_RE ="): src.index("def load_context")], ns)
+    exec(src[src.index("INLINE_TOKEN_RE ="): src.index("def load_context")], ns)
     return ns
 
 
@@ -72,6 +95,8 @@ def main() -> int:
     split_markdown = ns["split_markdown"]
     identify = ns["identify_scene_meta"]
     all_caps = ns["ALL_CAPS_RE"]
+    inline_segments = ns["inline_segments"]
+    strip_inline = ns["strip_inline_markdown"]
 
     failures: list[str] = []
     meta = 0
@@ -86,6 +111,20 @@ def main() -> int:
             if index in scene_meta:
                 meta += 1
                 continue
+            for segment, italic, bold, code in inline_segments(para):
+                if (italic or bold or code) and DESIGNATOR_RE.fullmatch(segment.strip()):
+                    failures.append(
+                        f"{path.name} paragraph {index}: designator emphasised by "
+                        f"inline markdown -> {segment.strip()!r}"
+                    )
+            if strip_inline(para) != para.replace("\\*", "*").replace("\\_", "_").replace("\\`", "`"):
+                for token in DESIGNATOR_RE.findall(para):
+                    if token not in strip_inline(para):
+                        failures.append(
+                            f"{path.name} paragraph {index}: designator altered by "
+                            f"inline markdown -> {token!r}"
+                        )
+
             display = "\n" in para or (all_caps.match(compact) and len(compact) < 160)
             if not display:
                 continue

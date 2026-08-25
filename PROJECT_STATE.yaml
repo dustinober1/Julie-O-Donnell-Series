@@ -18,9 +18,9 @@ book_1:
   title: "Veridrift"
   authoritative_commit: "9708fdd86e9292a75b7683152c7746567f015cc6"
   final_package_pull_request: 92
-  status: "prose_re_frozen_2026_08_25_production_package_stale"
+  status: "prose_re_frozen_2026_08_25_proofs_rebuilt_and_verified"
   production_quality_pass: "books/book-01/control/76-production-quality-pass.md"
-  publication_readiness: "prose_frozen_package_rebuild_required"
+  publication_readiness: "proofs_rebuilt_pending_author_visual_review"
   editorial_review: "books/book-01/control/73-complete-editorial-review.md"
   current_freeze_record: "books/book-01/control/76-production-quality-pass.md"
   prior_freeze_records:
@@ -64,9 +64,8 @@ book_1:
     - "human or upstream instruction behind the original 02:14 construction"
     - "Senator Sterling's personal knowledge, direction, intent, possession, operation, or command"
   required_next_steps:
-    - "rebuild the production package: the prose has changed substantially and the existing binaries were built with an identify_scene_meta() that rendered 54 of 64 scene headers in monospace"
-    - "on rebuild, visually confirm scene headers render as centred small-caps rather than monospace in DOCX, EPUB and print PDF"
-    - "re-run tools/test_book1_production.py until it passes rather than skips, and regenerate checksums and the package manifest"
+    - "author review of the visual contact sheets; the build marks visual inspection PENDING AUTHOR REVIEW by design"
+    - "promote the verified proofs into books/book-01/production/final/ and regenerate CHECKSUMS.sha256 and the package manifest"
     - "perform a retailer-specific preview immediately before upload"
     - "record retailer upload or release status when it occurs"
     - "make any future prose correction only through an explicit correction record and reviewed PR"
@@ -116,4 +115,4 @@ quality_controls:
   final_publication_review: "books/book-01/production/final/Veridrift_Final_Publication_Review.md"
   final_package_manifest: "books/book-01/production/final/Veridrift_Final_Package_Manifest.json"
   final_checksums: "books/book-01/production/final/CHECKSUMS.sha256"
-  current_validation: "PR #92 records a complete final package validation: DOCX, EPUB, print PDF, cover, ledger, metadata, package manifest, and checksums passed; no manuscript or package defect remains open"
+  current_validation: "Proofs rebuilt 2026-08-25 from the 108,672-word master and verified in the binaries: 190 scene headers correctly styled with none in monospace, PAK_RELAY_17A intact in all three formats, tools/test_book1_production.py passing. PR #92's final package predates the corrections and both production fixes. See books/book-01/control/76-production-quality-pass.md."

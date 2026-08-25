@@ -12,8 +12,8 @@ Accepted prose and `../ACCEPTED_MANUSCRIPT.yaml` control canon. This directory r
 - Controlled final proofread: **complete; PR #84 merged**
 - Open proofreading queries: **0**
 - Editorial state: **publication master re-frozen 2026-08-25 under `76-production-quality-pass.md`**
-- Publication state: **prose frozen and validated; production package STALE and requires rebuild**
-- Readiness field: `prose_frozen_package_rebuild_required`
+- Publication state: **prose frozen and validated; proofs rebuilt and verified; final package not yet promoted**
+- Readiness field: `proofs_rebuilt_pending_author_visual_review`
 - Prior package merge commit: `9708fdd86e9292a75b7683152c7746567f015cc6` (superseded prose, and built with the unfixed scene-header styling)
 - Retail release state: **not established by repository evidence**
 - Preserved ending: **The bubble stayed centered.**
@@ -68,8 +68,12 @@ Any later accepted-prose change requires:
 
 ## Next authorized stage
 
-**Rebuild the production package.** It is stale twice over: the accepted prose has changed substantially, and it was built with an `identify_scene_meta()` that rendered 54 of the book's 64 scene headers in monospace. Book 1 is not upload-ready until it is rebuilt, `tools/test_book1_production.py` passes rather than skips, scene headers are visually confirmed as centred small-caps in all three formats, and checksums and the package manifest are regenerated. See `76-production-quality-pass.md` §10.
+**Review the rebuilt proofs, then promote them.** The package was rebuilt and both production defects are confirmed fixed in the binaries: 190 scene headers correctly styled with none in monospace, and `PAK_RELAY_17A` intact in DOCX, EPUB and print PDF. `tools/test_book1_production.py` passes with the production dependencies present.
 
-Then perform a retailer-specific preview immediately before upload and record retailer upload or release status when it occurs.
+Remaining before retailer upload:
 
-The prose itself is correct and frozen. The stale outputs are a build state, not a manuscript defect.
+1. Author review of the visual contact sheets — the build marks visual inspection `PENDING AUTHOR REVIEW` by design.
+2. Promote the verified proofs into `../production/final/`, regenerating `CHECKSUMS.sha256` and the package manifest. That directory still carries the superseded records.
+3. The retailer-specific preview.
+
+See `76-production-quality-pass.md` §10.
