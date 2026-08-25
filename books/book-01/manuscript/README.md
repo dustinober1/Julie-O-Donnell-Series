@@ -9,7 +9,7 @@ The controlling inventory is [`../ACCEPTED_MANUSCRIPT.yaml`](../ACCEPTED_MANUSCR
 - Book: **Veridrift**
 - Prologue and Chapters 1–24
 - Accepted prose files: **25**
-- Accepted length: **105,157 words**
+- Accepted length: **105,160 words**
 - Final line: **The bubble stayed centered.**
 - Readiness: `publication_ready_upload_ready`
 - Editorial state: **publication master frozen**

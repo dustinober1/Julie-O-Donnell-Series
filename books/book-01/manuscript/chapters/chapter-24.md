@@ -6,7 +6,7 @@ October 16
 Secure MPD Evidence Intake
 Washington, D.C.
 
-Julie remained attached to the rail the morning after the correction became public. The three public records no longer depended on her possession or persuasion. That did not decide whether her entries, removals, deception, and seven seconds past the Northbridge abort would be charged. Public causality and personal exposure occupied different documents under different authorities.
+Julie remained attached to the rail the morning after the correction became public. The three public records no longer depended on her possession or persuasion. That did not decide whether her entries, removals, deception, and eight seconds past the Northbridge abort would be charged. Public causality and personal exposure occupied different documents under different authorities.
 
 Dana Webb, appointed for Julie’s immediate custody review, stood beside Ortiz with a written MPD release authorization and counsel undertaking held beneath the intake camera. Alvarez appeared on the federal channel. Grant sat at evidence control without an open source window. The common chest remained behind glass, closed and out of Julie’s reach. Webb began with the part no headline had decided.
 

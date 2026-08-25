@@ -3,7 +3,9 @@
 **Scope:** full read of the accepted publication master — prologue plus Chapters 1–24, 105,157 words, all 25 manifest files.
 **Basis:** the prose itself. Control documents were read for convention and claim-checking, not treated as evidence of the text.
 **Date:** 2026-08-25
-**Effect on publication state:** none. No accepted prose was changed. Every prose finding below is a recommendation requiring an explicit correction record and reviewed PR under the policy in `README.md`.
+**Effect on publication state when written:** none. No accepted prose was changed by the review itself.
+
+> **Update, 2026-08-25.** Findings **D-1, D-2, D-3 and the Chapter 2 half of D-5** were subsequently authorized and corrected under `74-editorial-correction-record.md`. Accepted total moved 105,157 → 105,160. The production package is now stale and requires rebuild before upload. §3 of this review was also revised after measurement — see the boxed note in that section. D-4, D-6, D-7, D-8 and the book-wide half of D-5 remain open.
 
 ---
 
@@ -31,6 +33,16 @@ The risks are equally real:
 - **Antagonist deficit.** After Chapter 9, Vance appears mostly as a voice on a radio and a name in a certificate chain. He does not share a room with Julie again after the Compliance Four vestibule. The Act III antagonist is *institutional fragmentation*, which is thematically correct and dramatically diffuse.
 - **Cast load.** Act III introduces roughly fifteen named characters — Ortiz, Park, Brooks, Grant, Alvarez, Webb, Vega, Vann, Drennan, Kessler, Nwosu, Collins, Shah, plus Rao, Sethi and Pal at Arjun. Most are excellent. Collectively they arrive at the point where a reader's capacity for new names is lowest.
 - **Julie's agency.** From Chapter 15 to Chapter 23 the protagonist is restrained to a rail, watching other people do the work, and the book knows this — "the truth moved without Julie's hands on it" is the *point*. But agency surrendered is still agency lost, and it is surrendered for nine chapters.
+
+> **Revision, 2026-08-25 — this section's framing was imprecise.**
+>
+> "The thriller ends at Chapter 8" describes a symptom. The measurement finds the cause: **Kashmir — the only location in this book where a person can be physically killed — appears in Chapters 3, 4, 5 and 8, then vanishes for 42,745 words (Chapters 9–17) before returning in Chapter 18.** Chapter 8 ends by putting five or six people on a mountain and making Julie's own 43-second error part of why they are unobserved. The book then sets that live wire down for nine chapters, exactly as the domestic plot converts from pursuit to procedure. Both engines switch off together.
+>
+> Compounding it: when Kashmir returns, the patrol is delivered as *testimony in a warm room*. The back half's one sequence of physical jeopardy is reported rather than dramatized.
+>
+> The fix is cheaper than anything proposed below, because the chronology already supports it — Chapter 18 sits five minutes *before* Chapter 17 in absolute time, so the two strands are already concurrent and merely presented in blocks. Dramatizing the patrol and intercutting it across Chapters 15–17, then compressing Chapter 18 to its findings, is **+2,800 words net**. See `75-act-iii-thread-redistribution-lock.md` and the sample draft it governs.
+>
+> The recommendation immediately below still stands on its own terms and is unaffected.
 
 **Recommendation:** do not restructure. The design is coherent and the payoff is earned. But two changes would materially reduce the risk without touching the architecture:
 
@@ -189,11 +201,11 @@ grep -n "Eastern Daylight Time\|Indian Standard Time\|^---$" \
 
 | ID | Finding | Severity | Action |
 |---|---|---|---|
-| D-1 | "seven seconds" should be "eight seconds" (Ch. 24) | High | Correct before further distribution |
-| D-2 | "the manuscript's institutions" (Ch. 22) | High | Correct before further distribution |
-| D-3 | "filling the chapter" (Ch. 23) | High | Correct before further distribution |
-| D-4 | 46 two-speaker paragraphs | Medium | Author decision; correct control records 51 and 53 regardless |
-| D-5 | Two scene-break systems; unmarked Ch. 2 POV return | Medium | Author decision; Ch. 2 break recommended |
+| D-1 | "seven seconds" should be "eight seconds" (Ch. 24) | High | **CORRECTED** &mdash; `74-` C-1 |
+| D-2 | "the manuscript's institutions" (Ch. 22) | High | **CORRECTED** &mdash; `74-` C-2 |
+| D-3 | "filling the chapter" (Ch. 23) | High | **CORRECTED** &mdash; `74-` C-3 |
+| D-4 | 46 two-speaker paragraphs | Medium | Prose OPEN; control records 51 and 53 **corrected** &mdash; `74-` §8 |
+| D-5 | Two scene-break systems; unmarked Ch. 2 POV return | Medium | Ch. 2 **CORRECTED** &mdash; `74-` C-4. Book-wide system OPEN |
 | D-6 | Dateline paragraph shape | Low | Optional |
 | D-7 | 11.2 vs eleven-point-two | Low | Optional |
 | D-8 | Three unrelated "forty-three seconds" | Low | Optional |

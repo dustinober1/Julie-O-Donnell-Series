@@ -79,7 +79,7 @@ None would sign another institution’s facts. The first coordinated draft faile
 
 The third failed because DCIS counsel would not state that the K-17 failure caused the later reconstruction. The source established that Vance received and superseded the conflict, not why he did so. Each refusal protected a real boundary.
 
-Grant reduced the common requirements to five: publishing authority, source classes, withheld categories, proof limits, and a public receipt tied to the signed document. A short displayed portion of the publication hash would allow the public copy to be checked without filling the chapter with inert cryptographic strings. The full values would remain in the receipts.
+Grant reduced the common requirements to five: publishing authority, source classes, withheld categories, proof limits, and a public receipt tied to the signed document. A short displayed portion of the publication hash would allow the public copy to be checked without filling the page with inert cryptographic strings. The full values would remain in the receipts.
 
 The three clocks would remain labeled rather than silently normalized into one perfect sequence. Nwosu required the Argus notice to identify the Apex release time as a reconciled source event, not an omniscient master time. Vega required the LSS statement to say that the current no-use hold authenticated present custody, not earlier operation. Alvarez required the DCIS correction to identify source classes without exposing active methods.
 

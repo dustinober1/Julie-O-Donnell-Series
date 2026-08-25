@@ -3,7 +3,7 @@
 **Manuscript:** *Veridrift*
 **Canonical inventory:** `../ACCEPTED_MANUSCRIPT.yaml`, version 2
 **Current accepted baseline:** PR #82 merge commit `a722b99bc41314c62ae99c35b960d6274a0681ab`
-**Accepted total:** 105,157 words
+**Accepted total:** 105,160 words
 **External-review evidence state:** No named qualification-backed external specialist finding is recorded.
 **Issue disposition:** Issues #70–#76 were closed at author direction after reported specialist satisfaction. The formal documentation gate is waived, not satisfied by recorded approval.
 **Packet state:** The seven packets remain available as optional/historical review material; see `60-external-review-dispatch-readiness.md`.
@@ -62,7 +62,7 @@ These are internal continuity classifications, not external specialist findings.
 
 ## Verification record
 
-- Current accepted total: **105,157 words**.
+- Current accepted total: **105,160 words**.
 - Copyedit merge commit: `a722b99bc41314c62ae99c35b960d6274a0681ab`.
 - Accepted prose changed during this control reconciliation: **none**.
 - `ACCEPTED_MANUSCRIPT.yaml` counts and SHA-256 values remain controlling.
@@ -109,4 +109,4 @@ These are internal continuity classifications, not external specialist findings.
 
 ## Current publication gate
 
-The editorial publication master is frozen at **105,157 words**. The next mandatory gate is generation and manual approval of Word, EPUB, and print-PDF production proofs. Any reopened external finding requires a new editorial exception and a replacement publication-master freeze record.
+The editorial publication master is frozen at **105,160 words**. The next mandatory gate is generation and manual approval of Word, EPUB, and print-PDF production proofs. Any reopened external finding requires a new editorial exception and a replacement publication-master freeze record.

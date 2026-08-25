@@ -274,7 +274,11 @@ Elias raised them. The board inside his badge felt as visible as a flare. The co
 
 “Come with us.”
 
-Elias looked once at the production map. The false signals continued moving toward the border. No one shut them off. Julie ran the Package 88 index through three comparisons. The interval and terrain-interference model matched. The carrier-noise profile remained inside the inaccessible package. The metadata established similarity. Not identity. Not deliberate deployment. Marcus paced behind her. “Can we use this to suspend certification?”
+Elias looked once at the production map. The false signals continued moving toward the border. No one shut them off.
+
+---
+
+Julie ran the Package 88 index through three comparisons. The interval and terrain-interference model matched. The carrier-noise profile remained inside the inaccessible package. The metadata established similarity. Not identity. Not deliberate deployment. Marcus paced behind her. “Can we use this to suspend certification?”
 
 “Apex will say the package was built from historical field data.”
 

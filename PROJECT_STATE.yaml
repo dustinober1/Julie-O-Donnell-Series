@@ -18,11 +18,14 @@ book_1:
   title: "Veridrift"
   authoritative_commit: "9708fdd86e9292a75b7683152c7746567f015cc6"
   final_package_pull_request: 92
-  status: "publication_package_frozen_and_cleared"
-  publication_readiness: "publication_ready_upload_ready"
+  status: "prose_re_frozen_2026_08_25_production_package_stale"
+  publication_readiness: "prose_frozen_package_rebuild_required"
+  editorial_review: "books/book-01/control/73-complete-editorial-review.md"
+  current_freeze_record: "books/book-01/control/74-editorial-correction-record.md"
+  prior_freeze_record: "books/book-01/control/66-publication-master-freeze.md"
   release_status: "not_established_by_repository"
   prose_frozen: true
-  accepted_words: 105157
+  accepted_words: 105160
   target_words_min: 105000
   target_words_max: 110000
   structure:
@@ -58,6 +61,8 @@ book_1:
     - "human or upstream instruction behind the original 02:14 construction"
     - "Senator Sterling's personal knowledge, direction, intent, possession, operation, or command"
   required_next_steps:
+    - "rebuild the production package: four accepted files changed on 2026-08-25, so the DOCX, EPUB, print PDF and ZIP in books/book-01/production/final/ are derived from superseded prose"
+    - "re-run tools/test_book1_production.py until it passes rather than skips, and regenerate checksums and the package manifest"
     - "perform a retailer-specific preview immediately before upload"
     - "record retailer upload or release status when it occurs"
     - "make any future prose correction only through an explicit correction record and reviewed PR"

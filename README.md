@@ -11,7 +11,7 @@ Google Drive is limited to archived snapshots, review copies generated from GitH
 ## Book 1: *Veridrift*
 
 - Prologue plus Chapters 1–24.
-- Accepted Markdown publication master: **105,157 words** across exactly **25 accepted prose files**.
+- Accepted Markdown publication master: **105,160 words** across exactly **25 accepted prose files**.
 - Canonical manifest: `books/book-01/ACCEPTED_MANUSCRIPT.yaml`, version 2.
 - Accepted prose is frozen. Changes require an explicit correction record and reviewable pull request.
 - Final Book 1 line remains locked: **The bubble stayed centered.**

@@ -235,7 +235,7 @@ Integrity had not made her an ally. It had made her direct evidence reliable whe
 
 Alvarez asked whether the release finding justified immediate criminal arrest. The duty prosecutor refused to convert a strong operational record into a charging decision without reviewing classification, authority, intent, and the evidence connecting the release to a federal offense. Vance remained represented, restricted from operational systems, and subject to preservation and travel conditions negotiated through counsel.
 
-Hackett called the delay institutional cowardice. Grant called it a different question. Julie understood both reactions. Vance’s live hand was finally visible. The temptation to make visibility equal every legal element was the same temptation the manuscript’s institutions had repeatedly used against her and Elias.
+Hackett called the delay institutional cowardice. Grant called it a different question. Julie understood both reactions. Vance’s live hand was finally visible. The temptation to make visibility equal every legal element was the same temptation the institutions in this case had repeatedly used against her and Elias.
 
 The release record would support the next process. It would not replace it.
 
