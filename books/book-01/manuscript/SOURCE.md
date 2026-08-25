@@ -7,7 +7,7 @@ Accepted prose consists of exactly:
 - `prologue.md`
 - `chapters/chapter-01.md` through `chapters/chapter-24.md`
 
-Together these 25 files contain **108,672 words** and form the Book 1 publication master. The final line is **The bubble stayed centered.**
+Together these 25 files contain **109,498 words** and form the Book 1 publication master. The final line is **The bubble stayed centered.**
 
 These files are the highest authority for accepted events, character behavior, chronology, injuries, evidence, technology, geography, and narrative voice.
 

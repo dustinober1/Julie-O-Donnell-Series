@@ -17,7 +17,7 @@ retail_release_status: "not_established_by_repository"
 prose_frozen: true
 target_words_min: 105000
 target_words_max: 110000
-total_accepted_words: 108672
+total_accepted_words: 109498
 accepted_files:
   - path: "books/book-01/manuscript/prologue.md"
     title: "Six Years Ago"
@@ -102,8 +102,8 @@ accepted_files:
   - path: "books/book-01/manuscript/chapters/chapter-16.md"
     title: "The Hold Order"
     accepted_on: "2026-07-18"
-    words: 5283
-    sha256: "32c8868413a6456c4e801a60df9448d42a8654c1af4620d6ca5678230a9d100d"
+    words: 5209
+    sha256: "0ccd8f3d44a3a3b1f33b474000842f7cc20dd7ef768d4ba456b2b8150fb122df"
   - path: "books/book-01/manuscript/chapters/chapter-17.md"
     title: "The First Examination"
     accepted_on: "2026-07-18"
@@ -117,13 +117,13 @@ accepted_files:
   - path: "books/book-01/manuscript/chapters/chapter-19.md"
     title: "The Name on the Record"
     accepted_on: "2026-07-18"
-    words: 2745
-    sha256: "faabe30ed0de1114e77dbd5898ec485355f8a81e41be3865d9d2805abf49be7e"
+    words: 2707
+    sha256: "60e1d90683de6c8d4b08b36aaca7ee1df89769926eceabd0b31f72eb23ad7ee4"
   - path: "books/book-01/manuscript/chapters/chapter-20.md"
     title: "The Custody Exception"
     accepted_on: "2026-07-18"
-    words: 2363
-    sha256: "0ffe2f8119067517714424fb2dd2e66cdbb2344c4c6a6d62dae03cd03fe297ca"
+    words: 3301
+    sha256: "7f6022b5a55cb5109326643ef4cdec980049c48433a6950a3c224212646f1645"
   - path: "books/book-01/manuscript/chapters/chapter-21.md"
     title: "The Borrowed Name"
     accepted_on: "2026-07-18"

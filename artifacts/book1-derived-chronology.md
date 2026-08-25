@@ -69,13 +69,14 @@ one, a control document can drift without ever contradicting the prose.
 | `ch16`:5 | 08:18 Eastern Daylight Time | 1 | October 13 | October 13 |
 | `ch16`:100 | 09:03 Eastern Daylight Time | 1 | October 13 | October 13 |
 | `ch16`:202 | 17:11 Eastern Daylight Time / 02:41 Indian Standard Time | 1 | October 13 | October 13 |
-| `ch16`:301 | 19:56 Eastern Daylight Time / 05:26 Indian Standard Time | 1 | October 13 | October 13 |
-| `ch16`:392 | 22:18 Eastern Daylight Time | 1 | October 13 | October 13 |
+| `ch16`:297 | 19:56 Eastern Daylight Time / 05:26 Indian Standard Time | 1 | October 13 | October 13 |
+| `ch16`:388 | 22:18 Eastern Daylight Time | 1 | October 13 | October 13 |
 | `ch17`:5 | 09:17 Eastern Daylight Time | 2 | October 14 | October 14 |
 | `ch18`:5 | 18:42 Indian Standard Time / 09:12 Eastern Daylight Time | 2 | October 14 | October 14 |
 | `ch19`:5 | 10:01 Eastern Daylight Time / 19:31 Indian Standard Time | 2 | October 14 | October 14 |
 | `ch19`:208 | 11:07 Eastern Daylight Time | 2 | October 14 | October 14 |
 | `ch20`:5 | 09:06 Eastern Daylight Time | 3 | October 15 | October 15 |
+| `ch20`:181 | 09:58 Eastern Daylight Time | 3 | October 15 | October 15 |
 | `ch21`:5 | 10:32 Eastern Daylight Time | 3 | October 15 | October 15 |
 | `ch22`:5 | 12:18 Eastern Daylight Time | 3 | October 15 | October 15 |
 | `ch23`:5 | 13:12 Eastern Daylight Time | 3 | October 15 | October 15 |

@@ -2,7 +2,7 @@
 
 ## Evidence generated
 
-- Print PDF: all 467 pages rendered to PNG and arranged into numbered contact sheets under `visual/pdf/`.
+- Print PDF: all 471 pages rendered to PNG and arranged into numbered contact sheets under `visual/pdf/`.
 - DOCX: rendered through LibreOffice to PDF by the workflow, then every rendered page is arranged into contact sheets under `visual/docx/`.
 - Inspection scope includes all front matter, every chapter opening, all pages, the complete final chapter, and final page.
 

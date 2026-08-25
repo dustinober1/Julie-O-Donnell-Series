@@ -2,16 +2,16 @@
   "schema_version": 1,
   "book": 1,
   "title": "Veridrift",
-  "source_commit": "066d199856acb2f5cb613f9c87b2aba0ba8b22a6",
+  "source_commit": "3a5b93adf59ab0cd84a80a676c16fdf495fd3287",
   "pr_85_merge_commit": "3a5b93adf59ab0cd84a80a676c16fdf495fd3287",
-  "branch": "claude/book-1-complete-review-ao1ef2",
-  "branch_head_at_build": "066d199856acb2f5cb613f9c87b2aba0ba8b22a6",
-  "build_timestamp": "2026-08-25T12:08:29+00:00",
+  "branch": "agent/book1-production-package",
+  "branch_head_at_build": "cc9cb1ffd8ceb709b032857ceb93b835078aefe8",
+  "build_timestamp": "2026-08-25T12:43:04+00:00",
   "manifest_version": 2,
   "publication_readiness": "publication_ready_upload_ready",
-  "accepted_word_count": 108672,
+  "accepted_word_count": 109498,
   "accepted_file_count": 25,
-  "identifier": "urn:uuid:c718f83f-e911-5f10-ab7c-f5c36ad3baa6",
+  "identifier": "urn:uuid:47a03f22-9c91-55e7-9e73-80af5043b05a",
   "sources": [
     {
       "path": "books/book-01/manuscript/prologue.md",
@@ -95,8 +95,8 @@
     },
     {
       "path": "books/book-01/manuscript/chapters/chapter-16.md",
-      "words": 5283,
-      "sha256": "32c8868413a6456c4e801a60df9448d42a8654c1af4620d6ca5678230a9d100d"
+      "words": 5209,
+      "sha256": "0ccd8f3d44a3a3b1f33b474000842f7cc20dd7ef768d4ba456b2b8150fb122df"
     },
     {
       "path": "books/book-01/manuscript/chapters/chapter-17.md",
@@ -110,13 +110,13 @@
     },
     {
       "path": "books/book-01/manuscript/chapters/chapter-19.md",
-      "words": 2745,
-      "sha256": "faabe30ed0de1114e77dbd5898ec485355f8a81e41be3865d9d2805abf49be7e"
+      "words": 2707,
+      "sha256": "60e1d90683de6c8d4b08b36aaca7ee1df89769926eceabd0b31f72eb23ad7ee4"
     },
     {
       "path": "books/book-01/manuscript/chapters/chapter-20.md",
-      "words": 2363,
-      "sha256": "0ffe2f8119067517714424fb2dd2e66cdbb2344c4c6a6d62dae03cd03fe297ca"
+      "words": 3301,
+      "sha256": "7f6022b5a55cb5109326643ef4cdec980049c48433a6950a3c224212646f1645"
     },
     {
       "path": "books/book-01/manuscript/chapters/chapter-21.md",
@@ -142,18 +142,18 @@
   "outputs": [
     {
       "path": "books/book-01/production/proofs/Veridrift_INTERIOR_PROOF.docx",
-      "bytes": 404701,
-      "sha256": "7d0c7d5e326f2f3bc3ab61939a64b1dbc73fdde144f23ca3b0643434ab16c360"
+      "bytes": 406791,
+      "sha256": "972beeb8462cfde9cf9cbc47e9eb50b51eadde4b91b088dff7876c73b0e1d60e"
     },
     {
       "path": "books/book-01/production/proofs/Veridrift_EPUB_PROOF.epub",
-      "bytes": 299194,
-      "sha256": "fe78362ae4707e549a1d3a25d6f816288cdfca827a220586d9f35d3e5993fd36"
+      "bytes": 301034,
+      "sha256": "e4a6407fc78b7be83fbabd7c42db798bf04373c8a3c465dd762a704dcd18a096"
     },
     {
       "path": "books/book-01/production/proofs/Veridrift_PRINT_PROOF.pdf",
-      "bytes": 2769345,
-      "sha256": "f131dfcc42a4873ff2d14536784999701295238657f3270470bb0c0601050b4e"
+      "bytes": 2788071,
+      "sha256": "b0396d202571a714dcdaa266830438968d4b89c05c68c97775e5ccacaa1388f4"
     }
   ],
   "tools": {

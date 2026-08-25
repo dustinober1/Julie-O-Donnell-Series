@@ -84,12 +84,15 @@ if source.count(legacy_scene_meta) != 1:
     raise SystemExit("Production builder scene-metadata patch target mismatch")
 source = source.replace(legacy_scene_meta, current_scene_meta)
 
-# Control records 74 and 76 moved the accepted total and changed Chapter 20's
-# bytes. Chapter 20's word count and final sentence are unchanged and stay locked.
+# Control records 74, 76 and 78 moved the accepted total and changed Chapter 20's
+# bytes and word count: 78- inserted the counsel-supervised Vance interview after
+# the LSS Drennan section. Chapter 20's final sentence is untouched and stays
+# locked verbatim, which is what the ending guard is actually for.
 for legacy_lock, current_lock in (
-    (b"EXPECTED_TOTAL = 105_157", b"EXPECTED_TOTAL = 108_672"),
+    (b"EXPECTED_TOTAL = 105_157", b"EXPECTED_TOTAL = 109_498"),
+    (b"EXPECTED_CH20_WORDS = 2363", b"EXPECTED_CH20_WORDS = 3301"),
     (b'EXPECTED_CH20_SHA = "9a18f6c51e652a2ae3e640f105d5cba288103891703e74a450e9e70cb80c986e"',
-     b'EXPECTED_CH20_SHA = "0ffe2f8119067517714424fb2dd2e66cdbb2344c4c6a6d62dae03cd03fe297ca"'),
+     b'EXPECTED_CH20_SHA = "7f6022b5a55cb5109326643ef4cdec980049c48433a6950a3c224212646f1645"'),
 ):
     if source.count(legacy_lock) != 1:
         raise SystemExit(f"Production builder lock patch target mismatch: {legacy_lock!r}")
@@ -122,6 +125,8 @@ for legacy_inline, current_inline in (
 for legacy_text, current_text in (
     (b'- Accepted words: 105,157',
      b'- Accepted words: {EXPECTED_TOTAL:,}'),
+    (b'- Chapter 20: 2,363 words;',
+     b'- Chapter 20: {EXPECTED_CH20_WORDS:,} words;'),
     (b'errors.append("manifest total is not 105157")',
      b'errors.append(f"manifest total is not {EXPECTED_TOTAL}")'),
 ):

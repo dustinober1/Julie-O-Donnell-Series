@@ -113,7 +113,7 @@ class ProductionProofTests(unittest.TestCase):
 
     def test_locked_endings(self):
         ch20 = next(e for e in self.ctx.entries if e.number == 20)
-        self.assertEqual(ch20.words, 2363)
+        self.assertEqual(ch20.words, mod.EXPECTED_CH20_WORDS)
         self.assertEqual(ch20.sha256, mod.EXPECTED_CH20_SHA)
         self.assertEqual(ch20.paragraphs[-1], mod.EXPECTED_CH20_END)
         self.assertEqual(self.ctx.entries[-1].paragraphs[-1], mod.EXPECTED_FINAL_LINE)

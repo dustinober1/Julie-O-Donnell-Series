@@ -4,6 +4,7 @@
 **Supersedes:** `74-editorial-correction-record.md` as the current publication-master freeze. `74-` and `66-` are retained as historical freeze records.
 **Prior accepted total:** 105,160 words
 **New accepted total:** 108,672 words
+**Superseded as the current freeze record** by `78-act-iii-correction-record.md`, 2026-08-25, at 109,498 words. The figures below are the state at the end of this pass and are retained as written.
 **Accepted files:** 25 (unchanged) · **Manifest version:** 2 (unchanged)
 **Final line:** unchanged — *The bubble stayed centered.*
 

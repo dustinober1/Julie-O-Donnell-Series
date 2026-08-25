@@ -15,7 +15,7 @@ NAMED U.S. MERITS RECIPIENT: NONE
 
 Julie sat in the observation alcove with her left wrist attached to the front harness and her right forearm padded against the hospital brace. Through reinforced glass, the common chest remained under MPD cameras. Grant occupied the incident-control desk. Alvarez waited from the DCIS duty suite. Hackett appeared in a second authenticated window. Apex counsel was present by voice.
 
-Each institution had preserved its part. MPD held seven packages. Hartwell held the local challenge and handoff record. Northbridge held its WSS audit. Forward Post Arjun held the K-17 originals. Apex held its incident journals. The government Argus office held the product registry. DIA held Price’s request and access chronology. Hackett had sponsored preservation. Grant had examined the board. The fragmentation was accurate. It was also a system in which every custodian could protect only the part named in its authority and leave the contradiction ownerless. Apex counsel spoke first.
+Each institution had preserved its part. MPD held seven packages. Hartwell held the local challenge and handoff record. Forward Post Arjun held the K-17 originals. Northbridge, Apex, the government Argus office, and DIA each held the record its own authority named, and nothing past its edge. The fragmentation was accurate. It was also a system in which every custodian could protect only the part named in its authority and leave the contradiction ownerless. Apex counsel spoke first.
 
 “There is no verified basis for treating an allied acknowledgment, unlawfully removed contractor material, a disputed Hartwell access event, and a local hardware observation as one federal incident.”
 
@@ -41,7 +41,7 @@ Julie kept the distinction intact. A named receiver could test whether the recor
 
 “Sponsorship asks someone else to act,” Ortiz replied. “It does not accept the result.”
 
-Hartwell had made the same demand in formal language. Its held record would be produced only to one named federal claimant for incident 187463. Not a program sponsor. Not a technical consultant. Not a routing desk. A name. Alvarez placed both hands flat on the desk visible in her camera.
+Hartwell had made the same demand in formal language. Its held record would be produced to one named federal claimant for incident 187463. Not a sponsor. A name. Alvarez placed both hands flat on the desk visible in her camera.
 
 “Agent Grant, can DCIS accept investigative responsibility while MPD keeps physical custody?”
 
@@ -49,11 +49,11 @@ Hartwell had made the same demand in formal language. Its held record would be p
 
 “Can we receive the K-17 acknowledgment without taking Indian originals?”
 
-“Yes. We receive a bounded reference and its caveats. Arjun retains the source.”
+Grant checked the routing state before she answered. “A bounded reference and its caveats. Arjun retains the source.”
 
 “Can we seek Hartwell’s challenge and custody record without claiming Senate property or unrelated briefing content?”
 
-“Yes, if the request names the challenged serial, the local challenge, the physical handoff, and the institutional custodians before and after. Nothing else.”
+“Only if the request names the challenged serial and its custody path. Nothing else.”
 
 “Can we accept the incident without acquiring the people in it?”
 
@@ -63,13 +63,13 @@ Apex counsel entered an objection. “Receiving responsibility cannot cure the o
 
 “It does not cure anything,” Grant said. “It gives every objection an address.”
 
-The phrase was not Julie’s. Grant had reached it through her own work. Alvarez told Grant to build the receiving instrument from existing records, not from a new narrative. Grant began with MPD. Ortiz opened the digital summary Park had created from the scene record. He did not unlock the chest. He read the seven packages by role and current condition: aluminum case, recovery cartridge, paper custody log, telematics module, waterproof folder and itemization, administrator board under its documented replacement seal, and dual-partition field module. All remained inside the common chest. No movement followed the board reseal. No connection had occurred.
+The phrase was not Julie’s. Grant had reached it through her own work. Alvarez told her to build the receiving instrument from existing records, not from a new narrative. Ortiz opened the digital summary Park had created from the scene record without unlocking the chest, and read the seven packages by role and current condition: aluminum case, recovery cartridge, paper custody log, telematics module, waterproof folder and itemization, administrator board under its documented replacement seal, and dual-partition field module. All remained inside. No movement had followed the board reseal. No connection had occurred.
 
 “Physical custody stays MPD,” Ortiz said. “No opening, imaging, mounting, merging, or transfer without separate written authority, scope, witness, and receipt.”
 
 Alvarez asked, “Interpretation?”
 
-“Receiving the incident is not adoption of any subject’s account, technical conclusion, classification position, guilt, innocence, admissibility, immunity, ownership, or final jurisdiction.”
+“Receiving the incident is not adoption of any subject’s account, technical conclusion, classification position, guilt, innocence, or final jurisdiction.”
 
 Apex counsel objected to classification position. Alvarez left it in. Grant placed the K-17 acknowledgment beneath a separate heading.
 

@@ -254,15 +254,11 @@ Pal gave it.
 
 “Western traverse. Below the relay. Second anchor is behind us.”
 
-“How many are we?”
-
-“Five.”
-
 “What is Naib Subedar Sethi carrying?”
 
 Pal almost smiled through the mess on his face. “The box, sir. Which he will not put down.”
 
-Rao ran the rest of it — pupils, grip, the questions he was required to ask and two he was not — and got the answers a man gives when he is genuinely there. That settled the medical question and left the other one, which was harder, because the casualty rule did not care whether Pal could recite the date. The rule said a patrol with an injury turned around unless the commander could justify otherwise, and the justification had to exist before the decision, not after it.
+Rao finished with pupils and grip and got the answers a man gives when he is genuinely there. That settled the medical question and left the harder one, because the casualty rule did not care whether Pal could recite the date. The rule said a patrol with an injury turned around unless the commander could justify otherwise, and the justification had to exist before the decision, not after it.
 
 Rao took thirty seconds and did not pretend it was less.
 
@@ -290,7 +286,7 @@ They moved again at 03:14, slower, with Pal roped between Sethi and a rifleman w
 
 Rao stopped the patrol there and let them look at it for a while without going any closer.
 
-He had been given three conditions in a vehicle bay by an officer who had not pretended any of them were unlikely. He intended to reach Kestrel with all five of his men and to spend as long as it took looking at that mast before a single boot went past the fold, because the alternative was walking into a compound on the strength of what somebody expected to be in it.
+He had been given three conditions in a vehicle bay by an officer who had not pretended any of them were unlikely.
 
 Behind him, Pal was breathing through his teeth and saying nothing.
 

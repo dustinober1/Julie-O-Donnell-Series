@@ -1,8 +1,8 @@
 # DOCX Validation
 
 - File: `books/book-01/production/proofs/Veridrift_INTERIOR_PROOF.docx`
-- Size: 404,701 bytes
-- SHA-256: `7d0c7d5e326f2f3bc3ab61939a64b1dbc73fdde144f23ca3b0643434ab16c360`
+- Size: 406,791 bytes
+- SHA-256: `972beeb8462cfde9cf9cbc47e9eb50b51eadde4b91b088dff7876c73b0e1d60e`
 - OOXML package required parts: PASS ([Content_Types].xml, word/document.xml, word/settings.xml, word/styles.xml)
 - Navigable chapter headings: 25 — PASS
 - Chapter 25 absent: PASS

@@ -173,6 +173,87 @@ Grant signed only after those limits appeared on the first page.
 
 ---
 
+Apex Counsel Conference Room
+Reston, Virginia
+
+October 15
+
+09:58 Eastern Daylight Time
+
+Arthur Vance sat through the whole of it without once looking at the camera.
+
+He had come in a charcoal suit, and the tie was centered, and he had brought a lawyer on either side of him in a room Apex had chosen and Apex was paying for. He had also come because the alternative was a subpoena, and a subpoena has a return date that appears in a docket. Grant noted the room, the lawyers, the seating, and the fact that the interview was voluntary, and put all of it on the first page where it would stay.
+
+Julie watched from the observation alcove on the authenticated channel, one wrist still fixed to the front rail. Webb had told her the rules for this in a sentence: you may watch, you may not speak, and if you find yourself composing a question you will tell me. Julie had found herself composing a question within forty seconds and had said so out loud, to nobody, and then had not asked it.
+
+Grant read the scope before she read anything else.
+
+"This interview is limited to three preserved record categories. The executive hardware authority registered to you. The material-loss force addendum. The occupied-room suppression override. I am not asking about the original deployment, the source construction, or any communication outside those categories. If I stray, your counsel should stop me, and I will withdraw the question."
+
+The senior lawyer said, "Mr. Vance is here voluntarily and reserves every objection."
+
+"Reserved and recorded."
+
+She began with the certificate.
+
+"Executive hardware authority B3-EXEC-01 is registered to you. The service binding APX-DIR-0019 resolves through it. Was that registration accurate on October thirteenth?"
+
+Vance looked at his counsel. His counsel looked at the ceiling.
+
+"On advice of counsel, I decline to answer."
+
+"Did any other individual hold authorized access to that executive module?"
+
+"On advice of counsel, I decline to answer."
+
+"Were you physically present in Building Three at any point between zero-two-hundred and zero-three-hundred on October thirteenth?"
+
+"On advice of counsel, I decline to answer."
+
+Grant did not vary her cadence and did not repeat a question after it was refused. She asked the material-loss addendum. Declined. She asked whether he had authored the sentence that replaced a threat-to-life standard with a loss-of-material standard. Declined. She asked whether he had entered an executive override against an occupied-room interlock at a moment when the room reported three occupants. Declined.
+
+It took eleven minutes.
+
+Julie had expected to feel something at the refusals and did not. What she felt instead arrived at the ninth minute and was closer to recognition. Six years ago, an Army panel had asked her whether she had communicated clearly, and she had answered every question, at length, four separate times, because she had believed that a person telling the truth should never stop talking. It had not helped. The record had already been written around her.
+
+Vance had understood something she had needed six years and a mountain to learn. A record is not built out of what a person says. It is built out of what the sources can carry, and no amount of talking adds to it or takes away.
+
+The difference was what each of them had done with the understanding.
+
+Grant reached the end of her scope card and stopped.
+
+"For the record: Mr. Vance has declined every question within the authorized scope. That is his right, it is not evidence of anything, and it will not be characterised as evidence of anything in my finding."
+
+Apex counsel said, "We want that sentence preserved verbatim."
+
+"It is already in the transcript. So is the reason this interview happened." Grant turned the card over. "Mr. Vance, before we close. The three categories I asked about are preserved under a federal hold. They will be produced whether or not you answer. You understood that before you sat down."
+
+Counsel said, "Agent Grant."
+
+"It is not a question," Grant said. "It is what the record will say about today, and Mr. Vance should hear it from me rather than read it later."
+
+Vance spoke for the first time without being asked.
+
+"You have the sources."
+
+"I have the sources."
+
+"Then you do not need me."
+
+"No," Grant said. "I needed you to have been asked."
+
+Something moved across his face that Julie had seen once before, from the other side of a compliance-room speaker, when a former analyst told him he had the official version and not the record. It was not fear and it was not guilt. It was a man recognising the shape of a procedure he had spent a career operating and finding himself on the receiving end of it, correctly applied.
+
+Then it was gone, and he stood, and his counsel gathered the reserved objections, and the channel closed.
+
+Alvarez entered the refusal into incident 187463 under its own heading, beside the produced categories and the preservation notices, with the limitation Grant had spoken written out in full. Nothing in the file said Vance had refused because he was guilty. The file said he had been asked, on this date, within this scope, and had declined, and that his declining decided nothing.
+
+Julie looked at the closed channel for a while after it went dark.
+
+She had spent six years believing the answer was to be more thorough than the people writing the report. The answer had turned out to be an agent with a scope card, eleven minutes, and the discipline to say out loud that a refusal proved nothing.
+
+---
+
 Secure MPD Evidence Intake
 Washington, D.C.
 

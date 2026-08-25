@@ -6,7 +6,7 @@
 
 - Canonical accepted manuscript: Prologue + Chapters 1–24.
 - Accepted prose files: **25**.
-- Current accepted word count: **108,672**.
+- Current accepted word count: **109,498**.
 - Manifest version: **2**.
 - Publication readiness: `publication_ready_upload_ready`.
 - Controlled final proofread completed and merged in PR #84.
