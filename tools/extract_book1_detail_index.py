@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
-"""Extract a bottom-up detail index from the accepted Book 1 prose.
+"""Extract a bottom-up detail index from a book's prose.
 
-The existing Book 1 controls verify format, inventory, integrity, and style.
+The existing controls verify format, inventory, integrity, and style.
 They do not extract story fact. The seven continuity ledgers do hold story
 fact, but they were written top-down: a fact had to be noticed before it could
 be recorded, and a fact that was never recorded cannot fail a ledger check.
 
-This tool runs the other direction. It reads the 25 accepted prose files named
-in ``books/book-01/ACCEPTED_MANUSCRIPT.yaml`` and emits every mechanically
+This tool runs the other direction. It reads the prose files named by the
+book's source of truth and emits every mechanically
 extractable concrete detail as a citation-carrying record, so that the prose
 becomes the ground truth the ledgers are tested against.
 
@@ -22,7 +22,10 @@ D4 (space and movement), D5 (objects and custody), D6 (injury and capability),
 D7 (knowledge state), and D9 (surface continuity) cannot be pattern matched and
 are handled by the per-chapter scene cards instead.
 
-Output: ``artifacts/book1-detail-index.json``.
+Output: the book profile's index path, ``artifacts/book1-detail-index.json`` by
+default. Pass ``--book 2`` for Book 2; per-book settings live in
+``tools/book_profiles.py``. This file keeps its Book 1 name because frozen
+Book 1 control records cite it by path.
 
 The tool reads only. It never writes to the accepted manuscript.
 """
@@ -35,9 +38,11 @@ import re
 from dataclasses import dataclass, asdict
 from pathlib import Path
 
-REPO_ROOT = Path(__file__).resolve().parent.parent
-MANIFEST = REPO_ROOT / "books/book-01/ACCEPTED_MANUSCRIPT.yaml"
-DEFAULT_OUTPUT = REPO_ROOT / "artifacts/book1-detail-index.json"
+from book_profiles import REPO_ROOT, BookProfile, add_book_argument, profile
+
+# Set by main() once the book is known. Book 1 stays the default everywhere, so
+# existing invocations and Book 1's committed artifacts are unchanged.
+PROFILE: BookProfile = profile(1)
 
 # --------------------------------------------------------------------------
 # Patterns
@@ -51,19 +56,16 @@ DATE = re.compile(r"\b(January|February|March|April|May|June|July|August|Septemb
 
 # Zone marker immediately following a timestamp. The manuscript uses both the
 # abbreviation and the spelled-out form, and pairs them in either order.
-ZONE = re.compile(
-    r"^\s*(?:hours\s+)?(EDT|IST|Eastern Daylight Time|Indian Standard Time|Eastern|Indian)\b",
-    re.IGNORECASE,
-)
+def _zone_re(prof: BookProfile) -> re.Pattern:
+    return re.compile(
+        r"^\s*(?:hours\s+)?(" + prof.zone_alternation() + r")\b",
+        re.IGNORECASE,
+    )
 
-ZONE_CANON = {
-    "edt": "EDT",
-    "eastern": "EDT",
-    "eastern daylight time": "EDT",
-    "ist": "IST",
-    "indian": "IST",
-    "indian standard time": "IST",
-}
+
+ZONE = _zone_re(PROFILE)
+
+ZONE_CANON = PROFILE.zone_canon()
 
 # Designators: APX-DIR-0019, SSO-NS-004, K-17, PCF-27, L3-7, VAL-088,
 # DIA-SAR-PRICE-01, SIGMA-NORMALIZE-4, COMP-04, CORE-01, WSS-4, H-3.
@@ -157,15 +159,56 @@ MANIFEST_ENTRY = re.compile(
 )
 
 
-def load_manifest() -> list[dict]:
-    text = MANIFEST.read_text(encoding="utf-8")
+# Book 2 records narrative units rather than an accepted-file manifest, and a
+# unit may be undrafted (path: null) or drafted but not yet accepted. Drafted
+# prose is included deliberately: catching a contradiction before acceptance is
+# the entire point of running this during drafting.
+UNIT_ENTRY = re.compile(
+    r'^  - unit: "([^"]+)"\n'
+    r'    title: "([^"]+)"\n'
+    r"    path: (null|\"[^\"]+\")\n"
+    r'    status: "([^"]+)"',
+    re.MULTILINE,
+)
+
+
+def load_accepted_manifest(prof: BookProfile) -> list[dict]:
+    text = prof.source_of_truth.read_text(encoding="utf-8")
     accepted_block = text.split("\nexcluded_from_canon:", 1)[0]
-    entries = [
+    return [
         {"path": path, "title": title, "words": int(words), "sha256": sha256}
         for path, title, words, sha256 in MANIFEST_ENTRY.findall(accepted_block)
     ]
-    if len(entries) != 25:
-        raise SystemExit(f"expected 25 accepted prose files, found {len(entries)}")
+
+
+def load_narrative_units(prof: BookProfile) -> list[dict]:
+    text = prof.source_of_truth.read_text(encoding="utf-8")
+    entries = []
+    for unit, title, raw_path, status in UNIT_ENTRY.findall(text):
+        if raw_path == "null":
+            continue
+        path = raw_path.strip('"')
+        if not (REPO_ROOT / path).exists():
+            raise SystemExit(f"{prof.key}: {unit} names a missing file: {path}")
+        entries.append({"path": path, "title": title, "words": None,
+                        "sha256": None, "status": status})
+    return entries
+
+
+def load_manifest(prof: BookProfile | None = None) -> list[dict]:
+    prof = prof or PROFILE
+    if prof.source_kind == "accepted-manifest":
+        entries = load_accepted_manifest(prof)
+    elif prof.source_kind == "narrative-units":
+        entries = load_narrative_units(prof)
+    else:
+        raise SystemExit(f"unknown source kind {prof.source_kind!r}")
+    if not entries:
+        raise SystemExit(f"{prof.key}: no prose files found in {prof.source_of_truth}")
+    if prof.expected_units is not None and len(entries) != prof.expected_units:
+        raise SystemExit(
+            f"{prof.key}: expected {prof.expected_units} prose files, found {len(entries)}"
+        )
     return entries
 
 
@@ -388,7 +431,7 @@ def build_index() -> dict:
     for record in records:
         by_class[record.detail_class] = by_class.get(record.detail_class, 0) + 1
     return {
-        "source": "books/book-01/ACCEPTED_MANUSCRIPT.yaml",
+        "source": PROFILE.source_of_truth.relative_to(REPO_ROOT).as_posix(),
         "units": units,
         "totals": {"records": len(records), "by_class": dict(sorted(by_class.items()))},
         "records": [asdict(r) for r in records],
@@ -396,10 +439,18 @@ def build_index() -> dict:
 
 
 def main() -> None:
+    global PROFILE, ZONE, ZONE_CANON
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT)
+    add_book_argument(parser)
+    parser.add_argument("--output", type=Path, default=None)
     parser.add_argument("--quiet", action="store_true")
     args = parser.parse_args()
+
+    PROFILE = profile(args.book)
+    ZONE = _zone_re(PROFILE)
+    ZONE_CANON = PROFILE.zone_canon()
+    if args.output is None:
+        args.output = PROFILE.index_path
 
     index = build_index()
     args.output.parent.mkdir(parents=True, exist_ok=True)
@@ -407,10 +458,15 @@ def main() -> None:
 
     if not args.quiet:
         totals = index["totals"]
-        print(f"Extracted {totals['records']:,} detail records from {len(index['units'])} accepted files")
+        print(f"Extracted {totals['records']:,} detail records from "
+              f"{len(index['units'])} {PROFILE.key} prose files")
         for detail_class, count in totals["by_class"].items():
             print(f"  {detail_class}: {count:,}")
-        print(f"Wrote {args.output.relative_to(REPO_ROOT)}")
+        try:
+            shown = args.output.resolve().relative_to(REPO_ROOT)
+        except ValueError:
+            shown = args.output
+        print(f"Wrote {shown}")
 
 
 if __name__ == "__main__":

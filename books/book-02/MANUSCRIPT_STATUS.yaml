@@ -37,8 +37,7 @@ narrative_units:
     accepted_on: "2026-07-26"
     acceptance_record: "books/book-02/control/09-chapter-01-formal-acceptance.md"
     pov: "Julie O'Donnell"
-    words: 2712
-    scene_words: [708, 700, 660, 644]
+    words: 2722
     date_in_story: "2027-06-23"
     clock: "10:32-13:18 PDT"
   - unit: "chapter-02"
@@ -47,22 +46,32 @@ narrative_units:
     status: "draft_complete_pending_formal_acceptance"
     drafting_record: "books/book-02/control/10-chapter-02-drafting-authorization.md"
     pov: "Julie O'Donnell / scientist / Julie O'Donnell / Julie O'Donnell"
-    words: 2870
-    scene_words: [675, 917, 724, 554]
+    words: 2875
     date_in_story: "2027-06-23"
     clock: "15:00-17:10 PDT"
 
-accepted_words: 2712
-drafted_words: 5582
+accepted_words: 2722
+drafted_words: 5597
 
 decisions:
   locked_range: "001-149"
   highest: 149
   note: "Decision 150 does not exist. Decision 149 governs Act V word allocation and scientist POV."
 
+continuity_tooling: "books/book-02/control/11-continuity-tooling-and-first-findings.md"
+quality_controls:
+  word_counter: "tools/count_book2_words.py"
+  detail_index: "tools/extract_book1_detail_index.py --book 2"
+  continuity_rules: "tools/check_book1_detail_rules.py --book 2"
+  tests: "tools/test_book2_continuity.py"
+  ci: ".github/workflows/book2-continuity.yml"
+  derived_chronology: "artifacts/book2-derived-chronology.md"
+  note: "The two tools keep their Book 1 names because frozen Book 1 control records cite them by path; --book 2 selects the Book 2 profile in tools/book_profiles.py."
+
 next_workstream: "Book 2 Chapter 2 Formal Acceptance and Revision Review"
 
 open_items:
   - "The prologue is undrafted. Two conflicting prologue designs existed in Drive; see conflict BC-02."
+  - "Chapter 2 R2 flags two backward time steps. Both are the deliberate concurrent intercut, not defects; see control/11 section 4."
   - "Book 2 has no title."
   - "05 - Book 2 Act Architecture is cited by six documents but does not exist; see conflict BC-04."

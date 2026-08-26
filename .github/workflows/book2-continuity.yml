@@ -1,0 +1,64 @@
+name: Book 2 Continuity
+
+# Book 2's premise is a timestamp-normalization failure across heterogeneous
+# clock bases, so the detail-continuity rules matter there more than they did
+# for Book 1 -- and installing them at 5,600 words costs almost nothing.
+# The tools keep their Book 1 names because frozen Book 1 control records cite
+# them by path; --book 2 selects the Book 2 profile.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  continuity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Compile the continuity tools
+        run: python3 -m py_compile tools/book_profiles.py tools/count_book2_words.py tools/extract_book1_detail_index.py tools/check_book1_detail_rules.py
+
+      - name: Confirm the recorded word counts match the prose
+        run: |
+          EXPECTED=$(python3 - <<'PY'
+          import re
+          from pathlib import Path
+          text = Path('books/book-02/MANUSCRIPT_STATUS.yaml').read_text(encoding='utf-8')
+          m = re.search(r'^drafted_words: (\d+)$', text, re.MULTILINE)
+          if not m:
+              raise SystemExit('MANUSCRIPT_STATUS.yaml missing drafted_words')
+          print(m.group(1))
+          PY
+          )
+          python3 tools/count_book2_words.py --expect "$EXPECTED"
+
+      - name: Extract the Book 2 detail index
+        run: python3 tools/extract_book1_detail_index.py --book 2
+
+      - name: Run the detail-continuity rules
+        run: python3 tools/check_book1_detail_rules.py --book 2 --chronology /tmp/book2-chronology.md
+
+      - name: Confirm the derived chronology has not moved
+        run: |
+          if ! diff -u artifacts/book2-derived-chronology.md /tmp/book2-chronology.md; then
+            echo "::error::The chronology derived from Book 2's prose no longer matches the committed one."
+            echo "If a prose change moved a scene, regenerate it:"
+            echo "  python3 tools/check_book1_detail_rules.py --book 2 --chronology artifacts/book2-derived-chronology.md"
+            exit 1
+          fi
+
+      - name: Continuity tests and Book 1 non-regression
+        working-directory: tools
+        run: python3 -m unittest test_book2_continuity -v
+
+      - name: Confirm the tests restored the manuscript
+        run: git diff --quiet -- books/book-02/manuscript || { echo "::error::Tests left Book 2 prose modified."; git diff --stat -- books/book-02/manuscript; exit 1; }
+
+      - name: Diff hygiene
+        run: git diff --check

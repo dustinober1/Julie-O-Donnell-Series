@@ -11,10 +11,12 @@ Two of thirty-eight planned narrative units exist.
 | Unit | Title | Status | Words |
 |---|---|---|---|
 | Prologue | The Warning That Cannot Have Happened | undrafted | 1,800–2,200 planned |
-| Chapter 1 | A Written Boundary | **formally accepted canon** | 2,712 |
-| Chapter 2 | The Missing Architect | draft complete, pending formal acceptance | 2,870 |
+| Chapter 1 | A Written Boundary | **formally accepted canon** | 2,722 |
+| Chapter 2 | The Missing Architect | draft complete, pending formal acceptance | 2,875 |
 
 Planned: prologue plus Chapters 1–37 across five acts, approximately 109,800 words.
+
+Continuity tooling and the first findings against it are recorded in `control/11-continuity-tooling-and-first-findings.md`. Run `python3 tools/count_book2_words.py` for the word counts and `python3 tools/check_book1_detail_rules.py --book 2` for the continuity rules; both run in CI.
 
 Machine-readable state is in `MANUSCRIPT_STATUS.yaml`. A file existing here does not make it accepted canon; acceptance is recorded per unit.
 

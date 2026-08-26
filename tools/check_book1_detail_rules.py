@@ -1,11 +1,14 @@
 #!/usr/bin/env python3
-"""Run the automatable Book 1 detail-continuity rules (R1-R8).
+"""Run the automatable detail-continuity rules (R1-R8).
 
-Consumes ``artifacts/book1-detail-index.json`` produced by
-``tools/extract_book1_detail_index.py`` and applies the rule sets defined in
-``books/book-01/control/70-detail-continuity-audit-plan.md``:
+Consumes the detail index produced by ``tools/extract_book1_detail_index.py``
+and applies the rule sets defined in
+``books/book-01/control/70-detail-continuity-audit-plan.md``. Pass ``--book 2``
+to run Book 2; per-book zones and paths live in ``tools/book_profiles.py``.
+This file keeps its Book 1 name because frozen Book 1 control records cite it
+by path.
 
-    R1  every EDT/IST pair states exactly +09:30
+    R1  every cross-zone pair states exactly the book's declared offset
     R2  timestamps are non-decreasing within a chapter, allowing declared
         rollovers, flashbacks, and restatements
     R3  countdown runs decrease monotonically
@@ -14,6 +17,7 @@ Consumes ``artifacts/book1-detail-index.json`` produced by
     R6  no near-miss spelling or casing variants of recurring entity names
     R7  quantities that state the same fact agree
     R8  first-mention index for every entity and designator
+    R9  each recurring surname pairs with one given name and one rank
 
 R1, R3, R4, and R5 are hard rules: a violation is a defect. R2, R6, and R7 are
 reporting rules that surface candidates for human adjudication, because
@@ -34,16 +38,23 @@ import sys
 from collections import defaultdict
 from pathlib import Path
 
-REPO_ROOT = Path(__file__).resolve().parent.parent
-DEFAULT_INDEX = REPO_ROOT / "artifacts/book1-detail-index.json"
+from book_profiles import REPO_ROOT, BookProfile, add_book_argument, profile
 
-# The manuscript's fixed offset. India Standard Time is UTC+05:30; Eastern
-# Daylight Time is UTC-04:00. The difference is exactly nine and a half hours.
-IST_OFFSET_SECONDS = int(9.5 * 3600)
+# Set by main() once the book is known; Book 1 stays the default so existing
+# invocations and Book 1's committed chronology are unchanged.
+PROFILE: BookProfile = profile(1)
 
 HARD_RULES = {"R1", "R3", "R4", "R5"}
 
-CLOCK = re.compile(r"^(\d{2}):(\d{2})(?::(\d{2})(\.\d+)?)?(?:\s+(EDT|IST))?$")
+
+def _clock_re(prof: BookProfile) -> re.Pattern:
+    return re.compile(
+        r"^(\d{2}):(\d{2})(?::(\d{2})(\.\d+)?)?"
+        r"(?:\s+(" + "|".join(z.canon for z in prof.zones) + r"))?$"
+    )
+
+
+CLOCK = _clock_re(PROFILE)
 
 
 def parse_clock(normalized: str) -> tuple[float, str] | None:
@@ -87,7 +98,17 @@ def cite(record: dict) -> str:
 # --------------------------------------------------------------------------
 
 def rule_r1(records: list[dict], findings: Findings) -> int:
-    """Every line that states both an EDT and an IST time must state +09:30."""
+    """Every line stating both of the book's zones must state the declared offset.
+
+    Book 1 pairs EDT with IST at exactly +09:30. Book 2 pairs PDT with UTC at
+    +07:00, per outline/07: "Canadian locations use PDT (UTC-7)."
+    """
+    if not PROFILE.zone_pair:
+        return 0
+    base, other = PROFILE.zone_pair
+    expected = PROFILE.offset_between(base, other)
+    expected_label = PROFILE.offset_label()
+
     by_line: dict[tuple[str, int], list[dict]] = defaultdict(list)
     for r in records:
         if r["kind"] == "timestamp":
@@ -96,22 +117,23 @@ def rule_r1(records: list[dict], findings: Findings) -> int:
     checked = 0
     for (_path, _line), group in sorted(by_line.items()):
         zoned = [(parse_clock(r["normalized"]), r) for r in group]
-        edt = [(p[0], r) for p, r in zoned if p and p[1] == "EDT"]
-        ist = [(p[0], r) for p, r in zoned if p and p[1] == "IST"]
-        if not edt or not ist:
+        base_recs = [(p[0], r) for p, r in zoned if p and p[1] == base]
+        other_recs = [(p[0], r) for p, r in zoned if p and p[1] == other]
+        if not base_recs or not other_recs:
             continue
-        for edt_seconds, edt_rec in edt:
-            for ist_seconds, ist_rec in ist:
+        for base_seconds, base_rec in base_recs:
+            for other_seconds, other_rec in other_recs:
                 checked += 1
-                delta = (ist_seconds - edt_seconds) % 86400
-                if abs(delta - IST_OFFSET_SECONDS) > 0.0005:
+                delta = (other_seconds - base_seconds) % 86400
+                if abs(delta - (expected % 86400)) > 0.0005:
                     hours, rem = divmod(delta, 3600)
                     findings.add(
                         "R1",
                         "hard",
-                        f"EDT/IST pair states +{int(hours):02d}:{int(rem // 60):02d}, expected +09:30: "
-                        f"{edt_rec['value']} EDT / {ist_rec['value']} IST",
-                        [cite(edt_rec)],
+                        f"{base}/{other} pair states +{int(hours):02d}:{int(rem // 60):02d}, "
+                        f"expected {expected_label}: "
+                        f"{base_rec['value']} {base} / {other_rec['value']} {other}",
+                        [cite(base_rec)],
                     )
     return checked
 
@@ -125,11 +147,24 @@ def rule_r1(records: list[dict], findings: Findings) -> int:
 # or suffix — "DISCHARGE IN 01:30", "COUNTER-BATTERY SUPPORT COMMIT: 05:00 EDT"
 # — so anchoring on the whole line separates narrative present from displayed
 # data without needing to understand either.
-SCENE_TIME = re.compile(
-    r"^(\d{1,2}):([0-5]\d)(?::([0-5]\d)(\.\d+)?)?"
-    r"(?:\s+(EDT|IST|Eastern Daylight Time|Indian Standard Time))?"
-    r"(?:\s*/\s*(\d{1,2}):([0-5]\d)(?::([0-5]\d))?\s*(EDT|IST|Eastern Daylight Time|Indian Standard Time))?$"
-)
+def _scene_time_re(prof: BookProfile) -> re.Pattern:
+    zones = prof.zone_alternation()
+    return re.compile(
+        r"^(\d{1,2}):([0-5]\d)(?::([0-5]\d)(\.\d+)?)?"
+        r"(?:\s+(" + zones + r"))?"
+        r"(?:\s*/\s*(\d{1,2}):([0-5]\d)(?::([0-5]\d))?\s*(" + zones + r"))?$"
+    )
+
+
+def _inline_time_re(prof: BookProfile) -> re.Pattern | None:
+    """Sentence-initial narrative-present time, for books that state it inline."""
+    if not prof.inline_time_anchor:
+        return None
+    return re.compile(prof.inline_time_anchor.replace("ZONES", prof.zone_alternation()))
+
+
+SCENE_TIME = _scene_time_re(PROFILE)
+INLINE_TIME = _inline_time_re(PROFILE)
 SCENE_DATE = re.compile(r"^(January|February|March|April|May|June|July|August|September|October|November|December)\s+(\d{1,2})$")
 
 
@@ -165,36 +200,40 @@ def scene_headers(records: list[dict]) -> list[dict]:
                 )
                 continue
             time_match = SCENE_TIME.match(line)
+            inline = False
+            if time_match is None and INLINE_TIME is not None:
+                time_match = INLINE_TIME.match(line)
+                inline = time_match is not None
             if time_match:
-                zone = ZONE_CANON.get((time_match.group(5) or "EDT").lower(), "EDT")
+                base = PROFILE.base_zone
+                zone = ZONE_CANON.get((time_match.group(5) or base).lower(), base)
                 seconds = int(time_match.group(1)) * 3600 + int(time_match.group(2)) * 60
                 if time_match.group(3):
                     seconds += int(time_match.group(3))
-                if zone == "IST":
-                    # Normalize a headline stated in IST back to Eastern so the
-                    # whole book sits on one axis.
-                    seconds = (seconds - IST_OFFSET_SECONDS) % 86400
+                if zone != base:
+                    # Normalize a headline stated in a secondary zone back to the
+                    # book's base zone, so the whole book sits on one axis.
+                    seconds = (seconds - PROFILE.offset_between(base, zone)) % 86400
+                # A standalone header is the whole line; an inline anchor is
+                # one clause inside a paragraph, so show only that clause.
+                shown = line
+                if inline:
+                    clause = re.split(r"(?<=[.?!])\s", line, maxsplit=1)[0]
+                    shown = clause if len(clause) <= 120 else clause[:117] + "..."
                 anchors.append(
                     {
                         "type": "time",
                         "unit": unit,
                         "path": path,
                         "line": lineno,
-                        "value": line,
+                        "value": shown,
                         "seconds": seconds,
                     }
                 )
     return anchors
 
 
-ZONE_CANON = {
-    "edt": "EDT",
-    "eastern": "EDT",
-    "eastern daylight time": "EDT",
-    "ist": "IST",
-    "indian": "IST",
-    "indian standard time": "IST",
-}
+ZONE_CANON = PROFILE.zone_canon()
 
 
 DAYS_IN_MONTH = {
@@ -632,6 +671,149 @@ def rule_r7(records: list[dict], findings: Findings) -> int:
 
 
 # --------------------------------------------------------------------------
+# R9: one surname, one given name, one rank
+# --------------------------------------------------------------------------
+
+# R6 catches near-miss *spellings* of a recurring name. It cannot catch a
+# character who keeps her surname but acquires a different given name or rank
+# between chapters, because neither variant is a near-miss of the other and
+# each may appear only once. That is exactly how Book 2's RCMP lead became
+# "Inspector Amrita Dhaliwal" in accepted Chapter 1 and "Superintendent Deepa
+# Dhaliwal" in drafted Chapter 2.
+#
+# Reporting, not hard: promotions happen, and relatives share surnames. The
+# rule surfaces the pairing for adjudication.
+RANKS = (
+    "Inspector", "Superintendent", "Sergeant", "Constable", "Detective",
+    "Corporal", "Commissioner", "Commander", "Captain", "Major", "Colonel",
+    "General", "Lieutenant", "Admiral", "Officer", "Agent", "Director",
+    "Deputy", "Chief", "Senator", "Congressman", "Congresswoman", "Governor",
+    "Justice", "Judge", "Doctor", "Professor", "Secretary", "Ambassador",
+    "Naib", "Subedar", "Naik", "Havildar", "Sepoy", "Rifleman", "Special",
+)
+RANK_ALT = "|".join(RANKS)
+
+# "Inspector Amrita Dhaliwal", "Superintendent Dhaliwal", "Amrita Dhaliwal",
+# "Naib Subedar Sethi". Up to two rank words, then an optional given name.
+FULL_NAME = re.compile(
+    r"\b(?:((?:" + RANK_ALT + r")(?:\s+(?:" + RANK_ALT + r"))?)\s+)?"
+    r"(?:([A-Z][a-z]{2,})\s+)?"
+    r"([A-Z][a-z]{2,})\b"
+)
+
+
+# Place and organization words that take a capitalized modifier and would
+# otherwise read as surnames: "Apex Building", "Fairfax County", "Fenwick Annex".
+NOT_A_SURNAME = {
+    "Annex", "Agency", "Airport", "Army", "Avenue", "Bank", "Bridge", "Building",
+    "Bureau", "Center", "Centre", "Command", "Corps", "County", "Court",
+    "Department", "Division", "Facility", "Group", "Hall", "Hospital", "Hotel",
+    "Criminal", "Institute", "Intelligence", "Navy", "Office", "Post", "Regiment",
+    "Relay", "River", "Secure",
+    "Road", "Room", "Service", "Services", "Station", "Street", "Suite",
+    "Systems", "Trust", "University", "Valley", "Wing",
+    # Number words: "Payload Eighty-Eight", "Core One", "Secure Suite Four".
+    "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine",
+    "Ten", "Eleven", "Twelve", "Twenty", "Thirty", "Forty", "Fifty", "Sixty",
+    "Seventy", "Eighty", "Ninety", "Hundred",
+}
+
+# Capitalized by grammar rather than by being a name. Filtering on the word is
+# more precise than filtering on sentence position, which would also discard a
+# real given name that happens to open a sentence -- exactly the case this rule
+# exists to catch ("Deepa Dhaliwal sat at the daughter's left.").
+NOT_A_GIVEN_NAME = {
+    "A", "After", "All", "Also", "And", "Another", "Any", "As", "At", "Because",
+    "Before", "Both", "But", "By", "Can", "Could", "Did", "Do", "Does", "Each",
+    "Even", "Every", "For", "Former", "From", "Had", "Has", "Have", "He", "Her",
+    "Here", "His", "How", "If", "In", "Is", "It", "Its", "Just", "May", "Might",
+    "More", "Most", "Must", "Neither", "New", "No", "None", "Not", "Now", "Of",
+    "On", "One", "Only", "Or", "Other", "Our", "Over", "Same", "She", "Should",
+    "So", "Some", "Still", "Such", "Than", "That", "The", "Their", "Then",
+    "There", "These", "They", "This", "Those", "Through", "To", "Two", "Under",
+    "Until", "Was", "We", "Were", "What", "When", "Where", "Which", "While",
+    "Who", "Why", "Will", "With", "Without", "Would", "You", "Your",
+}
+
+_SENTENCE_END = '.?!"\u201c\u201d:;\u2014-'
+
+
+def _sentence_initial(raw: str, match: re.Match) -> bool:
+    prefix = raw[: match.start()].rstrip()
+    return not prefix or prefix[-1] in _SENTENCE_END
+
+
+def rule_r9(records: list[dict], findings: Findings, min_count: int = 3) -> int:
+    """Flag a recurring surname that pairs with more than one given name or rank."""
+    paths: list[tuple[int, str, str]] = []
+    seen = set()
+    for r in records:
+        if r["path"] not in seen:
+            seen.add(r["path"])
+            paths.append((unit_order(r["unit"]), r["unit"], r["path"]))
+    paths.sort()
+
+    # Words the book also uses in lowercase. "Direct", "Control" and "Behind"
+    # open sentences; "Deepa" and "Hannah" never appear lowercase anywhere. A
+    # candidate is rejected only when both signals agree, so a real given name
+    # that happens to open a sentence still counts.
+    lowercase_vocab: set[str] = set()
+    for _order, _unit, path in paths:
+        for word in re.findall(r"[A-Za-z']+", (REPO_ROOT / path).read_text(encoding="utf-8")):
+            if word[0].islower():
+                lowercase_vocab.add(word.lower())
+
+    surname_hits: dict[str, int] = defaultdict(int)
+    ranks: dict[str, dict[str, dict]] = defaultdict(dict)
+    givens: dict[str, dict[str, dict]] = defaultdict(dict)
+
+    for _order, unit, path in paths:
+        for lineno, raw in enumerate(
+            (REPO_ROOT / path).read_text(encoding="utf-8").splitlines(), start=1
+        ):
+            for m in FULL_NAME.finditer(raw):
+                rank, given, surname = m.group(1), m.group(2), m.group(3)
+                if surname in RANKS or surname in NOT_A_SURNAME:
+                    continue
+                surname_hits[surname] += 1
+                where = {"unit": unit, "path": path, "line": lineno,
+                         "value": m.group(0),
+                         "context": raw.strip()[:90]}
+                if rank:
+                    ranks[surname].setdefault(rank, where)
+                positional = (
+                    _sentence_initial(raw, m) and given.lower() in lowercase_vocab
+                ) if given else False
+                if (given and given not in RANKS
+                        and given not in NOT_A_GIVEN_NAME and not positional):
+                    givens[surname].setdefault(given, where)
+
+    checked = 0
+    for surname in sorted(surname_hits):
+        if surname_hits[surname] < min_count:
+            continue
+        checked += 1
+        for label, table in (("given name", givens), ("rank", ranks)):
+            variants = dict(table.get(surname, {}))
+            if label == "rank":
+                # A longer form that contains a shorter one is the same rank
+                # written out: "Special Agent" is not a second rank for "Agent".
+                for short in sorted(variants, key=len):
+                    for long in [v for v in variants if v != short]:
+                        if long.endswith(short):
+                            variants.pop(long, None)
+            if len(variants) > 1:
+                shown = ", ".join(f"{v!r}" for v in sorted(variants))
+                findings.add(
+                    "R9",
+                    "review",
+                    f"{surname!r} appears with {len(variants)} {label}s: {shown}",
+                    [cite(w) for _, w in sorted(variants.items())],
+                )
+    return checked
+
+
+# --------------------------------------------------------------------------
 # R8: first-mention index
 # --------------------------------------------------------------------------
 
@@ -649,8 +831,10 @@ def rule_r8(records: list[dict]) -> dict[str, dict]:
 # --------------------------------------------------------------------------
 
 def main() -> None:
+    global PROFILE, CLOCK, SCENE_TIME, INLINE_TIME, ZONE_CANON
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--index", type=Path, default=DEFAULT_INDEX)
+    add_book_argument(parser)
+    parser.add_argument("--index", type=Path, default=None)
     parser.add_argument("--json", type=Path, help="write full findings as JSON")
     parser.add_argument(
         "--chronology",
@@ -660,8 +844,17 @@ def main() -> None:
     parser.add_argument("--rule", action="append", help="run only these rules")
     args = parser.parse_args()
 
+    PROFILE = profile(args.book)
+    CLOCK = _clock_re(PROFILE)
+    SCENE_TIME = _scene_time_re(PROFILE)
+    INLINE_TIME = _inline_time_re(PROFILE)
+    ZONE_CANON = PROFILE.zone_canon()
+    if args.index is None:
+        args.index = PROFILE.index_path
+
     if not args.index.exists():
-        print(f"Missing {args.index}. Run tools/extract_book1_detail_index.py first.", file=sys.stderr)
+        print(f"Missing {args.index}. Run tools/extract_book1_detail_index.py "
+              f"--book {PROFILE.number} first.", file=sys.stderr)
         raise SystemExit(2)
 
     index = json.loads(args.index.read_text(encoding="utf-8"))
@@ -687,20 +880,24 @@ def main() -> None:
         counts["R6"] = rule_r6(records, findings)
     if enabled("R7"):
         counts["R7"] = rule_r7(records, findings)
+    if enabled("R9"):
+        counts["R9"] = rule_r9(records, findings)
     first_mentions = rule_r8(records) if enabled("R8") else {}
 
     labels = {
-        "R1": "EDT/IST offset pairs checked",
+        "R1": f"{PROFILE.zone_pair[0]}/{PROFILE.zone_pair[1]} offset pairs checked"
+               if PROFILE.zone_pair else "cross-zone offset pairs checked",
         "R2": "chapter-ordered timestamps checked",
         "R3": "countdown values checked",
         "R4": "sub-second timestamps checked",
         "R5": "distinct designators checked",
         "R6": "recurring entity names checked",
         "R7": "anchored-fact statements checked",
+        "R9": "recurring surnames checked for one given name and one rank",
     }
 
     hard_failures = 0
-    for rule in ("R1", "R2", "R3", "R4", "R5", "R6", "R7"):
+    for rule in ("R1", "R2", "R3", "R4", "R5", "R6", "R7", "R9"):
         if rule not in counts:
             continue
         items = findings.for_rule(rule)
@@ -719,9 +916,16 @@ def main() -> None:
 
     if args.chronology and getattr(rule_r2, "scenes", None):
         lines = [
-            "# Book 1 chronology derived from the accepted prose",
+            # Book 1's heading is reproduced verbatim: its chronology is a
+            # committed artifact that CI diffs byte for byte.
+            "# Book 1 chronology derived from the accepted prose"
+            if PROFILE.number == 1
+            else f"# Book {PROFILE.number} chronology derived from the prose",
             "",
-            "Generated by `tools/check_book1_detail_rules.py --chronology`.",
+            "Generated by `tools/check_book1_detail_rules.py --chronology`."
+            if PROFILE.number == 1
+            else f"Generated by `tools/check_book1_detail_rules.py --book "
+                 f"{PROFILE.number} --chronology`.",
             "",
             "`Stated` is a date the prose names in a scene header. `Derived` is the",
             "date implied by counting midnights from the first stated date. Where the",

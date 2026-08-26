@@ -45,7 +45,7 @@ No material contradiction was found. The authorities could be satisfied together
 2. Authorized title: THE MISSING ARCHITECT.
 3. Authorized POV sequence: Julie O'Donnell / the scientist / Julie O'Donnell / Julie O'Donnell.
 4. Narrative requirements: close third-person limited, one consciousness per scene, bounded knowledge, publication-quality contemporary geopolitical techno-thriller prose.
-5. Opening state: Wednesday, June 23, 2027, 15:00 PDT, in a counsel-controlled Canadian family-interview room. Julie attends under Superintendent Deepa Dhaliwal's authority. The daughter controls access to her phone and the family's private materials.
+5. Opening state: Wednesday, June 23, 2027, 15:00 PDT, in a counsel-controlled Canadian family-interview room. Julie attends under Inspector Amrita Dhaliwal's authority. The daughter controls access to her phone and the family's private materials.
 6. Chapter 1 carry-forward: the Canadian record asserts a protected transfer; no corresponding acceptance was found in the two named American repositories within the authorized window; the result is a bounded custody gap, not proof of universal non-receipt, abduction, captivity, destination, recipient, intent, or sponsorship.
 7. Chapter objective: test ordinary explanations for the scientist's absence, establish the family's source-control conditions, show the scientist alive under coercive pressure without identifying captors or location, and negotiate a bounded acquisition path that preserves source custody.
 8. Locked structure: four scenes.
@@ -55,7 +55,7 @@ No material contradiction was found. The authorities could be satisfied together
    - Scene 4, "The Phone Stays in Her Hand," Julie POV, 16:35–17:10, authorized range 550–625 words.
 9. Required evidence and record objects: the bounded liaison return concerning the two authorized repositories; the daughter's phone; the disclosed voicemail; the potential consent-selected map artifact; the family's missed-obligations list; the scientist's legitimate platform records; the portable-dependency-model task sheet; source-version identifiers, provenance fields, confidence boundaries, and checksums.
 10. Required actions: voluntary family interview; source and consent boundaries stated before substantive questioning; ordinary-absence testing; source-attributed family observations; preservation of original custody; scientist construction of a bounded, traceable dependency model under coercion; negotiation of a neutral Canadian acquisition procedure.
-11. Required characters: Julie O'Donnell, Superintendent Deepa Dhaliwal, the scientist's adult daughter, the scientist's former spouse, family counsel, the scientist, and unnamed personnel controlling the scientist.
+11. Required characters: Julie O'Donnell, Inspector Amrita Dhaliwal, the scientist's adult daughter, the scientist's former spouse, family counsel, the scientist, and unnamed personnel controlling the scientist.
 12. Prohibited appearances: Elias Thorne, Marcus Reed, any unapproved antagonist identity, and any additional POV.
 13. Authorized knowledge states:
     - Julie knows the accepted Chapter 1 custody gap, the bounded American repository search, the family's statements, and only the evidence lawfully disclosed in her scene. She does not know the scientist's current location or the events in the scientist POV.

@@ -94,9 +94,9 @@ The exact next workstream is Book 2 Chapter 2 Formal Acceptance and Revision Rev
 **Status:** DRAFT COMPLETE — PENDING FORMAL ACCEPTANCE
 
 - Manuscript: `manuscript/chapter-02.md` — Chapter 2: The Missing Architect
+- Correction applied before acceptance: the RCMP lead is `Inspector Amrita Dhaliwal`, matching accepted Chapter 1. See `11-continuity-tooling-and-first-findings.md`.
 - Drafting record: `10-chapter-02-drafting-authorization.md`
-- Final prose count: 2,870 words.
-- Scene counts: 675 / 917 / 724 / 554.
+- Final prose count: 2,875 words, by the method locked in `tools/count_book2_words.py`.
 - POV: Julie O'Donnell / scientist / Julie O'Donnell / Julie O'Donnell.
 - Timeline: Wednesday, June 23, 2027, 15:00–17:10 PDT.
 - Drive readback: completed.

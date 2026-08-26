@@ -16,7 +16,7 @@ At three o’clock, the scientist’s daughter placed her phone face down on the
 
 The gesture settled the first question before anyone asked it.
 
-The room belonged to family counsel, not the commission. Frosted glass shut out the corridor. A carafe of water, four untouched glasses, and a yellow legal pad had been arranged with the careful neutrality of a place where every sentence might later acquire an exhibit number. Deepa Dhaliwal sat at the daughter’s left. The scientist’s former spouse occupied the chair nearest the door. Julie took the opposite side of the table, leaving the empty seat beside her for counsel.
+The room belonged to family counsel, not the commission. Frosted glass shut out the corridor. A carafe of water, four untouched glasses, and a yellow legal pad had been arranged with the careful neutrality of a place where every sentence might later acquire an exhibit number. Amrita Dhaliwal sat at the daughter’s left. The scientist’s former spouse occupied the chair nearest the door. Julie took the opposite side of the table, leaving the empty seat beside her for counsel.
 
 Her right wrist was still locked in the brace. She set her notebook square to her left hand and slid the pen out with her thumb rather than reaching across the table.
 
@@ -30,7 +30,7 @@ Counsel started the recorder only after the daughter nodded.
 
 The daughter looked at Julie. “You’re the American analyst.”
 
-“I’m attending under Superintendent Dhaliwal’s authority. I don’t have search, seizure, or compulsory interview powers here.”
+“I’m attending under Inspector Dhaliwal’s authority. I don’t have search, seizure, or compulsory interview powers here.”
 
 “That wasn’t my question.”
 

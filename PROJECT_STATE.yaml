@@ -84,8 +84,8 @@ book_2:
   target_words_max: 112000
   narrative_units_planned: 38
   narrative_units_existing: 2
-  accepted_words: 2712
-  drafted_words: 5582
+  accepted_words: 2722
+  drafted_words: 5597
   accepted_units:
     - "chapter-01 — A Written Boundary"
   drafted_pending_acceptance:
@@ -93,6 +93,8 @@ book_2:
   story_opens: "2027-06-23, Interior British Columbia"
   decisions_locked: "001-149"
   next_workstream: "Book 2 Chapter 2 Formal Acceptance and Revision Review"
+  continuity_tooling: "books/book-02/control/11-continuity-tooling-and-first-findings.md"
+  continuity_tooling_installed: "2026-08-26"
   migration_complete: true
   migration_note: "All fourteen Book 2 documents present in Drive were imported. One cited document, 05 - Book 2 Act Architecture, does not exist; see conflict BC-04."
   open_conflicts:
